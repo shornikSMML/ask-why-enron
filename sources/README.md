@@ -12,7 +12,7 @@ This folder holds the **primary sources** the agents may rely on. They are mostl
 | `02-bankruptcy-examiner` | Batson examiner reports (first interim, final). Second and third interim reports and the final-report appendices are listed but are **not on the open web** | Court-appointed deep dive into the accounting and the banks' role (prepays, FAS 140 transactions) |
 | `03-sec-filings` | 2000 10-K, Q3 2001 10-Q, Nov 8 2001 restatement 8-K and its press release, Nov 9 2001 Dynegy merger 8-K | What Enron *told* investors. Compare with what the investigations found |
 | `04-sec-enforcement` | SEC complaints (Fastow, Kopper, Skilling/Causey, Lay, Glisan, Merrill Lynch, Duncan of Andersen); JPM/Citi settlement; SEC's Enron index page | Allegations as the regulator framed them; the auditor and the banks as defendants |
-| `05-hearings-enron` | 16 congressional hearings, Jan–Jul 2002 (now including Senate Judiciary and the Senate HELP pension hearing), plus GAO's pension testimony | Sworn testimony: Watkins, Skilling, McMahon, Powers, Berardino (Andersen), Pitt (SEC), analysts, bankers, board members; Lay taking the Fifth |
+| `05-hearings-enron` | 17 congressional hearings, Jan–Jul 2002 (now including the Jan 24 Andersen document-destruction hearing, Senate Judiciary and the Senate HELP pension hearing), plus GAO's pension testimony | Sworn testimony: Watkins, Skilling, McMahon, Powers, Berardino (Andersen), Pitt (SEC), analysts, bankers, board members; Lay taking the Fifth |
 | `06-congressional-reports` | Senate PSI board report; Governmental Affairs report on the SEC and the private-sector watchdogs; PSI "Fishtail, Bacchus, Sundance, and Slapshot" report on the banks; Joint Committee on Taxation Enron report | Congress's findings after the hearings |
 | `07-sox-legislative-history` | Senate Banking "Accounting Reform and Investor Protection" hearings (3 vols.); House Financial Services CARTA hearings (Serial 107-60); S. Rept. 107-205; H. Rept. 107-414 (Oxley's CARTA bill); H. Rept. 107-610 (conference report); Pitt's CARTA testimony; CRS summary; President Bush's signing remarks and signing statement | **The public hearings behind SOX.** How Congress got from Enron to the PCAOB and auditor independence rules |
 | `08-sox-law-pcaob-profession` | Sarbanes-Oxley Act text (PDF + HTML); GAO studies on accounting-firm consolidation; SEC orders of April 25, 2003 declaring the PCAOB ready and adopting its interim standards; SEC Sec. 704 enforcement study | The law itself, and GAO's account of the move from the Big 5 to the Big 4 |
@@ -48,6 +48,8 @@ These are real people. Most are still living. Some were convicted and some were 
 ## Status column
 
 - `to-download`: URL listed; the script will fetch it.
+- `uploaded-manually`: we have the file (added to the repo by hand) but didn't record its web address. The notes give the likely address to confirm.
+- `to-find`: known to exist, not found yet. The notes suggest where to look.
 - `not-online`: no free public copy found. The notes say where to get it (usually PACER, In re Enron Corp., Bankr. S.D.N.Y. No. 01-16034, or the University of Pennsylvania's Biddle Law Library, collection NBA.049).
 - A few URLs were built from govinfo.gov's standard pattern instead of seen directly; their notes say "verify". The download log will show if one fails.
 
@@ -59,9 +61,19 @@ These are real people. Most are still living. Some were convicted and some were 
 - Correction to the pass-1 note: the prepay analysis is **Appendix E of the Second Interim Report**, not Appendix D. (Appendix D covers Enron's disclosure of its SPEs.)
 - Found Batson's full appendix list via Penn's finding aid. Useful ones: Second Interim App. E (prepays), M (FAS 140), Q (impact of the six accounting techniques); Third Interim App. C (Enron officers), D (Citigroup), E (JPMorgan); Final Report App. B (Andersen), D (Lay, Skilling, outside directors).
 
+## Batson reports: which copy to use
+
+The Final Report's court docket number is 14455 (the interim reports are 6615, 9551, and 11960). bankrupt.com names its copies by that number, e.g. `14455AppendixE.pdf`.
+
+Use the **clean court scans** from bankrupt.com. Do **not** cite the ConcernedShareholders.com copy of the Final Report: the text is genuine, but an advocacy site added 56 highlights and 63 comments, and an agent could mistake those comments for the examiner's findings.
+
+Three different Batson reports each have an "Appendix E". Always name the report as well as the letter: Second Interim App. E = prepays; Third Interim App. E = JPMorgan Chase; Final App. E = RBS.
+
+The bankrupt.com copies are image-only scans, with no text layer, so agents can't search them until they are run through OCR.
+
 ## Still to find (next pass)
 
-- Batson second and third interim reports and final-report appendices (PACER or Penn; not free online)
+- Batson second and third interim reports, and Final Report Appendices B (Andersen), F (CSFB) and G (Toronto Dominion). PACER or Penn; not found free online
 - Senate Judiciary: "Penalties for White Collar Crime" (S.Hrg. 107-923, June–July 2002), which fed SOX's criminal provisions
 - PCAOB's first auditing standard (AS No. 1, 2003) and first inspection reports of the Big 4
 - DOJ outcomes for Fastow and Kopper (plea agreements) and Andersen's 2002 obstruction verdict, to support the fact-checker's "how did it end" checks

@@ -69,6 +69,8 @@ Use the **clean court scans** from bankrupt.com. Do **not** cite the ConcernedSh
 
 Three different Batson reports each have an "Appendix E". Always name the report as well as the letter: Second Interim App. E = prepays; Third Interim App. E = JPMorgan Chase; Final App. E = RBS.
 
+**bankrupt.com can't be downloaded by the GitHub action** (its security certificate fails there, error `CERTIFICATE_VERIFY_FAILED`), so files from that site are uploaded by hand under their manifest names. The manifest still lists bankrupt.com as their source, because that is where they came from.
+
 The bankrupt.com copies are image-only scans, with no text layer, so agents can't search them until they are run through OCR.
 
 ## Still to find (next pass)

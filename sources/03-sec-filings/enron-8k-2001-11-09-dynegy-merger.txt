@@ -1,0 +1,185 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>h92082e8-k.txt
+<DESCRIPTION>ENRON CORP. - NOVEMBER 9, 2001
+<TEXT>
+<PAGE>
+                     UNITED STATES SECURITIES AND EXCHANGE
+                                   COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+
+                        Pursuant to Section 13 or 15(d)
+                     of the Securities Exchange Act of 1934
+
+                        Date of Report: November 9, 2001
+
+
+                         Commission File Number 1-13159
+
+                                  ENRON CORP.
+             (Exact name of registrant as specified in its charter)
+
+
+           Oregon                                     47-0255140
+-------------------------------            -------------------------------
+(State or other jurisdiction of            (I.R.S. Employer Identification
+incorporation or organization)                      Number)
+
+
+        Enron Building
+      1400 Smith Street
+       Houston, Texas                                  77002
+-------------------------------            -------------------------------
+(Address of principal executive                     (Zip Code)
+         Offices)
+
+                                 (713) 853-6161
+              ----------------------------------------------------
+              (Registrant's telephone number, including area code)
+
+
+<PAGE>
+
+                                  ENRON CORP.
+
+Item 5.  Other Events.
+
+     On November 9, 2001, Enron Corp. and Dynergy Inc. issued a press release
+announcing the proposed merger of the two companies and related financing
+transactions. That press release is filed as Exhibit 99.1 hereto. Also filed as
+exhibits to this report are the material agreements relating to these
+transactions to which Enron or its subsidiaries are party.
+
+
+
+
+
+<PAGE>
+
+Item 7.  Exhibits.
+
+         (c) Exhibits.
+
+         99.1     Press Release issued on November 9, 2001
+
+         99.2     Agreement and Plan of Merger among Dynegy Inc., Stanford,
+                  Inc., Sorin, Inc., Badin, Inc. and Enron Corp. dated as of
+                  November 9, 2001
+
+         99.3     Agreement among Dynegy Inc., Enron Corp. and ChevronTexaco
+                  Corporation dated as of November 9, 2001
+
+         99.4     Shareholder Agreement dated as of November 9, 2001 by and
+                  among Dynegy Inc., Enron Corp. and Chevron U.S.A. Inc.
+
+         99.5     Shareholder Agreement dated as of November 9, 2001 by and
+                  between Enron Corp. and Charles L. Watson
+
+         99.6     Stockholder Agreement dated as of November 9, 2001 by and
+                  among Stanford, Inc., Dynegy Inc., Enron Corp. and Chevron
+                  U.S.A. Inc.
+
+         99.7     Subscription Agreement dated as of November 9, 2001 by and
+                  among Enron Corp., Northern Natural Gas Company and Dynegy
+                  Inc.
+
+         99.8     Certificate of Designations of Series A Preferred Stock of
+                  Northern Natural Gas Company
+
+         99.9     Certificate of Correction of Certificate of Designations of
+                  Series A Preferred Stock of Northern Natural Gas Company
+
+         99.10    Exchange Agreement dated as of November 9, 2001 by and between
+                  Dynegy Inc. and Enron Corp.
+
+         99.11    Option Agreement dated as of November 9, 2001 by and among
+                  CGNN Holding Company, Inc., MCTJ Holding Co. LLC, Enron Corp.,
+                  Dynegy Holdings Inc. and, solely for the provisions of Section
+                  5.1 thereof, Dynegy Inc.
+
+         99.12    Purchase Option Agreement dated as of November 9, 2001 by and
+                  among CGNN Holding Company, Inc., MCTJ Holding Co. LLC,
+                  Northern Natural Gas Company, Enron Corp., Dynegy Holdings,
+                  Inc., and Dynegy Inc.
+
+         99.13    Registration Rights Agreement dated as of November 9, 2001 by
+                  and between Enron Corp. and Dynegy Inc.
+
+
+
+
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                   ENRON CORP.
+
+
+Date:  November 14, 2001           By: /s/ RICHARD A. CAUSEY
+                                      --------------------------------------
+                                           Richard A. Causey
+                                           Executive Vice President and Chief
+                                             Accounting Officer
+                                             (Principal Accounting Officer)
+<PAGE>
+                               INDEX TO EXHIBITS
+
+
+ NO.                            DESCRIPTION
+----                            -----------
+
+99.1     Press Release issued on November 9, 2001
+
+99.2     Agreement and Plan of Merger among Dynegy Inc., Stanford, Inc., Sorin,
+         Inc., Badin, Inc. and Enron Corp. dated as of November 9, 2001
+
+99.3     Agreement among Dynegy Inc., Enron Corp. and ChevronTexaco
+         Corporation dated as of November 9, 2001
+
+99.4     Shareholder Agreement dated as of November 9, 2001 by and among Dynegy
+         Inc., Enron Corp. and Chevron U.S.A. Inc.
+
+99.5     Shareholder Agreement dated as of November 9, 2001 by and between Enron
+         Corp. and Charles L. Watson
+
+99.6     Stockholder Agreement dated as of November 9, 2001 by and among
+         Stanford, Inc., Dynegy Inc., Enron Corp. and Chevron U.S.A. Inc.
+
+99.7     Subscription Agreement dated as of November 9, 2001 by and among Enron
+         Corp., Northern Natural Gas Company and Dynegy Inc.
+
+99.8     Certificate of Designations of Series A Preferred Stock of Northern
+         Natural Gas Company
+
+99.9     Certificate of Correction of Certificate of Designations of Series A
+         Preferred Stock of Northern Natural Gas Company
+
+99.10    Exchange Agreement dated as of November 9, 2001 by and between Dynegy
+         Inc. and Enron Corp.
+
+99.11    Option Agreement dated as of November 9, 2001 by and among CGNN Holding
+         Company, Inc., MCTJ Holding Co. LLC, Enron Corp., Dynegy Holdings Inc.
+         and, solely for the provisions of Section 5.1 thereof, Dynegy Inc.
+
+99.12    Purchase Option Agreement dated as of November 9, 2001 by and among
+         CGNN Holding Company, Inc., MCTJ Holding Co. LLC, Northern Natural Gas
+         Company, Enron Corp., Dynegy Holdings, Inc., and Dynegy Inc.
+
+99.13    Registration Rights Agreement dated as of November 9, 2001 by and
+         between Enron Corp. and Dynegy Inc.
+
+
+
+
+</TEXT>
+</DOCUMENT>

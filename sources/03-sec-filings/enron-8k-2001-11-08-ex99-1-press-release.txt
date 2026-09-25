@@ -1,0 +1,141 @@
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>h91831ex99-1.txt
+<DESCRIPTION>PRESS RELEASE DATED NOVEMBER 8, 2001
+<TEXT>
+<PAGE>
+[ENRON LOGO]                                           Enron
+                                                       P.O.Box 1188
+                                                       Houston, TX 77251-1188
+
+
+
+
+
+                                                       Mark Palmer
+                                                       (713) 853-4738
+
+ENRON PROVIDES ADDITIONAL INFORMATION ABOUT RELATED PARTY AND OFF-BALANCE SHEET
+-------------------------------------------------------------------------------
+TRANSACTIONS; COMPANY TO RESTATE EARNINGS FOR 1997-2001
+-------------------------------------------------------
+
+FOR IMMEDIATE RELEASE:  Thursday, Nov. 8, 2001
+
+         HOUSTON - Enron Corp. (NYSE: ENE) today provided additional
+information about various related party and off-balance sheet transactions in
+which the company was involved. The information was posted today on the
+company's website at www.enron.com/corp/sec and also made available in a Form
+8-K Report filed today with the Securities and Exchange Commission (SEC).
+
+         Specifically, Enron's filing provides information about:
+
+         o    a required restatement of prior period financial statements to
+              reflect the previously disclosed $1.2 billion reduction to
+              shareholders' equity, as well as various income statement and
+              balance sheet adjustments required as the result of a
+              determination by Enron and its auditors, based on current
+              information, that certain off-balance sheet entities should have
+              been included in Enron's consolidated financial statements
+              pursuant to generally accepted accounting principles;
+
+         o    the restatement of its financial statements for 1997 through 2000
+              and the first two quarters of 2001. As a result, financial
+              statements for these periods and the audit reports relating to
+              the year-end financial statements for 1997 through 2000 should
+              not be relied upon;
+
+         o    the accounting basis for the above-mentioned reduction to
+              shareholders' equity;
+
+
+<PAGE>
+
+
+
+
+
+         o    the special committee appointed by the Enron Board of Directors
+              to review transactions between Enron and related parties;
+
+         o    information regarding the two LJM limited partnerships formed by
+              Enron's then Chief Financial Officer, his role in the
+              partnerships, the business relationships and transactions between
+              Enron and the partnerships, and the economic results of those
+              transactions as known thus far; and
+
+         o    transactions between Enron and certain other Enron employees.
+
+         "We believe that the information we have made available addresses a
+number of the concerns that have been raised by our shareholders and the SEC
+about these matters," said Ken Lay, Enron Chairman and CEO. "We will continue
+our efforts to respond to investor requests for information about our
+operational and financial condition so they can evaluate, appreciate and
+appropriately value the strength of our core businesses."
+
+Restatement of Earnings
+-----------------------
+
+         As further described on Enron's website, and its Form 8-K Report,
+Enron will restate prior years' financial statements to reflect its review of
+current information concerning the transactions discussed below. After taking
+into account Enron's previously disclosed adjustment to shareholders' equity in
+the third quarter of 2001, these restatements have no effect on Enron's current
+financial position.
+
+Based on this review, Enron has determined that:
+
+         o    the financial activities of Chewco Investments, L.P. (Chewco), a
+              related party which was an investor in Joint Energy Development
+              Investments Limited Partnership (JEDI), should have been
+              consolidated beginning in November 1997;
+<PAGE>
+         o    the financial activities of JEDI in which Enron was an investor
+              and which was consolidated into Enron's financial statements
+              during the first quarter of 2001, should have been consolidated
+              beginning in 1997; and
+
+         o    the financial activities of a wholly-owned subsidiary of LJM1,
+              which engaged in structured transactions with Enron that were
+              designed to permit Enron to mitigate market risks of an equity
+              investment in Rhythms NetConnections, Inc., should have been
+              consolidated into Enron's financial statements beginning in 1999.
+
+         Enron's current assessment indicates that the restatement will include
+a reduction to reported net income of approximately $96 million in 1997, $113
+million in 1998, $250 million in 1999 and $132 million in 2000, increases of
+$17 million for the first quarter of 2001 and $5 million for the second quarter
+and a reduction of $17 million for the third quarter of 2001. These changes to
+net income are the result of the retroactive consolidation of JEDI and Chewco
+beginning in November 1997, the consolidation of the LJM1 subsidiary for 1999
+and 2000 and prior year proposed audit adjustments. The consolidation of JEDI
+and Chewco also will increase Enron's debt by approximately $711 million in
+1997, $561 million in 1998, $685 million in 1999 and $628 million in 2000. The
+restatement will have no negative impact on Enron's reported earnings for the
+nine month period ending Sept. 2001.
+
+         Enron is one of the world's leading energy, commodities and services
+companies. The company markets electricity and natural gas, delivers energy and
+other physical commodities, and provides financial and risk management services
+to customers around the world. Enron's Internet address is www.enron.com. The
+stock is traded under the ticker symbol "ENE."
+
+This press release includes forward-looking statements within the meaning of
+Section 27A of the Securities Act of 1933 and Section 21E of the Securities
+Exchange Act of 1934. The Private Securities Litigation Reform Act of 1995
+provides a safe harbor for forward-looking statements made by Enron or on its
+behalf. These forward-looking statements are not historical facts, but reflect
+Enron's current expectations, estimates and projections. All statements
+contained in this press release which address future operating performance,
+events or developments that are expected to occur in the future (including
+statements relating to earnings expectations) are forward-looking statements.
+Important factors that could cause actual results to differ materially from
+those in the forward-looking statements herein include results of the Special
+Committee's review and results of the S.E.C. investigation.
+
+                                      ###
+
+
+</TEXT>
+</DOCUMENT>

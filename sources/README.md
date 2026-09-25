@@ -63,7 +63,7 @@ These are real people. Most are still living. Some were convicted and some were 
 
 ## Batson reports: which copy to use
 
-The Final Report's court docket number is 14455 (the interim reports are 6615, 9551, and 11960). bankrupt.com names its copies by that number, e.g. `14455AppendixE.pdf`.
+The Final Report's court docket number is 14455 (the interim reports are 6615, 9551, and 11960). bankrupt.com names its copies by that number, e.g. `14455AppendixE.pdf`. The site's operator confirmed the full file list in Sept 2026: the Final Report, Appendices A, C through G, and Appendix B in two parts (`14455AppendixBPart1.pdf`, `14455AppendixBPart2.pdf`). The complete Final Report set is available there.
 
 Use the **clean court scans** from bankrupt.com. Do **not** cite the ConcernedShareholders.com copy of the Final Report: the text is genuine, but an advocacy site added 56 highlights and 63 comments, and an agent could mistake those comments for the examiner's findings.
 
@@ -73,7 +73,7 @@ The bankrupt.com copies are image-only scans, with no text layer, so agents can'
 
 ## Still to find (next pass)
 
-- Batson second and third interim reports, and Final Report Appendices B (Andersen), F (CSFB) and G (Toronto Dominion). PACER or Penn; not found free online
+- Batson second and third interim reports (PACER or Penn; not found free online)
 - Senate Judiciary: "Penalties for White Collar Crime" (S.Hrg. 107-923, June–July 2002), which fed SOX's criminal provisions
 - PCAOB's first auditing standard (AS No. 1, 2003) and first inspection reports of the Big 4
 - DOJ outcomes for Fastow and Kopper (plea agreements) and Andersen's 2002 obstruction verdict, to support the fact-checker's "how did it end" checks

@@ -6,8 +6,10 @@ HOW TO RUN (from inside the sources/ folder):
 
 WHAT IT DOES, IN PLAIN ENGLISH
   1. Reads manifest.csv, one row per document.
-  2. Skips rows marked "not-online" (e.g., Batson reports that must come from PACER).
-  3. Skips any file you already have, so it is safe to run again.
+  2. If the file is already in its folder (downloaded earlier or uploaded by hand),
+     it leaves it alone and logs ALREADY HAD. So it is safe to run again.
+  3. If there is no web address, it logs SKIPPED and names the exact file it looked
+     for, so you can spot a misnamed upload.
   4. Downloads each file into its folder (01-internal-investigation, 02-..., etc.).
   5. Checks that a ".pdf" really is a PDF. Government sites sometimes send back
      an error page instead of the file; those get flagged "CHECK".
@@ -77,13 +79,14 @@ def main():
         entry = {"id": row["id"], "file": f"{row['folder']}/{row['filename']}",
                  "result": "", "bytes": "", "sha256": "", "checked_at": "", "message": ""}
 
-        if row["status"] == "not-online" or not row["url"].strip():
-            entry["result"] = "SKIPPED"
-            entry["message"] = "not available online - see notes in manifest"
-            print(f"{label}: skipped (not online)")
-        elif dest.exists() and dest.stat().st_size > 0:
+        if dest.exists() and dest.stat().st_size > 0:
             entry["result"] = "ALREADY HAD"
-            print(f"{label}: already downloaded")
+            print(f"{label}: already in the repo")
+        elif row["status"] == "not-online" or not row["url"].strip():
+            entry["result"] = "SKIPPED"
+            entry["message"] = (f"no web address, and no file named {row['filename']} "
+                                f"in {row['folder']} - upload it by hand with exactly that name")
+            print(f"{label}: skipped (no web address, file not found)")
         else:
             try:
                 req = urllib.request.Request(row["url"], headers={"User-Agent": CONTACT})
@@ -93,7 +96,8 @@ def main():
                 print(f"{label}: downloaded")
             except Exception as e:
                 entry["result"] = "FAILED"
-                entry["message"] = str(e)[:200]
+                entry["message"] = (f"{str(e)[:150]} | also no file named {row['filename']} "
+                                    f"in {row['folder']}; if the site blocks GitHub, upload it by hand with that name")
                 print(f"{label}: FAILED - {e}")
             time.sleep(PAUSE_SECONDS)
 

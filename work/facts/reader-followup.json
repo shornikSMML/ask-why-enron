@@ -1,0 +1,363 @@
+[
+  {
+    "id": "F-001",
+    "topic": "Watkins letter: PSI staff quotation (Skilling's departure)",
+    "claim": "The Senate subcommittee staff report quotes the letter Sherron Watkins wrote to Kenneth Lay the day after Jeffrey Skilling resigned, warning that his sudden departure would raise suspicions about Enron's accounting.",
+    "quote": "Sherron Watkins wrote, ‘‘Skilling’s abrupt departure will raise suspicions of accounting improprieties and valuation issues. . . . The spotlight will be on us, the market just can’t accept that Skilling is leaving his dream job.’’",
+    "source_id": "rpt-psi-board",
+    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "locator": {
+      "pdf_page": 16,
+      "printed_page": "p. 12",
+      "section": "Background (red flags in 2001), n. 18",
+      "lines": "work/text/rpt-psi-board.txt 853-857"
+    },
+    "source_type": "congressional staff report",
+    "verb": "stated",
+    "people": [
+      "Sherron Watkins",
+      "Kenneth Lay",
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2001-08-15",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The report dates the letter 8/15/01 (n. 18) and reprints it as Appendix 2 (see F-004). The report's '. . .' omits letter text between the two sentences. Text-layer PDF (not OCR). Wording matches the reprinted letter image (Appendix 2, printed p. 57)."
+  },
+  {
+    "id": "F-002",
+    "topic": "Watkins letter: PSI Finding 4 quotations (implode; Raptor and Condor)",
+    "claim": "The Senate subcommittee staff found that the outside directors never saw Watkins's letter before Enron began to collapse; had they seen it, they would have learned she told Lay in mid-August 2001 that she feared Enron would 'implode' in accounting scandals and that its accounting was 'very aggressive,' especially the Raptor and Condor deals.",
+    "quote": "Ms. Watkins had told Mr. Lay in mid-August that she was ‘‘incredibly nervous that [Enron] will implode in a wave accounting scandals’’; that ‘‘Enron has been very aggressive in its accounting—most notably the Raptor transactions and the Condor vehicle’’",
+    "source_id": "rpt-psi-board",
+    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "locator": {
+      "pdf_page": 49,
+      "printed_page": "p. 45 (continues p. 46)",
+      "section": "Finding (4), discussion of the Raptors and the Oct. 2001 Board meeting; n. 156",
+      "lines": "work/text/rpt-psi-board.txt 2977-3003, 3031-3033"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [
+      "Sherron Watkins",
+      "Kenneth Lay"
+    ],
+    "event_date": "2001-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "WORDING DISCREPANCY: the staff report's quotation reads 'a wave accounting scandals' (the word 'of' is missing and '[Enron]' replaces 'we'). The letter itself, reprinted as Appendix 2 (printed p. 57, PDF 61, checked against the image), reads 'I am incredibly nervous that we will implode in a wave of accounting scandals.' Writers should quote the letter itself (F-004), not this version. n. 156 explains that the 'Condor vehicle' refers to Whitewing and the Osprey debt certificates. Same passage: interviewed directors said officers referred to the letter at the October 2001 Board meeting as coming from an anonymous employee, and Lay 'apparently did not disclose' its Raptor and accounting concerns to fellow directors (staff finding, based on director interviews)."
+  },
+  {
+    "id": "F-003",
+    "topic": "Watkins letter: PSI Finding 4 quotations (disclosure; footnotes)",
+    "claim": "The Senate subcommittee staff report quotes Watkins's warning that Enron's related-party footnote did not adequately explain the transactions, and that an investor who understood them would know the entities were thinly capitalized and backed by Enron stock.",
+    "quote": "My concern is that the footnotes don’t adequately explain the transactions. If adequately explained, the investor would know that the ‘‘Entities’’ described in our related party footnote are thinly capitalized, the equity holders have no skin in the game",
+    "source_id": "rpt-psi-board",
+    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "locator": {
+      "pdf_page": 52,
+      "printed_page": "p. 48",
+      "section": "Finding (4), 'Inadequate Public Disclosure'; nn. 162-163",
+      "lines": "work/text/rpt-psi-board.txt 3131-3163"
+    },
+    "source_type": "congressional staff report",
+    "verb": "stated",
+    "people": [
+      "Sherron Watkins"
+    ],
+    "event_date": "2001-08-15",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Also quoted on this page: 'None of that will protect Enron if these transactions are ever disclosed in the bright light of day.' SMALL DISCREPANCY: the staff report's block quote begins 'The overriding principle of accounting...'; the letter image (App. 2, printed p. 58, PDF 62) reads 'The overriding basic principle of accounting...'. The report also replaces 'AA&Co.' with '[Andersen]'. Directly relevant to the Footnote page: Watkins refers to 'our related party footnote'. The staff then compares the one-page related-party footnotes (Footnote 16) in the 1999 and 2000 10-Ks with the nine-page description in the Q3 2001 10-Q, calling the 2000 footnote 'nearly unintelligible' (same page)."
+  },
+  {
+    "id": "F-004",
+    "topic": "Watkins letter: full text printed in library documents",
+    "claim": "The full August 15, 2001 letter to Lay is printed as page images in three library documents: Appendix 2 of the Senate subcommittee staff report, and the exhibits to the House Energy and Commerce oversight hearings of February 14 and March 14, 2002. It opens by asking whether Enron had become a risky place to work.",
+    "quote": "Has Enron become a risky place to work? ... I am incredibly nervous that we will implode in a wave of accounting scandals.",
+    "source_id": "rpt-psi-board",
+    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "locator": {
+      "pdf_page": 61,
+      "printed_page": "pp. 57-59",
+      "section": "Appendix 2, 'Sherron Watkins’ Letter to Board Chairman Kenneth Lay (8/15/01)'",
+      "lines": "image pages; no text layer"
+    },
+    "source_type": "congressional staff report",
+    "verb": "stated",
+    "people": [
+      "Sherron Watkins",
+      "Kenneth Lay"
+    ],
+    "event_date": "2001-08-15",
+    "from_ocr": false,
+    "ocr_checked_against_image": true,
+    "notes": "The quote joins two sentences from the same page (paragraphs 1 and 6), marked with '...'; use them separately if preferred. PDF pp. 61-63 are images with no text; quotes were read directly from the page images. As printed, the letter is addressed 'Dear Mr. Lay,' and carries no signature; the report's appendix title attributes it to Watkins. Watkins testified she gave Lay 'the anonymous letter on August 15, 2001, and then the full set of memos when we met on August 22, 2001' (hrg-commerce-skilling-watkins, printed p. 87, PDF 91, text lines 5594-5596). OTHER PRINTINGS (image pages, found by OCR in scratch and confirmed against the page images): (a) hrg-hec-collapse-pt4 (Mar. 14, 2002), tab 14, printed pp. 116-118 (PDF 120-122), Bates E 68548-68550: the full three-page letter, same wording as the PSI Appendix 2. Rep. Stupak reads from this tab during the hearing ('I’m on 14'). (b) hrg-hec-collapse-pt3 (Feb. 14, 2002, the hearing where Watkins testified), tab 10, printed p. 118 (PDF 122), Bates SW(HSE&EC)0001: page 1 of the letter, same wording. (c) TWO OR MORE VERSIONS EXIST: hrg-hec-collapse-pt3 also prints a shorter version as tab 14 (printed p. 131, PDF 135, Bates SW(HSE&EC)0002). It has a handwritten note 'To Rex Rogers 8/17/01' and leaves out the opening 'risky place to work' paragraph and the sentence about 'My 8 years of Enron work history'. pt3 printed pp. 119-121 and 132-133 hold further pages or drafts whose wording differs (seen only in rough OCR, not checked word for word). hrg-hec-collapse-pt4 prints both versions again later in its exhibits: a full version at printed pp. 406-408 (PDF 410-412) and the shorter version without the opening paragraph at printed pp. 410-412 (PDF 414-416). These were seen only in rough scratch OCR and not checked against the images. Writers should quote the PSI Appendix 2 / pt4 tab 14 text and say which version they mean. Page 2 of the letter (App. 2 p. 58) has the 'Summary of alleged issues' on the Raptors. Page 3 (p. 59) ends 'Too many people are looking for a smoking gun.' No Senate Commerce hearing (hrg-commerce-skilling-watkins, hrg-commerce-lay-powers) prints the letter; they only quote phrases from it."
+  },
+  {
+    "id": "F-005",
+    "topic": "Oct. 16, 2001 earnings release: Lay's words",
+    "claim": "The bankruptcy examiner's First Interim Report quotes Enron's October 16, 2001 earnings release, in which Lay called the quarter's results 'very strong' and said Enron was 'very confident' in its earnings outlook. In the next paragraph the release disclosed $1.01 billion in after-tax 'non-recurring charges.'",
+    "quote": "Kenneth Lay, Enron’s Chairman and CEO, stated that “[o]ur 26 percent increase in recurring earnings per diluted share shows the very strong results of our core wholesale and retail energy businesses and our natural gas pipelines” and that Enron is “very confident in our strong earnings outlook.”",
+    "source_id": "batson-1st-interim",
+    "file": "sources/02-bankruptcy-examiner/batson-first-interim-report-2002-09-21.pdf",
+    "locator": {
+      "pdf_page": 4,
+      "printed_page": "p. 2",
+      "section": "I.B 'Fall 2001 Events', 'Enron’s October 16, 2001 Earnings Release'; n. 6",
+      "lines": "work/text/batson-1st-interim.txt 94-107"
+    },
+    "source_type": "examiner conclusion",
+    "verb": "stated",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "2001-10-16",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Verified word for word against the page image (PDF p. 4). The examiner is quoting Lay's words in the press release. The release itself is not in the library (Batson n. 6 cites it as Bates ELIB00002783), so cite Batson. Charges the examiner lists on the same page: $287 million (Azurix), $180 million (Broadband restructuring), $544 million (investments incl. New Power). The same paragraph says the charges produced a Q3 net loss of $618 million, then adds 'and reported net income of $292 million'. That phrase is in the image too, but its meaning is unclear. Do not use it without checking another source."
+  },
+  {
+    "id": "F-006",
+    "topic": "Enron Code of Conduct: officers' outside interests (PSI)",
+    "claim": "The Senate subcommittee staff report quotes Enron's code of conduct: no full-time officer or employee could hold an interest in an entity doing business with Enron unless it was disclosed in writing to the Chairman and CEO and he found it did not hurt Enron's best interests. The staff found that Lay approved waiving this rule for Fastow's LJM partnerships and asked the Board to ratify that decision, even though company rules did not explicitly require Board approval.",
+    "quote": "[N]o full-time officer or employee should . . . [o]wn an interest in or participate, directly or indirectly, in the profits of any other entity which does business with or is a competitor of the Company, unless such ownership or participation has been previously disclosed in writing to the Chairman of the Board",
+    "source_id": "rpt-psi-board",
+    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "locator": {
+      "pdf_page": 28,
+      "printed_page": "p. 24 (text begins p. 23)",
+      "section": "Finding (3), nn. 57-59",
+      "lines": "work/text/rpt-psi-board.txt 1575-1586, 1613-1627"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [
+      "Kenneth Lay",
+      "Andrew Fastow"
+    ],
+    "event_date": "1999",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Source of the code text: Hearing Exhibit 26, 'Conflicts of Interest, Investments, and Outside Business Interests of Officers and Employees', at 57 (n. 58). n. 57 quotes the general 'Business Ethics' rule from the same exhibit (7/00) at 12. DISAGREEMENT: n. 59 notes that at the hearing directors Winokur and Jaedicke 'contended that the Board did not actually ‘‘waive’’ the company’s code of conduct, but ‘‘applied’’ it'. The staff answers that all three LJM presentations explicitly asked for a code of conduct waiver. The staff also says evidence from the Andersen criminal trial indicates Board ratification 'may have originated with Andersen' (p. 24). The Board approved waivers for LJM1, LJM2 and LJM3 (p. 23)."
+  },
+  {
+    "id": "F-007",
+    "topic": "Enron Code of Conduct: Board ratification (Powers)",
+    "claim": "The board's special committee found that Fastow told the Board in June 1999 that LJM1 required action under Enron's Code of Conduct, which was within Lay's authority. The Board adopted a resolution ratifying the Office of the Chairman's determination that Fastow's participation would not adversely affect Enron. The Board later adopted and ratified a similar determination for LJM2.",
+    "quote": "The resolution ratified a determination by the Office of the Chairman that Fastow's participation in LJM1 would not adversely affect the interests of Enron.",
+    "source_id": "powers-report-sec",
+    "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": "p. 69 (LJM1); p. 72 (LJM2); p. 44 n. 8 (Code text)",
+      "section": "III.A LJM1 (Board approval, June 28, 1999); LJM2 approval",
+      "lines": "2640-2653; 2731-2738; 1745-1751"
+    },
+    "source_type": "board committee finding",
+    "verb": "found",
+    "people": [
+      "Andrew Fastow",
+      "Kenneth Lay"
+    ],
+    "event_date": "1999-06-28",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Code text in Powers n. 8 (p. 44) matches the PSI quotation (F-006) word for word. The LJM2 resolution language quoted by Powers (p. 72): the Board 'adopt[ing] and ratify[ing]' the Office of the Chairman's determination. Powers p. 4 (line 406): 'We have seen no evidence that any of these employees, except Fastow, obtained the permission required by Enron's Code of Conduct of Business Affairs to own interests in the partnerships.' Powers p. 44 also says in-house counsel and Vinson & Elkins advised Fastow that his participation in Chewco would need Chairman/CEO approval under the Code, so Kopper was substituted as Chewco's manager."
+  },
+  {
+    "id": "F-008",
+    "topic": "Nancy Temple: role",
+    "claim": "Nancy Temple was an in-house attorney at Arthur Andersen. She testified under oath before the House Energy and Commerce oversight subcommittee on January 24, 2002. The subcommittee chairman said her mid-October 2001 e-mails reminding Andersen staff of the firm's document retention and destruction policy were 'highly unusual and of questionable timing'.",
+    "quote": "the now well-publicized e-mails from Ms. Temple to Andersen’s personnel working on Enron matters in the mid-October timeframe to remind them of the firm’s retention and destruction policies were by all accounts highly unusual and of questionable timing.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 7,
+      "printed_page": "p. 3",
+      "section": "Opening statement of Chairman Greenwood",
+      "lines": "work/text/hrg-hec-andersen-shredding.txt 285-289"
+    },
+    "source_type": "sworn testimony",
+    "verb": "stated",
+    "people": [
+      "Nancy Temple",
+      "David Duncan"
+    ],
+    "event_date": "2001-10",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The quote is a congressman's opening statement, not testimony and not a finding. Use 'the subcommittee chairman said.' In the same statement he said: 'We have no reason at this point to doubt her good intentions'. Temple was sworn in with the second panel, listed as 'NANCY TEMPLE, ATTORNEY, ANDERSEN LLP' (printed p. 30, PDF 34). She testified that the November 10 memo telling staff not to destroy documents was drafted by outside counsel Davis Polk & Wardwell (text lines 3279-3283). CHARGES: no library document shows that Temple was charged. andersen-scotus (Syllabus only) does not name her. A witness in hrg-hfs-enron-investors (line 9648) says Temple 'pretty much instructed him to shred'. That is a hearing witness's claim, not a finding. Gap already logged."
+  },
+  {
+    "id": "F-009",
+    "topic": "Lea Fastow: role",
+    "claim": "The board's special committee found that, during certain periods, back-office tasks for Chewco appear to have been performed by Andrew Fastow's wife, who had earlier worked in Enron's Finance group. The committee did not know whether she was paid for this work.",
+    "quote": "during certain periods, these tasks appear to have been performed by Fastow's wife, who had previously worked in Enron's Finance group. We do not know if she received compensation for performing these services.",
+    "source_id": "powers-report-sec",
+    "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": "p. 54",
+      "section": "II (Chewco), management of Chewco",
+      "lines": "2141-2144"
+    },
+    "source_type": "board committee finding",
+    "verb": "found",
+    "people": [
+      "Lea Fastow",
+      "Andrew Fastow"
+    ],
+    "event_date": null,
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Powers does not name her; the name 'Lea Fastow' appears in hrg-hec-collapse-pt2 (printed p. 76, PDF 80, Chairman Greenwood: 'Lea Fastow, Andy’s Fastow’s wife, performed certain management tasks for Chewco'; he placed in the record a 10/13/98 fax from her to Kopper). skilling-scotus-2010 describes her as 'wife of Andrew and an assistant treasurer' (see F-010). PSI report n. 56 (p. 23): the initials 'LJM' 'apparently refer to Mr. Fastow’s wife and children.'"
+  },
+  {
+    "id": "F-010",
+    "topic": "Lea Fastow: outcome",
+    "claim": "A separate opinion in Skilling v. United States (2010), listing Enron news coverage before Skilling's trial, says the Enron Task Force indicted Lea Fastow in 2003 and that she and Andrew Fastow both pleaded guilty in 2004.",
+    "quote": "In 2003, the Enron Task Force indicted numerous Enron employees, including Ben Glisan, Jr. (the company’s treasurer), Lea Fastow (wife of Andrew and an assistant treasurer) ... In 2004, Andrew and Lea Fastow both pleaded guilty",
+    "source_id": "skilling-scotus-2010",
+    "file": "sources/09-courts-doj/skilling-v-us-561-us-358-2010.pdf",
+    "locator": {
+      "pdf_page": 93,
+      "printed_page": "p. 450, n. 12",
+      "section": "Opinion of Sotomayor, J. (concurring in part and dissenting in part), n. 12",
+      "lines": "work/text/skilling-scotus-2010.txt 4074-4086"
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "pleaded guilty",
+    "people": [
+      "Lea Fastow",
+      "Andrew Fastow"
+    ],
+    "event_date": "2004",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "This is the only library statement about her case. It is in a separate opinion (Sotomayor, J., joined by Stevens and Breyer, JJ.), not the Court's majority opinion or holding. It is a background list, not a record of her case. It does not say what she pleaded guilty to or what sentence she received. Do not add those details. A DOJ press release on the Fastow pleas exists only in sources/candidates/ (not approved; not used or cited)."
+  },
+  {
+    "id": "F-011",
+    "topic": "Richard Buy: role",
+    "claim": "Richard Buy was Enron's Chief Risk Officer. The board's special committee found that he and Chief Accounting Officer Richard Causey were to review and approve all LJM transactions. It found that neither 'ignored his responsibilities', but both interpreted their roles very narrowly.",
+    "quote": "while neither the Chief Accounting Officer, Causey, nor the Chief Risk Officer, Buy, ignored his responsibilities, they interpreted their roles very narrowly and did not give the transactions the degree of review the Board believed was occurring.",
+    "source_id": "powers-report-sec",
+    "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": "p. 10",
+      "section": "Executive Summary",
+      "lines": "611-627"
+    },
+    "source_type": "board committee finding",
+    "verb": "found",
+    "people": [
+      "Richard Buy",
+      "Richard Causey"
+    ],
+    "event_date": null,
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Powers p. 84 also calls Buy head of Enron's Risk Assessment and Control (RAC) group and Kaminski's supervisor. It records that Buy 'does not recall any discussions with Kaminski' about the Rhythms deal (see F-014). CHARGES: searched all library texts. No indictment, plea, SEC complaint or conviction names Buy as a defendant. The SEC complaints in the library do not mention him. See F-012 for his use of the Fifth Amendment."
+  },
+  {
+    "id": "F-012",
+    "topic": "Richard Buy: Fifth Amendment before Congress",
+    "claim": "At a House Energy and Commerce oversight hearing on February 7, 2002, Buy was sworn in with Causey and declined to answer any questions, invoking his Fifth Amendment rights.",
+    "quote": "Mr. GREENWOOD. And will you invoke your Fifth Amendment rights in response to all of our questions here today, Mr. Buy? Mr. BUY. Yes, I will.",
+    "source_id": "hrg-hec-collapse-pt2",
+    "file": "sources/05-hearings-enron/hhrg-107-88-financial-collapse-of-enron-pt2-2002-02-07.pdf",
+    "locator": {
+      "pdf_page": 27,
+      "printed_page": "p. 23",
+      "section": "Testimony of Richard A. Causey and Richard B. Buy",
+      "lines": "work/text/hrg-hec-collapse-pt2.txt 1566-1573"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Richard Buy",
+      "Richard Causey"
+    ],
+    "event_date": "2002-02-07",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Invoking the Fifth Amendment is not evidence of guilt; say so if this is used. The chairman described Buy and Causey as 'specifically charged by the board of directors' with making sure LJM transactions were at arm's length. 'Charged' here means 'given the duty', not criminally charged. Avoid that word near Buy's name. No library document shows criminal or SEC charges against Buy."
+  },
+  {
+    "id": "F-013",
+    "topic": "Greg Whalley: role",
+    "claim": "Enron reported that in August 2001, after Skilling resigned and Lay took back the CEO job, Greg Whalley was promoted to president and chief operating officer and joined Lay in the Office of the Chairman.",
+    "quote": "In addition, Greg Whalley and Mark Frevert were promoted to president and chief operating officer and vice chairman, respectively, and joined Mr. Lay in the Office of the Chairman.",
+    "source_id": "enron-10q-q3-2001",
+    "file": "sources/03-sec-filings/enron-10q-2001-09-30.txt",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": "p. 37",
+      "section": "Notes to Consolidated Financial Statements, Note 12 (Business Segment Information)",
+      "lines": "2474-2478"
+    },
+    "source_type": "company filing",
+    "verb": "reported",
+    "people": [
+      "Greg Whalley",
+      "Kenneth Lay",
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2001-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The board's special committee found that in mid-September 2001 Causey met with Lay and 'Greg Whalley (Enron's COO)' about the Raptors, and 'Lay and Whalley directed Causey to terminate the Raptors' (powers-report-sec p. 127, lines 4618-4623). The Raptors were terminated on September 28, 2001. The JCT report (rpt-jct-vol1) gives his full name as Lawrence Gregory ('Greg') Whalley and says Lay appointed him sole member of the Deferral Plan Committee effective Oct. 26, 2001. CHARGES: no library document shows charges against Whalley."
+  },
+  {
+    "id": "F-014",
+    "topic": "Vince Kaminski: role",
+    "claim": "Vincent Kaminski headed Enron's Research Group, which handled complex option pricing and modeling. He told the special committee that he strongly advised his supervisor, Richard Buy, not to go ahead with the 1999 Rhythms/LJM1 transaction. Buy said he did not recall those discussions.",
+    "quote": "Vincent Kaminski, head of Enron's Research Group--which handled sophisticated option pricing and modeling issues--told us that he was very uncomfortable with the transaction and brought his concerns to Richard Buy",
+    "source_id": "powers-report-sec",
+    "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": "p. 84 (continues p. 85)",
+      "section": "IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'",
+      "lines": "3147-3170"
+    },
+    "source_type": "board committee finding",
+    "verb": "stated",
+    "people": [
+      "Vince Kaminski",
+      "Richard Buy"
+    ],
+    "event_date": "1999-06",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Powers reports sharply different memories here: 'We encountered sharply divergent recollections'. It attributes each account to the person who gave it. Kaminski's three reasons were conflict of interest, a payout skewed against Enron, and an SPE capitalized largely with Enron stock. Powers p. 87 (lines 3251-3256): Kaminski's group later estimated a 68% probability that the Rhythms structure would default. Powers p. 124: he told Andersen and Enron accountants that the Raptor share discount could not be reconciled with the collar. The Fifth Circuit (ca5-skilling-2009, PDF p. 9, n. 5, text lines 327-334) says Kaminski said Skilling told him his group 'acted more like cops' and that after the LJM deal Skilling moved Kaminski's group out of risk control. The Batson Final Report (batson-final, printed p. 19, PDF 22, n. 41; OCR text checked against page image) calls him 'Wincenty Kaminski', a Ph.D. economist, and quotes his sworn statement calling the LJM2/Raptor hedges 'terrible, terrible economic hedges.' CHARGES: none in the library. He appears only as a witness and critic."
+  },
+  {
+    "id": "F-015",
+    "topic": "Raymond Troubh: role",
+    "claim": "Raymond S. Troubh was one of two new directors added to Enron's Board after October 2001 and appointed to the Special Investigative Committee (the Powers Committee). He had not been on the Board when the transactions under investigation took place. With William Powers, he alone made the report's judgments about the Board.",
+    "quote": "Powers and Troubh, neither of whom had been a member of the Board at the time of the transactions under investigation, were appointed to the Committee",
+    "source_id": "powers-report-sec",
+    "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": "p. 31 (and p. 9 n. 1)",
+      "section": "I. Introduction (the Special Investigative Committee)",
+      "lines": "1270-1303; 594-599"
+    },
+    "source_type": "board committee finding",
+    "verb": "stated",
+    "people": [
+      "Raymond Troubh",
+      "William Powers",
+      "Herbert Winokur"
+    ],
+    "event_date": "2001-10",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "This is the committee's description of itself, not a finding about wrongdoing. The report's sections evaluating the Board are 'solely the views of' Powers and Troubh, and those on Vinson & Elkins 'solely the views of Troubh and Winokur' (p. 31 n. 3). Powers told a House hearing that he and Troubh met with counsel without Winokur when judging the Board (hrg-hec-collapse-pt1, text lines 3395-3410). CHARGES: none. Nothing in the library suggests any wrongdoing by Troubh."
+  }
+]

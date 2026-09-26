@@ -7,6 +7,15 @@ overflow; saves screenshots to work/screens/. Also runs a few interaction
 checks (citation notes, glossary pop-up, footnote keyboard stepping,
 presentation and theme toggles, timeline filter).
 
+Reference checks (on every page, as rendered):
+  - every a.cite resolves to a source in window.SOURCES that is in the library;
+  - every .term resolves to a window.GLOSSARY entry;
+  - every figure[data-image] resolves to a window.IMAGE_CREDITS entry;
+  - every citation link target, image and narrow image file exists on disk;
+  - no leftover placeholders or "Sample" flags.
+Diagram checks: the phone uses the -narrow SVG; the manual dark theme reaches
+the SVG diagrams even when the system setting is light.
+
 Run:  PLAYWRIGHT_BROWSERS_PATH=/opt/pw-browsers python3 work/tools/test_site.py
 """
 import glob
@@ -21,8 +30,53 @@ SHOTS = ROOT / "work" / "screens"
 PAGES = ["index.html"] + [f"chapters/ch{i}.html" for i in range(1, 8)] + [
     "cast.html", "timeline.html", "glossary.html", "footnote.html", "how-built.html", "sources.html", "credits.html"]
 VIEWPORTS = {"desktop": (1440, 900), "projector": (1920, 1080), "phone": (390, 844)}
-SHOT_PAGES = {"index.html", "chapters/ch1.html", "chapters/ch3.html", "cast.html", "timeline.html",
-              "footnote.html", "how-built.html", "sources.html", "glossary.html"}
+SHOT_PAGES = {"index.html", "chapters/ch1.html", "chapters/ch3.html", "chapters/ch5.html", "cast.html", "timeline.html",
+              "footnote.html", "how-built.html", "sources.html", "glossary.html", "credits.html"}
+
+REF_JS = """() => {
+  const S = window.SOURCES || {}, G = window.GLOSSARY || {}, C = window.IMAGE_CREDITS || [];
+  const ids = new Set(C.map(c => c.id));
+  const bad = [];
+  document.querySelectorAll('a.cite').forEach(a => {
+    const id = a.getAttribute('data-src'), s = S[id];
+    if (!s) bad.push('cite ' + (a.getAttribute('data-n') || '?') + ': unknown source id "' + id + '"');
+    else if (!s.in_library) bad.push('cite ' + a.getAttribute('data-n') + ': source "' + id + '" not in library');
+  });
+  document.querySelectorAll('.term[data-term]').forEach(t => {
+    const id = t.getAttribute('data-term');
+    if (!G[id]) bad.push('term "' + id + '" not in GLOSSARY');
+  });
+  document.querySelectorAll('figure[data-image]').forEach(f => {
+    const id = f.getAttribute('data-image');
+    if (!ids.has(id)) bad.push('figure "' + id + '" not in IMAGE_CREDITS');
+  });
+  document.querySelectorAll('.placeholder, .sample-flag, .figure-missing').forEach(e => {
+    bad.push('leftover placeholder: ' + (e.textContent || '').trim().slice(0, 60));
+  });
+  const links = new Set();
+  document.querySelectorAll('.endnotes li a[href], .anno-panel a[href], .fn-source a[href]').forEach(a => {
+    if (a.protocol === 'file:' && a.pathname.indexOf('/sources/') !== -1) links.add(decodeURIComponent(a.pathname));
+  });
+  document.querySelectorAll('img[src], source[srcset]').forEach(e => {
+    const u = new URL(e.getAttribute('src') || e.getAttribute('srcset'), location.href);
+    if (u.protocol === 'file:') links.add(decodeURIComponent(u.pathname));
+  });
+  return {bad, files: [...links], cites: document.querySelectorAll('a.cite').length,
+          terms: document.querySelectorAll('.term[data-term]').length, figures: document.querySelectorAll('figure[data-image]').length};
+}"""
+
+
+def footnote_all_cite_links(page):
+    """The footnote's source links live in annotation panels that open one at a time: open each."""
+    files = set()
+    n = page.locator("mark.anno").count()
+    for i in range(n):
+        page.locator("mark.anno").nth(i).click()
+        for href in page.evaluate("""() => [...document.querySelectorAll('#anno-panel a[href]')]
+                .filter(a => a.protocol === 'file:' && a.pathname.indexOf('/sources/') !== -1)
+                .map(a => decodeURIComponent(a.pathname))"""):
+            files.add(href)
+    return n, files
 
 
 def chromium_path():
@@ -38,6 +92,7 @@ def url(p):
 def main():
     SHOTS.mkdir(parents=True, exist_ok=True)
     problems, notes = [], []
+    ref_totals = {}
     missing_optional = not (ROOT / "images" / "credits.js").exists()
     with sync_playwright() as pw:
         exe = chromium_path()
@@ -59,6 +114,14 @@ def main():
                     ov = page.evaluate("document.documentElement.scrollWidth - document.documentElement.clientWidth")
                     if ov > 0:
                         problems.append(f"[{vname}/{scheme}] {p}: horizontal overflow {ov}px")
+                    if vname == "desktop" and scheme == "light":
+                        ref = page.evaluate(REF_JS)
+                        ref_totals[p] = ref
+                        for b in ref["bad"]:
+                            problems.append(f"[refs] {p}: {b}")
+                        for f in ref["files"]:
+                            if not Path(f).exists():
+                                problems.append(f"[refs] {p}: link target missing on disk: {f}")
                     if p in SHOT_PAGES:
                         name = p.replace("/", "-").replace(".html", "")
                         page.screenshot(path=str(SHOTS / f"{vname}-{scheme}-{name}.png"), full_page=(vname == "phone" or p in {"chapters/ch1.html", "footnote.html"}))
@@ -116,9 +179,40 @@ def main():
         page.screenshot(path=str(SHOTS / "desktop-light-footnote-active.png"))
 
         page.goto(url("timeline.html")); page.wait_for_timeout(200)
-        page.locator('#tl-filters button[data-tag="law"]').click()
+        page.locator('#tl-filters button[data-tag="legal"]').click()
         vis = page.locator(".tl-item:not([hidden])").count()
-        notes.append(f"timeline filter 'law': {vis} visible items")
+        notes.append(f"timeline filter 'legal': {vis} visible items")
+        if vis == 0:
+            problems.append("timeline filter 'legal' shows no items")
+
+        page.goto(url("footnote.html")); page.wait_for_timeout(200)
+        n_anno, fn_files = footnote_all_cite_links(page)
+        notes.append(f"footnote: {n_anno} annotations opened, {len(fn_files)} distinct source files linked")
+        for f in sorted(fn_files):
+            if not Path(f).exists():
+                problems.append(f"[refs] footnote annotation link target missing on disk: {f}")
+
+        # Manual dark theme with a LIGHT system setting: the SVG diagrams must switch too.
+        page.goto(url("chapters/ch3.html")); page.wait_for_timeout(200)
+        page.evaluate("localStorage.removeItem('askwhy-theme')")
+        fig = page.locator('figure[data-image="diagram-raptor"] img')
+        fig.scroll_into_view_if_needed(); page.wait_for_timeout(300)
+        def diagram_corner_brightness():
+            box = fig.bounding_box()
+            png = page.screenshot(clip={"x": box["x"] + 4, "y": box["y"] + 4, "width": 6, "height": 6})
+            from io import BytesIO
+            from PIL import Image
+            px = Image.open(BytesIO(png)).convert("L").getpixel((3, 3))
+            return px
+        light_px = diagram_corner_brightness()
+        page.locator("#theme-toggle").click(); page.wait_for_timeout(300)
+        dark_px = diagram_corner_brightness()
+        page.screenshot(path=str(SHOTS / "desktop-manualdark-ch3-raptor.png"))
+        notes.append(f"diagram background brightness: light theme {light_px}, manual dark theme {dark_px}")
+        if not (light_px > 200 and dark_px < 60):
+            problems.append(f"diagram did not follow the manual theme toggle (light {light_px}, dark {dark_px})")
+        page.locator("#theme-toggle").click()
+        page.evaluate("localStorage.removeItem('askwhy-theme')")
         ctx.close()
 
         ctx = browser.new_context(viewport={"width": 390, "height": 844}, has_touch=True, is_mobile=True)
@@ -133,6 +227,14 @@ def main():
         page.screenshot(path=str(SHOTS / "phone-light-footnote-sheet.png"))
         if not page.evaluate("document.getElementById('anno-panel').classList.contains('open')"):
             problems.append("phone: footnote bottom sheet did not open")
+        page.goto(url("chapters/ch3.html")); page.wait_for_timeout(200)
+        for fid in ("diagram-spe-basic", "diagram-chewco-ljm", "diagram-raptor"):
+            loc = page.locator(f'figure[data-image="{fid}"] img')
+            loc.scroll_into_view_if_needed(); page.wait_for_timeout(200)
+            cur = loc.evaluate("i => i.currentSrc")
+            if "-narrow.svg" not in cur:
+                problems.append(f"phone: {fid} did not use its narrow version ({cur})")
+        page.locator('figure[data-image="diagram-raptor"]').screenshot(path=str(SHOTS / "phone-light-ch3-raptor.png"))
         page.goto(url("index.html")); page.locator(".menu-toggle").click(); page.wait_for_timeout(100)
         page.screenshot(path=str(SHOTS / "phone-light-menu-open.png"))
         ov = page.evaluate("document.documentElement.scrollWidth - document.documentElement.clientWidth")
@@ -156,6 +258,9 @@ def main():
 
     if missing_optional:
         notes.append("images/credits.js does not exist yet; its file-not-found message was ignored.")
+    for p, r in ref_totals.items():
+        if r["cites"] or r["terms"] or r["figures"]:
+            notes.append(f"refs {p}: {r['cites']} cites, {r['terms']} terms, {r['figures']} figures, {len(r['files'])} linked files checked")
     for n in notes:
         print("NOTE", n)
     for pr in problems:

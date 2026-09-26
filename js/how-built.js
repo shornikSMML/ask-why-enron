@@ -27,7 +27,7 @@
     return String(text || "").split(/\n{2,}/).map(function (p) { return "<p>" + esc(p) + "</p>"; }).join("");
   }
   function list(items) {
-    if (!items || !items.length) return '<span class="placeholder">none recorded</span>';
+    if (!items || !items.length) return '<span class="none">none recorded yet</span>';
     return "<ul>" + items.map(function (x) {
       return "<li>" + esc(typeof x === "string" ? x : JSON.stringify(x)) + "</li>";
     }).join("") + "</ul>";
@@ -121,9 +121,9 @@
   var tl = $("build-timeline");
   if (tl) {
     var recs = L.timeline || [];
-    tl.innerHTML = recs.length ? '<ol class="build-tl">' + recs.map(function (r) {
+    tl.innerHTML = recs.length ? '<div class="build-tl-wrap" tabindex="0" role="region" aria-label="Build timeline, ' + recs.length + ' events"><ol class="build-tl">' + recs.map(function (r) {
       return '<li><span class="t">' + fmtTime(r.time) + '<span class="chip type">' + esc(TYPE_LABELS[r.type] || r.type || "") + "</span></span>" + esc(r.label || r.title || "") + "</li>";
-    }).join("") + "</ol>" : '<p class="placeholder">[No events yet]</p>';
+    }).join("") + "</ol></div>" : '<p class="placeholder">[No events yet]</p>';
   }
 
   /* ---------- 4. Agent cards ---------- */
@@ -172,7 +172,22 @@
         }).join("") + "</tr>";
       }).join("") + "</tbody></table></div>";
   }
-  table(L.corrections, $("corrections"), "No corrections recorded yet.");
+  // Corrections read better as cards than as an eight-column table, especially on phones.
+  (function corrections(rows, host) {
+    if (!host) return;
+    if (!rows || !rows.length) { host.innerHTML = '<p class="placeholder">No corrections recorded yet.</p>'; return; }
+    var LABELS = { page_item: "Where", what_it_said: "What the draft said", what_the_source_says: "What the source says", fix: "The fix", source: "Source checked", date: "Date", recorded_in: "Recorded in" };
+    var skip = { number: 1 };
+    host.innerHTML = '<p class="ui" style="font-size:.88rem;color:var(--muted)">' + rows.length + " corrections.</p>" +
+      '<ol class="corr-list">' + rows.map(function (r, i) {
+        var keys = Object.keys(r).filter(function (k) { return !skip[k] && k !== "page_item" && r[k] != null && r[k] !== ""; });
+        return '<li class="corr-item"><h3>' + esc((r.number || i + 1) + ". " + (r.page_item || "")) + "</h3><dl>" +
+          keys.map(function (k) {
+            var v = r[k];
+            return "<dt>" + esc(LABELS[k] || k.replace(/_/g, " ")) + "</dt><dd>" + esc(typeof v === "object" ? JSON.stringify(v) : v) + "</dd>";
+          }).join("") + "</dl></li>";
+      }).join("") + "</ol>";
+  })(L.corrections, $("corrections"));
   table(L.web_sources, $("web-sources"), "No websites recorded yet.");
 
   var gen = $("log-generated");

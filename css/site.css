@@ -456,3 +456,70 @@ th { font-weight: 600; color: var(--muted); font-size: .78rem; text-transform: u
   .endnotes::details-content { content-visibility: visible; display: block; }
   .endnotes > summary::marker { content: ""; }
 }
+
+/* ---------- Integration pass: figures, footnote extras, credits, home ---------- */
+/* Pictures and SVG diagrams. The diagrams carry their own light/dark colors and
+   follow the page's color-scheme (set on :root for both the system setting and
+   the manual toggle), so they switch with the theme button too. */
+figure picture { display: block; }
+figure.is-diagram img { width: 100%; max-width: 50rem; border-radius: 6px; background: transparent; }
+figure.on-light img { background: #fff; padding: 1rem; max-width: 16rem; border-radius: 6px; }
+figure.is-photo img { max-height: 32rem; width: auto; }
+@media (min-width: 1100px) {
+  html:not(.present) .chapter-body figure.is-diagram { margin-left: 0; margin-right: 0; }
+}
+.demo-cite { font-family: var(--sans); font-size: .72em; font-weight: 600; vertical-align: super; line-height: 0; color: var(--accent); }
+kbd {
+  font-family: var(--mono); font-size: .82em; background: var(--bg-sunk); border: 1px solid var(--rule);
+  border-bottom-width: 2px; border-radius: 4px; padding: 0 .35em; white-space: nowrap;
+}
+.how-to { max-width: var(--measure); }
+.how-to li { margin-bottom: .6rem; }
+.hero p:not(.eyebrow):not(.lede) { max-width: var(--measure); }
+.hero .lede { max-width: var(--measure); }
+
+/* Footnote page extras */
+.fn-source { font-family: var(--sans); font-size: .85rem; color: var(--muted); }
+.fn-source .loc::before { content: none; }
+.fn-note { background: var(--bg-raised); border: 1px solid var(--rule); border-radius: 8px; padding: 1.2rem 1.3rem .4rem; }
+.fn-heading { font-family: var(--sans); font-weight: 700; letter-spacing: .04em; margin-bottom: .8em !important; }
+.fn-verbatim { font-family: var(--sans); font-size: .8rem; color: var(--muted); margin-top: .6rem; }
+.fn-context h2, .fn-closing h2 { font-size: 1.2rem; }
+.fn-ctx-item { margin: 0 0 1rem; background: var(--bg-raised); border: 1px solid var(--rule); border-radius: 8px; padding: .8rem 1.1rem .2rem; }
+.fn-ctx-item figcaption { margin: 0 0 .5rem; }
+.fn-text .endnotes { margin-top: 2rem; }
+
+/* Credits page */
+.credit-list { list-style: none; padding: 0; margin: 0; }
+.credit-item {
+  display: grid; grid-template-columns: 9rem minmax(0, 1fr); gap: 1.2rem; align-items: start;
+  border-bottom: 1px solid var(--rule); padding: 1.2rem 0; scroll-margin-top: 4.5rem;
+}
+.credit-item:target { background: var(--accent-soft); }
+.credit-item .thumb { display: block; }
+.credit-item .thumb img { display: block; width: 100%; height: 7rem; object-fit: contain; background: var(--bg-sunk); border-radius: 4px; }
+.credit-item .thumb.on-light img { background: #fff; padding: .5rem; }
+.credit-item h2 { font-size: 1.1rem; margin: 0 0 .3rem; }
+.credit-item p { margin: 0 0 .5rem; }
+.credit-item dl { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: .25rem .9rem; margin: .4rem 0 0; font-family: var(--sans); font-size: .85rem; }
+.credit-item dt { color: var(--muted); }
+.credit-item dd { margin: 0; overflow-wrap: anywhere; }
+.card-ids { display: flex; flex-wrap: wrap; gap: .3rem; }
+.card-ids .chip { font-family: var(--mono); }
+@media (max-width: 600px) {
+  .credit-item { grid-template-columns: minmax(0, 1fr); gap: .6rem; }
+  .credit-item .thumb img { height: 10rem; }
+  .credit-item dl { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .credit-item dd { margin-bottom: .4rem; }
+}
+
+/* How This Was Built extras */
+.build-tl-wrap { max-height: 34rem; overflow: auto; border: 1px solid var(--rule); border-radius: 8px; padding: 1rem 1rem .2rem 1.4rem; background: var(--bg-raised); }
+.corr-list { list-style: none; padding: 0; margin: 0; }
+.corr-item { border: 1px solid var(--rule); border-radius: 8px; background: var(--bg-raised); padding: .9rem 1.1rem; margin-bottom: .8rem; }
+.corr-item h3 { font-size: 1rem; margin: 0 0 .5rem; font-family: var(--sans); }
+.corr-item dl { margin: 0; font-size: .92rem; }
+.corr-item dt { font-family: var(--sans); font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-top: .5rem; }
+.corr-item dd { margin: .1rem 0 0; }
+@media print { .build-tl-wrap { max-height: none; overflow: visible; } }
+.none { color: var(--muted); font-style: italic; }

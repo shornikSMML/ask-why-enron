@@ -1,6 +1,6 @@
 {
   "project": "Ask Why: The Rise and Fall of Enron",
-  "generated": "2026-09-26T10:34:14Z",
+  "generated": "2026-09-26T11:19:18Z",
   "generated_note": "Time of the newest coordinator note; the log is rebuilt from the notes by work/tools/build_log.py.",
   "coordinator": {
     "name": "Coordinator",
@@ -57,6 +57,42 @@
         "type": "decision",
         "title": "OCR speed fix",
         "detail": "First OCR run was extremely slow (about 2.5 minutes per page) because each OCR process tried to use every processor core at once. Limited each to one core; now about 2 pages per second across 4 cores."
+      },
+      {
+        "time": "2026-09-26T10:46:21Z",
+        "type": "decision",
+        "title": "Reader B read three library documents outside its list",
+        "detail": "Reader B added hrg-hec-andersen-shredding, hrg-hfs-enron-investors and andersen-scotus to cover David Duncan and Joseph Berardino, whom the brief named but whose testimony was not in the listed documents. Coordinator approved after the fact: all three are in the library and fingerprints matched."
+      },
+      {
+        "time": "2026-09-26T10:48:07Z",
+        "type": "decision",
+        "title": "Footnote Annotator used enron-8k-nov-2001 beyond its list",
+        "detail": "Approved after the fact: it is in the library, fingerprint matched, and it is Enron's own November 2001 account of the same transactions."
+      },
+      {
+        "time": "2026-09-26T10:48:58Z",
+        "type": "decision",
+        "title": "Reader tips passed to the Fact-Checker",
+        "detail": "Seventh-largest: Reader A found Batson and the JCT report tie the ranking to Fortune 2001 list by revenue. Buffett: five hearing texts mention Buffett; the Fact-Checker must read each mention and rule. Addendum appended to brief 08 before launch."
+      },
+      {
+        "time": "2026-09-26T10:49:36Z",
+        "type": "decision",
+        "title": "Merged gap lists",
+        "detail": "Combined the four agents gap files into build-log/gaps.md: 5 critical, 13 useful, 5 minor, deduplicated. Starting the Source Scout now, in parallel with the Fact-Checker, because the Scout works only on gaps and touches no content."
+      },
+      {
+        "time": "2026-09-26T11:03:09Z",
+        "type": "decision",
+        "title": "Reader-tip rulings adopted",
+        "detail": "Buffett: excluded (no library support; seven documents mention him on other topics). Seventh-largest: use only the Fact-Checker wording tied to Fortune 2001 list by revenue; do not say at its peak (fifth on 2002 list) or in the world."
+      },
+      {
+        "time": "2026-09-26T11:19:18Z",
+        "type": "decision",
+        "title": "Plan change: two Fact-Checker instances in Round 2, plus a Reader follow-up and site integration in parallel",
+        "detail": "To save time, the full-page fact-check is split between two instances of the same Fact-Checker role: Part A, the seven chapters; Part B, the Cast, Timeline, Glossary, diagrams and footnote framing. At the same time, Reader B answers the writers' fact requests that the library can answer, and the Site Builder builds a re-runnable integration script. Fact-checkers report findings; writers fix; fact-checkers re-check and log corrections."
       }
     ]
   },
@@ -101,11 +137,29 @@
       "runs": [
         {
           "started": "2026-09-26T10:34:13Z",
-          "finished": null,
-          "inputs": [],
-          "outputs": [],
-          "decision": "pending",
-          "reason": ""
+          "finished": "2026-09-26T10:48:58Z",
+          "inputs": [
+            "powers-report-sec pp.1-76,77-88,92-93,97-101,111,114-115,119-134,148-149,163-165,200-203, timeline appendix",
+            "enron-10k-2000 Items 1,6, MD&A parts, auditor report, income statement, Note 1",
+            "enron-10q-q3-2001 pp.3-4,9-18,44,49,53",
+            "enron-8k-nov-2001 pp.3-4,9-10,18-20",
+            "enron-8k-nov-2001-ex99-1, enron-8k-dynegy-merger (full)",
+            "batson-final PDF pp.1-25",
+            "batson-final-app-a",
+            "batson-1st-interim PDF pp.1-11,13-16 (page images)",
+            "rpt-jct-vol1 PDF pp.5-11,80,85-93,110-115 (page images)",
+            "rpt-psi-fishtail pp.1-3",
+            "sec-kopper-complaint para 9",
+            "rpt-psi-board p.6",
+            "doj-skilling-indictment para 1"
+          ],
+          "outputs": [
+            "work/facts/reader-a.json (97 cards)",
+            "work/facts/reader-a-readlog.md",
+            "work/facts/reader-a-gaps.md (7 gaps)"
+          ],
+          "decision": "accepted, pending Fact-Checker round 1",
+          "reason": "Flagged three different sets of restatement figures and other disagreements instead of choosing. Found stronger support for the seventh-largest tip (Batson: Fortune 2001 list, by revenue). Found five Buffett mentions in hearing texts, left unopened as instructed; passed to Fact-Checker."
         }
       ],
       "handoffs": [
@@ -129,11 +183,19 @@
       "runs": [
         {
           "started": "2026-09-26T10:34:13Z",
-          "finished": null,
-          "inputs": [],
-          "outputs": [],
-          "decision": "pending",
-          "reason": ""
+          "finished": "2026-09-26T10:46:21Z",
+          "inputs": [
+            "19 briefed documents (SEC complaints, DOJ, ca5-skilling-2009, skilling-scotus-2010, batson-final-app-d, PSI report and hearing, Senate Commerce hearings); page ranges in work/facts/reader-b-readlog.md",
+            "plus hrg-hec-andersen-shredding, hrg-hfs-enron-investors, andersen-scotus"
+          ],
+          "outputs": [
+            "work/facts/reader-b.json (86 cards)",
+            "work/facts/people-outcomes.md",
+            "work/facts/reader-b-readlog.md",
+            "work/facts/reader-b-gaps.md (14 gaps)"
+          ],
+          "decision": "accepted, pending Fact-Checker round 1",
+          "reason": "Careful on case outcomes (e.g. Skilling not described as overturned; Lay vacated per 5th Cir. fn. 9; no charges shown vs never charged). Critical gaps logged: Fastow and Glisan pleas/sentences, David Duncan criminal case, Skilling after 2010."
         }
       ],
       "handoffs": [
@@ -157,11 +219,31 @@
       "runs": [
         {
           "started": "2026-09-26T10:34:13Z",
-          "finished": null,
-          "inputs": [],
-          "outputs": [],
-          "decision": "pending",
-          "reason": ""
+          "finished": "2026-09-26T10:46:01Z",
+          "inputs": [
+            "hrg-hec-andersen-shredding PDF pp.6-7,30-49,126-130,172-173,181-182",
+            "hrg-hec-auditing pp.73,115-120",
+            "batson-final-app-b-part1 pp.2-8,11-12,32,45-49,61-66 (OCR, checked vs images)",
+            "batson-final-app-b-part2 pp.1,28-29,64-66",
+            "andersen-scotus Syllabus",
+            "rpt-sga-watchdogs pp.8-11,26,32,36,93",
+            "hrg-sga-analysts pp.6,9",
+            "gao-03-864 pp.1-2,7-8,18,24-25,107",
+            "gao-03-1158 pp.1-2",
+            "gao-02-480t-pensions pp.2-4,7-8,12-13",
+            "hrg-help-pensions pp.5,23-24,32,62-75",
+            "sox-crs-summary pp.1-3,5,16",
+            "sox-plaw-html secs 101,201,203,302,404,802,806",
+            "sec-press-2003-52",
+            "sox-bush-remarks pp.1-3"
+          ],
+          "outputs": [
+            "work/facts/reader-c.json (81 cards)",
+            "work/facts/reader-c-readlog.md",
+            "work/facts/reader-c-gaps.md"
+          ],
+          "decision": "accepted, pending Fact-Checker round 1",
+          "reason": "Within scope; flagged source disagreements (Andersen fees $47.9M/$52M/$54M; analyst counts; lockdown dates) rather than choosing. Duncan outcome gap will be covered by Reader B, who has sec-duncan-complaint."
         }
       ],
       "handoffs": [
@@ -185,11 +267,23 @@
       "runs": [
         {
           "started": "2026-09-26T10:34:13Z",
-          "finished": null,
-          "inputs": [],
-          "outputs": [],
-          "decision": "pending",
-          "reason": ""
+          "finished": "2026-09-26T10:48:07Z",
+          "inputs": [
+            "enron-10k-2000 lines 5863-5962, 5125-5160, 1500-1508, 6335-6362",
+            "powers-report-sec Summary pp.2-25, sec. IV pp.77-94, V pp.97-126, VI pp.134-147, VIII pp.178-184,192-203, App. B",
+            "sec-fastow-complaint (whole)",
+            "rpt-psi-board PDF pp.22-23,28-30,36-37,51-52",
+            "batson-final PDF pp.6,12,13,22-24,42,47,48 (OCR, checked vs images)",
+            "enron-8k-nov-2001 lines 1-140, 410-800"
+          ],
+          "outputs": [
+            "work/drafts/footnote.json (Note 16 in full, 33 annotations)",
+            "work/drafts/footnote-glossary-terms.md",
+            "work/facts/footnote-readlog.md",
+            "work/facts/footnote-gaps.md"
+          ],
+          "decision": "accepted, pending Fact-Checker round 1",
+          "reason": "Coordinator independently re-checked that every paragraph is verbatim from the 10-K. Source disagreements (e.g. dark fiber $67M vs $54M) shown on the page rather than resolved."
         }
       ],
       "handoffs": [
@@ -205,29 +299,45 @@
     {
       "id": "images",
       "name": "Image Researcher & Diagrammer",
-      "role": "Finds public-domain/CC images and draws original diagrams; keeps the credits file",
-      "brief_file": "work/briefs/05-images.md",
+      "role": "Second pass: Enron-specific diagrams built only from checked fact cards",
+      "brief_file": "work/briefs/12-images-pass2.md",
       "common_rules_file": "work/briefs/00-common-rules.md",
-      "brief": "# Brief: Image Researcher & Diagrammer (first pass)\n\n**Role:** Find and download images for the site, and draw original diagrams. Follow `00-common-rules.md` and the IMAGES section of `CLAUDE.md`. **You may use the web, but only for images.**\n\n**Allowed:** public domain or Creative Commons images from Wikimedia Commons, the Library of Congress, or U.S. government sites (for example the Congress, SEC, White House, or GPO sites). **Not allowed:** AP, Getty, or Reuters photos (check Commons file pages: some are mislabeled), screenshots from film or TV, or hot-linking. Use a photo of a real person only if the source clearly identifies who it is. Prefer images whose license is unambiguous.\n\n**Wanted, one or more per chapter:**\n1. Origins: Enron's Houston headquarters or the Houston skyline (Commons); the Enron logo, only if Commons marks it public domain (text logo, below the threshold of originality)\n2. Business model: something like a natural-gas pipeline or a trading floor (public domain or CC)\n3. SPEs: an **original diagram** (see below)\n4. Warning signs: an **original diagram** or a relevant government image (for example a Senate hearing room)\n5. Collapse: the stock price is best as an original chart, but only with data from the library, so skip it for now; instead a relevant public domain image (for example Enron's headquarters)\n6. Andersen: an Arthur Andersen office or building photo if CC or public domain, or the Supreme Court building\n7. Aftermath: President Bush signing Sarbanes-Oxley (White House photos are public domain), the U.S. Capitol, or the SEC building\n\n**Original diagrams:** draw clean SVGs by hand (simple shapes and labels, readable in the site's light and dark themes, readable at phone and projector sizes, and using `currentColor` or CSS variables where practical):\n- `images/diagram-spe-basic.svg`: how a special purpose entity moves money and assets off a company's balance sheet (generic concept; no specific numbers)\n- `images/diagram-mark-to-market.svg`: mark-to-market vs. waiting for the cash (a generic 10-year contract example; clearly marked \"illustration\")\n- `images/diagram-team.svg` will be made later by the Site Builder; skip it.\nDiagrams that show specific Enron facts (the Raptors) wait for Wave 2, when the fact cards exist.\n\n**Outputs:**\n- Downloaded files in `images/` (reasonable size: resize to at most ~1600px wide; keep the original filename meaningful)\n- `images/credits.json`: an array of `{\"id\", \"file\", \"title\", \"description\", \"source_url\", \"author\", \"license\", \"license_url\", \"is_original_diagram\", \"person_identified_by_source\": true|false|null, \"suggested_chapter\", \"retrieved\": \"YYYY-MM-DD\"}`\n- `images/credits.js`: the same data as `window.IMAGE_CREDITS = [...]` (for the site; keep the two in sync)\n- `work/facts/images-websites.md`: every website you visited and what you took from it\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
-      "wave": 1,
+      "brief": "# Brief: Image Researcher & Diagrammer, second pass (Enron-specific diagrams)\n\n**Role:** Draw three original diagrams that show specific Enron facts. Every number, name, or date in a diagram must come from a **checked fact card** (`checked` is \"OK\" or \"FIXED\") in `work/facts/reader-a.json` or `work/drafts/footnote.json`. Read `work/facts/factcheck-round1.md` for how to present source disagreements. **No web.** Follow `00-common-rules.md` and your first-pass conventions: wide and narrow versions; readable in light and dark; `credits.json` and `credits.js` entries marked `is_original_diagram: true`.\n\nNew field for each of these diagrams in `credits.json`: `\"fact_cards\": [\"A-0xx\", ...]`, listing every card that supports something shown. Add a short source line inside the SVG itself (e.g. \"Sources: Powers Report pp. 97–101; Enron Form 10-Q, Q3 2001\"). The Fact-Checker will check these diagrams.\n\n1. `diagram-raptor` (Ch. 3): how the Raptor \"hedges\" worked. Enron put in its own stock (or rights to it); the Raptor vehicles promised to cover losses on Enron's investments; so the protection depended on Enron's own share price, and when the price fell the vehicles couldn't pay. Include LJM2's role and only the amounts the cards support.\n2. `diagram-chewco-ljm` (Ch. 3): the cast of entities (JEDI and Chewco; LJM1; LJM2; the Raptors), who ran or controlled each according to the cards (e.g. Kopper at Chewco; Fastow at LJM), and their relationship to Enron. Keep it simple: at most about 8 boxes.\n3. `chart-restatement` (Ch. 5): a simple bar chart of the reduction to reported net income by year, 1997–2000, using the **Form 10-Q** figures (as the Fact-Checker ruled). Add a note that the Nov. 8, 2001 8-K and the Powers Report give different figures. Accessible: include the numbers as labels, not only bar heights.\n\n**Outputs:** the SVGs (+ `-narrow`) in `images/`, updated `images/credits.json` and `credits.js`, and a final report.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 2,
       "runs": [
         {
           "started": "2026-09-26T10:34:14Z",
-          "finished": null,
-          "inputs": [],
-          "outputs": [],
-          "decision": "pending",
-          "reason": ""
-        }
-      ],
-      "handoffs": [
+          "finished": "2026-09-26T11:04:15Z",
+          "inputs": [
+            "web: commons.wikimedia.org, upload.wikimedia.org, www.loc.gov (JSON records)"
+          ],
+          "outputs": [
+            "8 images + 2 original diagrams (wide and narrow versions) in images/",
+            "images/credits.json, images/credits.js (10 entries with license, author, source, sha256)",
+            "work/facts/images-websites.md"
+          ],
+          "decision": "accepted",
+          "reason": "Every chapter covered; licenses checked on source pages; no news-agency photos; people identified only where the source names them. No Andersen office photo met the identification rule, so Chapter 6 uses the Supreme Court building."
+        },
         {
-          "time": "2026-09-26T10:34:14Z",
-          "from": "Coordinator",
-          "to": "Wave 1 agents",
-          "what": "Briefs work/briefs/01-07 plus common rules 00; text copies in work/text/"
+          "started": "2026-09-26T11:04:34Z",
+          "finished": "2026-09-26T11:12:42Z",
+          "inputs": [
+            "work/facts/reader-a.json cards A-021, A-030 to A-060, A-066, A-069, A-083 to A-087, A-097",
+            "work/drafts/footnote.json fn-06 to fn-19",
+            "enron-10q-q3-2001 lines 985-1062"
+          ],
+          "outputs": [
+            "images/diagram-raptor(.svg,-narrow.svg)",
+            "images/diagram-chewco-ljm(.svg,-narrow.svg)",
+            "images/chart-restatement(.svg,-narrow.svg)",
+            "credits.json/js now 13 entries with fact_cards lists"
+          ],
+          "decision": "accepted, pending Fact-Checker round 2",
+          "reason": "Every figure traced to checked cards; disagreements handled per Fact-Checker rulings (10-Q restatement figures with the others noted; only the undisputed $710M pre-tax Raptor charge). Diagrams go to Fact-Checker round 2."
         }
       ],
+      "handoffs": [],
       "reviews": []
     },
     {
@@ -241,11 +351,22 @@
       "runs": [
         {
           "started": "2026-09-26T10:34:14Z",
-          "finished": null,
-          "inputs": [],
-          "outputs": [],
-          "decision": "pending",
-          "reason": ""
+          "finished": "2026-09-26T10:47:31Z",
+          "inputs": [
+            "sources/manifest.csv",
+            "sources/download_log.csv",
+            "sources/README.md (rules section)"
+          ],
+          "outputs": [
+            "index.html, chapters/ch1-7.html, cast/timeline/glossary/footnote/how-built/sources/credits pages",
+            "css/site.css",
+            "js/*.js (site, footnote, cast, timeline, glossary, how-built, sources-data)",
+            "work/tools/make_sources_js.py, test_site.py, wrap_json.py",
+            "work/drafts/site-notes.md",
+            "work/screens/ (47 screenshots)"
+          ],
+          "decision": "accepted",
+          "reason": "Coordinator reviewed desktop chapter and team-diagram screenshots: margin notes, Ask Why box, chapter navigation and presentation toggle work; tests pass at laptop, projector and phone widths with no sideways scrolling. Placeholders only, no Enron facts."
         }
       ],
       "handoffs": [
@@ -269,11 +390,21 @@
       "runs": [
         {
           "started": "2026-09-26T10:34:14Z",
-          "finished": null,
-          "inputs": [],
-          "outputs": [],
-          "decision": "pending",
-          "reason": ""
+          "finished": "2026-09-26T10:36:20Z",
+          "inputs": [
+            "CLAUDE.md",
+            "sources/README.md",
+            "build-log/inbox.jsonl",
+            "work/briefs/*"
+          ],
+          "outputs": [
+            "work/tools/build_log.py",
+            "build-log/log.json",
+            "build-log/log.js",
+            "build-log/README.md"
+          ],
+          "decision": "accepted",
+          "reason": "Script is deterministic, output valid; before-the-agents text checked by coordinator against sources/README.md."
         }
       ],
       "handoffs": [
@@ -285,6 +416,227 @@
         }
       ],
       "reviews": []
+    },
+    {
+      "id": "factcheck",
+      "name": "Fact-Checker",
+      "role": "Independently checks every fact card and annotation against the source pages; enforces the rules; logs corrections; rules on reader tips",
+      "brief_file": "work/briefs/08-factcheck-cards.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Fact-Checker, Round 1 (fact cards)\n\n**Role:** You are the team's independent fact-checker. Nothing reaches the site until you've checked it. In this round you check the **fact cards** before any writer uses them. Follow `00-common-rules.md` and the \"Rules for the agents\" in `sources/README.md`. You enforce them.\n\n**Inputs:** `work/facts/reader-a.json`, `reader-b.json`, `reader-c.json`, `work/facts/people-outcomes.md`, and `work/drafts/footnote.json` (the annotations are checked in the same way as cards).\n\n**What to check, against the source itself (open the file at the cited page or lines; never trust the card's quote):**\n1. **Every card that names a real person, and every footnote annotation:** check all of them.\n2. **Every card with a date or a dollar amount:** check all of them.\n3. **Other cards:** a random sample of at least 25%.\nFor each card:\n- Does the file's fingerprint match `download_log.csv`? (Check each file once.)\n- Is the quote verbatim at that locator? For OCR cards, check against the page image (Read the PDF with `pages`).\n- Does the claim say no more than the quote and its context support?\n- Is the verb right for the kind of source (alleged / found / testified / held / pleaded guilty / convicted)?\n- For outcomes: is anyone called guilty whose conviction was reversed or vacated, or who was never charged? Is anything asserted that no library document states?\n- Do sources disagree? Note it.\n\n**The reader tips (give a ruling on each, with reasons):**\n1. \"Warren Buffett read Enron's footnote, didn't understand it, and threw the 10-K away.\" Search `work/text/` and the `.txt` sources for \"Buffett\" yourself. If there's no library support, the ruling is \"exclude; log as gap.\" Say what kind of document would be needed.\n2. \"At its peak, Enron was America's seventh-largest company.\" Rule on whether and how it may be stated (exact wording, attribution, hedging), based on the cards and your own check of `sec-kopper-complaint` and any other library support.\n\n**Outputs:**\n- `work/facts/factcheck-round1.md`: a summary; a table of every card or annotation checked (id | verdict: OK / FIXED / REJECTED / NEEDS-SOURCE | note); the rulings on the reader tips.\n- Apply fixes directly in the card files. Add `\"checked\": \"OK\" | \"FIXED\" | \"REJECTED\"` and `\"checker_note\"` fields to each checked card. **Don't delete rejected cards**: mark them `REJECTED` so writers skip them.\n- **Append every correction** (anything you changed or rejected) as a row in `build-log/corrections.md`, using the table columns already there.\n- `work/facts/factcheck-gaps.md`: any gaps you find.\n\n## Coordinator addendum (added before launch, after Wave 1 reports)\n- **Buffett:** Reader A's search found \"Buffett\" in five library texts: `hrg-hec-auditing`, `hrg-sga-analysts`, `sox-hrg-banking-v1`, `-v2`, `-v3`. Open each mention and judge whether any of them supports the tip (that Buffett read Enron's footnote, didn't understand it, and discarded the 10-K), or anything close to it. Record what each mention actually says. Rule strictly: a mention of Buffett on some other subject does not support the tip.\n- **\"Seventh-largest\":** Reader A reports that Batson (Final Report n. 27; First Interim n. 1) says the ranking was \"based upon revenues\" on Fortune's 2001 list, and that the JCT report (p. 58) says \"seventh on the Fortune 500 ... for 2001.\" Check these against the page images and give the exact wording the site may use.\n- **Source disagreements** are flagged in the readers' reports and card notes: the restatement figures (8-K vs. 10-Q vs. Powers), the Q3 2001 loss, the Raptor charge, LJM2's start date, the bankruptcy date (Dec 2 vs. 3), Andersen's fees, and others. Check that each card states the disagreement accurately. For each, write a one-line \"how the site should present it\" in `factcheck-round1.md`. Default: present the primary figure with attribution and note the difference; don't pick a winner unless one source is clearly the correction of another.\n- Reader A flagged a card quoting Andersen's CEO's Dec 12, 2001 testimony as reported in Powers, which doesn't name him. Name him only if you confirm it from a hearing transcript in the library.\n- Scale: about 260 cards plus 33 annotations. Work efficiently: batch-check verbatim quotes against the text files with a script first, then spend your reading time on meaning, verbs, outcomes, and OCR image checks.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": "1-review",
+      "runs": [
+        {
+          "started": "2026-09-26T10:48:58Z",
+          "finished": "2026-09-26T11:03:09Z",
+          "inputs": [
+            "48 cited library files, fingerprints all matched",
+            "409 quotes checked by script against text copies; mismatches by hand",
+            "page images: JCT PDF 86-92,112-114; Batson Final 4,6,12,18-24,42; Batson 1st Interim 3-6,11,16; App. A 8; App. B pt1 3-7,11-12,32,45,49,61-65; pt2 29,65; App. D 1,3-9,13,181-182; Skilling indictment 3,51-52; Duncan complaint 2; shredding hearing 49"
+          ],
+          "outputs": [
+            "work/facts/factcheck-round1.md",
+            "checked/checker_note fields on all cards and annotations",
+            "build-log/corrections.md (15 rows)",
+            "work/facts/factcheck-gaps.md"
+          ],
+          "decision": "accepted",
+          "reason": "All 259 cards and 35 annotations checked: 267 OK, 21 fixed, 0 rejected. One substantive error fixed (fn-11 Raptor $172M correction was part of the $1.2B equity reduction, not separate). Reader tips ruled: Buffett excluded; seventh-largest allowed in exact reworded form."
+        }
+      ],
+      "handoffs": [
+        {
+          "time": "2026-09-26T10:48:58Z",
+          "from": "Readers A, B, C and Footnote Annotator",
+          "to": "Fact-Checker",
+          "what": "work/facts/reader-a/b/c.json, people-outcomes.md, work/drafts/footnote.json"
+        },
+        {
+          "time": "2026-09-26T11:03:37Z",
+          "from": "Fact-Checker",
+          "to": "Story Writer, Reference Writer",
+          "what": "Checked fact cards (work/facts/*.json), factcheck-round1.md with disagreement table and tip rulings, footnote glossary terms, site-notes.md"
+        }
+      ],
+      "reviews": [
+        {
+          "time": "2026-09-26T11:03:09Z",
+          "type": "review",
+          "agent_id": "factcheck",
+          "reviewed": "reader-a, reader-b, reader-c, footnote",
+          "result": "267 OK, 21 fixed, 0 rejected"
+        }
+      ]
+    },
+    {
+      "id": "scout",
+      "name": "Source Scout",
+      "role": "Works through gaps.md on official websites; collects up to 10 candidate documents for the owner to approve",
+      "brief_file": "work/briefs/11-scout.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Source Scout\n\n**Role:** Work through `build-log/gaps.md`, **critical gaps first**, and find candidate source documents. Follow `CLAUDE.md` MISSING SOURCES exactly. You may use the web, but only for this.\n\n**Rules:**\n- Look first on official sites: sec.gov, justice.gov, govinfo.gov, supremecourt.gov, uscourts.gov (including ca5.uscourts.gov and the district court sites), congress.gov, loc.gov. Never use an annotated, advocacy, or unofficial copy when an official one exists. If only an unofficial mirror exists, you may take it, but mark it `mirror` and say so.\n- If a document is only behind a paywall or login (for example PACER), don't look for another copy. Mark the gap row \"paywalled: <where>\" instead.\n- **At most 10 candidates in total.**\n- Download each to `sources/candidates/` (create it; this is the only place in `sources/` you may write), with a descriptive filename. Add a row to `sources/candidates/candidates.csv` with the same columns as `sources/manifest.csv` (`id,folder,filename,title,date,source_body,url,public_domain,status,notes`) plus `fills_gap,sha256,official_or_mirror,other_versions_exist`. Set status to `candidate-unapproved`.\n- Check each download is the real document, not an error page (look at its size and first page), and compute its SHA-256.\n- **Candidates are not part of the library.** Don't summarize their contents for anyone. Nobody may cite them until the owner approves.\n- Don't look for the Batson Second or Third Interim Reports. The owner has said they're not available free online (see `sources/README.md`).\n- In `build-log/gaps.md`, update each gap's Status column (e.g. \"candidate: <id>\" / \"not found on official sites\" / \"paywalled: PACER\"). Don't delete rows.\n\n**Output:** `sources/candidates/*`, `sources/candidates/candidates.csv`, the updated `build-log/gaps.md`, and `work/facts/scout-websites.md` (every site and URL you visited, and what you found).\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 2,
+      "runs": [
+        {
+          "started": "2026-09-26T10:49:36Z",
+          "finished": "2026-09-26T11:05:08Z",
+          "inputs": [
+            "build-log/gaps.md",
+            "web: justice.gov, sec.gov, ca5.uscourts.gov, tile.loc.gov, supremecourt.gov, govinfo.gov, web search for official links"
+          ],
+          "outputs": [
+            "sources/candidates/ (10 candidate documents, unapproved)",
+            "sources/candidates/candidates.csv",
+            "gaps.md status updates",
+            "work/facts/scout-websites.md"
+          ],
+          "decision": "accepted",
+          "reason": "10 candidates (the dry-run limit), 9 official copies plus one official court filing hosted by DOJ; no mirrors. PACER-only items marked paywalled. When a justice.gov page returned a bot-check, the Scout tried a scripted workaround, was blocked by the permission system, and stopped; coordinator will report this to the owner. Dec 12, 2001 hearing located on govinfo but not downloaded (limit reached)."
+        }
+      ],
+      "handoffs": [],
+      "reviews": []
+    },
+    {
+      "id": "story",
+      "name": "Story Writer",
+      "role": "Writes the seven chapters from checked fact cards, each ending with an Ask Why question",
+      "brief_file": "work/briefs/09-story-writer.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Story Writer\n\n**Role:** Write the seven chapters of \"The Story.\" Follow `00-common-rules.md` (markup conventions included) and the AUDIENCE AND TONE section of `CLAUDE.md`.\n\n**Audience and voice:** undergraduates from any major, no accounting background. Tell it as a story (scenes, people, stakes), but stay **neutral and factual**. No sensationalism, no adjectives that pass judgment (\"greedy,\" \"shocking\"), and no moralizing. Each chapter should take about 6–10 minutes to read: roughly 900–1,400 words. Short paragraphs.\n\n**Facts:** use **only** fact cards in `work/facts/*.json` whose `checked` is \"OK\" or \"FIXED\", or unchecked cards from a sample the checker passed. **Never use cards marked REJECTED.** Give each card's id in `data-card` on the citation. **Every sentence with a specific fact about a person, date, or amount carries a citation.** Use the card's verb. If you need a fact that has no card, don't look it up: add it to `work/drafts/story-requests.md` (the claim, and the kind of source that might have it) and write around it.\n\n**Concept explanations** (mark-to-market accounting, special purpose entities, hedging, restatement, auditor independence) may use general knowledge. Keep them simple, and use one worked illustration clearly labeled as an illustration.\n\n**Glossary terms:** wrap the first use of each accounting or legal term in `<span class=\"term\" data-term=\"ID\">`. List every term id you use, with a one-line plain definition, in `work/drafts/story-terms.md` (the Reference Writer builds the glossary from it).\n\n**Lenses (for Phase 2):** tag paragraphs with `data-lens` (money, auditors, board, knew) where they apply.\n\n**Images:** put one or more `<figure data-image=\"ID\"></figure>` placeholders in each chapter. Pick from `images/credits.json` (use its ids) or name a needed diagram in `work/drafts/story-requests.md`.\n\n**Chapters:**\n1. Origins\n2. The Business Model and Mark-to-Market Accounting\n3. The Special Purpose Entities\n4. Warning Signs and the Whistleblower\n5. The Collapse\n6. Arthur Andersen\n7. Aftermath and Reform\n\nChapter 7 covers the trials and how each case ended, employees' pensions, and SOX and the PCAOB **in brief**. (Phase 2 will add \"Why This Matters to You.\")\n\n**End each chapter** with `<aside class=\"ask-why\">`: one genuinely open question, the kind an instructor could use to start a class discussion, tied to the chapter. It's a question, not a verdict.\n\n**Reader tip rulings** are in `work/facts/factcheck-round1.md`. Follow them exactly.\n\n**Output:** `work/drafts/ch1.html` ... `ch7.html`. Each is an HTML fragment: `<h1>`, then an optional `<p class=\"dek\">` (a one-sentence summary), then the body. Also `work/drafts/story-requests.md` and `work/drafts/story-terms.md`.\n\n## Coordinator addendum (after Fact-Checker Round 1)\n- Read `work/facts/factcheck-round1.md` first. Its table of **26 source disagreements** says how each must be presented (for example, restatement figures: use the 10-Q; Q3 2001 loss: $618M announced vs. $644M filed; the bankruptcy date Dec 2 vs. Dec 3). Follow it. Where sources disagree, say so in plain words (\"Enron's filings and the board's investigation give different figures: ...\").\n- Read `work/drafts/site-notes.md` (from the Site Builder) for the exact file names and data formats.\n- Reader tips, as ruled: **Buffett is excluded. Don't mention it.** The ranking may appear only as: \"In 2001, *Fortune* magazine ranked Enron seventh on its list of the 500 largest U.S. companies, measured by revenue,\" citing `rpt-jct-vol1` p. 58 (PDF 86) and `batson-final` n. 27 (PDF 18). Never say \"at its peak\" or \"in the world.\"\n- Andersen's CEO quote from the Dec 12, 2001 hearing: attribute it to \"Andersen's CEO, as quoted in the Powers Report.\" Don't name him for that quote.\n- Every card now carries `checked` and `checker_note`. Read the `checker_note` before using a card.\n- Images: the Image Researcher is still working. Use ids from `images/credits.json` if it exists. Otherwise use descriptive placeholder ids (e.g. `diagram-raptor`, `photo-enron-hq`) and list them in your requests file.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 2,
+      "runs": [
+        {
+          "started": "2026-09-26T11:03:37Z",
+          "finished": "2026-09-26T11:19:18Z",
+          "inputs": [
+            "200 checked fact cards (A, B, C), factcheck-round1.md, site-notes.md, images/credits.json"
+          ],
+          "outputs": [
+            "work/drafts/ch1.html ... ch7.html (about 9,600 words, 240 citations)",
+            "work/drafts/story-terms.md (42 terms)",
+            "work/drafts/story-requests.md (8 requests)",
+            "work/drafts/story-src/ (source drafts and the script that expands citations)"
+          ],
+          "decision": "accepted, pending Fact-Checker round 2",
+          "reason": "Coordinator copied the writer's citation script and source drafts from the scratchpad into work/drafts/story-src/ so the build is reproducible."
+        }
+      ],
+      "handoffs": [],
+      "reviews": []
+    },
+    {
+      "id": "reference",
+      "name": "Reference Writer",
+      "role": "Writes the Cast of Characters, Timeline 1985-2006 and Glossary from checked fact cards",
+      "brief_file": "work/briefs/10-reference-writer.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Reference Writer\n\n**Role:** Write the Cast of Characters, the Timeline (1985–2006), and the Glossary. Follow `00-common-rules.md` and `CLAUDE.md`. Same fact rules as the Story Writer: use only cards marked \"OK\" or \"FIXED\" in `work/facts/*.json` and `work/facts/people-outcomes.md`; never use REJECTED cards; and put what's missing in `work/drafts/reference-requests.md` instead of looking it up.\n\n**Cast of Characters:** `js/cast-data.js` → `window.CAST = [...]`, in the format in `work/drafts/site-notes.md` (from the Site Builder). For each person:\n- their role, with dates;\n- a 2–4 sentence neutral summary;\n- `outcome_status`, one of: \"convicted\", \"convicted — later narrowed on appeal\", \"conviction vacated (died before appeal)\", \"conviction reversed\", \"pleaded guilty\", \"SEC settlement\", \"charged — outcome not in library\", \"not charged (per source)\", \"no charges shown in library\", \"not accused of wrongdoing\";\n- `outcome_text`: exactly what happened, with the right verbs;\n- `cites`: an array of `{source_id, page, loc, card}`.\n\nPrecision matters most here. If the library doesn't document how a case ended, say that plainly, and log a gap in `work/drafts/reference-gaps.md`.\n\n**Timeline:** `js/timeline-data.js` → `window.TIMELINE = [...]`. Cover 1985–2006, 35–60 events, each with a date (as precise as the source allows), a title, 1–2 sentences, `cites`, and `tags` from: company, accounting, spe, people, markets, auditors, legal, government, reform. The 2010 *Skilling v. United States* decision appears as the last item, with `epilogue: true`.\n\n**Glossary:** `js/glossary-data.js` → `window.GLOSSARY = { \"term-id\": {\"term\", \"short\" (≤ 25 words, plain), \"long\" (2–4 plain sentences, one everyday example), \"see_also\": [...]} }`. Include every term id in `work/drafts/story-terms.md` and `work/drafts/footnote-glossary-terms.md`, plus: form 10-K, footnote, related-party transaction, special purpose entity, mark-to-market accounting, restatement, auditor, audit committee, Sarbanes-Oxley Act, PCAOB, SEC, indictment, plea agreement, vacated, honest-services fraud, obstruction of justice, Big Five / Big Four, 401(k). Definitions are general knowledge; give no Enron-specific facts without a card citation.\n\n**Outputs:** the three data files, plus `work/drafts/reference-requests.md` and `work/drafts/reference-gaps.md`.\n\n## Coordinator addendum (after Fact-Checker Round 1)\n- Read `work/facts/factcheck-round1.md` first. Its table of **26 source disagreements** says how each must be presented (for example, restatement figures: use the 10-Q; Q3 2001 loss: $618M announced vs. $644M filed; the bankruptcy date Dec 2 vs. Dec 3). Follow it. Where sources disagree, say so in plain words (\"Enron's filings and the board's investigation give different figures: ...\").\n- Read `work/drafts/site-notes.md` (from the Site Builder) for the exact file names and data formats.\n- Reader tips, as ruled: **Buffett is excluded. Don't mention it.** The ranking may appear only as: \"In 2001, *Fortune* magazine ranked Enron seventh on its list of the 500 largest U.S. companies, measured by revenue,\" citing `rpt-jct-vol1` p. 58 (PDF 86) and `batson-final` n. 27 (PDF 18). Never say \"at its peak\" or \"in the world.\"\n- Andersen's CEO quote from the Dec 12, 2001 hearing: attribute it to \"Andersen's CEO, as quoted in the Powers Report.\" Don't name him for that quote.\n- Every card now carries `checked` and `checker_note`. Read the `checker_note` before using a card.\n- Images: the Image Researcher is still working. Use ids from `images/credits.json` if it exists. Otherwise use descriptive placeholder ids (e.g. `diagram-raptor`, `photo-enron-hq`) and list them in your requests file.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 2,
+      "runs": [
+        {
+          "started": "2026-09-26T11:03:37Z",
+          "finished": "2026-09-26T11:18:17Z",
+          "inputs": [
+            "176 checked fact cards (A, B, C), footnote.json, people-outcomes.md, factcheck-round1.md; fingerprints of 41 cited files all matched"
+          ],
+          "outputs": [
+            "js/cast-data.js (23 entries)",
+            "js/timeline-data.js (60 events, 1985-2006 plus 2010 epilogue)",
+            "js/glossary-data.js (124 terms)",
+            "work/drafts/reference-requests.md",
+            "work/drafts/reference-gaps.md"
+          ],
+          "decision": "accepted, pending Fact-Checker round 2",
+          "reason": "Outcome labels follow the library strictly (e.g. Fastow, Glisan, Delainey listed as convicted only per DOJ 2004 convicted-to-date list, with plea/trial and sentence stated as not in library). Flag for Fact-Checker: check that wording. Test script timeline tag (law vs legal) to be fixed by Site Builder in Wave 4."
+        }
+      ],
+      "handoffs": [],
+      "reviews": []
+    },
+    {
+      "id": "factcheck-a",
+      "name": "Fact-Checker (Part A: chapters)",
+      "role": "Wave 3",
+      "brief_file": "work/briefs/13-factcheck-pages.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Fact-Checker, Round 2 (every page)\n\n**Role:** The independent review of everything a reader will see, before Phase 1 counts as done. Follow `00-common-rules.md` and `sources/README.md` \"Rules for the agents\". Two Fact-Checker instances run at the same time, each with its own part (below). **Don't edit the drafts or data files yourself.** Report findings; the writer fixes them; then you re-check (Round 3).\n\n**Part A (instance A):** `work/drafts/ch1.html` ... `ch7.html`, including figure captions.\n**Part B (instance B):**\n- `js/cast-data.js`, `js/timeline-data.js`;\n- `js/glossary-data.js` (only entries containing Enron-specific facts, and any definition that is wrong as general knowledge);\n- the three Enron diagrams `images/diagram-raptor.svg`, `diagram-chewco-ljm.svg`, `chart-restatement.svg` (and their `-narrow` versions: same facts);\n- `work/drafts/footnote.json`: its intro and closing, plus a 25% spot re-check of the annotations fixed in Round 1.\n\n**For every citation or factual sentence:**\n1. **Does the cited card support the sentence exactly?** No added detail, no stronger verb, no merged facts that the cards don't join. Where the text relies on a card's notes rather than its quote, check the source itself at the locator.\n2. **Does the card's source say it at that locator?** For every claim about a named person, and every date or dollar amount, open the source. For other claims, a 30% sample.\n3. **Verbs and outcomes:** alleged / found / testified / concluded / held / pleaded guilty / convicted. No one is called guilty whose conviction was reversed or vacated, or who was only charged. \"No charges shown in the library\" never becomes \"never charged\". Taking the Fifth is not presented as guilt.\n4. **Quotes:** verbatim, short, correctly attributed.\n5. **Disagreements:** handled as the table in `work/facts/factcheck-round1.md` rules.\n6. **Reader tips:** Buffett absent; the Fortune ranking only in the ruled wording.\n7. **Tone:** neutral and factual; no sensational or judging words (flag them).\n8. **Concept explanations** drawn from general knowledge must be correct and must not smuggle in Enron-specific claims.\n9. **Citations:** `data-src` is a manifest id; `data-page` points to the right PDF page; no candidate document (`sources/candidates/`) is cited anywhere.\n\n**Output:** `work/facts/factcheck-round2-partA.md` or `-partB.md`. Each is a table: # | file | location (paragraph or entry id) | problem | what the source says (with locator) | required fix | severity (**must-fix** = factually wrong or unsupported; **should-fix** = wording, verb, tone; **note**). End with a one-line verdict per file: PASS / PASS AFTER FIXES / FAIL.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 3,
+      "runs": [
+        {
+          "started": "2026-09-26T11:19:18Z",
+          "finished": null,
+          "inputs": [],
+          "outputs": [],
+          "decision": "pending",
+          "reason": ""
+        }
+      ],
+      "handoffs": [],
+      "reviews": []
+    },
+    {
+      "id": "factcheck-b",
+      "name": "Fact-Checker (Part B: cast, timeline, glossary, diagrams)",
+      "role": "Wave 3",
+      "brief_file": "work/briefs/13-factcheck-pages.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Fact-Checker, Round 2 (every page)\n\n**Role:** The independent review of everything a reader will see, before Phase 1 counts as done. Follow `00-common-rules.md` and `sources/README.md` \"Rules for the agents\". Two Fact-Checker instances run at the same time, each with its own part (below). **Don't edit the drafts or data files yourself.** Report findings; the writer fixes them; then you re-check (Round 3).\n\n**Part A (instance A):** `work/drafts/ch1.html` ... `ch7.html`, including figure captions.\n**Part B (instance B):**\n- `js/cast-data.js`, `js/timeline-data.js`;\n- `js/glossary-data.js` (only entries containing Enron-specific facts, and any definition that is wrong as general knowledge);\n- the three Enron diagrams `images/diagram-raptor.svg`, `diagram-chewco-ljm.svg`, `chart-restatement.svg` (and their `-narrow` versions: same facts);\n- `work/drafts/footnote.json`: its intro and closing, plus a 25% spot re-check of the annotations fixed in Round 1.\n\n**For every citation or factual sentence:**\n1. **Does the cited card support the sentence exactly?** No added detail, no stronger verb, no merged facts that the cards don't join. Where the text relies on a card's notes rather than its quote, check the source itself at the locator.\n2. **Does the card's source say it at that locator?** For every claim about a named person, and every date or dollar amount, open the source. For other claims, a 30% sample.\n3. **Verbs and outcomes:** alleged / found / testified / concluded / held / pleaded guilty / convicted. No one is called guilty whose conviction was reversed or vacated, or who was only charged. \"No charges shown in the library\" never becomes \"never charged\". Taking the Fifth is not presented as guilt.\n4. **Quotes:** verbatim, short, correctly attributed.\n5. **Disagreements:** handled as the table in `work/facts/factcheck-round1.md` rules.\n6. **Reader tips:** Buffett absent; the Fortune ranking only in the ruled wording.\n7. **Tone:** neutral and factual; no sensational or judging words (flag them).\n8. **Concept explanations** drawn from general knowledge must be correct and must not smuggle in Enron-specific claims.\n9. **Citations:** `data-src` is a manifest id; `data-page` points to the right PDF page; no candidate document (`sources/candidates/`) is cited anywhere.\n\n**Output:** `work/facts/factcheck-round2-partA.md` or `-partB.md`. Each is a table: # | file | location (paragraph or entry id) | problem | what the source says (with locator) | required fix | severity (**must-fix** = factually wrong or unsupported; **should-fix** = wording, verb, tone; **note**). End with a one-line verdict per file: PASS / PASS AFTER FIXES / FAIL.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 3,
+      "runs": [
+        {
+          "started": "2026-09-26T11:19:18Z",
+          "finished": null,
+          "inputs": [],
+          "outputs": [],
+          "decision": "pending",
+          "reason": ""
+        }
+      ],
+      "handoffs": [],
+      "reviews": []
+    },
+    {
+      "id": "reader-b-followup",
+      "name": "Reader B (follow-up)",
+      "role": "Wave 3",
+      "brief_file": "work/briefs/14-reader-followup.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Reader B, follow-up (requests from the writers)\n\n**Role:** Answer the writers' fact requests that the **library** can answer. Produce new fact cards with ids `F-001`... in `work/facts/reader-followup.json`, same format and rules as before (`00-common-rules.md`). No web. Anything the library can't answer, mark \"not in library\" in your report (the gaps are already logged).\n\nRequests:\n1. Sherron Watkins's August 2001 letter to Lay: the Senate PSI staff report's quotations of it (`rpt-psi-board`, around printed p. 48, Finding 4). Also check whether any library hearing prints the letter itself (`hrg-commerce-skilling-watkins` and others). 1–3 cards with short verbatim phrases.\n2. Lay's words in Enron's Oct 16, 2001 earnings release as quoted in `batson-1st-interim` (around PDF p. 2; check against the page image). 1 card.\n3. Whether any library document states that Enron reported trading revenue \"gross\" (the full value of the traded contracts), e.g. the `enron-10k-2000` accounting notes, `powers-report-sec`, the Batson reports, or `rpt-sga-watchdogs`. Search, and card it only if a source says so directly.\n4. Enron's Code of Conduct on officers' outside interests, as described in `rpt-psi-board` printed p. 24 n. 58 (and the Powers Report if it discusses the waiver or ratification). 1–2 cards.\n5. **Absence checks** for the Cast: for Nancy Temple, Lea Fastow, Richard Buy, Greg Whalley, Vince Kaminski, and Raymond Troubh, search every library text (`work/text/*.txt` and the `.txt`/`.htm` sources) and report what the library says about each one's role and any charges. Make a card for each person's role (if documented), and state in `notes` what the search found about charges (e.g. \"no library document shows charges\").\n\n**Output:** `work/facts/reader-followup.json`, `work/facts/reader-followup-readlog.md`. Final report.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 3,
+      "runs": [
+        {
+          "started": "2026-09-26T11:19:18Z",
+          "finished": null,
+          "inputs": [],
+          "outputs": [],
+          "decision": "pending",
+          "reason": ""
+        }
+      ],
+      "handoffs": [],
+      "reviews": []
+    },
+    {
+      "id": "site-integrate",
+      "name": "Site Builder (integration)",
+      "role": "Wave 3",
+      "brief_file": "work/briefs/15-site-integrate.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Site Builder, integration pass\n\n**Role:** Put the Wave 2 content into the site. Follow `00-common-rules.md` and your own `work/drafts/site-notes.md`. **Don't change any wording of the content.** The fact-check runs in parallel, and fixes will come later, so make integration **re-runnable by script**. Write `work/tools/integrate.py`, which:\n- splices `work/drafts/ch1.html` ... `ch7.html` into `chapters/ch1.html` ... `ch7.html` between your splice markers;\n- turns `work/drafts/footnote.json` into `js/footnote-data.js` (your `wrap_json.py` approach).\n\nAlso:\n- Show the three new diagrams (`diagram-raptor`, `diagram-chewco-ljm`, `chart-restatement`) and all other figures with `<picture>` narrow/wide sources where a `narrow_file` exists (see `images/credits.json`), with credit lines. Make sure the SVG diagrams read well in both light and dark themes, and with the site's manual theme toggle.\n- Make `credits.html` list all 13 images with author, license, source link, and (for original diagrams) the fact cards they rest on.\n- Fix `work/tools/test_site.py`: the timeline tag is `legal`, not `law`. Also add checks for:\n  - every `a.cite` resolving to a source in `window.SOURCES`;\n  - every `.term` resolving to a `window.GLOSSARY` entry;\n  - every `figure[data-image]` resolving to a credits entry;\n  - every citation link target file existing on disk.\n  Report any failures (for example glossary ids missing from `glossary-data.js`) to the coordinator. Don't invent content to fix them.\n- `how-built.html`: make sure it renders the real log well (`build-log/log.js` is regenerated by `python3 work/tools/build_log.py`; run it first). Leave the \"Before the agents\" section as the Scribe wrote it.\n- Home page: replace the placeholders with a short, neutral welcome that makes **no factual claims about Enron**. Explain the idea of \"Ask Why\" and how to use the site (margin notes, glossary, presentation mode, keyboard), and link to all the sections. Use a one-sentence description of each chapter taken from each draft's `<p class=\"dek\">`.\n- Run the tests at 1440×900, 1920×1080, and 390×844, and save screenshots.\n\n**Output:** the updated site files, `work/tools/integrate.py`, the test results, and a final report listing any content problems you noticed (**report them; don't fix the content**).\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 3,
+      "runs": [
+        {
+          "started": "2026-09-26T11:19:18Z",
+          "finished": null,
+          "inputs": [],
+          "outputs": [],
+          "decision": "pending",
+          "reason": ""
+        }
+      ],
+      "handoffs": [],
+      "reviews": []
     }
   ],
   "handoffs": [
@@ -293,27 +645,250 @@
       "from": "Coordinator",
       "to": "Wave 1 agents",
       "what": "Briefs work/briefs/01-07 plus common rules 00; text copies in work/text/"
+    },
+    {
+      "time": "2026-09-26T10:48:58Z",
+      "from": "Readers A, B, C and Footnote Annotator",
+      "to": "Fact-Checker",
+      "what": "work/facts/reader-a/b/c.json, people-outcomes.md, work/drafts/footnote.json"
+    },
+    {
+      "time": "2026-09-26T11:03:37Z",
+      "from": "Fact-Checker",
+      "to": "Story Writer, Reference Writer",
+      "what": "Checked fact cards (work/facts/*.json), factcheck-round1.md with disagreement table and tip rulings, footnote glossary terms, site-notes.md"
     }
   ],
-  "reviews": [],
-  "corrections": [],
-  "web_sources": [],
+  "reviews": [
+    {
+      "time": "2026-09-26T11:03:09Z",
+      "type": "review",
+      "agent_id": "factcheck",
+      "reviewed": "reader-a, reader-b, reader-c, footnote",
+      "result": "267 OK, 21 fixed, 0 rejected"
+    }
+  ],
+  "corrections": [
+    {
+      "number": "1",
+      "page_item": "Footnote annotation fn-11 (\"found\")",
+      "what_it_said": "The $172 million Raptor I note correction was \"separate from the $1.2 billion cut to shareholders' equity that Enron announced in October 2001.\"",
+      "what_the_source_says": "The $172M (Raptor I) + $828M (Raptors II and IV) correction made up $1 billion of that $1.2 billion reduction.",
+      "fix": "Rewrote the ending to say the correction made up most of the $1.2 billion cut; added verbatim citation to Powers n. 60.",
+      "source": "powers-report-sec, p. 98 (lines 3647-3651); pp. 125-126 and n. 60 (lines 4569-4612)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "2",
+      "page_item": "Footnote annotation fn-05 (\"left_out\")",
+      "what_it_said": "\"In 1999, Enron said the terms were 'reasonable and no less favorable' ... In 2000, it said only ... 'reasonable compared to'.\" (one change)",
+      "what_the_source_says": "That wording was in the Q2 and Q3 1999 10-Qs; the 1999 10-K dropped \"reasonable\"; Q1 2000 changed it again; the 2000 10-K used \"reasonable compared to\".",
+      "fix": "Reworded to \"mid-1999 quarterly reports\" and \"the wording changed several times\"; added citation.",
+      "source": "powers-report-sec, p. 196 (lines 6979-6993)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "3",
+      "page_item": "Footnote annotation ctx-01 (\"left_out\")",
+      "what_it_said": "Stated as fact that the Related Party's Whitewing contributions were made through Osprey certificates.",
+      "what_the_source_says": "Powers lists LJM purchases of Osprey equity ($15M; $26M; $6.5M) as equity in a limited partner/affiliate of Whitewing; no source states they are the Note 15 contributions.",
+      "fix": "Hedged: \"The amounts match ... No source says in so many words that these are the same payments.\"",
+      "source": "powers-report-sec, p. 146 table (lines 5243-5290)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "4",
+      "page_item": "Card A-048 (Rhythms; Andersen CEO testimony)",
+      "what_it_said": "Listed Joseph Berardino in \"people\"; claim said Andersen's CEO \"testified\"; source type \"sworn testimony\".",
+      "what_the_source_says": "Powers quotes \"Andersen's CEO\" in \"December 12, 2001, Congressional testimony\" without a name; the library has no transcript of that hearing.",
+      "fix": "Removed Berardino; claim now \"According to the Powers Report, Andersen's CEO told Congress\"; source type \"board committee report quoting congressional testimony\". Gap logged.",
+      "source": "powers-report-sec, pp. 82-83 (lines 3115-3131); hrg-hfs-enron-investors (Feb 2002) checked",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "5",
+      "page_item": "Card A-097 (Batson on Lay/Skilling/outside directors)",
+      "what_it_said": "\"He found insufficient evidence of the same oversight failure by the outside directors\" (only).",
+      "what_the_source_says": "The examiner also concluded a fact-finder could find that certain outside directors breached their duty of good faith in approving the Rhythms and certain Raptor hedges.",
+      "fix": "Added that conclusion to the claim.",
+      "source": "batson-final, pp. 10-11 (PDF 13-14, image-checked)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "6",
+      "page_item": "Card A-041 (LJM2 approval) note",
+      "what_it_said": "\"Approval (Oct 11, 1999) is not in dispute.\"",
+      "what_the_source_says": "Powers: Finance Committee Oct 11 and full Board \"later that day\"; Senate PSI: Board approved \"the following day,\" Oct 12, 1999.",
+      "fix": "Note now records the disagreement.",
+      "source": "powers-report-sec, p. 71 (lines ~2707-2737); rpt-psi-board, p. 26 (PDF 30, lines 1744-1749)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "7",
+      "page_item": "Card B-002 (Lay background) note",
+      "what_it_said": "Gave Batson's \"May 1985\" for the InterNorth-HNG acquisition with no warning.",
+      "what_the_source_says": "JCT gives July 1, 1985 (effective June 1, 1985 for financial reporting).",
+      "fix": "Added disagreement note: use the JCT date.",
+      "source": "batson-final-app-d, p. 11 (PDF 13, image); rpt-jct-vol1, pp. 59-60 (PDF 87-88, image)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "8",
+      "page_item": "Card B-013 (Batson, good-faith breach)",
+      "what_it_said": "\"Lay, Skilling and the outside directors breached their duty of good faith...\"",
+      "what_the_source_says": "Covers only the outside directors who were on the Board in June 1999 (Rhythms) and May-August 2000 (Raptors).",
+      "fix": "Claim now says \"the outside directors who were on the Board at the time\".",
+      "source": "batson-final-app-d, p. 7 (PDF 9, image)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "9",
+      "page_item": "Card B-065 (Berardino)",
+      "what_it_said": "\"his second appearance (the first was in mid-December 2001)\"",
+      "what_the_source_says": "The Feb 2002 transcript shows only \"When I last appeared before this committee\"; no library transcript of the earlier appearance or its date.",
+      "fix": "Replaced with \"he referred to an earlier appearance before the committee.\"",
+      "source": "hrg-hfs-enron-investors, PDF 125 (lines 7555-7568)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "10",
+      "page_item": "Card B-075 (director John H. Duncan)",
+      "what_it_said": "Locator PDF 25 / p. 15. Claim: \"management and Andersen knew of the problems but did not tell the board\" (as Duncan's own assertion).",
+      "what_the_source_says": "Lines 1345-1420 are on PDF 24 / printed p. 14. Duncan said the Powers Report and press reports \"indicate\" that certain members of management and the outside auditors knew.",
+      "fix": "Corrected locator; claim now attributes the point to the Powers Report and press reports as Duncan described them.",
+      "source": "hrg-psi-board, PDF 24 (lines 1310-1420)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "11",
+      "page_item": "Card B-079 (LeMaistre) note",
+      "what_it_said": "Report's quotation \"We never had any responsibility to monitor this.\" presented without the transcript.",
+      "what_the_source_says": "Transcript reads \"We had never had any responsibility to monitor this.\"",
+      "fix": "Note added: quote the transcript and cite hrg-psi-board PDF 100.",
+      "source": "hrg-psi-board, PDF 100 / printed p. 90 (line 6041); rpt-psi-board, p. 50",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "12",
+      "page_item": "Cards B-054, B-062, B-066, B-068, B-073, B-074, B-078 (quotes)",
+      "what_it_said": "Quotes kept typesetting line-break hyphens (e.g. \"account- ant\", \"de- cline\", \"chal- lenged\").",
+      "what_the_source_says": "The printed words are \"accountant\", \"decline\", \"challenged\", etc.",
+      "fix": "Removed the line-break hyphens so quotes can be used as is.",
+      "source": "The cited transcripts/report pages (see each card)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "13",
+      "page_item": "Card C-031 (Andersen and Audit Committee)",
+      "what_it_said": "\"The examiner found evidence that Andersen failed its duty...\"",
+      "what_the_source_says": "The examiner said the evidence \"is sufficient to permit a fact-finder to conclude\" that Andersen failed.",
+      "fix": "Claim reworded to the examiner's standard.",
+      "source": "batson-final-app-b-part1, pp. 3-4 (PDF 5-6, image)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "14",
+      "page_item": "Card C-041 (Andersen headcount) note",
+      "what_it_said": "\"Headcount is U.S. per the article.\"",
+      "what_the_source_says": "The examiner does not say; the cited Chicago Tribune article is not in the library.",
+      "fix": "Removed the statement and a duplicated sentence.",
+      "source": "batson-final-app-b-part1, p. 61 (PDF 63, image)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "15",
+      "page_item": "Card C-030 (Andersen's $1 billion equity error) note",
+      "what_it_said": "Did not connect the $1 billion equity error to the $1.2 billion equity reduction.",
+      "what_the_source_says": "Powers: this $1 billion correction made up $1 billion of the $1.2 billion reduction; Batson n. 206 says it is unrelated to the Oct 16 earnings charge.",
+      "fix": "Note clarified so writers do not merge or wrongly separate the two $1 billion figures.",
+      "source": "powers-report-sec, pp. 125-126, n. 60; batson-final-app-b-part1, p. 63 n. 206 (PDF 65, image)",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    }
+  ],
+  "web_sources": [
+    {
+      "site": "commons.wikimedia.org",
+      "url": "https://commons.wikimedia.org/",
+      "used_by": "Image Researcher & Diagrammer",
+      "purpose": "Image search and license checks",
+      "time": "2026-09-26T11:04:15Z"
+    },
+    {
+      "site": "upload.wikimedia.org",
+      "url": "https://upload.wikimedia.org/",
+      "used_by": "Image Researcher & Diagrammer",
+      "purpose": "Image downloads",
+      "time": "2026-09-26T11:04:15Z"
+    },
+    {
+      "site": "www.loc.gov",
+      "url": "https://www.loc.gov/",
+      "used_by": "Image Researcher & Diagrammer",
+      "purpose": "Rights statements for two Carol Highsmith photos",
+      "time": "2026-09-26T11:04:15Z"
+    },
+    {
+      "site": "justice.gov",
+      "url": "https://www.justice.gov/archive/",
+      "used_by": "Source Scout",
+      "purpose": "DOJ Enron Task Force press releases and filings",
+      "time": "2026-09-26T11:05:08Z"
+    },
+    {
+      "site": "sec.gov",
+      "url": "https://www.sec.gov/litigation/",
+      "used_by": "Source Scout",
+      "purpose": "SEC litigation release",
+      "time": "2026-09-26T11:05:08Z"
+    },
+    {
+      "site": "ca5.uscourts.gov",
+      "url": "https://www.ca5.uscourts.gov/",
+      "used_by": "Source Scout",
+      "purpose": "Fifth Circuit 2011 opinion",
+      "time": "2026-09-26T11:05:08Z"
+    },
+    {
+      "site": "tile.loc.gov",
+      "url": "https://tile.loc.gov/",
+      "used_by": "Source Scout",
+      "purpose": "U.S. Reports copy of the Andersen opinion",
+      "time": "2026-09-26T11:05:08Z"
+    },
+    {
+      "site": "supremecourt.gov",
+      "url": "https://www.supremecourt.gov/",
+      "used_by": "Source Scout",
+      "purpose": "Andersen slip opinion (not found)",
+      "time": "2026-09-26T11:05:08Z"
+    },
+    {
+      "site": "govinfo.gov",
+      "url": "https://www.govinfo.gov/",
+      "used_by": "Source Scout",
+      "purpose": "Dec 12, 2001 hearing located (not downloaded)",
+      "time": "2026-09-26T11:05:08Z"
+    }
+  ],
   "briefs_not_yet_assigned": [
     {
-      "file": "work/briefs/08-factcheck-cards.md",
-      "text": "# Brief: Fact-Checker, Round 1 (fact cards)\n\n**Role:** You are the team's independent fact-checker. Nothing reaches the site until you've checked it. In this round you check the **fact cards** before any writer uses them. Follow `00-common-rules.md` and the \"Rules for the agents\" in `sources/README.md`. You enforce them.\n\n**Inputs:** `work/facts/reader-a.json`, `reader-b.json`, `reader-c.json`, `work/facts/people-outcomes.md`, and `work/drafts/footnote.json` (the annotations are checked in the same way as cards).\n\n**What to check, against the source itself (open the file at the cited page or lines; never trust the card's quote):**\n1. **Every card that names a real person, and every footnote annotation:** check all of them.\n2. **Every card with a date or a dollar amount:** check all of them.\n3. **Other cards:** a random sample of at least 25%.\nFor each card:\n- Does the file's fingerprint match `download_log.csv`? (Check each file once.)\n- Is the quote verbatim at that locator? For OCR cards, check against the page image (Read the PDF with `pages`).\n- Does the claim say no more than the quote and its context support?\n- Is the verb right for the kind of source (alleged / found / testified / held / pleaded guilty / convicted)?\n- For outcomes: is anyone called guilty whose conviction was reversed or vacated, or who was never charged? Is anything asserted that no library document states?\n- Do sources disagree? Note it.\n\n**The reader tips (give a ruling on each, with reasons):**\n1. \"Warren Buffett read Enron's footnote, didn't understand it, and threw the 10-K away.\" Search `work/text/` and the `.txt` sources for \"Buffett\" yourself. If there's no library support, the ruling is \"exclude; log as gap.\" Say what kind of document would be needed.\n2. \"At its peak, Enron was America's seventh-largest company.\" Rule on whether and how it may be stated (exact wording, attribution, hedging), based on the cards and your own check of `sec-kopper-complaint` and any other library support.\n\n**Outputs:**\n- `work/facts/factcheck-round1.md`: a summary; a table of every card or annotation checked (id | verdict: OK / FIXED / REJECTED / NEEDS-SOURCE | note); the rulings on the reader tips.\n- Apply fixes directly in the card files. Add `\"checked\": \"OK\" | \"FIXED\" | \"REJECTED\"` and `\"checker_note\"` fields to each checked card. **Don't delete rejected cards**: mark them `REJECTED` so writers skip them.\n- **Append every correction** (anything you changed or rejected) as a row in `build-log/corrections.md`, using the table columns already there.\n- `work/facts/factcheck-gaps.md`: any gaps you find.\n"
-    },
-    {
-      "file": "work/briefs/09-story-writer.md",
-      "text": "# Brief: Story Writer\n\n**Role:** Write the seven chapters of \"The Story.\" Follow `00-common-rules.md` (markup conventions included) and the AUDIENCE AND TONE section of `CLAUDE.md`.\n\n**Audience and voice:** undergraduates from any major, no accounting background. Tell it as a story (scenes, people, stakes), but stay **neutral and factual**. No sensationalism, no adjectives that pass judgment (\"greedy,\" \"shocking\"), and no moralizing. Each chapter should take about 6–10 minutes to read: roughly 900–1,400 words. Short paragraphs.\n\n**Facts:** use **only** fact cards in `work/facts/*.json` whose `checked` is \"OK\" or \"FIXED\", or unchecked cards from a sample the checker passed. **Never use cards marked REJECTED.** Give each card's id in `data-card` on the citation. **Every sentence with a specific fact about a person, date, or amount carries a citation.** Use the card's verb. If you need a fact that has no card, don't look it up: add it to `work/drafts/story-requests.md` (the claim, and the kind of source that might have it) and write around it.\n\n**Concept explanations** (mark-to-market accounting, special purpose entities, hedging, restatement, auditor independence) may use general knowledge. Keep them simple, and use one worked illustration clearly labeled as an illustration.\n\n**Glossary terms:** wrap the first use of each accounting or legal term in `<span class=\"term\" data-term=\"ID\">`. List every term id you use, with a one-line plain definition, in `work/drafts/story-terms.md` (the Reference Writer builds the glossary from it).\n\n**Lenses (for Phase 2):** tag paragraphs with `data-lens` (money, auditors, board, knew) where they apply.\n\n**Images:** put one or more `<figure data-image=\"ID\"></figure>` placeholders in each chapter. Pick from `images/credits.json` (use its ids) or name a needed diagram in `work/drafts/story-requests.md`.\n\n**Chapters:**\n1. Origins\n2. The Business Model and Mark-to-Market Accounting\n3. The Special Purpose Entities\n4. Warning Signs and the Whistleblower\n5. The Collapse\n6. Arthur Andersen\n7. Aftermath and Reform\n\nChapter 7 covers the trials and how each case ended, employees' pensions, and SOX and the PCAOB **in brief**. (Phase 2 will add \"Why This Matters to You.\")\n\n**End each chapter** with `<aside class=\"ask-why\">`: one genuinely open question, the kind an instructor could use to start a class discussion, tied to the chapter. It's a question, not a verdict.\n\n**Reader tip rulings** are in `work/facts/factcheck-round1.md`. Follow them exactly.\n\n**Output:** `work/drafts/ch1.html` ... `ch7.html`. Each is an HTML fragment: `<h1>`, then an optional `<p class=\"dek\">` (a one-sentence summary), then the body. Also `work/drafts/story-requests.md` and `work/drafts/story-terms.md`.\n"
-    },
-    {
-      "file": "work/briefs/10-reference-writer.md",
-      "text": "# Brief: Reference Writer\n\n**Role:** Write the Cast of Characters, the Timeline (1985–2006), and the Glossary. Follow `00-common-rules.md` and `CLAUDE.md`. Same fact rules as the Story Writer: use only cards marked \"OK\" or \"FIXED\" in `work/facts/*.json` and `work/facts/people-outcomes.md`; never use REJECTED cards; and put what's missing in `work/drafts/reference-requests.md` instead of looking it up.\n\n**Cast of Characters:** `js/cast-data.js` → `window.CAST = [...]`, in the format in `work/drafts/site-notes.md` (from the Site Builder). For each person:\n- their role, with dates;\n- a 2–4 sentence neutral summary;\n- `outcome_status`, one of: \"convicted\", \"convicted — later narrowed on appeal\", \"conviction vacated (died before appeal)\", \"conviction reversed\", \"pleaded guilty\", \"SEC settlement\", \"charged — outcome not in library\", \"not charged (per source)\", \"no charges shown in library\", \"not accused of wrongdoing\";\n- `outcome_text`: exactly what happened, with the right verbs;\n- `cites`: an array of `{source_id, page, loc, card}`.\n\nPrecision matters most here. If the library doesn't document how a case ended, say that plainly, and log a gap in `work/drafts/reference-gaps.md`.\n\n**Timeline:** `js/timeline-data.js` → `window.TIMELINE = [...]`. Cover 1985–2006, 35–60 events, each with a date (as precise as the source allows), a title, 1–2 sentences, `cites`, and `tags` from: company, accounting, spe, people, markets, auditors, legal, government, reform. The 2010 *Skilling v. United States* decision appears as the last item, with `epilogue: true`.\n\n**Glossary:** `js/glossary-data.js` → `window.GLOSSARY = { \"term-id\": {\"term\", \"short\" (≤ 25 words, plain), \"long\" (2–4 plain sentences, one everyday example), \"see_also\": [...]} }`. Include every term id in `work/drafts/story-terms.md` and `work/drafts/footnote-glossary-terms.md`, plus: form 10-K, footnote, related-party transaction, special purpose entity, mark-to-market accounting, restatement, auditor, audit committee, Sarbanes-Oxley Act, PCAOB, SEC, indictment, plea agreement, vacated, honest-services fraud, obstruction of justice, Big Five / Big Four, 401(k). Definitions are general knowledge; give no Enron-specific facts without a card citation.\n\n**Outputs:** the three data files, plus `work/drafts/reference-requests.md` and `work/drafts/reference-gaps.md`.\n"
-    },
-    {
-      "file": "work/briefs/11-scout.md",
-      "text": "# Brief: Source Scout\n\n**Role:** Work through `build-log/gaps.md`, **critical gaps first**, and find candidate source documents. Follow `CLAUDE.md` MISSING SOURCES exactly. You may use the web, but only for this.\n\n**Rules:**\n- Look first on official sites: sec.gov, justice.gov, govinfo.gov, supremecourt.gov, uscourts.gov (including ca5.uscourts.gov and the district court sites), congress.gov, loc.gov. Never use an annotated, advocacy, or unofficial copy when an official one exists. If only an unofficial mirror exists, you may take it, but mark it `mirror` and say so.\n- If a document is only behind a paywall or login (for example PACER), don't look for another copy. Mark the gap row \"paywalled: <where>\" instead.\n- **At most 10 candidates in total.**\n- Download each to `sources/candidates/` (create it; this is the only place in `sources/` you may write), with a descriptive filename. Add a row to `sources/candidates/candidates.csv` with the same columns as `sources/manifest.csv` (`id,folder,filename,title,date,source_body,url,public_domain,status,notes`) plus `fills_gap,sha256,official_or_mirror,other_versions_exist`. Set status to `candidate-unapproved`.\n- Check each download is the real document, not an error page (look at its size and first page), and compute its SHA-256.\n- **Candidates are not part of the library.** Don't summarize their contents for anyone. Nobody may cite them until the owner approves.\n- Don't look for the Batson Second or Third Interim Reports. The owner has said they're not available free online (see `sources/README.md`).\n- In `build-log/gaps.md`, update each gap's Status column (e.g. \"candidate: <id>\" / \"not found on official sites\" / \"paywalled: PACER\"). Don't delete rows.\n\n**Output:** `sources/candidates/*`, `sources/candidates/candidates.csv`, the updated `build-log/gaps.md`, and `work/facts/scout-websites.md` (every site and URL you visited, and what you found).\n"
+      "file": "work/briefs/05-images.md",
+      "text": "# Brief: Image Researcher & Diagrammer (first pass)\n\n**Role:** Find and download images for the site, and draw original diagrams. Follow `00-common-rules.md` and the IMAGES section of `CLAUDE.md`. **You may use the web, but only for images.**\n\n**Allowed:** public domain or Creative Commons images from Wikimedia Commons, the Library of Congress, or U.S. government sites (for example the Congress, SEC, White House, or GPO sites). **Not allowed:** AP, Getty, or Reuters photos (check Commons file pages: some are mislabeled), screenshots from film or TV, or hot-linking. Use a photo of a real person only if the source clearly identifies who it is. Prefer images whose license is unambiguous.\n\n**Wanted, one or more per chapter:**\n1. Origins: Enron's Houston headquarters or the Houston skyline (Commons); the Enron logo, only if Commons marks it public domain (text logo, below the threshold of originality)\n2. Business model: something like a natural-gas pipeline or a trading floor (public domain or CC)\n3. SPEs: an **original diagram** (see below)\n4. Warning signs: an **original diagram** or a relevant government image (for example a Senate hearing room)\n5. Collapse: the stock price is best as an original chart, but only with data from the library, so skip it for now; instead a relevant public domain image (for example Enron's headquarters)\n6. Andersen: an Arthur Andersen office or building photo if CC or public domain, or the Supreme Court building\n7. Aftermath: President Bush signing Sarbanes-Oxley (White House photos are public domain), the U.S. Capitol, or the SEC building\n\n**Original diagrams:** draw clean SVGs by hand (simple shapes and labels, readable in the site's light and dark themes, readable at phone and projector sizes, and using `currentColor` or CSS variables where practical):\n- `images/diagram-spe-basic.svg`: how a special purpose entity moves money and assets off a company's balance sheet (generic concept; no specific numbers)\n- `images/diagram-mark-to-market.svg`: mark-to-market vs. waiting for the cash (a generic 10-year contract example; clearly marked \"illustration\")\n- `images/diagram-team.svg` will be made later by the Site Builder; skip it.\nDiagrams that show specific Enron facts (the Raptors) wait for Wave 2, when the fact cards exist.\n\n**Outputs:**\n- Downloaded files in `images/` (reasonable size: resize to at most ~1600px wide; keep the original filename meaningful)\n- `images/credits.json`: an array of `{\"id\", \"file\", \"title\", \"description\", \"source_url\", \"author\", \"license\", \"license_url\", \"is_original_diagram\", \"person_identified_by_source\": true|false|null, \"suggested_chapter\", \"retrieved\": \"YYYY-MM-DD\"}`\n- `images/credits.js`: the same data as `window.IMAGE_CREDITS = [...]` (for the site; keep the two in sync)\n- `work/facts/images-websites.md`: every website you visited and what you took from it\n"
     }
   ],
   "timeline": [
@@ -398,6 +973,223 @@
       "time": "2026-09-26T10:34:14Z",
       "type": "handoff",
       "label": "Handoff: Coordinator to Wave 1 agents"
+    },
+    {
+      "time": "2026-09-26T10:36:20Z",
+      "type": "agent_finish",
+      "label": "Finished: scribe (accepted)",
+      "agent_id": "scribe"
+    },
+    {
+      "time": "2026-09-26T10:46:01Z",
+      "type": "agent_finish",
+      "label": "Finished: reader-c (accepted, pending Fact-Checker round 1)",
+      "agent_id": "reader-c"
+    },
+    {
+      "time": "2026-09-26T10:46:21Z",
+      "type": "decision",
+      "label": "Coordinator decision: Reader B read three library documents outside its list"
+    },
+    {
+      "time": "2026-09-26T10:46:21Z",
+      "type": "agent_finish",
+      "label": "Finished: reader-b (accepted, pending Fact-Checker round 1)",
+      "agent_id": "reader-b"
+    },
+    {
+      "time": "2026-09-26T10:47:31Z",
+      "type": "agent_finish",
+      "label": "Finished: site (accepted)",
+      "agent_id": "site"
+    },
+    {
+      "time": "2026-09-26T10:48:07Z",
+      "type": "decision",
+      "label": "Coordinator decision: Footnote Annotator used enron-8k-nov-2001 beyond its list"
+    },
+    {
+      "time": "2026-09-26T10:48:07Z",
+      "type": "agent_finish",
+      "label": "Finished: footnote (accepted, pending Fact-Checker round 1)",
+      "agent_id": "footnote"
+    },
+    {
+      "time": "2026-09-26T10:48:58Z",
+      "type": "agent_finish",
+      "label": "Finished: reader-a (accepted, pending Fact-Checker round 1)",
+      "agent_id": "reader-a"
+    },
+    {
+      "time": "2026-09-26T10:48:58Z",
+      "type": "decision",
+      "label": "Coordinator decision: Reader tips passed to the Fact-Checker"
+    },
+    {
+      "time": "2026-09-26T10:48:58Z",
+      "type": "agent_start",
+      "label": "Started: Fact-Checker",
+      "agent_id": "factcheck"
+    },
+    {
+      "time": "2026-09-26T10:48:58Z",
+      "type": "handoff",
+      "label": "Handoff: Readers A, B, C and Footnote Annotator to Fact-Checker"
+    },
+    {
+      "time": "2026-09-26T10:49:36Z",
+      "type": "decision",
+      "label": "Coordinator decision: Merged gap lists"
+    },
+    {
+      "time": "2026-09-26T10:49:36Z",
+      "type": "agent_start",
+      "label": "Started: Source Scout",
+      "agent_id": "scout"
+    },
+    {
+      "time": "2026-09-26T11:03:09Z",
+      "type": "agent_finish",
+      "label": "Finished: factcheck (accepted)",
+      "agent_id": "factcheck"
+    },
+    {
+      "time": "2026-09-26T11:03:09Z",
+      "type": "review",
+      "label": "Review: factcheck",
+      "agent_id": "factcheck"
+    },
+    {
+      "time": "2026-09-26T11:03:09Z",
+      "type": "decision",
+      "label": "Coordinator decision: Reader-tip rulings adopted"
+    },
+    {
+      "time": "2026-09-26T11:03:37Z",
+      "type": "agent_start",
+      "label": "Started: Story Writer",
+      "agent_id": "story"
+    },
+    {
+      "time": "2026-09-26T11:03:37Z",
+      "type": "agent_start",
+      "label": "Started: Reference Writer",
+      "agent_id": "reference"
+    },
+    {
+      "time": "2026-09-26T11:03:37Z",
+      "type": "handoff",
+      "label": "Handoff: Fact-Checker to Story Writer, Reference Writer"
+    },
+    {
+      "time": "2026-09-26T11:04:15Z",
+      "type": "agent_finish",
+      "label": "Finished: images (accepted)",
+      "agent_id": "images"
+    },
+    {
+      "time": "2026-09-26T11:04:15Z",
+      "type": "web_source",
+      "label": "Web source used: commons.wikimedia.org"
+    },
+    {
+      "time": "2026-09-26T11:04:15Z",
+      "type": "web_source",
+      "label": "Web source used: upload.wikimedia.org"
+    },
+    {
+      "time": "2026-09-26T11:04:15Z",
+      "type": "web_source",
+      "label": "Web source used: www.loc.gov"
+    },
+    {
+      "time": "2026-09-26T11:04:34Z",
+      "type": "agent_start",
+      "label": "Started: Image Researcher & Diagrammer",
+      "agent_id": "images"
+    },
+    {
+      "time": "2026-09-26T11:05:08Z",
+      "type": "agent_finish",
+      "label": "Finished: scout (accepted)",
+      "agent_id": "scout"
+    },
+    {
+      "time": "2026-09-26T11:05:08Z",
+      "type": "web_source",
+      "label": "Web source used: justice.gov"
+    },
+    {
+      "time": "2026-09-26T11:05:08Z",
+      "type": "web_source",
+      "label": "Web source used: sec.gov"
+    },
+    {
+      "time": "2026-09-26T11:05:08Z",
+      "type": "web_source",
+      "label": "Web source used: ca5.uscourts.gov"
+    },
+    {
+      "time": "2026-09-26T11:05:08Z",
+      "type": "web_source",
+      "label": "Web source used: tile.loc.gov"
+    },
+    {
+      "time": "2026-09-26T11:05:08Z",
+      "type": "web_source",
+      "label": "Web source used: supremecourt.gov"
+    },
+    {
+      "time": "2026-09-26T11:05:08Z",
+      "type": "web_source",
+      "label": "Web source used: govinfo.gov"
+    },
+    {
+      "time": "2026-09-26T11:12:42Z",
+      "type": "agent_finish",
+      "label": "Finished: images (accepted, pending Fact-Checker round 2)",
+      "agent_id": "images"
+    },
+    {
+      "time": "2026-09-26T11:18:17Z",
+      "type": "agent_finish",
+      "label": "Finished: reference (accepted, pending Fact-Checker round 2)",
+      "agent_id": "reference"
+    },
+    {
+      "time": "2026-09-26T11:19:18Z",
+      "type": "agent_finish",
+      "label": "Finished: story (accepted, pending Fact-Checker round 2)",
+      "agent_id": "story"
+    },
+    {
+      "time": "2026-09-26T11:19:18Z",
+      "type": "decision",
+      "label": "Coordinator decision: Plan change: two Fact-Checker instances in Round 2, plus a Reader follow-up and site integration in parallel"
+    },
+    {
+      "time": "2026-09-26T11:19:18Z",
+      "type": "agent_start",
+      "label": "Started: Fact-Checker (Part A: chapters)",
+      "agent_id": "factcheck-a"
+    },
+    {
+      "time": "2026-09-26T11:19:18Z",
+      "type": "agent_start",
+      "label": "Started: Fact-Checker (Part B: cast, timeline, glossary, diagrams)",
+      "agent_id": "factcheck-b"
+    },
+    {
+      "time": "2026-09-26T11:19:18Z",
+      "type": "agent_start",
+      "label": "Started: Reader B (follow-up)",
+      "agent_id": "reader-b-followup"
+    },
+    {
+      "time": "2026-09-26T11:19:18Z",
+      "type": "agent_start",
+      "label": "Started: Site Builder (integration)",
+      "agent_id": "site-integrate"
     }
   ]
 }

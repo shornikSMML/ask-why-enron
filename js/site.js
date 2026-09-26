@@ -68,6 +68,11 @@
     var loc = [];
     if (cite.loc) loc.push(esc(cite.loc));
     if (cite.pdf_page && s && s.is_pdf) loc.push("PDF page " + esc(cite.pdf_page));
+    // A .txt source can name the PDF edition of the same document (pdf_source_id).
+    if (cite.pdf_page && cite.pdf_source_id && !(s && s.is_pdf)) {
+      var pdfHref = sourceHref(cite.pdf_source_id, cite.pdf_page);
+      if (pdfHref) loc.push('<a href="' + esc(pdfHref) + '" target="_blank" rel="noopener">PDF edition, page ' + esc(cite.pdf_page) + "</a>");
+    }
     if (loc.length) html += '<span class="loc">' + loc.join(" · ") + "</span>";
     if (cite.quote) html += '<span class="quote">“' + esc(cite.quote) + "”</span>";
     if (cite.card) html += ' <span class="card-id">' + esc(cite.card) + "</span>";
@@ -237,17 +242,40 @@
   }
   function creditHTML(img) {
     var parts = [];
-    if (img.is_original_diagram) parts.push("Original diagram for this site");
-    else if (img.author) parts.push(esc(img.author));
+    var details = '<a href="' + ROOT + "credits.html#img-" + encodeURIComponent(img.id) + '">Image details</a>';
+    if (img.is_original_diagram) {
+      parts.push(esc(img.credit_line || "Original diagram for this site"));
+      parts.push(details);
+      return parts.join(" · ");
+    }
+    if (img.author) parts.push(esc(img.author));
     if (img.license) parts.push(img.license_url ? '<a href="' + esc(img.license_url) + '" target="_blank" rel="noopener">' + esc(img.license) + "</a>" : esc(img.license));
     if (img.source_url) parts.push('<a href="' + esc(img.source_url) + '" target="_blank" rel="noopener">Source</a>');
     return parts.length ? "Credit: " + parts.join(" · ") : "";
   }
-  function imageSrc(img) {
-    var f = String(img.file || "");
+  function imageSrc(img, key) {
+    var f = String(img[key || "file"] || "");
     f = f.replace(/^\.?\//, "");
     if (f.indexOf("images/") !== 0) f = "images/" + f;
     return ROOT + f;
+  }
+  // Below this width the tall "-narrow" version of a diagram is shown.
+  var NARROW_MEDIA = "(max-width: 640px)";
+  function imageElement(img, alt) {
+    var el = document.createElement("img");
+    el.src = imageSrc(img);
+    el.alt = alt;
+    el.loading = "lazy";
+    el.decoding = "async";
+    el.addEventListener("load", layoutMarginNotes);
+    if (!img.narrow_file) return el;
+    var pic = document.createElement("picture");
+    var source = document.createElement("source");
+    source.media = NARROW_MEDIA;
+    source.srcset = imageSrc(img, "narrow_file");
+    pic.appendChild(source);
+    pic.appendChild(el);
+    return pic;
   }
   function processFigures(root) {
     Array.prototype.forEach.call((root || document).querySelectorAll("figure[data-image]:not([data-ready])"), function (fig) {
@@ -262,11 +290,9 @@
         fig.insertBefore(ph, fig.firstChild);
         return;
       }
-      var el = document.createElement("img");
-      el.src = imageSrc(img);
-      el.alt = fig.getAttribute("data-alt") || img.alt || img.description || img.title || "";
-      el.loading = "lazy";
-      el.addEventListener("load", layoutMarginNotes);
+      var el = imageElement(img, fig.getAttribute("data-alt") || img.alt || img.description || img.title || "");
+      fig.classList.add(img.is_original_diagram ? "is-diagram" : "is-photo");
+      if (/\.svg$/i.test(img.file || "") && !img.is_original_diagram) fig.classList.add("on-light");
       fig.insertBefore(el, fig.firstChild);
       var cap = existing || document.createElement("figcaption");
       if (!existing) {
@@ -404,6 +430,7 @@
     citeTag: citeTag,
     creditHTML: creditHTML,
     imageSrc: imageSrc,
+    imageElement: imageElement,
     findImage: findImage,
     enhance: enhance,
     layoutMarginNotes: layoutMarginNotes,

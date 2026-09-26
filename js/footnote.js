@@ -17,17 +17,25 @@
     return;
   }
 
+  // intro / closing may be a plain string or {text, cites}
+  function textWithCites(part) {
+    if (!part) return "";
+    if (typeof part === "string") return esc(part);
+    return esc(part.text || "") + (part.cites || []).map(A.citeTag).join("");
+  }
+
   if (headHost) {
     var src = FN.source || {};
     var srcLine = "";
     if (src.source_id) {
-      srcLine = "Source: " + A.sourceRefHTML({ source_id: src.source_id, pdf_page: src.pdf_page, loc: src.loc || src.lines || "" })
+      var locText = src.loc || [src.section, src.lines ? "lines " + String(src.lines).replace(/\s*\(.*\)\s*$/, "") : ""].filter(Boolean).join(", ");
+      srcLine = "Source: " + A.sourceRefHTML({ source_id: src.source_id, pdf_page: src.pdf_page, loc: locText })
         .replace('<span class="loc">', ' <span class="loc">(').replace(/<\/span>$/, ")</span>");
     }
     headHost.innerHTML = (FN.sample ? '<p><span class="sample-flag">Sample data</span></p>' : "") +
       "<h1>" + esc(FN.title || "The Footnote") + "</h1>" +
-      (FN.intro ? '<p class="lede">' + esc(FN.intro) + "</p>" : "") +
-      (srcLine ? '<p class="ui eyebrow" style="text-transform:none;letter-spacing:0">' + srcLine + "</p>" : "");
+      (FN.intro ? '<p class="lede">' + textWithCites(FN.intro) + "</p>" : "") +
+      (srcLine ? '<p class="fn-source">' + srcLine + "</p>" : "");
   }
 
   var annos = []; // in reading order
@@ -45,7 +53,7 @@
         if (!clash) break;
         from = idx + 1;
       }
-      if (!a.phrase || idx === -1) { console.warn("Footnote: phrase not found or overlapping in paragraph " + p.n + ": " + a.id); return; }
+      if (!a.phrase || idx === -1) { console.warn("Footnote: phrase not found or overlapping in paragraph " + (p.n != null ? p.n : p.id) + ": " + a.id); return; }
       spans.push({ start: idx, end: idx + a.phrase.length, a: a });
     });
     spans.sort(function (x, y) { return x.start - y.start; });
@@ -59,10 +67,26 @@
       pos = s.end;
     });
     html += esc(text.slice(pos));
-    return '<p id="fn-p' + esc(p.n) + '"><span class="fn-para-n">Paragraph ' + esc(p.n) + "</span>" + html + "</p>";
+    if (p.kind === "heading") return '<p class="fn-heading" id="fn-p' + esc(p.n) + '">' + html + "</p>";
+    var label = p.n != null ? "Paragraph " + esc(p.n) : "";
+    return '<p id="fn-p' + esc(p.n != null ? p.n : p.id) + '">' + (label ? '<span class="fn-para-n">' + label + "</span>" : "") + html + "</p>";
   }
 
-  textHost.innerHTML = FN.paragraphs.map(renderParagraph).join("");
+  var out = '<div class="fn-note">' + FN.paragraphs.map(renderParagraph).join("") + "</div>";
+  if (FN.source && FN.source.verbatim_note) out += '<p class="fn-verbatim">' + esc(FN.source.verbatim_note) + "</p>";
+  var ctx = FN.context_passages || [];
+  if (ctx.length) {
+    out += '<section class="fn-context" aria-labelledby="fn-ctx-h"><h2 id="fn-ctx-h">Elsewhere in the same report</h2>' +
+      ctx.map(function (c) {
+        return '<figure class="fn-ctx-item"><figcaption>' + esc(c.where || "") + "</figcaption>" + renderParagraph(c) + "</figure>";
+      }).join("") + "</section>";
+  }
+  if (FN.closing) {
+    out += '<section class="fn-closing" aria-labelledby="fn-close-h"><h2 id="fn-close-h">Looking back</h2><p>' + textWithCites(FN.closing) + "</p>" +
+      (FN.closing.ask_why ? '<aside class="ask-why"><h2>Ask Why</h2><p>' + esc(FN.closing.ask_why) + "</p></aside>" : "") + "</section>";
+  }
+  out += "<div data-endnotes></div>";
+  textHost.innerHTML = out;
 
   var marks = Array.prototype.slice.call(textHost.querySelectorAll("mark.anno"));
   var current = -1;
@@ -123,8 +147,17 @@
     if (step) { show(current + parseInt(step.getAttribute("data-step"), 10), true); return; }
     if (e.target.closest(".close")) closeSheet();
   });
+  // Wide screens with a mouse: hovering a phrase (briefly) shows its annotation in the side panel.
+  var hoverTimer;
+  var canHover = window.matchMedia("(hover: hover) and (min-width: 1000px)");
   marks.forEach(function (m, i) {
     m.addEventListener("click", function () { show(i, false); });
+    m.addEventListener("mouseenter", function () {
+      if (!canHover.matches) return;
+      clearTimeout(hoverTimer);
+      hoverTimer = setTimeout(function () { if (current !== i) show(i, false); }, 180);
+    });
+    m.addEventListener("mouseleave", function () { clearTimeout(hoverTimer); });
     m.addEventListener("keydown", function (e) {
       if (e.key === "Enter" || e.key === " ") { e.preventDefault(); show(i, false); }
     });

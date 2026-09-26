@@ -31,8 +31,14 @@ window.CAST = [
    {
     "source_id": "powers-report-sec",
     "page": 16,
-    "loc": "p. 19, Executive Summary - The Participants",
+    "loc": "p. 10 (Lay p. 19), Executive Summary - The LJM Transactions; The Participants",
     "card": "A-062"
+   },
+   {
+    "source_id": "powers-report-sec",
+    "page": 25,
+    "loc": "p. 19, Executive Summary - The Participants",
+    "card": "F-056"
    },
    {
     "source_id": "sec-lay-complaint",
@@ -222,15 +228,15 @@ window.CAST = [
   "cites": [
    {
     "source_id": "powers-report-sec",
-    "page": null,
-    "loc": "p. 54, II (Chewco), management of Chewco",
+    "page": 61,
+    "loc": "p. 55",
     "card": "F-009"
    },
    {
     "source_id": "hrg-hec-collapse-pt2",
     "page": 80,
-    "loc": "p. 76, statement of Chairman Greenwood",
-    "card": "F-009"
+    "loc": "p. 76, questioning by Chairman Greenwood, Feb. 7, 2002",
+    "card": "F-051"
    },
    {
     "source_id": "skilling-scotus-2010",
@@ -360,7 +366,7 @@ window.CAST = [
   "cites": [
    {
     "source_id": "powers-report-sec",
-    "page": null,
+    "page": 16,
     "loc": "p. 10, Executive Summary",
     "card": "F-011"
    },
@@ -372,7 +378,7 @@ window.CAST = [
    },
    {
     "source_id": "powers-report-sec",
-    "page": null,
+    "page": 90,
     "loc": "p. 84 (continues p. 85), IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'",
     "card": "F-014"
    },
@@ -435,8 +441,14 @@ window.CAST = [
    {
     "source_id": "powers-report-sec",
     "page": 70,
-    "loc": "pp. 60-61 and 97, II.G Enron's Repurchase of Chewco; V.A Raptor I",
+    "loc": "pp. 60-64, II.G Enron's Repurchase of Chewco's Limited Partnership Interest",
     "card": "A-037"
+   },
+   {
+    "source_id": "powers-report-sec",
+    "page": 101,
+    "loc": "p. 95, IV.F; p. 62, II.G.1",
+    "card": "F-055"
    },
    {
     "source_id": "enron-10q-q3-2001",
@@ -510,7 +522,7 @@ window.CAST = [
     "source_id": "sec-enron-spotlight",
     "page": null,
     "loc": "Enron-Related Enforcement Actions list (Lit. Rel. 18435, Oct. 30, 2003)",
-    "card": "B-050"
+    "card": "F-054"
    }
   ]
  },
@@ -532,7 +544,7 @@ window.CAST = [
     "source_id": "sec-enron-spotlight",
     "page": null,
     "loc": "Enron-Related Enforcement Actions list (Lit. Rel. 18849, Aug. 25, 2004)",
-    "card": "B-051"
+    "card": "F-053"
    }
   ]
  },
@@ -586,7 +598,7 @@ window.CAST = [
   "cites": [
    {
     "source_id": "powers-report-sec",
-    "page": null,
+    "page": 90,
     "loc": "p. 84 (continues p. 85), IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'",
     "card": "F-014"
    },
@@ -668,9 +680,9 @@ window.CAST = [
    },
    {
     "source_id": "batson-final-app-b-part1",
-    "page": 65,
-    "loc": "p. 63 (begins p. 62), IV.A Three Errors Acknowledged by Andersen",
-    "card": "C-030"
+    "page": 11,
+    "loc": "p. 9, nn. 13-14",
+    "card": "F-052"
    }
   ]
  },
@@ -844,7 +856,7 @@ window.CAST = [
   "cites": [
    {
     "source_id": "powers-report-sec",
-    "page": null,
+    "page": 37,
     "loc": "p. 31 (and p. 9 n. 1), I. Introduction (the Special Investigative Committee)",
     "card": "F-015"
    },
@@ -1053,9 +1065,9 @@ window.CAST = [
     "card": "B-016"
    },
    {
-    "source_id": "rpt-psi-board",
-    "page": 54,
-    "loc": "p. 50, Factual Basis (Excessive Compensation)",
+    "source_id": "hrg-psi-board",
+    "page": 100,
+    "loc": "p. 90, Testimony of Charles LeMaistre (questioning by Sen. Levin)",
     "card": "B-079"
    },
    {
@@ -1087,9 +1099,9 @@ window.CAST = [
     "card": "B-077"
    },
    {
-    "source_id": "rpt-psi-board",
-    "page": 54,
-    "loc": "p. 50, Factual Basis (Excessive Compensation)",
+    "source_id": "hrg-psi-board",
+    "page": 100,
+    "loc": "p. 90, Testimony of Charles LeMaistre (questioning by Sen. Levin)",
     "card": "B-079"
    },
    {

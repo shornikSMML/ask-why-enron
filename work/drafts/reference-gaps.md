@@ -1,0 +1,16 @@
+# Reference Writer: gaps
+
+Agent: Reference Writer. Each gap lists the claim I wanted to make, the kind of document that would support it, and its importance. I did not search for any of them. In the Cast, each entry says plainly that the library does not document the missing part. Gaps already logged by Readers B and C and the Fact-Checker are listed here only where the Cast depends on them, so the Source Scout can rank them.
+
+| # | Claim wanted (Cast / Timeline) | Document that would support it | Importance | Agent |
+|---|---|---|---|---|
+| 1 | Fastow's criminal case: the charge, whether he pleaded guilty or was tried, the date, and the sentence. The Cast can say only that DOJ listed him as "convicted to date" in 2004. | Fastow's plea agreement or judgment (S.D. Tex.), or a DOJ press release announcing his plea and sentence (justice.gov) | critical | Reference Writer (also Reader B) |
+| 2 | Glisan's and Delainey's criminal cases: charge, plea or verdict, date, sentence. | DOJ press releases on their pleas/sentences; plea agreements or judgments (S.D. Tex.) | critical | Reference Writer (also Reader B) |
+| 3 | What happened to Skilling after the 2010 Supreme Court remand (Fifth Circuit harmless-error ruling; resentencing). The Cast and Timeline stop at 2010. | Fifth Circuit opinion on remand (United States v. Skilling, 2011), and any later resentencing order or DOJ press release | critical | Reference Writer (also Reader B) |
+| 4 | David Duncan's criminal case, if any (plea, withdrawal, dismissal). The Cast says the library has no documents on it. | DOJ press releases or court records, S.D. Tex., United States v. Duncan | critical | Reference Writer (also Reader B) |
+| 5 | The order vacating Lay's conviction, and whether he had appealed. | United States v. Lay, 456 F. Supp. 2d 869 (S.D. Tex. 2006) (govinfo.gov or uscourts.gov) | useful | Reference Writer (also Reader B) |
+| 6 | Kopper's, Causey's and Koenig's sentences; the date of Koenig's plea. | DOJ press releases on sentencing (justice.gov) or the judgments | useful | Reference Writer |
+| 7 | How the SEC's civil cases ended for Lay, Skilling, Glisan, McMahon, Delainey, Koenig and the four Merrill Lynch executives, and the terms of the Fastow, Causey and Duncan settlements. | The SEC litigation releases listed in the library's `sec-enron-spotlight` index (the index has titles only), e.g. Lit. Rel. 21523 (May 11, 2010) for the Merrill executives | useful | Reference Writer |
+| 8 | Whether any Merrill Lynch executive named by the SEC (Bayly, Davis, Furst, Tilney) was among the four unnamed Merrill employees in the Nigerian barge criminal trial that the Fifth Circuit describes. Left out entirely. | United States v. Brown, 459 F.3d 509 (5th Cir. 2006), or the barge-trial indictment / DOJ press releases | useful | Reference Writer (also Reader B) |
+| 9 | What happened in Andersen's case after the 2005 Supreme Court remand. | DOJ statement or district-court docket entry dismissing the case after remand | minor | Reference Writer (also Reader C) |
+| 10 | Legal status of Nancy Temple (Andersen in-house lawyer). Left her out of the Cast. | An absence check of the library first (see reference-requests.md); if needed, a DOJ/SEC record naming her | minor | Reference Writer |

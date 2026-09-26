@@ -1,30 +1,493 @@
 
 === PAGE 1 ===
+UNITED STATES BANKRUPTCY COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+x
+
+In re: ; Chapter 11
+ENRON CORP., et al., Case No. 01-16034 (AJG)
+Debtors. Jointly Administered
+x
+APPENDIX A
+(Certain Defined Terms)
+
+to
+
+FINAL REPORT OF NEAL BATSON,
+COURT-APPOINTED EXAMINER
+
+Reference is made to the preceding Final Report of Neal Batson, Court-Appointed
+Examiner (the “Report” or the “Final Report’). This Appendix constitutes an integral
+part of the Final Report.
 
 === PAGE 2 ===
+CERTAIN DEFINED TERMS
+
+Certain terms utilized in this Final Report are defined as follows:
+
+“3% Equity Test,” as further described in the Accounting Standards Appendix,
+means the primary test utilized under the SPE Accounting Consolidation Analysis to
+determine whether independent equity interests owned in an SPE are sufficient to indicate
+that the SPE should not be consolidated with its sponsor or other person benefiting from
+the SPE.
+
+“A&B” means Alston & Bird LLP, attorneys to the Examiner.
+
+“AICPA” means American Institute of Certified Public Accountants.
+
+“APB” refers to Opinion of the Accounting Principles Board.
+
+“ARB” refers to Accounting Research Bulletin.
+
+“ASR” means SEC Accounting Series Release.
+
+“Accounting Standards Appendix” refers to Appendix B to the Second Interim
+Report.
+
+“Andersen” means Arthur Andersen LLP, Enron’s former accounting firm, and its
+affiliates.
+
+“Andrews & Kurth” means Andrews & Kurth L.L.P.
+
+“April 8 Order” refers to the Order of the Court, dated April 8, 2002, authorizing
+and directing the appointment of an examiner pursuant to 11 U.S.C. § 1104(c).
+
+“Audit Committee” refers to the Audit and Compliance Committee of the Enron
+Board responsible for reviewing Enron’s accounting and compliance programs, and
+liaising with Andersen in connection with the audits of Enron’s financial statements.
+
+“BT/Deutsche” means Deutsche Bank AG and its affiliates and predecessors.
 
 === PAGE 3 ===
+“BT/Deutsche Tax Transactions” means the transactions referred to as Cochise,
+Teresa, Steele and Tomas in Appendix G (Role of BT/Deutsche and its Affiliates) to the
+Third Interim Report.
+
+“Back Levering” or “Back Leveraging” means the practice of borrowing against
+or otherwise financing the purchase of an equity investment in an SPE.
+
+“Bank Presentation” refers to the presentation made by senior Enron executives
+to certain of Enron’s bankers on November 19, 2001, at a meeting held at the Waldorf
+Astoria in New York, New York.
+
+“Bankruptcy Case” refers collectively to the Debtors’ Chapter 11 cases currently
+pending before the Court. .
+
+“Bankruptcy Code” means Title 11 of the United States Code. .
+
+“Barclays” means Barclays Bank PLC and its affiliates and predecessors.
+
+“Basic Accounting Consolidation Analysis,” as further described in the
+Accounting Standards Appendix, means the analysis employed to determine whether a
+person that owns a controlling financial interest in an entity should consolidate that
+entity’s financial statements with its own.
+
+“CIBC” means Canadian Imperial Bank of Commerce and its affiliates and
+predecessors.
+
+“CIBC World Markets” means CIBC World Markets Corp. and its affiliates and
+predecessors.
+
+“COPS” means company obligated preferred stock.
+
+“CSFB” means Credit Suisse First Boston Inc. and its affiliates and predecessors.
 
 === PAGE 4 ===
+“CalPERS” means California Public Employees’ Retirement System, a unit of the
+State and Consumer Services Agency of the State of California.
+“Causey” means Richard A. Causey, Enron’s former Chief Accounting Officer.
+
+“cash flow[s] from operating activities,’ “Net Cash Provided by Operating
+
+2 6 2 6
+
+Activities,” “cash flow[s] from operations,” “operating cash flow[s]” and similar terms
+and phrases all refer to “Net Cash Provided by Operating Activities” as shown in Enron’s
+audited Consolidated Statement of Cash Flows and the equivalent concept on interim
+unaudited financial statements. This concept differs from “Funds Flow from
+Operations,” defined below.
+
+“Chase Securities” means Chase Securities Inc. and its affiliates and predecessors.
+
+“Chewco” means Chewco Investments, L.P., a limited partnership owned and
+managed by Kopper.
+
+“Citibank” means Citibank, N.A. and its affiliates and predecessors.
+
+“Citigroup” means Citigroup, Inc. and its affiliates and predecessors.
+
+“Court? means the United States Bankruptcy Court for the Southern District of
+New York.
+
+“Creditors’ Committee” means the Official Committee of Unsecured Creditors
+appointed in the Bankruptcy Case.
+
+“D&T” means Deloitte & Touche LLP, accountants engaged to advise the Powers
+Committee.
+
+“DLJ? means Donaldson, Lufkin & Jenrette, Inc. and its affiliates and
+
+predecessors.
 
 === PAGE 5 ===
+“Debtors” refers to Enron and all of its affiliates that have filed voluntary
+petitions for relief under the Bankruptcy Code with the Court.
+
+“Derrick” means James Derrick, Enron’s former General Counsel.
+
+“Dodson” means William D. Dodson, an investor in certain Related Party
+Transactions.
+
+“Duff & Phelps” means Duff & Phelps Credit Rating Co.
+
+“E&Y” means Ernst & Young LLP, accountants engaged to advise the Creditors’
+Comunittee.
+
+“EITF” refers to Consensus Positions of the Emerging Issues Task Force.
+
+“ENA” means Enron North America Corp. (f/k/a Enron Capital & Trade
+Resources Corp.).
+
+“ENA Examiner” means Harrison J. Goldin, appointed as the examiner of ENA in
+its bankruptcy case by Order of the Court dated March 12, 2002.
+
+“Enron” means Enron Corp.
+
+“Enron Board,” “Enron Board of Directors” or “Board” refers to the Board of
+Directors of Enron.
+
+“Examiner” means Neal Batson, appointed by the United States Trustee on May
+22, 2002 as the examiner contemplated by the April 8" Order and approved by the Court
+by Order dated May 24, 2002.
+
+“FAC” means FASB Statement of Financial Accounting Concept.
+
+“FAS” refers to FASB Statement of Financial Accounting Standard.
+
+“FAS 57 Related Party,” as further described in the Accounting Standards
+
+Appendix, means an individual or entity deemed to be related to another person as
 
 === PAGE 6 ===
+defined in FAS 57. A FAS 57 Related Party is subject to certain disclosure rules, its
+equity is not considered to be “independent” when applying the 3% Equity Test, and its
+participating rights may be deemed nonsubstantive under the Participating Rights Test.
+
+“FAS 140 Transactions” means those sales of financial assets by Enron to an SPE,
+intended to comply with either Accounting for Transfers and Servicing of Financial
+Assets and Extinguishments of Liabilities, Statement of Financial Accounting Standards
+No. 125 or its successor, Accounting for Transfers and Servicing of Financial Assets and
+Extinguishments of Liabilities, Statement of Financial Accounting Standards No. 140.
+
+“FASB” refers to Financial Accounting Standards Board.
+
+“FIN” refers to FASB Interpretation.
+
+“FTB” refers to FASB Technical Bulletin.
+
+“Fastow” means Andrew S. Fastow, Enron’s former Executive Vice President and
+Chief Financial Officer.
+
+“Final Report” or “Report” refers to the Final Report of Neal Batson, Court-
+Appointed Examiner dated November 4, 2003.
+
+“Finance Committee” refers to the Finance Committee of the Enron Board
+responsible for approving major transactions, overseeing Enron’s risk management
+efforts and providing guidance on Enron’s financial decisions and policies.
+
+“First Interim Report” means the First Interim Report of Neal Batson, Court-
+Appointed Examiner dated September 21, 2002.
+
+“Fitch” means FitchRatings, Inc. and its affiliates and predecessors, including
+Duff & Phelps.
+
+“Fleet” means Fleet National Bank and its affiliates and predecessors.
 
 === PAGE 7 ===
+“Forest Products Transactions” means four transactions completed by Enron
+relating to its forest products business, including: (i) transactions referred to as Fishtail
+and Bacchus, each of which closed in December 2000; (ii) a transaction referred to as
+Sundance Industrial (or simply “Sundance”), which closed on June 1, 2001; and (iii) a
+transaction referred to as Slapshot, which closed on June 22, 2001.
+
+“Funds Flow from Operations” or “funds flow” means a component of three of
+Enron’s key credit ratios (funds flow interest coverage, pre-tax interest coverage, and
+funds flow from operations to total obligations) and equals Net Cash Provided by
+Operating Activities, plus increases in working capital, or less decreases in working
+capital.
+
+“GAAP” means generally accepted accounting principles in the United States and
+as described in SAS 61.
+
+“Glisan” means Ben F. Glisan Jr., a former Enron employee.
+
+“ISDA” means International Swap and Derivatives Association.
+
+“JEDI means Joint Energy Development Investments Limited Partnership, an
+investment partnership originally owned by Enron and CalPERS and, following the
+redemption of CalPERS’ interest, by Enron and Chewco.
+
+“JEDI IT’ means Joint Energy Development Investments II Limited Partnership,
+an investment partnership between CalPERS and Enron.
+
+“JPMorgan Chase” means JPMorgan Chase Bank (formerly Chase Manhattan
+Bank) and its affiliates and predecessors.
+
+“K&E” means Kirkland & Ellis LLP.
+
+“Kopper” means Michael J. Kopper, a former Enron employee.
 
 === PAGE 8 ===
+“LJM1” means LIM Cayman, L.P., a private investment limited partnership.
+
+“LJM1/Rhythms Hedging Transaction” or “Rhythms Hedge” means that non-
+economic hedge executed in June 1999 between Enron and Swap Sub, designed to
+protect the mark-to-market income Enron had recorded on account of its equity stake in
+Rhythms.
+
+“LJM2” means LJM2 Co-Investment, L.P., a private investment limited
+partnership.
+
+“LJM2/Raptors Hedging Transactions” or “Raptors Hedges” means those four
+non-economic hedges of certain of Enron’s merchant investments executed in 2000
+between Enron and the Raptor SPEs.
+
+“Lay” means Kenneth L. Lay, Enron’s former director, Chairman of the Board of
+Directors and Chief Executive Officer.
+
+“Lehman” means Lehman Brothers Holdings Inc. and its affiliates and
+predecessors.
+
+“MD&A” means the section entitled Management’s Discussion and Analysis of
+Financial Condition and Results of Operations, which appeared in Enron’s Forms 10-K
+and 10-Q filed with the SEC.
+
+“MTM” means mark-to-market accounting.
+
+“McMahon” means Jeffrey J. McMahon, a former Enron employee.
+
+“Merrill Lynch” means Merrill Lynch, Pierce, Fenner & Smith Incorporated and
+
+its affiliates and predecessors.
 
 === PAGE 9 ===
+“mezzanine” refers to the part of the balance sheet appearing after liabilities and
+before shareholders’ equity and would include such interests as minority interest and
+COPS.
+
+“Milbank” means Milbank, Tweed, Hadley & McCloy LLP, co-counsel to the
+Creditors’ Committee.
+
+“Minority Interest Transactions” means a financing undertaken by Enron in
+which the amount financed was reflected on Enron’s balance sheet as a minority interest
+in a consolidated subsidiary, rather than as debt.
+
+“Mintz” means Jordan Mintz, former General Counsel to Enron Global Finance.
+
+“monetize” refers to the manner in which Enron was able to generate cash
+immediately from an asset through the use of a structured finance transaction involving
+an SPE.
+
+“Moody’s” means Moody’s Investors Service, Inc.
+
+“Newby Class Action” means Newby v. Enron Corp., No. 01-CV-3624 (S.D. Tex.
+filed Oct. 22, 2001), a lawsuit alleging, among other things, violations of securities laws.
+
+“New Power Company” means The New Power Company, a wholly owned
+subsidiary of NewPower Holdings, and currently a Chapter 11 debtor in the United States
+Bankruptcy Court for the Northern District of Georgia, Newnan Division.
+
+“NewPower Holdings” means NewPower Holdings, Inc., formerly known as
+TNPC, Inc., and currently a Chapter 11 debtor in the United States Bankruptcy Court for
+the Northern District of Georgia, Newnan Division.
+
+“Outside Directors” means all of the members of Enron’s Board who served
+
+during the period 1997 to the Petition Date other than Lay and Skilling.
 
 === PAGE 10 ===
+“PSI” refers to the Permanent Subcommittee on Investigations of the Committee
+on Governmental Affairs, United States Senate.
+
+“PSI Forest Products Report” means PSI Report on Fishtail, Bacchus, Sundance
+and Slapshot: Four Enron Transactions Funded and Facilitated by U.S. Financial
+Institutions, Jan. 2, 2003.
+
+“PSI Prepay Report’ means The Role of Financial Institutions in Enron’s
+Collapse (Day One): Hearings before the Permanent Subcomm. on Investigations of the
+Senate Comm. of Governmental Affairs, 107 Cong. (July 23, 2002).
+
+“PWC” means PricewaterhouseCoopers LLP.
+
+“Participating Rights Test,” as further described in the Accounting Standards
+Appendix, means an examination of the governance rights held, typically, by a minority
+owner of an entity to be considered in determining whether accounting consolidation of
+the entity is appropriate under the Basic Accounting Consolidation Analysis.
+
+“Petition Date” means December 2, 2001, the date of the initial bankruptcy
+filings.
+
+“Plante & Moran” means Plante & Moran, PLLC, an accounting firm engaged to
+advise the Examiner.
+
+“Powers Committee” refers to the Special Investigative Committee formed by the
+Enron Board and headed by William Powers, Jr., Dean of the University of Texas Law
+School, to examine and recommend actions with respect to transactions between Enron
+and entities connected with related parties.
+
+“Powers Report” refers to that certain Report of Investigation by the Powers
+
+Committee, released February 1, 2002.
 
 === PAGE 11 ===
+“Prepay Transactions” means those structured commodity transactions engaged
+in by Enron under which it would (i) deliver (or pay the financial equivalent of) a
+commodity in the future in exchange for a single prepayment from a conduit entity or
+other counterparty, (ii) repay the prepayment over time, with a fixed amount of interest,
+through a prepaid forward contract or swap, and (iii) receive the precise amounts of
+commodities (or the financial equivalent) it had contracted to deliver, such that
+effectively all commodity price risk was eliminated and the lump sum prepayment was
+repaid with interest.
+
+“Prior Reports” means, collectively, the First Interim Report, the Second Interim
+Report and the Third Interim Report.
+
+“RBS” means The Royal Bank of Scotland plc and its affiliates and predecessors.
+
+“Raptor SPEs” as described in Appendix L (Related Party Transactions) to the
+Second Interim Report means the SPEs used by Enron in an attempt to hedge certain
+investments.
+
+“Rating Agencies” means rating agencies that from time to time provided credit
+ratings on Enron’s unsecured credit, including Moody’s, S&P, Fitch and Duff & Phelps.
+
+“Related Party Transactions” means those transactions between Enron and
+certain entities such as Chewco, LJIM1 and LJM2, which were controlled by Fastow,
+Kopper, Glisan or other Enron employees or their associates.
+
+“Reports” means, collectively, the First Interim Report, the Second Interim
+Report, the Third Interim Report and the Final Report.
+
+“Rhythms” means Rhythms NetConnections, Inc.
+
+“S&P” means Standard & Poor’s Credit Information Services.
+
+-10-
 
 === PAGE 12 ===
+“SAB” refers to SEC Staff Accounting Bulletin.
+
+“SAS” means AICPA Statement of Auditing Standard.
+
+“SEC” refers to the United States Securities and Exchange Commission.
+
+“SOP” refers to Statement of Position of the AICPA.
+
+“SPE” has the meaning given in the April 8" Order. When used in connection
+with the application of the SPE Accounting Consolidation Analysis, the term SPE usually
+refers to an entity or commercial arrangement with a limited duration and a limited
+purpose, usually designed to benefit a single person, although SPE is not defined under
+GAAP
+
+“SPE Accounting Consolidation Analysis,” as further described in the Accounting
+Standards Appendix, means the analysis employed to determine whether an SPE should
+be consolidated with a person that the SPE is designed to benefit.
+
+“Salomon” means Salomon Smith Barney Inc. and its affiliates and predecessors.
+
+“Salomon Holding” means Salomon Brothers Holding Company and its affiliates
+and predecessors.
+
+“Second Interim Report” means the Second Interim Report of Neal Batson, Court-
+Appointed Examiner dated January 21, 2003.
+
+“Share Trust Transactions” means transactions in which an Enron-controlled
+entity would raise funds via off-balance sheet financing, and use the proceeds to acquire
+or refinance assets owned by Enron or its affiliates, with the repayment of the financing
+supported by Enron preferred stock, Enron notes and related contractual obligations of
+
+Enron.
+
+-1l-
 
 === PAGE 13 ===
+“Skadden, Arps’ means Skadden, Arps, Slate, Meagher & Flom LLP, special
+counsel to the Debtors in the Bankruptcy Case.
+
+“Skilling” means Jeffrey K. Skilling, Enron’s former director, President and Chief
+Operating Officer.
+
+“Squire, Sanders” means Squire, Sanders & Dempsey L.L.P., co-counsel to the
+Creditors’ Committee.
+
+“Sufficient Equity Requirement,” as further described in the Accounting Standards
+Appendix, means a test utilized under the Participating Rights Test in the Basic
+Accounting Consolidation Analysis to determine whether a holder of participating rights
+has sufficient equity to demonstrate that those participating rights are substantive.
+
+“Swap Sub” means LIM Swap Sub, L.P., a limited liability partnership owned by
+LJM1, which was used in connection with the Rhythms hedging transactions.
+
+“Tax Transactions” means the transactions referred to as Steele, Cochise, Teresa,
+Condor, Tammy I, Renegade, Valhalla, Tomas, Apache, Tanya and Valor in Appendix J
+(Tax Transactions) to the Second Interim Report.
+
+“Third Interim Report” means the Third Interim Report of Neal Batson, Court-
+Appointed Examiner dated June 30, 2003.
+
+“Topic” refers to Industry Practices Widely Recognized and Prevalent as
+determined by the EITF.
+
+“Toronto Dominion” means Toronto Dominion Bank and its affiliates and
+predecessors.
+
+“Total Return Swap” typically refers to a swap transaction, documented by
+
+standard agreements published by ISDA, where one party agrees to pay the other the
+
+-12-
 
 === PAGE 14 ===
+“total return” (e.g., dividends, interest and any appreciation in value) of a defined
+underlying asset (which may be an equity interest, a debt obligation or another asset),
+usually in return for a fixed payment stream, typically tied to an interest rate index. In
+the case of certain of Enron’s SPE transactions, notably the FAS 140 Transactions, the
+term refers to a swap transaction pursuant to which Enron was entitled to receive the total
+return of an asset transferred by Enron to an SPE (whether by sale of the asset or
+otherwise) and agreed to make payments to its counterparty (usually the SPE holding the
+reference asset or the lenders to the SPE) equal to the scheduled principal and interest
+payments on the amounts borrowed by the SPE under a credit facility to acquire the asset.
+In these instances, the Total Return Swap was the functional equivalent of a guaranty of
+the loan to the SPE.
+
+“underwriter” refers to a financial institution that arranges for the sale or
+distribution of an issuer’s securities (equity and debt) to third parties. It includes private
+placements but does not include syndications of commercial loans.
+
+“Vinson & Elkins” means Vinson & Elkins, L.L.P.
+
+“Watkins” means Sherron S. Watkins, a former Enron employee.
+
+“Watkins Investigation” means the investigation performed by Vinson & Elkins at
+the direction of Derrick into certain issues raised in correspondence from Watkins to Lay
+in August 2001 relating to Enron’s SPEs.
+
+“Weil” means Weil, Gotshal & Manges LLP, the Debtors’ restructuring lawyers.
+
+“West LB” means Westdeutsche Landesbank Girozentrale, London Branch and its
+
+affiliates and predecessors.
+
+-13-
 
 === PAGE 15 ===
+“Wilmer Cutler” means Wilmer, Cutler & Pickering, counsel to the Powers
+Committee.
+
+In addition to the terms set forth above, to the extent a term is defined in any
+Appendix to this Final Report, such defined term shall apply for all Annexes to that
+
+Appendix.
+
+-14-

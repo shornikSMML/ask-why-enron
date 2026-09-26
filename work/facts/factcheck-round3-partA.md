@@ -123,3 +123,52 @@ The Part B instance is appending to the same file at the same time. If its rows 
 | ch7 | **PASS** | none |
 
 All remaining fixes are mechanical and fully specified above. After they are applied, ch1, ch3 and ch6 need only a glance. ch5 needs a quick check of the new sentence and the citation targets.
+
+## Final
+
+Final check after the Story Writer applied the Round 3 fixes (see "# Round 3" in `work/facts/fixes-round2-chapters.md`). Date: 2026-09-26.
+
+**The required fixes, re-checked against the sources**
+- **ch1 and ch6, formation sentence: RESOLVED.** Both chapters now read "...when InterNorth acquired Houston Natural Gas in July 1985. The combined company took the name Enron in April 1986." Each sentence has its own citation: C-026 (Batson App. B n. 1, PDF 3) and A-001 (JCT p. 59, PDF 87).
+- **ch3, typo: RESOLVED.** The text now reads `CalPERS." It found no written record ...`.
+- **ch5, 5-1 (after-tax charge): RESOLVED.** The text matches the Round 3 replacement exactly. Citations:
+  - A-058 (Powers pp. 127-128)
+  - F-021 (batson-final PDF 18, n. 29)
+  - F-016 (batson-1st-interim PDF 4)
+  - F-017 (10-Q p. 53, lines 3672-3674)
+- **ch5, card repoints: RESOLVED.** The citations now point to F-018 (Powers lines 1258-1267), F-019 (batson-1st-interim PDF 9) and F-020 (batson-1st-interim PDF 8, n. 21).
+
+**The new ch4 sentence on Watkins's letter: CORRECT.**
+- **Wording:** the quote "I am incredibly nervous that we will implode in a wave of accounting scandals." is verbatim. I read it on the page image of the letter as reprinted in the staff report, rpt-psi-board Appendix 2, printed p. 57, PDF 61.
+- **Card:** F-004 (checked FIXED). Its source and locator match the citation: rpt-psi-board, `data-page="61"`, p. 57.
+- **Version:** this is the full letter as printed in PSI Appendix 2. Card F-004 records that the House reprint (hrg-hec-collapse-pt4, tab 14) has the same wording. It is not the shorter "Rex Rogers" version.
+- **The note that the staff report's quotation differs:** accurate. The report's own text (Finding 4, printed p. 45, PDF 49) prints "nervous that [Enron] will implode in a wave accounting scandals", with "of" missing and "[Enron]" in place of "we" (card F-002, verified in the text layer).
+- **Framing:** "reprinted in full as an appendix" is accurate.
+- **Consistency with The Footnote page:** the chapter's later note says the letter is quoted "as the Senate subcommittee staff reported it" there. That page quotes a different sentence ("the footnotes don't adequately explain the transactions"), which F-003 confirms matches the letter. So there is no inconsistency.
+
+I made no changes to the ch4 addition, so I added no correction row for it.
+
+**The ch4 caption: CORRECT.** It reads "the Senate Governmental Affairs Committee's opening hearing into the Enron bankruptcy, as identified by the photo's source; Wikimedia Commons dates it January 24, 2002." This matches credits.json, and the manifest dates `hrg-sga-fall-of-enron` to 2002-01-24. The statement that Watkins testified before Senate Commerce in February matches the manifest date for `hrg-commerce-skilling-watkins`, 2002-02-26.
+
+**Whole-chapter sweep (all 255 citations in ch1-ch7)**
+- **Cards:** every `data-card` exists in reader-a, reader-b, reader-c or reader-followup, and every one is checked **OK** or **FIXED**.
+- **Sources:** every `data-src` is a manifest id.
+- **Card and source agree:** no citation's source differs from its card's source (the B-079 mismatch was fixed in Round 3).
+- **Candidates:** no file from `sources/candidates/` is cited.
+- **Buffett:** absent.
+
+**Corrections log:** in `build-log/corrections.md`, rows #26 (1-5, formation), #34 (3-2) and #44 (5-1) now say "Round 3 (done)". Rows #45, #46 and #48 now name the final cards F-018, F-019 and F-020.
+
+### Final verdicts
+
+| chapter | verdict |
+|---|---|
+| ch1 | **PASS** |
+| ch2 | **PASS** |
+| ch3 | **PASS** |
+| ch4 | **PASS** |
+| ch5 | **PASS** |
+| ch6 | **PASS** |
+| ch7 | **PASS** |
+
+No required fixes remain for chapters 1-7.

@@ -10,8 +10,8 @@ What it does (nothing else is touched; content wording is never changed):
      using the same approach as work/tools/wrap_json.py.
   4. Writes js/image-usage-data.js (window.IMAGE_USAGE: which pages show each image),
      used by credits.html.
-  5. Regenerates js/sources-data.js (make_sources_js.py) and, unless --no-log,
-     the build log (build_log.py).
+  5. Regenerates js/sources-data.js (make_sources_js.py), js/gaps-data.js
+     (gaps_to_js.py) and, unless --no-log, the build log (build_log.py).
   6. Prints a static check: unknown source ids, glossary ids, image ids,
      footnote phrases that are not exact substrings. The browser test
      (work/tools/test_site.py) repeats these checks on the rendered pages.
@@ -229,6 +229,7 @@ def main():
     run_tool("make_sources_js.py")
     if "--no-log" not in sys.argv:
         run_tool("build_log.py")
+    run_tool("gaps_to_js.py")
     usage = image_usage()
     static_checks(fn, usage)
     for p in problems:

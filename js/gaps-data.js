@@ -1,0 +1,364 @@
+// Generated from build-log/gaps.md and sources/candidates/candidates.csv by work/tools/gaps_to_js.py. Do not edit.
+window.GAPS = {
+ "intro": [
+  "Agents record here any claim they wanted to make but could not support from the library. They do **not** search for the source themselves. The Source Scout works through this list, critical gaps first. Candidates the Scout finds go to `sources/candidates/` and may not be cited until the project owner approves them.",
+  "Importance: **critical** (a core part of the story is missing or unverified without it), **useful** (would improve accuracy or detail), **minor** (nice to have).",
+  "The coordinator merged the agents' own gap files (`work/facts/*-gaps.md`, which give the full wording) into this list after Wave 1 and removed duplicates. \"Raised by\" names every agent that raised the gap."
+ ],
+ "sections": [
+  {
+   "title": "Critical",
+   "intro": [],
+   "columns": [
+    "#",
+    "Claim we wanted to make",
+    "Kind of document that would support it",
+    "Raised by",
+    "Status"
+   ],
+   "rows": [
+    {
+     "#": "1",
+     "Claim we wanted to make": "Fastow's criminal case: what he pleaded guilty to, when, and his sentence. The library shows only DOJ listing him as \"convicted to date\" (2004).",
+     "Kind of document that would support it": "DOJ plea agreement or press releases on the plea and sentencing, U.S. v. Fastow (S.D. Tex.)",
+     "Raised by": "Reader A, Reader B",
+     "Status": "candidate: doj-fastow-plea-press-2004; candidate: doj-fastow-sentenced-press-2006. Plea agreement/judgment: paywalled: PACER"
+    },
+    {
+     "#": "2",
+     "Claim we wanted to make": "Glisan's criminal case: charge, plea, sentence. The library shows only \"convicted to date.\"",
+     "Kind of document that would support it": "DOJ plea agreement, judgment, or press release, U.S. v. Glisan",
+     "Raised by": "Reader B",
+     "Status": "candidate: doj-glisan-plea-press-2003"
+    },
+    {
+     "#": "3",
+     "Claim we wanted to make": "David Duncan's criminal case (the library shows only the SEC complaint and his Fifth Amendment invocation)",
+     "Kind of document that would support it": "DOJ information, plea, and later court orders, U.S. v. Duncan (S.D. Tex.); DOJ press release",
+     "Raised by": "Reader B, Reader C",
+     "Status": "partial. candidate: sec-duncan-litrel-20441 (SEC civil case only). Criminal side: no DOJ press release found in DOJ's April 2002 index; court record paywalled: PACER (S.D. Tex.)"
+    },
+    {
+     "#": "4",
+     "Claim we wanted to make": "Skilling's case after the 2010 Supreme Court remand (harmless-error ruling, resentencing)",
+     "Kind of document that would support it": "Fifth Circuit opinion on remand (2011); district court resentencing; DOJ press release",
+     "Raised by": "Reader B",
+     "Status": "candidate: ca5-skilling-2011-remand; candidate: doj-skilling-sentencing-agreement-2013 (agreement, not the judgment). DOJ 2013 resentencing press release located but justice.gov served a bot-check page; not downloaded (owner can save it from a browser). Resentencing judgment: paywalled: PACER"
+    },
+    {
+     "#": "5",
+     "Claim we wanted to make": "Andersen's 2002 obstruction indictment and verdict from primary documents, and what happened after the 2005 reversal",
+     "Kind of document that would support it": "DOJ press releases; verdict or judgment, U.S. v. Arthur Andersen LLP (S.D. Tex., No. H-02-121); DOJ statement after remand",
+     "Raised by": "Reader B, Reader C (also in sources/README \"Still to find\")",
+     "Status": "partial. candidate: doj-andersen-indictment-2002; candidate: andersen-scotus-full-usreports (the reversal). DOJ verdict statement (justice.gov/archive/opa/pr/2002/June/02_dag_356.htm) located but the server refused it (HTTP 401) on 3 tries. Verdict/judgment and the Nov 2005 government motion not to retry: paywalled: PACER; no official DOJ release found"
+    }
+   ]
+  },
+  {
+   "title": "Useful",
+   "intro": [],
+   "columns": [
+    "#",
+    "Claim we wanted to make",
+    "Kind of document that would support it",
+    "Raised by",
+    "Status"
+   ],
+   "rows": [
+    {
+     "#": "6",
+     "Claim we wanted to make": "Kopper's plea (currently seen only second-hand) and sentence",
+     "Kind of document that would support it": "DOJ press releases or plea agreement, U.S. v. Kopper (2002)",
+     "Raised by": "Reader A, Reader B",
+     "Status": "partial. candidate: doj-dag-kopper-plea-transcript-2002 (plea only; sentence not searched (10-candidate limit reached))"
+    },
+    {
+     "#": "7",
+     "Claim we wanted to make": "Causey's sentence after his Dec 28, 2005 plea",
+     "Kind of document that would support it": "DOJ press release or judgment",
+     "Raised by": "Reader B",
+     "Status": "candidate: doj-causey-sentenced-press-2006"
+    },
+    {
+     "#": "8",
+     "Claim we wanted to make": "Lay's conviction vacated after his death: the order itself (the library has the Fifth Circuit's statement, which is enough for the site)",
+     "Kind of document that would support it": "U.S. v. Lay, 456 F. Supp. 2d 869 (S.D. Tex. 2006)",
+     "Raised by": "Reader B",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "9",
+     "Claim we wanted to make": "Full Supreme Court opinion in *Arthur Andersen LLP v. United States* (the library copy is only the Syllabus)",
+     "Kind of document that would support it": "Official opinion, supremecourt.gov or U.S. Reports via loc.gov",
+     "Raised by": "Coordinator, Reader C",
+     "Status": "candidate: andersen-scotus-full-usreports"
+    },
+    {
+     "#": "10",
+     "Claim we wanted to make": "Why Dynegy ended the merger (Nov 28, 2001), in a primary filing",
+     "Kind of document that would support it": "Enron or Dynegy 8-K of late Nov 2001; Enron's Dec 2001 complaint against Dynegy",
+     "Raised by": "Reader A",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "11",
+     "Claim we wanted to make": "Enron's Oct 16, 2001 earnings press release (the $618M loss and $1.01B charges; reconciling the $544M vs. $462M after-tax figures)",
+     "Kind of document that would support it": "The press release as filed with the SEC (8-K exhibit), if any",
+     "Raised by": "Reader A",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "12",
+     "Claim we wanted to make": "How the SEC civil cases ended (Lay, Skilling, Causey, Fastow, Duncan, Merrill executives)",
+     "Kind of document that would support it": "SEC litigation releases (e.g. 18543, 19996, 20441, 21523)",
+     "Raised by": "Reader B",
+     "Status": "partial (Duncan only): candidate: sec-duncan-litrel-20441. Others not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "13",
+     "Claim we wanted to make": "Names and outcomes of the Merrill Lynch employees in the Nigerian barge case (convicted, then reversed, per the Fifth Circuit)",
+     "Kind of document that would support it": "U.S. v. Brown, 459 F.3d 509 (5th Cir. 2006)",
+     "Raised by": "Reader B",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "14",
+     "Claim we wanted to make": "Whether any outside director was charged or sued (the library shows none, but no document says \"not charged\")",
+     "Kind of document that would support it": "DOJ or SEC statement; court record of the securities litigation",
+     "Raised by": "Reader B",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "15",
+     "Claim we wanted to make": "Text of Sherron Watkins's August 2001 letter to Lay",
+     "Kind of document that would support it": "The letter as a hearing exhibit (first check whether any library hearing already prints it)",
+     "Raised by": "Reader B",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "16",
+     "Claim we wanted to make": "Outcome of the Labor Department's 401(k) investigation; official lockdown dates (the sources disagree)",
+     "Kind of document that would support it": "DOL press release; plan notice; court finding in the ERISA litigation",
+     "Raised by": "Reader C",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "17",
+     "Claim we wanted to make": "Batson Second Interim Report and appendices (D, E, G, L, M, Q): the six accounting techniques, SPE and related-party disclosure analysis",
+     "Kind of document that would support it": "The report itself. **Known gap: do not search** (owner)",
+     "Raised by": "Reader A, Reader C, Footnote",
+     "Status": "not searched (per owner)"
+    },
+    {
+     "#": "18",
+     "Claim we wanted to make": "Batson Third Interim Report, App. C (officers)",
+     "Kind of document that would support it": "The report itself. **Known gap: do not search** (owner)",
+     "Raised by": "Reader A, Reader B",
+     "Status": "not searched (per owner)"
+    }
+   ]
+  },
+  {
+   "title": "Minor",
+   "intro": [],
+   "columns": [
+    "#",
+    "Claim we wanted to make",
+    "Kind of document that would support it",
+    "Raised by",
+    "Status"
+   ],
+   "rows": [
+    {
+     "#": "19",
+     "Claim we wanted to make": "Exact merger terms in the Nov 9, 2001 Dynegy 8-K exhibits (the library copy is the cover filing only)",
+     "Kind of document that would support it": "Exhibits 99.1–99.13 to that 8-K (sec.gov)",
+     "Raised by": "Reader A",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "20",
+     "Claim we wanted to make": "How many documents Andersen destroyed",
+     "Kind of document that would support it": "Trial record or DOJ document",
+     "Raised by": "Reader C",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "21",
+     "Claim we wanted to make": "The PCAOB's fifth founding board member",
+     "Kind of document that would support it": "SEC or PCAOB release, 2002–03",
+     "Raised by": "Reader C",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "22",
+     "Claim we wanted to make": "Whether Watkins, Berardino, or McMahon faced legal action (McMahon: SEC charged 2007, outcome unknown)",
+     "Kind of document that would support it": "SEC litigation release 20159 and later",
+     "Raised by": "Reader B",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "23",
+     "Claim we wanted to make": "The Fortune 500 2001 list itself. Probably not needed: Batson and the JCT report already support the ranking, and the magazine is copyrighted",
+     "Kind of document that would support it": "Not recommended",
+     "Raised by": "Reader A",
+     "Status": "not needed"
+    }
+   ]
+  },
+  {
+   "title": "Reader tips",
+   "intro": [],
+   "columns": [
+    "Tip",
+    "Status"
+   ],
+   "rows": [
+    {
+     "Tip": "Warren Buffett read Enron's footnote, did not understand it, and threw away the 10-K",
+     "Status": "**Excluded** by the Fact-Checker: 7 library documents mention Buffett, none about Enron's footnote or 10-K. See gap 25."
+    },
+    {
+     "Tip": "At its peak, Enron was America's seventh-largest company",
+     "Status": "**Allowed, reworded**: \"In 2001, Fortune magazine ranked Enron seventh on its list of the 500 largest U.S. companies, measured by revenue.\" (JCT p. 58; Batson Final n. 27). Not \"at its peak\" (JCT n. 53: fifth on the 2002 list), not \"in the world.\""
+    }
+   ]
+  },
+  {
+   "title": "Added after Fact-Checker Round 1",
+   "intro": [],
+   "columns": [
+    "#",
+    "Claim we wanted to make",
+    "Kind of document that would support it",
+    "Importance",
+    "Raised by",
+    "Status"
+   ],
+   "rows": [
+    {
+     "#": "24",
+     "Claim we wanted to make": "Name Andersen's CEO as the speaker quoted from the Dec 12, 2001 hearing (Powers says only \"Andersen's CEO\")",
+     "Kind of document that would support it": "Transcript of the Dec 12, 2001 House Financial Services hearing (govinfo.gov)",
+     "Importance": "useful",
+     "Raised by": "Fact-Checker",
+     "Status": "located, not downloaded (10-candidate limit reached): official govinfo copy, CHRG-107hhrg76958, https://www.govinfo.gov/content/pkg/CHRG-107hhrg76958/pdf/CHRG-107hhrg76958.pdf. Not in manifest."
+    },
+    {
+     "#": "25",
+     "Claim we wanted to make": "Buffett reader tip: that he read Enron's footnote, didn't understand it, and discarded the 10-K. Ruled **excluded**: 7 library documents mention Buffett, none on this subject",
+     "Kind of document that would support it": "A first-hand record: Buffett's own sworn testimony or a Berkshire shareholder letter",
+     "Importance": "minor",
+     "Raised by": "Fact-Checker",
+     "Status": "excluded from site; open"
+    },
+    {
+     "#": "26",
+     "Claim we wanted to make": "Why the Kopper complaint gives Dec 3, 2001 for the bankruptcy when other sources say Dec 2",
+     "Kind of document that would support it": "Bankruptcy docket / petition (likely PACER)",
+     "Importance": "minor",
+     "Raised by": "Fact-Checker",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "27",
+     "Claim we wanted to make": "Board minutes approving LJM2 (Oct 11 vs. Oct 12, 1999)",
+     "Kind of document that would support it": "Enron board minutes (hearing exhibit)",
+     "Importance": "minor",
+     "Raised by": "Fact-Checker",
+     "Status": "not searched (10-candidate limit reached)"
+    },
+    {
+     "#": "28",
+     "Claim we wanted to make": "Ratio of Enron's 1999 stock split (explains 6.8M vs. 3.4M Rhythms shares)",
+     "Kind of document that would support it": "Enron 10-K for 1999 or an 8-K (sec.gov)",
+     "Importance": "minor",
+     "Raised by": "Fact-Checker",
+     "Status": "not searched (10-candidate limit reached)"
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "id": "doj-fastow-plea-press-2004",
+   "title": "DOJ press release #019: Former Enron CFO Andrew Fastow pleads guilty to conspiracy to commit securities and wire fraud",
+   "date": "2004-01-14",
+   "source_body": "DOJ Office of Public Affairs",
+   "fills_gap": "1",
+   "official_or_mirror": "official"
+  },
+  {
+   "id": "doj-fastow-sentenced-press-2006",
+   "title": "DOJ press release #06-647: Former Enron CFO Andrew Fastow sentenced to six years in prison",
+   "date": "2006-09-26",
+   "source_body": "DOJ Office of Public Affairs",
+   "fills_gap": "1",
+   "official_or_mirror": "official"
+  },
+  {
+   "id": "doj-glisan-plea-press-2003",
+   "title": "DOJ press release #492: Former Enron Treasurer Ben Glisan pleads guilty to conspiracy to commit wire and securities fraud",
+   "date": "2003-09-10",
+   "source_body": "DOJ Office of Public Affairs",
+   "fills_gap": "2",
+   "official_or_mirror": "official"
+  },
+  {
+   "id": "sec-duncan-litrel-20441",
+   "title": "SEC Litigation Release 20441: SEC v. David B. Duncan (settled civil action)",
+   "date": "2008-01-28",
+   "source_body": "SEC",
+   "fills_gap": "3 (partial: civil side only); 12; 22",
+   "official_or_mirror": "official"
+  },
+  {
+   "id": "ca5-skilling-2011-remand",
+   "title": "United States v. Skilling - Fifth Circuit opinion on remand from the Supreme Court (No. 06-20885)",
+   "date": "2011-04-06",
+   "source_body": "U.S. Court of Appeals 5th Cir.",
+   "fills_gap": "4",
+   "official_or_mirror": "official"
+  },
+  {
+   "id": "doj-skilling-sentencing-agreement-2013",
+   "title": "U.S. v. Skilling - Sentencing Agreement (Doc. 1316-1; Cr. No. 4:04-cr-25; S.D. Tex.)",
+   "date": "2013-05-08",
+   "source_body": "DOJ Criminal Division Fraud Section (court filing hosted on justice.gov)",
+   "fills_gap": "4 (partial)",
+   "official_or_mirror": "official"
+  },
+  {
+   "id": "doj-andersen-indictment-2002",
+   "title": "U.S. v. Arthur Andersen LLP - Indictment (S.D. Tex.; filed 3/7/02)",
+   "date": "2002-03-07",
+   "source_body": "DOJ (Corporate Fraud Task Force archive)",
+   "fills_gap": "5 (indictment part)",
+   "official_or_mirror": "official"
+  },
+  {
+   "id": "andersen-scotus-full-usreports",
+   "title": "Arthur Andersen LLP v. United States; 544 U.S. 696 (2005) - full opinion (official U.S. Reports)",
+   "date": "2005-05-31",
+   "source_body": "U.S. Supreme Court (via Library of Congress)",
+   "fills_gap": "9; 5 (reversal part)",
+   "official_or_mirror": "official"
+  },
+  {
+   "id": "doj-dag-kopper-plea-transcript-2002",
+   "title": "DOJ transcript: Deputy Attorney General Larry Thompson news conference announcing Enron guilty plea (Kopper)",
+   "date": "2002-08-21 (see notes)",
+   "source_body": "DOJ Office of the Deputy Attorney General",
+   "fills_gap": "6 (plea only; not sentence)",
+   "official_or_mirror": "official"
+  },
+  {
+   "id": "doj-causey-sentenced-press-2006",
+   "title": "DOJ press release #06-763: Former Enron Chief Accounting Officer Richard Causey sentenced",
+   "date": "2006-11-15",
+   "source_body": "DOJ Office of Public Affairs",
+   "fills_gap": "7",
+   "official_or_mirror": "official"
+  }
+ ]
+};

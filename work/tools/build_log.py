@@ -478,10 +478,13 @@ def main():
         m = dict(m, message_no=i + 1)
         for aid in agents_for(m.get('to'), agents, order):
             agents[aid]['messages'].append(m)
+    # Only resumed runs that had started by the time the message was recorded can be its target.
     for aid in order:
         a = agents[aid]
         msgs = a['messages']
-        resumed = [r for r in a['runs'] if r['kind'] == 'resumed']
+        cutoff = max([m.get('recorded') or m.get('time') or '' for m in msgs] or [''])
+        resumed = [r for r in a['runs'] if r['kind'] == 'resumed'
+                   and (not cutoff or (r['started'] or r['finished'] or '') <= cutoff)]
         k = min(len(msgs), len(resumed))
         for m, r in zip(msgs[len(msgs) - k:], resumed[len(resumed) - k:]):
             r['messages'].append(dict(m, matched='resumed this run'))
@@ -583,14 +586,14 @@ def main():
         'The coordinator ran %s, in %s: %d started from a written brief and %d resumed by a follow-up message%s.'
         % (plural(len(order), 'agent'), plural(n_runs, 'run'), n_runs - n_resumed, n_resumed,
            ' (%d still working)' % n_open if n_open else ''),
-        'The library holds %s. The agents opened %s of them and the site cites %s.'
-        % (plural(len(ids), 'document'), plural(len(read), 'document'), plural(len(cited), 'document')),
+        'The library holds %s. The agents opened %d of them, and the site cites %d.'
+        % (plural(len(ids), 'document'), len(read), len(cited)),
         'The Readers wrote %s: short, sourced notes of one fact each. The Fact-Checker checked %s of them against the documents, plus %d of the %s on the footnote.'
         % (plural(cards_written, 'fact card'), cards_checked, anns_checked, plural(anns, 'annotation')),
         'The Fact-Checker logged %s.' % plural(len(corrections), 'correction'),
         'Agents used %s, only for images and for the Source Scout\'s search: %s.'
         % (plural(len(sites), 'website'), ', '.join(sites) if sites else 'none'),
-        'The Source Scout found %s for missing sources. None may be used until the project owner approves it.'
+        'The Source Scout found %s for missing sources. None of them may be used until the project owner approves it.'
         % plural(n_candidates, 'candidate document'),
     ]
 

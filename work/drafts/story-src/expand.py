@@ -9,12 +9,12 @@ import csv, html, json, re, sys, os
 
 ROOT = '/home/user/enron-dryrun'
 cards = {}
-for f in ['reader-a', 'reader-b', 'reader-c']:
+for f in ['reader-a', 'reader-b', 'reader-c', 'reader-followup']:
     for c in json.load(open(f'{ROOT}/work/facts/{f}.json')):
         cards[c['id']] = c
 manifest = {r['id']: r for r in csv.DictReader(open(f'{ROOT}/sources/manifest.csv'))}
 
-PAT = re.compile(r'\{\{([A-C]-\d{3})(?:!([a-z0-9-]+))?(?:@([^#}]+))?(?:#(\d+))?\}\}')
+PAT = re.compile(r'\{\{([A-CF]-\d{3})(?:!([a-z0-9-]+))?(?:@([^#}]+))?(?:#(\d+))?\}\}')
 errors = []
 used = []
 

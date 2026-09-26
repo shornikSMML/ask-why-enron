@@ -555,3 +555,100 @@ Not done: item 7-5 asks to update card B-079 (or add a transcript card) so the c
 **New:**
 
 > Protection for employees who report suspected fraud against shareholders or violations of SEC rules to regulators, Congress, or a supervisor.
+
+
+# Round 3
+
+Fixes required by `work/facts/factcheck-round3-partA.md`, plus the optional ch4 caption refinement and the coordinator's optional item 4 (one Watkins-letter phrase). Applied by `work/drafts/story-src/apply_round3.py`; `expand.py` now also reads `work/facts/reader-followup.json` so F-cards can be cited.
+
+Watkins phrase: I quote the letter itself as printed in the Senate subcommittee staff report, Appendix 2 (printed p. 57, PDF 61, page image), per card F-004. I did not use the report's own quotation ("a wave accounting scandals", card F-002), which the Fact-Checker confirmed is a misquote. The phrase is identical in the House hearing reprint (hrg-hec-collapse-pt4, tab 14), per F-004; the shorter "Rex Rogers" version is not the one quoted.
+
+## 1-5 / formation (split sentence) (ch1)
+
+**Old:**
+
+> became the outside <span class="term" data-term="auditor">auditor</span> of the combined company formed when InterNorth acquired Houston Natural Gas in July 1985, which took the name Enron in April 1986.[cite C-026][cite A-001]
+
+**New:**
+
+> became the outside <span class="term" data-term="auditor">auditor</span> of the combined company formed when InterNorth acquired Houston Natural Gas in July 1985.[cite C-026] The combined company took the name Enron in April 1986.[cite A-001]
+
+## 1-5 / formation (split sentence) (ch6)
+
+**Old:**
+
+> became the auditor of the combined company formed when InterNorth acquired Houston Natural Gas in July 1985, which took the name Enron in April 1986.[cite C-026][cite A-001]
+
+**New:**
+
+> became the auditor of the combined company formed when InterNorth acquired Houston Natural Gas in July 1985.[cite C-026] The combined company took the name Enron in April 1986.[cite A-001]
+
+## 3-2 (typo) (ch3)
+
+**Old:**
+
+> CalPERS," It found no written record
+
+**New:**
+
+> CalPERS." It found no written record
+
+## 5-1 (replacement text from Round 3, section 2) (ch5)
+
+**Old:**
+
+> Sources differ on the after-tax amount.[cite A-058] Enron's October 16 announcement put it at $544 million,[cite A-058!batson-final@p. 15, n. 29, II.A Events of Fall 2001#18] while its later quarterly report put it at $462 million.[cite A-058!enron-10q-q3-2001@p. 52, Item 2. MD&A, line 3673]
+
+**New:**
+
+> Sources differ on the after-tax amount. The special committee and the bankruptcy examiner put it at $544 million,[cite A-058][cite F-021] the figure in Enron's October 16 announcement, where that charge also covered losses on some other investments.[cite F-016] Enron's later quarterly report put the Raptor charges at $462 million after tax.[cite F-017@p. 53, Item 2. MD&A, lines 3672-3674]
+
+## 5-2 (card repoint to F-018) (ch5)
+
+**Old:**
+
+> [cite A-081!powers-report-sec@pp. 30-31, Introduction, lines 1258-1267]
+
+**New:**
+
+> [cite F-018]
+
+## 5-3 (card repoint to F-019) (ch5)
+
+**Old:**
+
+> [cite A-087!batson-1st-interim@p. 7#9]
+
+**New:**
+
+> [cite F-019]
+
+## 5-6 (card repoint to F-020) (ch5)
+
+**Old:**
+
+> [cite A-091!batson-1st-interim@p. 6, n. 21#8]
+
+**New:**
+
+> [cite F-020]
+
+## 4-5 (optional caption refinement) (ch4)
+
+**Old:**
+
+> <figcaption>A Senate Governmental Affairs Committee hearing on Enron, January 24, 2002, as identified in the photo's source caption.
+
+**New:**
+
+> <figcaption>The Senate Governmental Affairs Committee's opening hearing into the Enron bankruptcy, as identified by the photo's source; Wikimedia Commons dates it January 24, 2002.
+
+## Coordinator item 4: one Watkins-letter phrase (card F-004) (ch4)
+
+**Old:**
+
+> She was responding to a request for questions for an all-employee meeting set for August 16.[cite B-055]
+
+**New:**
+
+> She was responding to a request for questions for an all-employee meeting set for August 16.[cite B-055] The letter, reprinted in full as an appendix to the Senate subcommittee staff report, says: "I am incredibly nervous that we will implode in a wave of accounting scandals."[cite F-004@p. 57, Appendix 2, letter to Kenneth Lay (page image)#61] (This is the letter's own wording. The staff report's quotation of the same sentence elsewhere differs slightly.)

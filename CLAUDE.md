@@ -21,13 +21,28 @@ Phase 2:
 8. "Why This Matters to You": what Sarbanes-Oxley changed (CEO/CFO certification, internal control reporting, the PCAOB, auditor independence) and what that means for anyone entering business or accounting today.
 
 SOURCES AND ACCURACY (highest priority)
-- Prefer primary, public-domain U.S. government sources: the Powers Report, the bankruptcy examiner's reports, SEC filings and litigation releases, Department of Justice releases, congressional hearings, the Sarbanes-Oxley Act, and court opinions. Use documents in the sources/ folder first.
-- Every factual claim about a real person must carry a citation that a reader can see.
-- Be exact about legal status: alleged, charged, pleaded guilty, convicted, conviction overturned, conviction vacated. Many of these people are alive.
+- The source library in sources/ is complete and verified. manifest.csv lists every document; download_log.csv holds each file's SHA-256 fingerprint. Base every factual claim on documents in this library.
+- The rules in sources/README.md ("Rules for the agents") apply to every agent, not just the fact-checker.
+- Use only files listed in manifest.csv. Do not substitute copies found on the web, even of the same document: some online copies are annotated by advocacy groups, and some documents exist in several versions (for example, three different Batson "Appendix E"s). If unsure which file is right, ask the coordinator rather than guessing.
+- Before relying on a file, confirm its fingerprint matches download_log.csv. A mismatch means stop and report it.
+- Known gaps: the Batson Second and Third Interim Reports are not in the library. Do not look for them online. If a claim would need them, leave it out or mark it unverified.
+- Explaining concepts (what mark-to-market accounting is, what a special purpose entity does) may draw on general knowledge. Anything about specific events, dates, dollar amounts, or people must come from the library.
+- Use the web only for images (see IMAGES) and for the Source Scout's work (see MISSING SOURCES). Log every web source used.
+- Every factual claim about a real person must carry a citation a reader can see: document and page or section.
 - Never invent quotations. Quote only verbatim from a cited source, briefly. Do not reproduce text from copyrighted books, articles, or films.
 - When sources disagree or are uncertain, say so instead of guessing.
-- One agent must act as fact-checker and review all Phase 1 content against the sources before Phase 1 is marked done. Log every correction it makes.
+- One agent acts as fact-checker and reviews all Phase 1 content against the sources before Phase 1 is marked done. Log every correction it makes.
+- Read efficiently. Many documents run hundreds or thousands of pages. Read only the documents and sections a task needs, and record page ranges in the build log.
 
+MISSING SOURCES
+- When an agent needs a source the library doesn't have, it does not search for one itself. It records the need in build-log/gaps.md: the claim it wanted to make, what kind of document would support it, and how important it is (critical, useful, or minor). Then it leaves the claim out or marks it unverified, and keeps working.
+- One agent, the Source Scout, works through gaps.md, starting with critical gaps. It looks first on official sites (sec.gov, justice.gov, govinfo.gov, supremecourt.gov, uscourts.gov, congress.gov). It downloads each candidate into sources/candidates/ and adds a row to sources/candidates/candidates.csv, using the same columns as manifest.csv plus: which gap it fills, its SHA-256 fingerprint, whether it is an official copy or a mirror, and whether other versions of the document exist.
+- Never use an annotated, advocacy, or unofficial copy when an official one exists.
+- If a document is only available behind a paywall or login (for example, PACER), record that in gaps.md instead of looking for another copy.
+- In the dry run, collect no more than 10 candidates.
+- Candidates are NOT part of the library. No agent may cite or rely on them until I approve them.
+- At the Phase 1 check-in, the coordinator reports gaps.md and the candidates. I will add approved documents to manifest.csv and download them through my GitHub Action. Then a revision pass fills in the claims that were marked unverified.
+  
 IMAGES (required)
 - Every chapter should have at least one image or diagram.
 - Use only images that are public domain or Creative Commons licensed. Good sources: Wikimedia Commons, the Library of Congress, and U.S. government works. No news-agency photos (AP, Getty, Reuters) and no screenshots from films or TV.
@@ -41,6 +56,12 @@ BUILD LOG (required from the very first step)
 - Also record your own decisions as coordinator: your original plan, any changes to it, and why.
 - Record which websites the agents actually used for sources and images.
 - The "How This Was Built" page reads this log and shows, for a non-technical audience: a diagram of the coordinator and its agents, a timeline of the build, and each agent's brief and result.
+
+BEFORE THE AGENTS (for the "How This Was Built" page)
+This site will be shown in a workshop on AI agents, so "How This Was Built" matters as much as the story. It should open with the human work that came first: I assembled and verified the source library before any agent ran. Explain in plain language what a SHA-256 fingerprint is and why it matters, and include these lessons:
+- An annotated copy of the Batson Final Report from an advocacy website nearly got used in place of the clean court copy.
+- Three different documents were each labeled Batson "Appendix E."
+- Fingerprints confirmed the downloaded files matched the originals.
 
 TECHNICAL
 - Plain static website: HTML, CSS, and JavaScript only. No build step, no server, no outside services. It must work by opening index.html or from GitHub Pages, and it must read well on a phone.

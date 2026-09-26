@@ -1048,7 +1048,7 @@ window.GLOSSARY = {
  "pcaob": {
   "term": "Public Company Accounting Oversight Board (PCAOB)",
   "short": "The nonprofit board created by the Sarbanes-Oxley Act to register, set standards for, and inspect firms that audit public companies.",
-  "long": "Before the PCAOB, the accounting profession largely regulated itself. The PCAOB is overseen by the SEC and has five members, only two of whom may be CPAs. In President Bush's words at the signing, \"The auditors will be audited.\"",
+  "long": "Before the PCAOB, the accounting profession largely regulated itself. The PCAOB is overseen by the SEC and has five members, exactly two of whom must be (or have been) CPAs. In President Bush's words at the signing, \"The auditors will be audited.\"",
   "see_also": [
    "sarbanes-oxley",
    "auditor",
@@ -1226,7 +1226,7 @@ window.GLOSSARY = {
  "vacated": {
   "term": "Vacated",
   "short": "Cancelled by a court, as if it had not happened. A vacated conviction no longer stands.",
-  "long": "Courts vacate judgments for many reasons, including when a defendant dies before his appeal is finished. According to the Fifth Circuit, Kenneth Lay's death in 2006 caused the trial court to vacate his conviction and dismiss his indictment.",
+  "long": "Courts vacate judgments for many reasons, including when a defendant dies before his case is final. According to the Fifth Circuit, Kenneth Lay's death in 2006 caused the trial court to vacate his conviction and dismiss his indictment.",
   "see_also": [
    "reversed",
    "convicted",

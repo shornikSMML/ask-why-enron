@@ -6,9 +6,9 @@ window.CAST = [
   "id": "kenneth-lay",
   "name": "Kenneth Lay",
   "role": "Chairman of Enron's board from its formation in 1986 until January 23, 2002; chief executive officer (CEO) from 1986 to February 2001 and again from August 14, 2001 to January 23, 2002 (dates as given in the SEC's complaint).",
-  "summary": "Lay had been chairman and CEO of Houston Natural Gas, which InterNorth bought in 1985. Although Houston Natural Gas was the smaller company, its managers took control, and Lay became chairman and CEO of the combined company in February 1986. He handed the CEO job to Jeffrey Skilling in February 2001 and took it back when Skilling resigned that August. The board's special committee (the Powers Committee) found that Lay, as CEO, bore ultimate responsibility.",
-  "outcome_status": "conviction vacated (died before appeal)",
-  "outcome_text": "In July 2004 the SEC sued Lay, alleging fraud and insider trading; the library does not show how that civil case ended. A superseding indictment unsealed on July 8, 2004 charged him with conspiracy, securities fraud, wire fraud, bank fraud and making false statements to banks. In May 2006 a jury convicted him on every count against him. Lay died on July 5, 2006. According to the Fifth Circuit, his death caused the trial court to vacate (cancel) his conviction and dismiss the indictment, so in law he does not stand convicted. The library does not say whether he had filed an appeal. Earlier, on February 12, 2002, he was sworn in before a Senate committee and then declined to answer questions, invoking his Fifth Amendment right; that is not evidence of guilt. In a civil (non-criminal) analysis, the bankruptcy examiner concluded there was sufficient evidence for a fact-finder to conclude that Lay breached duties he owed Enron as an officer and director.",
+  "summary": "Lay had been chairman and CEO of Houston Natural Gas, which InterNorth bought in 1985. Although Houston Natural Gas was the smaller company, its managers took control, and Lay became chairman and CEO of the combined company in February 1986. He handed the CEO job to Jeffrey Skilling in February 2001 and took it back when Skilling resigned that August. The board's special committee (the Powers Committee) found that, as CEO, Lay had ultimate responsibility for making sure the officers reporting to him did their oversight jobs, and that \"a large measure of the responsibility rests with the CEO.\"",
+  "outcome_status": "conviction vacated after his death",
+  "outcome_text": "In July 2004 the SEC sued Lay, alleging fraud and insider trading; the library does not show how that civil case ended. A superseding indictment unsealed on July 8, 2004 charged him with conspiracy, securities fraud, wire fraud, bank fraud and making false statements to banks. In May 2006, according to the Fifth Circuit, the jury convicted him of every count against him at that trial. Lay died on July 5, 2006. According to the Fifth Circuit, his death caused the trial court to vacate (cancel) his conviction and dismiss the indictment, so in law he does not stand convicted. The library does not say whether he had filed an appeal. Earlier, on February 12, 2002, he was sworn in before a Senate committee and then declined to answer questions, invoking his Fifth Amendment right; that is not evidence of guilt. In a civil (non-criminal) analysis, the bankruptcy examiner concluded there was sufficient evidence for a fact-finder to conclude that Lay breached duties he owed Enron as an officer and director.",
   "cites": [
    {
     "source_id": "sec-lay-complaint",
@@ -31,7 +31,7 @@ window.CAST = [
    {
     "source_id": "powers-report-sec",
     "page": 16,
-    "loc": "p. 10 (Lay p. 19), Executive Summary - The LJM Transactions; The Participants",
+    "loc": "p. 19, Executive Summary - The Participants",
     "card": "A-062"
    },
    {
@@ -141,8 +141,8 @@ window.CAST = [
   "name": "Andrew Fastow",
   "role": "Senior vice president, finance, January 1997 to March 1998; chief financial officer (CFO) from March 1998 to October 24, 2001 (per the SEC). General partner of the LJM partnerships that did business with Enron.",
   "summary": "In June 1999 Enron's board approved LJM1, a partnership in which Fastow, while serving as CFO, would be the general partner, and in October 1999 it approved a second, larger partnership, LJM2. The board's special committee found that Fastow was enriched by at least $30 million through these partnerships. Enron announced on October 24, 2001 that he was on leave and would be replaced as CFO.",
-  "outcome_status": "convicted",
-  "outcome_text": "On October 2, 2002 the SEC charged Fastow, alleging he ran a scheme to defraud Enron's security holders and enrich himself. The SEC's list of Enron cases includes a January 14, 2004 release titled \"SEC Settles Civil Fraud Charges Filed Against Andrew S. Fastow\"; the settlement terms are not in the library. Justice Department press releases of February 19 and July 8, 2004 list him among defendants \"convicted to date.\" The library does not say whether he pleaded guilty or was convicted at trial, what crime he was convicted of, or his sentence. He later testified as a government witness at the Skilling and Lay trial. The bankruptcy examiner had concluded, in a civil analysis, that there was sufficient evidence for a fact-finder to conclude he breached his duties to Enron.",
+  "outcome_status": "pleaded guilty",
+  "outcome_text": "On October 2, 2002 the SEC charged Fastow, alleging he ran a scheme to defraud Enron's security holders and enrich himself. The SEC's list of Enron cases includes a January 14, 2004 release titled \"SEC Settles Civil Fraud Charges Filed Against Andrew S. Fastow\"; the settlement terms are not in the library. Justice Department press releases of February 19 and July 8, 2004 list him among defendants \"convicted to date.\" According to a separate opinion in Skilling v. United States (2010), he pleaded guilty in 2004. The library does not show the charge or the sentence. He later testified as a government witness at the Skilling and Lay trial. The bankruptcy examiner had concluded, in a civil analysis, that there was sufficient evidence for a fact-finder to conclude he breached his duties to Enron.",
   "cites": [
    {
     "source_id": "sec-fastow-complaint",
@@ -193,6 +193,12 @@ window.CAST = [
     "card": "B-033"
    },
    {
+    "source_id": "skilling-scotus-2010",
+    "page": 93,
+    "loc": "p. 450, n. 12, Opinion of Sotomayor, J. (concurring in part and dissenting in part), n. 12",
+    "card": "F-010"
+   },
+   {
     "source_id": "ca5-skilling-2009",
     "page": 15,
     "loc": "p. 15, II. Trial and Sentence",
@@ -203,6 +209,34 @@ window.CAST = [
     "page": 3,
     "loc": "p. 1, App. D, I. Introduction",
     "card": "B-053"
+   }
+  ]
+ },
+ {
+  "id": "lea-fastow",
+  "name": "Lea Fastow",
+  "role": "Andrew Fastow's wife; had earlier worked in Enron's Finance group. A separate opinion in Skilling v. United States (2010) describes her as an assistant treasurer.",
+  "summary": "The board's special committee found that, during certain periods, back-office tasks for the Chewco partnership appear to have been performed by Fastow's wife, who had previously worked in Enron's Finance group. It did not know whether she was paid for this work. The committee's report does not name her; a House subcommittee chairman identified her as Lea Fastow.",
+  "outcome_status": "pleaded guilty",
+  "outcome_text": "According to a separate opinion in Skilling v. United States (2010), the Enron Task Force indicted Lea Fastow in 2003, and she pleaded guilty in 2004. That opinion (by Justice Sotomayor, joined by two other justices) mentions this only as background, in a list of news coverage before Skilling's trial; it is not the Court's holding or a record of her case. The library does not show the charge or her sentence.",
+  "cites": [
+   {
+    "source_id": "powers-report-sec",
+    "page": null,
+    "loc": "p. 54, II (Chewco), management of Chewco",
+    "card": "F-009"
+   },
+   {
+    "source_id": "hrg-hec-collapse-pt2",
+    "page": 80,
+    "loc": "p. 76, statement of Chairman Greenwood",
+    "card": "F-009"
+   },
+   {
+    "source_id": "skilling-scotus-2010",
+    "page": 93,
+    "loc": "p. 450, n. 12, Opinion of Sotomayor, J. (concurring in part and dissenting in part), n. 12",
+    "card": "F-010"
    }
   ]
  },
@@ -317,6 +351,40 @@ window.CAST = [
   ]
  },
  {
+  "id": "richard-buy",
+  "name": "Richard Buy",
+  "role": "Enron's chief risk officer; head of its Risk Assessment and Control group.",
+  "summary": "The board relied on Buy and chief accounting officer Richard Causey to review and approve the LJM transactions. The special committee found that neither \"ignored his responsibilities,\" but that both interpreted their roles very narrowly. Vince Kaminski told the committee he had brought his concerns about the 1999 Rhythms deal to Buy; Buy said he did not recall those discussions.",
+  "outcome_status": "no charges shown in library",
+  "outcome_text": "The library documents show no charges against him. On February 7, 2002, sworn in alongside Causey at a House Energy and Commerce oversight hearing, Buy declined to answer any questions, invoking his Fifth Amendment right. That is not evidence of guilt.",
+  "cites": [
+   {
+    "source_id": "powers-report-sec",
+    "page": null,
+    "loc": "p. 10, Executive Summary",
+    "card": "F-011"
+   },
+   {
+    "source_id": "powers-report-sec",
+    "page": 78,
+    "loc": "pp. 70-73, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2",
+    "card": "A-041"
+   },
+   {
+    "source_id": "powers-report-sec",
+    "page": null,
+    "loc": "p. 84 (continues p. 85), IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'",
+    "card": "F-014"
+   },
+   {
+    "source_id": "hrg-hec-collapse-pt2",
+    "page": 27,
+    "loc": "p. 23, Testimony of Richard A. Causey and Richard B. Buy",
+    "card": "F-012"
+   }
+  ]
+ },
+ {
   "id": "ben-glisan",
   "name": "Ben Glisan Jr.",
   "role": "Former Arthur Andersen accountant; at Enron from 1996 until he was terminated for cause in November 2001; served as treasurer (per the SEC).",
@@ -359,15 +427,15 @@ window.CAST = [
  {
   "id": "jeffrey-mcmahon",
   "name": "Jeffrey McMahon",
-  "role": "Enron treasurer at the time of the March 2001 Chewco buyout; named CFO when Fastow went on leave in October 2001; Enron's president and COO when he testified in February 2002.",
-  "summary": "The board's special committee reported that McMahon, as treasurer, proposed a $1 million return for the Chewco investors when Enron bought them out, and that Fastow instead negotiated about $10 million. McMahon testified under oath to the Senate Commerce Committee on February 26, 2002.",
+  "role": "Enron's treasurer until 2000, including during early talks in 2000 about buying out Chewco; named CFO when Fastow went on leave in October 2001; president and COO when he testified in February 2002.",
+  "summary": "McMahon told the board's special committee that in 2000, as treasurer, he proposed a $1 million return for the Chewco investors, and that Fastow later told him he had negotiated $10 million. McMahon testified under oath to the Senate Commerce Committee on February 26, 2002.",
   "outcome_status": "charged — outcome not in library",
   "outcome_text": "The SEC's list of Enron cases includes a June 20, 2007 release titled \"SEC Charges Former Enron Executive Jeffrey McMahon.\" This was a civil case; the library does not show how it ended. The library documents show no criminal charges against him. In a civil analysis, the bankruptcy examiner had concluded there was sufficient evidence for a fact-finder to conclude that McMahon, with Causey, Fastow and Glisan, breached duties he owed Enron. McMahon invoked his Fifth Amendment right when the examiner sought his testimony; that is not evidence of guilt.",
   "cites": [
    {
     "source_id": "powers-report-sec",
     "page": 70,
-    "loc": "pp. 60-64, II.G Enron's Repurchase of Chewco's Limited Partnership Interest",
+    "loc": "pp. 60-61 and 97, II.G Enron's Repurchase of Chewco; V.A Raptor I",
     "card": "A-037"
    },
    {
@@ -397,12 +465,34 @@ window.CAST = [
   ]
  },
  {
+  "id": "greg-whalley",
+  "name": "Greg Whalley",
+  "role": "Enron's president and chief operating officer from August 2001; member of the Office of the Chairman with Lay.",
+  "summary": "Enron reported that after Skilling resigned in August 2001 and Lay took back the CEO job, Whalley was promoted to president and COO. The board's special committee found that in mid-September 2001 Lay and Whalley directed Causey to terminate the Raptors, which Enron did on September 28, 2001.",
+  "outcome_status": "no charges shown in library",
+  "outcome_text": "The library documents show no charges against him.",
+  "cites": [
+   {
+    "source_id": "enron-10q-q3-2001",
+    "page": null,
+    "loc": "p. 37, Notes to Consolidated Financial Statements, Note 12 (Business Segment Information)",
+    "card": "F-013"
+   },
+   {
+    "source_id": "powers-report-sec",
+    "page": 133,
+    "loc": "pp. 127-128, V.E Unwind of the Raptors",
+    "card": "A-058"
+   }
+  ]
+ },
+ {
   "id": "david-delainey",
   "name": "David Delainey",
   "role": "Former CEO of Enron North America and of Enron Energy Services, two Enron divisions.",
   "summary": "Delainey ran two of Enron's main business units. He was among the more than twenty former Enron officers and employees who invoked the Fifth Amendment when the bankruptcy examiner sought their testimony.",
   "outcome_status": "convicted",
-  "outcome_text": "The SEC charged Delainey on October 30, 2003. A Justice Department press release of February 2004 lists him among defendants \"convicted to date.\" The library gives no details of his plea or trial, the charge, or his sentence, and does not show how the SEC case ended.",
+  "outcome_text": "The SEC's list of Enron cases records an October 30, 2003 case against the former CEO of Enron North America and Enron Energy Services, the post Delainey held. A Justice Department press release of February 2004 lists him among defendants \"convicted to date.\" The library gives no details of his plea or trial, the charge, or his sentence, and does not show how the SEC case ended.",
   "cites": [
    {
     "source_id": "doj-skilling-charged-press",
@@ -415,6 +505,12 @@ window.CAST = [
     "page": 6,
     "loc": "p. 4, App. D, I. Introduction, and n. 10",
     "card": "B-036"
+   },
+   {
+    "source_id": "sec-enron-spotlight",
+    "page": null,
+    "loc": "Enron-Related Enforcement Actions list (Lit. Rel. 18435, Oct. 30, 2003)",
+    "card": "B-050"
    }
   ]
  },
@@ -424,12 +520,18 @@ window.CAST = [
   "role": "Former executive vice president and director of investor relations at Enron (the office that talks to stock analysts and investors).",
   "summary": "Koenig was responsible for Enron's communications with Wall Street analysts and investors.",
   "outcome_status": "pleaded guilty",
-  "outcome_text": "The Fifth Circuit's 2009 Skilling opinion notes that Koenig pleaded guilty to securities fraud, in part for a statement he made on an April 2001 call with analysts. The SEC charged him on August 25, 2004. The library does not give the date of his plea, his sentence, or how the SEC case ended.",
+  "outcome_text": "The Fifth Circuit's 2009 Skilling opinion notes that Koenig pleaded guilty to securities fraud, in part for a statement he made on a January 2001 call with investors (January 22, 2001). The SEC's list of Enron cases records that it charged him on August 25, 2004. The library does not give the date of his plea, his sentence, or how the SEC case ended.",
   "cites": [
    {
     "source_id": "ca5-skilling-2009",
     "page": 6,
     "loc": "p. 6, I.A, footnote 3",
+    "card": "B-051"
+   },
+   {
+    "source_id": "sec-enron-spotlight",
+    "page": null,
+    "loc": "Enron-Related Enforcement Actions list (Lit. Rel. 18849, Aug. 25, 2004)",
     "card": "B-051"
    }
   ]
@@ -475,12 +577,40 @@ window.CAST = [
   ]
  },
  {
+  "id": "vince-kaminski",
+  "name": "Vince Kaminski",
+  "role": "Head of Enron's Research Group, which handled complex option pricing and modeling. (The Powers Report calls him Vincent; the bankruptcy examiner, Wincenty.)",
+  "summary": "Kaminski told the board's special committee that he was very uncomfortable with the 1999 Rhythms deal with LJM1 and brought his concerns to his supervisor, Richard Buy, who said he did not recall those discussions; the committee noted sharply different recollections. In early 2000 his group estimated a 68% probability that the Rhythms structure would default. In sworn testimony to the bankruptcy examiner, he compared the Raptor hedges to buying house insurance from your own spouse.",
+  "outcome_status": "no charges shown in library",
+  "outcome_text": "The library documents show no charges against him. He appears in the library as a witness.",
+  "cites": [
+   {
+    "source_id": "powers-report-sec",
+    "page": null,
+    "loc": "p. 84 (continues p. 85), IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'",
+    "card": "F-014"
+   },
+   {
+    "source_id": "powers-report-sec",
+    "page": 93,
+    "loc": "p. 87, IV.E Unwinding the Transaction",
+    "card": "A-049"
+   },
+   {
+    "source_id": "batson-final",
+    "page": 22,
+    "loc": "p. 19, n. 41, III.A Overview, footnote 41",
+    "card": "A-069"
+   }
+  ]
+ },
+ {
   "id": "david-duncan",
   "name": "David Duncan",
   "role": "Arthur Andersen's global engagement partner for the Enron audit (the senior partner in charge), from 1997 until December 2001.",
   "summary": "Duncan took over as lead partner on Enron in February 1997. The Senate subcommittee reported that his handwritten notes for a February 1999 audit committee meeting said Enron's accounting practices \"push limits.\" Andersen executive C.E. Andrews testified that on October 23, 2001 Duncan organized a rushed effort to shred Enron documents without consulting others in the firm; Duncan's own account, as summarized by the House subcommittee chairman, was that he acted on an October 12 e-mail from an Andersen lawyer about the firm's document-retention policy. The two accounts conflict. Andersen dismissed him on January 15, 2002.",
   "outcome_status": "SEC settlement",
-  "outcome_text": "On January 24, 2002, sworn before a House subcommittee, Duncan declined on his lawyer's advice to answer questions, invoking his constitutional protection against self-incrimination; that is not evidence of guilt. On January 28, 2008 the SEC filed a complaint alleging he was reckless in not knowing that the audit reports he signed on Enron's 1998-2000 financial statements were materially false. The SEC's list describes it as a \"settled action\" and records a related proceeding against him on January 30, 2008; the terms are not in the library. The library contains no documents on any criminal case against him.",
+  "outcome_text": "On January 24, 2002, sworn before a House subcommittee, Duncan declined on his lawyer's advice to answer questions, invoking his constitutional protection against self-incrimination; that is not evidence of guilt. On January 28, 2008 the SEC filed a complaint alleging he was reckless in not knowing that the audit reports he signed on Enron's 1998-2000 financial statements were materially false. The SEC's list describes it as a \"settled action\" and records a related proceeding against him on January 30, 2008; the terms are not in the library. He testified at Andersen's criminal trial in 2002, as cited by the bankruptcy examiner. The library contains no documents on any criminal case against him.",
   "cites": [
    {
     "source_id": "sec-duncan-complaint",
@@ -535,13 +665,47 @@ window.CAST = [
     "page": null,
     "loc": "Enron-Related Enforcement Actions list (Lit. Rel. 20441; Admin. Proc. Rel. 57234)",
     "card": "B-061"
+   },
+   {
+    "source_id": "batson-final-app-b-part1",
+    "page": 65,
+    "loc": "p. 63 (begins p. 62), IV.A Three Errors Acknowledged by Andersen",
+    "card": "C-030"
+   }
+  ]
+ },
+ {
+  "id": "nancy-temple",
+  "name": "Nancy Temple",
+  "role": "In-house attorney at Arthur Andersen.",
+  "summary": "On October 12, 2001 Temple e-mailed an Andersen partner suggesting that the Enron audit team be reminded of the firm's document-retention policy. She testified that she was first asked on September 28, 2001 to join a call about an Enron accounting issue, and that until October 12 she gave legal advice, after consulting her supervisor and others, on documentation and retention. At a January 2002 hearing the House subcommittee chairman called her mid-October e-mails \"highly unusual and of questionable timing,\" and in the same statement said, \"We have no reason at this point to doubt her good intentions.\"",
+  "outcome_status": "no charges shown in library",
+  "outcome_text": "The library documents show no charges against her. She testified under oath before the House Energy and Commerce oversight subcommittee on January 24, 2002.",
+  "cites": [
+   {
+    "source_id": "hrg-hec-andersen-shredding",
+    "page": 49,
+    "loc": "p. 45, Hearing record exhibit (e-mail dated 10/12/2001 from Nancy A. Temple to Michael C. Odom)",
+    "card": "C-001"
+   },
+   {
+    "source_id": "hrg-hec-andersen-shredding",
+    "page": 126,
+    "loc": "p. 122, Questioning of Temple by Chairman Tauzin",
+    "card": "C-018"
+   },
+   {
+    "source_id": "hrg-hec-andersen-shredding",
+    "page": 7,
+    "loc": "p. 3, Opening statement of Chairman Greenwood",
+    "card": "F-008"
    }
   ]
  },
  {
   "id": "arthur-andersen",
   "name": "Arthur Andersen LLP (the firm)",
-  "role": "Enron's outside auditor from Enron's formation in 1985 until Enron dismissed it on January 17, 2002. In 2001, the fourth-largest U.S. accounting firm.",
+  "role": "Enron's outside auditor from the 1985 merger that created Enron (it had audited InterNorth) until Enron dismissed it on January 17, 2002. In 2001, the fourth-largest U.S. accounting firm.",
   "summary": "Andersen gave Enron's financial statements clean audit opinions, including for 2000. Its fees from Enron in 2000 were about $50 million; sources give figures from $47.9 million to $54 million depending on the accounting year and categories used. In a civil analysis, the bankruptcy examiner concluded that the evidence would let a fact-finder decide Andersen was negligent and helped Enron officers breach their duties, while noting Andersen would have defenses, including that Enron officers deceived it.",
   "outcome_status": "conviction reversed",
   "outcome_text": "Andersen was indicted for obstruction of justice over the destruction of Enron documents on March 7, 2002, tried in Houston, and convicted by a jury on June 15, 2002. The SEC announced that day that Andersen would stop practicing before it by August 31, 2002, and, according to the GAO, the firm was dissolved in 2002. The Fifth Circuit affirmed the conviction. On May 31, 2005 the Supreme Court unanimously reversed it, holding that the jury instructions had not properly explained what the crime requires. The reversal does not mean the Court found Andersen innocent; it found the jury had been wrongly instructed. The library does not show what happened after the case was sent back.",
@@ -624,7 +788,7 @@ window.CAST = [
   "id": "joseph-berardino",
   "name": "Joseph Berardino",
   "role": "Chief executive officer of Arthur Andersen LLP.",
-  "summary": "Berardino testified under oath to the House Financial Services Committee on February 5, 2002, and announced changes at Andersen, including an independent oversight board chaired by Paul Volcker. He argued that the auditor's pass/fail report gives the same clean opinion to aggressive financial statements as to prudent ones.",
+  "summary": "Berardino testified under oath to a House Financial Services subcommittee (Capital Markets) on February 5, 2002, and announced changes at Andersen, including an independent oversight board chaired by Paul Volcker. He argued that the auditor's pass/fail report gives the same clean opinion to aggressive financial statements as to prudent ones.",
   "outcome_status": "no charges shown in library",
   "outcome_text": "No library document shows any charge against him. He appears in the library as a sworn witness before Congress.",
   "cites": [
@@ -667,6 +831,28 @@ window.CAST = [
     "page": 31,
     "loc": "p. 27, Statement of William C. Powers, Jr.",
     "card": "B-068"
+   }
+  ]
+ },
+ {
+  "id": "raymond-troubh",
+  "name": "Raymond Troubh",
+  "role": "One of two new directors added to Enron's board after October 2001 and appointed to its Special Investigative Committee (the Powers Committee).",
+  "summary": "Neither Troubh nor William Powers had been on the board when the transactions under investigation took place. The report's sections judging the board are the views of Powers and Troubh alone; Herbert Winokur, the committee's third member, did not join them.",
+  "outcome_status": "no charges shown in library",
+  "outcome_text": "The library documents show no charges against him. He appears in the library as an investigator.",
+  "cites": [
+   {
+    "source_id": "powers-report-sec",
+    "page": null,
+    "loc": "p. 31 (and p. 9 n. 1), I. Introduction (the Special Investigative Committee)",
+    "card": "F-015"
+   },
+   {
+    "source_id": "powers-report-sec",
+    "page": 28,
+    "loc": "pp. 22-24, Executive Summary - The Participants: The Board of Directors",
+    "card": "A-063"
    }
   ]
  },
@@ -920,7 +1106,7 @@ window.CAST = [
   "role": "Executives of the investment bank Merrill Lynch, named in an SEC complaint (roles as the SEC describes them: Davis, head of a client group; Bayly, head and then chairman of investment banking; Tilney, head of the Houston energy office; Furst, Enron relationship manager).",
   "summary": "The SEC alleged that Merrill Lynch and these four executives helped Enron through two year-end 1999 deals: the \"sale\" of Nigerian barges and offsetting energy option contracts. It alleged the deals let Enron add $60 million to its fourth-quarter 1999 income.",
   "outcome_status": "charged — outcome not in library",
-  "outcome_text": "On March 17, 2003 the SEC charged Merrill Lynch and the four executives with aiding and abetting Enron's securities fraud (alleged). The SEC's complaint says Davis, Tilney and Furst asserted the Fifth Amendment in SEC testimony. The library does not show how the SEC case ended for any of them, and no library document names any of them in a criminal case.",
+  "outcome_text": "On March 17, 2003 the SEC charged Merrill Lynch and the four executives with aiding and abetting Enron's securities fraud (alleged). The SEC's complaint says Davis, Tilney and Furst asserted the Fifth Amendment in SEC testimony. The library does not show how the SEC case ended for any of them. The Fifth Circuit's 2009 opinion says four unnamed Merrill Lynch employees were convicted at trial over the barge deal and that their convictions were reversed on appeal in 2006. It does not name them, so the library does not show whether these four executives were among them.",
   "cites": [
    {
     "source_id": "sec-merrill-complaint",
@@ -933,6 +1119,12 @@ window.CAST = [
     "page": null,
     "loc": "Complaint, paras. 9-12 (Defendants)",
     "card": "B-084"
+   },
+   {
+    "source_id": "ca5-skilling-2009",
+    "page": 19,
+    "loc": "p. 19, III (discussion of United States v. Brown), footnote 12",
+    "card": "B-085"
    }
   ]
  },

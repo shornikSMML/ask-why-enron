@@ -370,7 +370,7 @@ window.TIMELINE = [
  },
  {
   "date": "2000-12-22",
-  "title": "Propping up the Raptors",
+  "title": "A temporary fix for the Raptors",
   "text": "With two Raptors unable to cover what they owed, a 45-day agreement pooled all four so Enron could avoid recording a loss for 2000. In the last half of 2000, the Raptors accounted for more than 80% of Enron's reported pre-tax earnings.",
   "cites": [
    {
@@ -394,7 +394,7 @@ window.TIMELINE = [
  },
  {
   "date": "2000-12-31",
-  "title": "Record revenue on paper",
+  "title": "Record reported revenue",
   "text": "Enron reported 2000 revenue of $100.8 billion and net income of $979 million. It reported $10.2 billion of debt; the bankruptcy examiner later concluded that without six accounting techniques it would have reported $22.1 billion.",
   "cites": [
    {
@@ -809,7 +809,7 @@ window.TIMELINE = [
  },
  {
   "date": "2001-11-19",
-  "title": "The hidden debt",
+  "title": "Debt on and off the balance sheet",
   "text": "Enron reported $13.0 billion of debt on its balance sheet but told its bankers its debt was $38.1 billion; about $13-14 billion came through special purpose entities.",
   "cites": [
    {
@@ -851,7 +851,7 @@ window.TIMELINE = [
  {
   "date": "2001-12-02",
   "title": "Enron files for bankruptcy",
-  "text": "Enron and 13 affiliates filed for Chapter 11 bankruptcy in New York, the largest U.S. bankruptcy until WorldCom's in July 2002.",
+  "text": "Enron and 13 affiliates filed for Chapter 11 bankruptcy in New York, the largest U.S. bankruptcy until WorldCom's in July 2002, according to the Joint Committee on Taxation staff.",
   "cites": [
    {
     "source_id": "rpt-jct-vol1",
@@ -993,7 +993,7 @@ window.TIMELINE = [
  {
   "date": "2002-05-07",
   "title": "Directors testify to the Senate",
-  "text": "Five Enron directors testified under oath to the Senate Permanent Subcommittee on Investigations. All rejected any share of responsibility.",
+  "text": "Five Enron directors testified under oath to the Senate Permanent Subcommittee on Investigations. The subcommittee reported that all five rejected any share of responsibility for Enron's collapse.",
   "cites": [
    {
     "source_id": "rpt-psi-board",
@@ -1127,7 +1127,7 @@ window.TIMELINE = [
  {
   "date": "2003-03-17",
   "title": "The SEC charges Merrill Lynch and four executives",
-  "text": "The SEC alleged that Merrill Lynch and four of its executives aided and abetted Enron's fraud through the 1999 barge deal.",
+  "text": "The SEC alleged that Merrill Lynch and four of its executives aided and abetted Enron's fraud through two 1999 year-end deals, including the Nigerian barge \"sale.\"",
   "cites": [
    {
     "source_id": "sec-merrill-complaint",
@@ -1295,7 +1295,7 @@ window.TIMELINE = [
  {
   "date": "2006-05",
   "title": "Lay and Skilling are convicted",
-  "text": "After a four-month trial, a jury convicted Lay on every count against him, and Skilling on 19 counts while acquitting him on nine insider-trading counts. Skilling was later sentenced to 292 months in prison.",
+  "text": "After a four-month trial, a jury convicted Lay of every count against him at that trial, and Skilling on 19 counts while acquitting him on nine insider-trading counts. Skilling was later sentenced to 292 months in prison.",
   "cites": [
    {
     "source_id": "ca5-skilling-2009",

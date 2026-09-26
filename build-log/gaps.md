@@ -10,27 +10,27 @@ The coordinator merged the agents' own gap files (`work/facts/*-gaps.md`, which 
 
 | # | Claim we wanted to make | Kind of document that would support it | Raised by | Status |
 |---|---|---|---|---|
-| 1 | Fastow's criminal case: what he pleaded guilty to, when, and his sentence. The library shows only DOJ listing him as "convicted to date" (2004). | DOJ plea agreement or press releases on the plea and sentencing, U.S. v. Fastow (S.D. Tex.) | Reader A, Reader B | open |
-| 2 | Glisan's criminal case: charge, plea, sentence. The library shows only "convicted to date." | DOJ plea agreement, judgment, or press release, U.S. v. Glisan | Reader B | open |
-| 3 | David Duncan's criminal case (the library shows only the SEC complaint and his Fifth Amendment invocation) | DOJ information, plea, and later court orders, U.S. v. Duncan (S.D. Tex.); DOJ press release | Reader B, Reader C | open |
-| 4 | Skilling's case after the 2010 Supreme Court remand (harmless-error ruling, resentencing) | Fifth Circuit opinion on remand (2011); district court resentencing; DOJ press release | Reader B | open |
-| 5 | Andersen's 2002 obstruction indictment and verdict from primary documents, and what happened after the 2005 reversal | DOJ press releases; verdict or judgment, U.S. v. Arthur Andersen LLP (S.D. Tex., No. H-02-121); DOJ statement after remand | Reader B, Reader C (also in sources/README "Still to find") | open |
+| 1 | Fastow's criminal case: what he pleaded guilty to, when, and his sentence. The library shows only DOJ listing him as "convicted to date" (2004). | DOJ plea agreement or press releases on the plea and sentencing, U.S. v. Fastow (S.D. Tex.) | Reader A, Reader B | candidate: doj-fastow-plea-press-2004; candidate: doj-fastow-sentenced-press-2006. Plea agreement/judgment: paywalled: PACER |
+| 2 | Glisan's criminal case: charge, plea, sentence. The library shows only "convicted to date." | DOJ plea agreement, judgment, or press release, U.S. v. Glisan | Reader B | candidate: doj-glisan-plea-press-2003 |
+| 3 | David Duncan's criminal case (the library shows only the SEC complaint and his Fifth Amendment invocation) | DOJ information, plea, and later court orders, U.S. v. Duncan (S.D. Tex.); DOJ press release | Reader B, Reader C | partial. candidate: sec-duncan-litrel-20441 (SEC civil case only). Criminal side: no DOJ press release found in DOJ's April 2002 index; court record paywalled: PACER (S.D. Tex.) |
+| 4 | Skilling's case after the 2010 Supreme Court remand (harmless-error ruling, resentencing) | Fifth Circuit opinion on remand (2011); district court resentencing; DOJ press release | Reader B | candidate: ca5-skilling-2011-remand; candidate: doj-skilling-sentencing-agreement-2013 (agreement, not the judgment). DOJ 2013 resentencing press release located but justice.gov served a bot-check page; not downloaded (owner can save it from a browser). Resentencing judgment: paywalled: PACER |
+| 5 | Andersen's 2002 obstruction indictment and verdict from primary documents, and what happened after the 2005 reversal | DOJ press releases; verdict or judgment, U.S. v. Arthur Andersen LLP (S.D. Tex., No. H-02-121); DOJ statement after remand | Reader B, Reader C (also in sources/README "Still to find") | partial. candidate: doj-andersen-indictment-2002; candidate: andersen-scotus-full-usreports (the reversal). DOJ verdict statement (justice.gov/archive/opa/pr/2002/June/02_dag_356.htm) located but the server refused it (HTTP 401) on 3 tries. Verdict/judgment and the Nov 2005 government motion not to retry: paywalled: PACER; no official DOJ release found |
 
 ## Useful
 
 | # | Claim we wanted to make | Kind of document that would support it | Raised by | Status |
 |---|---|---|---|---|
-| 6 | Kopper's plea (currently seen only second-hand) and sentence | DOJ press releases or plea agreement, U.S. v. Kopper (2002) | Reader A, Reader B | open |
-| 7 | Causey's sentence after his Dec 28, 2005 plea | DOJ press release or judgment | Reader B | open |
-| 8 | Lay's conviction vacated after his death: the order itself (the library has the Fifth Circuit's statement, which is enough for the site) | U.S. v. Lay, 456 F. Supp. 2d 869 (S.D. Tex. 2006) | Reader B | open |
-| 9 | Full Supreme Court opinion in *Arthur Andersen LLP v. United States* (the library copy is only the Syllabus) | Official opinion, supremecourt.gov or U.S. Reports via loc.gov | Coordinator, Reader C | open |
-| 10 | Why Dynegy ended the merger (Nov 28, 2001), in a primary filing | Enron or Dynegy 8-K of late Nov 2001; Enron's Dec 2001 complaint against Dynegy | Reader A | open |
-| 11 | Enron's Oct 16, 2001 earnings press release (the $618M loss and $1.01B charges; reconciling the $544M vs. $462M after-tax figures) | The press release as filed with the SEC (8-K exhibit), if any | Reader A | open |
-| 12 | How the SEC civil cases ended (Lay, Skilling, Causey, Fastow, Duncan, Merrill executives) | SEC litigation releases (e.g. 18543, 19996, 20441, 21523) | Reader B | open |
-| 13 | Names and outcomes of the Merrill Lynch employees in the Nigerian barge case (convicted, then reversed, per the Fifth Circuit) | U.S. v. Brown, 459 F.3d 509 (5th Cir. 2006) | Reader B | open |
-| 14 | Whether any outside director was charged or sued (the library shows none, but no document says "not charged") | DOJ or SEC statement; court record of the securities litigation | Reader B | open |
-| 15 | Text of Sherron Watkins's August 2001 letter to Lay | The letter as a hearing exhibit (first check whether any library hearing already prints it) | Reader B | open |
-| 16 | Outcome of the Labor Department's 401(k) investigation; official lockdown dates (the sources disagree) | DOL press release; plan notice; court finding in the ERISA litigation | Reader C | open |
+| 6 | Kopper's plea (currently seen only second-hand) and sentence | DOJ press releases or plea agreement, U.S. v. Kopper (2002) | Reader A, Reader B | partial. candidate: doj-dag-kopper-plea-transcript-2002 (plea only; sentence not searched (10-candidate limit reached)) |
+| 7 | Causey's sentence after his Dec 28, 2005 plea | DOJ press release or judgment | Reader B | candidate: doj-causey-sentenced-press-2006 |
+| 8 | Lay's conviction vacated after his death: the order itself (the library has the Fifth Circuit's statement, which is enough for the site) | U.S. v. Lay, 456 F. Supp. 2d 869 (S.D. Tex. 2006) | Reader B | not searched (10-candidate limit reached) |
+| 9 | Full Supreme Court opinion in *Arthur Andersen LLP v. United States* (the library copy is only the Syllabus) | Official opinion, supremecourt.gov or U.S. Reports via loc.gov | Coordinator, Reader C | candidate: andersen-scotus-full-usreports |
+| 10 | Why Dynegy ended the merger (Nov 28, 2001), in a primary filing | Enron or Dynegy 8-K of late Nov 2001; Enron's Dec 2001 complaint against Dynegy | Reader A | not searched (10-candidate limit reached) |
+| 11 | Enron's Oct 16, 2001 earnings press release (the $618M loss and $1.01B charges; reconciling the $544M vs. $462M after-tax figures) | The press release as filed with the SEC (8-K exhibit), if any | Reader A | not searched (10-candidate limit reached) |
+| 12 | How the SEC civil cases ended (Lay, Skilling, Causey, Fastow, Duncan, Merrill executives) | SEC litigation releases (e.g. 18543, 19996, 20441, 21523) | Reader B | partial (Duncan only): candidate: sec-duncan-litrel-20441. Others not searched (10-candidate limit reached) |
+| 13 | Names and outcomes of the Merrill Lynch employees in the Nigerian barge case (convicted, then reversed, per the Fifth Circuit) | U.S. v. Brown, 459 F.3d 509 (5th Cir. 2006) | Reader B | not searched (10-candidate limit reached) |
+| 14 | Whether any outside director was charged or sued (the library shows none, but no document says "not charged") | DOJ or SEC statement; court record of the securities litigation | Reader B | not searched (10-candidate limit reached) |
+| 15 | Text of Sherron Watkins's August 2001 letter to Lay | The letter as a hearing exhibit (first check whether any library hearing already prints it) | Reader B | not searched (10-candidate limit reached) |
+| 16 | Outcome of the Labor Department's 401(k) investigation; official lockdown dates (the sources disagree) | DOL press release; plan notice; court finding in the ERISA litigation | Reader C | not searched (10-candidate limit reached) |
 | 17 | Batson Second Interim Report and appendices (D, E, G, L, M, Q): the six accounting techniques, SPE and related-party disclosure analysis | The report itself. **Known gap: do not search** (owner) | Reader A, Reader C, Footnote | not searched (per owner) |
 | 18 | Batson Third Interim Report, App. C (officers) | The report itself. **Known gap: do not search** (owner) | Reader A, Reader B | not searched (per owner) |
 
@@ -38,10 +38,10 @@ The coordinator merged the agents' own gap files (`work/facts/*-gaps.md`, which 
 
 | # | Claim we wanted to make | Kind of document that would support it | Raised by | Status |
 |---|---|---|---|---|
-| 19 | Exact merger terms in the Nov 9, 2001 Dynegy 8-K exhibits (the library copy is the cover filing only) | Exhibits 99.1–99.13 to that 8-K (sec.gov) | Reader A | open |
-| 20 | How many documents Andersen destroyed | Trial record or DOJ document | Reader C | open |
-| 21 | The PCAOB's fifth founding board member | SEC or PCAOB release, 2002–03 | Reader C | open |
-| 22 | Whether Watkins, Berardino, or McMahon faced legal action (McMahon: SEC charged 2007, outcome unknown) | SEC litigation release 20159 and later | Reader B | open |
+| 19 | Exact merger terms in the Nov 9, 2001 Dynegy 8-K exhibits (the library copy is the cover filing only) | Exhibits 99.1–99.13 to that 8-K (sec.gov) | Reader A | not searched (10-candidate limit reached) |
+| 20 | How many documents Andersen destroyed | Trial record or DOJ document | Reader C | not searched (10-candidate limit reached) |
+| 21 | The PCAOB's fifth founding board member | SEC or PCAOB release, 2002–03 | Reader C | not searched (10-candidate limit reached) |
+| 22 | Whether Watkins, Berardino, or McMahon faced legal action (McMahon: SEC charged 2007, outcome unknown) | SEC litigation release 20159 and later | Reader B | not searched (10-candidate limit reached) |
 | 23 | The Fortune 500 2001 list itself. Probably not needed: Batson and the JCT report already support the ranking, and the magazine is copyrighted | Not recommended | Reader A | not needed |
 
 ## Reader tips
@@ -54,8 +54,8 @@ The coordinator merged the agents' own gap files (`work/facts/*-gaps.md`, which 
 
 | # | Claim we wanted to make | Kind of document that would support it | Importance | Raised by | Status |
 |---|---|---|---|---|---|
-| 24 | Name Andersen's CEO as the speaker quoted from the Dec 12, 2001 hearing (Powers says only "Andersen's CEO") | Transcript of the Dec 12, 2001 House Financial Services hearing (govinfo.gov) | useful | Fact-Checker | open |
+| 24 | Name Andersen's CEO as the speaker quoted from the Dec 12, 2001 hearing (Powers says only "Andersen's CEO") | Transcript of the Dec 12, 2001 House Financial Services hearing (govinfo.gov) | useful | Fact-Checker | located, not downloaded (10-candidate limit reached): official govinfo copy, CHRG-107hhrg76958, https://www.govinfo.gov/content/pkg/CHRG-107hhrg76958/pdf/CHRG-107hhrg76958.pdf. Not in manifest. |
 | 25 | Buffett reader tip: that he read Enron's footnote, didn't understand it, and discarded the 10-K. Ruled **excluded**: 7 library documents mention Buffett, none on this subject | A first-hand record: Buffett's own sworn testimony or a Berkshire shareholder letter | minor | Fact-Checker | excluded from site; open |
-| 26 | Why the Kopper complaint gives Dec 3, 2001 for the bankruptcy when other sources say Dec 2 | Bankruptcy docket / petition (likely PACER) | minor | Fact-Checker | open |
-| 27 | Board minutes approving LJM2 (Oct 11 vs. Oct 12, 1999) | Enron board minutes (hearing exhibit) | minor | Fact-Checker | open |
-| 28 | Ratio of Enron's 1999 stock split (explains 6.8M vs. 3.4M Rhythms shares) | Enron 10-K for 1999 or an 8-K (sec.gov) | minor | Fact-Checker | open |
+| 26 | Why the Kopper complaint gives Dec 3, 2001 for the bankruptcy when other sources say Dec 2 | Bankruptcy docket / petition (likely PACER) | minor | Fact-Checker | not searched (10-candidate limit reached) |
+| 27 | Board minutes approving LJM2 (Oct 11 vs. Oct 12, 1999) | Enron board minutes (hearing exhibit) | minor | Fact-Checker | not searched (10-candidate limit reached) |
+| 28 | Ratio of Enron's 1999 stock split (explains 6.8M vs. 3.4M Rhythms shares) | Enron 10-K for 1999 or an 8-K (sec.gov) | minor | Fact-Checker | not searched (10-candidate limit reached) |

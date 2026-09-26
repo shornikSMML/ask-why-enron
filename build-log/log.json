@@ -1,0 +1,403 @@
+{
+  "project": "Ask Why: The Rise and Fall of Enron",
+  "generated": "2026-09-26T10:34:14Z",
+  "generated_note": "Time of the newest coordinator note; the log is rebuilt from the notes by work/tools/build_log.py.",
+  "coordinator": {
+    "name": "Coordinator",
+    "role": "Plans the work, writes each agent's brief, starts the agents, passes files between them, reviews what they hand back (accepting it or sending it back), and reports to the project owner. Agents never talk to each other directly; everything goes through the coordinator.",
+    "plan": [
+      {
+        "time": "2026-09-26T10:30:58Z",
+        "type": "decision",
+        "title": "Original plan",
+        "detail": "Coordinator plus 11 agents: Scribe; Readers A (company & accounting), B (people & law), C (Andersen, watchdogs & reform); Footnote Annotator; Story Writer; Reference Writer; Fact-Checker; Source Scout; Image Researcher & Diagrammer; Site Builder. Wave 1: Readers, Footnote Annotator, Images, Site skeleton in parallel, then Fact-Checker reviews fact cards. Wave 2: Writers, Scout, Images, Site in parallel. Wave 3: full fact-check with send-backs. Wave 4: assembly and testing. Only files flow between agents, always through the coordinator. Estimate 4-6 hours.",
+        "plan_file": "/root/.claude/plans/this-is-a-single-humming-catmull.md"
+      }
+    ],
+    "decisions": [
+      {
+        "time": "2026-09-26T10:30:58Z",
+        "type": "decision",
+        "title": "Original plan",
+        "detail": "Coordinator plus 11 agents: Scribe; Readers A (company & accounting), B (people & law), C (Andersen, watchdogs & reform); Footnote Annotator; Story Writer; Reference Writer; Fact-Checker; Source Scout; Image Researcher & Diagrammer; Site Builder. Wave 1: Readers, Footnote Annotator, Images, Site skeleton in parallel, then Fact-Checker reviews fact cards. Wave 2: Writers, Scout, Images, Site in parallel. Wave 3: full fact-check with send-backs. Wave 4: assembly and testing. Only files flow between agents, always through the coordinator. Estimate 4-6 hours.",
+        "plan_file": "/root/.claude/plans/this-is-a-single-humming-catmull.md"
+      },
+      {
+        "time": "2026-09-26T10:30:58Z",
+        "type": "decision",
+        "title": "Plan change requested by the project owner before approval",
+        "detail": "The site must work equally well on a computer (including projected in a classroom) and on a phone, not phone-first. Added: margin annotations on wide screens, a presentation (large text) mode, keyboard navigation, print-friendly chapters."
+      },
+      {
+        "time": "2026-09-26T10:30:58Z",
+        "type": "decision",
+        "title": "Owner approved the plan",
+        "detail": "Approval received; starting Step 0."
+      },
+      {
+        "time": "2026-09-26T10:30:58Z",
+        "type": "decision",
+        "title": "Step 0: fingerprint check",
+        "detail": "Computed SHA-256 for every file in download_log.csv: 74 of 74 files match. Two manifest rows have no file, as expected: batson-2nd-interim and batson-3rd-interim."
+      },
+      {
+        "time": "2026-09-26T10:30:58Z",
+        "type": "decision",
+        "title": "Step 0: text extraction",
+        "detail": "Installed poppler-utils (pdftotext) and Tesseract OCR from the Ubuntu package archive. Extracted page-marked text for every PDF and HTML source into work/text/ (sources/ untouched). Ten PDFs have no text layer (all Batson reports and appendices, and the Joint Committee on Taxation report); started OCR on the ones the plan needs: batson-final, batson-final-app-d, -app-a, -app-b parts 1-2, batson-1st-interim, rpt-jct-vol1. OCR text can contain recognition errors, so every quote from an OCR text must be checked against the page image."
+      },
+      {
+        "time": "2026-09-26T10:30:59Z",
+        "type": "decision",
+        "title": "Step 0: finding about andersen-scotus",
+        "detail": "The library file for Arthur Andersen LLP v. United States (Cornell LII page) contains only the Syllabus, not the full opinion. The Syllabus is prepared by the Reporter of Decisions and is not part of the opinion. It is enough for the basic facts (indictment, jury verdict, Fifth Circuit affirmed, Supreme Court reversed) but citations must say Syllabus. Logged in gaps.md."
+      },
+      {
+        "time": "2026-09-26T10:34:13Z",
+        "type": "decision",
+        "title": "OCR speed fix",
+        "detail": "First OCR run was extremely slow (about 2.5 minutes per page) because each OCR process tried to use every processor core at once. Limited each to one core; now about 2 pages per second across 4 cores."
+      }
+    ]
+  },
+  "before_the_agents": {
+    "summary": "Before any AI agent ran, the project owner (a person, not an AI) built and checked the library of source documents by hand. The owner listed 76 primary sources (74 of them downloaded as files): the Enron board's own investigation (the Powers Report), the bankruptcy examiner's reports (by Neal Batson), Enron's filings with the SEC, SEC enforcement complaints, congressional hearings and reports, the Sarbanes-Oxley Act and its legislative history, and court decisions. Each one is listed in a master list (manifest.csv) with its title, date, publisher and web address. Most are U.S. government works in the public domain. The agents were allowed to rely only on this library. The lesson for anyone using AI: an agent's work can only be as trustworthy as its sources.",
+    "fingerprint_explained": "A SHA-256 fingerprint is a short code (64 letters and digits) calculated from every byte of a file. Change even one comma in the file and the fingerprint comes out completely different. Two files with the same fingerprint are, for all practical purposes, identical. So by recording each file's fingerprint when it was downloaded, and checking it again later, you can prove that the file an agent read is exactly the file that came from the official source, with nothing added, removed or altered.",
+    "fingerprint_check": "When each document was downloaded, its fingerprint was recorded in download_log.csv. Before the agents started (Step 0), the coordinator recomputed the fingerprint of every file: all 74 of 74 matched. The only two documents with no file were the ones already known to be missing (the Batson Second and Third Interim Reports, which are not freely available online). Every agent is also told to re-check the fingerprint of each file it uses and to stop and report any mismatch.",
+    "lessons": [
+      {
+        "title": "An annotated copy almost replaced the real one",
+        "text": "A copy of the Batson Final Report found on an advocacy website nearly got used in place of the clean court copy. The report's text was genuine, but the website had added 56 highlights and 63 comments of its own. An AI agent reading that copy could easily have mistaken an advocate's comment for the examiner's official finding. The library uses the clean court scans instead."
+      },
+      {
+        "title": "Three different documents were each called \"Appendix E\"",
+        "text": "The bankruptcy examiner wrote several reports, and three of them each have an \"Appendix E\" on a completely different subject: in the Second Interim Report it covers prepays (loans disguised as trades), in the Third Interim Report it covers JPMorgan Chase, and in the Final Report it covers the Royal Bank of Scotland. A label alone is not enough; you must always name the report as well as the letter."
+      },
+      {
+        "title": "Fingerprints proved the files were the originals",
+        "text": "Every downloaded file's SHA-256 fingerprint was recorded and later re-checked. All 74 files matched, confirming that the documents the agents read were exactly the ones that were downloaded from the original sources."
+      }
+    ],
+    "sources": [
+      "sources/README.md",
+      "CLAUDE.md",
+      "sources/manifest.csv",
+      "sources/download_log.csv"
+    ]
+  },
+  "common_rules": {
+    "file": "work/briefs/00-common-rules.md",
+    "text": "# Common rules for every agent (read this first)\n\nYou are one agent on a team building \"Ask Why: The Rise and Fall of Enron\", a static website for undergraduates from any major. A **coordinator** assigns the work. You never talk to other agents. You get work through your brief, and you hand work back as files plus a short final report to the coordinator.\n\nRepository root: `/home/user/enron-dryrun`. Read `CLAUDE.md` and `sources/README.md` (especially \"Rules for the agents\") before you start. They bind you.\n\n## Sources\n- Use only documents listed in `sources/manifest.csv`, and refer to them by their **manifest id** (the first column, e.g. `powers-report-sec`).\n- **Never edit anything in `sources/`.**\n- **Fingerprints:** before relying on a file, compute its SHA-256 (`sha256sum <file>`) and compare it with the `sha256` column of `sources/download_log.csv`. If they don't match, stop and report it to the coordinator. The coordinator checked all 74 files at Step 0 and they matched. Re-check the files you use anyway, and list them in your read log.\n- **Searchable text copies** are in `work/text/<manifest id>.txt`. PDFs are split with `=== PAGE n ===` markers, where **n is the PDF page number** (the page a PDF viewer shows, and the number used in `#page=n` links). The page number printed on the document may be different. Record both when you can.\n- `.txt` sources (the SEC filings, `powers-report-sec`) are read directly from `sources/`.\n- **Scanned documents:** the Batson reports and the Joint Committee on Taxation report (`rpt-jct-vol1`) are scans. Their text is being produced by OCR (automatic text recognition) in the background. Check `work/ocr.log` to see which ones are finished. OCR makes mistakes, so **any quote you take from an OCR text must be checked against the page image.** Open the PDF with the Read tool using the `pages` parameter (for example `pages: \"34\"`). If an OCR text isn't ready yet, read the PDF pages directly with the Read tool, a few pages at a time.\n- **Read efficiently.** Search the text copies (grep) to find sections, then read only what you need. Record every page range you read.\n- **No web** unless your brief explicitly says so. **Never** use a copy of a document found online in place of the library copy.\n- **Known gaps:** the Batson Second and Third Interim Reports are not in the library. Don't look for them. `andersen-scotus` contains only the Syllabus of the opinion; cite it as \"Syllabus.\"\n- **If you need a source the library doesn't have, don't search for it.** Write the gap to your own gaps file (named in your brief) with four things: the claim you wanted to make, what kind of document would support it, how important it is (critical, useful, or minor), and your agent name. Then leave the claim out and keep working.\n\n## Accuracy rules (highest priority)\n- Every fact about specific events, dates, dollar amounts, or people must come from the library. General explanations of concepts (what mark-to-market accounting is) may use general knowledge.\n- **Use the right verb for the kind of source:**\n\n  | Kind of source | Verb |\n  |---|---|\n  | SEC complaint or indictment | *alleged* / *charged* |\n  | Guilty plea, jury verdict, or court judgment | *pleaded guilty* / *was convicted* / *the court held* |\n  | Hearing testimony | *testified* / *told the committee under oath* |\n  | Powers Report | *the board's special committee found* |\n  | Batson | *the bankruptcy examiner concluded* |\n  | Congressional staff report | *the Senate subcommittee staff found* |\n  | Company filing | *Enron reported / disclosed / stated* |\n\n- **Check how each case ended before calling anyone guilty.** Andersen's conviction was reversed (2005). Lay was convicted in 2006, died before his appeal, and his conviction was vacated. Skilling's convictions were narrowed by the Supreme Court in 2010. Many people named in hearings were never charged. You may state these outcomes only from library documents. If no library document covers an outcome, say so and log a gap.\n- **Quotations:** verbatim only, short (a sentence or less where possible), from a cited library document. Never invent or paraphrase inside quotation marks. Don't quote copyrighted books, articles, or films.\n- When sources disagree or are uncertain, say so explicitly.\n\n## Fact cards (format used by the Readers and the Footnote Annotator)\nA JSON array. One object per fact:\n```json\n{\n  \"id\": \"A-001\",\n  \"topic\": \"short topic label, e.g. 'Chewco' or 'Fastow: outcome'\",\n  \"claim\": \"The fact in one or two plain sentences.\",\n  \"quote\": \"Short verbatim supporting text from the source (<= 50 words).\",\n  \"source_id\": \"powers-report-sec\",\n  \"file\": \"sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt\",\n  \"locator\": {\"pdf_page\": null, \"printed_page\": \"p. 4\", \"section\": \"Executive Summary\", \"lines\": \"1200-1210\"},\n  \"source_type\": \"board committee finding | SEC allegation | indictment allegation | sworn testimony | court holding | court's description of procedural history | company filing | statute | GAO report | congressional staff report | government press release | examiner conclusion\",\n  \"verb\": \"found | alleged | testified | held | reported | stated | pleaded guilty | was convicted\",\n  \"people\": [\"Andrew Fastow\"],\n  \"event_date\": \"YYYY-MM-DD or YYYY-MM or YYYY or null\",\n  \"from_ocr\": false,\n  \"ocr_checked_against_image\": false,\n  \"notes\": \"Uncertainties, disagreements between sources, anything the writer must know.\"\n}\n```\n\n## Site markup conventions (used by writers and the Site Builder)\n- Citation: `<a class=\"cite\" data-src=\"MANIFEST_ID\" data-page=\"PDF_PAGE_OR_EMPTY\" data-loc=\"human-readable locator, e.g. 'p. 4, Executive Summary'\" data-card=\"A-001\">source</a>`. The site turns these into numbered notes: in the margin on wide screens, tap-to-open on phones. Each note links to the file in `sources/`, at `#page=N` for PDFs.\n- Glossary term, first use: `<span class=\"term\" data-term=\"mark-to-market\">mark-to-market accounting</span>`. The `data-term` value is a glossary id.\n- Phase 2 lens tags (writers add them now): `data-lens=\"money auditors board knew\"` on any paragraph relevant to those lenses. The lenses are: Follow the Money (`money`); The Auditors (`auditors`); The Board (`board`); Who Knew What, When (`knew`).\n- The closing question: `<aside class=\"ask-why\"><h2>Ask Why</h2><p>...</p></aside>`.\n- Figure: `<figure data-image=\"IMAGE_ID\"></figure>`. The Site Builder fills in the image and credit from `images/credits.js`.\n\n## Your final report to the coordinator\nWhen you finish, reply with:\n1. the files you produced;\n2. every document you read, with page or line ranges, and whether its fingerprint matched;\n3. anything uncertain, any disagreements between sources, and the gaps you logged;\n4. any websites you used (only if your brief allowed the web).\n\nKeep it concise.\n"
+  },
+  "agents": [
+    {
+      "id": "reader-a",
+      "name": "Reader A: The Company & the Accounting",
+      "role": "Pulls fact cards on the business, mark-to-market accounting, the SPEs, and the collapse",
+      "brief_file": "work/briefs/01-reader-a.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Reader A: The Company & the Accounting\n\n**Role:** You read source documents and produce fact cards (see `00-common-rules.md`) that the Story Writer and Reference Writer will use for Chapters 1, 2, 3 and 5, and for the Timeline and Glossary. You write no prose for the site.\n\n**Chapters you supply:**\n1. Origins (1985 merger that created Enron; early business)\n2. The business model and mark-to-market accounting (energy trading, \"asset light,\" how Enron booked future profits today)\n3. The special purpose entities (Chewco and JEDI; LJM1 and the Rhythms hedge; LJM2; the Raptors; who ran them; how much Fastow and others earned; how they inflated earnings or hid debt)\n5. The collapse (Oct 16, 2001 third-quarter loss and equity reduction; Nov 8, 2001 restatement of 1997–2000 amounts by year; Dynegy merger agreement and its end; Dec 2, 2001 bankruptcy filing)\n\n**Documents (manifest ids) and roughly which sections:**\n- `powers-report-sec`: Executive Summary; Chewco; LJM1/Rhythms; LJM2; Raptors; the sections on the board's oversight and on disclosure (except the disclosure of Note 16, which the Footnote Annotator covers; don't duplicate it). Cite this official SEC copy. Find a page number for key facts in `powers-report` (the PDF; text is in `work/text/powers-report.txt`) so readers can open the page.\n- `enron-10k-2000`: Item 1 (business description), the note on significant accounting policies (look for mark-to-market / \"price risk management\"), revenue and net income figures in the selected financial data. Skip Note 16 (the Footnote Annotator has it).\n- `enron-10q-q3-2001`: the Q3 2001 loss and charges; the equity reduction.\n- `enron-8k-nov-2001` and `enron-8k-nov-2001-ex99-1`: the restatement amounts by year.\n- `enron-8k-dynegy-merger`: the merger terms.\n- `batson-1st-interim`: its summary or introduction only (what the examiner was asked to do; any headline findings).\n- `batson-final`: introduction and summary of conclusions only (for example the \"six accounting techniques\"); plus `batson-final-app-a` for definitions you need.\n- `rpt-jct-vol1`: company background and history (1985 origins, growth, headcount if given). Use the table of contents to find it.\n- `rpt-psi-fishtail`: introduction or executive summary only, for 1–3 cards on the banks' role.\n- Reader tip to test: \"At its peak, Enron was America's seventh-largest company.\" `sec-kopper-complaint` says \"reportedly the seventh largest corporation in the United States.\" Look for any other library text supporting a size ranking (for example \"seventh largest\" or \"Fortune 500\" in the texts you read) and make cards for what you find, including what \"largest\" was measured by if a source says so. Reader tip to test: \"Warren Buffett read Enron's footnote, didn't understand it, and threw the 10-K away.\" Run `grep -il buffett work/text/*.txt sources/*/*.txt` once and report the result. Don't look anywhere else.\n\n**Target:** about 60–90 cards. Include the key dollar amounts and dates.\n\n**Outputs:**\n- `work/facts/reader-a.json` (the cards, ids A-001 ...)\n- `work/facts/reader-a-readlog.md` (documents, page or line ranges, fingerprint results)\n- `work/facts/reader-a-gaps.md` (gaps, in the format described in the common rules)\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 1,
+      "runs": [
+        {
+          "started": "2026-09-26T10:34:13Z",
+          "finished": null,
+          "inputs": [],
+          "outputs": [],
+          "decision": "pending",
+          "reason": ""
+        }
+      ],
+      "handoffs": [
+        {
+          "time": "2026-09-26T10:34:14Z",
+          "from": "Coordinator",
+          "to": "Wave 1 agents",
+          "what": "Briefs work/briefs/01-07 plus common rules 00; text copies in work/text/"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "id": "reader-b",
+      "name": "Reader B: The People & the Law",
+      "role": "Fact cards on each person: role, allegations, and how their case ended",
+      "brief_file": "work/briefs/02-reader-b.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Reader B: The People & the Law\n\n**Role:** You produce fact cards (see `00-common-rules.md`) about the **people**: each person's role at Enron or elsewhere, and **precisely what happened to them legally, as far as the library documents it**. These feed the Cast of Characters, Chapter 4 (warning signs and the whistleblower), Chapter 7 (aftermath: trials and outcomes), and the Timeline. You write no prose for the site.\n\n**People to cover (at least):** Kenneth Lay, Jeffrey Skilling, Andrew Fastow, Michael Kopper, Richard Causey, Ben Glisan Jr., Sherron Watkins, David Duncan (Andersen), Joseph Berardino (Andersen CEO, testimony), William Powers Jr. (Powers Committee), Neal Batson (examiner), key outside directors named in the PSI report (e.g. Robert Jaedicke, audit committee chair) and whether they were charged. Also the Merrill Lynch executives, only as the SEC complaint names them. Add others who appear prominently in the documents.\n\n**For each person, make cards for:** title and role with dates; what the SEC alleged; what the DOJ charged; any plea, verdict, or sentence **that a library document states**; appeals; and, where true, \"not charged,\" which you may only state if a document says it. Otherwise say the library doesn't show charges.\n\n**Documents (manifest ids) and roughly which sections:**\n- SEC complaints (the summary and the \"defendants\" paragraphs, plus a few key allegation paragraphs): `sec-fastow-complaint`, `sec-kopper-complaint`, `sec-skilling-causey-complaint`, `sec-lay-complaint`, `sec-glisan-complaint`, `sec-merrill-complaint`, `sec-duncan-complaint`\n- `sec-jpm-citi-press`; `sec-enron-spotlight` (the index of actions; outcomes it lists, e.g. pleas, judgments)\n- `doj-skilling-indictment` (the introduction and a summary of the counts), `doj-skilling-charged-press`, `doj-lay-charged-press`\n- `ca5-skilling-2009`: background and procedural history (the 2006 trial, which counts Skilling was convicted on, the sentence, anything about Lay's death and vacatur, Fastow's plea if mentioned)\n- `skilling-scotus-2010`: the Syllabus and holding (honest-services fraud)\n- `batson-final-app-d`: the conclusions on Lay, Skilling, and the outside directors (use the table of contents; OCR text in `work/text/batson-final-app-d.txt` when ready)\n- `rpt-psi-board`: findings. `hrg-psi-board`: directors' testimony, selectively.\n- `hrg-commerce-skilling-watkins`: Watkins's testimony (her August 2001 letter to Lay, what she said to him) and Skilling's testimony. `hrg-commerce-lay-powers`: Lay invoking his Fifth Amendment right; Powers's testimony.\n\n**Outputs:** `work/facts/reader-b.json` (ids B-001 ...), `work/facts/reader-b-readlog.md`, `work/facts/reader-b-gaps.md`. Also write `work/facts/people-outcomes.md`: a one-row-per-person table (Person | Role | SEC | Criminal | Final outcome as documented | Card ids | What's missing). The Fact-Checker and the Reference Writer will use it.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 1,
+      "runs": [
+        {
+          "started": "2026-09-26T10:34:13Z",
+          "finished": null,
+          "inputs": [],
+          "outputs": [],
+          "decision": "pending",
+          "reason": ""
+        }
+      ],
+      "handoffs": [
+        {
+          "time": "2026-09-26T10:34:14Z",
+          "from": "Coordinator",
+          "to": "Wave 1 agents",
+          "what": "Briefs work/briefs/01-07 plus common rules 00; text copies in work/text/"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "id": "reader-c",
+      "name": "Reader C: Andersen, the Watchdogs & Reform",
+      "role": "Fact cards on the auditor, document destruction, Big Five to Big Four, pensions, SOX and the PCAOB basics",
+      "brief_file": "work/briefs/03-reader-c.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Reader C: Andersen, the Watchdogs & Reform\n\n**Role:** You produce fact cards (see `00-common-rules.md`) for Chapter 6 (Arthur Andersen), part of Chapter 4 (warning signs the watchdogs missed), and Chapter 7 (aftermath: employees' pensions, and SOX and the PCAOB in brief), plus the Timeline and Glossary. You write no prose for the site.\n\n**Documents (manifest ids) and roughly which sections:**\n- `hrg-hec-andersen-shredding`: the document destruction (dates; the Oct 12, 2001 e-mail about the retention policy; Duncan; how many documents), from members' opening statements and witness testimony.\n- `hrg-hec-auditing`: Andersen's fees from Enron (audit vs. consulting), testimony on auditor independence. Selectively.\n- `batson-final-app-b-part1` / `-part2`: the summary and conclusions on Andersen's role only (use the table of contents; OCR text when ready).\n- `andersen-scotus`: the Syllabus only (indictment, verdict, affirmance, reversal, date). The library copy contains only the Syllabus. Cite it as such.\n- `rpt-sga-watchdogs`: findings on the SEC, the analysts, and the credit-rating agencies (executive summary and conclusions).\n- `hrg-sga-analysts`: selectively (for example how many analysts rated Enron a \"buy\" shortly before the collapse, if stated).\n- `gao-03-864`, `gao-03-1158`: the Big Five to Big Four (Andersen's collapse; market concentration). Summary sections.\n- `hrg-help-pensions`, `gao-02-480t-pensions`: employees' 401(k) losses; the share of the plan held in Enron stock; the \"lockdown.\" Summary sections.\n- For Chapter 7 only (brief; Phase 2 will go deeper): `sox-crs-summary`; `sox-plaw-html`, sections 101 (PCAOB), 201 (services outside the scope of practice), 203 (audit partner rotation), 302 (CEO/CFO certification), 404 (internal controls), 802 (document destruction), 806 (whistleblower protection); `sec-press-2003-52` (PCAOB ready to operate); `sox-bush-remarks` (signing date and one short quote at most).\n\n**Target:** about 50–80 cards.\n\n**Outputs:** `work/facts/reader-c.json` (ids C-001 ...), `work/facts/reader-c-readlog.md`, `work/facts/reader-c-gaps.md`.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 1,
+      "runs": [
+        {
+          "started": "2026-09-26T10:34:13Z",
+          "finished": null,
+          "inputs": [],
+          "outputs": [],
+          "decision": "pending",
+          "reason": ""
+        }
+      ],
+      "handoffs": [
+        {
+          "time": "2026-09-26T10:34:14Z",
+          "from": "Coordinator",
+          "to": "Wave 1 agents",
+          "what": "Briefs work/briefs/01-07 plus common rules 00; text copies in work/text/"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "id": "footnote",
+      "name": "Footnote Annotator",
+      "role": "Annotates Note 16 of the 2000 Form 10-K phrase by phrase",
+      "brief_file": "work/briefs/04-footnote.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Footnote Annotator\n\n**Role:** Produce the content for \"The Footnote\" page. Show Note 16, \"Related Party Transactions,\" from Enron's 2000 Form 10-K **in full**, annotated phrase by phrase the way an annotated edition explains a difficult poem. Follow `00-common-rules.md`.\n\n**The text:** `sources/03-sec-filings/enron-10k-fy2000.txt`, lines 5863–5962 (Note 16). Also look at lines ~5130–5145, which refer to it. Copy the note's text **exactly** (verbatim, including the original line wording; you may join the lines within a paragraph).\n\n**For each annotated phrase** (aim for 20–35 annotations covering every paragraph), write three short plain-language parts for a reader with no accounting background:\n1. **What it said:** plain English.\n2. **What it left out:** what a reader couldn't learn from it (for example that the \"senior officer\" was the CFO, Andrew Fastow; how much he earned; that the \"Entities\" were the Raptors; that the hedges were backed mainly by Enron's own stock). Every point must be supported by a cited library source.\n3. **What the investigations found:** with citations (document, page or section, and the right verb).\n\n**Sources:**\n- `powers-report-sec`: the LJM1, LJM2, and Raptor sections, and especially the section on disclosure to investors (it discusses this very footnote). Add page numbers from `powers-report` (the PDF) where you can.\n- `sec-fastow-complaint` (allegations about LJM and the Raptors).\n- `batson-final`: its discussion of SPE and related-party disclosure (use the table of contents; OCR text in `work/text/batson-final.txt` when ready).\n- `rpt-psi-board`: what the board was told or approved about LJM.\n\n**Output:**\n- `work/drafts/footnote.json`: `{\"title\": ..., \"source\": {...}, \"paragraphs\": [{\"n\": 1, \"text\": \"verbatim paragraph\", \"annotations\": [{\"id\": \"fn-01\", \"phrase\": \"exact substring of the paragraph\", \"said\": \"...\", \"left_out\": \"...\", \"found\": \"...\", \"cites\": [{\"source_id\": \"...\", \"pdf_page\": n|null, \"loc\": \"...\", \"quote\": \"short verbatim\"}], \"glossary_terms\": [\"related-party-transaction\"]}]}]}`. Every `phrase` must be an exact substring of its paragraph.\n- `work/drafts/footnote-glossary-terms.md`: the terms the page needs defined.\n- `work/facts/footnote-readlog.md` and `work/facts/footnote-gaps.md`.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 1,
+      "runs": [
+        {
+          "started": "2026-09-26T10:34:13Z",
+          "finished": null,
+          "inputs": [],
+          "outputs": [],
+          "decision": "pending",
+          "reason": ""
+        }
+      ],
+      "handoffs": [
+        {
+          "time": "2026-09-26T10:34:14Z",
+          "from": "Coordinator",
+          "to": "Wave 1 agents",
+          "what": "Briefs work/briefs/01-07 plus common rules 00; text copies in work/text/"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "id": "images",
+      "name": "Image Researcher & Diagrammer",
+      "role": "Finds public-domain/CC images and draws original diagrams; keeps the credits file",
+      "brief_file": "work/briefs/05-images.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Image Researcher & Diagrammer (first pass)\n\n**Role:** Find and download images for the site, and draw original diagrams. Follow `00-common-rules.md` and the IMAGES section of `CLAUDE.md`. **You may use the web, but only for images.**\n\n**Allowed:** public domain or Creative Commons images from Wikimedia Commons, the Library of Congress, or U.S. government sites (for example the Congress, SEC, White House, or GPO sites). **Not allowed:** AP, Getty, or Reuters photos (check Commons file pages: some are mislabeled), screenshots from film or TV, or hot-linking. Use a photo of a real person only if the source clearly identifies who it is. Prefer images whose license is unambiguous.\n\n**Wanted, one or more per chapter:**\n1. Origins: Enron's Houston headquarters or the Houston skyline (Commons); the Enron logo, only if Commons marks it public domain (text logo, below the threshold of originality)\n2. Business model: something like a natural-gas pipeline or a trading floor (public domain or CC)\n3. SPEs: an **original diagram** (see below)\n4. Warning signs: an **original diagram** or a relevant government image (for example a Senate hearing room)\n5. Collapse: the stock price is best as an original chart, but only with data from the library, so skip it for now; instead a relevant public domain image (for example Enron's headquarters)\n6. Andersen: an Arthur Andersen office or building photo if CC or public domain, or the Supreme Court building\n7. Aftermath: President Bush signing Sarbanes-Oxley (White House photos are public domain), the U.S. Capitol, or the SEC building\n\n**Original diagrams:** draw clean SVGs by hand (simple shapes and labels, readable in the site's light and dark themes, readable at phone and projector sizes, and using `currentColor` or CSS variables where practical):\n- `images/diagram-spe-basic.svg`: how a special purpose entity moves money and assets off a company's balance sheet (generic concept; no specific numbers)\n- `images/diagram-mark-to-market.svg`: mark-to-market vs. waiting for the cash (a generic 10-year contract example; clearly marked \"illustration\")\n- `images/diagram-team.svg` will be made later by the Site Builder; skip it.\nDiagrams that show specific Enron facts (the Raptors) wait for Wave 2, when the fact cards exist.\n\n**Outputs:**\n- Downloaded files in `images/` (reasonable size: resize to at most ~1600px wide; keep the original filename meaningful)\n- `images/credits.json`: an array of `{\"id\", \"file\", \"title\", \"description\", \"source_url\", \"author\", \"license\", \"license_url\", \"is_original_diagram\", \"person_identified_by_source\": true|false|null, \"suggested_chapter\", \"retrieved\": \"YYYY-MM-DD\"}`\n- `images/credits.js`: the same data as `window.IMAGE_CREDITS = [...]` (for the site; keep the two in sync)\n- `work/facts/images-websites.md`: every website you visited and what you took from it\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 1,
+      "runs": [
+        {
+          "started": "2026-09-26T10:34:14Z",
+          "finished": null,
+          "inputs": [],
+          "outputs": [],
+          "decision": "pending",
+          "reason": ""
+        }
+      ],
+      "handoffs": [
+        {
+          "time": "2026-09-26T10:34:14Z",
+          "from": "Coordinator",
+          "to": "Wave 1 agents",
+          "what": "Briefs work/briefs/01-07 plus common rules 00; text copies in work/text/"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "id": "site",
+      "name": "Site Builder",
+      "role": "Builds the static site: design, pages, shared code",
+      "brief_file": "work/briefs/06-site.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Site Builder (first pass: design and skeleton)\n\n**Role:** Build the static website's structure, design, and shared code. Follow `00-common-rules.md` (especially \"Site markup conventions\") and the TECHNICAL section of `CLAUDE.md`. Content is not ready yet, so use clearly marked placeholder text (\"[Draft text coming]\"). **Do not write any factual content about Enron.**\n\n**Hard constraints**\n- Plain HTML, CSS, and JS only. No build step, no frameworks from CDNs, no outside services, fonts, or analytics. It must work by opening `index.html` directly from disk (file://) **and** from GitHub Pages. So: **no fetch() of local JSON.** Data comes in as `<script src=\"...js\">` files that set `window.X = ...`.\n- **Equal priority for computer and phone.** On a computer (and a classroom projector), a wide reading layout with **margin notes** beside the text, like an annotated edition. On a phone, the same notes open when tapped. Also:\n  - a **\"Presentation\" toggle** that enlarges text for projecting (remembered with localStorage, wrapped in try/catch);\n  - **keyboard navigation:** left and right arrows move between chapters; on the Footnote page, j/k or the arrows step through annotations;\n  - print styles for chapters (margin notes print as endnotes);\n  - light and dark themes (following the system setting, plus a manual toggle);\n  - accessible: semantic HTML, focus styles, alt text, good contrast, no horizontal scroll at 360px wide.\n- A tasteful, readable, \"annotated edition\" look: a serif body font from system fonts, generous line height, restrained colors. The title is \"Ask Why: The Rise and Fall of Enron.\"\n\n**Build**\n- `index.html` (home), `chapters/ch1.html` ... `chapters/ch7.html` (placeholder bodies, using the chapter titles in the plan below), `cast.html`, `timeline.html`, `glossary.html`, `footnote.html`, `how-built.html`, `sources.html`, `credits.html`.\n- `css/site.css`; `js/site.js`, which:\n  - numbers `a.cite` elements and builds the margin or tap notes from `data-src`, `data-page`, and `data-loc`, looking up `window.SOURCES` (title, file path) and linking to `../sources/<folder>/<file>` (+`#page=N` for PDFs);\n  - handles glossary pop-ups for `.term[data-term]`, using `window.GLOSSARY`;\n  - places `figure[data-image]` from `window.IMAGE_CREDITS`, showing the credit line (author, license, source link);\n  - builds the prev/next chapter navigation, the Presentation toggle, and the theme toggle;\n  - has a hook for Phase 2 lenses: elements with `data-lens` get no special styling yet, but put a stub function `applyLens(name)` in the code.\n- `js/sources-data.js`: generate it now **from `sources/manifest.csv` and `sources/download_log.csv`** with a small Python script, `work/tools/make_sources_js.py` (commit the script; the site itself has no build step). Include id, title, date, source_body, folder, filename, official URL, and sha256. `sources.html` lists them all, grouped by folder, with their fingerprints and a short plain-language explanation of what a fingerprint is.\n- `js/glossary-data.js`: a placeholder `window.GLOSSARY = {}` (the Reference Writer fills it later).\n- `js/footnote.js`: renders `window.FOOTNOTE` (format: see `work/briefs/04-footnote.md`, output section) into `footnote.html`. Make a tiny sample `js/footnote-data.js` with one fake paragraph clearly labeled SAMPLE so you can test it. On wide screens, the annotation panel sits beside the text; on phones, it's a bottom sheet. Each annotation shows \"What it said / What it left out / What investigators found,\" with citation links.\n- `how-built.html` + `js/how-built.js`: render `window.BUILD_LOG` (from `build-log/log.js`, which the Scribe produces; its format is in `work/briefs/07-scribe.md`). Sections: (1) \"Before the agents\" (placeholder heading; the coordinator will supply the text), (2) a team diagram (SVG generated from the agents list: the coordinator in the center, the agents around it), (3) a build timeline, (4) one expandable card per agent showing its role, brief, result, and decision, (5) websites used. Use a small sample `build-log/log.js` if the real one doesn't exist yet. **Don't overwrite it if it exists.**\n- `timeline.html` + `js/timeline.js`: render `window.TIMELINE` (array of `{date, title, text, cites:[...], tags:[...], epilogue:bool}`), with tag filters and year jumps. Use a small SAMPLE data file.\n- `cast.html` + `js/cast.js`: render `window.CAST` (array of `{id, name, role, summary, outcome_status, outcome_text, cites, image?}`), with outcome labels that are neutral in wording and color. Use SAMPLE data.\n\nChapter titles: 1 \"Origins\", 2 \"The Business Model and Mark-to-Market Accounting\", 3 \"The Special Purpose Entities\", 4 \"Warning Signs and the Whistleblower\", 5 \"The Collapse\", 6 \"Arthur Andersen\", 7 \"Aftermath and Reform\".\n\n**Test:** use Playwright with the pre-installed Chromium (`PLAYWRIGHT_BROWSERS_PATH=/opt/pw-browsers`; don't run `playwright install`; install the Python `playwright` package with pip if needed) to load the pages via file:// at 1440×900, 1920×1080 (projector), and 390×844 (phone). Check for console errors and horizontal overflow. Save screenshots to `work/screens/`.\n\n**Outputs:** the files above, plus `work/drafts/site-notes.md`, which explains to the writers exactly how to hand over content (the file names and `window.` variable names you expect).\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 1,
+      "runs": [
+        {
+          "started": "2026-09-26T10:34:14Z",
+          "finished": null,
+          "inputs": [],
+          "outputs": [],
+          "decision": "pending",
+          "reason": ""
+        }
+      ],
+      "handoffs": [
+        {
+          "time": "2026-09-26T10:34:14Z",
+          "from": "Coordinator",
+          "to": "Wave 1 agents",
+          "what": "Briefs work/briefs/01-07 plus common rules 00; text copies in work/text/"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "id": "scribe",
+      "name": "Scribe",
+      "role": "Keeps the build log (log.json and log.js) from the coordinator's notes",
+      "brief_file": "work/briefs/07-scribe.md",
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Scribe (first run)\n\n**Role:** Keep the build log. The coordinator appends timestamped notes to `build-log/inbox.jsonl` (one JSON object per line, with `type` one of decision | agent_start | agent_finish | handoff | review | web_source | correction). The exact briefs sent to agents are the files in `work/briefs/`. Your job is to turn these into the official log.\n\n**Do this:**\n1. Write `work/tools/build_log.py`, a deterministic script that reads `build-log/inbox.jsonl`, the brief files in `work/briefs/`, and `build-log/corrections.md`, and writes:\n   - `build-log/log.json` with this structure:\n     ```json\n     {\"project\": \"Ask Why: The Rise and Fall of Enron\",\n      \"generated\": \"ISO time\",\n      \"coordinator\": {\"name\": \"Coordinator\", \"role\": \"...\", \"plan\": [...decisions whose title starts with 'Original plan'...], \"decisions\": [...all decision records, in order...]},\n      \"before_the_agents\": {\"summary\": \"...\", \"fingerprint_check\": \"...\"},\n      \"agents\": [{\"id\", \"name\", \"role\", \"brief_file\", \"brief\" (full text of the brief file, plus common rules referenced by file name), \"runs\": [{\"started\", \"finished\", \"inputs\" (manifest ids and page ranges), \"outputs\" (files), \"decision\": \"accepted|sent back|pending\", \"reason\"}], \"handoffs\": [{\"time\", \"from\", \"to\", \"what\"}]}],\n      \"reviews\": [...], \"corrections\": [...parsed rows of corrections.md...], \"web_sources\": [{\"site\", \"url\", \"used_by\", \"purpose\"}],\n      \"timeline\": [...every record in time order, with a short label...]}\n     ```\n     Agent records come from `agent_start` and `agent_finish` notes (fields: `agent_id`, `name`, `role`, `brief_file`, `inputs`, `outputs`, `decision`, `reason`). Handoffs come from `handoff` notes (fields: `from`, `to`, `what`).\n   - `build-log/log.js`, which contains `window.BUILD_LOG = <the same JSON>;` so the website can load it from file://.\n   The script must be idempotent: re-running it regenerates both files from the inbox. Don't hand-edit `log.json`.\n2. Fill in `before_the_agents` from `sources/README.md` and `CLAUDE.md`: the owner assembled and verified the library before any agent ran; the three lessons (the annotated advocacy copy of the Batson Final Report nearly used in place of the clean court copy; three different documents each labeled Batson \"Appendix E\"; fingerprints confirmed the downloaded files matched the originals). Put this text in a constant in the script. Plain language.\n3. Run the script, and check the output is valid JSON and that `log.js` parses (`node -e` if node exists, otherwise Python).\n4. Also write `build-log/README.md` (replace the existing short one), explaining in two short paragraphs what each file is.\n\n**Outputs:** `work/tools/build_log.py`, `build-log/log.json`, `build-log/log.js`, `build-log/README.md`.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": 1,
+      "runs": [
+        {
+          "started": "2026-09-26T10:34:14Z",
+          "finished": null,
+          "inputs": [],
+          "outputs": [],
+          "decision": "pending",
+          "reason": ""
+        }
+      ],
+      "handoffs": [
+        {
+          "time": "2026-09-26T10:34:14Z",
+          "from": "Coordinator",
+          "to": "Wave 1 agents",
+          "what": "Briefs work/briefs/01-07 plus common rules 00; text copies in work/text/"
+        }
+      ],
+      "reviews": []
+    }
+  ],
+  "handoffs": [
+    {
+      "time": "2026-09-26T10:34:14Z",
+      "from": "Coordinator",
+      "to": "Wave 1 agents",
+      "what": "Briefs work/briefs/01-07 plus common rules 00; text copies in work/text/"
+    }
+  ],
+  "reviews": [],
+  "corrections": [],
+  "web_sources": [],
+  "briefs_not_yet_assigned": [
+    {
+      "file": "work/briefs/08-factcheck-cards.md",
+      "text": "# Brief: Fact-Checker, Round 1 (fact cards)\n\n**Role:** You are the team's independent fact-checker. Nothing reaches the site until you've checked it. In this round you check the **fact cards** before any writer uses them. Follow `00-common-rules.md` and the \"Rules for the agents\" in `sources/README.md`. You enforce them.\n\n**Inputs:** `work/facts/reader-a.json`, `reader-b.json`, `reader-c.json`, `work/facts/people-outcomes.md`, and `work/drafts/footnote.json` (the annotations are checked in the same way as cards).\n\n**What to check, against the source itself (open the file at the cited page or lines; never trust the card's quote):**\n1. **Every card that names a real person, and every footnote annotation:** check all of them.\n2. **Every card with a date or a dollar amount:** check all of them.\n3. **Other cards:** a random sample of at least 25%.\nFor each card:\n- Does the file's fingerprint match `download_log.csv`? (Check each file once.)\n- Is the quote verbatim at that locator? For OCR cards, check against the page image (Read the PDF with `pages`).\n- Does the claim say no more than the quote and its context support?\n- Is the verb right for the kind of source (alleged / found / testified / held / pleaded guilty / convicted)?\n- For outcomes: is anyone called guilty whose conviction was reversed or vacated, or who was never charged? Is anything asserted that no library document states?\n- Do sources disagree? Note it.\n\n**The reader tips (give a ruling on each, with reasons):**\n1. \"Warren Buffett read Enron's footnote, didn't understand it, and threw the 10-K away.\" Search `work/text/` and the `.txt` sources for \"Buffett\" yourself. If there's no library support, the ruling is \"exclude; log as gap.\" Say what kind of document would be needed.\n2. \"At its peak, Enron was America's seventh-largest company.\" Rule on whether and how it may be stated (exact wording, attribution, hedging), based on the cards and your own check of `sec-kopper-complaint` and any other library support.\n\n**Outputs:**\n- `work/facts/factcheck-round1.md`: a summary; a table of every card or annotation checked (id | verdict: OK / FIXED / REJECTED / NEEDS-SOURCE | note); the rulings on the reader tips.\n- Apply fixes directly in the card files. Add `\"checked\": \"OK\" | \"FIXED\" | \"REJECTED\"` and `\"checker_note\"` fields to each checked card. **Don't delete rejected cards**: mark them `REJECTED` so writers skip them.\n- **Append every correction** (anything you changed or rejected) as a row in `build-log/corrections.md`, using the table columns already there.\n- `work/facts/factcheck-gaps.md`: any gaps you find.\n"
+    },
+    {
+      "file": "work/briefs/09-story-writer.md",
+      "text": "# Brief: Story Writer\n\n**Role:** Write the seven chapters of \"The Story.\" Follow `00-common-rules.md` (markup conventions included) and the AUDIENCE AND TONE section of `CLAUDE.md`.\n\n**Audience and voice:** undergraduates from any major, no accounting background. Tell it as a story (scenes, people, stakes), but stay **neutral and factual**. No sensationalism, no adjectives that pass judgment (\"greedy,\" \"shocking\"), and no moralizing. Each chapter should take about 6–10 minutes to read: roughly 900–1,400 words. Short paragraphs.\n\n**Facts:** use **only** fact cards in `work/facts/*.json` whose `checked` is \"OK\" or \"FIXED\", or unchecked cards from a sample the checker passed. **Never use cards marked REJECTED.** Give each card's id in `data-card` on the citation. **Every sentence with a specific fact about a person, date, or amount carries a citation.** Use the card's verb. If you need a fact that has no card, don't look it up: add it to `work/drafts/story-requests.md` (the claim, and the kind of source that might have it) and write around it.\n\n**Concept explanations** (mark-to-market accounting, special purpose entities, hedging, restatement, auditor independence) may use general knowledge. Keep them simple, and use one worked illustration clearly labeled as an illustration.\n\n**Glossary terms:** wrap the first use of each accounting or legal term in `<span class=\"term\" data-term=\"ID\">`. List every term id you use, with a one-line plain definition, in `work/drafts/story-terms.md` (the Reference Writer builds the glossary from it).\n\n**Lenses (for Phase 2):** tag paragraphs with `data-lens` (money, auditors, board, knew) where they apply.\n\n**Images:** put one or more `<figure data-image=\"ID\"></figure>` placeholders in each chapter. Pick from `images/credits.json` (use its ids) or name a needed diagram in `work/drafts/story-requests.md`.\n\n**Chapters:**\n1. Origins\n2. The Business Model and Mark-to-Market Accounting\n3. The Special Purpose Entities\n4. Warning Signs and the Whistleblower\n5. The Collapse\n6. Arthur Andersen\n7. Aftermath and Reform\n\nChapter 7 covers the trials and how each case ended, employees' pensions, and SOX and the PCAOB **in brief**. (Phase 2 will add \"Why This Matters to You.\")\n\n**End each chapter** with `<aside class=\"ask-why\">`: one genuinely open question, the kind an instructor could use to start a class discussion, tied to the chapter. It's a question, not a verdict.\n\n**Reader tip rulings** are in `work/facts/factcheck-round1.md`. Follow them exactly.\n\n**Output:** `work/drafts/ch1.html` ... `ch7.html`. Each is an HTML fragment: `<h1>`, then an optional `<p class=\"dek\">` (a one-sentence summary), then the body. Also `work/drafts/story-requests.md` and `work/drafts/story-terms.md`.\n"
+    },
+    {
+      "file": "work/briefs/10-reference-writer.md",
+      "text": "# Brief: Reference Writer\n\n**Role:** Write the Cast of Characters, the Timeline (1985–2006), and the Glossary. Follow `00-common-rules.md` and `CLAUDE.md`. Same fact rules as the Story Writer: use only cards marked \"OK\" or \"FIXED\" in `work/facts/*.json` and `work/facts/people-outcomes.md`; never use REJECTED cards; and put what's missing in `work/drafts/reference-requests.md` instead of looking it up.\n\n**Cast of Characters:** `js/cast-data.js` → `window.CAST = [...]`, in the format in `work/drafts/site-notes.md` (from the Site Builder). For each person:\n- their role, with dates;\n- a 2–4 sentence neutral summary;\n- `outcome_status`, one of: \"convicted\", \"convicted — later narrowed on appeal\", \"conviction vacated (died before appeal)\", \"conviction reversed\", \"pleaded guilty\", \"SEC settlement\", \"charged — outcome not in library\", \"not charged (per source)\", \"no charges shown in library\", \"not accused of wrongdoing\";\n- `outcome_text`: exactly what happened, with the right verbs;\n- `cites`: an array of `{source_id, page, loc, card}`.\n\nPrecision matters most here. If the library doesn't document how a case ended, say that plainly, and log a gap in `work/drafts/reference-gaps.md`.\n\n**Timeline:** `js/timeline-data.js` → `window.TIMELINE = [...]`. Cover 1985–2006, 35–60 events, each with a date (as precise as the source allows), a title, 1–2 sentences, `cites`, and `tags` from: company, accounting, spe, people, markets, auditors, legal, government, reform. The 2010 *Skilling v. United States* decision appears as the last item, with `epilogue: true`.\n\n**Glossary:** `js/glossary-data.js` → `window.GLOSSARY = { \"term-id\": {\"term\", \"short\" (≤ 25 words, plain), \"long\" (2–4 plain sentences, one everyday example), \"see_also\": [...]} }`. Include every term id in `work/drafts/story-terms.md` and `work/drafts/footnote-glossary-terms.md`, plus: form 10-K, footnote, related-party transaction, special purpose entity, mark-to-market accounting, restatement, auditor, audit committee, Sarbanes-Oxley Act, PCAOB, SEC, indictment, plea agreement, vacated, honest-services fraud, obstruction of justice, Big Five / Big Four, 401(k). Definitions are general knowledge; give no Enron-specific facts without a card citation.\n\n**Outputs:** the three data files, plus `work/drafts/reference-requests.md` and `work/drafts/reference-gaps.md`.\n"
+    },
+    {
+      "file": "work/briefs/11-scout.md",
+      "text": "# Brief: Source Scout\n\n**Role:** Work through `build-log/gaps.md`, **critical gaps first**, and find candidate source documents. Follow `CLAUDE.md` MISSING SOURCES exactly. You may use the web, but only for this.\n\n**Rules:**\n- Look first on official sites: sec.gov, justice.gov, govinfo.gov, supremecourt.gov, uscourts.gov (including ca5.uscourts.gov and the district court sites), congress.gov, loc.gov. Never use an annotated, advocacy, or unofficial copy when an official one exists. If only an unofficial mirror exists, you may take it, but mark it `mirror` and say so.\n- If a document is only behind a paywall or login (for example PACER), don't look for another copy. Mark the gap row \"paywalled: <where>\" instead.\n- **At most 10 candidates in total.**\n- Download each to `sources/candidates/` (create it; this is the only place in `sources/` you may write), with a descriptive filename. Add a row to `sources/candidates/candidates.csv` with the same columns as `sources/manifest.csv` (`id,folder,filename,title,date,source_body,url,public_domain,status,notes`) plus `fills_gap,sha256,official_or_mirror,other_versions_exist`. Set status to `candidate-unapproved`.\n- Check each download is the real document, not an error page (look at its size and first page), and compute its SHA-256.\n- **Candidates are not part of the library.** Don't summarize their contents for anyone. Nobody may cite them until the owner approves.\n- Don't look for the Batson Second or Third Interim Reports. The owner has said they're not available free online (see `sources/README.md`).\n- In `build-log/gaps.md`, update each gap's Status column (e.g. \"candidate: <id>\" / \"not found on official sites\" / \"paywalled: PACER\"). Don't delete rows.\n\n**Output:** `sources/candidates/*`, `sources/candidates/candidates.csv`, the updated `build-log/gaps.md`, and `work/facts/scout-websites.md` (every site and URL you visited, and what you found).\n"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "2026-09-26T10:30:58Z",
+      "type": "decision",
+      "label": "Coordinator decision: Original plan"
+    },
+    {
+      "time": "2026-09-26T10:30:58Z",
+      "type": "decision",
+      "label": "Coordinator decision: Plan change requested by the project owner before approval"
+    },
+    {
+      "time": "2026-09-26T10:30:58Z",
+      "type": "decision",
+      "label": "Coordinator decision: Owner approved the plan"
+    },
+    {
+      "time": "2026-09-26T10:30:58Z",
+      "type": "decision",
+      "label": "Coordinator decision: Step 0: fingerprint check"
+    },
+    {
+      "time": "2026-09-26T10:30:58Z",
+      "type": "decision",
+      "label": "Coordinator decision: Step 0: text extraction"
+    },
+    {
+      "time": "2026-09-26T10:30:59Z",
+      "type": "decision",
+      "label": "Coordinator decision: Step 0: finding about andersen-scotus"
+    },
+    {
+      "time": "2026-09-26T10:34:13Z",
+      "type": "decision",
+      "label": "Coordinator decision: OCR speed fix"
+    },
+    {
+      "time": "2026-09-26T10:34:13Z",
+      "type": "agent_start",
+      "label": "Started: Reader A: The Company & the Accounting",
+      "agent_id": "reader-a"
+    },
+    {
+      "time": "2026-09-26T10:34:13Z",
+      "type": "agent_start",
+      "label": "Started: Reader B: The People & the Law",
+      "agent_id": "reader-b"
+    },
+    {
+      "time": "2026-09-26T10:34:13Z",
+      "type": "agent_start",
+      "label": "Started: Reader C: Andersen, the Watchdogs & Reform",
+      "agent_id": "reader-c"
+    },
+    {
+      "time": "2026-09-26T10:34:13Z",
+      "type": "agent_start",
+      "label": "Started: Footnote Annotator",
+      "agent_id": "footnote"
+    },
+    {
+      "time": "2026-09-26T10:34:14Z",
+      "type": "agent_start",
+      "label": "Started: Image Researcher & Diagrammer",
+      "agent_id": "images"
+    },
+    {
+      "time": "2026-09-26T10:34:14Z",
+      "type": "agent_start",
+      "label": "Started: Site Builder",
+      "agent_id": "site"
+    },
+    {
+      "time": "2026-09-26T10:34:14Z",
+      "type": "agent_start",
+      "label": "Started: Scribe",
+      "agent_id": "scribe"
+    },
+    {
+      "time": "2026-09-26T10:34:14Z",
+      "type": "handoff",
+      "label": "Handoff: Coordinator to Wave 1 agents"
+    }
+  ]
+}

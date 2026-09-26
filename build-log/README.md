@@ -1,3 +1,5 @@
 # build-log/
 
-The build log (log.json) goes here. It records every agent, its brief, its results, handoffs, and the coordinator's decisions, starting from the very first step.
+This folder is the project's record of how the site was built. The coordinator writes short, timestamped notes to `inbox.jsonl` as the work happens: its plan and decisions, each agent starting and finishing, files handed from one agent to another, reviews, corrections, and any websites used. `corrections.md` lists every fix the Fact-Checker makes, and `gaps.md` lists the sources the library is missing and the claims left out or marked unverified because of that.
+
+`log.json` is the official log, built from those notes, the agents' briefs (in `work/briefs/`) and `corrections.md` by the script `work/tools/build_log.py`. `log.js` holds the same information in a form the "How This Was Built" page can load straight from your computer, without a web server. Never edit `log.json` or `log.js` by hand: add a note with `work/tools/note.py`, then re-run `python3 work/tools/build_log.py`, which rebuilds both files the same way every time.

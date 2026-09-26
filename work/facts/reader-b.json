@@ -1631,7 +1631,7 @@
   {
     "id": "B-065",
     "topic": "Berardino: role and testimony",
-    "claim": "Joseph Berardino, CEO of Arthur Andersen LLP, testified under oath to the House Financial Services Committee on February 5, 2002; he referred to an earlier appearance before the committee. He announced changes, including an Independent Oversight Board chaired by Paul Volcker.",
+    "claim": "Joseph Berardino, CEO of Arthur Andersen LLP, testified under oath to the House Financial Services Committee's Subcommittee on Capital Markets, Insurance, and Government Sponsored Enterprises on February 5, 2002; he referred to an earlier appearance before the committee. He announced changes, including an Independent Oversight Board chaired by Paul Volcker.",
     "quote": "former Federal Reserve Board Chairman Paul Volcker has agreed to chair an Independent Oversight Board to work with us in the U.S.",
     "source_id": "hrg-hfs-enron-investors",
     "file": "sources/05-hearings-enron/hhrg-107-51-pt2-enron-collapse-investors-2002-02-04.pdf",
@@ -1651,7 +1651,7 @@
     "ocr_checked_against_image": false,
     "notes": "'[Witness sworn.]' appears on p. 119. The date is inferred from the transcript: the testimony follows the 'TUESDAY, FEBRUARY 5, 2002' heading (line 6912). Document not in my brief's list; used only because Berardino is in the brief's list of people. No library document shows any charge against Berardino; do not write 'never charged'. line numbers refer to work/text/hrg-hfs-enron-investors.txt",
     "checked": "FIXED",
-    "checker_note": "Removed '(the first was in mid-December 2001)': the library contains no transcript of Berardino's earlier appearance. The Feb 2002 transcript shows only that he said 'When I last appeared before this committee' and that members referred to a Dec 12, 2001 subcommittee hearing; it does not say Berardino testified on that date."
+    "checker_note": "Removed '(the first was in mid-December 2001)': the library contains no transcript of Berardino's earlier appearance. The Feb 2002 transcript shows only that he said 'When I last appeared before this committee' and that members referred to a Dec 12, 2001 subcommittee hearing; it does not say Berardino testified on that date. Round 3 (Fact-Checker B): claim said 'the House Financial Services Committee'; the Feb. 5, 2002 session was held by its Subcommittee on Capital Markets, Insurance, and Government Sponsored Enterprises (hrg-hfs-enron-investors PDF 115: 'SUBCOMMITTEE ON CAPITAL MARKETS, INSURANCE, AND GOVERNMENT SPONSORED ENTERPRISES, COMMITTEE ON FINANCIAL SERVICES'). Corrected."
   },
   {
     "id": "B-066",
@@ -1998,17 +1998,17 @@
   {
     "id": "B-079",
     "topic": "LeMaistre and Blake: Lay's credit line",
-    "claim": "Compensation Committee chairman Charles LeMaistre testified 'We never had any responsibility to monitor this' about Lay's credit line. Blake called the stock sales 'inappropriate' but avoided the word 'abuse'.",
-    "quote": "We never had any responsibility to monitor this.",
-    "source_id": "rpt-psi-board",
-    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "claim": "Asked by Senator Levin whether he felt he had any responsibility to monitor Lay's use of his company credit line, Compensation Committee chairman Charles LeMaistre testified under oath: 'We had never had any responsibility to monitor this.' Blake called the stock sales 'inappropriate' but avoided the word 'abuse'.",
+    "quote": "We had never had any responsibility to monitor this.",
+    "source_id": "hrg-psi-board",
+    "file": "sources/05-hearings-enron/shrg-107-511-role-of-board-2002-05-07.pdf",
     "locator": {
-      "pdf_page": 54,
-      "printed_page": "p. 50",
-      "section": "Factual Basis (Excessive Compensation)",
-      "lines": "3295-3297"
+      "pdf_page": 100,
+      "printed_page": "p. 90",
+      "section": "Testimony of Charles LeMaistre (questioning by Sen. Levin)",
+      "lines": "work/text/hrg-psi-board.txt 6041-6046"
     },
-    "source_type": "congressional staff report",
+    "source_type": "sworn testimony",
     "verb": "testified",
     "people": [
       "Charles LeMaistre",
@@ -2018,9 +2018,9 @@
     "event_date": "2002-05-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The report quotes hearing testimony. The transcript (hrg-psi-board, PDF p. 100, printed p. 90, lines 6041-6046) reads 'We had never had any responsibility to monitor this.' (the report drops 'had'). Prefer the transcript wording and citation. line numbers refer to work/text/rpt-psi-board.txt",
+    "notes": "Transcript wording (hrg-psi-board PDF 100, printed p. 90). The PSI report (rpt-psi-board p. 50, PDF 54, lines 3295-3297) quotes it as 'We never had any responsibility to monitor this.' (drops 'had'); use the transcript. Witnesses sworn (hrg-psi-board lines 1259-1269). Blake's remarks are on the same page.",
     "checked": "FIXED",
-    "checker_note": "The Senate staff report's quotation differs slightly from the hearing transcript. Transcript (hrg-psi-board, PDF p. 100, printed p. 90, line 6041): 'We had never had any responsibility to monitor this.' If quoting LeMaistre, quote the transcript and cite hrg-psi-board PDF 100. Blake's words are also in the transcript at the same place."
+    "checker_note": "Round 3 (Fact-Checker A): source changed from rpt-psi-board to the hearing transcript that ch7 cites; quote verified verbatim at hrg-psi-board PDF 100 (text layer); fingerprint OK."
   },
   {
     "id": "B-080",

@@ -32,7 +32,11 @@
       return "<li>" + esc(typeof x === "string" ? x : JSON.stringify(x)) + "</li>";
     }).join("") + "</ul>";
   }
-  function shortName(name) { return String(name || "").split(":")[0].trim(); }
+  function shortName(name) {
+    var n = String(name || "").split(":")[0].trim();
+    if (n.split("(").length > n.split(")").length) n += ")";
+    return n;
+  }
 
   /* ---------- 1. Before the agents ---------- */
   var before = L.before_the_agents || {};
@@ -55,6 +59,9 @@
     var m = /^#\s*Brief:\s*([^\n]+)/.exec(b.text || "");
     return { name: m ? m[1].replace(/\s*\(.*\)\s*$/, "") : b.file, planned: true };
   });
+  // A planned brief whose agent already appears (e.g. a second pass) is not drawn twice.
+  var started = agents.map(function (a) { return shortName(a.name).toLowerCase(); });
+  planned = planned.filter(function (p) { return started.indexOf(shortName(p.name).toLowerCase()) === -1; });
   var nodes = agents.map(function (a) { return { name: a.name, planned: false }; }).concat(planned);
 
   function wrap(text, max) {
@@ -83,13 +90,13 @@
     var width = host.clientWidth || 700, svg;
     var title = "The coordinator in the center, connected to each agent. Agents never talk to each other; all work passes through the coordinator.";
     if (width >= 560) {
-      var W = 820, H = 620, cx = W / 2, cy = H / 2, rx = 310, ry = 230, n = nodes.length;
+      var W = 920, H = 700, cx = W / 2, cy = H / 2, rx = 370, ry = 290, n = nodes.length;
       var edges = "", boxes = "";
       nodes.forEach(function (nd, i) {
         var ang = -Math.PI / 2 + (2 * Math.PI * i) / Math.max(n, 1);
         var x = cx + rx * Math.cos(ang), y = cy + ry * Math.sin(ang);
         edges += '<line class="edge" x1="' + cx + '" y1="' + cy + '" x2="' + x.toFixed(1) + '" y2="' + y.toFixed(1) + '"' + (nd.planned ? ' stroke-dasharray="6 6"' : "") + "/>";
-        boxes += box(x, y, 160, 66, nd.planned ? "planned" : "agent", wrap(shortName(nd.name), 16), 16, nd.planned);
+        boxes += box(x, y, 136, 58, nd.planned ? "planned" : "agent", wrap(shortName(nd.name), 15), 14, nd.planned);
       });
       svg = '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-labelledby="team-title"><title id="team-title">' + esc(title) + "</title>" +
         edges + boxes + box(cx, cy, 190, 70, "coord", ["Coordinator"], 21) + "</svg>";

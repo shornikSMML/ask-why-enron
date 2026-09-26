@@ -523,3 +523,8 @@ kbd {
 .corr-item dd { margin: .1rem 0 0; }
 @media print { .build-tl-wrap { max-height: none; overflow: visible; } }
 .none { color: var(--muted); font-style: italic; }
+/* The team diagram may be wider than the reading column on large screens. */
+@media (min-width: 900px) {
+  .team-diagram { width: min(58rem, calc(100vw - 2 * var(--gutter))); position: relative; left: 50%; transform: translateX(-50%); }
+  .team-diagram svg { max-width: none; }
+}

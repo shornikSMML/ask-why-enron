@@ -18,7 +18,9 @@
     "event_date": "1986-04",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Joint Committee on Taxation staff report (Feb 2003). Read from page image (OCR text not available at time of reading). Footnote 56 adds that Enron reincorporated in Oregon in 1997."
+    "notes": "Joint Committee on Taxation staff report (Feb 2003). Read from page image (OCR text not available at time of reading). Footnote 56 adds that Enron reincorporated in Oregon in 1997.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-002",
@@ -39,7 +41,9 @@
     "event_date": "1985-07-01",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The July 1, 1985 date is on p. 59 (PDF 87). The same report says the deal was reported for financial-reporting purposes as effective June 1, 1985 (p. 60). Writers: say 'in mid-1985' or 'on July 1, 1985' and do not use June 1 as the deal date. Technically an acquisition (InterNorth bought HNG), though popularly called a merger."
+    "notes": "The July 1, 1985 date is on p. 59 (PDF 87). The same report says the deal was reported for financial-reporting purposes as effective June 1, 1985 (p. 60). Writers: say 'in mid-1985' or 'on July 1, 1985' and do not use June 1 as the deal date. Technically an acquisition (InterNorth bought HNG), though popularly called a merger.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-003",
@@ -60,7 +64,9 @@
     "event_date": "1984-12-31",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-004",
@@ -81,7 +87,9 @@
     "event_date": "1985",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-005",
@@ -104,7 +112,9 @@
     "event_date": "1986-02",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Footnote 62 (pp. 60-61): Lay stayed chairman and CEO until February 2001, when Skilling became CEO; after Skilling resigned in August 2001 Lay became CEO again; Lay resigned as chairman and CEO in January 2002 and as a director in February 2002. Also JCT p. 61 n. 63 (PDF 89): divestitures and layoffs cut the workforce from 8,800 (1985) to 7,200 (end of 1986)."
+    "notes": "Footnote 62 (pp. 60-61): Lay stayed chairman and CEO until February 2001, when Skilling became CEO; after Skilling resigned in August 2001 Lay became CEO again; Lay resigned as chairman and CEO in January 2002 and as a director in February 2002. Also JCT p. 61 n. 63 (PDF 89): divestitures and layoffs cut the workforce from 8,800 (1985) to 7,200 (end of 1986).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-006",
@@ -125,7 +135,9 @@
     "event_date": "1990",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The JCT staff are quoting Enron's 1989 Annual Report (released early 1990). The quote is Enron's own words, reported by JCT. Cite as 'Enron's 1989 annual report, as quoted by the Joint Committee on Taxation staff'."
+    "notes": "The JCT staff are quoting Enron's 1989 Annual Report (released early 1990). The quote is Enron's own words, reported by JCT. Cite as 'Enron's 1989 annual report, as quoted by the Joint Committee on Taxation staff'.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-007",
@@ -146,7 +158,9 @@
     "event_date": "1992",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The 1989 forward-contract date is on p. 61 (PDF 89); the 1994 electricity date is on p. 62. JCT's source for the 1992 date is Enron's own presentation to JCT staff (June 7, 2002), not an audited document. JCT p. 62 (PDF 90): revenues (restated for the EOTT divestiture) grew from $5.7 billion (1991) to $9.2 billion (1995)."
+    "notes": "The 1989 forward-contract date is on p. 61 (PDF 89); the 1994 electricity date is on p. 62. JCT's source for the 1992 date is Enron's own presentation to JCT staff (June 7, 2002), not an audited document. JCT p. 62 (PDF 90): revenues (restated for the EOTT divestiture) grew from $5.7 billion (1991) to $9.2 billion (1995).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-008",
@@ -167,7 +181,9 @@
     "event_date": "1996",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Useful context for pressure to report steady earnings growth. Do not overstate: JCT does not itself say this plan caused the accounting abuses."
+    "notes": "Useful context for pressure to report steady earnings growth. Do not overstate: JCT does not itself say this plan caused the accounting abuses.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-009",
@@ -188,7 +204,9 @@
     "event_date": "2000",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The quoted phrase is Enron's 2000 Annual Report, as quoted by JCT (p. 63). The asset figures are on p. 64 (PDF 92)."
+    "notes": "The quoted phrase is Enron's 2000 Annual Report, as quoted by JCT (p. 63). The asset figures are on p. 64 (PDF 92).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-010",
@@ -209,7 +227,9 @@
     "event_date": "1996/2000",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "JCT fn 75: these are figures as reported before the October-November 2001 charges and restatements. Consistent with the 10-K Selected Financial Data (card on 10-K revenues). JCT p. 65 (PDF 93): in July 1997 Enron acquired Portland General (about 685,000 Oregon customers) for about $3 billion including $1.1 billion of assumed debt, and reincorporated in Oregon. 10-K Item 1 (lines 193-220) lists five 2000 segments: Transportation and Distribution; Wholesale Services; Retail Energy Services; Broadband Services; Corporate and Other."
+    "notes": "JCT fn 75: these are figures as reported before the October-November 2001 charges and restatements. Consistent with the 10-K Selected Financial Data (card on 10-K revenues). JCT p. 65 (PDF 93): in July 1997 Enron acquired Portland General (about 685,000 Oregon customers) for about $3 billion including $1.1 billion of assumed debt, and reincorporated in Oregon. 10-K Item 1 (lines 193-220) lists five 2000 segments: Transportation and Distribution; Wholesale Services; Retail Energy Services; Broadband Services; Corporate and Other.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-011",
@@ -230,7 +250,9 @@
     "event_date": "2001",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Market-cap text begins on p. 57 (PDF 85). JCT sources: fortune.com (fn 53), an Enron press release for market cap (fn 52), bankruptcydata.com for 'largest bankruptcy' (fn 55). fn 53 adds that Enron moved up to FIFTH on the Fortune 500 for 2002 and was sixth on Fortune's 2002 Global 500. So 'seventh largest' refers to the 2001 list, ranked by revenue."
+    "notes": "Market-cap text begins on p. 57 (PDF 85). JCT sources: fortune.com (fn 53), an Enron press release for market cap (fn 52), bankruptcydata.com for 'largest bankruptcy' (fn 55). fn 53 adds that Enron moved up to FIFTH on the Fortune 500 for 2002 and was sixth on Fortune's 2002 Global 500. So 'seventh largest' refers to the 2001 list, ranked by revenue.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker. Image-checked JCT p. 58 (PDF 86). See seventh-largest ruling in factcheck-round1.md."
   },
   {
     "id": "A-012",
@@ -251,7 +273,9 @@
     "event_date": "2000-12-31",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Sources differ by date: JCT fn 51 (p. 57, PDF 85) says about 25,000 employees worldwide at the time of the bankruptcy filing (citing a McMahon bankruptcy affidavit); the Senate PSI board report (p. 6) says 'more than 20,000 employees worldwide.' Give the date with any headcount."
+    "notes": "Sources differ by date: JCT fn 51 (p. 57, PDF 85) says about 25,000 employees worldwide at the time of the bankruptcy filing (citing a McMahon bankruptcy affidavit); the Senate PSI board report (p. 6) says 'more than 20,000 employees worldwide.' Give the date with any headcount.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-013",
@@ -272,7 +296,9 @@
     "event_date": "2001-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Note the hedge word 'reportedly' and no measure given. DATE CONFLICT: this complaint says Enron filed for bankruptcy on December 3, 2001. The Powers Report, both Batson reports, JCT and PSI all say December 2, 2001. Use December 2 and do not cite this complaint for the filing date."
+    "notes": "Note the hedge word 'reportedly' and no measure given. DATE CONFLICT: this complaint says Enron filed for bankruptcy on December 3, 2001. The Powers Report, both Batson reports, JCT and PSI all say December 2, 2001. Use December 2 and do not cite this complaint for the filing date.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim at para. 9. SEC allegation with hedge 'reportedly'. Do not use this complaint for the bankruptcy date (it alone says Dec 3). See seventh-largest ruling."
   },
   {
     "id": "A-014",
@@ -293,7 +319,9 @@
     "event_date": "2001-04-16",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "INTERNAL INCONSISTENCY: the footnote says 'in the world' but cites Fortune's list titled 'The 500 Largest U.S. Corporations' (Apr. 16, 2001). The examiner's First Interim Report n. 1 (card on that) has the same wording. The safe statement: seventh on Fortune's 2001 list of the largest U.S. companies, measured by revenue. JCT (p. 58, n. 53) says Enron was sixth on Fortune's 2002 GLOBAL 500, and the JCT says Fortune named it Most Innovative six years running (p. 57 n. 50) vs Batson's 'fifth consecutive year' as of Feb 2001: these can both be true (the sixth award came later), but say 'several years in a row' if unsure."
+    "notes": "INTERNAL INCONSISTENCY: the footnote says 'in the world' but cites Fortune's list titled 'The 500 Largest U.S. Corporations' (Apr. 16, 2001). The examiner's First Interim Report n. 1 (card on that) has the same wording. The safe statement: seventh on Fortune's 2001 list of the largest U.S. companies, measured by revenue. JCT (p. 58, n. 53) says Enron was sixth on Fortune's 2002 GLOBAL 500, and the JCT says Fortune named it Most Innovative six years running (p. 57 n. 50) vs Batson's 'fifth consecutive year' as of Feb 2001: these can both be true (the sixth award came later), but say 'several years in a row' if unsure.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker. Image-checked Batson Final p. 15 n. 27 (PDF 18): 'seventh largest corporation in the world, based upon revenues', citing Fortune's 'The 500 Largest U.S. Corporations'. See ruling."
   },
   {
     "id": "A-015",
@@ -314,7 +342,9 @@
     "event_date": "2001",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Read from page image (OCR not yet available). Footnote 1 repeats the 'seventh largest corporation in the world, based upon revenues' wording, citing Fortune's '500 Largest U.S. Corporations' list."
+    "notes": "Read from page image (OCR not yet available). Footnote 1 repeats the 'seventh largest corporation in the world, based upon revenues' wording, citing Fortune's '500 Largest U.S. Corporations' list.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker. Image-checked Batson First Interim p. 1 n. 1 (PDF 3). Same wording as Final n. 27."
   },
   {
     "id": "A-016",
@@ -335,7 +365,9 @@
     "event_date": "2001-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The PSI Fishtail report (rpt-psi-fishtail, p. 1, PDF 5) also calls Enron 'the seventh largest corporation in the United States.' The DOJ superseding indictment of Skilling and Causey (doj-skilling-indictment, para. 1, PDF 1) alleges the same ('Before it filed for bankruptcy on December 2, 2001, Enron was the seventh largest corporation in the United States'). None of these states the measure; Batson and JCT say revenue. Verdict on the reader tip: SUPPORTED if phrased 'seventh-largest U.S. company by revenue on Fortune's 2001 list.' Revenue is not profit or market value; Enron's revenue was inflated by counting the full value of trades (see mark-to-market cards). Many hearing transcripts repeat the phrase too; those are members' statements, not findings."
+    "notes": "The PSI Fishtail report (rpt-psi-fishtail, p. 1, PDF 5) also calls Enron 'the seventh largest corporation in the United States.' The DOJ superseding indictment of Skilling and Causey (doj-skilling-indictment, para. 1, PDF 1) alleges the same ('Before it filed for bankruptcy on December 2, 2001, Enron was the seventh largest corporation in the United States'). None of these states the measure; Batson and JCT say revenue. Verdict on the reader tip: SUPPORTED if phrased 'seventh-largest U.S. company by revenue on Fortune's 2001 list.' Revenue is not profit or market value; Enron's revenue was inflated by counting the full value of trades (see mark-to-market cards). Many hearing transcripts repeat the phrase too; those are members' statements, not findings.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim. Note also JCT n. 53 says Enron moved up to FIFTH on the Fortune 500 for 2002, so do not write 'at its peak ... seventh'. See ruling."
   },
   {
     "id": "A-017",
@@ -356,7 +388,9 @@
     "event_date": "2001-04",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-018",
@@ -377,7 +411,9 @@
     "event_date": "1999",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "'Enron as principal' matters: Enron was the buyer or seller in every trade, not just a matchmaker. That is one reason its reported revenue was so large. Same description in Item 1 (lines 533-539). JCT (p. 84, PDF 112) reports Enron shut down EnronOnline on November 28, 2001. 10-K table (lines 545-571): total physical volumes 51,715 BBtue/d in 2000 vs 32,429 (1999) and 27,308 (1998); financial settlements (notional) 196,148 BBtue/d in 2000."
+    "notes": "'Enron as principal' matters: Enron was the buyer or seller in every trade, not just a matchmaker. That is one reason its reported revenue was so large. Same description in Item 1 (lines 533-539). JCT (p. 84, PDF 112) reports Enron shut down EnronOnline on November 28, 2001. 10-K table (lines 545-571): total physical volumes 51,715 BBtue/d in 2000 vs 32,429 (1999) and 27,308 (1998); financial settlements (notional) 196,148 BBtue/d in 2000.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-019",
@@ -398,7 +434,9 @@
     "event_date": "2001-04",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The 10-K does not use the phrase 'asset light.' Do not put 'asset light' in quotation marks as Enron's words unless another library source has it."
+    "notes": "The 10-K does not use the phrase 'asset light.' Do not put 'asset light' in quotation marks as Enron's words unless another library source has it.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-020",
@@ -419,7 +457,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Key text for the glossary and Chapter 2. 'Unrealized' means not yet received in cash. The same note says prices reflect 'management's best estimate considering various factors including closing exchange and over-the-counter quotations, time value and volatility factors' (lines 4170-4175). The general explanation (booking expected future profit today) can come from general knowledge; the quote shows Enron's own wording."
+    "notes": "Key text for the glossary and Chapter 2. 'Unrealized' means not yet received in cash. The same note says prices reflect 'management's best estimate considering various factors including closing exchange and over-the-counter quotations, time value and volatility factors' (lines 4170-4175). The general explanation (booking expected future profit today) can come from general knowledge; the quote shows Enron's own wording.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-021",
@@ -440,7 +480,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "This is the link between Chapter 2 and Chapter 3: because gains and losses on these stakes hit income every quarter, Enron wanted 'hedges' (Rhythms, Raptors) to offset losses."
+    "notes": "This is the link between Chapter 2 and Chapter 3: because gains and losses on these stakes hit income every quarter, Enron wanted 'hedges' (Rhythms, Raptors) to offset losses.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-022",
@@ -461,7 +503,9 @@
     "event_date": "1999-05",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "A plain-language, source-based illustration of mark-to-market for the glossary."
+    "notes": "A plain-language, source-based illustration of mark-to-market for the glossary.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-023",
@@ -482,7 +526,9 @@
     "event_date": "1999-06",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-024",
@@ -503,7 +549,9 @@
     "event_date": "1996/2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Revenue more than doubled in 2000. These are pre-restatement figures."
+    "notes": "Revenue more than doubled in 2000. These are pre-restatement figures.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-025",
@@ -524,7 +572,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The investigations use $893 million as the 1999 total (after the $131 million cumulative effect of accounting changes). The 10-K's Selected Financial Data (line 1947) shows $1,024 million for 1999 because that line is 'income before cumulative effect.' Writers: use 'net income' and $893 million for 1999 to match the restatement cards. 1997 net income was $105 million (Selected Financial Data, line 1947)."
+    "notes": "The investigations use $893 million as the 1999 total (after the $131 million cumulative effect of accounting changes). The 10-K's Selected Financial Data (line 1947) shows $1,024 million for 1999 because that line is 'income before cumulative effect.' Writers: use 'net income' and $893 million for 1999 to match the restatement cards. 1997 net income was $105 million (Selected Financial Data, line 1947).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-026",
@@ -545,7 +595,9 @@
     "event_date": "2000-12-31",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Compare with the bankruptcy examiner's conclusion (Batson Final p. 18) that without six accounting techniques Enron would have reported $22.1 billion of debt for 2000, not $10.2 billion."
+    "notes": "Compare with the bankruptcy examiner's conclusion (Batson Final p. 18) that without six accounting techniques Enron would have reported $22.1 billion of debt for 2000, not $10.2 billion.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-027",
@@ -566,7 +618,9 @@
     "event_date": "2001-02-23",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "This is Andersen's own statement filed in Enron's 10-K. On Nov 8, 2001 Enron said the audit reports for 1997-2000 'should not be relied upon' (see restatement cards)."
+    "notes": "This is Andersen's own statement filed in Enron's 10-K. On Nov 8, 2001 Enron said the audit reports for 1997-2000 'should not be relied upon' (see restatement cards).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-028",
@@ -587,7 +641,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Same page: 'approximately 60% of Enron's earnings' in 1996-1998 came from businesses Enron was not in ten years earlier ('we are told'). Page 37: management preferred off-balance-sheet treatment to look better 'as measured by the ratios favored by Wall Street analysts and rating agencies.'"
+    "notes": "Same page: 'approximately 60% of Enron's earnings' in 1996-1998 came from businesses Enron was not in ten years earlier ('we are told'). Page 37: management preferred off-balance-sheet treatment to look better 'as measured by the ratios favored by Wall Street analysts and rating agencies.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-029",
@@ -608,7 +664,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-030",
@@ -629,7 +687,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Page 39 (PDF 45) adds: the 3% was the SEC staff's minimum position; investments are not 'at risk' if backed by a guarantee or letter of credit. Good for the glossary entry 'special purpose entity' and '3% rule'. Batson Final App. A p. 11 (PDF 12, image-checked): 'the term SPE usually refers to an entity or commercial arrangement with a limited duration and a limited purpose, usually designed to benefit a single person, although SPE is not defined under GAAP.'"
+    "notes": "Page 39 (PDF 45) adds: the 3% was the SEC staff's minimum position; investments are not 'at risk' if backed by a guarantee or letter of credit. Good for the glossary entry 'special purpose entity' and '3% rule'. Batson Final App. A p. 11 (PDF 12, image-checked): 'the term SPE usually refers to an entity or commercial arrangement with a limited duration and a limited purpose, usually designed to benefit a single person, although SPE is not defined under GAAP.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-031",
@@ -650,7 +710,9 @@
     "event_date": "1993",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Executive Summary p. 6 says 'From 1993 through 1996' Enron and CalPERS were partners; the body says 1993 formation and a 1997 buyout. JEDI = Joint Energy Development Investment Limited Partnership."
+    "notes": "Executive Summary p. 6 says 'From 1993 through 1996' Enron and CalPERS were partners; the body says 1993 formation and a 1997 buyout. JEDI = Joint Energy Development Investment Limited Partnership.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-032",
@@ -674,7 +736,9 @@
     "event_date": "1997-11",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Unlike Fastow, Kopper was not a senior officer, so his role did not require proxy disclosure (p. 44). Powers p. 44: Enron agreed to redeem CalPERS's JEDI interest for $383 million; Chewco was formed 'on very short notice in early November 1997' and Vinson & Elkins prepared the documents 'in a period of approximately 48 hours' (lines 1730-1736)."
+    "notes": "Unlike Fastow, Kopper was not a senior officer, so his role did not require proxy disclosure (p. 44). Powers p. 44: Enron agreed to redeem CalPERS's JEDI interest for $383 million; Chewco was formed 'on very short notice in early November 1997' and Vinson & Elkins prepared the documents 'in a period of approximately 48 hours' (lines 1730-1736).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-033",
@@ -700,7 +764,9 @@
     "event_date": "1997-11-05",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Skilling told the committee he approved Kopper's role on Fastow's recommendation, but the committee said his approval did not satisfy the Code of Conduct (pp. 46-47). Lay said he was not informed. Executive summary (p. 8) says 'we have seen no evidence that his participation was ever disclosed to, or approved by, either Kenneth Lay ... or the Board of Directors.'"
+    "notes": "Skilling told the committee he approved Kopper's role on Fastow's recommendation, but the committee said his approval did not satisfy the Code of Conduct (pp. 46-47). Lay said he was not informed. Executive summary (p. 8) says 'we have seen no evidence that his participation was ever disclosed to, or approved by, either Kenneth Lay ... or the Board of Directors.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-034",
@@ -723,7 +789,9 @@
     "event_date": "1997-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The committee added: 'During this time period, that was not an unusual practice for SPE financing' (p. 50). Include that for balance."
+    "notes": "The committee added: 'During this time period, that was not an unusual practice for SPE financing' (p. 50). Include that for balance.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-035",
@@ -744,7 +812,9 @@
     "event_date": "1997-12-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Exec summary p. 42 says the structure 'fell at least $6.6 million (or more than 50%) short of the required third-party equity.' Andersen's CEO testified (Dec 12, 2001, as reported by Powers p. 53) that Andersen did not know of the cash collateral. The committee could not determine whether the failure was carelessness or self-interest, because Kopper, Glisan and Andersen declined to explain (p. 54)."
+    "notes": "Exec summary p. 42 says the structure 'fell at least $6.6 million (or more than 50%) short of the required third-party equity.' Andersen's CEO testified (Dec 12, 2001, as reported by Powers p. 53) that Andersen did not know of the cash collateral. The committee could not determine whether the failure was carelessness or self-interest, because Kopper, Glisan and Andersen declined to explain (p. 54).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-036",
@@ -767,7 +837,9 @@
     "event_date": "1997-12/2000-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-037",
@@ -793,7 +865,9 @@
     "event_date": "2001-03-26",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Per the committee, McMahon said Fastow told him Skilling approved the $10 million; Skilling told the committee he had no involvement (pp. 61-62). Fastow and Kopper declined to be interviewed. Exec summary (p. 8) says Kopper and a friend received 'more than $10 million from Enron.' Enron's 8-K (Nov 8, 2001, p. 19) also reports the $35 million purchase. Dodson is identified in Powers n. 10 as Kopper's domestic partner; writers need not mention. Kopper plea (for the Cast page, not this chapter): Batson First Interim p. 3 n. 8 (PDF 5, image-read) says Kopper 'pled guilty' on Aug 21, 2002 to conspiracy to commit wire fraud and conspiracy to commit money laundering and agreed to surrender $12 million; PSI Fishtail p. 1 says Fastow had been indicted. Secondary reports only; see gaps file."
+    "notes": "Per the committee, McMahon said Fastow told him Skilling approved the $10 million; Skilling told the committee he had no involvement (pp. 61-62). Fastow and Kopper declined to be interviewed. Exec summary (p. 8) says Kopper and a friend received 'more than $10 million from Enron.' Enron's 8-K (Nov 8, 2001, p. 19) also reports the $35 million purchase. Dodson is identified in Powers n. 10 as Kopper's domestic partner; writers need not mention. Kopper plea (for the Cast page, not this chapter): Batson First Interim p. 3 n. 8 (PDF 5, image-read) says Kopper 'pled guilty' on Aug 21, 2002 to conspiracy to commit wire fraud and conspiracy to commit money laundering and agreed to surrender $12 million; PSI Fishtail p. 1 says Fastow had been indicted. Secondary reports only; see gaps file.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-038",
@@ -817,7 +891,9 @@
     "event_date": "2001-09",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Fastow told counsel Skilling had decided the payment should be made; Skilling told the committee he did not recall this. Fastow declined to answer. Quote runs across a page break (pp. 64-65); a footnote sits between the two halves in the text file."
+    "notes": "Fastow told counsel Skilling had decided the payment should be made; Skilling told the committee he did not recall this. Fastow declined to answer. Quote runs across a page break (pp. 64-65); a footnote sits between the two halves in the text file.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim; a footnote interrupts the sentence in the text file (p. 65)."
   },
   {
     "id": "A-039",
@@ -838,7 +914,9 @@
     "event_date": "2001-11",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "These match the Nov 19, 2001 10-Q, not the Nov 8 8-K, which showed $45M (1997) and $107M (1998) for JEDI/Chewco. See restatement cards."
+    "notes": "These match the Nov 19, 2001 10-Q, not the Nov 8 8-K, which showed $45M (1997) and $107M (1998) for JEDI/Chewco. See restatement cards.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-040",
@@ -863,7 +941,9 @@
     "event_date": "1999-06-28",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Fastow told the board he would invest $1 million (p. 69). Enron's Nov 8, 2001 8-K (p. 9) says initial capital commitments to LJM1 were $16 million (i.e., $15M + $1M)."
+    "notes": "Fastow told the board he would invest $1 million (p. 69). Enron's Nov 8, 2001 8-K (p. 9) says initial capital commitments to LJM1 were $16 million (i.e., $15M + $1M).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-041",
@@ -889,7 +969,9 @@
     "event_date": "1999-10-11",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "DATE DISAGREEMENT: Powers says 'LJM2 was formed in October 1999' (p. 73). Batson First Interim (p. 3) says LJM2 was 'funded in December 1999' and Batson Final n. 29 says 'founded in December 1999.' Approval (Oct 11, 1999) is not in dispute. Limited partners named on p. 73 include Merrill Lynch, J.P. Morgan, Citicorp affiliates and the MacArthur Foundation; the committee was 'not certain of this because LJM2 declined to provide any information.' $394M also in Enron 8-K Nov 8, 2001 p. 9."
+    "notes": "DATE DISAGREEMENTS: (1) Formation: Powers says 'LJM2 was formed in October 1999' (p. 73). Batson First Interim (p. 3) says LJM2 was 'funded in December 1999' and Batson Final n. 29 says 'founded in December 1999.' (2) Board approval: Powers says the Finance Committee met Oct 11, 1999 and the full Board approved later the same day; the Senate PSI report (p. 26) says the Board approved on October 12, 1999. Limited partners named on p. 73 include Merrill Lynch, J.P. Morgan, Citicorp affiliates and the MacArthur Foundation; the committee was 'not certain of this because LJM2 declined to provide any information.' $394M also in Enron 8-K Nov 8, 2001 p. 9.",
+    "checked": "FIXED",
+    "checker_note": "Note corrected: the approval date IS disputed between sources. Powers (p. 71, lines ~2707-2737) says the Finance Committee met Oct 11, 1999 and Winokur presented its recommendation to the full Board 'later that day'. The Senate PSI report (p. 26, PDF 30, lines 1744-1749) says the Board approved 'the following day', October 12, 1999. Say 'in October 1999' or give both dates with attribution."
   },
   {
     "id": "A-042",
@@ -912,7 +994,9 @@
     "event_date": "1999-10",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The PPM named Fastow, Kopper and Glisan as day-to-day managers; the committee saw no evidence the board was told of Kopper's or Glisan's involvement."
+    "notes": "The PPM named Fastow, Kopper and Glisan as day-to-day managers; the committee saw no evidence the board was told of Kopper's or Glisan's involvement.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-043",
@@ -935,7 +1019,9 @@
     "event_date": "1999-06/2001-06",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Enron's Nov 8, 2001 8-K (p. 10) counts 24 business relationships June 1999-September 2001."
+    "notes": "Enron's Nov 8, 2001 8-K (p. 10) counts 24 business relationships June 1999-September 2001.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim across a page break."
   },
   {
     "id": "A-044",
@@ -958,7 +1044,9 @@
     "event_date": "1999",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The committee could not confirm Fastow's $229M figure; Enron's reported earnings for that half-year were $570M pre-tax. It noted 'plausible, more innocent explanations for some of the repurchases' (p. 12). Include that caveat."
+    "notes": "The committee could not confirm Fastow's $229M figure; Enron's reported earnings for that half-year were $570M pre-tax. It noted 'plausible, more innocent explanations for some of the repurchases' (p. 12). Include that caveat.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-045",
@@ -979,7 +1067,9 @@
     "event_date": "1999-04-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-046",
@@ -1002,7 +1092,9 @@
     "event_date": "1999-06-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Quote is from the Executive Summary p. 13 (line 704). The value of the Enron shares was discounted about $108 million (39%) for the sale restriction (p. 80). Diagram material: Powers includes a text description of its diagram at lines 3027-3035."
+    "notes": "Quote is from the Executive Summary p. 13 (line 704). The value of the Enron shares was discounted about $108 million (39%) for the sale restriction (p. 80). Diagram material: Powers includes a text description of its diagram at lines 3027-3035.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-047",
@@ -1023,12 +1115,14 @@
     "event_date": "1999-06",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Excellent plain-language definition of a hedge for the glossary. Powers p. 14: in 1999 Enron recognized $95 million after-tax income from the Rhythms transaction, offsetting losses on the Rhythms stake (lines 740-742)."
+    "notes": "Excellent plain-language definition of a hedge for the glossary. Powers p. 14: in 1999 Enron recognized $95 million after-tax income from the Rhythms transaction, offsetting losses on the Rhythms stake (lines 740-742).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-048",
     "topic": "Rhythms: Swap Sub failed the 3% test",
-    "claim": "At formation Swap Sub had negative equity (its $104 million obligation exceeded its assets). Enron announced on November 8, 2001 that Swap Sub should have been consolidated, reducing 1999 net income by $95 million and 2000 by $8 million. Andersen's CEO testified in December 2001 that the firm's 1999 judgment on the 3% test was 'in error.'",
+    "claim": "At formation Swap Sub had negative equity (its $104 million obligation exceeded its assets). Enron announced on November 8, 2001 that Swap Sub should have been consolidated, reducing 1999 net income by $95 million and 2000 by $8 million. According to the Powers Report, Andersen's CEO told Congress on December 12, 2001 that the firm's 1999 judgment on the 3% test was 'in error.'",
     "quote": "When we reviewed this transaction again in October 2001, we determined that our team's initial judgment that the 3 percent test was met was in error. We promptly told Enron to correct it.",
     "source_id": "powers-report-sec",
     "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
@@ -1038,15 +1132,15 @@
       "section": "IV.C.2 SPE Equity Requirement",
       "lines": "3102-3142"
     },
-    "source_type": "sworn testimony",
-    "verb": "testified",
-    "people": [
-      "Joseph Berardino"
-    ],
+    "source_type": "board committee report quoting congressional testimony",
+    "verb": "stated",
+    "people": [],
     "event_date": "2001-12-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The quote is the Andersen CEO's Dec 12, 2001 congressional testimony as quoted in the Powers Report; Powers does not name him in this passage (he is Joseph Berardino, per the hearings, but confirm from hrg-* documents before naming). Verb: 'Andersen's CEO testified,' citing the Powers Report page."
+    "notes": "The quote is the Andersen CEO's Dec 12, 2001 congressional testimony as quoted in the Powers Report; Powers does not name him in this passage (he is Joseph Berardino, per the hearings, but confirm from hrg-* documents before naming). Verb: 'Andersen's CEO testified,' citing the Powers Report page.",
+    "checked": "FIXED",
+    "checker_note": "Addendum ruling: Powers (p. 83) quotes 'Andersen's CEO' without naming him and without saying he was under oath. The library has no transcript of the Dec 12, 2001 hearing. hrg-hfs-enron-investors (Feb 5, 2002) lists Joseph Berardino as Andersen's CEO and has him refer to an earlier appearance, but that does not confirm he was the Dec 12 speaker. Do NOT name him for this quote. Removed Berardino from 'people'; changed the claim to 'told Congress' and the source type to the Powers Report quoting testimony. Gap logged (Dec 12, 2001 House Financial Services Capital Markets subcommittee transcript)."
   },
   {
     "id": "A-049",
@@ -1070,7 +1164,9 @@
     "event_date": "2000-02",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Causey told the committee he did not recall this quantification (p. 87). Kaminski's first name: Powers says 'Vincent' at line 3147; Batson Final n. 41 says 'Wincenty Kaminski.'"
+    "notes": "Causey told the committee he did not recall this quantification (p. 87). Kaminski's first name: Powers says 'Vincent' at line 3147; Batson Final n. 41 says 'Wincenty Kaminski.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-050",
@@ -1098,7 +1194,9 @@
     "event_date": "2000-03/2000-05",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Pages 92-93 name the investors: Big Doe (Kopper), the Fastow Family Foundation, Glisan, Mordaunt, Lynn, Yaeger Patel and Michael Hinds. The two $5,800 investors were Glisan and Mordaunt. The committee said these employees appear to have violated Enron's Code of Conduct (p. 27); it is a finding, not a legal judgment. Only Mordaunt agreed to be interviewed in detail. Enron's Nov 8, 2001 8-K (p. 19) also disclosed this investment and that Enron was terminating Glisan and Mordaunt."
+    "notes": "Pages 92-93 name the investors: Big Doe (Kopper), the Fastow Family Foundation, Glisan, Mordaunt, Lynn, Yaeger Patel and Michael Hinds. The two $5,800 investors were Glisan and Mordaunt. The committee said these employees appear to have violated Enron's Code of Conduct (p. 27); it is a finding, not a legal judgment. Only Mordaunt agreed to be interviewed in detail. Enron's Nov 8, 2001 8-K (p. 19) also disclosed this investment and that Enron was terminating Glisan and Mordaunt.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-051",
@@ -1119,7 +1217,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The Raptor names: Raptor I = Talon; Raptor II = Timberwolf; Raptor IV = Bobcat; Raptor III = Porcupine (Powers pp. 100, 125, 131). Raptor III held warrants for New Power Company (TNPC) stock rather than Enron stock (p. 114)."
+    "notes": "The Raptor names: Raptor I = Talon; Raptor II = Timberwolf; Raptor IV = Bobcat; Raptor III = Porcupine (Powers pp. 100, 125, 131). Raptor III held warrants for New Power Company (TNPC) stock rather than Enron stock (p. 114).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-052",
@@ -1142,7 +1242,9 @@
     "event_date": "2000-04-18",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Glisan led the effort; Andersen accountants were 'closely involved in structuring the Raptors' (p. 100); Andersen billed about $335,000 for Raptor creation work in early 2000 (n. 45)."
+    "notes": "Glisan led the effort; Andersen accountants were 'closely involved in structuring the Raptors' (p. 100); Andersen billed about $335,000 for Raptor creation work in early 2000 (n. 45).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-053",
@@ -1165,7 +1267,9 @@
     "event_date": "2000-10",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The Finance Committee had been told (May 1, 2000) to expect a 30% annualized return (p. 128). Powers timeline appendix lists the distributions: $41M Raptor I (8/3/2000), $41M Raptor II (9/22/2000), $39.5M Raptor III (10/5/2000), $40.5M Raptor IV (1/23/2001) (lines 7501-7542)."
+    "notes": "The Finance Committee had been told (May 1, 2000) to expect a 30% annualized return (p. 128). Powers timeline appendix lists the distributions: $41M Raptor I (8/3/2000), $41M Raptor II (9/22/2000), $39.5M Raptor III (10/5/2000), $40.5M Raptor IV (1/23/2001) (lines 7501-7542).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-054",
@@ -1186,7 +1290,9 @@
     "event_date": "2000-07/2001-09",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Quarter table (p. 133, PDF 139): reported vs. without Raptors, pre-tax $ millions: 3Q00 364/295; 4Q00 286/(176); 1Q01 536/281; 2Q01 530/490; 3Q01 (210)/(461) excluding the $710M charge. Good chart data. The committee added: 'We cannot be certain what Enron might have done to mitigate losses ... had it not constructed the Raptors.'"
+    "notes": "Quarter table (p. 133, PDF 139): reported vs. without Raptors, pre-tax $ millions: 3Q00 364/295; 4Q00 286/(176); 1Q01 536/281; 2Q01 530/490; 3Q01 (210)/(461) excluding the $710M charge. Good chart data. The committee added: 'We cannot be certain what Enron might have done to mitigate losses ... had it not constructed the Raptors.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-055",
@@ -1207,7 +1313,9 @@
     "event_date": "2000-07/2000-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-056",
@@ -1228,7 +1336,9 @@
     "event_date": "2000-12-22",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Andersen agreed at the time that this was permissible (n. 57)."
+    "notes": "Andersen agreed at the time that this was permissible (n. 57).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-057",
@@ -1251,7 +1361,9 @@
     "event_date": "2001-03-26",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Conflicting evidence on Skilling: employees told the committee Skilling called fixing the Raptors a top priority; Skilling disputes this and says he recalls no significant involvement (pp. 121-122). Present both accounts."
+    "notes": "Conflicting evidence on Skilling: employees told the committee Skilling called fixing the Raptors a top priority; Skilling disputes this and says he recalls no significant involvement (pp. 121-122). Present both accounts.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-058",
@@ -1276,7 +1388,9 @@
     "event_date": "2001-09-28",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "AFTER-TAX AMOUNT DISAGREES: Enron's own Q3 2001 10-Q (p. 53) says the Raptor charges totaled '$710 million ($462 million after tax).' Powers (pp. 98, 128) and both Batson reports say $544 million after tax; $544M is also the figure in Enron's Oct 16 earnings release as quoted by Batson, though that release describes $544M as losses on 'certain investments, principally ... The New Power Company, broadband and technology investments, and early termination ... of certain structured finance arrangements,' i.e., not only the Raptors. Safest wording: 'a $710 million pre-tax charge' and 'Enron's October 16 announcement included a $544 million after-tax charge.' The $35M payment is confirmed by the 10-Q (p. 53) and Batson First Interim (p. 4)."
+    "notes": "AFTER-TAX AMOUNT DISAGREES: Enron's own Q3 2001 10-Q (p. 53) says the Raptor charges totaled '$710 million ($462 million after tax).' Powers (pp. 98, 128) and both Batson reports say $544 million after tax; $544M is also the figure in Enron's Oct 16 earnings release as quoted by Batson, though that release describes $544M as losses on 'certain investments, principally ... The New Power Company, broadband and technology investments, and early termination ... of certain structured finance arrangements,' i.e., not only the Raptors. Safest wording: 'a $710 million pre-tax charge' and 'Enron's October 16 announcement included a $544 million after-tax charge.' The $35M payment is confirmed by the 10-Q (p. 53) and Batson First Interim (p. 4).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verified: 10-Q line 3673 '$710 million ($462 million after tax)'; Powers line 4653 '$544 million after taxes'. Disagreement stated accurately."
   },
   {
     "id": "A-059",
@@ -1297,7 +1411,9 @@
     "event_date": "2001-09",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "SMALL DISAGREEMENT: Enron's 10-Q (Note 3, p. 18) says $270 million of the $1.2 billion related to the value of share-delivery contracts exceeding the notes, 'not related to the restatement.' Powers says 'approximately $200 million.' The 10-Q (p. 18) confirms the $172M and $828M figures. Powers p. 125: Andersen and Enron accountants realized the error in August 2001."
+    "notes": "SMALL DISAGREEMENT: Enron's 10-Q (Note 3, p. 18) says $270 million of the $1.2 billion related to the value of share-delivery contracts exceeding the notes, 'not related to the restatement.' Powers says 'approximately $200 million.' The 10-Q (p. 18) confirms the $172M and $828M figures. Powers p. 125: Andersen and Enron accountants realized the error in August 2001.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verified Powers lines 3647-3651 and n. 60 (lines 4600-4612): $1B + ~$200M. 10-Q $270M figure noted."
   },
   {
     "id": "A-060",
@@ -1321,7 +1437,9 @@
     "event_date": "1999/2001",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Enron's 8-K (Nov 8, 2001, p. 9, line 426): 'Enron now believes that Mr. Fastow received in excess of $30 million relating to his LJM management and investment activities.' No one asked Fastow for his LJM compensation until October 2001 (Powers p. 11, p. 164)."
+    "notes": "Enron's 8-K (Nov 8, 2001, p. 9, line 426): 'Enron now believes that Mr. Fastow received in excess of $30 million relating to his LJM management and investment activities.' No one asked Fastow for his LJM compensation until October 2001 (Powers p. 11, p. 164).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-061",
@@ -1342,7 +1460,9 @@
     "event_date": "1997/2001",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The Auditors lens. Andersen did not let the committee interview its people and gave only partial workpaper access (p. 34)."
+    "notes": "The Auditors lens. Andersen did not let the committee interview its people and gave only partial workpaper access (p. 34).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-062",
@@ -1368,7 +1488,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "These are the special committee's judgments, not legal findings. The committee also said Causey's accounting judgments 'went well beyond the aggressive' (p. 21) and that Andersen's concurrence was 'a significant, though not entirely exonerating, fact.' Board-lens material belongs mostly to Reader B/C; included here only for the SPE chapter's 'who ran them' question."
+    "notes": "These are the special committee's judgments, not legal findings. The committee also said Causey's accounting judgments 'went well beyond the aggressive' (p. 21) and that Andersen's concurrence was 'a significant, though not entirely exonerating, fact.' Board-lens material belongs mostly to Reader B/C; included here only for the SPE chapter's 'who ran them' question.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-063",
@@ -1389,7 +1511,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Board sections are the views of Powers and Troubh only; Winokur, a director since 1985 and Finance Committee chair, did not join them (n. 1, p. 9; n. 3, p. 31)."
+    "notes": "Board sections are the views of Powers and Troubh only; Winokur, a director since 1985 and Finance Committee chair, did not join them (n. 1, p. 9; n. 3, p. 31).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-064",
@@ -1412,7 +1536,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Do not duplicate the Footnote Annotator's Note 16 work. p. 200-201: 'not generally the case' that these were 'secret' partnerships; they 'all were disclosed to some extent'; but the company worked 'to say as little as possible.'"
+    "notes": "Do not duplicate the Footnote Annotator's Note 16 work. p. 200-201: 'not generally the case' that these were 'secret' partnerships; they 'all were disclosed to some extent'; but the company worked 'to say as little as possible.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-065",
@@ -1433,7 +1559,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Quote spans pp. 27-28 (lines 1174-1183)."
+    "notes": "Quote spans pp. 27-28 (lines 1174-1183).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim across a page break."
   },
   {
     "id": "A-066",
@@ -1458,7 +1586,9 @@
     "event_date": "2001-10-28",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "DATE DIFFERENCES: Powers says the committee was established Oct 28, 2001; Enron's 10-Q explanatory note (p. 3) says the Special Committee 'began its review on October 26, 2001'; the 10-Q (p. 14) and Batson First Interim (p. 4) say Enron announced on Oct 31, 2001 that it had formed the committee headed by Powers. Report dated Feb 1, 2002 (JCT p. 85 says delivered Feb 2, 2002). Suggest: 'formed in late October 2001; report dated February 1, 2002.'"
+    "notes": "DATE DIFFERENCES: Powers says the committee was established Oct 28, 2001; Enron's 10-Q explanatory note (p. 3) says the Special Committee 'began its review on October 26, 2001'; the 10-Q (p. 14) and Batson First Interim (p. 4) say Enron announced on Oct 31, 2001 that it had formed the committee headed by Powers. Report dated Feb 1, 2002 (JCT p. 85 says delivered Feb 2, 2002). Suggest: 'formed in late October 2001; report dated February 1, 2002.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-067",
@@ -1479,7 +1609,9 @@
     "event_date": "2000",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "IMPORTANT: this is the Final Report summarizing a conclusion first made in the Second Interim Report, which is NOT in the library. It is fine to cite the Final Report (verified on the page image), but the underlying analysis cannot be checked. The six techniques: FAS 140 Transactions; Tax Transactions; Non-Economic Hedges; Share Trust Transactions; Minority Interest Transactions; Prepay Transactions (pp. 18-20). n. 36: the examiner also concluded the 1999 and earlier statements were misleading."
+    "notes": "IMPORTANT: this is the Final Report summarizing a conclusion first made in the Second Interim Report, which is NOT in the library. It is fine to cite the Final Report (verified on the page image), but the underlying analysis cannot be checked. The six techniques: FAS 140 Transactions; Tax Transactions; Non-Economic Hedges; Share Trust Transactions; Minority Interest Transactions; Prepay Transactions (pp. 18-20). n. 36: the examiner also concluded the 1999 and earlier statements were misleading.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-068",
@@ -1500,7 +1632,9 @@
     "event_date": null,
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Quote (Prepays) verified on image p. 20 (PDF 23). Glossary material. Batson App. A (pp. 10-11) gives formal definitions of 'Prepay Transactions', 'Share Trust Transactions', 'Minority Interest Transactions', 'FAS 140 Transactions'."
+    "notes": "Quote (Prepays) verified on image p. 20 (PDF 23). Glossary material. Batson App. A (pp. 10-11) gives formal definitions of 'Prepay Transactions', 'Share Trust Transactions', 'Minority Interest Transactions', 'FAS 140 Transactions'.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-069",
@@ -1523,7 +1657,9 @@
     "event_date": "2003-05-09",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Sworn statement to the examiner's counsel, May 9, 2003, as quoted in the Final Report. Verified on page image. Kaminski also 'thought [the LJM2/Raptors Hedging Transactions] were terrible, terrible economic hedges.' Batson spells his name 'Wincenty'; Powers 'Vincent'."
+    "notes": "Sworn statement to the examiner's counsel, May 9, 2003, as quoted in the Final Report. Verified on page image. Kaminski also 'thought [the LJM2/Raptors Hedging Transactions] were terrible, terrible economic hedges.' Batson spells his name 'Wincenty'; Powers 'Vincent'.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-070",
@@ -1544,7 +1680,9 @@
     "event_date": null,
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Verified on page image PDF p. 24."
+    "notes": "Verified on page image PDF p. 24.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-071",
@@ -1570,7 +1708,9 @@
     "event_date": null,
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "CAUTION: 'sufficient evidence from which a fact-finder could conclude' is NOT a finding that they did. It is the examiner's standard for a claim that could go to trial (Final Report pp. 13-14). Summarizes the Third Interim Report, which is not in the library. McMahon was never criminally charged as far as the library shows; check before the Cast page says anything more."
+    "notes": "CAUTION: 'sufficient evidence from which a fact-finder could conclude' is NOT a finding that they did. It is the examiner's standard for a claim that could go to trial (Final Report pp. 13-14). Summarizes the Third Interim Report, which is not in the library. McMahon was never criminally charged as far as the library shows; check before the Cast page says anything more.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-072",
@@ -1591,7 +1731,9 @@
     "event_date": "2002-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Congressional staff report (S. Prt. 107-82, Jan 2, 2003). Verb: 'the Senate subcommittee staff found/reported.' Merrill details (p. 2): Enron secretly promised a resale within six months and a 15 percent return. Banks were never criminally convicted for these deals per this report; outcomes are for other agents."
+    "notes": "Congressional staff report (S. Prt. 107-82, Jan 2, 2003). Verb: 'the Senate subcommittee staff found/reported.' Merrill details (p. 2): Enron secretly promised a resale within six months and a 15 percent return. Banks were never criminally convicted for these deals per this report; outcomes are for other agents.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-073",
@@ -1612,7 +1754,9 @@
     "event_date": "2000-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "A Citigroup official warned: 'The GAAP accounting is aggressive and a franchise risk to us if there is publicity.' (p. 3). Useful for 'Follow the Money' lens. Slapshot (June 22, 2001) was a 'sham $1 billion loan' designed by Chase (p. 3)."
+    "notes": "A Citigroup official warned: 'The GAAP accounting is aggressive and a franchise risk to us if there is publicity.' (p. 3). Useful for 'Follow the Money' lens. Slapshot (June 22, 2001) was a 'sham $1 billion loan' designed by Chase (p. 3).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-074",
@@ -1633,7 +1777,9 @@
     "event_date": "1997/2001",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Read from page images (OCR not ready). Six selected transactions: Hawaii 125-0, Cerberus, Nikita (FAS 140), Backbone, SO2, Destec."
+    "notes": "Read from page images (OCR not ready). Six selected transactions: Hawaii 125-0, Cerberus, Nikita (FAS 140), Backbone, SO2, Destec.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-075",
@@ -1656,7 +1802,9 @@
     "event_date": "2001-10-16",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The examiner is describing Enron's press release (not itself in the library). Lay's quoted words in the release: 'very confident in our strong earnings outlook' (p. 2). The later 10-Q (Nov 19) reported a Q3 net loss of $644 million after restatement adjustments (card below)."
+    "notes": "The examiner is describing Enron's press release (not itself in the library). Lay's quoted words in the release: 'very confident in our strong earnings outlook' (p. 2). The later 10-Q (Nov 19) reported a Q3 net loss of $644 million after restatement adjustments (card below).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-076",
@@ -1679,7 +1827,9 @@
     "event_date": "2001-10-16",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Powers (p. 30) says Lay announced the $1.2 billion reduction on the analyst conference call that day. Verified on page image."
+    "notes": "Powers (p. 30) says Lay announced the $1.2 billion reduction on the analyst conference call that day. Verified on page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-077",
@@ -1700,7 +1850,9 @@
     "event_date": "2001-11-19",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "$618M (Oct 16 release, per Batson and Nov 8 8-K Table 1) vs $644M (10-Q) vs $635M (Nov 8 8-K 'restated' Q3). Explain as: initial announcement $618M; the filed figure was $644M."
+    "notes": "$618M (Oct 16 release, per Batson and Nov 8 8-K Table 1) vs $644M (10-Q) vs $635M (Nov 8 8-K 'restated' Q3). Explain as: initial announcement $618M; the filed figure was $644M.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-078",
@@ -1721,7 +1873,9 @@
     "event_date": "2001-11-19",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Same statement first made in the Nov 8, 2001 8-K and press release."
+    "notes": "Same statement first made in the Nov 8, 2001 8-K and press release.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-079",
@@ -1742,7 +1896,9 @@
     "event_date": "2001-10/2001-11",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Key link: trading depended on credit, credit depended on confidence."
+    "notes": "Key link: trading depended on credit, credit depended on confidence.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-080",
@@ -1763,7 +1919,9 @@
     "event_date": "2001-11-19",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "'Going concern' needs a glossary entry."
+    "notes": "'Going concern' needs a glossary entry.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-081",
@@ -1786,7 +1944,9 @@
     "event_date": "2001-10-31",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Oct 22 announcement and Oct 24 Fastow leave: Powers pp. 30-31 (PDF 36-37); Batson First Interim p. 4. Powers timeline: '10/24/2001 Andrew Fastow Placed on Leave; Jeff McMahon Named CFO.'"
+    "notes": "Oct 22 announcement and Oct 24 Fastow leave: Powers pp. 30-31 (PDF 36-37); Batson First Interim p. 4. Powers timeline: '10/24/2001 Andrew Fastow Placed on Leave; Jeff McMahon Named CFO.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-082",
@@ -1807,7 +1967,9 @@
     "event_date": "2001-10-25/2001-12-02",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Read from page image. No individuals named here."
+    "notes": "Read from page image. No individuals named here.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-083",
@@ -1830,7 +1992,9 @@
     "event_date": "2001-11-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The 8-K itself: sections 1-2, printed pp. 3-4 (lines 51-175)."
+    "notes": "The 8-K itself: sections 1-2, printed pp. 3-4 (lines 51-175).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-084",
@@ -1851,7 +2015,9 @@
     "event_date": "2001-11-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "These totals include prior-year audit adjustments. The 8-K Table 1 (p. 4) gives the same totals with components: JEDI/Chewco (45),(107),(153),(91); LJM1 (95) 1999,(8) 2000; audit adjustments (51),(6),(2),(33); net income restated $9M (1997), $590M, $643M, $847M. Also +$17M Q1 2001, +$5M Q2 2001, -$17M Q3 2001. Batson (Final p. 16; First Interim p. 5) calls it an aggregate reduction of $586 million."
+    "notes": "These totals include prior-year audit adjustments. The 8-K Table 1 (p. 4) gives the same totals with components: JEDI/Chewco (45),(107),(153),(91); LJM1 (95) 1999,(8) 2000; audit adjustments (51),(6),(2),(33); net income restated $9M (1997), $590M, $643M, $847M. Also +$17M Q1 2001, +$5M Q2 2001, -$17M Q3 2001. Batson (Final p. 16; First Interim p. 5) calls it an aggregate reduction of $586 million.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-085",
@@ -1872,7 +2038,9 @@
     "event_date": "2001-11-19",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "THREE VERSIONS EXIST. (1) 8-K/press release Nov 8: reductions 96/113/250/132. (2) 10-Q Nov 19: reductions 79/139/258/137 (components: JEDI/Chewco 28/133/153/91; LJM1 0/0/95/8; audit adj 51/6/10/38). (3) Powers exec summary (p. 3): 28/133/248/99, i.e., Chewco+LJM1 only, excluding audit adjustments, and equity reductions 258/391/710/754. JCT Table 6 (p. 82, PDF 110) reproduces the 10-Q version and totals the net-income adjustment at -$573M for 1997-Q2 2001. Recommend: use the 10-Q (latest) numbers and footnote that the Nov 8 estimates differed. Debt increases are identical in all versions."
+    "notes": "THREE VERSIONS EXIST. (1) 8-K/press release Nov 8: reductions 96/113/250/132. (2) 10-Q Nov 19: reductions 79/139/258/137 (components: JEDI/Chewco 28/133/153/91; LJM1 0/0/95/8; audit adj 51/6/10/38). (3) Powers exec summary (p. 3): 28/133/248/99, i.e., Chewco+LJM1 only, excluding audit adjustments, and equity reductions 258/391/710/754. JCT Table 6 (p. 82, PDF 110) reproduces the 10-Q version and totals the net-income adjustment at -$573M for 1997-Q2 2001. Recommend: use the 10-Q (latest) numbers and footnote that the Nov 8 estimates differed. Debt increases are identical in all versions.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verified 10-Q restatement table (lines ~990-1062): restated NI 26/564/635/842; equity 5,309/6,600/8,724/10,289."
   },
   {
     "id": "A-086",
@@ -1893,7 +2061,9 @@
     "event_date": "2001-11",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Excludes the audit adjustments included in Enron's own figures. Powers: 'These announcements destroyed market confidence and investor trust in Enron. Less than one month later, Enron filed for bankruptcy.' (p. 3)"
+    "notes": "Excludes the audit adjustments included in Enron's own figures. Powers: 'These announcements destroyed market confidence and investor trust in Enron. Less than one month later, Enron filed for bankruptcy.' (p. 3)",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-087",
@@ -1914,7 +2084,9 @@
     "event_date": "2001-11-19",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "DISAGREEMENT: the First Interim Report (p. 7, PDF 9) says 'Approximately $13 billion' came through SPEs; the Final Report says 'Approximately $14 billion.' The First Interim table subtotal of the first six categories is $13.787 billion. Say 'about $13-14 billion.' First Interim n. 23: the examiner 'has formed no opinion' on whether these obligations are properly classified as debt. The eight-category table (Final p. 17, PDF 20) is good chart data."
+    "notes": "DISAGREEMENT: the First Interim Report (p. 7, PDF 9) says 'Approximately $13 billion' came through SPEs; the Final Report says 'Approximately $14 billion.' The First Interim table subtotal of the first six categories is $13.787 billion. Say 'about $13-14 billion.' First Interim n. 23: the examiner 'has formed no opinion' on whether these obligations are properly classified as debt. The eight-category table (Final p. 17, PDF 20) is good chart data.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker. Image-checked Batson Final pp. 16-17 (PDF 19-20)."
   },
   {
     "id": "A-088",
@@ -1937,7 +2109,9 @@
     "event_date": "2001-11-09",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The filing itself contains NO merger terms; the exhibits (press release, merger agreement, etc.) are not in the library. 'Dynergy' is a typo in the original filing; if quoted, keep it or use [sic]. Signed by Causey, dated November 14, 2001. Merger terms come from the 10-Q (next cards)."
+    "notes": "The filing itself contains NO merger terms; the exhibits (press release, merger agreement, etc.) are not in the library. 'Dynergy' is a typo in the original filing; if quoted, keep it or use [sic]. Signed by Causey, dated November 14, 2001. Merger terms come from the 10-Q (next cards).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-089",
@@ -1958,7 +2132,9 @@
     "event_date": "2001-11-09",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "JCT (p. 83, PDF 111) describes it as a '$9 billion stock-for-stock acquisition' and n. 129 says Dynegy was also to assume about $13 billion of Enron debt, citing a bankruptcy motion."
+    "notes": "JCT (p. 83, PDF 111) describes it as a '$9 billion stock-for-stock acquisition' and n. 129 says Dynegy was also to assume about $13 billion of Enron debt, citing a bankruptcy motion.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-090",
@@ -1979,7 +2155,9 @@
     "event_date": "2001-11-13",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "JCT (p. 84) says the $1.5 billion came through ChevronTexaco (which owned about 27% of Dynegy). The 10-Q (p. 14) also reports Lay waived about $60.6 million in change-of-control payments tied to the merger."
+    "notes": "JCT (p. 84) says the $1.5 billion came through ChevronTexaco (which owned about 27% of Dynegy). The 10-Q (p. 14) also reports Lay waived about $60.6 million in change-of-control payments tied to the merger.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "A-091",
@@ -2000,7 +2178,9 @@
     "event_date": "2001-11-28",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Why it ended is disputed: Batson First Interim n. 21 (p. 6, PDF 8) says Dynegy abandoned the merger 'allegedly because of undisclosed liabilities of Enron' and Enron sued for more than $10 billion. No library document gives Dynegy's own stated reason; write 'Dynegy withdrew' and 'Enron claimed wrongful termination.' JCT p. 83 (PDF 111, image-read): stock fell from $34.30 on Oct 16, 2001 to $13.90 on Oct 31 and closed at $8.41 on Nov 8 (no footnote given for the prices)."
+    "notes": "Why it ended is disputed: Batson First Interim n. 21 (p. 6, PDF 8) says Dynegy abandoned the merger 'allegedly because of undisclosed liabilities of Enron' and Enron sued for more than $10 billion. No library document gives Dynegy's own stated reason; write 'Dynegy withdrew' and 'Enron claimed wrongful termination.' JCT p. 83 (PDF 111, image-read): stock fell from $34.30 on Oct 16, 2001 to $13.90 on Oct 31 and closed at $8.41 on Nov 8 (no footnote given for the prices).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-092",
@@ -2021,7 +2201,9 @@
     "event_date": "2001-12-02",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Date confirmed by Batson Final p. 1 (PDF 4, 'the Petition Date'), Powers p. 32, PSI Fishtail p. 1. Only the Kopper SEC complaint says December 3 (flagged). JCT n. 134: the liabilities figure did not reflect off-balance-sheet and contingent obligations. JCT: largest U.S. bankruptcy until WorldCom (July 21, 2002) (p. 58)."
+    "notes": "Date confirmed by Batson Final p. 1 (PDF 4, 'the Petition Date'), Powers p. 32, PSI Fishtail p. 1. Only the Kopper SEC complaint says December 3 (flagged). JCT n. 134: the liabilities figure did not reflect off-balance-sheet and contingent obligations. JCT: largest U.S. bankruptcy until WorldCom (July 21, 2002) (p. 58).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-093",
@@ -2042,7 +2224,9 @@
     "event_date": "2002-08-15",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Court approval date (Aug 29, 2002) and $63 million escrow release are from Batson First Interim n. 21 (p. 6, PDF 8). Dynegy exercised the Northern Natural option (JCT n. 130, p. 84)."
+    "notes": "Court approval date (Aug 29, 2002) and $63 million escrow release are from Batson First Interim n. 21 (p. 6, PDF 8). Dynegy exercised the Northern Natural option (JCT n. 130, p. 84).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-094",
@@ -2063,7 +2247,9 @@
     "event_date": "2002-01-17",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Timeline material. Also on p. 85: the bankruptcy court approved Neal Batson's appointment as examiner on May 24, 2002."
+    "notes": "Timeline material. Also on p. 85: the bankruptcy court approved Neal Batson's appointment as examiner on May 24, 2002.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-095",
@@ -2086,7 +2272,9 @@
     "event_date": "2002-05-24",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Report dates: First Interim Sept 21, 2002; Second Interim Jan 21, 2003; Third Interim June 30, 2003; Final Nov 4, 2003 (Final p. 2, PDF 5). Second and Third Interim are NOT in the library. The First Interim Report (p. 12, PDF 14) adds that the examiner used Alston & Bird as counsel and Plante & Moran plus two Emory accounting professors as accounting advisers."
+    "notes": "Report dates: First Interim Sept 21, 2002; Second Interim Jan 21, 2003; Third Interim June 30, 2003; Final Nov 4, 2003 (Final p. 2, PDF 5). Second and Third Interim are NOT in the library. The First Interim Report (p. 12, PDF 14) adds that the examiner used Alston & Bird as counsel and Plante & Moran plus two Emory accounting professors as accounting advisers.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-096",
@@ -2107,12 +2295,14 @@
     "event_date": "2002-09-21",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Nice transition line from Chapter 3 to Chapter 5, or to the banks."
+    "notes": "Nice transition line from Chapter 3 to Chapter 5, or to the banks.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "A-097",
     "topic": "Examiner: Final Report conclusions on Lay and Skilling (summary only)",
-    "claim": "In his Final Report the examiner concluded there was sufficient evidence for a fact-finder to conclude that Lay and Skilling, as officers, breached fiduciary duties by failing to respond to 'red flags' about misuse of SPEs, and, as directors, by approving the Rhythms and certain Raptor hedges. He found insufficient evidence of the same oversight failure by the outside directors.",
+    "claim": "In his Final Report the examiner concluded there was sufficient evidence for a fact-finder to conclude that Lay and Skilling, as officers, breached fiduciary duties by failing to respond to 'red flags' about misuse of SPEs, and, as directors, by approving the Rhythms and certain Raptor hedges. He did not find sufficient evidence that the outside directors abdicated their oversight role or consciously disregarded red flags, but he did conclude a fact-finder could find that certain outside directors breached their duty of good faith in approving the Rhythms and certain Raptor hedges.",
     "quote": "There is sufficient evidence from which a fact-finder could conclude that Kenneth Lay (“Lay”), Enron’s Chairman and Chief Executive Officer, and Jeffrey Skilling (“Skilling”), Enron’s President and Chief Operating Officer, in their capacities as officers, breached their fiduciary duties",
     "source_id": "batson-final",
     "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
@@ -2131,6 +2321,8 @@
     "event_date": "2003-11-04",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Quote verified on page image PDF p. 12. Civil-liability standard, not a criminal finding. Skilling invoked the Fifth Amendment with the examiner; Lay gave a one-day unsworn interview (n. 15). Mainly for Reader B / Cast; included because it is in the Final Report's summary of conclusions, which this brief covers."
+    "notes": "Quote verified on page image PDF p. 12. Civil-liability standard, not a criminal finding. Skilling invoked the Fifth Amendment with the examiner; Lay gave a one-day unsworn interview (n. 15). Mainly for Reader B / Cast; included because it is in the Final Report's summary of conclusions, which this brief covers.",
+    "checked": "FIXED",
+    "checker_note": "Claim was incomplete in a way that could mislead readers about the outside directors. Batson Final pp. 10-11 (PDF 13-14, image-checked) also concludes there is sufficient evidence for a fact-finder to conclude that CERTAIN outside directors breached their duty of good faith in approving the Rhythms and certain Raptor hedges. Added that. Civil standard only."
   }
 ]

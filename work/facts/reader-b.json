@@ -20,7 +20,9 @@
     "event_date": "1986",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Dates of service are background facts in an SEC complaint; attribute to the SEC. Batson App. D (p. 11, PDF 13) gives the same picture: Lay became Chairman and CEO in 1986, CEO until Feb 2001, returned Aug 2001, resigned Jan 2002 (Batson cites press articles and an interview for these). line numbers refer to work/text/sec-lay-complaint.txt"
+    "notes": "Dates of service are background facts in an SEC complaint; attribute to the SEC. Batson App. D (p. 11, PDF 13) gives the same picture: Lay became Chairman and CEO in 1986, CEO until Feb 2001, returned Aug 2001, resigned Jan 2002 (Batson cites press articles and an interview for these). line numbers refer to work/text/sec-lay-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-002",
@@ -43,7 +45,9 @@
     "event_date": "1986",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "This biographical section is background, not an examiner 'conclusion'; Batson's footnotes cite newspaper articles (Houston Chronicle, Wall Street Journal) and a Wilmer Cutler interview memo for it. Batson (p. 9, PDF 11) says Lay 'joined the predecessor of Enron in 1984'. skilling-scotus-2010 (p. 368) calls Lay 'the company's founder' and says Enron was 'Founded in 1985'. Checked against page image."
+    "notes": "This biographical section is background, not an examiner 'conclusion'; Batson's footnotes cite newspaper articles (Houston Chronicle, Wall Street Journal) and a Wilmer Cutler interview memo for it. DATE DISAGREEMENT: Batson says InterNorth acquired HNG 'in May 1985'; the JCT report (rpt-jct-vol1 p. 59, PDF 87) says July 1, 1985 (reported as effective June 1, 1985 for financial reporting, p. 60). Use July 1, 1985 (JCT) and do not use Batson for the date. Batson (p. 9, PDF 11) says Lay 'joined the predecessor of Enron in 1984'. skilling-scotus-2010 (p. 368) calls Lay 'the company's founder' and says Enron was 'Founded in 1985'. Checked against page image.",
+    "checked": "FIXED",
+    "checker_note": "Added a source disagreement to notes: Batson App. D (p. 11, citing a newspaper article) dates the InterNorth-HNG acquisition to May 1985; the JCT report (p. 59, PDF 87, image-checked) gives July 1, 1985 (effective June 1, 1985 for financial reporting). Use the JCT date."
   },
   {
     "id": "B-003",
@@ -68,7 +72,9 @@
     "event_date": "2004-07-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Civil Action No. H-04-0284 (Harmon). Spotlight lists 'SEC Charges Kenneth L. Lay ... with Fraud and Insider Trading (Litigation Release No. 18776, July 8, 2004)'. The library does not show how the SEC's civil case against Lay ended. line numbers refer to work/text/sec-lay-complaint.txt"
+    "notes": "Civil Action No. H-04-0284 (Harmon). Spotlight lists 'SEC Charges Kenneth L. Lay ... with Fraud and Insider Trading (Litigation Release No. 18776, July 8, 2004)'. The library does not show how the SEC's civil case against Lay ended. line numbers refer to work/text/sec-lay-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-004",
@@ -91,7 +97,9 @@
     "event_date": "2001-09-26",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Quote is the SEC's quotation of Lay; present it as 'the SEC alleged Lay told employees ...'. The DOJ press release (doj-lay-charged-press, lines ~140-152) describes the same forum. line numbers refer to work/text/sec-lay-complaint.txt"
+    "notes": "Quote is the SEC's quotation of Lay; present it as 'the SEC alleged Lay told employees ...'. The DOJ press release (doj-lay-charged-press, lines ~140-152) describes the same forum. line numbers refer to work/text/sec-lay-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-005",
@@ -114,7 +122,9 @@
     "event_date": "2001",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Figures differ across sources, apparently because they cover different periods: PSI report says Lay used the credit line to obtain 'over $77 million' Oct 2000-Oct 2001; Batson App. D says 'over $94 million' borrowed May 1999-Oct 2001; DOJ press says 918,104 shares sold Aug 21-Oct 26, 2001 to repay $26,025,000. Writers should give the period with each figure. line numbers refer to work/text/sec-lay-complaint.txt"
+    "notes": "Figures differ across sources, apparently because they cover different periods: PSI report says Lay used the credit line to obtain 'over $77 million' Oct 2000-Oct 2001; Batson App. D says 'over $94 million' borrowed May 1999-Oct 2001; DOJ press says 918,104 shares sold Aug 21-Oct 26, 2001 to repay $26,025,000. Writers should give the period with each figure. line numbers refer to work/text/sec-lay-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-006",
@@ -137,7 +147,9 @@
     "event_date": "2004-07-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The press release itself says 'Criminal indictments are only charges and not evidence of guilt' (line 209). The same release later refers to 'four counts with bank fraud and making false statements to three banks' (1 bank fraud + 3 false statements). Lay surrendered to the FBI in Houston that morning. line numbers refer to work/text/doj-lay-charged-press.txt"
+    "notes": "The press release itself says 'Criminal indictments are only charges and not evidence of guilt' (line 209). The same release later refers to 'four counts with bank fraud and making false statements to three banks' (1 bank fraud + 3 false statements). Lay surrendered to the FBI in Houston that morning. line numbers refer to work/text/doj-lay-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-007",
@@ -160,7 +172,9 @@
     "event_date": "2001",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "DOJ press also states the indictment alleged that in the two months before Sept 26, 2001 Lay 'actually purchased $4 million in Enron stock while also selling $24 million in Enron stock through nonpublic transactions'. The SEC complaint describes the same period as 'net sales of over $20 million'. Not a contradiction ($24M sold minus $4M bought), but writers should not mix the figures. line numbers refer to work/text/doj-lay-charged-press.txt"
+    "notes": "DOJ press also states the indictment alleged that in the two months before Sept 26, 2001 Lay 'actually purchased $4 million in Enron stock while also selling $24 million in Enron stock through nonpublic transactions'. The SEC complaint describes the same period as 'net sales of over $20 million'. Not a contradiction ($24M sold minus $4M bought), but writers should not mix the figures. line numbers refer to work/text/doj-lay-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-008",
@@ -183,7 +197,9 @@
     "event_date": "2002-02-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Lay took the oath ('Mr. LAY. I do.') before reading this statement. He also said: 'I respectfully ask you not to draw a negative inference' (p. 26, PDF 30). Invoking the Fifth is not evidence of guilt; say so on the site. line numbers refer to work/text/hrg-commerce-lay-powers.txt"
+    "notes": "Lay took the oath ('Mr. LAY. I do.') before reading this statement. He also said: 'I respectfully ask you not to draw a negative inference' (p. 26, PDF 30). Invoking the Fifth is not evidence of guilt; say so on the site. line numbers refer to work/text/hrg-commerce-lay-powers.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-009",
@@ -206,7 +222,9 @@
     "event_date": "2003-09-29",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Spotlight gives release titles only; the releases themselves are not in the library. line numbers refer to work/text/sec-enron-spotlight.txt"
+    "notes": "Spotlight gives release titles only; the releases themselves are not in the library. line numbers refer to work/text/sec-enron-spotlight.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-010",
@@ -229,7 +247,9 @@
     "event_date": "2006-05",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Do not stop here: see next card. The verdict was later vacated after Lay's death. line numbers refer to work/text/ca5-skilling-2009.txt"
+    "notes": "Do not stop here: see next card. The verdict was later vacated after Lay's death. line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-011",
@@ -252,7 +272,9 @@
     "event_date": "2006-07-05",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Footnote cites United States v. Lay, 456 F. Supp. 2d 869, 870 (S.D. Tex. 2006), which is NOT in the library. The site must say Lay's conviction was vacated, so he does not stand convicted in law. The library does not say whether Lay had filed an appeal. line numbers refer to work/text/ca5-skilling-2009.txt"
+    "notes": "Footnote cites United States v. Lay, 456 F. Supp. 2d 869, 870 (S.D. Tex. 2006), which is NOT in the library. The site must say Lay's conviction was vacated, so he does not stand convicted in law. The library does not say whether Lay had filed an appeal. line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-012",
@@ -276,12 +298,14 @@
     "event_date": "2003-11-04",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Civil standard (fiduciary duty), not criminal guilt. Batson's wording is 'sufficient evidence for a fact-finder to conclude'; keep that hedge. Restated in VII. Conclusions, p. 178-179 (PDF 180-181). Checked against page image."
+    "notes": "Civil standard (fiduciary duty), not criminal guilt. Batson's wording is 'sufficient evidence for a fact-finder to conclude'; keep that hedge. Restated in VII. Conclusions, p. 178-179 (PDF 180-181). Checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-013",
     "topic": "Lay/Skilling/directors: examiner conclusion on Rhythms and Raptors",
-    "claim": "Batson concluded there was sufficient evidence for a fact-finder to conclude that Lay, Skilling and the outside directors breached their duty of good faith by authorizing the Rhythms hedge (June 1999) and three Raptor hedges (May-August 2000), which he found had no rational business purpose.",
+    "claim": "Batson concluded there was sufficient evidence for a fact-finder to conclude that Lay, Skilling and the outside directors who were on the Board at the time breached their duty of good faith by authorizing the Rhythms hedge (June 1999) and three Raptor hedges (May-August 2000), which he found had no rational business purpose.",
     "quote": "Lay, Skilling and the Outside Directors who were members of the Board in June 1999, breached their fiduciary duty of good faith in authorizing Enron to enter into the Rhythms hedging transaction;",
     "source_id": "batson-final-app-d",
     "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
@@ -301,7 +325,9 @@
     "event_date": "2003-11-04",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The examiner says 'an inference can be drawn that they acted in bad faith' (p. 7). This is a civil finding in the bankruptcy case, not a criminal charge. Checked against page image."
+    "notes": "The examiner says 'an inference can be drawn that they acted in bad faith' (p. 7). This is a civil finding in the bankruptcy case, not a criminal charge. Checked against page image.",
+    "checked": "FIXED",
+    "checker_note": "Claim tightened: the examiner's conclusion covers only the outside directors who were on the Board at the time of each approval (June 1999 for Rhythms; May-August 2000 for the three Raptors), not all outside directors. The Final Report summary (p. 11) says 'certain of the Outside Directors'. Verified against page image PDF 9."
   },
   {
     "id": "B-014",
@@ -325,7 +351,9 @@
     "event_date": "2003-11-04",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "If voided, Lay would owe $94,267,163 plus interest and Skilling $2,000,042 plus interest (p. 180, PDF 182). The p. 7 summary says Skilling 'repaid $2 million'; the p. 179 conclusion says 'approximately $2 million'. Checked against page image of p. 179."
+    "notes": "If voided, Lay would owe $94,267,163 plus interest and Skilling $2,000,042 plus interest (p. 180, PDF 182). The p. 7 summary says Skilling 'repaid $2 million'; the p. 179 conclusion says 'approximately $2 million'. Checked against page image of p. 179.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-015",
@@ -348,7 +376,9 @@
     "event_date": "2003-10-18",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The interview is dated Oct. 18, 2003 (footnote 3). Checked against page image."
+    "notes": "The interview is dated Oct. 18, 2003 (footnote 3). Checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-016",
@@ -371,7 +401,9 @@
     "event_date": "2002-07-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Detail at p. 50 (PDF 54): 'In the 1-year period from October 2000 to October 2001, Mr. Lay used the credit line to obtain over $77 million in cash from the company and repaid the loans exclusively with Enron stock.' The report says: 'the U.S. Senate Permanent Subcommittee on Investigations makes the following findings'. The manifest calls it a staff report. Lines ~267-300 and 3274-3290 of work/text/rpt-psi-board.txt."
+    "notes": "Detail at p. 50 (PDF 54): 'In the 1-year period from October 2000 to October 2001, Mr. Lay used the credit line to obtain over $77 million in cash from the company and repaid the loans exclusively with Enron stock.' The report says: 'the U.S. Senate Permanent Subcommittee on Investigations makes the following findings'. The manifest calls it a staff report. Lines ~267-300 and 3274-3290 of work/text/rpt-psi-board.txt.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-017",
@@ -394,7 +426,9 @@
     "event_date": "2001-08-14",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Sources differ on when Skilling became President/COO: the SEC First Amended Complaint (Feb 2004, para. 7) says December 1996; the indictment and SEC Second Amended Complaint (July 2004, para. 8) say January 1997; CA5 (p. 2) says 1997 and adds that he joined the Board then. The SEC First Amended Complaint also misprints his middle initial as 'Jeffrey A. Skilling' (para. 7). Checked against page image. line numbers refer to work/text/doj-skilling-indictment.txt"
+    "notes": "Sources differ on when Skilling became President/COO: the SEC First Amended Complaint (Feb 2004, para. 7) says December 1996; the indictment and SEC Second Amended Complaint (July 2004, para. 8) say January 1997; CA5 (p. 2) says 1997 and adds that he joined the Board then. The SEC First Amended Complaint also misprints his middle initial as 'Jeffrey A. Skilling' (para. 7). Checked against page image. line numbers refer to work/text/doj-skilling-indictment.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-018",
@@ -418,7 +452,9 @@
     "event_date": "1990",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Batson App. D (p. 12, PDF 14) says he joined 'the Enron Finance unit, a division reportedly created for him' (citing press). CA5 (p. 2) says he 'founded Enron's Wholesale business in 1990'. Consistent in date, different in wording. line numbers refer to work/text/skilling-scotus-2010.txt"
+    "notes": "Batson App. D (p. 12, PDF 14) says he joined 'the Enron Finance unit, a division reportedly created for him' (citing press). CA5 (p. 2) says he 'founded Enron's Wholesale business in 1990'. Consistent in date, different in wording. line numbers refer to work/text/skilling-scotus-2010.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-019",
@@ -442,7 +478,9 @@
     "event_date": "2004-02-19",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Civil Action No. H-04-0284 (Harmon). Spotlight: 'SEC Charges Jeffrey K. Skilling ... With Fraud (Litigation Release No. 18582, Feb. 19, 2004)'. Lay was added later in the Second Amended Complaint (July 2004). The library does not show how the SEC's civil case against Skilling ended. line numbers refer to work/text/sec-skilling-causey-complaint.txt"
+    "notes": "Civil Action No. H-04-0284 (Harmon). Spotlight: 'SEC Charges Jeffrey K. Skilling ... With Fraud (Litigation Release No. 18582, Feb. 19, 2004)'. Lay was added later in the Second Amended Complaint (July 2004). The library does not show how the SEC's civil case against Skilling ended. line numbers refer to work/text/sec-skilling-causey-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-020",
@@ -465,7 +503,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "DISAGREEMENT: the DOJ press release of Feb 19, 2004 says the indictment alleged Skilling 'was paid more than $8 million in salary and bonuses' (vs SEC 'more than $14 million'). The SEC Second Amended Complaint (July 2004, para. 1) says Skilling made 'at least $103 million' in illicit gains. Attribute each figure to its source. line numbers refer to work/text/sec-skilling-causey-complaint.txt"
+    "notes": "DISAGREEMENT: the DOJ press release of Feb 19, 2004 says the indictment alleged Skilling 'was paid more than $8 million in salary and bonuses' (vs SEC 'more than $14 million'). The SEC Second Amended Complaint (July 2004, para. 1) says Skilling made 'at least $103 million' in illicit gains. Attribute each figure to its source. line numbers refer to work/text/sec-skilling-causey-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-021",
@@ -488,7 +528,9 @@
     "event_date": "2004-02-19",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Count totals changed later: CA5 (p. 15) describes the July 2004 superseding indictment as charging Skilling with 1 conspiracy count, 14 securities fraud, 4 wire fraud, 6 false representations to auditors and 10 insider trading counts. SCOTUS says 'more than 25 substantive counts'. Give the date with any count total. line numbers refer to work/text/doj-skilling-charged-press.txt"
+    "notes": "Count totals changed later: CA5 (p. 15) describes the July 2004 superseding indictment as charging Skilling with 1 conspiracy count, 14 securities fraud, 4 wire fraud, 6 false representations to auditors and 10 insider trading counts. SCOTUS says 'more than 25 substantive counts'. Give the date with any count total. line numbers refer to work/text/doj-skilling-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-022",
@@ -511,7 +553,9 @@
     "event_date": "2001-09-17",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Quote corrected from the noisy text layer and checked against page image p. 51. The figure matches the SEC complaint para. 64 ($62,626,401.90). The Sept 17, 2001 sale appears as Count 40 (p. 52). line numbers refer to work/text/doj-skilling-indictment.txt"
+    "notes": "Quote corrected from the noisy text layer and checked against page image p. 51. The figure matches the SEC complaint para. 64 ($62,626,401.90). The Sept 17, 2001 sale appears as Count 40 (p. 52). line numbers refer to work/text/doj-skilling-indictment.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker. Image-checked PDF 51-52. Reminder for writers: at trial Skilling was convicted on one insider-trading count and acquitted on nine (B-025)."
   },
   {
     "id": "B-023",
@@ -534,7 +578,9 @@
     "event_date": "2002-02-26",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "He also said 'I never duped Ken Lay' (p. 18, PDF 22). The oath is at lines 717-722. line numbers refer to work/text/hrg-commerce-skilling-watkins.txt"
+    "notes": "He also said 'I never duped Ken Lay' (p. 18, PDF 22). The oath is at lines 717-722. line numbers refer to work/text/hrg-commerce-skilling-watkins.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-024",
@@ -557,7 +603,9 @@
     "event_date": "2003",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Checked against page image."
+    "notes": "Checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-025",
@@ -580,7 +628,9 @@
     "event_date": "2006-05",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "SCOTUS (p. 375, PDF 18) agrees: 'guilty of 19 counts ... and not guilty of 9 insider-trading counts' after a four-month trial. Before trial the government dropped four counts involving Causey and, at the close of its case, four more (CA5 p. 15). line numbers refer to work/text/ca5-skilling-2009.txt"
+    "notes": "SCOTUS (p. 375, PDF 18) agrees: 'guilty of 19 counts ... and not guilty of 9 insider-trading counts' after a four-month trial. Before trial the government dropped four counts involving Causey and, at the close of its case, four more (CA5 p. 15). line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-026",
@@ -603,7 +653,9 @@
     "event_date": "2006",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "292 months is about 24 years 4 months (arithmetic, not from the source). This sentence was later vacated by CA5 (see next card). The library does not contain the resentencing or its result. line numbers refer to work/text/ca5-skilling-2009.txt"
+    "notes": "292 months is about 24 years 4 months (arithmetic, not from the source). This sentence was later vacated by CA5 (see next card). The library does not contain the resentencing or its result. line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-027",
@@ -626,7 +678,9 @@
     "event_date": "2009-01-06",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/ca5-skilling-2009.txt"
+    "notes": "line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-028",
@@ -649,7 +703,9 @@
     "event_date": "2010-06-24",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "IMPORTANT: The Court did NOT reverse his conviction outright. It left for the lower court 'whether the error here was harmless' and 'whether reversal on the conspiracy count would touch any of Skilling's other convictions' (Syllabus p. 366; opinion p. 414, PDF 57). The library does not show what happened on remand. Do not say his convictions were overturned. Syllabus is not part of the opinion; the opinion's own holding is at p. 414. line numbers refer to work/text/skilling-scotus-2010.txt"
+    "notes": "IMPORTANT: The Court did NOT reverse his conviction outright. It left for the lower court 'whether the error here was harmless' and 'whether reversal on the conspiracy count would touch any of Skilling's other convictions' (Syllabus p. 366; opinion p. 414, PDF 57). The library does not show what happened on remand. Do not say his convictions were overturned. Syllabus is not part of the opinion; the opinion's own holding is at p. 414. line numbers refer to work/text/skilling-scotus-2010.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-029",
@@ -672,7 +728,9 @@
     "event_date": "1998-03",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/sec-fastow-complaint.txt"
+    "notes": "line numbers refer to work/text/sec-fastow-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-030",
@@ -695,7 +753,9 @@
     "event_date": "2002-10-02",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Date from Spotlight: 'Andrew S. Fastow (Litigation Release No. 17762 ... Oct. 2, 2002)'; page footer 'Modified: 10/02/2002'. Spotlight also lists an earlier 'Subpoena Enforcement Action against Andrew S. Fastow (Litigation Release No. 17270, Dec. 13, 2001)'. line numbers refer to work/text/sec-fastow-complaint.txt"
+    "notes": "Date from Spotlight: 'Andrew S. Fastow (Litigation Release No. 17762 ... Oct. 2, 2002)'; page footer 'Modified: 10/02/2002'. Spotlight also lists an earlier 'Subpoena Enforcement Action against Andrew S. Fastow (Litigation Release No. 17270, Dec. 13, 2001)'. line numbers refer to work/text/sec-fastow-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-031",
@@ -719,7 +779,9 @@
     "event_date": "1997-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/sec-fastow-complaint.txt"
+    "notes": "line numbers refer to work/text/sec-fastow-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-032",
@@ -742,7 +804,9 @@
     "event_date": "2004-01-14",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Title only; terms of the settlement are not in the library. line numbers refer to work/text/sec-enron-spotlight.txt"
+    "notes": "Title only; terms of the settlement are not in the library. line numbers refer to work/text/sec-enron-spotlight.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-033",
@@ -765,7 +829,9 @@
     "event_date": "2004-02-19",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "GAP: the library does not say whether Fastow pleaded guilty or was tried, what he was convicted of, or his sentence. Say only that DOJ reported him as convicted by February 2004. CA5 (p. 15) shows he testified as a government witness at Skilling's trial. line numbers refer to work/text/doj-skilling-charged-press.txt"
+    "notes": "GAP: the library does not say whether Fastow pleaded guilty or was tried, what he was convicted of, or his sentence. Say only that DOJ reported him as convicted by February 2004. CA5 (p. 15) shows he testified as a government witness at Skilling's trial. line numbers refer to work/text/doj-skilling-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-034",
@@ -790,7 +856,9 @@
     "event_date": "2006",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/ca5-skilling-2009.txt"
+    "notes": "line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-035",
@@ -815,7 +883,9 @@
     "event_date": "2002-02-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The transcript does not show Powers being sworn (unlike Lay earlier that day). Say 'Powers told the committee', not 'under oath'. The underlying finding is the Powers Report's (Reader A's source). line numbers refer to work/text/hrg-commerce-lay-powers.txt"
+    "notes": "The transcript does not show Powers being sworn (unlike Lay earlier that day). Say 'Powers told the committee', not 'under oath'. The underlying finding is the Powers Report's (Reader A's source). line numbers refer to work/text/hrg-commerce-lay-powers.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-036",
@@ -843,7 +913,9 @@
     "event_date": "2003",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The list is in footnote 10 (p. 4). It also names David Delainey, Kenneth D. Rice, Lou L. Pai and others. Checked against page image. Pleading the Fifth is not evidence of guilt."
+    "notes": "The list is in footnote 10 (p. 4). It also names David Delainey, Kenneth D. Rice, Lou L. Pai and others. Checked against page image. Pleading the Fifth is not evidence of guilt.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-037",
@@ -866,7 +938,9 @@
     "event_date": "2001-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The Kopper complaint refers to Fastow only as 'Enron's CFO'; the Fastow complaint (para. 9) names Fastow. The Skilling indictment (p. 5) calls Kopper 'former Enron Global Finance Managing Director'. line numbers refer to work/text/sec-kopper-complaint.txt"
+    "notes": "The Kopper complaint refers to Fastow only as 'Enron's CFO'; the Fastow complaint (para. 9) names Fastow. The Skilling indictment (p. 5) calls Kopper 'former Enron Global Finance Managing Director'. line numbers refer to work/text/sec-kopper-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-038",
@@ -889,7 +963,9 @@
     "event_date": "2002-08-21",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Civil Action No. H-02-3127. Spotlight dates it Aug. 21, 2002 (Lit. Rel. 17692). line numbers refer to work/text/sec-kopper-complaint.txt"
+    "notes": "Civil Action No. H-02-3127. Spotlight dates it Aug. 21, 2002 (Lit. Rel. 17692). line numbers refer to work/text/sec-kopper-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-039",
@@ -912,7 +988,9 @@
     "event_date": "2002-08-21",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Source is an SEC complaint describing Kopper's plea as a matter of record, not the plea agreement itself (not in library). Attribute: 'according to the SEC'. The DOJ press release of Feb 19, 2004 also lists Kopper among defendants 'convicted to date'. GAP: Kopper's sentence is not in the library. line numbers refer to work/text/sec-fastow-complaint.txt"
+    "notes": "Source is an SEC complaint describing Kopper's plea as a matter of record, not the plea agreement itself (not in library). Attribute: 'according to the SEC'. The DOJ press release of Feb 19, 2004 also lists Kopper among defendants 'convicted to date'. GAP: Kopper's sentence is not in the library. line numbers refer to work/text/sec-fastow-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-040",
@@ -936,7 +1014,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Minor disagreement between SEC complaints: Kopper complaint says Kopper caused Chewco to loan another $750,000; Fastow complaint para. 65 says $680,000. Payments were made about May 1, 2000 (Fastow complaint para. 65). line numbers refer to work/text/sec-kopper-complaint.txt"
+    "notes": "Minor disagreement between SEC complaints: Kopper complaint says Kopper caused Chewco to loan another $750,000; Fastow complaint para. 65 says $680,000. Payments were made about May 1, 2000 (Fastow complaint para. 65). line numbers refer to work/text/sec-kopper-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-041",
@@ -959,7 +1039,9 @@
     "event_date": "1998",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Same facts in the indictment para. 7 (p. 4). line numbers refer to work/text/sec-skilling-causey-complaint.txt"
+    "notes": "Same facts in the indictment para. 7 (p. 4). line numbers refer to work/text/sec-skilling-causey-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-042",
@@ -982,7 +1064,9 @@
     "event_date": "2004-01-22",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/sec-enron-spotlight.txt"
+    "notes": "line numbers refer to work/text/sec-enron-spotlight.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-043",
@@ -1005,7 +1089,9 @@
     "event_date": "2004-07-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Feb 2004 counts from doj-skilling-charged-press lines 26-29. line numbers refer to work/text/doj-lay-charged-press.txt"
+    "notes": "Feb 2004 counts from doj-skilling-charged-press lines 26-29. line numbers refer to work/text/doj-lay-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-044",
@@ -1028,7 +1114,9 @@
     "event_date": "2005-12-28",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "CA5 p. 15: 'Causey pleaded guilty to one count of securities fraud'. GAP: Causey's sentence is not in the library. line numbers refer to work/text/skilling-scotus-2010.txt"
+    "notes": "CA5 p. 15: 'Causey pleaded guilty to one count of securities fraud'. GAP: Causey's sentence is not in the library. line numbers refer to work/text/skilling-scotus-2010.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-045",
@@ -1051,7 +1139,9 @@
     "event_date": "2007-02-09",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Title only. line numbers refer to work/text/sec-enron-spotlight.txt"
+    "notes": "Title only. line numbers refer to work/text/sec-enron-spotlight.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-046",
@@ -1075,7 +1165,9 @@
     "event_date": "1999",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The Fastow complaint does not name the CAO, but the SEC's Skilling/Causey complaint (para. 8) identifies Causey as CAO from 1998. CA5 (p. 15) says Skilling 'questioned the validity of the so-called Global Galactic list' at trial. line numbers refer to work/text/sec-fastow-complaint.txt"
+    "notes": "The Fastow complaint does not name the CAO, but the SEC's Skilling/Causey complaint (para. 8) identifies Causey as CAO from 1998. CA5 (p. 15) says Skilling 'questioned the validity of the so-called Global Galactic list' at trial. line numbers refer to work/text/sec-fastow-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-047",
@@ -1098,7 +1190,9 @@
     "event_date": "2001-11",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/sec-glisan-complaint.txt"
+    "notes": "line numbers refer to work/text/sec-glisan-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-048",
@@ -1121,7 +1215,9 @@
     "event_date": "2003-09-10",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Civil Action No. H-03-3628; Lit. Rel. 18335 (Spotlight). The library does not show how the SEC case ended. line numbers refer to work/text/sec-glisan-complaint.txt"
+    "notes": "Civil Action No. H-03-3628; Lit. Rel. 18335 (Spotlight). The library does not show how the SEC case ended. line numbers refer to work/text/sec-glisan-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-049",
@@ -1145,7 +1241,9 @@
     "event_date": "2004-07-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "GAP: the charge, whether by plea or verdict, and the sentence are not in the library. CA5 shows Glisan testified for the government at the Skilling trial. line numbers refer to work/text/doj-lay-charged-press.txt"
+    "notes": "GAP: the charge, whether by plea or verdict, and the sentence are not in the library. CA5 shows Glisan testified for the government at the Skilling trial. line numbers refer to work/text/doj-lay-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-050",
@@ -1168,7 +1266,9 @@
     "event_date": "2004-02-19",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The SEC charged Delainey Oct. 30, 2003 (Spotlight line 91). No details of plea or sentence in library. line numbers refer to work/text/doj-skilling-charged-press.txt"
+    "notes": "The SEC charged Delainey Oct. 30, 2003 (Spotlight line 91). No details of plea or sentence in library. line numbers refer to work/text/doj-skilling-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-051",
@@ -1191,7 +1291,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Role from Spotlight (line 63): 'Former Executive Vice-President and Director of Investor Relations at Enron', SEC charged Aug. 25, 2004. Date of plea not in library. line numbers refer to work/text/ca5-skilling-2009.txt"
+    "notes": "Role from Spotlight (line 63): 'Former Executive Vice-President and Director of Investor Relations at Enron', SEC charged Aug. 25, 2004. Date of plea not in library. line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-052",
@@ -1214,7 +1316,9 @@
     "event_date": "2007-06-20",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Title at hearing: hrg-commerce-skilling-watkins lines 706-709 (PDF 14). Batson App. D p. 1 (PDF 3) says the Third Interim Report found sufficient evidence that McMahon, with Causey, Fastow and Glisan, breached fiduciary duties. The Third Interim Report is NOT in the library (known gap), so cite only App. D's summary. Outcome of SEC case not in library. line numbers refer to work/text/sec-enron-spotlight.txt"
+    "notes": "Title at hearing: hrg-commerce-skilling-watkins lines 706-709 (PDF 14). Batson App. D p. 1 (PDF 3) says the Third Interim Report found sufficient evidence that McMahon, with Causey, Fastow and Glisan, breached fiduciary duties. The Third Interim Report is NOT in the library (known gap), so cite only App. D's summary. Outcome of SEC case not in library. line numbers refer to work/text/sec-enron-spotlight.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-053",
@@ -1240,13 +1344,15 @@
     "event_date": "2003-11-04",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "This is App. D's summary of the Third Interim Report (not in library). Civil standard. Checked against page image."
+    "notes": "This is App. D's summary of the Third Interim Report (not in library). Civil standard. Checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-054",
     "topic": "Watkins: role and background",
     "claim": "Sherron Watkins told the Senate Commerce Committee under oath that she was an Enron Vice President and a CPA since 1983. She had spent eight years at Arthur Andersen, was hired by Fastow in 1993 to manage the JEDI partnership with CalPERS, and worked directly for Fastow from mid/late June to August 2001.",
-    "quote": "I have been a certified public account- ant since 1983.",
+    "quote": "I have been a certified public accountant since 1983.",
     "source_id": "hrg-commerce-skilling-watkins",
     "file": "sources/05-hearings-enron/shrg-107-1141-collapse-of-enron-corp-2002-02-26.pdf",
     "locator": {
@@ -1264,7 +1370,9 @@
     "event_date": "2002-02-26",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Quote spans a line-break hyphen in the transcript ('account-/ant'); publish as 'certified public accountant since 1983'. Her title at the hearing: 'Vice President of Corporate Development' (line 706). Background continues p. 11 (PDF 15). line numbers refer to work/text/hrg-commerce-skilling-watkins.txt"
+    "notes": "Quote spans a line-break hyphen in the transcript ('account-/ant'); publish as 'certified public accountant since 1983'. Her title at the hearing: 'Vice President of Corporate Development' (line 706). Background continues p. 11 (PDF 15). line numbers refer to work/text/hrg-commerce-skilling-watkins.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim."
   },
   {
     "id": "B-055",
@@ -1288,7 +1396,9 @@
     "event_date": "2001-08-15",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The letter's text is not reproduced in this hearing record. Senators quoted phrases from her memo (e.g., Sen. Dorgan: 'we will implode in a wave of accounting scandals', lines 1357-1358, PDF 25). If quoting those phrases, attribute them as a senator's quotation of her memo, which Watkins did not dispute; better still, find the memo in another library document. line numbers refer to work/text/hrg-commerce-skilling-watkins.txt"
+    "notes": "The letter's text is not reproduced in this hearing record. Senators quoted phrases from her memo (e.g., Sen. Dorgan: 'we will implode in a wave of accounting scandals', lines 1357-1358, PDF 25). If quoting those phrases, attribute them as a senator's quotation of her memo, which Watkins did not dispute; better still, find the memo in another library document. line numbers refer to work/text/hrg-commerce-skilling-watkins.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-056",
@@ -1312,7 +1422,9 @@
     "event_date": "2001-08-22",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "She also said she 'fully expected Mr. Lay to conduct a thorough investigation' and was 'disappointed that such was not the case'. That is her opinion under oath. Lay did not testify (see Lay Fifth Amendment card). line numbers refer to work/text/hrg-commerce-skilling-watkins.txt"
+    "notes": "She also said she 'fully expected Mr. Lay to conduct a thorough investigation' and was 'disappointed that such was not the case'. That is her opinion under oath. Lay did not testify (see Lay Fifth Amendment card). line numbers refer to work/text/hrg-commerce-skilling-watkins.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-057",
@@ -1335,7 +1447,9 @@
     "event_date": "2001-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/hrg-commerce-skilling-watkins.txt"
+    "notes": "line numbers refer to work/text/hrg-commerce-skilling-watkins.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-058",
@@ -1358,7 +1472,9 @@
     "event_date": "2002-02-26",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Absence of evidence only: do NOT write 'never charged'. Write 'The library documents show no charges against her.'"
+    "notes": "Absence of evidence only: do NOT write 'never charged'. Write 'The library documents show no charges against her.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Absence-of-evidence card; no quote needed. Writers must use the exact wording 'The library documents show no charges against her.'"
   },
   {
     "id": "B-059",
@@ -1381,7 +1497,9 @@
     "event_date": "1997",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Complaint filed 01/28/2008, Case 4:08-cv-00314. Text layer is noisy; checked against page image."
+    "notes": "Complaint filed 01/28/2008, Case 4:08-cv-00314. Text layer is noisy; checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-060",
@@ -1404,7 +1522,9 @@
     "event_date": "2008-01-28",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Checked against page image. Relief sought was only an injunction (p. 16)."
+    "notes": "Checked against page image. Relief sought was only an injunction (p. 16).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-061",
@@ -1427,13 +1547,15 @@
     "event_date": "2008-01-28",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Terms not in library. Same date: administrative proceedings against Andersen CPAs Thomas H. Bauer, Michael Lowther, Michael Odom (Spotlight lines ~34-38). line numbers refer to work/text/sec-enron-spotlight.txt"
+    "notes": "Terms not in library. Same date: administrative proceedings against Andersen CPAs Thomas H. Bauer, Michael Lowther, Michael Odom (Spotlight lines ~34-38). line numbers refer to work/text/sec-enron-spotlight.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-062",
     "topic": "Duncan: Fifth Amendment before Congress",
     "claim": "On January 24, 2002, appearing under subpoena and sworn before a House Energy and Commerce subcommittee investigating Andersen's destruction of Enron documents, Duncan declined on his counsel's advice to answer questions, citing his constitutional protection.",
-    "quote": "on the advice of my counsel I respectfully de- cline to answer the question based on the protection afforded me under the Constitution of the United States.",
+    "quote": "on the advice of my counsel I respectfully decline to answer the question based on the protection afforded me under the Constitution of the United States.",
     "source_id": "hrg-hec-andersen-shredding",
     "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
     "locator": {
@@ -1450,7 +1572,9 @@
     "event_date": "2002-01-24",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Transcript hyphenates 'de-/cline'; publish as 'decline'. The chairman's statement that Duncan 'was fired by Andersen' for orchestrating document destruction is a congressman's assertion, not a finding; do not state it as fact. GAP: Duncan's criminal case (if any) is not in the library. line numbers refer to work/text/hrg-hec-andersen-shredding.txt"
+    "notes": "Transcript hyphenates 'de-/cline'; publish as 'decline'. The chairman's statement that Duncan 'was fired by Andersen' for orchestrating document destruction is a congressman's assertion, not a finding; do not state it as fact. GAP: Duncan's criminal case (if any) is not in the library. line numbers refer to work/text/hrg-hec-andersen-shredding.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim."
   },
   {
     "id": "B-063",
@@ -1475,7 +1599,9 @@
     "event_date": "1999-02-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The report notes the talking-points copy 'was not provided to the Audit Committee during the meeting' (n. 31). Duncan did not make himself available to explain the note. Jaedicke testified he did not recall being told practices 'push limits' (see Jaedicke card). line numbers refer to work/text/rpt-psi-board.txt"
+    "notes": "The report notes the talking-points copy 'was not provided to the Audit Committee during the meeting' (n. 31). Duncan did not make himself available to explain the note. Jaedicke testified he did not recall being told practices 'push limits' (see Jaedicke card). line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-064",
@@ -1498,12 +1624,14 @@
     "event_date": "2005-05-31",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Library copy is the Syllabus only; cite as 'Syllabus'. The heading reads '374 F.3d 281, reversed and remanded.' The Syllabus does not describe the firm's collapse or what happened after remand. It concerns the firm, not Duncan personally. line numbers refer to work/text/andersen-scotus.txt"
+    "notes": "Library copy is the Syllabus only; cite as 'Syllabus'. The heading reads '374 F.3d 281, reversed and remanded.' The Syllabus does not describe the firm's collapse or what happened after remand. It concerns the firm, not Duncan personally. line numbers refer to work/text/andersen-scotus.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-065",
     "topic": "Berardino: role and testimony",
-    "claim": "Joseph Berardino, CEO of Arthur Andersen LLP, testified under oath to the House Financial Services Committee on February 5, 2002, his second appearance (the first was in mid-December 2001). He announced changes, including an Independent Oversight Board chaired by Paul Volcker.",
+    "claim": "Joseph Berardino, CEO of Arthur Andersen LLP, testified under oath to the House Financial Services Committee on February 5, 2002; he referred to an earlier appearance before the committee. He announced changes, including an Independent Oversight Board chaired by Paul Volcker.",
     "quote": "former Federal Reserve Board Chairman Paul Volcker has agreed to chair an Independent Oversight Board to work with us in the U.S.",
     "source_id": "hrg-hfs-enron-investors",
     "file": "sources/05-hearings-enron/hhrg-107-51-pt2-enron-collapse-investors-2002-02-04.pdf",
@@ -1521,13 +1649,15 @@
     "event_date": "2002-02-05",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "'[Witness sworn.]' appears on p. 119. The date is inferred from the transcript: the testimony follows the 'TUESDAY, FEBRUARY 5, 2002' heading (line 6912). Document not in my brief's list; used only because Berardino is in the brief's list of people. No library document shows any charge against Berardino; do not write 'never charged'. line numbers refer to work/text/hrg-hfs-enron-investors.txt"
+    "notes": "'[Witness sworn.]' appears on p. 119. The date is inferred from the transcript: the testimony follows the 'TUESDAY, FEBRUARY 5, 2002' heading (line 6912). Document not in my brief's list; used only because Berardino is in the brief's list of people. No library document shows any charge against Berardino; do not write 'never charged'. line numbers refer to work/text/hrg-hfs-enron-investors.txt",
+    "checked": "FIXED",
+    "checker_note": "Removed '(the first was in mid-December 2001)': the library contains no transcript of Berardino's earlier appearance. The Feb 2002 transcript shows only that he said 'When I last appeared before this committee' and that members referred to a Dec 12, 2001 subcommittee hearing; it does not say Berardino testified on that date."
   },
   {
     "id": "B-066",
     "topic": "Berardino: views on audit reports",
     "claim": "In the same testimony Berardino argued that the pass/fail auditor's report gives the same unqualified opinion to statements that 'push the edge of the accounting envelope' as to prudent ones.",
-    "quote": "Financial statements prepared by man- agement that comply with GAAP but push the edge of the account- ing envelope,",
+    "quote": "Financial statements prepared by management that comply with GAAP but push the edge of the accounting envelope,",
     "source_id": "hrg-hfs-enron-investors",
     "file": "sources/05-hearings-enron/hhrg-107-51-pt2-enron-collapse-investors-2002-02-04.pdf",
     "locator": {
@@ -1544,7 +1674,9 @@
     "event_date": "2002-02-05",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Remove transcript hyphens when publishing ('management', 'accounting'). line numbers refer to work/text/hrg-hfs-enron-investors.txt"
+    "notes": "Remove transcript hyphens when publishing ('management', 'accounting'). line numbers refer to work/text/hrg-hfs-enron-investors.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim."
   },
   {
     "id": "B-067",
@@ -1567,13 +1699,15 @@
     "event_date": "2002-02-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "No oath is shown for Powers in the transcript. Use 'told the committee', not 'testified under oath'. line numbers refer to work/text/hrg-commerce-lay-powers.txt"
+    "notes": "No oath is shown for Powers in the transcript. Use 'told the committee', not 'testified under oath'. line numbers refer to work/text/hrg-commerce-lay-powers.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-068",
     "topic": "Powers: main finding as he summarized it",
     "claim": "Powers told the committee that his investigation found a 'systematic and pervasive attempt' by Enron management to misrepresent the company's financial condition.",
-    "quote": "We found a systematic and pervasive attempt by Enron’s management to misrepresent the company’s financial con- dition.",
+    "quote": "We found a systematic and pervasive attempt by Enron’s management to misrepresent the company’s financial condition.",
     "source_id": "hrg-commerce-lay-powers",
     "file": "sources/05-hearings-enron/shrg-107-773-collapse-of-enron-2002-02-12.pdf",
     "locator": {
@@ -1590,7 +1724,9 @@
     "event_date": "2002-02-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Remove hyphen ('condition') on publication. line numbers refer to work/text/hrg-commerce-lay-powers.txt"
+    "notes": "Remove hyphen ('condition') on publication. line numbers refer to work/text/hrg-commerce-lay-powers.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim."
   },
   {
     "id": "B-069",
@@ -1613,7 +1749,9 @@
     "event_date": "2003-11-04",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Date from manifest (2003-11-04). Checked against page image (OCR misreads 'et al.' as 'ez al.')."
+    "notes": "Date from manifest (2003-11-04). Checked against page image (OCR misreads 'et al.' as 'ez al.').",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-070",
@@ -1638,7 +1776,9 @@
     "event_date": "2003-11-04",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Good for 'how we know' boxes. Checked against page image."
+    "notes": "Good for 'how we know' boxes. Checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-071",
@@ -1661,7 +1801,9 @@
     "event_date": "2002-07-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Six findings in total (fiduciary failure, high-risk accounting, conflicts of interest, off-the-books activity, excessive compensation, lack of independence), pp. 3-4 (PDF 7-8). line numbers refer to work/text/rpt-psi-board.txt"
+    "notes": "Six findings in total (fiduciary failure, high-risk accounting, conflicts of interest, off-the-books activity, excessive compensation, lack of independence), pp. 3-4 (PDF 7-8). line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-072",
@@ -1686,13 +1828,15 @@
     "event_date": "1999-06-28",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "June 28, 1999: p. 24 (PDF 28), line ~1607. Oct 11, 1999 Finance Committee approval, Oct 12 board approval: p. 26 (PDF 30), lines 1744-1749. line numbers refer to work/text/rpt-psi-board.txt"
+    "notes": "June 28, 1999: p. 24 (PDF 28), line ~1607. Oct 11, 1999 Finance Committee approval, Oct 12 board approval: p. 26 (PDF 30), lines 1744-1749. line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-073",
     "topic": "Directors: interviewed and testified",
     "claim": "Subcommittee staff interviewed 13 past and present directors in April 2002. All appeared voluntarily and were represented by the same counsel. On May 7, 2002, five directors testified under oath: Norman Blake Jr., John H. Duncan, Herbert Winokur Jr., Robert Jaedicke and Charles LeMaistre.",
-    "quote": "All Board members appeared voluntarily, and all were rep- resented by the same legal counsel.",
+    "quote": "All Board members appeared voluntarily, and all were represented by the same legal counsel.",
     "source_id": "rpt-psi-board",
     "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
     "locator": {
@@ -1721,13 +1865,15 @@
     "event_date": "2002-04",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Oath: hrg-psi-board lines 1259-1269 (PDF 23). Director John H. Duncan is NOT Andersen's David Duncan; keep them distinct on the site. Blake and Winokur resigned from the board June 6, 2002 (PSI n. 1). line numbers refer to work/text/rpt-psi-board.txt"
+    "notes": "Oath: hrg-psi-board lines 1259-1269 (PDF 23). Director John H. Duncan is NOT Andersen's David Duncan; keep them distinct on the site. Blake and Winokur resigned from the board June 6, 2002 (PSI n. 1). line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim. (B-073 and B-074: printed page offset in rpt-psi-board is PDF = printed + 4.)"
   },
   {
     "id": "B-074",
     "topic": "Directors: they rejected responsibility",
     "claim": "The subcommittee reported that all 13 interviewed directors disagreed with the Powers Report's conclusion that the board failed in its oversight, and that all five witnesses rejected any share of responsibility. It found that its investigation did not substantiate claims that the board challenged management.",
-    "quote": "The Subcommittee investigation did not substantiate the claims that the Enron Board members chal- lenged management and asked tough questions.",
+    "quote": "The Subcommittee investigation did not substantiate the claims that the Enron Board members challenged management and asked tough questions.",
     "source_id": "rpt-psi-board",
     "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
     "locator": {
@@ -1744,20 +1890,22 @@
     "event_date": "2002-07-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Hyphen in 'chal-lenged' comes from the transcript; remove on publication. line numbers refer to work/text/rpt-psi-board.txt"
+    "notes": "Hyphen in 'chal-lenged' comes from the transcript; remove on publication. line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim. (B-073 and B-074: printed page offset in rpt-psi-board is PDF = printed + 4.)"
   },
   {
     "id": "B-075",
     "topic": "John H. Duncan (director): testimony",
-    "claim": "Former Executive Committee chairman John H. Duncan testified that the directors worked hard, prepared for meetings and asked probing questions, and that management and Andersen knew of the problems but did not tell the board.",
+    "claim": "Former Executive Committee chairman John H. Duncan testified that the directors worked hard, prepared for meetings and asked probing questions. He said the Powers Report and press reports indicated that certain members of management and the outside auditors had known of the company's problems and did not tell the board.",
     "quote": "We worked hard. We prepared for meetings. We asked probing questions",
     "source_id": "hrg-psi-board",
     "file": "sources/05-hearings-enron/shrg-107-511-role-of-board-2002-05-07.pdf",
     "locator": {
-      "pdf_page": 25,
-      "printed_page": "p. 15",
+      "pdf_page": 24,
+      "printed_page": "p. 14",
       "section": "Testimony of John H. Duncan",
-      "lines": "1345-1346, 1420"
+      "lines": "1345-1346, 1415-1420"
     },
     "source_type": "sworn testimony",
     "verb": "testified",
@@ -1767,7 +1915,9 @@
     "event_date": "2002-05-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Printed page inferred from offset (PDF 29 = printed 19). Line 1420: 'the problems facing the company, and they did not tell us.' Director Blake used similar words ('We worked hard. We worked very hard.', line 2083). line numbers refer to work/text/hrg-psi-board.txt"
+    "notes": "Printed page inferred from offset (PDF 29 = printed 19). Line 1420: 'the problems facing the company, and they did not tell us.' Director Blake used similar words ('We worked hard. We worked very hard.', line 2083). line numbers refer to work/text/hrg-psi-board.txt",
+    "checked": "FIXED",
+    "checker_note": "Locator corrected: lines 1345-1346 and 1420 are on PDF p. 24 (printed p. 14), not PDF 25 / p. 15. Claim softened: Duncan said the Powers Report and press reports 'indicate' that certain members of management and the outside auditors knew of the problems; he did not assert it from his own knowledge."
   },
   {
     "id": "B-076",
@@ -1790,7 +1940,9 @@
     "event_date": "2002-05-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Role from rpt-psi-board p. 2 (PDF 6), lines 227-230. Winokur told Batson's lawyers: '[I]t's management's responsibility to tell me what I should know' (Batson App. D p. 6 n. 13, image-checked). line numbers refer to work/text/hrg-psi-board.txt"
+    "notes": "Role from rpt-psi-board p. 2 (PDF 6), lines 227-230. Winokur told Batson's lawyers: '[I]t's management's responsibility to tell me what I should know' (Batson App. D p. 6 n. 13, image-checked). line numbers refer to work/text/hrg-psi-board.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-077",
@@ -1813,13 +1965,15 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "DISAGREEMENT on service dates: PSI gives 1985-2001; Batson App. D chart (p. 32, PDF 34, image-checked) gives 1984 to March 2002, citing his sworn statement. Similar differences for John H. Duncan (PSI 1985-2001; Batson 1968-March 2002) and Blake (PSI 1994-2002; Batson 1993, but notes Blake testified 1994). Batson footnote 130 explains that pre-1985 dates refer to HNG or InterNorth boards. line numbers refer to work/text/rpt-psi-board.txt"
+    "notes": "DISAGREEMENT on service dates: PSI gives 1985-2001; Batson App. D chart (p. 32, PDF 34, image-checked) gives 1984 to March 2002, citing his sworn statement. Similar differences for John H. Duncan (PSI 1985-2001; Batson 1968-March 2002) and Blake (PSI 1994-2002; Batson 1993, but notes Blake testified 1994). Batson footnote 130 explains that pre-1985 dates refer to HNG or InterNorth boards. line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-078",
     "topic": "Jaedicke: testimony on 'high-risk'",
     "claim": "Asked under oath whether Andersen told the Audit Committee Enron used high-risk accounting, Jaedicke said the committee knew Enron was engaged in high-risk and innovative transactions, but that he never heard terms like 'form over substance'.",
-    "quote": "We knew that the company was engaged in high- risk and innovative transactions.",
+    "quote": "We knew that the company was engaged in high-risk and innovative transactions.",
     "source_id": "hrg-psi-board",
     "file": "sources/05-hearings-enron/shrg-107-511-role-of-board-2002-05-07.pdf",
     "locator": {
@@ -1837,7 +1991,9 @@
     "event_date": "2002-05-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Remove transcript hyphen ('high-risk'). Continuation p. 32 (PDF 42): 'form over substance, I never, ever heard that term used.' Printed page assumed from the PDF 29 = printed 19 offset. line numbers refer to work/text/hrg-psi-board.txt"
+    "notes": "Remove transcript hyphen ('high-risk'). Continuation p. 32 (PDF 42): 'form over substance, I never, ever heard that term used.' Printed page assumed from the PDF 29 = printed 19 offset. line numbers refer to work/text/hrg-psi-board.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim."
   },
   {
     "id": "B-079",
@@ -1862,7 +2018,9 @@
     "event_date": "2002-05-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The report quotes hearing testimony; the original is in hrg-psi-board (not located by line). line numbers refer to work/text/rpt-psi-board.txt"
+    "notes": "The report quotes hearing testimony. The transcript (hrg-psi-board, PDF p. 100, printed p. 90, lines 6041-6046) reads 'We had never had any responsibility to monitor this.' (the report drops 'had'). Prefer the transcript wording and citation. line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "FIXED",
+    "checker_note": "The Senate staff report's quotation differs slightly from the hearing transcript. Transcript (hrg-psi-board, PDF p. 100, printed p. 90, line 6041): 'We had never had any responsibility to monitor this.' If quoting LeMaistre, quote the transcript and cite hrg-psi-board PDF 100. Blake's words are also in the transcript at the same place."
   },
   {
     "id": "B-080",
@@ -1885,7 +2043,9 @@
     "event_date": "2003-11-04",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Also said officers 'often presented information to the Board ... in ways that obfuscated the facts'. Restated at p. 179 (PDF 181). Batson also notes Enron's charter had a director exculpation provision (p. 2, n. 2), so he did not try to reach conclusions on mere negligence by directors. Checked against page image."
+    "notes": "Also said officers 'often presented information to the Board ... in ways that obfuscated the facts'. Restated at p. 179 (PDF 181). Batson also notes Enron's charter had a director exculpation provision (p. 2, n. 2), so he did not try to reach conclusions on mere negligence by directors. Checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-081",
@@ -1908,7 +2068,9 @@
     "event_date": "2003",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Checked against page image (PDF p. 6)."
+    "notes": "Checked against page image (PDF p. 6).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "B-082",
@@ -1931,7 +2093,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Absence of evidence. The site may say 'The library documents show no charges against the outside directors'; it must not say 'never charged' or discuss civil settlements (not in library). Logged as gap."
+    "notes": "Absence of evidence. The site may say 'The library documents show no charges against the outside directors'; it must not say 'never charged' or discuss civil settlements (not in library). Logged as gap.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Absence-of-evidence card; no quote needed. Spotlight index reviewed: no outside director listed. Do not write 'never charged'."
   },
   {
     "id": "B-083",
@@ -1957,7 +2121,9 @@
     "event_date": "2003-03-17",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The file's header reads 'Complaint / February 12, 2003', but it is signed 'Dated: March ___, 2003', modified 03/17/2003, and listed in Spotlight as Mar. 17, 2003 (Lit. Rel. 18038). Use March 17, 2003. line numbers refer to work/text/sec-merrill-complaint.txt"
+    "notes": "The file's header reads 'Complaint / February 12, 2003', but it is signed 'Dated: March ___, 2003', modified 03/17/2003, and listed in Spotlight as Mar. 17, 2003 (Lit. Rel. 18038). Use March 17, 2003. line numbers refer to work/text/sec-merrill-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-084",
@@ -1983,7 +2149,9 @@
     "event_date": "2003-03-17",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Brief says to cover the Merrill executives only as the SEC complaint names them. Spotlight also lists 'Robert S. Furst, et al. (Litigation Release No. 21523, May 11, 2010)' with no description; outcome unknown from library. line numbers refer to work/text/sec-merrill-complaint.txt"
+    "notes": "Brief says to cover the Merrill executives only as the SEC complaint names them. Spotlight also lists 'Robert S. Furst, et al. (Litigation Release No. 21523, May 11, 2010)' with no description; outcome unknown from library. line numbers refer to work/text/sec-merrill-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-085",
@@ -2006,7 +2174,9 @@
     "event_date": "2006",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "CAUTION: the library does NOT name these defendants. Do not link Bayly, Davis, Furst or Tilney to this trial or reversal without a library source. Logged as gap. Also note that CA5 (p. 60) mentions government plea agreements with Merrill Lynch and CIBC (companies). line numbers refer to work/text/ca5-skilling-2009.txt"
+    "notes": "CAUTION: the library does NOT name these defendants. Do not link Bayly, Davis, Furst or Tilney to this trial or reversal without a library source. Logged as gap. Also note that CA5 (p. 60) mentions government plea agreements with Merrill Lynch and CIBC (companies). line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "B-086",
@@ -2030,6 +2200,8 @@
     "event_date": "2003-07-28",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Institutions, not individuals; included for context. No individual bankers are named in this release."
+    "notes": "Institutions, not individuals; included for context. No individual bankers are named in this release.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   }
 ]

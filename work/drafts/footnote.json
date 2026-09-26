@@ -14,7 +14,8 @@
       "quote": "this Report has been signed below on March 30,"
     },
     "verbatim_note": "Text copied exactly from the library file. Lines within each paragraph are joined, and runs of spaces (the filing's double spaces after periods) are collapsed to single spaces. Nothing else is changed, including the original's stray comma in '$371 million, merchant assets'.",
-    "sha256_checked": true
+    "sha256_checked": true,
+    "factcheck": "Note 16 text re-checked word for word against sources/03-sec-filings/enron-10k-fy2000.txt lines 5863-5962 (and context lines 5134-5143) by the Fact-Checker: matches after the stated whitespace normalization."
   },
   "intro": {
     "text": "Every annual report ends with notes that explain the numbers. Note 16 of Enron's report for 2000 is about one page long. It describes deals between Enron and partnerships run by one of its own top executives. The deals were disclosed, at least to some extent, yet almost no reader could tell what was going on. Below, the note appears in full, exactly as Enron filed it. Tap or hover over a highlighted phrase to see what it said in plain English, what it left out, and what the investigations later found.",
@@ -35,7 +36,9 @@
         "loc": "Powers Report, p. 197, VIII.D.2 Adequacy of Disclosures (lines 7024ff. of SEC text)",
         "quote": "they did not communicate the essence of the transactions in a sufficiently clear fashion to enable a reader of the financial statements to understand what was going on"
       }
-    ]
+    ],
+    "checked": "OK",
+    "checker_note": "Both Powers quotes verified verbatim."
   },
   "context_passages": [
     {
@@ -48,7 +51,7 @@
           "id": "ctx-01",
           "phrase": "contributed $33 million and $15 million, respectively, of equity to Whitewing",
           "said": "An earlier note says the Related Party put $33 million (2000) and $15 million (1999) into Whitewing.",
-          "left_out": "The investments were made through Osprey certificates, securities of an affiliate of Whitewing.",
+          "left_out": "The note does not say how the money went in. The amounts match the Related Party's purchases of certificates in Osprey Trust and Osprey Associates, which the board's special committee lists as equity in a limited partner or an affiliate of Whitewing. No source says in so many words that these are the same payments.",
           "found": "The board's special committee's table lists LJM purchases of Osprey certificates of $15 million (September 1999), $26 million (July 2000) and $6.5 million (October 2000). The 2000 figures add up to $32.5 million, close to the $33 million in the note.",
           "cites": [
             {
@@ -78,7 +81,9 @@
           ],
           "glossary_terms": [
             "unconsolidated-affiliate"
-          ]
+          ],
+          "checked": "FIXED",
+          "checker_note": "FIXED. 'left_out' stated as fact that the contributions were made through Osprey certificates. The Powers table (p. 146) lists LJM purchases of Osprey equity described as equity in a limited partner / an affiliate of Whitewing, and the amounts match ($15M; $26M + $6.5M = $32.5M), but no source states the link. Hedged the wording."
         }
       ]
     },
@@ -121,7 +126,9 @@
           ],
           "glossary_terms": [
             "warrant"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         }
       ]
     }
@@ -183,7 +190,9 @@
             "related-party-transaction",
             "form-10-k",
             "notes-to-financial-statements"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. Batson citation image-checked (Final Report PDF 6)."
         }
       ]
     },
@@ -220,7 +229,9 @@
             "limited-partnership",
             "general-partner",
             "related-party-transaction"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-03",
@@ -287,7 +298,9 @@
             "chief-financial-officer",
             "general-partner",
             "proxy-statement"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. PSI p. 33 also says 'Nor had any other Board member taken any steps to obtain this information', which supports 'no board member'."
         },
         {
           "id": "fn-04",
@@ -362,13 +375,15 @@
           "glossary_terms": [
             "limited-partnership",
             "related-party-transaction"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-05",
           "phrase": "Management believes that the terms of the transactions with the Related Party were reasonable compared to those which could have been negotiated with unrelated third parties.",
           "said": "Enron's managers said the deals were about as good as deals with outsiders would have been. This is the claim that the deals were made \"at arm's length,\" between independent parties.",
-          "left_out": "The note does not show any evidence for the claim. It also does not show that the wording had been weakened from one filing to the next. In 1999, Enron said the terms were \"reasonable and no less favorable\" than outside deals. In 2000, it said only that they were \"reasonable compared to\" what could have been negotiated.",
+          "left_out": "The note does not show any evidence for the claim. It also does not show how the wording had changed over time. In its mid-1999 quarterly reports, Enron said the terms were \"reasonable and no less favorable\" than outside deals. The wording changed several times after that. In the 2000 annual report it said only that the terms were \"reasonable compared to\" what could have been negotiated.",
           "found": "The board's special committee found that Enron \"lacked the factual basis required by the accounting literature\" for this sentence. It noted that drafts had handwritten notes reading \"need positive evidence.\" It found that \"many of them could only have been entered into with related parties.\" The committee also found that Andersen, Enron's auditor, told the board's Audit and Compliance Committee that the required disclosure had been \"reviewed for adequacy.\"",
           "cites": [
             {
@@ -410,13 +425,23 @@
               "pdf_source_id": "powers-report",
               "loc": "Powers Report, p. 25, Summary of Findings, The Participants (Andersen) (lines 1100ff. of SEC text)",
               "quote": "reviewed for adequacy,\" and that Andersen would issue an unqualified audit opinion"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 202,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 196, VIII.D.1, Assertions That Transactions Were Arm's-Length (lines 6979ff. of SEC text)",
+              "quote": "Enron stated in the 10-Q for the second and third quarters of 1999 that \"[m]anagement believes that the terms of the transactions were reasonable and no less favorable than the terms of similar arrangements with unrelated third parties.\""
             }
           ],
           "glossary_terms": [
             "arms-length",
             "auditor",
             "audit-committee"
-          ]
+          ],
+          "checked": "FIXED",
+          "checker_note": "FIXED. The old text said the 1999 wording was 'reasonable and no less favorable' and implied a single change to the 2000 wording. Powers (p. 196, lines 6979-6993) shows that wording was in the Q2 and Q3 1999 10-Qs; the 1999 10-K actually dropped 'reasonable'; Q1 2000 restored it in another form; the 2000 10-K used 'reasonable compared to'. Rewrote to 'mid-1999 quarterly reports' and 'changed several times', and added the citation (verbatim)."
         }
       ]
     },
@@ -464,7 +489,9 @@
             "hedge",
             "merchant-investment",
             "mark-to-market"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. Batson citations image-checked (Final Report PDF 13 n. 17; PDF 22 n. 41)."
         },
         {
           "id": "fn-07",
@@ -509,7 +536,9 @@
             "special-purpose-entity",
             "balance-sheet",
             "consolidation"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-08",
@@ -554,7 +583,9 @@
             "notes-payable",
             "restricted-stock",
             "common-stock"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-09",
@@ -599,7 +630,9 @@
             "warrant",
             "equity-method",
             "derivative"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-10",
@@ -638,14 +671,16 @@
             "basis",
             "fairness-opinion",
             "initial-public-offering"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-11",
           "phrase": "a special distribution from the Entities in the form of $1.2 billion in notes receivable",
           "said": "The note says Enron received another $1.2 billion in IOUs from the Entities.",
           "left_out": "The note does not say how these IOUs were recorded, or that the Entities could repay them mainly out of the Enron stock Enron had given them.",
-          "found": "The investigations do not tie this exact $1.2 billion figure to one transaction. The board's special committee did find a related error. Enron had recorded the $172 million note it received for Enron shares sold to Talon (Raptor I) as an increase to \"notes receivable\" and to shareholders' equity, the owners' stake shown on the balance sheet. Andersen and Enron later concluded that this was wrong, and it was corrected in 2001. (This is separate from the $1.2 billion cut to shareholders' equity that Enron announced in October 2001.)",
+          "found": "The investigations do not tie this exact $1.2 billion figure to one transaction. The board's special committee did find a related error. Enron had recorded the $172 million note it received for Enron shares sold to Talon (Raptor I) as an increase to \"notes receivable\" and to shareholders' equity, the owners' stake shown on the balance sheet. It made similar entries for $828 million of notes from Raptors II and IV in March 2001. Andersen and Enron later concluded that this was wrong. Correcting it removed $1 billion ($172 million plus $828 million) from shareholders' equity, and that correction made up most of the $1.2 billion cut to shareholders' equity that Enron announced in October 2001. The sources do not say whether that $1.2 billion and the $1.2 billion in this sentence are the same.",
           "cites": [
             {
               "source_id": "powers-report-sec",
@@ -670,12 +705,22 @@
               "pdf_source_id": "powers-report",
               "loc": "Powers Report, p. 98, V. The Raptors (lines 3647ff. of SEC text)",
               "quote": "Enron also reported that same day that it would reduce shareholder equity by $1.2 billion."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 132,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 126, V.E, footnote 60 (lines 4600ff. of SEC text)",
+              "quote": "One billion dollars of this reduction was due to correcting the overstatement of shareholders' equity that had been discovered in August."
             }
           ],
           "glossary_terms": [
             "notes-receivable",
             "shareholders-equity"
-          ]
+          ],
+          "checked": "FIXED",
+          "checker_note": "FIXED. The old text said the $172 million correction was 'separate from the $1.2 billion cut to shareholders' equity that Enron announced in October 2001.' The Powers Report says the opposite: the $172M (Raptor I) + $828M (Raptors II and IV) correction made up $1 billion of that $1.2 billion reduction (p. 98, lines 3647-3651; pp. 125-126 and n. 60, lines 4569-4612). Rewrote the last sentences and added the n. 60 citation (verbatim)."
         },
         {
           "id": "fn-12",
@@ -695,7 +740,9 @@
           "glossary_terms": [
             "demand-note",
             "notes-payable"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-13",
@@ -756,7 +803,9 @@
             "put-option",
             "option",
             "share-settled"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-14",
@@ -785,7 +834,9 @@
           "glossary_terms": [
             "option",
             "share-settled"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-15",
@@ -830,7 +881,9 @@
             "collar",
             "credit-capacity",
             "equity-transaction"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         }
       ]
     },
@@ -866,7 +919,9 @@
           "glossary_terms": [
             "derivative",
             "notional-amount"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-17",
@@ -920,7 +975,9 @@
             "revenue",
             "pre-tax-earnings",
             "net-income"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. Batson citation image-checked (Final Report PDF 42). The same page gives Andersen's 2000 fees as $47.9 million."
         },
         {
           "id": "fn-18",
@@ -966,7 +1023,9 @@
             "credit-capacity",
             "reserve",
             "price-risk-management"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. Note for writers: the $544 million after-tax figure is Enron's Oct 16, 2001 announcement (Powers p. 98). Enron's Q3 10-Q later put the Raptor charge at $462 million after tax (10-Q line 3673); the $710 million pre-tax figure is not disputed."
         },
         {
           "id": "fn-19",
@@ -986,7 +1045,9 @@
           ],
           "glossary_terms": [
             "interest-income"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         }
       ]
     },
@@ -1054,7 +1115,9 @@
           "glossary_terms": [
             "special-purpose-entity",
             "lock-up"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. PSI p. 25 confirms 'the entire meeting lasted 1 hour'."
         },
         {
           "id": "fn-21",
@@ -1075,7 +1138,9 @@
           "glossary_terms": [
             "forward-contract",
             "gaap"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-22",
@@ -1119,7 +1184,9 @@
           "glossary_terms": [
             "restricted-stock",
             "stock-split"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-23",
@@ -1157,7 +1224,9 @@
             "hedge",
             "restatement",
             "consolidation"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-24",
@@ -1185,7 +1254,9 @@
           "glossary_terms": [
             "pecuniary-interest",
             "code-of-conduct"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-25",
@@ -1215,7 +1286,9 @@
             "put-option",
             "strike-price",
             "in-the-money"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-26",
@@ -1282,7 +1355,9 @@
           "glossary_terms": [
             "fairness-opinion",
             "unwind"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         }
       ]
     },
@@ -1350,7 +1425,9 @@
             "dark-fiber",
             "notes-receivable",
             "quarter-end"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. Quote verbatim (text file has a page break inside it)."
         },
         {
           "id": "fn-28",
@@ -1385,7 +1462,9 @@
           ],
           "glossary_terms": [
             "gross-margin"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         }
       ]
     },
@@ -1438,7 +1517,9 @@
             "securitization",
             "merchant-investment",
             "counterparty"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-30",
@@ -1476,7 +1557,9 @@
             "put-option",
             "unconsolidated-affiliate",
             "trust"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. Batson citation image-checked (Final Report PDF 23)."
         }
       ]
     },
@@ -1528,7 +1611,9 @@
           "glossary_terms": [
             "merchant-investment",
             "side-deal"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-32",
@@ -1571,7 +1656,9 @@
           "glossary_terms": [
             "pre-tax-earnings",
             "mark-to-market"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         },
         {
           "id": "fn-33",
@@ -1592,7 +1679,9 @@
           "glossary_terms": [
             "unconsolidated-affiliate",
             "equity-method"
-          ]
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
         }
       ]
     }
@@ -1608,6 +1697,8 @@
         "quote": "The 10-Q filing demonstrates that Enron was quite capable of meaningful public disclosure when motivated."
       }
     ],
-    "ask_why": "Every sentence in Note 16 may have been accurate, yet readers still could not see what was happening. Is a disclosure honest if it is accurate but nobody can understand it? Who should be responsible for making it understandable: the company, its auditors, its lawyers, or its board?"
+    "ask_why": "Every sentence in Note 16 may have been accurate, yet readers still could not see what was happening. Is a disclosure honest if it is accurate but nobody can understand it? Who should be responsible for making it understandable: the company, its auditors, its lawyers, or its board?",
+    "checked": "OK",
+    "checker_note": "PSI quote verified verbatim at PDF 52."
   }
 }

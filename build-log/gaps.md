@@ -47,4 +47,15 @@ The coordinator merged the agents' own gap files (`work/facts/*-gaps.md`, which 
 ## Reader tips
 | Tip | Status |
 |---|---|
-| Warren Buffett read Enron's footnote, did not understand it, and threw away the 10-K | Pending the Fact-Checker's ruling (five hearing texts mention Buffett) |
+| Warren Buffett read Enron's footnote, did not understand it, and threw away the 10-K | **Excluded** by the Fact-Checker: 7 library documents mention Buffett, none about Enron's footnote or 10-K. See gap 25. |
+| At its peak, Enron was America's seventh-largest company | **Allowed, reworded**: "In 2001, Fortune magazine ranked Enron seventh on its list of the 500 largest U.S. companies, measured by revenue." (JCT p. 58; Batson Final n. 27). Not "at its peak" (JCT n. 53: fifth on the 2002 list), not "in the world." |
+
+## Added after Fact-Checker Round 1
+
+| # | Claim we wanted to make | Kind of document that would support it | Importance | Raised by | Status |
+|---|---|---|---|---|---|
+| 24 | Name Andersen's CEO as the speaker quoted from the Dec 12, 2001 hearing (Powers says only "Andersen's CEO") | Transcript of the Dec 12, 2001 House Financial Services hearing (govinfo.gov) | useful | Fact-Checker | open |
+| 25 | Buffett reader tip: that he read Enron's footnote, didn't understand it, and discarded the 10-K. Ruled **excluded**: 7 library documents mention Buffett, none on this subject | A first-hand record: Buffett's own sworn testimony or a Berkshire shareholder letter | minor | Fact-Checker | excluded from site; open |
+| 26 | Why the Kopper complaint gives Dec 3, 2001 for the bankruptcy when other sources say Dec 2 | Bankruptcy docket / petition (likely PACER) | minor | Fact-Checker | open |
+| 27 | Board minutes approving LJM2 (Oct 11 vs. Oct 12, 1999) | Enron board minutes (hearing exhibit) | minor | Fact-Checker | open |
+| 28 | Ratio of Enron's 1999 stock split (explains 6.8M vs. 3.4M Rhythms shares) | Enron 10-K for 1999 or an 8-K (sec.gov) | minor | Fact-Checker | open |

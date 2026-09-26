@@ -21,7 +21,9 @@
     "event_date": "2001-10-12",
     "from_ocr": false,
     "ocr_checked_against_image": true,
-    "notes": "Read directly from the page image (the text copy has no text for this exhibit page). Time stamp on the e-mail is hard to read; omit it. Temple testified she did not 'personally' decide the retention issue alone; Greenwood's opening says she was consulting superiors in Andersen's legal group (PDF p. 7). Temple was never shown as charged in any library document; describe her only as an Andersen lawyer."
+    "notes": "Read directly from the page image (the text copy has no text for this exhibit page). Time stamp on the e-mail is hard to read; omit it. Temple testified she did not 'personally' decide the retention issue alone; Greenwood's opening says she was consulting superiors in Andersen's legal group (PDF p. 7). Temple was never shown as charged in any library document; describe her only as an Andersen lawyer.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Image-checked PDF 49 (printed p. 45). E-mail header shows 10/12/2001 08:53 AM (time faint)."
   },
   {
     "id": "C-002",
@@ -47,7 +49,9 @@
     "event_date": "2001-10-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "NOT Duncan's own sworn words: Duncan invoked the Fifth Amendment at this hearing. This is Chairman Greenwood's characterization of what Duncan told staff; attribute it that way ('the subcommittee chairman said Duncan had told investigators...')."
+    "notes": "NOT Duncan's own sworn words: Duncan invoked the Fifth Amendment at this hearing. This is Chairman Greenwood's characterization of what Duncan told staff; attribute it that way ('the subcommittee chairman said Duncan had told investigators...').",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-003",
@@ -70,7 +74,9 @@
     "event_date": "2001-10",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Same caveat as C-002: second-hand account, not sworn testimony by Duncan."
+    "notes": "Same caveat as C-002: second-hand account, not sworn testimony by Duncan.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-004",
@@ -96,7 +102,9 @@
     "event_date": "2001-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Useful for Chapter 4 (warning signs). Second-hand account. Batson App. B (C-030) separately describes a $1 billion equity overstatement from the Raptor notes and says it is unrelated to the $1 billion earnings restatement of Oct 16, 2001; do not merge these figures without checking."
+    "notes": "Useful for Chapter 4 (warning signs). Second-hand account. Batson App. B (C-030) separately describes a $1 billion equity overstatement from the Raptor notes and says it is unrelated to the $1 billion earnings restatement of Oct 16, 2001; do not merge these figures without checking.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-005",
@@ -120,7 +128,9 @@
     "event_date": "2001-10-23",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Same summary says Causey asked Andersen on Oct 22 to help create documents explaining the related-party transactions to the SEC (Duncan's account only)."
+    "notes": "Same summary says Causey asked Andersen on Oct 22 to help create documents explaining the related-party transactions to the SEC (Duncan's account only).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-006",
@@ -144,7 +154,9 @@
     "event_date": "2001-11-09",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Second-hand account."
+    "notes": "Second-hand account.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-007",
@@ -167,7 +179,9 @@
     "event_date": "2002-01-24",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Duncan was sworn (PDF p. 30-31). Taking the Fifth is not evidence of guilt; say so on the site. How Duncan's own case ended is NOT covered by any document I read (the SEC complaint sec-duncan-complaint exists in the library but was not in my brief). See gaps file."
+    "notes": "Duncan was sworn (PDF p. 30-31). Taking the Fifth is not evidence of guilt; say so on the site. How Duncan's own case ended is NOT covered by any document I read (the SEC complaint sec-duncan-complaint exists in the library but was not in my brief). See gaps file.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-008",
@@ -191,7 +205,9 @@
     "event_date": "2002-01-24",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-009",
@@ -214,7 +230,9 @@
     "event_date": "2001-11-09",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "A member's opening statement summarizing the committee's investigation, not a formal finding."
+    "notes": "A member's opening statement summarizing the committee's investigation, not a formal finding.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-010",
@@ -237,7 +255,9 @@
     "event_date": "2001-10/2001-11",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Statement of a member as of Jan 24, 2002; investigation was not complete."
+    "notes": "Statement of a member as of Jan 24, 2002; investigation was not complete.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-011",
@@ -261,7 +281,9 @@
     "event_date": "2001-10-23",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "DISAGREEMENT: Andersen's position (Duncan acted without consulting counsel) conflicts with Duncan's account that he acted on Temple's Oct 12 e-mail (C-002). Greenwood's opening (PDF p. 7) also says Andersen sought to place blame 'solely on Mr. Duncan'. Present both. Witnesses on this panel were sworn (PDF p. 34)."
+    "notes": "DISAGREEMENT: Andersen's position (Duncan acted without consulting counsel) conflicts with Duncan's account that he acted on Temple's Oct 12 e-mail (C-002). Greenwood's opening (PDF p. 7) also says Andersen sought to place blame 'solely on Mr. Duncan'. Present both. Witnesses on this panel were sworn (PDF p. 34).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-012",
@@ -284,7 +306,9 @@
     "event_date": "2001-10-17",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Duncan (via Greenwood) said he learned of the SEC's informal inquiry Oct 19 or 20 (C-005)."
+    "notes": "Duncan (via Greenwood) said he learned of the SEC's informal inquiry Oct 19 or 20 (C-005).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-013",
@@ -308,7 +332,9 @@
     "event_date": "2001-11-09",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Same point in Andrews' oral testimony, PDF p. 36 (printed 32). The subpoena date is Nov 8, 2001 per Andersen."
+    "notes": "Same point in Andrews' oral testimony, PDF p. 36 (printed 32). The subpoena date is Nov 8, 2001 per Andersen.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim at PDF 39 (prepared statement); same words also appear in the oral statement at PDF 36."
   },
   {
     "id": "C-014",
@@ -331,7 +357,9 @@
     "event_date": "2001-10/2001-11",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The only number is in Greenwood's question to Duncan ('thousands of paper documents and electronic files', PDF p. 30-31), which describes the reason Andersen fired Duncan, not a count. Do not state a number. Logged as a gap."
+    "notes": "The only number is in Greenwood's question to Duncan ('thousands of paper documents and electronic files', PDF p. 30-31), which describes the reason Andersen fired Duncan, not a count. Do not state a number. Logged as a gap.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-015",
@@ -354,7 +382,9 @@
     "event_date": "2002-01-04",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-016",
@@ -381,7 +411,9 @@
     "event_date": "2002-01-15",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Corroborated by Batson Final App. B Part 1, PDF p. 61 (printed 59): 'Andersen's partners, Bauer, Cash and Willard were placed on administrative leave, and Duncan's employment was terminated by Andersen.' No library document I read says any of the three were charged; do not imply wrongdoing."
+    "notes": "Corroborated by Batson Final App. B Part 1, PDF p. 61 (printed 59): 'Andersen's partners, Bauer, Cash and Willard were placed on administrative leave, and Duncan's employment was terminated by Andersen.' No library document I read says any of the three were charged; do not imply wrongdoing.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-017",
@@ -404,7 +436,9 @@
     "event_date": "2002-01-24",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Useful for explaining 'document retention policy' in the glossary."
+    "notes": "Useful for explaining 'document retention policy' in the glossary.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-018",
@@ -427,7 +461,9 @@
     "event_date": "2001-09-28",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-019",
@@ -448,7 +484,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "DISAGREEMENT on the total and split: Batson App. B gives ~$54 million (C-021); Andersen's Andrews and Odom testified that much of the 'consulting' was audit-type work (C-020). Present the figure as the staff report's."
+    "notes": "DISAGREEMENT on the total and split: Batson App. B gives ~$54 million (C-021); Andersen's Andrews and Odom testified that much of the 'consulting' was audit-type work (C-020). Present the figure as the staff report's.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-020",
@@ -472,7 +510,9 @@
     "event_date": "2002-01-24",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Interested party's view (Andersen). Contrast with C-019."
+    "notes": "Interested party's view (Andersen). Contrast with C-019.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-021",
@@ -493,7 +533,9 @@
     "event_date": "2000",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Breakdown table (PDF p. 12, printed 10): U.S. Audit $10.3M; ABA Consult $14.1M; Other Consult $8.3M; London $8.3M; Other international $13.0M; total $54.0M. Source is Andersen's internal Retention Meeting Presentation. Three different totals exist ($47.9M, $52M, $54M) because of different fiscal years and categories; say so."
+    "notes": "Breakdown table (PDF p. 12, printed 10): U.S. Audit $10.3M; ABA Consult $14.1M; Other Consult $8.3M; London $8.3M; Other international $13.0M; total $54.0M. Source is Andersen's internal Retention Meeting Presentation. Three different totals exist ($47.9M, $52M, $54M) because of different fiscal years and categories; say so.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker. Image-checked PDF 11-12 (table and n. 14-15). Note: the Batson Final Report main text (p. 39, PDF 42, image-checked) itself uses $47.9 million for 2000 fees, so the examiner uses both figures."
   },
   {
     "id": "C-022",
@@ -517,7 +559,9 @@
     "event_date": "1999",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The 'largest client' wording is from an internal Andersen e-mail (Edwards to Bauer, Oct 13, 1999) quoted in n. 86, not the examiner's own finding. Same page: Andersen considered the great majority of its Enron work to be 'audit' services."
+    "notes": "The 'largest client' wording is from an internal Andersen e-mail (Edwards to Bauer, Oct 13, 1999) quoted in n. 86, not the examiner's own finding. Same page: Andersen considered the great majority of its Enron work to be 'audit' services.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-023",
@@ -540,7 +584,9 @@
     "event_date": "2001-02",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Table: partners 13, managers 42, staff accountants 58."
+    "notes": "Table: partners 13, managers 42, staff accountants 58.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-024",
@@ -563,7 +609,9 @@
     "event_date": "2002-02-06",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "A member's statement, not a finding. Use C-019/C-021 for the numbers; this card only shows the fee issue was central to the hearing."
+    "notes": "A member's statement, not a finding. Use C-019/C-021 for the numbers; this card only shows the fee issue was central to the hearing.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-025",
@@ -586,7 +634,9 @@
     "event_date": "2001",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Longstreth says he was an SEC Commissioner 1981-84 (PDF p. 115, printed 111). This hearing's panel was not shown being sworn in the text I read; use 'told the committee' rather than 'under oath'. Industry-wide figure, not Enron-specific."
+    "notes": "Longstreth says he was an SEC Commissioner 1981-84 (PDF p. 115, printed 111). This hearing's panel was not shown being sworn in the text I read; use 'told the committee' rather than 'under oath'. Industry-wide figure, not Enron-specific.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-026",
@@ -607,7 +657,9 @@
     "event_date": "1985",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Good for the timeline (1985)."
+    "notes": "Good for the timeline (1985).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-027",
@@ -628,7 +680,9 @@
     "event_date": null,
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Examiner's conclusions are what a fact-finder COULD conclude; they are not court findings. Andersen was never held liable by a court in any library document I read."
+    "notes": "Examiner's conclusions are what a fact-finder COULD conclude; they are not court findings. Andersen was never held liable by a court in any library document I read.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-028",
@@ -649,7 +703,9 @@
     "event_date": "2003-11-04",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Same conclusion in Part 1, PDF p. 7 (printed 5). The examiner relies on his Third Interim Report (not in the library) for the finding that Enron officers breached their duties; say 'the examiner had earlier concluded' without citing that report. Terms needing glossary entries: fiduciary duty, aiding and abetting, negligence, fact-finder, in pari delicto."
+    "notes": "Same conclusion in Part 1, PDF p. 7 (printed 5). The examiner relies on his Third Interim Report (not in the library) for the finding that Enron officers breached their duties; say 'the examiner had earlier concluded' without citing that report. Terms needing glossary entries: fiduciary duty, aiding and abetting, negligence, fact-finder, in pari delicto.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-029",
@@ -670,7 +726,9 @@
     "event_date": null,
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Balance card: present with C-027. Part 2 PDF p. 64 (printed 166) adds that a fact-finder could conclude Enron officers' failure to disclose side agreements did not prevent Andersen from discovering them."
+    "notes": "Balance card: present with C-027. Part 2 PDF p. 64 (printed 166) adds that a fact-finder could conclude Enron officers' failure to disclose side agreements did not prevent Andersen from discovering them.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-030",
@@ -693,12 +751,14 @@
     "event_date": null,
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The acknowledgments are sourced to Duncan's testimony at the Andersen criminal trial (2002). Examiner's n. 206: the $1 billion equity figure is unrelated to the $1 billion earnings restatement announced Oct 16, 2001. Rhythms: $95 million, 11% of Enron's 1999 income before interest and taxes."
+    "notes": "The acknowledgments are sourced to Duncan's testimony at the Andersen criminal trial (2002). Examiner's n. 206: the $1 billion equity figure is unrelated to the $1 billion earnings charge announced Oct 16, 2001. It IS the same error the Powers Report describes (pp. 125-126, n. 60): $172M (Raptor I, 2000) + $828M (Raptors II and IV, 2001) = $1 billion of the $1.2 billion reduction in shareholders' equity. Rhythms: $95 million, 11% of Enron's 1999 income before interest and taxes.",
+    "checked": "FIXED",
+    "checker_note": "Added clarification: the $1 billion equity overstatement here is the same error the Powers Report describes ($172M in Q2 2000 + $828M in Q1 2001), which made up $1 billion of the $1.2 billion reduction in shareholders' equity Enron disclosed on Oct 16, 2001 (Powers pp. 98, 125-126 and n. 60). The examiner's n. 206 says it is unrelated to the '$1 billion earnings restatement' of Oct 16 (the $1.01 billion after-tax charges). Do not merge the two $1 billion figures. Verified against page image PDF 65."
   },
   {
     "id": "C-031",
     "topic": "Andersen and the Audit Committee (SAS 61)",
-    "claim": "The examiner found evidence that Andersen failed its duty under auditing standards to make sure Enron's Audit Committee was informed about how significant unusual transactions were accounted for.",
+    "claim": "The examiner concluded that the evidence is sufficient for a fact-finder to conclude that Andersen failed its duty under auditing standards to make sure Enron's Audit Committee was informed about how significant unusual transactions were accounted for.",
     "quote": "Andersen failed to discharge its duty under applicable auditing standards to “determine that the audit committee is informed about the methods used to account for significant unusual transactions",
     "source_id": "batson-final-app-b-part1",
     "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
@@ -714,7 +774,9 @@
     "event_date": null,
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Phrased by the examiner as what the evidence would permit a fact-finder to conclude. Links to Chapter 7 (SOX Sec. 204 auditor reports to audit committees, not in my brief)."
+    "notes": "Phrased by the examiner as what the evidence would permit a fact-finder to conclude. Links to Chapter 7 (SOX Sec. 204 auditor reports to audit committees, not in my brief).",
+    "checked": "FIXED",
+    "checker_note": "Claim reworded to match the examiner's standard: App. B p. 3-4 says the evidence 'is sufficient to permit a fact-finder to conclude' that Andersen failed this duty; it is not a finding that Andersen did fail. Verified against page image PDF 5-6."
   },
   {
     "id": "C-032",
@@ -735,7 +797,9 @@
     "event_date": "2000",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The underlying schedule is the Second Interim Report, Appendix Q, which is NOT in the library. The statement itself is in App. B (in the library) and may be cited to App. B, but flag that the detailed support is in a missing report."
+    "notes": "The underlying schedule is the Second Interim Report, Appendix Q, which is NOT in the library. The statement itself is in App. B (in the library) and may be cited to App. B, but flag that the detailed support is in a missing report.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-033",
@@ -760,7 +824,9 @@
     "event_date": "2001-02-05",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The quoted words are from Andersen partner Michael Jones' Feb 6, 2001 e-mail, quoted by the examiner. The Senate staff report (rpt-sga-watchdogs PDF p. 26, printed 22) quotes the same e-mail as acknowledging Enron's 'aggressive' accounting and dependence on transaction execution."
+    "notes": "The quoted words are from Andersen partner Michael Jones' Feb 6, 2001 e-mail, quoted by the examiner. The Senate staff report (rpt-sga-watchdogs PDF p. 26, printed 22) quotes the same e-mail as acknowledging Enron's 'aggressive' accounting and dependence on transaction execution.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-034",
@@ -786,7 +852,9 @@
     "event_date": "2001",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Source is Bass's and Stewart's testimony at the 2002 Andersen criminal trial, as cited by the examiner. Causey's outcome is not covered by documents in my brief; check with Reader who has DOJ/SEC materials before describing him further."
+    "notes": "Source is Bass's and Stewart's testimony at the 2002 Andersen criminal trial, as cited by the examiner. Causey's outcome is not covered by documents in my brief; check with Reader who has DOJ/SEC materials before describing him further.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-035",
@@ -811,7 +879,9 @@
     "event_date": "1997/2001",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "n. 472 quotes Duncan (Dec 2000) that the presentation had to fit 'about a 30 - 45 minute presentation'. Useful for The Board lens."
+    "notes": "n. 472 quotes Duncan (Dec 2000) that the presentation had to fit 'about a 30 - 45 minute presentation'. Useful for The Board lens.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-036",
@@ -835,7 +905,9 @@
     "event_date": "1997-02-10",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Useful contrast with SOX Sec. 203, which requires rotation after 5 years (C-075)."
+    "notes": "Useful contrast with SOX Sec. 203, which requires rotation after 5 years (C-075).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-037",
@@ -856,7 +928,9 @@
     "event_date": "2002-01-17",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Examiner cites an Enron press release."
+    "notes": "Examiner cites an Enron press release.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-038",
@@ -877,7 +951,9 @@
     "event_date": "2002-06-15",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Indictment date corroborated by GAO-03-864 (C-048). The conviction was later REVERSED by the Supreme Court on May 31, 2005 (C-043): always pair these. No library document I read gives the jury verdict itself or the indictment; the Syllabus confirms a guilty verdict and Fifth Circuit affirmance but no dates."
+    "notes": "Indictment date corroborated by GAO-03-864 (C-048). The conviction was later REVERSED by the Supreme Court on May 31, 2005 (C-043): always pair these. No library document I read gives the jury verdict itself or the indictment; the Syllabus confirms a guilty verdict and Fifth Circuit affirmance but no dates.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-039",
@@ -898,7 +974,9 @@
     "event_date": "2003-10-09",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "The Supreme Court Syllabus says the Fifth Circuit affirmed (C-042)."
+    "notes": "The Supreme Court Syllabus says the Fifth Circuit affirmed (C-042).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-040",
@@ -919,7 +997,9 @@
     "event_date": "2002-08-31",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Examiner quoting an SEC statement (June 15, 2002) and a Chicago Tribune article; the SEC statement itself is not in the library."
+    "notes": "Examiner quoting an SEC statement (June 15, 2002) and a Chicago Tribune article; the SEC statement itself is not in the library.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
   },
   {
     "id": "C-041",
@@ -940,7 +1020,9 @@
     "event_date": "2003",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Examiner relies on Chicago Tribune articles (copyrighted; do not quote them). Headcount is U.S. per the article; GAO-03-864 gives >$9B global revenue in 2001. Quote footnote marker omitted from the quote. The quote omits a superscript footnote marker (197) after '28,000'."
+    "notes": "Examiner relies on Chicago Tribune articles (copyrighted; do not quote them). The report does not say whether the 28,000 figure is U.S. or worldwide; do not specify. GAO-03-864 gives >$9B global revenue in 2001. The quote omits a superscript footnote marker (197) after '28,000'.",
+    "checked": "FIXED",
+    "checker_note": "Removed an unsupported statement from notes ('Headcount is U.S. per the article'): the examiner does not say the 28,000 figure is U.S.-only, and the Chicago Tribune article is not in the library. Also removed a duplicated sentence. Verified against page image PDF 63."
   },
   {
     "id": "C-042",
@@ -961,7 +1043,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Library copy contains ONLY the Syllabus. The Syllabus itself says it 'constitutes no part of the opinion of the Court.' Cite as 'Arthur Andersen LLP v. United States, 544 U.S. 696 (2005), Syllabus.'"
+    "notes": "Library copy contains ONLY the Syllabus. The Syllabus itself says it 'constitutes no part of the opinion of the Court.' Cite as 'Arthur Andersen LLP v. United States, 544 U.S. 696 (2005), Syllabus.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-043",
@@ -984,7 +1068,9 @@
     "event_date": "2005-05-31",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Reversal does not mean the Court found Andersen innocent; it found the jury was wrongly instructed. What happened after remand is not in the library (gap). Andersen had already stopped auditing public companies in 2002 (C-040)."
+    "notes": "Reversal does not mean the Court found Andersen innocent; it found the jury was wrongly instructed. What happened after remand is not in the library (gap). Andersen had already stopped auditing public companies in 2002 (C-040).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-044",
@@ -1005,7 +1091,9 @@
     "event_date": "2005-05-31",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Also states the instructions did not require a link ('nexus') between the persuasion and any particular official proceeding."
+    "notes": "Also states the instructions did not require a link ('nexus') between the persuasion and any particular official proceeding.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-045",
@@ -1026,7 +1114,9 @@
     "event_date": "2002",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Footnote 2 lists the Big 8. Report dated July 2003 (released July 30, 2003 per GAO-03-1158)."
+    "notes": "Footnote 2 lists the Big 8. Report dated July 2003 (released July 30, 2003 per GAO-03-1158).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-046",
@@ -1047,7 +1137,9 @@
     "event_date": "2003-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Quote spans PDF pp. 7-8 (printed 1-2)."
+    "notes": "Quote spans PDF pp. 7-8 (printed 1-2).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim; quote spans PDF 7-8."
   },
   {
     "id": "C-047",
@@ -1068,7 +1160,9 @@
     "event_date": "2002",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-048",
@@ -1089,7 +1183,9 @@
     "event_date": "2002-03-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Matches Batson on the indictment date (C-038)."
+    "notes": "Matches Batson on the indictment date (C-038).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-049",
@@ -1110,7 +1206,9 @@
     "event_date": "2001-10/2002-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Good data for a simple chart."
+    "notes": "Good data for a simple chart.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim at PDF 107 (two-column layout in text copy)."
   },
   {
     "id": "C-050",
@@ -1131,7 +1229,9 @@
     "event_date": "2002",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "HHI needs a glossary entry (sum of squared market shares; GAO's own worked example is in n. 13)."
+    "notes": "HHI needs a glossary entry (sum of squared market shares; GAO's own worked example is in n. 13).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim; spans PDF 24-25."
   },
   {
     "id": "C-051",
@@ -1152,7 +1252,9 @@
     "event_date": "2003-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim in Highlights (two-column layout in text copy)."
   },
   {
     "id": "C-052",
@@ -1173,7 +1275,9 @@
     "event_date": "2003-09",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Survey responses received through Aug 11, 2003."
+    "notes": "Survey responses received through Aug 11, 2003.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim in Highlights (two-column layout in text copy)."
   },
   {
     "id": "C-053",
@@ -1194,7 +1298,9 @@
     "event_date": "1999-02",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Report date Oct 7, 2002 (manifest)."
+    "notes": "Report date Oct 7, 2002 (manifest).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-054",
@@ -1215,7 +1321,9 @@
     "event_date": "2001-04",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Direct link to The Footnote page. Report says the footnote ran seven paragraphs and appeared in different form in the 1999 10-K. Filing date of the 2000 10-K is not given here; check the 10-K itself before using a date."
+    "notes": "Direct link to The Footnote page. Report says the footnote ran seven paragraphs and appeared in different form in the 1999 10-K. Filing date of the 2000 10-K is not given here; check the 10-K itself before using a date.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-055",
@@ -1238,7 +1346,9 @@
     "event_date": "1992-01-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Staff says Skilling met SEC staff twice (same page). Subsidiary is Enron Gas Services (EGS). Coordinate with the reader covering mark-to-market."
+    "notes": "Staff says Skilling met SEC staff twice (same page). Subsidiary is Enron Gas Services (EGS). Coordinate with the reader covering mark-to-market.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-056",
@@ -1259,7 +1369,9 @@
     "event_date": "2001-02-06",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Also reports the PSI conclusion that Andersen warned the board of 'high-risk accounting' (cite rpt-psi-board directly if used)."
+    "notes": "Also reports the PSI conclusion that Andersen warned the board of 'high-risk accounting' (cite rpt-psi-board directly if used).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-057",
@@ -1280,7 +1392,9 @@
     "event_date": "2001-10/2001-11",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-058",
@@ -1304,7 +1418,9 @@
     "event_date": "2001-11-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "DISAGREEMENT/uncertainty: 15 vs 16 analysts depending on the date and list (Thompson says 'Reports indicate'). Use the staff report (C-057) as the main figure and mention the variation."
+    "notes": "DISAGREEMENT/uncertainty: 15 vs 16 analysts depending on the date and list (Thompson says 'Reports indicate'). Use the staff report (C-057) as the main figure and mention the variation.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-059",
@@ -1325,7 +1441,9 @@
     "event_date": "2001-11-28",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Bankruptcy date from Batson App. B Part 1, PDF p. 61 (printed 59), which also says the debt was downgraded to junk on Nov 28. Moody's B2, S&P B-, Fitch CC on that date."
+    "notes": "Bankruptcy date from Batson App. B Part 1, PDF p. 61 (printed 59), which also says the debt was downgraded to junk on Nov 28. Moody's B2, S&P B-, Fitch CC on that date.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-060",
@@ -1346,7 +1464,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-061",
@@ -1369,7 +1489,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Enron plan chairman James Prentice testified the stock match was reinstituted in 1998 and restricted until age 50 (C-068)."
+    "notes": "Enron plan chairman James Prentice testified the stock match was reinstituted in 1998 and restricted until age 50 (C-068).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-062",
@@ -1390,7 +1512,9 @@
     "event_date": "2000-12-31",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Figure is GAO relaying DOL. No library document I read gives a different percentage."
+    "notes": "Figure is GAO relaying DOL. No library document I read gives a different percentage.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-063",
@@ -1411,7 +1535,9 @@
     "event_date": "2001-10",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "GAO notes observers questioned whether employees were adequately notified. GAO gives no lockdown dates."
+    "notes": "GAO notes observers questioned whether employees were adequately notified. GAO gives no lockdown dates.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-064",
@@ -1434,7 +1560,9 @@
     "event_date": "2001",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "A senator's statement, not a finding. Rep. Ken Bentsen at the same hearing said the plan lost 'about $1 billion' (C-065). Use 'about $1 billion' with attribution."
+    "notes": "A senator's statement, not a finding. Rep. Ken Bentsen at the same hearing said the plan lost 'about $1 billion' (C-065). Use 'about $1 billion' with attribution.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-065",
@@ -1458,7 +1586,9 @@
     "event_date": "2001-10-16",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "DISAGREEMENT: Fleetham's notice said the lockdown ran Oct 20-Nov 19 (C-066); Lacey said PGE employees were locked out in late September (C-067). State the dates as disputed."
+    "notes": "DISAGREEMENT: Fleetham's notice said the lockdown ran Oct 20-Nov 19 (C-066); Lacey said PGE employees were locked out in late September (C-067). State the dates as disputed.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-066",
@@ -1481,7 +1611,9 @@
     "event_date": "2001-10-20",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Her sale ordered Oct 9 was confirmed with an Oct 30 withdrawal date and she received a check dated Nov 9 for about 10 percent of what she expected (same page)."
+    "notes": "Her sale ordered Oct 9 was confirmed with an Oct 30 withdrawal date and she received a check dated Nov 9 for about 10 percent of what she expected (same page).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-067",
@@ -1504,7 +1636,9 @@
     "event_date": "2001-09",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "He speaks only for his own workplace ('I cannot speak for Houston'). Lawsuit he filed is mentioned but not its outcome."
+    "notes": "He speaks only for his own workplace ('I cannot speak for Houston'). Lawsuit he filed is mentioned but not its outcome.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-068",
@@ -1527,7 +1661,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Prentice said he could not address Enron's accounting issues."
+    "notes": "Prentice said he could not address Enron's accounting issues.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-069",
@@ -1550,7 +1686,9 @@
     "event_date": "2001-11-16",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Outcome of the DOL investigation is not in the library (gap)."
+    "notes": "Outcome of the DOL investigation is not in the library (gap).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-070",
@@ -1573,7 +1711,9 @@
     "event_date": "2002-07-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The 'most important' line is CRS reporting what 'some' said; attribute it. Law text header also shows July 30, 2002."
+    "notes": "The 'most important' line is CRS reporting what 'some' said; attribute it. Law text header also shows July 30, 2002.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-071",
@@ -1596,7 +1736,9 @@
     "event_date": "2002-07-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Brief allows one short quote. Same page: CEOs and CFOs 'must personally vouch' for disclosures."
+    "notes": "Brief allows one short quote. Same page: CEOs and CFOs 'must personally vouch' for disclosures.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim (two-column layout in text copy)."
   },
   {
     "id": "C-072",
@@ -1617,7 +1759,9 @@
     "event_date": "2002-07-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-073",
@@ -1638,7 +1782,9 @@
     "event_date": "2002-07-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "If a CPA is chair, he or she must not have practiced as a CPA for at least 5 years before appointment."
+    "notes": "If a CPA is chair, he or she must not have practiced as a CPA for at least 5 years before appointment.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-074",
@@ -1659,7 +1805,9 @@
     "event_date": "2002-07-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Quote contains an ellipsis for omitted words; verbatim otherwise. Connects to the Andersen fee cards (C-019 to C-022)."
+    "notes": "Quote contains an ellipsis for omitted words; verbatim otherwise. Connects to the Andersen fee cards (C-019 to C-022).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-075",
@@ -1680,7 +1828,9 @@
     "event_date": "2002-07-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Compare Andersen's own seven-year rotation (C-036)."
+    "notes": "Compare Andersen's own seven-year rotation (C-036).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-076",
@@ -1701,7 +1851,9 @@
     "event_date": "2002-07-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-077",
@@ -1722,7 +1874,9 @@
     "event_date": "2002-07-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Sec. 906 was not in my brief's list; included because it pairs with Sec. 302 for Chapter 7/Phase 2. Drop if not needed."
+    "notes": "Sec. 906 was not in my brief's list; included because it pairs with Sec. 302 for Chapter 7/Phase 2. Drop if not needed.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-078",
@@ -1743,7 +1897,9 @@
     "event_date": "2002-07-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": ""
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-079",
@@ -1764,7 +1920,9 @@
     "event_date": "2002-07-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Directly responds to the Andersen shredding. Note the 'in relation to or contemplation of' wording vs. the Supreme Court's nexus concern under Sec. 1512 (C-044). Do not claim Congress intended this link unless a legislative-history source says so."
+    "notes": "Directly responds to the Andersen shredding. Note the 'in relation to or contemplation of' wording vs. the Supreme Court's nexus concern under Sec. 1512 (C-044). Do not claim Congress intended this link unless a legislative-history source says so.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-080",
@@ -1785,7 +1943,9 @@
     "event_date": "2002-07-30",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Links to the whistleblower chapter (Watkins)."
+    "notes": "Links to the whistleblower chapter (Watkins).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   },
   {
     "id": "C-081",
@@ -1812,6 +1972,8 @@
     "event_date": "2003-04-25",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Only four members are named although the Act provides for five; the release does not explain the fifth seat. Do not fill it from memory."
+    "notes": "Only four members are named although the Act provides for five; the release does not explain the fifth seat. Do not fill it from memory.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
   }
 ]

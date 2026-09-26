@@ -35,6 +35,13 @@
         "pdf_source_id": "powers-report",
         "loc": "Powers Report, p. 197, VIII.D.2 Adequacy of Disclosures (lines 7024ff. of SEC text)",
         "quote": "they did not communicate the essence of the transactions in a sufficiently clear fashion to enable a reader of the financial statements to understand what was going on"
+      },
+      {
+        "source_id": "rpt-psi-board",
+        "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+        "pdf_page": 52,
+        "loc": "Senate PSI staff report, printed p. 48, Finding (4), Inadequate Public Disclosure",
+        "quote": "The 1999 and 2000 footnotes, each of which is about one page in length ... The 2000 footnote, in particular, is nearly unintelligible"
       }
     ],
     "checked": "OK",
@@ -384,7 +391,7 @@
           "phrase": "Management believes that the terms of the transactions with the Related Party were reasonable compared to those which could have been negotiated with unrelated third parties.",
           "said": "Enron's managers said the deals were about as good as deals with outsiders would have been. This is the claim that the deals were made \"at arm's length,\" between independent parties.",
           "left_out": "The note does not show any evidence for the claim. It also does not show how the wording had changed over time. In its mid-1999 quarterly reports, Enron said the terms were \"reasonable and no less favorable\" than outside deals. The wording changed several times after that. In the 2000 annual report it said only that the terms were \"reasonable compared to\" what could have been negotiated.",
-          "found": "The board's special committee found that Enron \"lacked the factual basis required by the accounting literature\" for this sentence. It noted that drafts had handwritten notes reading \"need positive evidence.\" It found that \"many of them could only have been entered into with related parties.\" The committee also found that Andersen, Enron's auditor, told the board's Audit and Compliance Committee that the required disclosure had been \"reviewed for adequacy.\"",
+          "found": "The board's special committee found that Enron \"lacked the factual basis required by the accounting literature\" for this sentence. It noted that drafts had handwritten notes reading \"need positive evidence.\" It said that \"it seems likely that many of them could only have been entered into with related parties.\" The committee also found that Andersen, Enron's auditor, told the board's Audit and Compliance Committee that the required disclosure had been \"reviewed for adequacy.\"",
           "cites": [
             {
               "source_id": "powers-report-sec",
@@ -1687,8 +1694,24 @@
     }
   ],
   "closing": {
-    "text": "Two investigations looked back at this note. The board's special committee found that the related-party deals were disclosed \"to some extent.\" It also found that the note did not let a reader \"understand what was going on.\" After the scandal broke, Enron described the same dealings again in its filings of November 2001. The Senate subcommittee staff contrasted that later version with the 2000 footnote and found that it showed \"Enron was quite capable of meaningful public disclosure when motivated.\"",
+    "text": "Two investigations looked back at this note. The board's special committee found that the related-party deals were disclosed \"to some extent.\" It also found that the note did not let a reader \"understand what was going on.\" After Enron's problems became public, the company described the same dealings again in its quarterly report filed November 19, 2001. The Senate subcommittee staff contrasted that later version with the 2000 footnote and found that it showed \"Enron was quite capable of meaningful public disclosure when motivated.\"",
     "cites": [
+      {
+        "source_id": "powers-report-sec",
+        "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+        "pdf_page": 207,
+        "pdf_source_id": "powers-report",
+        "loc": "Powers Report, p. 201, VIII.E Conclusions on Disclosure (lines 7163ff. of SEC text)",
+        "quote": "the LJM partnerships, the Raptor entities, and transactions between Enron and those entities all were disclosed to some extent in Enron's public filings"
+      },
+      {
+        "source_id": "powers-report-sec",
+        "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+        "pdf_page": 203,
+        "pdf_source_id": "powers-report",
+        "loc": "Powers Report, p. 197, VIII.D.2 Adequacy of Disclosures (lines 7024ff. of SEC text)",
+        "quote": "they did not communicate the essence of the transactions in a sufficiently clear fashion to enable a reader of the financial statements to understand what was going on"
+      },
       {
         "source_id": "rpt-psi-board",
         "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",

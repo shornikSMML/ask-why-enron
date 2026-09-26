@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 760" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 798" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
   <title id="t">Enron's related entities: JEDI and Chewco, LJM1, LJM2 and the Raptors</title>
-  <desc id="d">Original diagram, simplified, based on the Powers Report (findings of Enron's board special committee) and Enron's November 8, 2001 announcement. Enron is at the top. Three groups of entities sit below it. First, JEDI and Chewco: JEDI was a 500 million dollar investment partnership formed in 1993 by Enron and the pension fund CalPERS, each putting in 250 million dollars (Enron in its own stock). In 1997 Chewco bought out CalPERS's share of JEDI. Chewco was run by Michael Kopper, an Enron employee who reported to CFO Andrew Fastow. Enron guaranteed Chewco's 240 million dollar bank loan, and nearly all of Chewco's 11.5 million dollars of 'equity' was borrowed. The board was not told of Kopper's role. Second, LJM1 (LJM Cayman), approved by Enron's board on June 28, 1999, with Fastow as general partner and 15 million dollars from two outside investors. LJM1 created Swap Sub, used for the Rhythms NetConnections 'hedge' in June 1999 and funded mainly with Enron stock. Third, LJM2, approved by the board in October 1999, with Fastow's role approved; its offering memorandum named Fastow, Kopper and Glisan as managers; about 50 investors committed 394 million dollars. LJM2 put 30 million dollars into each of the four Raptors (2000), which were funded mainly with Enron's own stock. On November 8, 2001 Enron announced that JEDI, Chewco and Swap Sub should have been included in its financial statements, and restated 1997 to 2000. The special committee found that Fastow was enriched by at least 30 million dollars and Kopper by at least 10 million dollars.</desc>
+  <desc id="d">Original diagram, simplified, based on the Powers Report (findings of Enron's board special committee) and Enron's November 8, 2001 announcement. Enron is at the top. Three groups of entities sit below it. First, JEDI and Chewco: JEDI was a 500 million dollar investment partnership formed in 1993 by Enron and the pension fund CalPERS, each putting in 250 million dollars (Enron in its own stock). In 1997 Chewco bought out CalPERS's share of JEDI. Chewco was run by Michael Kopper, an Enron employee who reported to CFO Andrew Fastow. Enron guaranteed Chewco's 240 million dollar bank loan, and nearly all of Chewco's 11.5 million dollars of 'equity' was borrowed. The special committee found no evidence the board was told of Kopper's role. Second, LJM1 (LJM Cayman), approved by Enron's board on June 28, 1999, with Fastow as general partner and 15 million dollars from two outside investors. LJM1 created Swap Sub, used for the Rhythms NetConnections 'hedge' in June 1999 and funded mainly with Enron stock. Third, LJM2, approved by the board in October 1999, with Fastow's role approved; its offering memorandum named Fastow, Kopper and Glisan as managers; about 50 investors committed 394 million dollars. LJM2 put 30 million dollars into each of the four Raptors (2000), which were funded mainly with Enron's own stock. On November 8, 2001 Enron announced that JEDI, Chewco and Swap Sub should have been included in its financial statements, and that it would restate 1997 through mid-2001. The special committee found that Fastow was enriched by at least 30 million dollars and Kopper by at least 10 million dollars.</desc>
   <style>
     svg { --d-bg:#fcfcfb; --d-ink:#1b1b1a; --d-muted:#52514e; --d-line:#8a8984; --d-co:#e3eefb; --d-co-edge:#2a78d6; --d-spe:#fde8df; --d-spe-edge:#c4501f; --d-out:#eeeeec; --d-note:#f6f3e6; --d-flag:#8a3a12; --d-bar:#2a78d6; }
     @media (prefers-color-scheme: dark) {
@@ -38,7 +38,7 @@
     </marker>
   </defs>
 
-  <rect class="bg" x="0" y="0" width="800" height="760" rx="12"/>
+  <rect class="bg" x="0" y="0" width="800" height="798" rx="12"/>
   <text class="ink" x="400" y="36" font-size="21" text-anchor="middle" font-weight="700">Who was who: Enron's related entities</text>
   <text class="mut" x="400" y="58" font-size="14" text-anchor="middle">Simplified. Gray: partnerships. Orange: special purpose entities (SPEs).</text>
   <rect class="co" x="250" y="76" width="300" height="56" rx="10"/>
@@ -60,15 +60,17 @@
   <text class="mut" x="154.0" y="415.0" font-size="13">Chewco bought</text>
   <text class="mut" x="154.0" y="430.0" font-size="13">CalPERS's half</text>
   <text class="mut" x="154.0" y="445.0" font-size="13">(1997)</text>
-  <rect class="spe" x="24" y="458" width="240" height="176" rx="10"/>
+  <rect class="spe" x="24" y="458" width="240" height="214" rx="10"/>
   <text class="ink" x="144.0" y="484" font-size="17" text-anchor="middle" font-weight="700">Chewco (1997)</text>
   <text class="ink" x="144.0" y="508" font-size="14" text-anchor="middle">Run by Michael Kopper, who</text>
   <text class="ink" x="144.0" y="527" font-size="14" text-anchor="middle">reported to Fastow. Nearly</text>
   <text class="ink" x="144.0" y="546" font-size="14" text-anchor="middle">all its $11.5M "equity" was</text>
-  <text class="ink" x="144.0" y="565" font-size="14" text-anchor="middle">borrowed. The board was not</text>
-  <text class="ink" x="144.0" y="584" font-size="14" text-anchor="middle">told of Kopper's role.</text>
-  <rect class="flag" x="164" y="604" width="92" height="22" rx="5"/>
-  <text class="flagt" x="210.0" y="620" font-size="12" text-anchor="middle">RESTATED</text>
+  <text class="ink" x="144.0" y="565" font-size="14" text-anchor="middle">borrowed. The special</text>
+  <text class="ink" x="144.0" y="584" font-size="14" text-anchor="middle">committee found no evidence</text>
+  <text class="ink" x="144.0" y="603" font-size="14" text-anchor="middle">the board was told of</text>
+  <text class="ink" x="144.0" y="622" font-size="14" text-anchor="middle">Kopper's role.</text>
+  <rect class="flag" x="164" y="642" width="92" height="22" rx="5"/>
+  <text class="flagt" x="210.0" y="658" font-size="12" text-anchor="middle">RESTATED</text>
   <path class="thin" d="M400,132 L400,150 L400.0,150 L400.0,224" />
   <text class="mut" x="408.0" y="170" font-size="13">Board approved</text>
   <text class="mut" x="408.0" y="186" font-size="13">Fastow's role,</text>
@@ -83,14 +85,14 @@
   <text class="ink" x="400.0" y="378" font-size="14" text-anchor="middle">NatWest).</text>
   <path class="arr" d="M400.0,406 L400.0,452" marker-end="url(#a)"/>
   <text class="mut" x="410.0" y="430.0" font-size="13">LJM1 set up</text>
-  <rect class="spe" x="280" y="458" width="240" height="176" rx="10"/>
+  <rect class="spe" x="280" y="458" width="240" height="214" rx="10"/>
   <text class="ink" x="400.0" y="484" font-size="17" text-anchor="middle" font-weight="700">Swap Sub (1999)</text>
   <text class="ink" x="400.0" y="508" font-size="14" text-anchor="middle">Used for the Rhythms</text>
   <text class="ink" x="400.0" y="527" font-size="14" text-anchor="middle">NetConnections "hedge."</text>
   <text class="ink" x="400.0" y="546" font-size="14" text-anchor="middle">Funded mainly with Enron</text>
   <text class="ink" x="400.0" y="565" font-size="14" text-anchor="middle">stock.</text>
-  <rect class="flag" x="420" y="604" width="92" height="22" rx="5"/>
-  <text class="flagt" x="466.0" y="620" font-size="12" text-anchor="middle">RESTATED</text>
+  <rect class="flag" x="420" y="642" width="92" height="22" rx="5"/>
+  <text class="flagt" x="466.0" y="658" font-size="12" text-anchor="middle">RESTATED</text>
   <path class="thin" d="M400,132 L400,150 L656.0,150 L656.0,224" />
   <text class="mut" x="664.0" y="170" font-size="13">Board approved</text>
   <text class="mut" x="664.0" y="186" font-size="13">Fastow's role,</text>
@@ -104,16 +106,16 @@
   <text class="ink" x="656.0" y="359" font-size="14" text-anchor="middle">$394M committed.</text>
   <path class="arr" d="M656.0,406 L656.0,452" marker-end="url(#a)"/>
   <text class="mut" x="666.0" y="430.0" font-size="13">$30M into each</text>
-  <rect class="spe" x="536" y="458" width="240" height="176" rx="10"/>
+  <rect class="spe" x="536" y="458" width="240" height="214" rx="10"/>
   <text class="ink" x="656.0" y="484" font-size="17" text-anchor="middle" font-weight="700">Raptors I–IV (2000)</text>
   <text class="ink" x="656.0" y="508" font-size="14" text-anchor="middle">Four SPEs funded mainly with</text>
   <text class="ink" x="656.0" y="527" font-size="14" text-anchor="middle">Enron's own stock. Sold</text>
   <text class="ink" x="656.0" y="546" font-size="14" text-anchor="middle">Enron "hedges" on its</text>
   <text class="ink" x="656.0" y="565" font-size="14" text-anchor="middle">investments.</text>
-  <rect class="flag" x="24" y="652" width="92" height="22" rx="5"/>
-  <text class="flagt" x="70.0" y="668" font-size="12" text-anchor="middle">RESTATED</text>
-  <text class="ink" x="126" y="667" font-size="13.5">Nov. 8, 2001: Enron announced that these should have been included (consolidated) in its</text>
-  <text class="ink" x="126" y="685" font-size="13.5">own financial statements, and that it would restate 1997–2000.</text>
-  <text class="ink" x="24" y="718" font-size="13">Fastow was enriched by at least $30 million and Kopper by at least $10 million, the board's special committee found.</text>
-  <text class="mut" x="24" y="742" font-size="12.5">Sources: Powers Report pp. 3–4, 42–52, 68–73, 79–84, 97–101; Enron Form 8-K, Nov. 8, 2001 (Ex. 99.1), p. 1.</text>
+  <rect class="flag" x="24" y="690" width="92" height="22" rx="5"/>
+  <text class="flagt" x="70.0" y="706" font-size="12" text-anchor="middle">RESTATED</text>
+  <text class="ink" x="126" y="705" font-size="13.5">Nov. 8, 2001: Enron announced that these should have been included (consolidated) in its</text>
+  <text class="ink" x="126" y="723" font-size="13.5">own financial statements, and that it would restate 1997 through mid-2001.</text>
+  <text class="ink" x="24" y="756" font-size="13">Fastow was enriched by at least $30 million and Kopper by at least $10 million, the board's special committee found.</text>
+  <text class="mut" x="24" y="780" font-size="12.5">Sources: Powers Report pp. 3–4, 42–52, 68–73, 79–84, 97–101; Enron Form 8-K, Nov. 8, 2001 (Ex. 99.1), p. 1.</text>
 </svg>

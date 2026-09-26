@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 1587" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 1608" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
   <title id="t">Enron's related entities: JEDI and Chewco, LJM1, LJM2 and the Raptors (phone layout)</title>
-  <desc id="d">Original diagram, simplified, based on the Powers Report (findings of Enron's board special committee) and Enron's November 8, 2001 announcement. Enron is at the top. Three groups of entities sit below it. First, JEDI and Chewco: JEDI was a 500 million dollar investment partnership formed in 1993 by Enron and the pension fund CalPERS, each putting in 250 million dollars (Enron in its own stock). In 1997 Chewco bought out CalPERS's share of JEDI. Chewco was run by Michael Kopper, an Enron employee who reported to CFO Andrew Fastow. Enron guaranteed Chewco's 240 million dollar bank loan, and nearly all of Chewco's 11.5 million dollars of 'equity' was borrowed. The board was not told of Kopper's role. Second, LJM1 (LJM Cayman), approved by Enron's board on June 28, 1999, with Fastow as general partner and 15 million dollars from two outside investors. LJM1 created Swap Sub, used for the Rhythms NetConnections 'hedge' in June 1999 and funded mainly with Enron stock. Third, LJM2, approved by the board in October 1999, with Fastow's role approved; its offering memorandum named Fastow, Kopper and Glisan as managers; about 50 investors committed 394 million dollars. LJM2 put 30 million dollars into each of the four Raptors (2000), which were funded mainly with Enron's own stock. On November 8, 2001 Enron announced that JEDI, Chewco and Swap Sub should have been included in its financial statements, and restated 1997 to 2000. The special committee found that Fastow was enriched by at least 30 million dollars and Kopper by at least 10 million dollars.</desc>
+  <desc id="d">Original diagram, simplified, based on the Powers Report (findings of Enron's board special committee) and Enron's November 8, 2001 announcement. Enron is at the top. Three groups of entities sit below it. First, JEDI and Chewco: JEDI was a 500 million dollar investment partnership formed in 1993 by Enron and the pension fund CalPERS, each putting in 250 million dollars (Enron in its own stock). In 1997 Chewco bought out CalPERS's share of JEDI. Chewco was run by Michael Kopper, an Enron employee who reported to CFO Andrew Fastow. Enron guaranteed Chewco's 240 million dollar bank loan, and nearly all of Chewco's 11.5 million dollars of 'equity' was borrowed. The special committee found no evidence the board was told of Kopper's role. Second, LJM1 (LJM Cayman), approved by Enron's board on June 28, 1999, with Fastow as general partner and 15 million dollars from two outside investors. LJM1 created Swap Sub, used for the Rhythms NetConnections 'hedge' in June 1999 and funded mainly with Enron stock. Third, LJM2, approved by the board in October 1999, with Fastow's role approved; its offering memorandum named Fastow, Kopper and Glisan as managers; about 50 investors committed 394 million dollars. LJM2 put 30 million dollars into each of the four Raptors (2000), which were funded mainly with Enron's own stock. On November 8, 2001 Enron announced that JEDI, Chewco and Swap Sub should have been included in its financial statements, and that it would restate 1997 through mid-2001. The special committee found that Fastow was enriched by at least 30 million dollars and Kopper by at least 10 million dollars.</desc>
   <style>
     svg { --d-bg:#fcfcfb; --d-ink:#1b1b1a; --d-muted:#52514e; --d-line:#8a8984; --d-co:#e3eefb; --d-co-edge:#2a78d6; --d-spe:#fde8df; --d-spe-edge:#c4501f; --d-out:#eeeeec; --d-note:#f6f3e6; --d-flag:#8a3a12; --d-bar:#2a78d6; }
     @media (prefers-color-scheme: dark) {
@@ -38,7 +38,7 @@
     </marker>
   </defs>
 
-  <rect class="bg" x="0" y="0" width="520" height="1587" rx="12"/>
+  <rect class="bg" x="0" y="0" width="520" height="1608" rx="12"/>
   <text class="ink" x="260" y="40" font-size="24" text-anchor="middle" font-weight="700">Who was who: Enron's</text>
   <text class="ink" x="260" y="70" font-size="24" text-anchor="middle" font-weight="700">related entities</text>
   <text class="mut" x="260" y="98" font-size="15" text-anchor="middle">Simplified. Who ran each, and the tie to Enron. Gray:</text>
@@ -46,7 +46,7 @@
   <rect class="co" x="110" y="146" width="300" height="56" rx="10"/>
   <text class="ink" x="260" y="182" font-size="23" text-anchor="middle" font-weight="700">Enron</text>
   <path class="thin" d="M110,174 L30,174 L30,202"/>
-  <path class="thin" d="M30,202 L30,1025"/>
+  <path class="thin" d="M30,202 L30,1046"/>
   <path class="thin" d="M30,230 L52,230" marker-end="url(#am)"/>
   <text class="mut tag" x="60" y="235" font-size="14">1993–1997</text>
   <text class="mut" x="60" y="257" font-size="14">Partner in JEDI; guaranteed Chewco's $240M bank loan</text>
@@ -59,50 +59,51 @@
   <text class="flagt" x="448.0" y="396" font-size="13" text-anchor="middle">RESTATED</text>
   <path class="arr" d="M160,461 L160,417" marker-end="url(#a)"/>
   <text class="mut" x="176" y="443" font-size="14.5">Chewco bought CalPERS's half (1997)</text>
-  <rect class="spe" x="60" y="463" width="444" height="141" rx="10"/>
+  <rect class="spe" x="60" y="463" width="444" height="162" rx="10"/>
   <text class="ink" x="282" y="491" font-size="19" text-anchor="middle" font-weight="700">Chewco (1997)</text>
   <text class="ink" x="282" y="517" font-size="16" text-anchor="middle">Run by Michael Kopper, who reported to Fastow.</text>
   <text class="ink" x="282" y="538" font-size="16" text-anchor="middle">Nearly all its $11.5M "equity" was borrowed.</text>
-  <text class="ink" x="282" y="559" font-size="16" text-anchor="middle">The board was not told of Kopper's role.</text>
-  <rect class="flag" x="396" y="572" width="104" height="23" rx="5"/>
-  <text class="flagt" x="448.0" y="589" font-size="13" text-anchor="middle">RESTATED</text>
-  <path class="thin" d="M30,650 L52,650" marker-end="url(#am)"/>
-  <text class="mut tag" x="60" y="655" font-size="14">1999</text>
-  <text class="mut" x="60" y="677" font-size="14">Board approved Fastow's role, June 28, 1999</text>
-  <rect class="out" x="60" y="690" width="444" height="117" rx="10"/>
-  <text class="ink" x="282" y="718" font-size="19" text-anchor="middle" font-weight="700">LJM1 (LJM Cayman)</text>
-  <text class="ink" x="282" y="744" font-size="16" text-anchor="middle">General partner: CFO Andrew Fastow. $15M from</text>
-  <text class="ink" x="282" y="765" font-size="16" text-anchor="middle">two outside investors (affiliates of CSFB and</text>
-  <text class="ink" x="282" y="786" font-size="16" text-anchor="middle">NatWest).</text>
-  <path class="arr" d="M160,809 L160,853" marker-end="url(#a)"/>
-  <text class="mut" x="176" y="839" font-size="14.5">LJM1 set up</text>
-  <rect class="spe" x="60" y="859" width="444" height="120" rx="10"/>
-  <text class="ink" x="282" y="887" font-size="19" text-anchor="middle" font-weight="700">Swap Sub (1999)</text>
-  <text class="ink" x="282" y="913" font-size="16" text-anchor="middle">Used for the Rhythms NetConnections "hedge."</text>
-  <text class="ink" x="282" y="934" font-size="16" text-anchor="middle">Funded mainly with Enron stock.</text>
-  <rect class="flag" x="396" y="947" width="104" height="23" rx="5"/>
-  <text class="flagt" x="448.0" y="964" font-size="13" text-anchor="middle">RESTATED</text>
-  <path class="thin" d="M30,1025 L52,1025" marker-end="url(#am)"/>
-  <text class="mut tag" x="60" y="1030" font-size="14">1999–2001</text>
-  <text class="mut" x="60" y="1052" font-size="14">Board approved Fastow's role, October 1999</text>
-  <rect class="out" x="60" y="1065" width="444" height="117" rx="10"/>
-  <text class="ink" x="282" y="1093" font-size="19" text-anchor="middle" font-weight="700">LJM2</text>
-  <text class="ink" x="282" y="1119" font-size="16" text-anchor="middle">Managed by Fastow (its sales memo also named</text>
-  <text class="ink" x="282" y="1140" font-size="16" text-anchor="middle">Kopper and Glisan). About 50 investors, $394M</text>
-  <text class="ink" x="282" y="1161" font-size="16" text-anchor="middle">committed.</text>
-  <path class="arr" d="M160,1184 L160,1228" marker-end="url(#a)"/>
-  <text class="mut" x="176" y="1214" font-size="14.5">$30M into each</text>
-  <rect class="spe" x="60" y="1234" width="444" height="96" rx="10"/>
-  <text class="ink" x="282" y="1262" font-size="19" text-anchor="middle" font-weight="700">Raptors I–IV (2000)</text>
-  <text class="ink" x="282" y="1288" font-size="16" text-anchor="middle">Four SPEs funded mainly with Enron's own stock.</text>
-  <text class="ink" x="282" y="1309" font-size="16" text-anchor="middle">Sold Enron "hedges" on its investments.</text>
-  <rect class="flag" x="16" y="1364" width="104" height="23" rx="5"/>
-  <text class="flagt" x="68.0" y="1381" font-size="13" text-anchor="middle">RESTATED</text>
-  <text class="ink" x="16" y="1412" font-size="15.5">Nov. 8, 2001: Enron announced that these should have been</text>
-  <text class="ink" x="16" y="1433" font-size="15.5">included (consolidated) in its own financial statements,</text>
-  <text class="ink" x="16" y="1454" font-size="15.5">and that it would restate 1997–2000.</text>
-  <text class="ink" x="16" y="1487" font-size="15.5">The board's special committee found Fastow was enriched by</text>
-  <text class="ink" x="16" y="1508" font-size="15.5">at least $30 million and Kopper by at least $10 million.</text>
-  <text class="mut" x="16" y="1543" font-size="13">Sources: Powers Report pp. 3–4, 42–52, 68–73, 79–84, 97–101; Enron</text>
-  <text class="mut" x="16" y="1561" font-size="13">Form 8-K, Nov. 8, 2001 (Ex. 99.1), p. 1.</text>
+  <text class="ink" x="282" y="559" font-size="16" text-anchor="middle">The special committee found no evidence</text>
+  <text class="ink" x="282" y="580" font-size="16" text-anchor="middle">the board was told of Kopper's role.</text>
+  <rect class="flag" x="396" y="593" width="104" height="23" rx="5"/>
+  <text class="flagt" x="448.0" y="610" font-size="13" text-anchor="middle">RESTATED</text>
+  <path class="thin" d="M30,671 L52,671" marker-end="url(#am)"/>
+  <text class="mut tag" x="60" y="676" font-size="14">1999</text>
+  <text class="mut" x="60" y="698" font-size="14">Board approved Fastow's role, June 28, 1999</text>
+  <rect class="out" x="60" y="711" width="444" height="117" rx="10"/>
+  <text class="ink" x="282" y="739" font-size="19" text-anchor="middle" font-weight="700">LJM1 (LJM Cayman)</text>
+  <text class="ink" x="282" y="765" font-size="16" text-anchor="middle">General partner: CFO Andrew Fastow. $15M from</text>
+  <text class="ink" x="282" y="786" font-size="16" text-anchor="middle">two outside investors (affiliates of CSFB and</text>
+  <text class="ink" x="282" y="807" font-size="16" text-anchor="middle">NatWest).</text>
+  <path class="arr" d="M160,830 L160,874" marker-end="url(#a)"/>
+  <text class="mut" x="176" y="860" font-size="14.5">LJM1 set up</text>
+  <rect class="spe" x="60" y="880" width="444" height="120" rx="10"/>
+  <text class="ink" x="282" y="908" font-size="19" text-anchor="middle" font-weight="700">Swap Sub (1999)</text>
+  <text class="ink" x="282" y="934" font-size="16" text-anchor="middle">Used for the Rhythms NetConnections "hedge."</text>
+  <text class="ink" x="282" y="955" font-size="16" text-anchor="middle">Funded mainly with Enron stock.</text>
+  <rect class="flag" x="396" y="968" width="104" height="23" rx="5"/>
+  <text class="flagt" x="448.0" y="985" font-size="13" text-anchor="middle">RESTATED</text>
+  <path class="thin" d="M30,1046 L52,1046" marker-end="url(#am)"/>
+  <text class="mut tag" x="60" y="1051" font-size="14">1999–2001</text>
+  <text class="mut" x="60" y="1073" font-size="14">Board approved Fastow's role, October 1999</text>
+  <rect class="out" x="60" y="1086" width="444" height="117" rx="10"/>
+  <text class="ink" x="282" y="1114" font-size="19" text-anchor="middle" font-weight="700">LJM2</text>
+  <text class="ink" x="282" y="1140" font-size="16" text-anchor="middle">Managed by Fastow (its sales memo also named</text>
+  <text class="ink" x="282" y="1161" font-size="16" text-anchor="middle">Kopper and Glisan). About 50 investors, $394M</text>
+  <text class="ink" x="282" y="1182" font-size="16" text-anchor="middle">committed.</text>
+  <path class="arr" d="M160,1205 L160,1249" marker-end="url(#a)"/>
+  <text class="mut" x="176" y="1235" font-size="14.5">$30M into each</text>
+  <rect class="spe" x="60" y="1255" width="444" height="96" rx="10"/>
+  <text class="ink" x="282" y="1283" font-size="19" text-anchor="middle" font-weight="700">Raptors I–IV (2000)</text>
+  <text class="ink" x="282" y="1309" font-size="16" text-anchor="middle">Four SPEs funded mainly with Enron's own stock.</text>
+  <text class="ink" x="282" y="1330" font-size="16" text-anchor="middle">Sold Enron "hedges" on its investments.</text>
+  <rect class="flag" x="16" y="1385" width="104" height="23" rx="5"/>
+  <text class="flagt" x="68.0" y="1402" font-size="13" text-anchor="middle">RESTATED</text>
+  <text class="ink" x="16" y="1433" font-size="15.5">Nov. 8, 2001: Enron announced that these should have been</text>
+  <text class="ink" x="16" y="1454" font-size="15.5">included (consolidated) in its own financial statements,</text>
+  <text class="ink" x="16" y="1475" font-size="15.5">and that it would restate 1997 through mid-2001.</text>
+  <text class="ink" x="16" y="1508" font-size="15.5">The board's special committee found Fastow was enriched by</text>
+  <text class="ink" x="16" y="1529" font-size="15.5">at least $30 million and Kopper by at least $10 million.</text>
+  <text class="mut" x="16" y="1564" font-size="13">Sources: Powers Report pp. 3–4, 42–52, 68–73, 79–84, 97–101; Enron</text>
+  <text class="mut" x="16" y="1582" font-size="13">Form 8-K, Nov. 8, 2001 (Ex. 99.1), p. 1.</text>
 </svg>

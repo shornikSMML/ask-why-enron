@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>How This Was Built · Ask Why</title>
-<meta name="description" content="An annotated, source-cited story of Enron for undergraduates.">
+<meta name="description" content="How a person and a team of AI agents built this site: the source library, the agents and their briefs, the fact-checking, and the gaps.">
 <link rel="stylesheet" href="css/site.css">
 <script>(function(){var d=document.documentElement;d.className+=' js';try{var t=localStorage.getItem('askwhy-theme');if(t==='light'||t==='dark')d.setAttribute('data-theme',t);if(localStorage.getItem('askwhy-present')==='1')d.className+=' present';}catch(e){}})();</script>
 </head>
@@ -27,32 +27,79 @@
 <div class="page narrow">
   <h1>How This Was Built</h1>
   <p class="lede">This site was written by a team of AI agents working under an AI coordinator, and checked against a library of documents that a person assembled and verified first. This page shows who did what, in what order, and what each agent was told to do. It is built directly from the project&rsquo;s build log.</p>
-  <nav class="ui" aria-label="On this page" style="font-size:.9rem"><strong>On this page:</strong> <a href="#before-h">Before the agents</a> &middot; <a href="#team-h">The team</a> &middot; <a href="#tl-h">Step by step</a> &middot; <a href="#agents-h">Briefs and results</a> &middot; <a href="#corr-h">Corrections</a> &middot; <a href="#web-h">Websites used</a></nav>
-  <section aria-labelledby="before-h">
+  <nav class="on-this-page ui" aria-label="On this page"><strong>On this page</strong>
+    <ol>
+      <li><a href="#before-h">Before the agents</a></li>
+      <li><a href="#glance-h">At a glance</a></li>
+      <li><a href="#team-h">The team</a></li>
+      <li><a href="#tl-h">The build, step by step</a></li>
+      <li><a href="#agents-h">Each agent: briefs and results</a></li>
+      <li><a href="#check-h">How facts were checked</a></li>
+      <li><a href="#gaps-h">What the sources couldn&rsquo;t tell us</a></li>
+      <li><a href="#tips-h">Two reader tips</a></li>
+      <li><a href="#web-h">Websites the agents used</a></li>
+    </ol>
+  </nav>
+
+  <section class="before-agents" aria-labelledby="before-h">
+    <p class="eyebrow">Step 0 &middot; The human work that came first</p>
     <h2 id="before-h">Before the agents</h2>
-    <div id="before-agents"><p class="placeholder">[Text coming from the coordinator]</p></div>
+    <div id="before-agents"><p>The build log could not be loaded.</p></div>
   </section>
+
+  <section aria-labelledby="glance-h">
+    <h2 id="glance-h">At a glance</h2>
+    <div id="at-a-glance"></div>
+  </section>
+
   <section aria-labelledby="team-h">
     <h2 id="team-h">The team</h2>
-    <p>One <strong>coordinator</strong> planned the work and gave each <strong>agent</strong> a written brief. Agents never talked to each other: every file passed through the coordinator, who accepted each result or sent it back.</p>
+    <p>One <strong>coordinator</strong> planned the work and gave each <strong>agent</strong> a written brief. Agents never talked to each other: every file passed through the coordinator, who accepted each result or sent it back. Some agents ran more than once: the coordinator resumed them with a follow-up message to fix what the fact-checker found.</p>
     <div class="team-diagram" id="team-diagram"></div>
   </section>
+
   <section aria-labelledby="tl-h">
     <h2 id="tl-h">The build, step by step</h2>
     <p>Every event the coordinator recorded, oldest first. Times are in UTC (Coordinated Universal Time).</p>
     <div id="build-timeline"></div>
   </section>
+
   <section aria-labelledby="agents-h">
-    <h2 id="agents-h">Each agent: its brief and its result</h2>
+    <h2 id="agents-h">Each agent: briefs and results</h2>
+    <p>Open an agent to see each of its runs: the brief it was given (or, for a resumed run, the coordinator&rsquo;s follow-up message), what it read, what it produced, and the coordinator&rsquo;s decision.</p>
     <div id="agent-cards"></div>
   </section>
-  <section aria-labelledby="corr-h">
-    <h2 id="corr-h">Corrections made by the fact-checker</h2>
-    <p>Before any content was accepted, a fact-checking agent compared it with the source documents. Each correction below shows what the draft said, what the source says, and how it was fixed.</p>
+
+  <section aria-labelledby="check-h">
+    <h2 id="check-h">How facts were checked</h2>
+    <ol class="check-steps">
+      <li><strong>Fact cards.</strong> Three reader agents read the source documents and wrote <em>fact cards</em>: one fact, a short exact quotation, and the precise place in the document it came from.</li>
+      <li><strong>First check.</strong> A fact-checking agent compared every card with the document before any writer could use it.</li>
+      <li><strong>Writing.</strong> The writers built the chapters, the Cast, the Timeline and the Glossary only from checked cards, and every sentence about a real person carries a citation.</li>
+      <li><strong>Second check.</strong> The fact-checker read the finished pages against the sources and listed what had to change.</li>
+      <li><strong>Fixes and re-check.</strong> The coordinator sent the writers back to fix each item, and the fact-checker checked the fixes again. Every correction was logged; they are listed below.</li>
+    </ol>
     <div id="corrections"></div>
   </section>
+
+  <section aria-labelledby="gaps-h">
+    <h2 id="gaps-h">What the sources couldn&rsquo;t tell us</h2>
+    <p>The agents were allowed to use only the library. When they needed a document the library did not have, they did not look for it themselves: they wrote the need down and left the claim out. A separate agent, the Source Scout, then searched official government websites for the most important missing documents.</p>
+    <div id="gaps"></div>
+    <h3 id="cand-h">Documents the Source Scout found</h3>
+    <p>These documents are <strong>awaiting the project owner&rsquo;s approval and are not used anywhere on this site</strong>. If approved, they will be added to the library, checked, and used to fill in the claims that are marked as missing.</p>
+    <div id="candidates"></div>
+  </section>
+
+  <section aria-labelledby="tips-h">
+    <h2 id="tips-h">Two reader tips</h2>
+    <p>Two popular claims about Enron were suggested for the site. The fact-checker looked for each one in the library.</p>
+    <div id="reader-tips"></div>
+  </section>
+
   <section aria-labelledby="web-h">
     <h2 id="web-h">Websites the agents used</h2>
+    <p>Agents could use the web only to find images and, for the Source Scout, to look for missing documents. Every site they used is listed here.</p>
     <div id="web-sources"></div>
   </section>
   <p class="ui" id="log-generated" style="font-size:.8rem;color:var(--muted)"></p>
@@ -69,6 +116,7 @@
 <script src="images/credits.js"></script>
 <script src="js/site.js"></script>
 <script src="build-log/log.js"></script>
+<script src="js/gaps-data.js"></script>
 <script src="js/how-built.js"></script>
 </body>
 </html>

@@ -221,3 +221,86 @@ Notes on the new entries:
 - **Richard Buy:** the text says he declined to answer (F-012), invoked the Fifth, and that "That is not evidence of guilt." The word "charged" is not used near his name except in "no charges shown".
 - **Nancy Temple:** the second Greenwood quote ("We have no reason at this point to doubt her good intentions") comes from the F-008 notes, which the checker verified (line 292). Both quotes are attributed to the subcommittee chairman.
 - **Raymond Troubh:** the role follows F-015's wording ("added to Enron's board after October 2001").
+
+## Round 3
+
+Findings C1-C8 from `work/facts/factcheck-round3-partB.md`, applied to `js/cast-data.js` only. Only citation objects changed: no name, role, summary, outcome label or outcome text was edited. That includes Lea Fastow's attribution sentence. The edits were made directly in the data file, so no other citation changed when the cards were updated.
+
+**C1 · `lea-fastow` · cite**
+
+- Old: card F-009, source `hrg-hec-collapse-pt2`, page 80, loc "p. 76, statement of Chairman Greenwood"
+- New: card F-051, source `hrg-hec-collapse-pt2`, page 80, loc "p. 76, questioning by Chairman Greenwood, Feb. 7, 2002"
+
+**C2 · `david-duncan` · cite**
+
+- Old: card C-030, source `batson-final-app-b-part1`, page 65, loc "p. 63 (begins p. 62), IV.A Three Errors Acknowledged by Andersen"
+- New: card F-052, source `batson-final-app-b-part1`, page 11, loc "p. 9, nn. 13-14"
+
+**C3 · `mark-koenig` · cite**
+
+- Old: card B-051, source `sec-enron-spotlight`, page None, loc "Enron-Related Enforcement Actions list (Lit. Rel. 18849, Aug. 25, 2004)"
+- New: card F-053, source `sec-enron-spotlight`, page None, loc "Enron-Related Enforcement Actions list (Lit. Rel. 18849, Aug. 25, 2004)"
+
+**C4 · `david-delainey` · cite**
+
+- Old: card B-050, source `sec-enron-spotlight`, page None, loc "Enron-Related Enforcement Actions list (Lit. Rel. 18435, Oct. 30, 2003)"
+- New: card F-054, source `sec-enron-spotlight`, page None, loc "Enron-Related Enforcement Actions list (Lit. Rel. 18435, Oct. 30, 2003)"
+
+**C5 · `jeffrey-mcmahon` · cite**
+
+- Old: card A-037, source `powers-report-sec`, page 70, loc "pp. 60-61 and 97, II.G Enron's Repurchase of Chewco; V.A Raptor I"
+- New: card A-037, source `powers-report-sec`, page 70, loc "pp. 60-64, II.G Enron's Repurchase of Chewco's Limited Partnership Interest"
+
+**C5 (added) · `jeffrey-mcmahon` · cite**
+
+- Old: (none)
+- New: card F-055, source `powers-report-sec`, page 101, loc "p. 95, IV.F; p. 62, II.G.1"
+
+**C6 · `kenneth-lay` · cite**
+
+- Old: card A-062, source `powers-report-sec`, page 16, loc "p. 19, Executive Summary - The Participants"
+- New: card A-062, source `powers-report-sec`, page 16, loc "p. 10 (Lay p. 19), Executive Summary - The LJM Transactions; The Participants"
+
+**C6 (added) · `kenneth-lay` · cite**
+
+- Old: (none)
+- New: card F-056, source `powers-report-sec`, page 25, loc "p. 19, Executive Summary - The Participants"
+
+**C7 · `lea-fastow` · cite**
+
+- Old: card F-009, source `powers-report-sec`, page None, loc "p. 54, II (Chewco), management of Chewco"
+- New: card F-009, source `powers-report-sec`, page 61, loc "p. 55"
+
+**C7 · `richard-buy` · cite**
+
+- Old: card F-011, source `powers-report-sec`, page None, loc "p. 10, Executive Summary"
+- New: card F-011, source `powers-report-sec`, page 16, loc "p. 10, Executive Summary"
+
+**C7 · `richard-buy` · cite**
+
+- Old: card F-014, source `powers-report-sec`, page None, loc "p. 84 (continues p. 85), IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'"
+- New: card F-014, source `powers-report-sec`, page 90, loc "p. 84 (continues p. 85), IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'"
+
+**C7 · `vince-kaminski` · cite**
+
+- Old: card F-014, source `powers-report-sec`, page None, loc "p. 84 (continues p. 85), IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'"
+- New: card F-014, source `powers-report-sec`, page 90, loc "p. 84 (continues p. 85), IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'"
+
+**C7 · `raymond-troubh` · cite**
+
+- Old: card F-015, source `powers-report-sec`, page None, loc "p. 31 (and p. 9 n. 1), I. Introduction (the Special Investigative Committee)"
+- New: card F-015, source `powers-report-sec`, page 37, loc "p. 31 (and p. 9 n. 1), I. Introduction (the Special Investigative Committee)"
+
+**C8 · `charles-lemaistre` · cite**
+
+- Old: card B-079, source `rpt-psi-board`, page 54, loc "p. 50, Factual Basis (Excessive Compensation)"
+- New: card B-079, source `hrg-psi-board`, page 100, loc "p. 90, Testimony of Charles LeMaistre (questioning by Sen. Levin)"
+
+**C8 · `norman-blake` · cite**
+
+- Old: card B-079, source `rpt-psi-board`, page 54, loc "p. 50, Factual Basis (Excessive Compensation)"
+- New: card B-079, source `hrg-psi-board`, page 100, loc "p. 90, Testimony of Charles LeMaistre (questioning by Sen. Levin)"
+
+Optional wording in C2 ("in May 2002") was not applied. The Duncan text still says "in 2002", which F-052 supports.
+
+After the changes: `integrate.py --no-log` reported 0 problems and `test_site.py` reported 0 problems.

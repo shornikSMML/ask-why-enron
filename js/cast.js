@@ -21,6 +21,7 @@
     // Wording used in the Reference Writer's brief (10-reference-writer.md):
     "convicted \u2014 later narrowed on appeal": "Convicted; later narrowed on appeal",
     "conviction vacated (died before appeal)": "Conviction vacated (died before appeal)",
+    "conviction vacated after his death": "Conviction vacated after his death",
     "conviction reversed": "Conviction reversed",
     "pleaded guilty": "Pleaded guilty",
     "SEC settlement": "SEC settlement",

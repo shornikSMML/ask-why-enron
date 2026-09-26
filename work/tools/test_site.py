@@ -29,14 +29,15 @@ ROOT = Path(__file__).resolve().parents[2]
 SHOTS = ROOT / "work" / "screens"
 PAGES = ["index.html"] + [f"chapters/ch{i}.html" for i in range(1, 8)] + [
     "cast.html", "timeline.html", "glossary.html", "footnote.html", "how-built.html", "sources.html", "credits.html"]
-VIEWPORTS = {"desktop": (1440, 900), "projector": (1920, 1080), "phone": (390, 844)}
-SHOT_PAGES = {"index.html", "chapters/ch1.html", "chapters/ch3.html", "chapters/ch5.html", "cast.html", "timeline.html",
-              "footnote.html", "how-built.html", "sources.html", "glossary.html", "credits.html"}
+VIEWPORTS = {"desktop": (1440, 900), "projector": (1920, 1080), "phone": (390, 844), "small": (360, 740)}
+SHOT_PAGES = set(PAGES)  # every page, every viewport, light and dark (the 360px size is checked but not photographed)
+LEFTOVER_RE = r"\[[^\]]*\bcoming\]|SAMPLE|TODO|\[Draft"
 
-REF_JS = """() => {
+REF_JS = """(LEFTOVER) => {
   const S = window.SOURCES || {}, G = window.GLOSSARY || {}, C = window.IMAGE_CREDITS || [];
   const ids = new Set(C.map(c => c.id));
   const bad = [];
+  const links = new Set();
   document.querySelectorAll('a.cite').forEach(a => {
     const id = a.getAttribute('data-src'), s = S[id];
     if (!s) bad.push('cite ' + (a.getAttribute('data-n') || '?') + ': unknown source id "' + id + '"');
@@ -53,7 +54,26 @@ REF_JS = """() => {
   document.querySelectorAll('.placeholder, .sample-flag, .figure-missing').forEach(e => {
     bad.push('leftover placeholder: ' + (e.textContent || '').trim().slice(0, 60));
   });
-  const links = new Set();
+  const txt = document.body.innerText;
+  const m = txt.match(new RegExp(LEFTOVER, 'g'));
+  if (m) bad.push('leftover placeholder text: ' + [...new Set(m)].join(', '));
+  if (!document.querySelector('footer.site-footer')) bad.push('no site footer');
+  // No link, image or script may point into sources/candidates/ (not part of the library).
+  document.querySelectorAll('[href], [src], [srcset]').forEach(e => {
+    const v = e.getAttribute('href') || e.getAttribute('src') || e.getAttribute('srcset') || '';
+    if (/sources\/candidates\//.test(v)) bad.push('links into sources/candidates/: ' + v);
+  });
+  // Every link to a local file must exist (checked on disk by Python); same-page #anchors must exist.
+  document.querySelectorAll('a[href]').forEach(a => {
+    if (a.protocol !== 'file:') return;
+    const raw = a.getAttribute('href');
+    if (raw.startsWith('#')) {
+      const id = decodeURIComponent(raw.slice(1));
+      if (id && !document.getElementById(id)) bad.push('broken same-page link: ' + raw);
+      return;
+    }
+    links.add(decodeURIComponent(a.pathname));
+  });
   document.querySelectorAll('.endnotes li a[href], .anno-panel a[href], .fn-source a[href]').forEach(a => {
     if (a.protocol === 'file:' && a.pathname.indexOf('/sources/') !== -1) links.add(decodeURIComponent(a.pathname));
   });
@@ -98,7 +118,7 @@ def main():
         exe = chromium_path()
         browser = pw.chromium.launch(executable_path=exe) if exe else pw.chromium.launch()
         for vname, (w, h) in VIEWPORTS.items():
-            for scheme in (["light", "dark"] if vname == "desktop" else ["light"]):
+            for scheme in ["light", "dark"]:
                 ctx = browser.new_context(viewport={"width": w, "height": h}, color_scheme=scheme)
                 for p in PAGES:
                     page = ctx.new_page()
@@ -115,14 +135,14 @@ def main():
                     if ov > 0:
                         problems.append(f"[{vname}/{scheme}] {p}: horizontal overflow {ov}px")
                     if vname == "desktop" and scheme == "light":
-                        ref = page.evaluate(REF_JS)
+                        ref = page.evaluate(REF_JS, LEFTOVER_RE)
                         ref_totals[p] = ref
                         for b in ref["bad"]:
                             problems.append(f"[refs] {p}: {b}")
                         for f in ref["files"]:
                             if not Path(f).exists():
                                 problems.append(f"[refs] {p}: link target missing on disk: {f}")
-                    if p in SHOT_PAGES:
+                    if p in SHOT_PAGES and vname != "small":
                         name = p.replace("/", "-").replace(".html", "")
                         page.screenshot(path=str(SHOTS / f"{vname}-{scheme}-{name}.png"), full_page=(vname == "phone" or p in {"chapters/ch1.html", "footnote.html"}))
                     page.close()

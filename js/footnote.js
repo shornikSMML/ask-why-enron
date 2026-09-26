@@ -13,7 +13,7 @@
   if (!textHost || !panel) return;
 
   if (!FN || !FN.paragraphs) {
-    textHost.innerHTML = '<p class="placeholder">[Footnote text and annotations coming]</p>';
+    textHost.innerHTML = '<p class="none">The footnote data could not be loaded.</p>';
     return;
   }
 

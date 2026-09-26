@@ -84,8 +84,27 @@ def parse_candidates():
     if not CANDS.exists():
         return []
     with CANDS.open(newline="", encoding="utf-8") as f:
-        return [{k: r.get(k, "") for k in ("id", "title", "date", "source_body", "fills_gap", "official_or_mirror")}
+        rows = [{k: r.get(k, "") for k in ("id", "date", "source_body", "fills_gap", "official_or_mirror")}
                 for r in csv.DictReader(f)]
+    # Candidate titles can state facts the library does not yet support (e.g. an outcome).
+    # Until the owner approves a candidate, the site shows only a neutral description.
+    for r in rows:
+        r["title"] = NEUTRAL_TITLES.get(r["id"], "Candidate document (description withheld until approved)")
+    return rows
+
+
+NEUTRAL_TITLES = {
+    "doj-fastow-plea-press-2004": "Justice Department press release about Andrew Fastow's criminal case (2004)",
+    "doj-fastow-sentenced-press-2006": "Justice Department press release about Andrew Fastow's criminal case (2006)",
+    "doj-glisan-plea-press-2003": "Justice Department press release about Ben Glisan's criminal case (2003)",
+    "sec-duncan-litrel-20441": "SEC litigation release about its civil case against David Duncan",
+    "ca5-skilling-2011-remand": "Fifth Circuit opinion in Skilling's case after the 2010 Supreme Court decision",
+    "doj-skilling-sentencing-agreement-2013": "Court filing in Skilling's case (2013)",
+    "doj-andersen-indictment-2002": "Indictment of Arthur Andersen LLP (2002)",
+    "andersen-scotus-full-usreports": "Full Supreme Court opinion in Arthur Andersen LLP v. United States (2005)",
+    "doj-dag-kopper-plea-transcript-2002": "Justice Department news conference transcript about Michael Kopper (2002)",
+    "doj-causey-sentenced-press-2006": "Justice Department press release about Richard Causey's criminal case (2006)",
+}
 
 
 def main():

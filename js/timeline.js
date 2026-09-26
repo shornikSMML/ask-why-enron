@@ -8,8 +8,7 @@
   var jumpHost = document.getElementById("tl-years");
   if (!host) return;
   var items = (window.TIMELINE || []).slice();
-  if (!items.length) { host.innerHTML = '<p class="placeholder">[Timeline coming]</p>'; return; }
-  if (window.TIMELINE_SAMPLE) host.insertAdjacentHTML("beforebegin", '<p><span class="sample-flag">Sample data</span></p>');
+  if (!items.length) { host.innerHTML = '<p class="none">The timeline data could not be loaded.</p>'; return; }
 
   var MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
   function fmt(d) {

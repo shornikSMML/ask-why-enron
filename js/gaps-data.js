@@ -282,83 +282,83 @@ window.GAPS = {
  "candidates": [
   {
    "id": "doj-fastow-plea-press-2004",
-   "title": "DOJ press release #019: Former Enron CFO Andrew Fastow pleads guilty to conspiracy to commit securities and wire fraud",
    "date": "2004-01-14",
    "source_body": "DOJ Office of Public Affairs",
    "fills_gap": "1",
-   "official_or_mirror": "official"
+   "official_or_mirror": "official",
+   "title": "Justice Department press release about Andrew Fastow's criminal case (2004)"
   },
   {
    "id": "doj-fastow-sentenced-press-2006",
-   "title": "DOJ press release #06-647: Former Enron CFO Andrew Fastow sentenced to six years in prison",
    "date": "2006-09-26",
    "source_body": "DOJ Office of Public Affairs",
    "fills_gap": "1",
-   "official_or_mirror": "official"
+   "official_or_mirror": "official",
+   "title": "Justice Department press release about Andrew Fastow's criminal case (2006)"
   },
   {
    "id": "doj-glisan-plea-press-2003",
-   "title": "DOJ press release #492: Former Enron Treasurer Ben Glisan pleads guilty to conspiracy to commit wire and securities fraud",
    "date": "2003-09-10",
    "source_body": "DOJ Office of Public Affairs",
    "fills_gap": "2",
-   "official_or_mirror": "official"
+   "official_or_mirror": "official",
+   "title": "Justice Department press release about Ben Glisan's criminal case (2003)"
   },
   {
    "id": "sec-duncan-litrel-20441",
-   "title": "SEC Litigation Release 20441: SEC v. David B. Duncan (settled civil action)",
    "date": "2008-01-28",
    "source_body": "SEC",
    "fills_gap": "3 (partial: civil side only); 12; 22",
-   "official_or_mirror": "official"
+   "official_or_mirror": "official",
+   "title": "SEC litigation release about its civil case against David Duncan"
   },
   {
    "id": "ca5-skilling-2011-remand",
-   "title": "United States v. Skilling - Fifth Circuit opinion on remand from the Supreme Court (No. 06-20885)",
    "date": "2011-04-06",
    "source_body": "U.S. Court of Appeals 5th Cir.",
    "fills_gap": "4",
-   "official_or_mirror": "official"
+   "official_or_mirror": "official",
+   "title": "Fifth Circuit opinion in Skilling's case after the 2010 Supreme Court decision"
   },
   {
    "id": "doj-skilling-sentencing-agreement-2013",
-   "title": "U.S. v. Skilling - Sentencing Agreement (Doc. 1316-1; Cr. No. 4:04-cr-25; S.D. Tex.)",
    "date": "2013-05-08",
    "source_body": "DOJ Criminal Division Fraud Section (court filing hosted on justice.gov)",
    "fills_gap": "4 (partial)",
-   "official_or_mirror": "official"
+   "official_or_mirror": "official",
+   "title": "Court filing in Skilling's case (2013)"
   },
   {
    "id": "doj-andersen-indictment-2002",
-   "title": "U.S. v. Arthur Andersen LLP - Indictment (S.D. Tex.; filed 3/7/02)",
    "date": "2002-03-07",
    "source_body": "DOJ (Corporate Fraud Task Force archive)",
    "fills_gap": "5 (indictment part)",
-   "official_or_mirror": "official"
+   "official_or_mirror": "official",
+   "title": "Indictment of Arthur Andersen LLP (2002)"
   },
   {
    "id": "andersen-scotus-full-usreports",
-   "title": "Arthur Andersen LLP v. United States; 544 U.S. 696 (2005) - full opinion (official U.S. Reports)",
    "date": "2005-05-31",
    "source_body": "U.S. Supreme Court (via Library of Congress)",
    "fills_gap": "9; 5 (reversal part)",
-   "official_or_mirror": "official"
+   "official_or_mirror": "official",
+   "title": "Full Supreme Court opinion in Arthur Andersen LLP v. United States (2005)"
   },
   {
    "id": "doj-dag-kopper-plea-transcript-2002",
-   "title": "DOJ transcript: Deputy Attorney General Larry Thompson news conference announcing Enron guilty plea (Kopper)",
    "date": "2002-08-21 (see notes)",
    "source_body": "DOJ Office of the Deputy Attorney General",
    "fills_gap": "6 (plea only; not sentence)",
-   "official_or_mirror": "official"
+   "official_or_mirror": "official",
+   "title": "Justice Department news conference transcript about Michael Kopper (2002)"
   },
   {
    "id": "doj-causey-sentenced-press-2006",
-   "title": "DOJ press release #06-763: Former Enron Chief Accounting Officer Richard Causey sentenced",
    "date": "2006-11-15",
    "source_body": "DOJ Office of Public Affairs",
    "fills_gap": "7",
-   "official_or_mirror": "official"
+   "official_or_mirror": "official",
+   "title": "Justice Department press release about Richard Causey's criminal case (2006)"
   }
  ]
 };

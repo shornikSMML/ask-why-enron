@@ -224,7 +224,7 @@
         if (popTrigger === el && pop && !pop.hidden) { closePopover(true); return; }
         var g = G[id];
         var title = g ? esc(g.term || id) : esc(el.textContent);
-        var def = g ? esc(g.short || g.definition || "") : '<span class="placeholder">[Definition coming]</span>';
+        var def = g ? esc(g.short || g.definition || "") : '<span class="none">No definition found.</span>';
         openPopover(el, title, "<p>" + def + '</p><p><a href="' + ROOT + "glossary.html#" + encodeURIComponent(id) + '">Open in the glossary →</a></p>');
       }
       el.addEventListener("click", function (e) { e.preventDefault(); show(); });

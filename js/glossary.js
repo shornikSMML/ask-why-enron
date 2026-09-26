@@ -9,7 +9,7 @@
   var G = window.GLOSSARY || {};
   var ids = Object.keys(G);
   if (!ids.length) {
-    host.innerHTML = '<p class="placeholder">[Glossary coming]</p>';
+    host.innerHTML = '<p class="none">The glossary data could not be loaded.</p>';
     if (search) search.parentNode.hidden = true;
     return;
   }

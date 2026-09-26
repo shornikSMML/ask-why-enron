@@ -9,7 +9,7 @@
   if (!host) return;
   var list = window.IMAGE_CREDITS || [];
   var usage = window.IMAGE_USAGE || {};
-  if (!list.length) { host.innerHTML = '<p class="placeholder">[Image credits coming]</p>'; return; }
+  if (!list.length) { host.innerHTML = '<p class="none">The image credits could not be loaded.</p>'; return; }
 
   function link(url, text) {
     return url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(text || url) + "</a>" : "";

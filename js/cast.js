@@ -40,8 +40,7 @@
   var host = document.getElementById("cast");
   if (!host) return;
   var list = window.CAST || [];
-  if (!list.length) { host.innerHTML = '<p class="placeholder">[Cast of Characters coming]</p>'; return; }
-  if (window.CAST_SAMPLE) host.insertAdjacentHTML("beforebegin", '<p><span class="sample-flag">Sample data</span></p>');
+  if (!list.length) { host.innerHTML = '<p class="none">The Cast of Characters data could not be loaded.</p>'; return; }
 
   host.innerHTML = list.map(function (p) {
     var label = labelFor(p.outcome_status);

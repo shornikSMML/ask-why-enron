@@ -133,3 +133,34 @@ Verdict lines:
 ## Gaps
 
 No new gaps. The existing gaps still stand: the Koenig plea date and sentence; Fastow's, Glisan's and Delainey's charges and sentences; Duncan's criminal case; and how the SEC's civil cases against Lay, Skilling, McMahon and the Merrill executives ended.
+
+## Follow-up: F-cards (`work/facts/reader-followup.json`) and card B-051
+
+Checked as in Round 1. For each card I verified the quote word for word at the locator (script plus hand check), opened page images for all image-only and OCR pages, checked the verb and the outcome wording, and checked the notes' side claims. Fingerprints: all files used match (see the 74-file check above). Page images opened:
+- `rpt-psi-board` PDF 49 and 61-63
+- `hrg-hec-collapse-pt4` PDF 120
+- `hrg-hec-collapse-pt3` PDF 122 and 135
+- `batson-1st-interim` PDF 4
+
+| Card | Verdict | Note |
+|---|---|---|
+| F-001 | OK | Matches the text layer and the letter image. |
+| F-002 | FIXED | "Staff found the directors never saw the letter" became "the directors said"; verb changed to "reported". **Misquote confirmed on the page image:** the report prints "a wave accounting scandals" and the letter reads "a wave of accounting scandals". |
+| F-003 | FIXED (notes) | **Misquote confirmed:** "overriding principle" vs the letter's "overriding basic principle", and "[Andersen]" vs "AA&Co." I found a third difference: "buy or sell" (report) vs "sell or buy" (letter). |
+| F-004 | FIXED | The full letter is printed in two documents, not three (PSI App. 2; Mar. 14 hearing tab 14). The Feb. 14 hearing prints page 1 (tab 10) and the shorter "To Rex Rogers" version (tab 14), both confirmed on images. |
+| F-005 | FIXED | Lay's "very strong results" referred to the core businesses, not "the quarter's results". Source type corrected. Quote verified on the image. |
+| F-006 | OK | |
+| F-007 | OK | |
+| F-008 | FIXED | Source type corrected: the quote is the chairman's opening statement, not sworn testimony. The "instructed him to shred" remark is Rep. Shadegg's, citing press reports, not a witness's. |
+| F-009 | OK | |
+| F-010 | OK, attribution required | Verbatim at `skilling-scotus-2010` PDF 93, printed p. 450 n. 12. Confirmed it is Justice Sotomayor's opinion concurring in part and dissenting in part (joined by Stevens and Breyer), in a list of publicity "highlights". It gives no charge or sentence. Use only as "According to a separate opinion in *Skilling v. United States* (2010) ...". **Side effect:** the same footnote says Andrew Fastow pleaded guilty in 2004, so the Cast's Fastow entry ("The library does not say whether he pleaded guilty ...") can be updated with the same attribution. |
+| F-011 | OK | |
+| F-012 | FIXED | Verb "testified" became "declined to answer (invoked Fifth Amendment)". |
+| F-013 | OK | |
+| F-014 | OK | |
+| F-015 | OK | |
+| B-051 | FIXED | April 2001 changed to January 22, 2001 (ca5-skilling-2009 PDF 5-6, n. 3). The Cast `mark-koenig` entry still needs the same change (finding #2). |
+
+Totals: 15 F-cards, 9 OK, 6 FIXED, 0 rejected. Corrections are logged as rows 16-22 in `build-log/corrections.md`.
+
+Side observation, not in scope: `rpt-psi-board` n. 155 (PDF 49) cites the Q3 10-Q for a "$711 million" pre-tax and "$544 million" after-tax Raptor charge. The 10-Q itself says $710 million and $462 million (card A-058). Do not cite n. 155 for these figures.

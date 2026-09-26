@@ -22,12 +22,14 @@
     "event_date": "2001-08-15",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The report dates the letter 8/15/01 (n. 18) and reprints it as Appendix 2 (see F-004). The report's '. . .' omits letter text between the two sentences. Text-layer PDF (not OCR). Wording matches the reprinted letter image (Appendix 2, printed p. 57)."
+    "notes": "The report dates the letter 8/15/01 (n. 18) and reprints it as Appendix 2 (see F-004). The report's '. . .' omits letter text between the two sentences. Text-layer PDF (not OCR). Wording matches the reprinted letter image (Appendix 2, printed p. 57).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim in the text layer (rpt-psi-board PDF 16, printed p. 12, lines 853-857). The two quoted sentences also checked against the letter image (App. 2, PDF 61, printed p. 57): wording matches; the report's '. . .' correctly marks omitted text. Claim, verb and source type OK."
   },
   {
     "id": "F-002",
     "topic": "Watkins letter: PSI Finding 4 quotations (implode; Raptor and Condor)",
-    "claim": "The Senate subcommittee staff found that the outside directors never saw Watkins's letter before Enron began to collapse; had they seen it, they would have learned she told Lay in mid-August 2001 that she feared Enron would 'implode' in accounting scandals and that its accounting was 'very aggressive,' especially the Raptor and Condor deals.",
+    "claim": "The Senate subcommittee staff reported that the directors it interviewed said they saw neither Watkins's letter nor Vinson & Elkins's report on it until after Enron had begun to collapse. The staff wrote that, had they seen it, they would have learned she told Lay in mid-August 2001 that she feared Enron would 'implode' in accounting scandals and that its accounting was 'very aggressive,' especially the Raptor and Condor deals.",
     "quote": "Ms. Watkins had told Mr. Lay in mid-August that she was ‘‘incredibly nervous that [Enron] will implode in a wave accounting scandals’’; that ‘‘Enron has been very aggressive in its accounting—most notably the Raptor transactions and the Condor vehicle’’",
     "source_id": "rpt-psi-board",
     "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
@@ -38,15 +40,17 @@
       "lines": "work/text/rpt-psi-board.txt 2977-3003, 3031-3033"
     },
     "source_type": "congressional staff report",
-    "verb": "found",
+    "verb": "reported",
     "people": [
       "Sherron Watkins",
       "Kenneth Lay"
     ],
     "event_date": "2001-08",
     "from_ocr": false,
-    "ocr_checked_against_image": false,
-    "notes": "WORDING DISCREPANCY: the staff report's quotation reads 'a wave accounting scandals' (the word 'of' is missing and '[Enron]' replaces 'we'). The letter itself, reprinted as Appendix 2 (printed p. 57, PDF 61, checked against the image), reads 'I am incredibly nervous that we will implode in a wave of accounting scandals.' Writers should quote the letter itself (F-004), not this version. n. 156 explains that the 'Condor vehicle' refers to Whitewing and the Osprey debt certificates. Same passage: interviewed directors said officers referred to the letter at the October 2001 Board meeting as coming from an anonymous employee, and Lay 'apparently did not disclose' its Raptor and accounting concerns to fellow directors (staff finding, based on director interviews)."
+    "ocr_checked_against_image": true,
+    "notes": "WORDING DISCREPANCY: the staff report's quotation reads 'a wave accounting scandals' (the word 'of' is missing and '[Enron]' replaces 'we'). The letter itself, reprinted as Appendix 2 (printed p. 57, PDF 61, checked against the image), reads 'I am incredibly nervous that we will implode in a wave of accounting scandals.' Writers should quote the letter itself (F-004), not this version. n. 156 explains that the 'Condor vehicle' refers to Whitewing and the Osprey debt certificates. Same passage: interviewed directors said officers referred to the letter at the October 2001 Board meeting as coming from an anonymous employee, and Lay 'apparently did not disclose' its Raptor and accounting concerns to fellow directors (staff finding, based on director interviews).",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. FIXED. Claim said the staff 'found that the outside directors never saw' the letter. The report attributes this to the directors: 'The interviewed directors said that they saw neither the letter itself nor the Vinson & Elkins report on it until after Enron had begun to collapse' (PDF 49, printed p. 45). Reworded the claim to 'the directors ... said' and changed the verb to 'reported'. Quote verified verbatim against the text layer AND the page image (PDF 49): the report really does print 'a wave accounting scandals' (no 'of'). The letter image (App. 2, PDF 61) reads 'I am incredibly nervous that we will implode in a wave of accounting scandals.' The misquote finding is CONFIRMED: quote the letter (F-004), not the report's version. 'Enron has been very aggressive in its accounting—most notably the Raptor transactions and the Condor vehicle' matches the letter."
   },
   {
     "id": "F-003",
@@ -68,13 +72,15 @@
     ],
     "event_date": "2001-08-15",
     "from_ocr": false,
-    "ocr_checked_against_image": false,
-    "notes": "Also quoted on this page: 'None of that will protect Enron if these transactions are ever disclosed in the bright light of day.' SMALL DISCREPANCY: the staff report's block quote begins 'The overriding principle of accounting...'; the letter image (App. 2, printed p. 58, PDF 62) reads 'The overriding basic principle of accounting...'. The report also replaces 'AA&Co.' with '[Andersen]'. Directly relevant to the Footnote page: Watkins refers to 'our related party footnote'. The staff then compares the one-page related-party footnotes (Footnote 16) in the 1999 and 2000 10-Ks with the nine-page description in the Q3 2001 10-Q, calling the 2000 footnote 'nearly unintelligible' (same page)."
+    "ocr_checked_against_image": true,
+    "notes": "Also quoted on this page: 'None of that will protect Enron if these transactions are ever disclosed in the bright light of day.' SMALL DISCREPANCY: the staff report's block quote begins 'The overriding principle of accounting...'; the letter image (App. 2, printed p. 58, PDF 62) reads 'The overriding basic principle of accounting...'. The report also replaces 'AA&Co.' with '[Andersen]'. Directly relevant to the Footnote page: Watkins refers to 'our related party footnote'. The staff then compares the one-page related-party footnotes (Footnote 16) in the 1999 and 2000 10-Ks with the nine-page description in the Q3 2001 10-Q, calling the 2000 footnote 'nearly unintelligible' (same page). SECOND DISCREPANCY (found by the Fact-Checker): the staff report's block quote reads 'Would he buy or sell the stock'; the letter image reads 'Would he sell or buy the stock' (App. 2, printed p. 58, PDF 62).",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. FIXED (notes only). Quote verified verbatim in the text layer (PDF 52, printed p. 48) and against the letter image (App. 2, PDF 62): 'My concern is that the footnotes don't adequately explain the transactions. If adequately explained, the investor would know that the \"Entities\" described in our related party footnote are thinly capitalized, the equity holders have no skin in the game' matches. The misquote finding is CONFIRMED: the report prints 'The overriding principle of accounting' where the letter reads 'The overriding basic principle of accounting', and replaces 'AA&Co.' with '[Andersen]'. I found one more: 'buy or sell' (report) vs 'sell or buy' (letter); added to notes. Quote the letter image, not the report's block quote, for any of these sentences."
   },
   {
     "id": "F-004",
     "topic": "Watkins letter: full text printed in library documents",
-    "claim": "The full August 15, 2001 letter to Lay is printed as page images in three library documents: Appendix 2 of the Senate subcommittee staff report, and the exhibits to the House Energy and Commerce oversight hearings of February 14 and March 14, 2002. It opens by asking whether Enron had become a risky place to work.",
+    "claim": "The full August 15, 2001 letter to Lay is printed as page images in Appendix 2 of the Senate subcommittee staff report and in the exhibits (tab 14) of the House Energy and Commerce oversight hearing of March 14, 2002. Page 1 is also printed (tab 10) in the exhibits of the February 14, 2002 hearing. The letter opens by asking whether Enron had become a risky place to work.",
     "quote": "Has Enron become a risky place to work? ... I am incredibly nervous that we will implode in a wave of accounting scandals.",
     "source_id": "rpt-psi-board",
     "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
@@ -93,12 +99,14 @@
     "event_date": "2001-08-15",
     "from_ocr": false,
     "ocr_checked_against_image": true,
-    "notes": "The quote joins two sentences from the same page (paragraphs 1 and 6), marked with '...'; use them separately if preferred. PDF pp. 61-63 are images with no text; quotes were read directly from the page images. As printed, the letter is addressed 'Dear Mr. Lay,' and carries no signature; the report's appendix title attributes it to Watkins. Watkins testified she gave Lay 'the anonymous letter on August 15, 2001, and then the full set of memos when we met on August 22, 2001' (hrg-commerce-skilling-watkins, printed p. 87, PDF 91, text lines 5594-5596). OTHER PRINTINGS (image pages, found by OCR in scratch and confirmed against the page images): (a) hrg-hec-collapse-pt4 (Mar. 14, 2002), tab 14, printed pp. 116-118 (PDF 120-122), Bates E 68548-68550: the full three-page letter, same wording as the PSI Appendix 2. Rep. Stupak reads from this tab during the hearing ('I’m on 14'). (b) hrg-hec-collapse-pt3 (Feb. 14, 2002, the hearing where Watkins testified), tab 10, printed p. 118 (PDF 122), Bates SW(HSE&EC)0001: page 1 of the letter, same wording. (c) TWO OR MORE VERSIONS EXIST: hrg-hec-collapse-pt3 also prints a shorter version as tab 14 (printed p. 131, PDF 135, Bates SW(HSE&EC)0002). It has a handwritten note 'To Rex Rogers 8/17/01' and leaves out the opening 'risky place to work' paragraph and the sentence about 'My 8 years of Enron work history'. pt3 printed pp. 119-121 and 132-133 hold further pages or drafts whose wording differs (seen only in rough OCR, not checked word for word). hrg-hec-collapse-pt4 prints both versions again later in its exhibits: a full version at printed pp. 406-408 (PDF 410-412) and the shorter version without the opening paragraph at printed pp. 410-412 (PDF 414-416). These were seen only in rough scratch OCR and not checked against the images. Writers should quote the PSI Appendix 2 / pt4 tab 14 text and say which version they mean. Page 2 of the letter (App. 2 p. 58) has the 'Summary of alleged issues' on the Raptors. Page 3 (p. 59) ends 'Too many people are looking for a smoking gun.' No Senate Commerce hearing (hrg-commerce-skilling-watkins, hrg-commerce-lay-powers) prints the letter; they only quote phrases from it."
+    "notes": "The quote joins two sentences from the same page (paragraphs 1 and 6), marked with '...'; use them separately if preferred. PDF pp. 61-63 are images with no text; quotes were read directly from the page images. As printed, the letter is addressed 'Dear Mr. Lay,' and carries no signature; the report's appendix title attributes it to Watkins. Watkins testified she gave Lay 'the anonymous letter on August 15, 2001, and then the full set of memos when we met on August 22, 2001' (hrg-commerce-skilling-watkins, printed p. 87, PDF 91, text lines 5594-5596). OTHER PRINTINGS (image pages, found by OCR in scratch and confirmed against the page images): (a) hrg-hec-collapse-pt4 (Mar. 14, 2002), tab 14, printed pp. 116-118 (PDF 120-122), Bates E 68548-68550: the full three-page letter, same wording as the PSI Appendix 2. Rep. Stupak reads from this tab during the hearing ('I’m on 14'). (b) hrg-hec-collapse-pt3 (Feb. 14, 2002, the hearing where Watkins testified), tab 10, printed p. 118 (PDF 122), Bates SW(HSE&EC)0001: page 1 of the letter, same wording. (c) TWO OR MORE VERSIONS EXIST: hrg-hec-collapse-pt3 also prints a shorter version as tab 14 (printed p. 131, PDF 135, Bates SW(HSE&EC)0002). It has a handwritten note 'To Rex Rogers 8/17/01' and leaves out the opening 'risky place to work' paragraph and the sentence about 'My 8 years of Enron work history'. pt3 printed pp. 119-121 and 132-133 hold further pages or drafts whose wording differs (seen only in rough OCR, not checked word for word). hrg-hec-collapse-pt4 prints both versions again later in its exhibits: a full version at printed pp. 406-408 (PDF 410-412) and the shorter version without the opening paragraph at printed pp. 410-412 (PDF 414-416). These were seen only in rough scratch OCR and not checked against the images. Writers should quote the PSI Appendix 2 / pt4 tab 14 text and say which version they mean. Page 2 of the letter (App. 2 p. 58) has the 'Summary of alleged issues' on the Raptors. Page 3 (p. 59) ends 'Too many people are looking for a smoking gun.' No Senate Commerce hearing (hrg-commerce-skilling-watkins, hrg-commerce-lay-powers) prints the letter; they only quote phrases from it.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. FIXED. Claim said the full letter is printed in three documents, but the card's own notes (and my check) show the Feb. 14, 2002 hearing (hrg-hec-collapse-pt3) prints only page 1 of the full letter as tab 10; its other letter pages were seen only in rough OCR. Reworded the claim. Image checks: rpt-psi-board PDF 61-63 (printed pp. 57-59): both quoted sentences verbatim ('Has Enron become a risky place to work?'; 'I am incredibly nervous that we will implode in a wave of accounting scandals.'); opens 'Dear Mr. Lay,', unsigned; p. 59 ends 'Too many people are looking for a smoking gun.' hrg-hec-collapse-pt4 PDF 120 (printed p. 116, tab 14, Bates E 68548): same wording. hrg-hec-collapse-pt3 PDF 122 (printed p. 118, tab 10, SW(HSE&EC)0001): same page-1 wording. pt3 PDF 135 (printed p. 131, tab 14, SW(HSE&EC)0002): handwritten 'To Rex Rogers 8/17/01'; no 'risky place to work' paragraph and no 'My 8 years of Enron work history' sentence, confirmed; this page also has no closing 'What do we do?' paragraph. Watkins's testimony (hrg-commerce-skilling-watkins PDF 91, lines 5594-5596) and Stupak's 'I'm on 14' (hrg-hec-collapse-pt4 text line 3226) verified. The letter itself is undated as printed; the date comes from the PSI appendix title and Watkins's testimony."
   },
   {
     "id": "F-005",
     "topic": "Oct. 16, 2001 earnings release: Lay's words",
-    "claim": "The bankruptcy examiner's First Interim Report quotes Enron's October 16, 2001 earnings release, in which Lay called the quarter's results 'very strong' and said Enron was 'very confident' in its earnings outlook. In the next paragraph the release disclosed $1.01 billion in after-tax 'non-recurring charges.'",
+    "claim": "The bankruptcy examiner's First Interim Report quotes Enron's October 16, 2001 earnings release, in which Lay said the 26 percent increase in recurring earnings per share showed 'the very strong results' of Enron's core energy and pipeline businesses and that Enron was 'very confident' in its earnings outlook. In the next paragraph the release disclosed $1.01 billion in after-tax 'non-recurring charges.'",
     "quote": "Kenneth Lay, Enron’s Chairman and CEO, stated that “[o]ur 26 percent increase in recurring earnings per diluted share shows the very strong results of our core wholesale and retail energy businesses and our natural gas pipelines” and that Enron is “very confident in our strong earnings outlook.”",
     "source_id": "batson-1st-interim",
     "file": "sources/02-bankruptcy-examiner/batson-first-interim-report-2002-09-21.pdf",
@@ -108,7 +116,7 @@
       "section": "I.B 'Fall 2001 Events', 'Enron’s October 16, 2001 Earnings Release'; n. 6",
       "lines": "work/text/batson-1st-interim.txt 94-107"
     },
-    "source_type": "examiner conclusion",
+    "source_type": "examiner's description (quoting a company press release)",
     "verb": "stated",
     "people": [
       "Kenneth Lay"
@@ -116,7 +124,9 @@
     "event_date": "2001-10-16",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Verified word for word against the page image (PDF p. 4). The examiner is quoting Lay's words in the press release. The release itself is not in the library (Batson n. 6 cites it as Bates ELIB00002783), so cite Batson. Charges the examiner lists on the same page: $287 million (Azurix), $180 million (Broadband restructuring), $544 million (investments incl. New Power). The same paragraph says the charges produced a Q3 net loss of $618 million, then adds 'and reported net income of $292 million'. That phrase is in the image too, but its meaning is unclear. Do not use it without checking another source."
+    "notes": "Verified word for word against the page image (PDF p. 4). The examiner is quoting Lay's words in the press release. The release itself is not in the library (Batson n. 6 cites it as Bates ELIB00002783), so cite Batson. Charges the examiner lists on the same page: $287 million (Azurix), $180 million (Broadband restructuring), $544 million (investments incl. New Power). The same paragraph says the charges produced a Q3 net loss of $618 million, then adds 'and reported net income of $292 million'. That phrase is in the image too, but its meaning is unclear. Do not use it without checking another source.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. FIXED. Quote verified word for word against the page image (batson-1st-interim PDF 4, printed p. 2). Claim said Lay called 'the quarter's results' very strong; he said the increase in recurring EPS 'shows the very strong results of our core wholesale and retail energy businesses and our natural gas pipelines'. Reworded to match. Source type changed from 'examiner conclusion' to 'examiner's description (quoting a company press release)'. The '$292 million' phrase is on the image, as the note says; keep it out."
   },
   {
     "id": "F-006",
@@ -140,7 +150,9 @@
     "event_date": "1999",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Source of the code text: Hearing Exhibit 26, 'Conflicts of Interest, Investments, and Outside Business Interests of Officers and Employees', at 57 (n. 58). n. 57 quotes the general 'Business Ethics' rule from the same exhibit (7/00) at 12. DISAGREEMENT: n. 59 notes that at the hearing directors Winokur and Jaedicke 'contended that the Board did not actually ‘‘waive’’ the company’s code of conduct, but ‘‘applied’’ it'. The staff answers that all three LJM presentations explicitly asked for a code of conduct waiver. The staff also says evidence from the Andersen criminal trial indicates Board ratification 'may have originated with Andersen' (p. 24). The Board approved waivers for LJM1, LJM2 and LJM3 (p. 23)."
+    "notes": "Source of the code text: Hearing Exhibit 26, 'Conflicts of Interest, Investments, and Outside Business Interests of Officers and Employees', at 57 (n. 58). n. 57 quotes the general 'Business Ethics' rule from the same exhibit (7/00) at 12. DISAGREEMENT: n. 59 notes that at the hearing directors Winokur and Jaedicke 'contended that the Board did not actually ‘‘waive’’ the company’s code of conduct, but ‘‘applied’’ it'. The staff answers that all three LJM presentations explicitly asked for a code of conduct waiver. The staff also says evidence from the Andersen criminal trial indicates Board ratification 'may have originated with Andersen' (p. 24). The Board approved waivers for LJM1, LJM2 and LJM3 (p. 23).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim (rpt-psi-board PDF 28, printed p. 24, n. 58; lines 1613-1618). Claim verified at lines 1580-1583: 'Mr. Lay approved waiving the code of conduct prohibition for Mr. Fastow, but also asked the Enron Board to ratify his decision, even though Board concurrence was not explicitly required by company rules.' The n. 59 disagreement (Winokur/Jaedicke: 'applied', not 'waived') is stated accurately. Staff finding; verb 'found' OK."
   },
   {
     "id": "F-007",
@@ -164,7 +176,9 @@
     "event_date": "1999-06-28",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Code text in Powers n. 8 (p. 44) matches the PSI quotation (F-006) word for word. The LJM2 resolution language quoted by Powers (p. 72): the Board 'adopt[ing] and ratify[ing]' the Office of the Chairman's determination. Powers p. 4 (line 406): 'We have seen no evidence that any of these employees, except Fastow, obtained the permission required by Enron's Code of Conduct of Business Affairs to own interests in the partnerships.' Powers p. 44 also says in-house counsel and Vinson & Elkins advised Fastow that his participation in Chewco would need Chairman/CEO approval under the Code, so Kopper was substituted as Chewco's manager."
+    "notes": "Code text in Powers n. 8 (p. 44) matches the PSI quotation (F-006) word for word. The LJM2 resolution language quoted by Powers (p. 72): the Board 'adopt[ing] and ratify[ing]' the Office of the Chairman's determination. Powers p. 4 (line 406): 'We have seen no evidence that any of these employees, except Fastow, obtained the permission required by Enron's Code of Conduct of Business Affairs to own interests in the partnerships.' Powers p. 44 also says in-house counsel and Vinson & Elkins advised Fastow that his participation in Chewco would need Chairman/CEO approval under the Code, so Kopper was substituted as Chewco's manager.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim (Powers p. 69, lines 2650-2653). LJM2 'adopt[ing] and ratify[ing]' verified (p. 72, lines 2733-2735). n. 8 code text (lines 1744-1751) matches the PSI quotation. Powers p. 4 quote verified (lines 405-407)."
   },
   {
     "id": "F-008",
@@ -179,7 +193,7 @@
       "section": "Opening statement of Chairman Greenwood",
       "lines": "work/text/hrg-hec-andersen-shredding.txt 285-289"
     },
-    "source_type": "sworn testimony",
+    "source_type": "congressional hearing statement (subcommittee chairman's opening statement)",
     "verb": "stated",
     "people": [
       "Nancy Temple",
@@ -188,7 +202,9 @@
     "event_date": "2001-10",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The quote is a congressman's opening statement, not testimony and not a finding. Use 'the subcommittee chairman said.' In the same statement he said: 'We have no reason at this point to doubt her good intentions'. Temple was sworn in with the second panel, listed as 'NANCY TEMPLE, ATTORNEY, ANDERSEN LLP' (printed p. 30, PDF 34). She testified that the November 10 memo telling staff not to destroy documents was drafted by outside counsel Davis Polk & Wardwell (text lines 3279-3283). CHARGES: no library document shows that Temple was charged. andersen-scotus (Syllabus only) does not name her. A witness in hrg-hfs-enron-investors (line 9648) says Temple 'pretty much instructed him to shred'. That is a hearing witness's claim, not a finding. Gap already logged."
+    "notes": "The quote is a congressman's opening statement, not testimony and not a finding. Use 'the subcommittee chairman said.' In the same statement he said: 'We have no reason at this point to doubt her good intentions'. Temple was sworn in with the second panel, listed as 'NANCY TEMPLE, ATTORNEY, ANDERSEN LLP' (printed p. 30, PDF 34). She testified that the November 10 memo telling staff not to destroy documents was drafted by outside counsel Davis Polk & Wardwell (text lines 3279-3283). CHARGES: no library document shows that Temple was charged. andersen-scotus (Syllabus only) does not name her. In hrg-hfs-enron-investors (line 9648, Feb. 5, 2002) Rep. Shadegg, questioning Berardino, said memos in the popular press 'suggest' that Temple 'pretty much instructed him to shred'. That is a congressman's remark about press reports, not testimony or a finding. Gap already logged.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. FIXED. Quote verified verbatim (hrg-hec-andersen-shredding PDF 7, printed p. 3, lines 285-289). Source type was 'sworn testimony', but the quote is Chairman Greenwood's opening statement; changed. Temple sworn with the second panel verified (line 2063 '[Witnesses sworn.]', line 2075 'NANCY TEMPLE, ATTORNEY, ANDERSEN LLP'); 'no reason at this point to doubt her good intentions' (line 292) and the Davis Polk testimony (lines 3276-3283) verified. Notes corrected: the hrg-hfs-enron-investors 'instructed him to shred' remark is by Rep. Shadegg, not a witness, and he attributes it to press reports."
   },
   {
     "id": "F-009",
@@ -212,7 +228,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Powers does not name her; the name 'Lea Fastow' appears in hrg-hec-collapse-pt2 (printed p. 76, PDF 80, Chairman Greenwood: 'Lea Fastow, Andy’s Fastow’s wife, performed certain management tasks for Chewco'; he placed in the record a 10/13/98 fax from her to Kopper). skilling-scotus-2010 describes her as 'wife of Andrew and an assistant treasurer' (see F-010). PSI report n. 56 (p. 23): the initials 'LJM' 'apparently refer to Mr. Fastow’s wife and children.'"
+    "notes": "Powers does not name her; the name 'Lea Fastow' appears in hrg-hec-collapse-pt2 (printed p. 76, PDF 80, Chairman Greenwood: 'Lea Fastow, Andy’s Fastow’s wife, performed certain management tasks for Chewco'; he placed in the record a 10/13/98 fax from her to Kopper). skilling-scotus-2010 describes her as 'wife of Andrew and an assistant treasurer' (see F-010). PSI report n. 56 (p. 23): the initials 'LJM' 'apparently refer to Mr. Fastow’s wife and children.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim (Powers p. 54, lines 2141-2144). Greenwood 'Lea Fastow, Andy's Fastow's wife, performed certain management' (hrg-hec-collapse-pt2 line 4679) and PSI n. 56 'LJM' initials (rpt-psi-board line 1554) verified."
   },
   {
     "id": "F-010",
@@ -236,7 +254,9 @@
     "event_date": "2004",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "This is the only library statement about her case. It is in a separate opinion (Sotomayor, J., joined by Stevens and Breyer, JJ.), not the Court's majority opinion or holding. It is a background list, not a record of her case. It does not say what she pleaded guilty to or what sentence she received. Do not add those details. A DOJ press release on the Fastow pleas exists only in sources/candidates/ (not approved; not used or cited)."
+    "notes": "This is the only library statement about her case. It is in a separate opinion (Sotomayor, J., joined by Stevens and Breyer, JJ.), not the Court's majority opinion or holding. It is a background list, not a record of her case. It does not say what she pleaded guilty to or what sentence she received. Do not add those details. A DOJ press release on the Fastow pleas exists only in sources/candidates/ (not approved; not used or cited).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim (skilling-scotus-2010 PDF 93, printed p. 450, n. 12, lines 4074-4086); the '...' correctly marks omitted text. Confirmed it is Justice Sotomayor's opinion 'concurring in part and dissenting in part', joined by Stevens and Breyer (Syllabus, lines 433-435; opinion heading lines 3072-3074), not the Court's opinion. It is a list of news 'highlights' about publicity, not a record of her case, and gives no charge, count or sentence. USE ONLY WITH ATTRIBUTION: 'According to a separate opinion in Skilling v. United States (2010), Lea Fastow was indicted in 2003 and pleaded guilty in 2004.' Do not add what she pleaded guilty to, and do not use the candidates-folder DOJ release. SIDE EFFECT: the same footnote says Andrew Fastow 'pleaded guilty' in 2004, so the Cast's Fastow entry ('The library does not say whether he pleaded guilty or was convicted at trial') can now be updated, with the same attribution."
   },
   {
     "id": "F-011",
@@ -260,7 +280,9 @@
     "event_date": null,
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Powers p. 84 also calls Buy head of Enron's Risk Assessment and Control (RAC) group and Kaminski's supervisor. It records that Buy 'does not recall any discussions with Kaminski' about the Rhythms deal (see F-014). CHARGES: searched all library texts. No indictment, plea, SEC complaint or conviction names Buy as a defendant. The SEC complaints in the library do not mention him. See F-012 for his use of the Fifth Amendment."
+    "notes": "Powers p. 84 also calls Buy head of Enron's Risk Assessment and Control (RAC) group and Kaminski's supervisor. It records that Buy 'does not recall any discussions with Kaminski' about the Rhythms deal (see F-014). CHARGES: searched all library texts. No indictment, plea, SEC complaint or conviction names Buy as a defendant. The SEC complaints in the library do not mention him. See F-012 for his use of the Fifth Amendment.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim (Powers p. 10, lines 622-626). Buy as RAC head and Kaminski's supervisor, and 'does not recall any discussions with Kaminski', verified (p. 84-85, lines 3147-3162)."
   },
   {
     "id": "F-012",
@@ -276,7 +298,7 @@
       "lines": "work/text/hrg-hec-collapse-pt2.txt 1566-1573"
     },
     "source_type": "sworn testimony",
-    "verb": "testified",
+    "verb": "declined to answer (invoked Fifth Amendment)",
     "people": [
       "Richard Buy",
       "Richard Causey"
@@ -284,7 +306,9 @@
     "event_date": "2002-02-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Invoking the Fifth Amendment is not evidence of guilt; say so if this is used. The chairman described Buy and Causey as 'specifically charged by the board of directors' with making sure LJM transactions were at arm's length. 'Charged' here means 'given the duty', not criminally charged. Avoid that word near Buy's name. No library document shows criminal or SEC charges against Buy."
+    "notes": "Invoking the Fifth Amendment is not evidence of guilt; say so if this is used. The chairman described Buy and Causey as 'specifically charged by the board of directors' with making sure LJM transactions were at arm's length. 'Charged' here means 'given the duty', not criminally charged. Avoid that word near Buy's name. No library document shows criminal or SEC charges against Buy.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. FIXED. Quote verified verbatim (hrg-hec-collapse-pt2 PDF 27, printed p. 23, lines 1571-1573). Oath verified ('[Witnesses sworn.]', about line 1500). Verb was 'testified'; Buy gave no testimony, so changed to 'declined to answer (invoked Fifth Amendment)', matching card C-007. Greenwood's 'specifically charged by the board' (line 1545) verified; keep the note's warning about the word 'charged'."
   },
   {
     "id": "F-013",
@@ -309,7 +333,9 @@
     "event_date": "2001-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The board's special committee found that in mid-September 2001 Causey met with Lay and 'Greg Whalley (Enron's COO)' about the Raptors, and 'Lay and Whalley directed Causey to terminate the Raptors' (powers-report-sec p. 127, lines 4618-4623). The Raptors were terminated on September 28, 2001. The JCT report (rpt-jct-vol1) gives his full name as Lawrence Gregory ('Greg') Whalley and says Lay appointed him sole member of the Deferral Plan Committee effective Oct. 26, 2001. CHARGES: no library document shows charges against Whalley."
+    "notes": "The board's special committee found that in mid-September 2001 Causey met with Lay and 'Greg Whalley (Enron's COO)' about the Raptors, and 'Lay and Whalley directed Causey to terminate the Raptors' (powers-report-sec p. 127, lines 4618-4623). The Raptors were terminated on September 28, 2001. The JCT report (rpt-jct-vol1) gives his full name as Lawrence Gregory ('Greg') Whalley and says Lay appointed him sole member of the Deferral Plan Committee effective Oct. 26, 2001. CHARGES: no library document shows charges against Whalley.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim (10-Q Note 12, lines 2474-2478). Powers p. 127 'Lay and Whalley directed Causey' and JCT 'Lawrence Gregory (\"Greg\") Whalley' appointment effective Oct. 26, 2001 (rpt-jct-vol1 text line 29724) verified."
   },
   {
     "id": "F-014",
@@ -333,7 +359,9 @@
     "event_date": "1999-06",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Powers reports sharply different memories here: 'We encountered sharply divergent recollections'. It attributes each account to the person who gave it. Kaminski's three reasons were conflict of interest, a payout skewed against Enron, and an SPE capitalized largely with Enron stock. Powers p. 87 (lines 3251-3256): Kaminski's group later estimated a 68% probability that the Rhythms structure would default. Powers p. 124: he told Andersen and Enron accountants that the Raptor share discount could not be reconciled with the collar. The Fifth Circuit (ca5-skilling-2009, PDF p. 9, n. 5, text lines 327-334) says Kaminski said Skilling told him his group 'acted more like cops' and that after the LJM deal Skilling moved Kaminski's group out of risk control. The Batson Final Report (batson-final, printed p. 19, PDF 22, n. 41; OCR text checked against page image) calls him 'Wincenty Kaminski', a Ph.D. economist, and quotes his sworn statement calling the LJM2/Raptor hedges 'terrible, terrible economic hedges.' CHARGES: none in the library. He appears only as a witness and critic."
+    "notes": "Powers reports sharply different memories here: 'We encountered sharply divergent recollections'. It attributes each account to the person who gave it. Kaminski's three reasons were conflict of interest, a payout skewed against Enron, and an SPE capitalized largely with Enron stock. Powers p. 87 (lines 3251-3256): Kaminski's group later estimated a 68% probability that the Rhythms structure would default. Powers p. 124: he told Andersen and Enron accountants that the Raptor share discount could not be reconciled with the collar. The Fifth Circuit (ca5-skilling-2009, PDF p. 9, n. 5, text lines 327-334) says Kaminski said Skilling told him his group 'acted more like cops' and that after the LJM deal Skilling moved Kaminski's group out of risk control. The Batson Final Report (batson-final, printed p. 19, PDF 22, n. 41; OCR text checked against page image) calls him 'Wincenty Kaminski', a Ph.D. economist, and quotes his sworn statement calling the LJM2/Raptor hedges 'terrible, terrible economic hedges.' CHARGES: none in the library. He appears only as a witness and critic.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim (Powers pp. 84-85, lines 3147-3162); 'sharply divergent recollections' and each account attributed. The 68% default estimate (lines 3251-3256) and CA5 n. 5 'acted more like cops' (ca5-skilling-2009 PDF 9, lines 327-334) verified. Verb 'stated' is acceptable (the committee reports what Kaminski told it)."
   },
   {
     "id": "F-015",
@@ -358,6 +386,8 @@
     "event_date": "2001-10",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "This is the committee's description of itself, not a finding about wrongdoing. The report's sections evaluating the Board are 'solely the views of' Powers and Troubh, and those on Vinson & Elkins 'solely the views of Troubh and Winokur' (p. 31 n. 3). Powers told a House hearing that he and Troubh met with counsel without Winokur when judging the Board (hrg-hec-collapse-pt1, text lines 3395-3410). CHARGES: none. Nothing in the library suggests any wrongdoing by Troubh."
+    "notes": "This is the committee's description of itself, not a finding about wrongdoing. The report's sections evaluating the Board are 'solely the views of' Powers and Troubh, and those on Vinson & Elkins 'solely the views of Troubh and Winokur' (p. 31 n. 3). Powers told a House hearing that he and Troubh met with counsel without Winokur when judging the Board (hrg-hec-collapse-pt1, text lines 3395-3410). CHARGES: none. Nothing in the library suggests any wrongdoing by Troubh.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim (Powers p. 31, lines 1275-1278). 'Solely the views of Powers and Troubh' (lines 1299-1303, 594-599) and 'solely the views of Troubh and Winokur' for V&E (line 1296) verified. Powers's House testimony on meeting without Winokur verified (hrg-hec-collapse-pt1 lines 3395-3410)."
   }
 ]

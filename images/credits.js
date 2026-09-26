@@ -233,8 +233,8 @@ window.IMAGE_CREDITS = [
     "suggested_chapter": "3 Special purpose entities",
     "credit_line": "Diagram: Ask Why site team. Sources: Powers Report; Enron Form 8-K, Nov. 8, 2001",
     "retrieved": "2026-09-26",
-    "sha256": "9eeb49f6118f315bfbdf30c87a7c5458ab441dda03f96d93765c4debf955a916",
-    "narrow_sha256": "8c40e3ee7c200a9200cf3dfa8a76658280c351887cf42e38f301a280f94b416a",
+    "sha256": "722a226bd2895b505082dd28b83e3caa48fe1d42e1c416f0d4ba958717572f21",
+    "narrow_sha256": "c77ace35382585a0e104f23bcef65675158b57704613931ce7d284f5a54b035f",
     "fact_cards": [
       "A-031",
       "A-032",

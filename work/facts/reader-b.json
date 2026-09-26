@@ -1273,7 +1273,7 @@
   {
     "id": "B-051",
     "topic": "Koenig: guilty plea",
-    "claim": "The Fifth Circuit notes that Mark Koenig (Enron investor relations) pleaded guilty to securities fraud, in part for a statement he made on an April 2001 analyst call.",
+    "claim": "The Fifth Circuit notes that Mark Koenig (Enron's Director of Investor Relations) pleaded guilty to securities fraud, in part for a statement he made on Enron's January 22, 2001 earnings call with investors: that non-core business revenues were a 'fairly small' amount of Enron Broadband Services' earnings (which the government alleged was not actually the case).",
     "quote": "Koenig pleaded guilty to securities fraud for this statement, among others.",
     "source_id": "ca5-skilling-2009",
     "file": "sources/09-courts-doj/ca5-us-v-skilling-2009.pdf",
@@ -1281,19 +1281,19 @@
       "pdf_page": 6,
       "printed_page": "p. 6",
       "section": "I.A, footnote 3",
-      "lines": "223"
+      "lines": "185-204, 223"
     },
     "source_type": "court's description of procedural history",
     "verb": "pleaded guilty",
     "people": [
       "Mark Koenig"
     ],
-    "event_date": null,
+    "event_date": "2001-01-22",
     "from_ocr": false,
     "ocr_checked_against_image": false,
     "notes": "Role from Spotlight (line 63): 'Former Executive Vice-President and Director of Investor Relations at Enron', SEC charged Aug. 25, 2004. Date of plea not in library. line numbers refer to work/text/ca5-skilling-2009.txt",
-    "checked": "OK",
-    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+    "checked": "FIXED",
+    "checker_note": "FIXED (Round 2). The claim said the statement was made on an 'April 2001 analyst call'. The Fifth Circuit's footnote 3 is attached to Koenig's statement on the January 22, 2001 earnings call (ca5-skilling-2009 PDF pp. 5-6, lines 184-204: 'on January 22, 2001, Enron released its earnings report ... He also listened silently as Mark Koenig ... assured investors that non-core business revenues were a \"fairly small\" amount of EBS's earnings'). Corrected the date. Quote itself verbatim. Date of plea still not in library."
   },
   {
     "id": "B-052",

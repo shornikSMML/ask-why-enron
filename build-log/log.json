@@ -1,13 +1,13 @@
 {
   "project": "Ask Why: The Rise and Fall of Enron",
-  "generated": "2026-09-26T11:44:25Z",
+  "generated": "2026-09-26T11:45:43Z",
   "generated_note": "Time of the newest coordinator note; the log is rebuilt from the notes by work/tools/build_log.py.",
   "summary": {
     "agents": 15,
-    "runs": 27,
+    "runs": 28,
     "runs_from_a_brief": 18,
-    "runs_resumed_by_message": 9,
-    "runs_still_open": 3,
+    "runs_resumed_by_message": 10,
+    "runs_still_open": 2,
     "coordinator_decisions": 14,
     "library_documents": 76,
     "sources_read": 56,
@@ -80,7 +80,7 @@
     ],
     "footnote_annotations": 33,
     "footnote_annotations_checked": 33,
-    "corrections": 85,
+    "corrections": 86,
     "web_sources": 9,
     "web_sites": [
       "ca5.uscourts.gov",
@@ -105,10 +105,10 @@
       "sources/candidates/candidates.csv"
     ],
     "text": [
-      "The coordinator ran 15 agents, in 27 runs: 18 started from a written brief and 9 resumed by a follow-up message (3 still working).",
+      "The coordinator ran 15 agents, in 28 runs: 18 started from a written brief and 10 resumed by a follow-up message (2 still working).",
       "The library holds 76 documents. The agents opened 56 of them, and the site cites 47.",
       "The Readers wrote 291 fact cards: short, sourced notes of one fact each. The Fact-Checker checked 291 of them against the documents, plus 33 of the 33 annotations on the footnote.",
-      "The Fact-Checker logged 85 corrections.",
+      "The Fact-Checker logged 86 corrections.",
       "Agents used 9 websites, only for images and for the Source Scout's search: ca5.uscourts.gov, commons.wikimedia.org, govinfo.gov, justice.gov, sec.gov, supremecourt.gov, tile.loc.gov, upload.wikimedia.org, www.loc.gov.",
       "The Source Scout found 10 candidate documents for missing sources. None of them may be used until the project owner approves it."
     ]
@@ -1077,9 +1077,9 @@
       "common_rules_file": "work/briefs/00-common-rules.md",
       "brief": "# Brief: Reference Writer\n\n**Role:** Write the Cast of Characters, the Timeline (1985–2006), and the Glossary. Follow `00-common-rules.md` and `CLAUDE.md`. Same fact rules as the Story Writer: use only cards marked \"OK\" or \"FIXED\" in `work/facts/*.json` and `work/facts/people-outcomes.md`; never use REJECTED cards; and put what's missing in `work/drafts/reference-requests.md` instead of looking it up.\n\n**Cast of Characters:** `js/cast-data.js` → `window.CAST = [...]`, in the format in `work/drafts/site-notes.md` (from the Site Builder). For each person:\n- their role, with dates;\n- a 2–4 sentence neutral summary;\n- `outcome_status`, one of: \"convicted\", \"convicted — later narrowed on appeal\", \"conviction vacated (died before appeal)\", \"conviction reversed\", \"pleaded guilty\", \"SEC settlement\", \"charged — outcome not in library\", \"not charged (per source)\", \"no charges shown in library\", \"not accused of wrongdoing\";\n- `outcome_text`: exactly what happened, with the right verbs;\n- `cites`: an array of `{source_id, page, loc, card}`.\n\nPrecision matters most here. If the library doesn't document how a case ended, say that plainly, and log a gap in `work/drafts/reference-gaps.md`.\n\n**Timeline:** `js/timeline-data.js` → `window.TIMELINE = [...]`. Cover 1985–2006, 35–60 events, each with a date (as precise as the source allows), a title, 1–2 sentences, `cites`, and `tags` from: company, accounting, spe, people, markets, auditors, legal, government, reform. The 2010 *Skilling v. United States* decision appears as the last item, with `epilogue: true`.\n\n**Glossary:** `js/glossary-data.js` → `window.GLOSSARY = { \"term-id\": {\"term\", \"short\" (≤ 25 words, plain), \"long\" (2–4 plain sentences, one everyday example), \"see_also\": [...]} }`. Include every term id in `work/drafts/story-terms.md` and `work/drafts/footnote-glossary-terms.md`, plus: form 10-K, footnote, related-party transaction, special purpose entity, mark-to-market accounting, restatement, auditor, audit committee, Sarbanes-Oxley Act, PCAOB, SEC, indictment, plea agreement, vacated, honest-services fraud, obstruction of justice, Big Five / Big Four, 401(k). Definitions are general knowledge; give no Enron-specific facts without a card citation.\n\n**Outputs:** the three data files, plus `work/drafts/reference-requests.md` and `work/drafts/reference-gaps.md`.\n\n## Coordinator addendum (after Fact-Checker Round 1)\n- Read `work/facts/factcheck-round1.md` first. Its table of **26 source disagreements** says how each must be presented (for example, restatement figures: use the 10-Q; Q3 2001 loss: $618M announced vs. $644M filed; the bankruptcy date Dec 2 vs. Dec 3). Follow it. Where sources disagree, say so in plain words (\"Enron's filings and the board's investigation give different figures: ...\").\n- Read `work/drafts/site-notes.md` (from the Site Builder) for the exact file names and data formats.\n- Reader tips, as ruled: **Buffett is excluded. Don't mention it.** The ranking may appear only as: \"In 2001, *Fortune* magazine ranked Enron seventh on its list of the 500 largest U.S. companies, measured by revenue,\" citing `rpt-jct-vol1` p. 58 (PDF 86) and `batson-final` n. 27 (PDF 18). Never say \"at its peak\" or \"in the world.\"\n- Andersen's CEO quote from the Dec 12, 2001 hearing: attribute it to \"Andersen's CEO, as quoted in the Powers Report.\" Don't name him for that quote.\n- Every card now carries `checked` and `checker_note`. Read the `checker_note` before using a card.\n- Images: the Image Researcher is still working. Use ids from `images/credits.json` if it exists. Otherwise use descriptive placeholder ids (e.g. `diagram-raptor`, `photo-enron-hq`) and list them in your requests file.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
       "wave": 2,
-      "decision": "accepted, pending Fact-Checker round 3",
-      "reason": "Both must-fixes and all should-fixes applied; six Cast entries added; Lea and Andrew Fastow pleas attributed to the separate opinion in Skilling v. U.S. Flags for round 3: card B-065 subcommittee wording; McMahon p. 97 citation; SEC-list citations for Koenig and Delainey.",
-      "decision_time": "2026-09-26T11:38:50Z",
+      "decision": "accepted, pending Fact-Checker final check",
+      "reason": "Eight citation fixes made; text untouched.",
+      "decision_time": "2026-09-26T11:45:43Z",
       "runs": [
         {
           "run": 1,
@@ -1169,11 +1169,16 @@
           "brief": null,
           "brief_summary": "Cast citation fixes C1-C8",
           "started": "2026-09-26T11:43:53Z",
-          "finished": null,
-          "inputs": [],
-          "outputs": [],
-          "decision": "pending",
-          "reason": "Still working: no finish note yet.",
+          "finished": "2026-09-26T11:45:43Z",
+          "inputs": [
+            "work/facts/factcheck-round3-partB.md C1-C8",
+            "cards F-051..F-056"
+          ],
+          "outputs": [
+            "js/cast-data.js (citation fields only)"
+          ],
+          "decision": "accepted, pending Fact-Checker final check",
+          "reason": "Eight citation fixes made; text untouched.",
           "handoffs_in": [
             {
               "time": "2026-09-26T11:43:53Z",
@@ -1219,6 +1224,12 @@
           "from": "Fact-Checker (Part B)",
           "to": "Reference Writer",
           "what": "Cast citation fixes C1-C8"
+        },
+        {
+          "time": "2026-09-26T11:45:43Z",
+          "from": "Reference Writer",
+          "to": "Fact-Checker (Part B)",
+          "what": "Final check of Cast citations and full reference sweep"
         }
       ],
       "reviews": [],
@@ -1315,11 +1326,11 @@
           "brief": null,
           "brief_summary": "Final check of Round 3 chapter fixes and ch4 Watkins sentence",
           "started": "2026-09-26T11:44:07Z",
-          "finished": null,
+          "finished": "2026-09-26T11:45:21Z",
           "inputs": [],
           "outputs": [],
-          "decision": "pending",
-          "reason": "Still working: no finish note yet.",
+          "decision": "done (closed by a review note)",
+          "reason": "All seven chapters PASS. 255 citations: every card checked, sources match, no candidate files cited, Buffett absent. Watkins quote verified on page image.",
           "handoffs_in": [
             {
               "time": "2026-09-26T11:44:07Z",
@@ -1329,7 +1340,15 @@
             }
           ],
           "messages": [],
-          "reviews": []
+          "reviews": [
+            {
+              "time": "2026-09-26T11:45:21Z",
+              "type": "review",
+              "agent_id": "factcheck-a",
+              "reviewed": "Final check of chapters 1-7",
+              "result": "All seven chapters PASS. 255 citations: every card checked, sources match, no candidate files cited, Buffett absent. Watkins quote verified on page image."
+            }
+          ]
         }
       ],
       "handoffs": [
@@ -1365,6 +1384,13 @@
           "agent_id": "factcheck-a",
           "reviewed": "Round 3 re-check of chapter fixes",
           "result": "ch2, ch4, ch7 PASS; ch1, ch3, ch5, ch6 FAIL on small fixes (formation sentence grammar made HNG the renamed company; a typo; ch5 $544M attribution unsupported). Six new checked cards F-016..F-021. B-079 corrected. Corrections rows 23-57 logged."
+        },
+        {
+          "time": "2026-09-26T11:45:21Z",
+          "type": "review",
+          "agent_id": "factcheck-a",
+          "reviewed": "Final check of chapters 1-7",
+          "result": "All seven chapters PASS. 255 citations: every card checked, sources match, no candidate files cited, Buffett absent. Watkins quote verified on page image."
         }
       ],
       "messages": [
@@ -1492,6 +1518,29 @@
               "result": "Timeline, Glossary, footnote, three diagrams PASS. Cast FAIL until eight citation fixes (C1-C8) are made; no factual errors in text. New checked cards F-051..F-056; B-065 fixed; corrections rows 58-85 logged. Both Fastow pleaded-guilty labels upheld with attribution."
             }
           ]
+        },
+        {
+          "run": 4,
+          "kind": "resumed",
+          "brief_file": null,
+          "brief": null,
+          "brief_summary": "Final check of Cast citations and full reference sweep",
+          "started": "2026-09-26T11:45:43Z",
+          "finished": null,
+          "inputs": [],
+          "outputs": [],
+          "decision": "pending",
+          "reason": "Still working: no finish note yet.",
+          "handoffs_in": [
+            {
+              "time": "2026-09-26T11:45:43Z",
+              "from": "Reference Writer",
+              "to": "Fact-Checker (Part B)",
+              "what": "Final check of Cast citations and full reference sweep"
+            }
+          ],
+          "messages": [],
+          "reviews": []
         }
       ],
       "handoffs": [
@@ -1527,6 +1576,12 @@
           "from": "Fact-Checker (Part B)",
           "to": "Reference Writer",
           "what": "Cast citation fixes C1-C8"
+        },
+        {
+          "time": "2026-09-26T11:45:43Z",
+          "from": "Reference Writer",
+          "to": "Fact-Checker (Part B)",
+          "what": "Final check of Cast citations and full reference sweep"
         }
       ],
       "reviews": [
@@ -1726,6 +1781,12 @@
       "from": "Story Writer",
       "to": "Fact-Checker (Part A)",
       "what": "Final check of Round 3 chapter fixes and ch4 Watkins sentence"
+    },
+    {
+      "time": "2026-09-26T11:45:43Z",
+      "from": "Reference Writer",
+      "to": "Fact-Checker (Part B)",
+      "what": "Final check of Cast citations and full reference sweep"
     }
   ],
   "messages": [
@@ -1800,6 +1861,13 @@
       "agent_id": "factcheck-b",
       "reviewed": "Round 3 re-check of reference, footnote and diagram fixes; six new Cast entries",
       "result": "Timeline, Glossary, footnote, three diagrams PASS. Cast FAIL until eight citation fixes (C1-C8) are made; no factual errors in text. New checked cards F-051..F-056; B-065 fixed; corrections rows 58-85 logged. Both Fastow pleaded-guilty labels upheld with attribution."
+    },
+    {
+      "time": "2026-09-26T11:45:21Z",
+      "type": "review",
+      "agent_id": "factcheck-a",
+      "reviewed": "Final check of chapters 1-7",
+      "result": "All seven chapters PASS. 255 citations: every card checked, sources match, no candidate files cited, Buffett absent. Watkins quote verified on page image."
     }
   ],
   "corrections": [
@@ -2058,7 +2126,7 @@
       "page_item": "ch1 (1-5) and ch6 Andersen/formation date",
       "what_it_said": "ch1: 'the same outside auditor ... when the combined company was formed'; 'Lay would lead Enron from its formation in 1986'; ch6: 'combined company was formed in 1985'",
       "what_the_source_says": "Batson: Enron formed 1985 by merger, Andersen audited InterNorth before; JCT: acquisition July 1, 1985, renamed Enron Corp. April 1986",
-      "fix": "Unified wording in ch1 and ch6 (acquired July 1985, named Enron April 1986); ch1 Lay sentence now 'lead the company until early 2002'. Round 3: a punctuation fix is still required (see factcheck-round3-partA.md)",
+      "fix": "Unified wording in ch1 and ch6 (acquired July 1985, named Enron April 1986); ch1 Lay sentence now 'lead the company until early 2002'. Round 3 (done): the sentence was split because 'which took the name Enron' read as if HNG was renamed; now '...in July 1985. The combined company took the name Enron in April 1986.' (ch1 and ch6), verified",
       "source": "batson-final-app-b-part1 p. 1 n. 1 (PDF 3); rpt-jct-vol1 p. 59 (PDF 87)",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
@@ -2138,7 +2206,7 @@
       "page_item": "ch3 (3-2) Chewco approval",
       "what_it_said": "'it saw no evidence that Kopper's role was disclosed to, or approved by, Lay or the board'",
       "what_the_source_says": "Powers: no written record of disclosure to the Board; Lay not informed; Skilling says he approved it and believes he told the Board; his approval did not satisfy the Code",
-      "fix": "Rewritten with all three accounts. Round 3: stray comma before 'It found' still to fix",
+      "fix": "Rewritten with all three accounts. Round 3 (done): the stray comma before 'It found' was corrected to a period, verified",
       "source": "powers-report-sec pp. 46-47 (lines 1818-1836)",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
@@ -2238,7 +2306,7 @@
       "page_item": "ch5 (5-1) Raptor after-tax charge",
       "what_it_said": "Only a Powers cite for '$544 million (Oct 16) ... $462 million (10-Q)'",
       "what_the_source_says": "10-Q: '$710 million ($462 million after tax)'; Batson Final n. 29: $544M",
-      "fix": "Cites added. Round 3: NOT resolved; the Oct 16 $544M covered more than the Raptors and n. 29 cites the 10-Q; rewording and new cards F-016, F-017, F-021 required",
+      "fix": "Cites added. Round 3 (done): the Oct 16 $544M also covered other investment losses, and n. 29 cites the 10-Q; reworded to 'The special committee and the bankruptcy examiner put it at $544 million ... the figure in Enron's October 16 announcement, where that charge also covered losses on some other investments ... quarterly report ... $462 million after tax'; cites A-058, F-021, F-016, F-017 (10-Q p. 53), verified",
       "source": "enron-10q-q3-2001 p. 53 (lines 3672-3674); batson-1st-interim pp. 2-3 (PDF 4-5); batson-final n. 29 (PDF 18)",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
@@ -2248,7 +2316,7 @@
       "page_item": "ch5 (5-2) Oct 22 / Oct 24 events",
       "what_it_said": "Supported only by 10-Q lines 888-894 (Oct 17, Oct 31)",
       "what_the_source_says": "Powers: Oct 22 announcement; Oct 24 Fastow on leave",
-      "fix": "Powers cite added (card F-018 to be used)",
+      "fix": "Powers cite added; Round 3 (done): card F-018",
       "source": "powers-report-sec pp. 30-31 (lines 1258-1267)",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
@@ -2258,7 +2326,7 @@
       "page_item": "ch5 (5-3) SPE debt $13-14B",
       "what_it_said": "Only the $14B source cited",
       "what_the_source_says": "First Interim: 'Approximately $13 billion'",
-      "fix": "First Interim cite added (card F-019 to be used)",
+      "fix": "First Interim cite added; Round 3 (done): card F-019",
       "source": "batson-1st-interim p. 7 (PDF 9, image-checked)",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
@@ -2278,7 +2346,7 @@
       "page_item": "ch5 (5-6, 5-7, 5-8) notes",
       "what_it_said": "'disputed' with only JCT cited; 8-K quote locator lines 22-37; 'chaired by William Powers Jr.'",
       "what_the_source_says": "Batson n. 21: 'allegedly because of undisclosed liabilities of Enron'; quote at lines 44-47; Powers named chair after Oct 28",
-      "fix": "Examiner's words quoted and cited (card F-020 to be used); locator fixed; 'later chaired' (ch5, ch7)",
+      "fix": "Examiner's words quoted and cited (Round 3 (done): card F-020); locator fixed; 'later chaired' (ch5, ch7)",
       "source": "batson-1st-interim n. 21 (PDF 8, image); enron-8k-nov-2001-ex99-1 lines 44-47; powers-report-sec lines 1270-1280",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
@@ -2378,7 +2446,7 @@
       "page_item": "Cast `jeffrey-mcmahon` role (R2 #1)",
       "what_it_said": "\"Enron treasurer at the time of the March 2001 Chewco buyout\"",
       "what_the_source_says": "Glisan succeeded McMahon as Treasurer in May 2000; by mid-2000 McMahon had left the Treasurer's position and the Finance group.",
-      "fix": "Role now \"Enron's treasurer until 2000, including during early talks in 2000 about buying out Chewco\". (Round 3: cite to new card F-055 still to be added by the writer.)",
+      "fix": "Role now \"Enron's treasurer until 2000, including during early talks in 2000 about buying out Chewco\". (Round 3, C5: cite to new card F-055 added and A-037 locator restored; verified done.)",
       "source": "powers-report-sec p. 95 (PDF 101, line 3551); p. 62 (PDF 68, lines 2388-2391)",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
@@ -2398,7 +2466,7 @@
       "page_item": "Cast `mark-koenig` outcome (R2 #2, #9)",
       "what_it_said": "Plea partly for a statement \"on an April 2001 call with analysts\"; SEC charge date uncited.",
       "what_the_source_says": "CA5 n. 3 is attached to Koenig's statement on the January 22, 2001 earnings call; SEC list records Lit. Rel. 18849, Aug. 25, 2004.",
-      "fix": "Now \"a January 2001 call with investors (January 22, 2001)\"; SEC list cited. (Round 3: SEC-list cite must move to card F-053.)",
+      "fix": "Now \"a January 2001 call with investors (January 22, 2001)\"; SEC list cited. (Round 3, C3: SEC-list cite moved to card F-053; verified done.)",
       "source": "ca5-skilling-2009 PDF 5-6 and n. 3; sec-enron-spotlight line 63",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
@@ -2408,7 +2476,7 @@
       "page_item": "Cast `kenneth-lay` summary (R2 #4)",
       "what_it_said": "\"found that Lay, as CEO, bore ultimate responsibility\"",
       "what_the_source_says": "\"As CEO, he had the ultimate responsibility for taking reasonable steps to ensure that the officers reporting to him performed their oversight duties properly ... a large measure of the responsibility rests with the CEO.\"",
-      "fix": "Rewritten to say what the responsibility was for, with the quote. (Round 3: cite must point to p. 19 / PDF 25 via card F-056.)",
+      "fix": "Rewritten to say what the responsibility was for, with the quote. (Round 3, C6: card F-056 cited at p. 19 / PDF 25 and A-062 locator restored; verified done.)",
       "source": "powers-report-sec p. 19 (PDF 25, lines 906-912)",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
@@ -2448,7 +2516,7 @@
       "page_item": "Cast `david-delainey` outcome (R2 #8)",
       "what_it_said": "\"The SEC charged Delainey on October 30, 2003\" (uncited; the SEC list does not name him)",
       "what_the_source_says": "SEC list: \"SEC Charges Former Chief Executive Officer of Enron North America and Enron Energy Services ... (Litigation Release No. 18435, Oct. 30, 2003)\".",
-      "fix": "Now describes the post, not the name, and cites the SEC list. (Round 3: cite must move to card F-054.)",
+      "fix": "Now describes the post, not the name, and cites the SEC list. (Round 3, C4: SEC-list cite moved to card F-054; verified done.)",
       "source": "sec-enron-spotlight line 91; doj-skilling-charged-press lines 159-161",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
@@ -2478,7 +2546,7 @@
       "page_item": "Cast `david-duncan` outcome (R2 #12, optional)",
       "what_it_said": "No mention of his trial testimony.",
       "what_the_source_says": "The examiner cites Duncan's testimony at the Andersen criminal trial (May 13-14, 2002).",
-      "fix": "Added \"He testified at Andersen's criminal trial in 2002, as cited by the bankruptcy examiner.\" (Round 3: cite must move from C-030 to card F-052.)",
+      "fix": "Added \"He testified at Andersen's criminal trial in 2002, as cited by the bankruptcy examiner.\" (Round 3, C2: cite moved from C-030 to card F-052; verified done.)",
       "source": "batson-final-app-b-part1 PDF 11 nn. 13-14 (image-checked)",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
@@ -2638,7 +2706,7 @@
       "page_item": "Card F-009 (Lea Fastow role) locator - Round 3",
       "what_it_said": "Printed page p. 54; no PDF page.",
       "what_the_source_says": "The passage (lines 2141-2144) falls on printed p. 55; PDF 61 of the Powers PDF copy.",
-      "fix": "Locator corrected; pdf_page also set for F-007 (75), F-011 (16), F-014 (90), F-015 (37).",
+      "fix": "Locator corrected; pdf_page also set for F-007 (75), F-011 (16), F-014 (90), F-015 (37). Round 3, C1/C7: Cast cites updated to these pages (Lea Fastow second cite moved to F-051); verified done.",
       "source": "powers-report-sec p. 55; work/text/powers-report.txt",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
@@ -2648,8 +2716,18 @@
       "page_item": "Cards F-051 to F-056 - Round 3 (new)",
       "what_it_said": "Cast cites used cards whose source did not match (B-050/B-051 for the SEC list; F-009 for the House hearing; C-030 for Duncan's trial testimony; A-037 widened to p. 97; A-062 labelled p. 19 at PDF 16).",
       "what_the_source_says": "Each fact verified at its own source (see card notes).",
-      "fix": "Added checked cards F-051 (Lea Fastow name), F-052 (Duncan trial testimony), F-053 (Koenig SEC list), F-054 (Delainey SEC list), F-055 (McMahon treasurer until May 2000), F-056 (Lay p. 19). Also corrects my own Round 2 locator: the Glisan/McMahon sentence is Powers p. 95, not p. 97.",
+      "fix": "Added checked cards (all now cited in the Cast after C1-C8, verified done) F-051 (Lea Fastow name), F-052 (Duncan trial testimony), F-053 (Koenig SEC list), F-054 (Delainey SEC list), F-055 (McMahon treasurer until May 2000), F-056 (Lay p. 19). Also corrects my own Round 2 locator: the Glisan/McMahon sentence is Powers p. 95, not p. 97.",
       "source": "see each card",
+      "date": "2026-09-26",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "86",
+      "page_item": "Cast `charles-lemaistre`, `norman-blake` cites (Round 3, C8)",
+      "what_it_said": "Cited card B-079 as rpt-psi-board p. 50 (PDF 54) after the card had been moved to the hearing transcript.",
+      "what_the_source_says": "Card B-079 now quotes the transcript: \"We had never had any responsibility to monitor this.\"",
+      "fix": "Cites changed to hrg-psi-board, page 100, \"p. 90\"; verified done.",
+      "source": "hrg-psi-board PDF 100 (printed p. 90)",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
     }
@@ -3153,6 +3231,23 @@
       "type": "agent_start",
       "label": "Started: Site Builder (brief 17-site-final.md)",
       "agent_id": "site"
+    },
+    {
+      "time": "2026-09-26T11:45:21Z",
+      "type": "review",
+      "label": "Review by Fact-Checker (Part A: chapters): All seven chapters PASS. 255 citations: every card checked, sources match, no candidate files cited, Buffett absent. Watkins quote verified on page image.",
+      "agent_id": "factcheck-a"
+    },
+    {
+      "time": "2026-09-26T11:45:43Z",
+      "type": "agent_finish",
+      "label": "Finished: Reference Writer (accepted, pending Fact-Checker final check)",
+      "agent_id": "reference"
+    },
+    {
+      "time": "2026-09-26T11:45:43Z",
+      "type": "handoff",
+      "label": "Handoff: Reference Writer to Fact-Checker (Part B)"
     }
   ]
 }

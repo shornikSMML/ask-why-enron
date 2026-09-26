@@ -104,3 +104,44 @@ Rows 58-85 in `build-log/corrections.md`: one row per Round 2 finding that was a
 | `images/diagram-chewco-ljm.svg` (+ `-narrow`) | **PASS** | none |
 | `images/diagram-raptor.svg` (+ `-narrow`) | **PASS** | none |
 | `images/chart-restatement.svg` (+ `-narrow`) | **PASS** | none |
+
+## Final
+
+**C1-C8 verified in `js/cast-data.js`: all done.**
+- C1: Lea Fastow's House-hearing cite now uses F-051 (page 80).
+- C2: Duncan's trial-testimony sentence now cites F-052 (page 11, "p. 9, nn. 13-14"). C-030 is no longer cited there.
+- C3: Koenig's SEC-list cite now uses F-053. His B-051 cite remains, correctly, for the Fifth Circuit.
+- C4: Delainey's SEC-list cite now uses F-054. His B-050 cite remains, correctly, for the DOJ release.
+- C5: McMahon now cites F-055 (page 101), and A-037's locator is back to "pp. 60-64".
+- C6: Lay now cites F-056 (page 25, p. 19), and A-062's locator is back to "p. 10 (Lay p. 19)".
+- C7: the page is now set on every cite to an F-card: F-009 → 61 ("p. 55"), F-011 → 16, F-014 → 90, F-015 → 37.
+- C8: LeMaistre and Blake now cite B-079 as `hrg-psi-board`, page 100, "p. 90".
+- The label "conviction vacated after his death" is now a key in `js/cast.js`.
+- No names, roles, summaries or outcome texts changed.
+
+**Sweep of the Cast, Timeline and Glossary (301 cites)**
+- **Cards:** every cite's card exists and is marked OK or FIXED.
+- **Sources:** every `source_id` is a manifest id and equals its card's source.
+- **Pages:** every page equals its card's `pdf_page`.
+- **Quote on page:** for 221 cites with a page, a script looked for the card's quote on that PDF page of the text copy.
+  - 204 were found there.
+  - The other 17 were checked by hand. All are text-copy artifacts at the correct page: OCR noise ("August 14,2001"), soft or line-break hyphens, two-column layout, quotes that run across a page break (GAO PDF 7-8 and 24-25), and one image-only page (the Temple e-mail, C-001, image-checked in Round 1).
+  - One is a card note, not an error: A-046's quote comes from the Executive Summary, p. 13. Its PDF page (86) is where the facts the Timeline cites appear.
+- **Candidates:** no file cites anything in `sources/candidates/`.
+- **Buffett:** "Buffett" or "Buffet" does not appear anywhere in the three files.
+
+**Corrections log.** The pending rows for C1-C7 in `build-log/corrections.md` now say "verified done". Row 86 was added for C8.
+
+**Final verdicts**
+
+| File | Verdict |
+|---|---|
+| `js/cast-data.js` | **PASS** |
+| `js/timeline-data.js` | **PASS** |
+| `js/glossary-data.js` | **PASS** |
+| `work/drafts/footnote.json` / `js/footnote-data.js` (intro, closing, fn-05) | **PASS** |
+| `images/diagram-chewco-ljm.svg` (+ `-narrow`) | **PASS** |
+| `images/diagram-raptor.svg` (+ `-narrow`) | **PASS** |
+| `images/chart-restatement.svg` (+ `-narrow`) | **PASS** |
+
+No required fixes remain for Part B.

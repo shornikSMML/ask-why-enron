@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 1801" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+  <title id="t">How the Raptor "hedges" worked, 2000–2001 (phone layout)</title>
+  <desc id="d">Original diagram, simplified, based on the findings of Enron's board special committee (the Powers Report). Four special purpose entities called the Raptors (Talon, Timberwolf, Porcupine and Bobcat) were set up with LJM2 in 2000. LJM2 was a partnership managed by Enron's chief financial officer, Andrew Fastow. Step 1: Enron put in its own stock and rights to receive more of it; for Raptor I, about 537 million dollars of stock and stock contracts plus a 50 million dollar note. Step 2: LJM2 put 30 million dollars into each Raptor. Step 3: LJM2 got back 39.5 to 41 million dollars from each Raptor within six months. Step 4: the Raptors promised to cover Enron's losses on its merchant investments, stakes in other companies valued at market price each quarter. Result: in the last two quarters of 2000, Enron recognized 532 million dollars of pre-tax earnings from the Raptors, more than 80 percent of its 650 million dollars of reported pre-tax earnings. The catch: the Raptors' ability to pay rested mainly on Enron's own stock. When Enron's share price fell, they could not pay. December 22, 2000: two Raptors lacked the capacity to pay, and Enron pooled all four under a 45-day cross-guarantee and recorded no loss reserve for 2000. March 26, 2001: with a 504 million dollar shortfall, Enron restructured the Raptors, adding more than 800 million dollars of contracts to receive its own stock. September 28, 2001: Enron terminated the Raptors, paid LJM2 about 35 million dollars, and recorded a charge of about 710 million dollars before taxes. The committee found: In effect, Enron was hedging risk with itself. Raptor III (Porcupine) held warrants for New Power Company stock instead of Enron stock.</desc>
+  <style>
+    svg { --d-bg:#fcfcfb; --d-ink:#1b1b1a; --d-muted:#52514e; --d-line:#8a8984; --d-co:#e3eefb; --d-co-edge:#2a78d6; --d-spe:#fde8df; --d-spe-edge:#c4501f; --d-out:#eeeeec; --d-note:#f6f3e6; --d-flag:#8a3a12; --d-bar:#2a78d6; }
+    @media (prefers-color-scheme: dark) {
+      svg { --d-bg:#1a1a19; --d-ink:#f2f2f0; --d-muted:#c3c2b7; --d-line:#9a998f; --d-co:#1d2d42; --d-co-edge:#3987e5; --d-spe:#3d241a; --d-spe-edge:#e0703f; --d-out:#2a2a28; --d-note:#2b2920; --d-flag:#f0a47f; --d-bar:#3987e5; }
+    }
+    .bg   { fill: var(--diagram-bg, var(--d-bg)); }
+    .ink  { fill: var(--diagram-ink, var(--d-ink)); }
+    .mut  { fill: var(--diagram-muted, var(--d-muted)); }
+    .co   { fill: var(--d-co); stroke: var(--d-co-edge); stroke-width: 2.5; }
+    .spe  { fill: var(--d-spe); stroke: var(--d-spe-edge); stroke-width: 2.5; }
+    .out  { fill: var(--d-out); stroke: var(--d-line); stroke-width: 2; }
+    .note { fill: var(--d-note); stroke: var(--d-line); stroke-width: 1.5; }
+    .zone { fill: none; stroke: var(--d-line); stroke-width: 2; stroke-dasharray: 8 6; }
+    .flag { fill: none; stroke: var(--d-flag); stroke-width: 2; stroke-dasharray: 6 5; }
+    .flagt{ fill: var(--d-flag); font-size: 13px; font-weight: 700; letter-spacing: .06em; }
+    .bar  { fill: var(--d-bar); }
+    .base { stroke: var(--d-line); stroke-width: 1.5; }
+    .arr  { fill: none; stroke: var(--diagram-ink, var(--d-ink)); stroke-width: 3; }
+    .thin { fill: none; stroke: var(--diagram-muted, var(--d-muted)); stroke-width: 2; }
+    .ah   { fill: var(--diagram-ink, var(--d-ink)); }
+    .ahm  { fill: var(--diagram-muted, var(--d-muted)); }
+    .step { fill: var(--diagram-ink, var(--d-ink)); }
+    .stepn{ fill: var(--diagram-bg, var(--d-bg)); font-weight: 700; font-size: 15px; }
+    .h    { font-size: 21px; font-weight: 700; }
+    .hb   { font-weight: 700; }
+    .i    { font-style: italic; }
+    .tag  { font-weight: 700; letter-spacing: .06em; }
+  </style>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path class="ah" d="M0,0 L10,5 L0,10 z"/>
+    </marker>
+    <marker id="am" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path class="ahm" d="M0,0 L10,5 L0,10 z"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="520" height="1801" rx="12"/>
+  <text class="ink" x="260" y="40" font-size="24" text-anchor="middle" font-weight="700">How the Raptor "hedges"</text>
+  <text class="ink" x="260" y="70" font-size="24" text-anchor="middle" font-weight="700">worked (2000–2001)</text>
+  <text class="mut" x="260" y="98" font-size="16" text-anchor="middle">Simplified. The four Raptors: Talon, Timberwolf,</text>
+  <text class="mut" x="260" y="119" font-size="16" text-anchor="middle">Porcupine, Bobcat.</text>
+  <rect class="co" x="16" y="150" width="488" height="134" rx="10"/>
+  <text class="ink" x="260" y="182" font-size="24" text-anchor="middle" font-weight="700">Enron</text>
+  <text class="ink" x="260" y="212" font-size="17" text-anchor="middle">Owned stakes in other companies ("merchant</text>
+  <text class="ink" x="260" y="234" font-size="17" text-anchor="middle">investments"), valued at market price every</text>
+  <text class="ink" x="260" y="256" font-size="17" text-anchor="middle">quarter</text>
+  <path class="arr" d="M150,284 L150,434" marker-end="url(#a)"/>
+  <circle class="step" cx="150" cy="310" r="15"/><text class="stepn" x="150" y="315" text-anchor="middle">1</text>
+  <text class="ink" x="134" y="344" font-size="16" text-anchor="end" font-weight="700">Enron stock,</text>
+  <text class="ink" x="134" y="364" font-size="16" text-anchor="end" font-weight="700">and rights to</text>
+  <text class="ink" x="134" y="384" font-size="16" text-anchor="end" font-weight="700">receive more</text>
+  <text class="mut" x="134" y="406" font-size="12.5" text-anchor="end">(Raptor I: ~$537M</text>
+  <text class="mut" x="134" y="422" font-size="12.5" text-anchor="end">+ a $50M note)</text>
+  <path class="arr" d="M370,440 L370,290" marker-end="url(#a)"/>
+  <circle class="step" cx="370" cy="412" r="15"/><text class="stepn" x="370" y="417" text-anchor="middle">4</text>
+  <text class="ink" x="388" y="330" font-size="16" font-weight="700">Promise to</text>
+  <text class="ink" x="388" y="350" font-size="16" font-weight="700">cover losses</text>
+  <text class="ink" x="388" y="370" font-size="16" font-weight="700">on Enron's</text>
+  <text class="ink" x="388" y="390" font-size="16" font-weight="700">investments</text>
+  <rect class="spe" x="16" y="440" width="488" height="104" rx="10"/>
+  <text class="ink" x="260" y="472" font-size="22" text-anchor="middle" font-weight="700">The four Raptors</text>
+  <text class="ink" x="260" y="500" font-size="16" text-anchor="middle">Special purpose entities set up with LJM2 in 2000</text>
+  <text class="ink" x="260" y="526" font-size="17" text-anchor="middle" font-weight="700">Main asset: Enron's own stock*</text>
+  <path class="arr" d="M150,660 L150,550" marker-end="url(#a)"/>
+  <circle class="step" cx="150" cy="604" r="15"/><text class="stepn" x="150" y="609" text-anchor="middle">2</text>
+  <text class="ink" x="174" y="600" font-size="16" font-weight="700">$30 million</text>
+  <text class="ink" x="174" y="620" font-size="16">into each</text>
+  <path class="arr" d="M370,544 L370,654" marker-end="url(#a)"/>
+  <circle class="step" cx="370" cy="598" r="15"/><text class="stepn" x="370" y="603" text-anchor="middle">3</text>
+  <text class="ink" x="392" y="580" font-size="16" font-weight="700">$39.5–41M</text>
+  <text class="ink" x="392" y="600" font-size="14.5">back from each</text>
+  <text class="ink" x="392" y="619" font-size="14.5">within 6 months</text>
+  <rect class="out" x="16" y="660" width="488" height="84" rx="10"/>
+  <text class="ink" x="260" y="692" font-size="21" text-anchor="middle" font-weight="700">LJM2</text>
+  <text class="ink" x="260" y="722" font-size="15.5" text-anchor="middle">Partnership managed by Enron's CFO, Andrew Fastow</text>
+  <rect class="note" x="16" y="764" width="488" height="184" rx="10"/>
+  <text class="ink" x="34" y="794" font-size="18" font-weight="700">What Enron could report</text>
+  <text class="ink" x="34" y="822" font-size="16">Losses on its investments were cancelled out by</text>
+  <text class="ink" x="34" y="844" font-size="16">"gains" on the Raptor hedges.</text>
+  <text class="ink" x="34" y="874" font-size="16">Last two quarters of 2000: $532 million of pre-tax</text>
+  <text class="ink" x="34" y="896" font-size="16">earnings from the Raptors, more than 80% of</text>
+  <text class="ink" x="34" y="918" font-size="16">Enron's $650 million reported pre-tax earnings.</text>
+  <rect class="note" x="16" y="968" width="488" height="717" rx="12"/>
+  <text class="ink" x="34" y="1000" font-size="18" font-weight="700">The catch: the protection was made mostly</text>
+  <text class="ink" x="34" y="1024" font-size="18" font-weight="700">of Enron's own stock</text>
+  <rect class="spe" x="40" y="1050" width="440" height="42" rx="8"/>
+  <text class="ink" x="260" y="1077" font-size="14.5" text-anchor="middle" font-weight="700">Enron's share price falls</text>
+  <path class="arr" d="M260,1093 L260,1110" marker-end="url(#a)"/>
+  <rect class="spe" x="40" y="1112" width="440" height="42" rx="8"/>
+  <text class="ink" x="260" y="1139" font-size="14.5" text-anchor="middle" font-weight="700">The Enron stock the Raptors hold is worth less</text>
+  <path class="arr" d="M260,1155 L260,1172" marker-end="url(#a)"/>
+  <rect class="spe" x="40" y="1174" width="440" height="42" rx="8"/>
+  <text class="ink" x="260" y="1201" font-size="14.5" text-anchor="middle" font-weight="700">The Raptors can no longer cover Enron's losses</text>
+  <path class="arr" d="M260,1217 L260,1234" marker-end="url(#a)"/>
+  <rect class="co" x="40" y="1236" width="440" height="42" rx="8"/>
+  <text class="ink" x="260" y="1263" font-size="14.5" text-anchor="middle" font-weight="700">Enron has to face the losses after all</text>
+  <text class="ink" x="34" y="1314" font-size="16" font-weight="700">Dec. 22, 2000</text>
+  <text class="ink" x="34" y="1336" font-size="15.5">Two Raptors lack the capacity to pay. Enron pools</text>
+  <text class="ink" x="34" y="1357" font-size="15.5">all four under a 45-day cross-guarantee and records</text>
+  <text class="ink" x="34" y="1378" font-size="15.5">no loss reserve for 2000.</text>
+  <text class="ink" x="34" y="1411" font-size="16" font-weight="700">Mar. 26, 2001</text>
+  <text class="ink" x="34" y="1433" font-size="15.5">The shortfall has reached $504 million. Enron</text>
+  <text class="ink" x="34" y="1454" font-size="15.5">"restructures" the Raptors, adding more than $800</text>
+  <text class="ink" x="34" y="1475" font-size="15.5">million of contracts to receive its own stock.</text>
+  <text class="ink" x="34" y="1508" font-size="16" font-weight="700">Sept. 28, 2001</text>
+  <text class="ink" x="34" y="1530" font-size="15.5">Enron ends the Raptors, pays LJM2 about $35 million,</text>
+  <text class="ink" x="34" y="1551" font-size="15.5">and records a charge of about $710 million before</text>
+  <text class="ink" x="34" y="1572" font-size="15.5">taxes.</text>
+  <text class="ink" x="260" y="1615" font-size="18" text-anchor="middle" font-weight="700">"In effect, Enron was hedging risk with</text>
+  <text class="ink" x="260" y="1639" font-size="18" text-anchor="middle" font-weight="700">itself."</text>
+  <text class="mut" x="260" y="1665" font-size="13" text-anchor="middle">— Enron board's special committee (Powers Report, p. 97)</text>
+  <text class="mut" x="16" y="1713" font-size="13">*Raptor III (Porcupine) held warrants for New Power Company stock</text>
+  <text class="mut" x="16" y="1731" font-size="13">instead of Enron stock.</text>
+  <text class="mut" x="16" y="1755" font-size="13">Sources: Powers Report pp. 14, 70–73, 97–104, 114, 119–129; Enron</text>
+  <text class="mut" x="16" y="1773" font-size="13">Form 10-Q, Q3 2001, p. 53.</text>
+</svg>

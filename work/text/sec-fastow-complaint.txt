@@ -1,0 +1,305 @@
+ 
+
+ Complaint: SEC v. Andrew S. Fastow 
+
+ Home | Previous Page 
+
+ UNITED STATES DISTRICT COURT
+ SOUTHERN DISTRICT OF TEXAS
+ HOUSTON DIVISION
+
+ UNITED STATES SECURITIES
+ AND EXCHANGE COMMISSION, 
+ Plaintiff, 
+ v. 
+ ANDREW S. FASTOW, 
+ Defendant.
+
+ : : : : : : : 
+ Civil Action No. 
+ COMPLAINT 
+ JURY DEMANDED 
+
+ Plaintiff Securities and Exchange Commission (the "Commission") for its Complaint alleges as follows:
+
+ SUMMARY 
+
+ 1. The defendant, Andrew S. Fastow, the former Chief Financial Officer of Enron Corp., engaged in a fraudulent scheme to defraud Enron's security holders and to enrich himself and others. Fastow's fraudulent conduct involved entering into undisclosed side deals, manufacturing of earnings through sham transactions, inflating the value of Enron's investments, backdating documents, and other illegal acts.
+
+ 2. The Commission requests that this Court permanently enjoin Fastow from violating the federal securities laws cited herein, prohibit him permanently and unconditionally from acting as an officer or director of any issuer of securities that has a class of securities registered pursuant to Section 12 of the Securities Exchange Act of 1934 ("Exchange Act") or that is required to file reports pursuant to Section 15(d) of such Act, order him to disgorge all ill-gotten gains, to pay civil penalties, to have the amount of such penalties added to and become part of a disgorgement fund for the benefit of the victims of Fastow's unlawful conduct, and order such other and further relief as the Court may deem appropriate.
+
+ JURISDICTION AND VENUE 
+
+ 3. The Court has jurisdiction over this action pursuant to Sections 21(d), 21(e), and 27 of the Exchange Act [15 U.S.C. §§ 78u(d) and (e) and 78aa] and Sections 20(b), 20(d)(1) and 22(a) of the Securities Act of 1933 ("Securities Act") [15 U.S.C. §§ 77t(b), 77t(d)(1) and 77v(a)].
+
+ 4. Venue lies in this District pursuant to Section 27 of the Exchange Act [15 U.S.C. § 78aa] and Section 22 of the Securities Act [15 U.S.C. § 77v(a)] because certain acts or transactions constituting the violations occurred in this District.
+
+ 5. In connection with the acts, practices, and courses of business alleged herein, Fastow, directly or indirectly, made use of the means and instruments of transportation and communication in interstate commerce, and of the mails and of the facilities of a national securities exchange.
+
+ 6. Fastow, unless restrained and enjoined by this Court, will continue to engage in transactions, acts, practices, and courses of business as set forth in this Complaint or in similar illegal acts and practices. 
+
+ DEFENDANT 
+
+ 7. Andrew S. Fastow, age 40, resides in Houston, Texas. Fastow was Enron's Chief Financial Officer from March 1998 to October 24, 2001, and was senior vice president, finance, from January 1997 to March 1998. Fastow oversaw many of Enron's financial activities and reported directly to Enron's Chief Executive Officer. Fastow, among others, was responsible forreviewing and verifying the accuracy and reliability of Enron's filings with the Commission, including its year-end financial statements. At all times relevant, Fastow, directly and indirectly, was a control person of Enron and Michael J. Kopper within the meaning of the federal securities laws. Fastow signed Enron's confidentiality agreement and certificate of compliance with Enron's code of ethics. Enron's confidentiality agreement required employees to disclose business activities outside Enron that could be considered a conflict of interest, among other things. Similarly, Enron's code of ethics prohibited employees from engaging in, among other activities, investments that could be considered to conflict with Enron's interests. Fastow's illegal gains from the fraud alleged herein include kickbacks and undisclosed fees. In addition, Fastow made millions in salary, bonuses, and through sales of Enron stock even as he was defrauding Enron, its investors, and others. 
+
+ ENTITIES AND OTHER PERSONS INVOLVED 
+
+ 8. Enron Corp. is an Oregon corporation with its principal place of business in Houston, Texas. During the relevant time period, the common stock of Enron was registered with the Commission pursuant to Section 12(b) of the Exchange Act and traded on the New York Stock Exchange. From 1997 to 2001, while Fastow engaged in the fraudulent conduct alleged herein, Enron raised approximately $5 billion in the public debt and equity markets. Among other operations, Enron was the nation's largest natural gas and electric marketer with reported annual revenue of more than $150 billion. Enron rose to number seven on the Fortune 500 list of companies. By December 2, 2001, when it filed for bankruptcy, Enron's stock price had dropped in less than a year from more than $80 per share to less than $1.
+
+ 9. Michael J. Kopper, age 37, resides in Houston, Texas. Kopper held variousexecutive positions at Enron from approximately 1994 through July 2001. For most of that time, Kopper reported directly to Fastow. Between January 2000 and July 2001, Kopper also was a managing director of LJM2 Capital Management. In late July 2001, Kopper left Enron to run LJM2 Co-Investments LP. Kopper purchased the general partner interest in the entity and another entity from Fastow for approximately $16.5 million. On August 21, 2002, Kopper pleaded guilty to conspiracy to commit wire fraud and money laundering and agreed to forfeit $4 million in criminal proceeds. The same day, the Commission filed a parallel settled action against Kopper in this district, SEC v. Kopper , Case No. H-02-3127 (Lake). Pursuant to the final judgment entered August 22, 2002, the Court ordered Kopper to pay disgorgement, including a direct payment of $8 million, and additional disgorgement in the amount of $4 million forfeited in the criminal case, permanently enjoined Kopper from violating the provisions of the federal securities laws set forth in the Complaint, and barred Kopper from acting as an officer or director of public companies. Kopper's guilty plea, and the conduct alleged in the Commission's complaint, related to three fraudulent transactions he engaged in with Fastow and others, known as RADR, Chewco, and Southampton. 
+
+ FACTUAL ALLEGATIONS 
+
+ Enron's Use of Off-Balance-Sheet Special Purpose Entities 
+
+ 10. Since at least the early 1990's, Enron engaged in transactions with other entities that were designed to improve Enron's balance sheet. Enron's treatment of the entities for financial statement purposes was subject to accounting rules that governed whether the assets and liabilities of the entity should be consolidated onto Enron's balance sheet, or treated as an investment by Enron in a separate entity not under Enron's control. With respect to certainentities, Enron management preferred the latter result - known as "off-balance-sheet"- because it enabled Enron to present itself more attractively as measured by criteria favored by Wall Street investment analysts, credit rating agencies, and others. 
+
+ 11. Enron engaged in myriad transactions that were structured to achieve off-balance-sheet treatment. Many of those transactions were structured using special purpose entities ("SPEs"). Under applicable accounting rules, an SPE could receive off-balance-sheet treatment only if independent third-party investors made a substantive capital investment, generally at least three percent of the SPE's assets, and the third-party investment were genuinely at risk, among other things. If the third-party were not truly independent, or its investment were not truly at risk, those transactions using the SPEs were improper. 
+
+ 12. Starting in at least early 1997, Fastow, Kopper, and others devised a scheme to defraud Enron's security holders through transactions with certain Enron SPEs. 
+
+ 13. Some of these SPEs were not eligible for off-balance-sheet treatment because the SPE and supposedly independent third-party investors were controlled by Fastow, Kopper, and others, the outside equity requirement was not met, and the third-party "investment" was not truly at risk. Thus, these SPEs should have been consolidated onto Enron's balance sheet. Further, Fastow, Kopper and others used their simultaneous influence over Enron's business operations and the SPEs as a means to secretly and unlawfully generate millions of dollars for themselves and others.
+
+ RADR 
+
+ 14. In early 1997, Fastow devised a scheme to enrich himself and others while enabling Enron to maintain secret control over, and achieve off-balance-sheet treatment, of assets that it had "sold" to a supposedly independent SPE. Within Enron, these transactions came to be known as "Friends of Enron" deals because the purportedly independent investors in the SPE actually were friends or family members of Enron executives, and served as nominees under the executives' control. Fastow and Enron's other top management liked "Friends of Enron" deals because they enabled Enron to retain control over assets while shedding the burdens of legal ownership, including required public disclosure in Enron's financial statements. Another benefit to Fastow of the "Friends of Enron" structure was that he, Kopper and others used their control over the "investors" to secretly siphon off for themselves proceeds of the SPE transactions, in violation of their duties to Enron and its shareholders. 
+
+ 15. One "Friends of Enron" transaction related to Enron's effort to appear to divest itself of its interest in certain wind farms in California, so that the farms could continue to receive beneficial regulatory treatment, while Enron secretly retained control over the farms. Under applicable federal and state regulations, the wind farms qualified for financial benefits conferred on alternative energy sources that met certain requirements ("qualifying facilities" or "QF"). Wind farms that were more than fifty percent owned by an electric utility or electric utility holding company, however, were ineligible for QF status. In early 1997, Fastow and others were aware that Enron's wind farms would soon lose their QF status because Enron was in the process of acquiring Portland General Electric, an electric utility based in Portland, Oregon, and would become an electric utility holding company.
+
+ 16. In approximately March 1997, Fastow, Kopper, and others devised a scheme whereby Enron would "sell" a portion of its interest in the wind farms to a partnership comprised of "Friends of Enron." Fastow initially proposed the formation of a partnership SPE to be knownas Alpine Investors ("Alpine"), which would buy Enron's interest in the wind farms. The proposed "investors" in Alpine were all "Friends of Enron," including relatives of Fastow's wife.
+
+ 17. Alpine did not complete the proposed transaction with Enron. Rather, in May 1997, Fastow and Kopper created SPEs known as "RADR ZWS, LLC" and "RADR ZWS MM, LLC" (collectively, "RADR"), which purchased a portion of Enron's interest in the wind farms. RADR was funded mainly with a $16.4 million loan from an Enron subsidiary. Because Fastow knew that his participation as an equity investor in RADR would require Enron to make public disclosure, he and Kopper enlisted "Friends of Enron" to serve as the supposedly independent third-party investors. These investors included a friend of Fastow's wife, Kopper's domestic partner, and a Houston real estate broker. 
+
+ 18. These "Friends of Enron" were Kopper's nominees and lacked sufficient funds to invest in RADR. Fastow arranged to fund some of the friends' "investments" by making an unsecured personal loan of $419,000 to Kopper, who in turn made unsecured loans to the friends, so that they could "invest" in RADR. It was understood that the friends would repay Kopper with distributions from their RADR "investments," and Kopper would in turn repay Fastow. It was further understood that Kopper would have control over any other RADR funds the friends received.
+
+ 19. RADR began making distributions to "investors" on July 1, 1997. Two of the "investors" repaid their loans from Kopper on or about August 25, 1997. The next day, Kopper wired $481,850 to Fastow, which included the original loan amount from Fastow plus $62,850 in interest, an approximate 15% return in four months. 
+
+ 20. RADR proved to be far more lucrative than initially expected, generating a"windfall" to the investors. Fastow became aware of the windfall and demanded a share, in the form of kickbacks through Kopper of investors' RADR proceeds. To disguise the nature of the payments, Fastow instructed Kopper to establish a "gifting program," whereby Kopper and his domestic partner made annual "gifts" of $10,000 to individual Fastow family members.
+
+ 21. The $10,000 amount was chosen because IRS rules exclude from taxable income and do not require reporting of gifts of $10,000 or less made to any one person in one year. Fastow instructed Kopper that he and his domestic partner should write checks not only to Fastow but also to Fastow's wife and two children. Fastow cautioned that no "gifts" should come directly to him from the other RADR investors or RADR, as Fastow wanted to conceal his link to the RADR deal and could think of no legitimate explanation why he would receive checks from the other RADR investors. Fastow told Kopper that, if ever asked, they could explain the checks from Kopper by saying that he and Fastow were very close friends and the checks were gifts. In all, records reflect that Kopper arranged "gift" payments totaling approximately $125,000 to Fastow and his family between December 1997 and February 2000.
+
+ 22. Because RADR was under the control of Fastow and Kopper, and the supposed investments by their friends were secretly funded by Fastow, RADR failed to qualify for off-balance-sheet treatment and should have been consolidated by Enron. By establishing RADR in this manner, Fastow caused Enron to improperly keep RADR off its books and to hide Enron's continued control over the wind farms from regulators to achieve favorable economic benefits. 
+
+ Chewco 
+
+ 23. By late 1997, Fastow and Enron began creating SPEs that were under the direct control of Enron executives. The first such SPE was Chewco Investments, L.P. ("Chewco").
+
+ 24. In 1993, Enron and the California Public Employees' Retirement System ("CALPERS") entered into a joint venture investment partnership called Joint Energy Development Investments LP ("JEDI"). Enron was the general partner of JEDI and contributed $250 million in Enron stock; CALPERS was the limited partner and contributed $250 million in cash. Given CALPERS' large equity investment and other factors, Enron did not consolidate JEDI onto its balance sheet and did not include JEDI's debt in its financial statements. 
+
+ 25. In approximately the summer of 1997, Enron began to seek a buyer for CALPERS' share of the JEDI partnership so that CALPERS would agree to invest additional funds in an even larger partnership to be called JEDI II. CALPERS imposed a deadline of November 6, 1997 for the buyout to occur at the negotiated price of $383 million.
+
+ 26. Fastow proposed the formation of Chewco to buy out CALPERS' JEDI interest. Fastow initially planned to become Chewco's outside equity investor and general partner, but substituted Kopper when it became clear that Enron would have to publicly disclose Fastow's participation, including disclosure in Enron's financial statements. Nevertheless, Fastow, directly or indirectly, controlled Chewco and Kopper, a fact not publicly disclosed.
+
+ 27. Before the November 6, 1997 deadline, Fastow and others arranged to fund the buyout temporarily through "bridge" loans from Barclays Bank PLC ("Barclays") and Chase Manhattan Bank ("Chase"). Each bank loaned $191.5 million to Chewco, with repayment guaranteed by Enron, and Chewco used those loan proceeds to buy CALPERS' interest in JEDI. 
+
+ 28. The bridge transaction was referred to as a "dirty close." Fastow and others knew that Chewco failed to comply with SPE non-consolidation rules because Chewco had no genuine outside equity investment, and because Enron guaranteed Barclays and Chase against risk of loss.Enron thus planned, for financial reporting purposes, to replace the bridge financing before year-end with another structure that would qualify Chewco as an SPE with sufficient outside equity. 
+
+ 29. Chewco's structure at year-end 1997 again failed to meet SPE non-consolidation requirements. Its purported outside "equity" investment consisted of approximately $11.49 million from Chewco's general and limited partners. However, Enron structured the transaction so that $11.36 million of the supposed outside equity was actually borrowed from Barclays by various entities set up and controlled by Kopper. The Barclays loans were secured by approximately $6.58 million in cash that was generated by JEDI's November 1997 sale of an asset. Those funds were held in accounts that were fully pledged to Barclays, meaning that Barclays was partly protected against risk of loss. The remaining "outside equity" consisted of approximately $125,000 provided by Kopper and his domestic partner. 
+
+ 30. Fastow's undisclosed control of Chewco and Kopper permitted him to demand a share of Chewco's profits and other Chewco related funds. From December 1997 through December 2000, Fastow directed Kopper to secretly share with him various payments received by Kopper relating to Chewco. Kopper received a total of approximately $1.5 million in "management fees" relating to Chewco, which he shared with Fastow at his direction mainly through checks payable to members of Fastow's family. Fastow directed Kopper to pay at least $54,000 to Fastow's wife for administrative work she did for Chewco. In December 1998, Fastow caused Enron to pay a $400,000 "nuisance fee" to Chewco as compensation for agreeing to amend JEDI's partnership agreement, even though the amendment benefitted Chewco, not Enron. At Fastow's direction, Kopper transferred approximately $67,224 of the nuisance fee back to Fastow, again through checks written to Fastow or members of his family. 
+
+ 31. In March 2001, Enron bought Chewco's limited partnership interest in JEDI. Fastow approved a purchase price of $35 million, of which Kopper and his domestic partner received approximately $3 million. In September 2001, Fastow authorized a further $2.6 million "tax indemnity payment" to Chewco, which Kopper subsequently transferred to himself. The payment was not contractually required and should not have been made, according to advice from Enron's inside and outside counsel at the time. These funds were used by Kopper to partially fund his purchase of Fastow's interests in two "LJM" entities (defined below). 
+
+ 32. Because Chewco did not meet SPE requirements, due to, among other things, the undisclosed control by Fastow and Kopper, lack of independence, and failure to meet the outside equity requirement, the entities Chewco and JEDI should have been consolidated onto Enron's financial statements beginning the fourth quarter 1997. Fastow's formation, structuring, and use of Chewco enabled Enron to conceal millions in debt while falsely increasing income. As a result, Enron's year-end financial statements for the years 1997, 1998, 1999, and 2000 were materially false and misleading. In November 2001, in a Form 8-K filed with the Commission, Enron announced that it would consolidate Chewco and JEDI retroactive to 1997. This resulted in a massive reduction in Enron's reported net income and a massive increase in its reported debt. The consolidation revealed the following effect, according to Enron: reduction of net income in the amounts of $45 million (1997), $107 million (1998), $153 million (1999), and $91 million (2000), and debt increased in the amounts of $711 million (1997), $561 million (1998), $685 million (1999), and $628 million (2000).
+
+ LJM Transactions 
+
+ Formation of LJM1 
+
+ 33. In June 1999, Fastow proposed formation of an SPE called LJM Cayman, L.P. ("LJM1"), named after the first initials of his wife and two sons. Enron granted Fastow a limited waiver of Enron's conflict of interest rules so he could run LJM1 as its general partner. Fastow represented to Enron's board that he would not benefit or profit from any appreciation in the value of Enron stock transferred to LJM1. LJM1 had two limited partners, an entity owned by Credit Suisse First Boston ("CSFB") and an entity owned by National Westminster Bank ("NatWest"). Each invested $7.5 million. 
+
+ Formation of LJM2 
+
+ 34. In October 1999, Fastow proposed formation of another SPE, LJM2 Co-Investment, L.P. Again, Fastow served as the general partner through intermediaries. Fastow, Enron's Chief Accounting Officer ("CAO"), and others represented to Enron's board that Enron's CAO would review any Enron-LJM2 transactions to ensure they were fair to Enron. Fastow represented to Enron's board that the LJM entities would provide Enron with a potential buyer of any assets they wanted to sell. 
+
+ 35. However, Fastow and the CAO had an undisclosed agreement which was referred to as the "Global Galactical" agreement or "Global Galactic" agreement. Under the agreement, any Enron transaction with the LJM entities that resulted in a loss to the LJM entities would be made up later in subsequent LJM deals. As a result, the LJM entities would not lose money in their dealings with Enron.
+
+ Fraudulent Use of the LJM Entities 
+
+ 36. From approximately July 1999 through October 2001, Enron entered into transactions with LJM1 and LJM2 that served to defraud Enron's shareholders and others. The LJM transactions enabled Enron, Fastow, and others, among other things, to: (1) manipulate Enron's financial results by fraudulently moving poorly performing assets off-balance-sheet; (2) manufacture earnings for Enron through sham transactions with the LJM entities when Enron was having trouble otherwise meeting its goals for a quarter; and (3) improperly inflate the value of Enron's investments by backdating transaction documents to dates advantageous to Enron.
+
+ 37. Fastow and the LJM entities engaged in these transactions because: (1) as CFO, Fastow readily could rid Enron of poorly performing assets and thereby improve Enron's reported financial results, which in turn would enable Fastow to earn continued prestige, salary, bonuses, and other benefits from Enron; (2) the LJM entities would make money on their dealings with Enron, since Enron illegally and secretly guaranteed that the LJM entities would not lose money and, if they did, would be made whole in future transactions; and (3) Fastow and others at the LJM entities personally reaped huge sums of money from such transactions, both in the form of management fees and skimmed deal profits.
+
+ 38. Fastow and Enron representatives regularly entered into secret side agreements pursuant to which the LJM entities would not bear true economic risk when they "purchased" assets from Enron. Frequently there was an understanding with Enron that the LJM entities would hold assets only for a short period of time, and Enron guaranteed that the LJM entities would make a profit on the buyback of those assets by Enron.
+
+ Cuiaba 
+
+ 39. Enron, through a wholly-owned subsidiary, held an approximate 65% interest in a power plant and related pipelines under construction in Cuiaba, Brazil (the "Cuiaba project"). Enron was developing the project to generate and sell electricity. However, the Cuiaba project was troubled from its inception and caused Enron to incur significant costs. Enron's problems with the Cuiaba project were well known at Enron.
+
+ 40. Enron did not want to consolidate the Cuiaba project's debt on its balance sheet, and attempted to sell its interest. Deconsolidating would also permit Enron to mark to market a related power supply contract, thereby recognizing earnings. However, the Cuiaba project was so problematic that no independent third-party would purchase an interest in the project.
+
+ 41. Enron and Fastow solved their Cuiaba project problem by "selling" an interest in the project to Fastow-controlled LJM1. On September 30, 1999, Enron sold LJM1 a 13% interest in the project for $11.3 million. The sale of this interest (and the board seat that went with it) was purportedly sufficient for Enron to conclude that it did not control the Cuiaba project. The "sale" enabled Enron to keep the Cuiaba project's substantial debt off its balance sheet. Furthermore, this purported sale enabled Enron to recognize a total of approximately $65 million of income in the third and fourth quarters of 1999, when it was struggling to meet its projected financial results.
+
+ 42. LJM1, through Fastow, agreed to "buy" Enron's interest in the Cuiaba project because Enron agreed in an undisclosed side deal to repurchase the interest if necessary and guarantee LJM1 a profit. Enron agreed to repurchase LJM1's interest at a higher price regardless of the actual performance of the Cuiba project. 
+
+ 43. Because such a buyback agreement would have destroyed the favorable accounting treatment, the buyback agreement, originally in writing, was not set forth in the final deal documents, but continued in fact as part of an oral understanding. The buyback agreement was also not included in the written documents out of concern that Enron's auditors, Arthur Andersen LLP, would not approve the sale to LJM1 with such a provision. 
+
+ 44. After LJM1's purchase, the Cuiaba project continued to suffer serious cost overruns, technical, and environmental problems. Despite the ongoing problems with the Cuiaba project affecting its value, on or about March 2001, Fastow and Enron agreed upon the buyback price of LJM1's interest. For various reasons (including the fact that Fastow did not sell his interest in LJM1 to Kopper until July 2001), Fastow delayed the closing until August 15, 2001. Enron bought back LJM1's interest for $13,752,000. This purchase price was calculated to provide LJM1 a significant profit even though the market value for Cuiaba had decreased. 
+
+ Nigerian Barges 
+
+ 45. In 1999, Fastow caused Enron to engage in a fraudulent "sale" of assets to permit Enron to record approximately $12 million of earnings in the fourth quarter of 1999.
+
+ 46. The "sale" related to three electricity-generating power barges owned by Enron. In December 1999, an Enron subsidiary entered into an agreement with certain Nigerian government entities for a three-phase energy project related in part to certain of Enron's power barges. These barges were expected to produce future revenues from an agreement for the supply of electricity to the Nigerian government.
+
+ 47. After several failed attempts to sell a portion of the project, in December 1999, Enron, through Fastow and Enron's Treasurer, contacted a leading financial institution("Financial Institution") and pressured it to purchase a $28 million interest in the project, with 75% financed by Enron, so that Enron could book a gain at year end. Such a sale would allow Enron to record approximately $12 million of earnings in the fourth quarter of 1999, so that Enron could meet earnings goals, and to record $28 million in funds flow. 
+
+ 48. In spite of some dissension within the Financial Institution, including an internal document expressing concern that it could be viewed as aiding and abetting Enron's fraudulent manipulation of its income statement, the Financial Institution ultimately agreed to invest in the project. The Financial Institution invested $7 million, and Enron financed the remainder of the deal with a $21 million loan that was non-recourse to the Financial Institution. The Financial Institution never paid any interest on the loan. The Financial Institution had no real interest in investing in barge power projects in Nigeria but wanted to accommodate Enron, an important client and source of millions in fees to the Financial Institution. The Financial Institution conducted no due diligence on the barge project and did not actively monitor its investment.
+
+ 49. To induce the Financial Institution to enter into the transaction, Fastow guaranteed the Financial Institution that it would not lose money and would be taken out of the deal within six months. The Financial Institution was to receive an up front fee of $250,000 plus 15% per annum for the period the Financial Institution held the investment, or an approximately 22.5% return. Enron falsely recorded the transaction with the Financial Institution as a sale and improperly recorded approximately $12 million of fictitious earnings in the fourth quarter of 1999.
+
+ 50. Six months later, consistent with the guarantee given by Fastow to the Financial Institution, Fastow arranged for the Financial Institution to be bought out of its interest in thebarges. Fastow directed Kopper to have LJM2 buy the Financial Institution's interest and on June 29, 2000, the day before the date Fastow had agreed to "take out" the Financial Institution, LJM2 bought the Financial Institution's interest for $7,525,000. The price was not the product of negotiation. Rather, the price reflected a $525,000 premium over the Financial Institution's original investment to account for the rate of return promised to the Financial Institution. LJM2 made the purchase to fulfill Fastow's guarantee. Further, had Enron repurchased the asset it may have had to reverse the sale, negating the favorable accounting treatment.
+
+ Raptor I/AVICI 
+
+ 51. Enron and LJM2 engaged in complex financial transactions with an entity called Raptor I. Fastow and others used Raptor I to generate profits for LJM2 and Fastow and to manipulate Enron's financial statements. Specifically, Fastow and others: (1) used Raptor I as an off balance sheet vehicle that they knew in fact did not qualify for such treatment, and therefore should have been consolidated on Enron's books; and (2) backdated documents to generate profits for Enron.
+
+ 52. Enron invested in other companies, including start-up ventures that later did initial public offerings ("IPO") of their shares. At the time of an IPO, Enron often owned millions of shares of the newly public company. Following the IPO, Enron was at risk for market price fluctuations in the shares. The value of such stock was required to be recorded in Enron's financial statements at the end of each quarter. Because Enron was restricted by "lock up" agreements from selling its shares until some future date, it sought to reduce the impact on its financial results of a possible dramatic decline in the share price. 
+
+ 53. Raptor I was designed to protect Enron's financial statements from decreases inthe value of certain Enron investments. Enron sought to use Raptor I to lock in the value of Enron's investments in stock, without actually selling its investments.
+
+ 54. Raptor I was created in April 2000 through an off-balance-sheet SPE called Talon LLC ("Talon"). Talon was designed to generate accounting gains which would offset Enron's significant mark to market losses on certain investments. Talon would enter into transactions with an Enron subsidiary that would lock in the value of Enron's stock portfolio. If the price of Enron's stock portfolio increased, Talon would be entitled to the upside gain, and if the stock portfolio declined, Talon would be obligated to pay the Enron subsidiary the amount of the loss.
+
+ 55. Talon was funded mainly by Enron through a promissory note and Enron's own stock. The remainder of Talon's funding, $30 million, was from LJM2, representing the purported three percent outside equity required for Talon to be off Enron's balance sheet.
+
+ 56. However, Talon should have been consolidated on Enron's financial statements because of an undisclosed side deal engineered by Fastow. Pursuant to the side deal, Enron agreed that, prior to conducting any hedging activity with Talon, Enron would return to LJM2 its full investment in Talon plus a guaranteed return. This undisclosed side deal would have "broken" the SPE, that is, it would have required Talon to be consolidated on Enron's financial statements because the supposed outside three percent equity was not at risk. Further, with the return of LJM2's capital by Talon, there was no outside equity at risk to justify Talon not being consolidated. Yet, Enron did not consolidate Talon on its financial statements filed with the Commission. In exchange for this side agreement, Fastow caused and allowed Enron employees to use Talon to manipulate Enron's financial statements. Pursuant to the undisclosed side deal, after LJM2 invested $30 million in Talon, it received $41 million from Talon on or aboutSeptember 7, 2000, reflecting a return of its capital and $11 million profit.
+
+ 57. To conceal the side deal, Fastow and others devised a scheme to manufacture a $41 million payment to LJM2. Fastow and others made it appear that the payment represented the premium paid on a "put option" on Enron shares that Enron purchased from Talon. Enron purchased the put option, set to expire on October 18, 2000, for a premium of $41 million. Enron settled the put option early and Talon then distributed the $41 million to LJM2. The transaction was unusual for several reasons, including the fact that the put option was a bet by Enron that its own stock price would decline. There was no true business purpose for the put option other than to generate funds to pay LJM2 under the undisclosed side deal. 
+
+ 58. One of Enron's Raptor I hedges related to its attempt to lock in substantial gains from its stock holdings in AVICI Systems, Inc., an Internet company that had recently engaged in an IPO. Because the stock price of AVICI had declined by the end of Enron's third quarter 2000, Fastow engaged in a fraudulent scheme to backdate the AVICI hedge to achieve a significant economic advantage for Enron.
+
+ 59. Fastow caused the AVICI hedge to be backdated to August 3, 2000. Fastow chose this date because he knew it was the date AVICI traded at an all time high price of $163.50. By back-dating the AVICI hedge in this manner, Fastow and Enron fraudulently locked in the recognition of a substantial gain and booked $75 million in additional mark to market gains that they otherwise would not have recognized. To facilitate the fraud, the put option was purportedly settled early, also on August 3, 2000, so that Enron could use Raptor I for hedging purposes.
+
+ Southampton 
+
+ 60. Enron had an investment in an Internet company called Rhythms NetConnections, Inc. ("Rhythms"). Enron owned approximately 5.4 million shares of Rhythms stock, and following an IPO in April 1999, Enron was at risk for market price fluctuations in the stock. Because Enron was restricted from selling its shares until November 1999, it sought to reduce the impact on its financial results of a possible dramatic decline in the share price of Rhythms stock.
+
+ 61. In June 1999, Enron devised a scheme to reduce its risk through a "hedge." As part of this hedging effort, LJM1 created a subsidiary known as LJM Swap Sub, L.P. ("Swap Sub"), which was funded with cash and Enron shares. Swap Sub thereafter entered into a series of transactions with Enron known as "derivatives." These derivatives transactions included a "put," which gave Enron the right to sell its Rhythms shares to Swap Sub for a set price on certain future dates even if the market value of the Rhythms Net shares was below the set price. In the third and fourth quarters 1999, the share price of Rythms Net decreased significantly and Enron was able to record gains from its transaction with Swap Sub to offset losses it incurred on its Rythms Net investment. 
+
+ 62. In January-February 2000, both Enron and Rhythms shares increased in price, making Swap Sub's main asset (its Enron shares) more valuable while decreasing its potential liability on the Rhythms put option. Thus, Swap Sub had significantly more value than previously. Fastow was prohibited from having any direct pecuniary interest in Enron's stock held by LJM1. Nevertheless, in approximately February 2000, Fastow, Kopper, and three NatWest bankers devised and later executed a scheme to capture the increase in Swap Sub's value for themselves and others and defraud Enron, NatWest, and others by: (i) causing Enron topay $30 million to buy out, or "unwind," the banks' interests in Swap Sub; (ii) causing NatWest to accept only $1 million for its interest in Swap Sub, while representing to Enron that NatWest was getting $20 million, and (iii) splitting the $19 million balance among themselves and certain Enron and LJM employees.
+
+ 63. In part to conceal from Enron and NatWest the true structure of the Swap Sub transaction and the roles played by Fastow, Kopper, and the bankers, Kopper created several layers of partnerships that would buy Swap Sub. The partnership created to buy NatWest's interest in Swap Sub was Southampton, L.P., in which Fastow, Kopper, and certain other Enron and LJM employees had a financial interest. Southampton K Co. was a limited partner in and owned 50% of Southampton, L.P. Thus, after Southampton, L.P. purchased Nat West's interest in Swap Sub, Southampton K Co. would own 50% of that interest. Kopper provided the bankers with an option to buy Southampton K Co. for $250,000. Upon exercising that option, the bankers would own 50% of Nat West's interest in Swap Sub, an ownership interest that Fastow and Kopper knew Enron was prepared to purchase for millions of dollars. 
+
+ 64. To carry out the scheme, Fastow, Kopper and others, on or about March 22, 2000, caused Enron to agree to pay $30 million (purportedly allocated $20 million to NatWest and $10 million to CSFB) to unwind Swap Sub. That purchase price was based on Fastow's false representation to Enron that NatWest and CSFB had agreed to sell their interests in Swap Sub for $20 million and $10 million, respectively. In fact, NatWest received only $1 million and had agreed to receive this sum based on misrepresentations and fraudulent conduct of its own employees, who sought to skim profits that should have gone to NatWest. 
+
+ 65. As a result, the three NatWest bankers who participated in the scheme receivedapproximately $7.3 million. The balance of the funds went to Fastow, Kopper and other investors in an entity called Southampton Place LP ("Southampton"), which Kopper created. The Southampton "investors" were a purported charitable foundation set up by Fastow for the purpose of receiving Southampton proceeds, which contributed $25,000 and received approximately $4.5 million; Kopper, who contributed $25,000 and caused Chewco to loan another $680,000, and received approximately $4.5 million; and five Enron and LJM employees chosen by Kopper and Fastow, who contributed a total of less than $20,000 and received a total of approximately $3.3 million. The payments were made on approximately May 1, 2000.
+
+ 66. In November 2001, in a Form 8-K filed with the Commission, Enron announced that it would consolidate Swap Sub retroactive to 1999. Enron concluded that Swap Sub did not qualify for nonconsolidation treatment because of inadequate capitalization. The consolidation had the effect of reducing Enron's reported net income by $95 million in 1999, and by $8 million in 2000.
+
+ CLAIMS FOR RELIEF 
+
+ FIRST CLAIM 
+
+ Violations of Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] 
+ and Rule 10b-5 thereunder [17 C.F.R. § 240.10b-5] 
+
+ 67. Paragraphs 1 through 66 are realleged and incorporated by reference herein.
+
+ 68. As set forth more fully above, Fastow, directly or indirectly, by use of the means or instrumentalities of interstate commerce, or by the use of the mails and of the facilities of a national securities exchange, in connection with the purchase or sale of securities: has employed devices, schemes, or artifices to defraud, has made untrue statements of material facts or omittedto state material facts necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading, or has engaged in acts, practices, or courses of business which operate or would operate as a fraud or deceit upon any person. 
+
+ 69. By reason of the foregoing, Fastow violated and aided and abetted violations of Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)], and Rule 10b-5 thereunder [17 C.F.R. § 240.10b-5].
+
+ 70. By reason of the foregoing, Fastow was a controlling person of Enron and its executives and employees, and a controlling person of Kopper, within the meaning of Section 20(a) of the Exchange Act [15 U.S.C. § 78t(a)], and by virtue of that control violated Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)], and Rule 10b-5 thereunder [17 C.F.R. § 240.10b-5].
+
+ SECOND CLAIM 
+
+ Violations of Section 17(a) of the Securities Act [15 U.S.C. § 77q(a)] 
+
+ 71. Paragraphs 1 through 70 are realleged and incorporated by reference herein.
+
+ 72. Fastow, by engaging in the conduct described above, directly or indirectly, in connection with the offer or sale of securities, by the use of the means or instruments of transportation or communication in interstate commerce or by the use of the mails: with scienter, employed devices, schemes, or artifices to defraud, obtained money or property by means of untrue statements of material facts or omissions to state material facts necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading, or engaged in acts, practices, or courses of business which operate or would operate as a fraud or deceit upon the purchasers of such securities.
+
+ 73. By reason of the foregoing, Fastow violated Section 17(a) of the Securities Act.
+
+ THIRD CLAIM 
+
+ Violations of Section 13(a) of the Exchange Act [15 U.S.C. § 78m(a)] and 
+
+ Rules 12b-20, 13a-1, & 13a-13 thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-13] 
+
+ 74. Paragraphs 1 through 73 are realleged and incorporated by reference herein.
+
+ 75. By engaging in the conduct described above, Fastow knowingly and substantially caused Enron to file materially false and misleading annual reports on Form 10-K and materially false and misleading quarterly reports on Form 10-Q with the Commission during the period 1997 through at least September 2001.
+
+ 76. By reason of the foregoing, Fastow aided and abetted violations by Enron of Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, and 13a-13 thereunder.
+
+ 77. By reason of the foregoing, Fastow was a controlling person of Enron and its executives and employees, and a controlling person of Kopper, within the meaning of Section 20(a) of the Exchange Act [15 U.S.C. § 78t(a)], and by virtue of that control violated Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, and 13a-13 thereunder.
+
+ FOURTH CLAIM 
+
+ Violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act 
+ [15 U.S.C. §§ 78m(b)(2)(A), 78m(b)(2)(B)] 
+ and Rule 13b2-1 thereunder [17 C.F.R. § 240.13b2-1] 
+
+ 78. Paragraphs 1 through 77 are realleged and incorporated by reference herein.
+
+ 79. By engaging in the conduct described above, Fastow aided and abetted Enron's failures to make and keep books, records and accounts which, in reasonable detail, accurately and fairly reflected Enron's transactions and dispositions of its assets, in violation of Section13(b)(2)(A) of the Exchange Act, and further aided and abetted failures to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that Enron's corporate transactions were executed in accordance with management's authorization and in a manner to permit the preparation of financial statements in conformity with generally accepted accounting principles in violation of Section 13(b)(2)(B) of the Exchange Act.
+
+ 80. By engaging in the conduct described above, Fastow, directly or indirectly, falsified and caused to be falsified Enron's books, records, and accounts subject to Section 13(b)(2)(A) of the Exchange Act in violation of Rule 13b2-1 thereunder.
+
+ 81. By reason of the foregoing, Fastow aided and abetted violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and violated Rule 13b2-1 thereunder.
+
+ 82. By reason of the foregoing, Fastow was a controlling person of Enron and its executives and employees and a controlling person of Kopper, within the meaning of Section 20(a) of the Exchange Act [15 U.S.C. § 78t(a)], and by virtue of that control violated Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rule 13b2-1 thereunder.
+
+ FIFTH CLAIM 
+
+ Violations of Section 13(b)(5) of the Exchange Act [15 U.S.C. § 78m(b)(5)] 
+
+ 83. Paragraphs 1 through 82 are realleged and incorporated by reference herein.
+
+ 84. By engaging in the conduct described above, Fastow knowingly circumvented or knowingly failed to implement a system of internal financial controls at Enron.
+
+ 85. By reason of the foregoing, defendant Fastow violated Section 13(b)(5) of the Exchange Act.
+
+ 86. By reason of the foregoing, Fastow was a controlling person of Enron and its executives and employees within the meaning of Section 20(a) of the Exchange Act [15 U.S.C. § 78t(a)], and by virtue of that control violated Section 13(b)(5) of the Exchange Act.
+
+ SIXTH CLAIM 
+
+ Violations of the Exchange Act Rule 13b2-2 thereunder [17 C.F.R. § 240.13b2-2] 
+
+ 87. Paragraphs 1 through 86 are realleged and incorporated by reference herein.
+
+ 88. By engaging in the conduct described above, in connection with the Cuiaba transaction described above, Fastow, directly or indirectly, made or caused to be made false and misleading statements or omitted or caused others to omit to state material facts necessary in order to make statements made, in light of the circumstances under which such statements were made, not misleading to Enron's independent accountants and Enron's auditors in connection with audits and examinations of Enron's required financial statements and in connection with the preparation and filing of documents and reports required to be filed with the Commission, in violation of Exchange Act Rule 13b2-2.
+
+ 89. By reason of the foregoing, defendant Fastow violated and aided and abetted violations of the Exchange Act Rule 13b2-2.
+
+ 90. By reason of the foregoing, Fastow was a controlling person of Enron and its executives and employees, and a controlling person of Kopper, within the meaning of Section 20(a) of the Exchange Act [15 U.S.C. § 78t(a)], and by virtue of that control violated Exchange Act Rule 13b2-2.
+
+ JURY DEMAND 
+
+ 91. The Commission demands a jury in this matter.
+
+ PRAYER FOR RELIEF 
+
+ WHEREFORE, the Commission respectfully requests that this Court:
+
+ A. Grant a Permanent Injunction restraining and enjoining Fastow from violating the statutory provisions set forth herein; prohibiting him permanently and unconditionally from acting as an officer or director of any issuer of securities that has a class of securities registered pursuant to Section 12 of the Exchange Act or that is required to file reports pursuant to Section 15(d) of such Act; and ordering him to pay disgorgement of illegal gains, and civil penalties; 
+
+ B. Pursuant to Section 308 of the Sarbanes-Oxley Act of 2002, enter an order providing that the amount of civil penalties ordered against Fastow be added to and become part of a disgorgement fund for the benefit of the victims of the violations alleged herein; and
+
+ C. Grant such other and additional relief as this Court may deem just and proper. 
+
+ Dated: October ___, 2002 Respectfully submitted,
+
+ _____________________
+ Stephen M. Cutler
+     Director, Enforcement Division
+ Linda Chatman Thomsen
+     Deputy Director, Enforcement Division
+ Charles J. Clark
+     Assistant Director, Enforcement Division
+ __________________________________
+ Luis R. Mejia
+ Assistant Chief Litigation Counsel
+ Attorney-in-Charge, Plaintiff
+ Securities and Exchange Commission
+ 450 Fifth Street, N.W.
+ Washington, DC 20549-0911
+ Phone: (202) 942-4744 (Mejia)
+ Fax: (202) 942-9569 (Mejia)
+
+ http://www.sec.gov/litigation/complaints/comp17762.htm 
+
+ Home | Previous Page 
+ Modified: 10/02/2002 
+

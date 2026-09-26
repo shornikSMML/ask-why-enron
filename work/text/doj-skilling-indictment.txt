@@ -1,0 +1,2345 @@
+
+=== PAGE 1 ===
+                               UNIT
+                                SOUTHERN DISTRICT OF TEXAS
+                                    HOUSTON DIVISION
+UNITED STATES OF AMERICA
+                                              §§
+        V.                                     §      Cr.No. H-04-25
+                                               §
+JEFFREY K.SKILLDING and                        §      Violations; 15 U.S.C. §§ 78j(b), 78m(a),
+RICHARD A. CAUSEY,                             §      78m(b)(2), 78ff; 18 U.S.C. §§ 371,1343,
+                                               §      2 and 3551 et seq.
+                        Defendants.            §
+
+                                  SUPERSEDING lNDICTMENT
+
+The Grand Jury charges:
+
+                                         INTRODUCTION
+
+             At all times relevant to this Superseding Indictment:
+
+             1.         Enron Corp. (”Enron”) was an Oregon corporation with its headquarters in
+
+Houston, Texas. Among other businesses, Enron was engaged in the purchase and sale of natural
+
+gas and power, construction and ownership of pipelines, power facilities and energy-related
+
+businesses, provision oftelecommunications services, and trading in contracts to buy and sell
+
+various commodities. Before it filed for bankruptcy on December 2,2001, Enron was the
+
+seventh largest corporation in the United States.
+
+             2.         Enron was a publicly traded company whose shares were listed on the
+
+New York Stock Exchange and were bought, held, and sold by individuals and entities
+throughout the United States and the world. Enron and its directors, officers, and employees
+
+were required to comply with regulations of the United States Securities and Exchange
+
+Commission (“SEC”).Those regulations protect members of the investing public by, among
+
+other things,requiring that a company’s financial information is fully and accurately recorded
+
+=== PAGE 2 ===
+and fairly presented to the public. The regulations require, among other things, that a company
+
+submit filings to the SEC in Washington, D.C.that include fair and accurate financial statements
+
+and management discussion and analysis of a company’s business.
+
+           3.          The price of Enron’s stock was influenced by factors such as Enron’s
+
+reported revenue, earnings, debt, cash flow, and credit rating, as well as its growth potential and
+
+ability to meet consistently revenue and earnings targets and forecasts. Enron’s management
+
+provided guidance to the investing public regarding anticipated revenue and earnings for
+
+upcoming reporting periods. Such guidance was communicated inpresentations and conference
+
+calls to securities analysts and in other public statements by Enron executives, Relying in part
+
+on the company’s guidance, securities analysts disseminated to the public their own estimates of
+
+the company’s expected performance. These earnings estimates, or analysts’ expectations, were
+
+closely followed by investors. Typically, if a company announced earnings that failed to meet or
+
+exceed analysts’ expectations, the price of the company’s stack declined.
+
+           4.          It was critical to Enron’s ongoing business operations that it maintain an
+
+investment grade rating for its debt, which was rated by national rating agencies, An investment
+
+grade rating was essential to Enron’s ability to enter into trading contracts with its counterparties
+
+and to maintain sufficient lines of credit with major banks. In order to maintain an investment
+
+grade rating, Enron was required to demonstrate that its financial condition was stable and that
+
+the risk that Enron would not repay its debts and other financial obligations was low. The credit
+
+rating agencies relied on, among other things, Enron’s public filings, including its financial
+
+statements filed with the SEC,in rating Enron’s debt. In addition, members of Enron’s senior
+
+management met regularly with, and provided financial and other information to, representatives
+
+
+                                                  2
+
+=== PAGE 3 ===
+of credit rating agencies. Two primary factors influencing Enron’s credit rating and the
+
+willingness of banks to extend loans to Enron were Enron’s total amount of debt and other
+
+obligations and its cash flow.
+
+                                  PRINClPAL CONSPIRATORS
+
+            5.         Defendant JEFFREY K.SKILLING was employed by or acted as a
+
+consultant to Enron from at least the late 1980s through early December 2001. From 1979 to
+
+1990, SKILLING was employed by the consulting firm of McKinsey & Co., where he provided
+
+consulting services to Enron. In August 1990, Enron hired SKILLING. SKILLING held various
+
+executive and management positions at Enron and in January 1997,Enron promoted SKILLlNG
+
+                                               of the entire company, reporting directly to
+to President and Chief Operating Officer (“COO”)
+
+Enron’s CEO and Chairman.
+
+            6.         In February 2001, SKILLING was named President and CEO of Enron.
+On August 14,2001, with no forewarning to the public, SKlLLING resigned from Enron. As
+
+COO and CEO of Enron, SKILLING was the senior manager of the company’s commercial
+operations and finances and one of its principal spokespersons with the investing public.
+
+SKILLING closely supervised on a day-today basis the activities of each ofEnron’s business
+units and the heads of those business units, as well as the activities of the senior Enron managers
+
+who conducted the company’s financial and accounting activities. He routinely led and
+
+participated in presentations and conference calls with securities analysts and in other
+
+communications in which Enron provided the public with guidance concerning the company’s
+
+performance. SKILLING signed Enron’s annual reports filed on Farm 10-Kwith the SEC and
+
+he signed quarterly and annual representation letters to Enron’s auditors.
+
+
+                                                 3
+
+=== PAGE 4 ===
+            7.         Defendant RICHARD A. CAUSEY was a certified public accountant and
+
+was an employee ofEnron from 1991 through early 2002, From 1986 to 1991, while an
+
+employee of the accounting firm Arthur Andersen LLP (“Andersen”),CAUSEY sold audit
+
+services to Enron on behalf ofAndenen, which served as Enron’soutside auditor. In 1991,
+
+Enron hired CAUSEY as Assistant Controller ofEnron Cas Services Group From 1992 to
+
+1997, CAUSEY served in various executive level positions at Enron. In 1998, CAUSEY was
+
+made Chief Accounting Officer (”CAO”) of Enron and an Executive Vice-president.
+
+            8.         As Enron’s CAO,defendant RICHARD A. CAUSEY managed Enron‘s
+
+accounting practices, CAUSEY reported to Enron‘s Chairman and CEO, including to defendant
+
+JEFFREY K. SKILLING Together with SKILLING, Enron’s Chief Financial Officer (“CFO”)
+
+Andrew S.Fastow, its Treasurer, and others, CAUSEY was a principal manager ofEnron’s
+
+finances. CAUSEY was also a principaI manager of Enron’s disclosures and representations to
+
+the investing public. He routinely participated in presentations and conference calls with
+
+securities analysts and in other communications in which Enron provided the public with
+
+guidance concerning the company’s perfomance. CAUSEY signed Enron’s annual reports filed
+
+on Form 10-Kand its quarterly reports on Form 10-Qwith the SEC and he signed quarterly and
+
+annual representation letters to Enron’s auditors.
+
+           9.          Defendants JEFFREY K.SKILLING and RICHARD A. CAUSEY
+
+conspired with numerous Enron executives and senior managers in the scheme to defraud
+
+described in this Superseding Indictment. The coconspirators included, but were not limited to,
+
+former Enron CFO Andrew S. Fastow, who was a supervisor of such matters as Enron’s
+structured finance, cash flow, and debt management activities; former Enron Treasurer Ben F.
+
+
+                                                4
+
+=== PAGE 5 ===
+Glisan, Jr., who reported to SKILLING and, at times, Fastow and also was a supervisor of
+
+Emon’s structured finance, cash flow and debt management activities; former Enron North
+
+America (‘ENA’’)and Enron Energy Services (“EES”)CEO David W. Delainey, who reported to
+
+SKILLING and was a supervisor of the largest part of Enron’s wholesale energy business and,
+
+later, of its retail energy business; former ENA CAO Wesley Colwell, who reported to CAUSEY
+
+and Delainey and managed the accounting for Enron’s wholesale energy business; former Enron
+
+Global Finance Managing Director Michael Kopper, who reported to Fastow and conducted
+
+structured finance activities for Enron; and others.
+
+                                      SCHEME TO DEFRAUD
+
+            10.         From at Ieast 1999 through late 2001, defendants JEFFREY K.SKILLING
+
+and RICHARD A. CAUSEY and their coconspirators engaged in a wide-ranging scheme to
+
+deceive the investing public, the SEC,credit rating agencies and others (the ‘Victims”)about the
+
+true performance of Emon’sbusinesses by: (a) manipulating Enron’s finances so that Emon’s
+
+publicly reported financial results would falsely appear to meet or exceed analysts’ expectations;
+
+and (b) making public statements and representations about Enron’s financial performance and
+
+results that were false and misleading in that they did not fairly and accurately in all material
+
+respects represent Enron’s actual financial condition and performance, and omitted to disclose
+
+facts necessary to make those statements and representationstruthful and accurate.
+
+            11.        The scheme‘s objectives were, among other things, to report recurring
+
+earnings that falsely appeared to grow smoothly by approximately 15 to 20 percent annually; to
+
+meet or exceed the published expectations of securities analysts forecasting Enron‘s reported
+
+earnings-per-shareand other results; to conceal and avoid publicly reporting any large “write-
+
+
+                                                  5
+
+=== PAGE 6 ===
+downs” or losses; to persuade investors through false and misleading statements that Enron’s
+
+profitability would continue to grow; to deceive credit rating agencies in order to maintain an
+
+investment-grade credit rating; to deceive the investing public about the true magnitude of
+
+growing debt and other obligations required to keep the company’s varied and often unsuccessful
+
+business ventures afloat; to increase artificially Enron’s reported cash flow in order to mask a
+
+growing disparity between the company’s reported revenues and its actual earnings from
+
+operations; and to artificially inflate the share price of Enron’s stock.
+
+            12.         Due to the efforts of defendants JEFFREY K.SKILLING and RICHARD
+
+A. CAUSEY and their coconspirators, Enron’s publicly reported financial results and filings and
+
+its public descriptions of itself, including in public statements mads by or with the knowledge of
+
+SKILLING and CAUSEY, did not truthfully present the financial position, results from
+
+operations, and cash flow of the company and omitted to disclose facts necessary to make the
+
+disclosures and statements that were made truthful and not misleading. As a consequence, the
+
+financial appearance of Enron that SKILLING, CAUSEY and their coconspirators presented to
+
+the investing public concealed the real Enron.
+
+           13,         Defendants JEFFREY K.SKILLING and RICHARD A. CAUSEY were
+
+among the principal architects and operators of the scheme to manipulate Enron’s reported
+
+financial results and to present Enron in a misleading manner. Together with their
+
+coconspirators, they set annual and quarterly earnings and cash flow targets (“budget targets”) for
+
+the company as a whole and for each of Enron’s business units. In furtherance of the scheme to
+
+defraud, SKILLING and CAUSEY, together with their coconspirators and others, predetermined
+
+Enron’s budget targets and “backed into” those targets through, among other things, the use of
+
+                                                  6
+
+=== PAGE 7 ===
+deceptive accounting devices.
+
+            14.         Defendants JEFFREY K. SKILLING and RICHARD A. CAUSEY and
+
+their coconspirators set the targets by determining the numbers necessary for each Enron business
+
+unit to produce in order to meet Enron's mandates for growth and analysts' expectations, rather
+
+than by determining how much earnings and cash flow that a particular business unit could
+
+reasonably be expected to generate. On a quarterly and year-end basis, SKILLING and CAUSEY
+
+and others assessed Enron's progress toward its budget targets. When the budget targets were
+
+not met through actual results from business operations, the desired targets were achieved
+
+through the use of various earnings and cash flow “levers,” including but not limited to those
+
+described in this Superseding Indictment. These levers were designed to manipulate Enron's
+
+finances and prop up its stock price by, among other things, filling earnings and cash flow
+
+shortfalls that were at times in the hundreds of millions of dollars. These shortfalls were referred
+
+to within Enron variously as the “gap," "stretch"or “overview."
+
+            15.         As described more fulIy in this Superseding Indictment, many of the levers
+
+used by Enron to fill the shortfall between its budget targets and its actual performance were
+
+complex transactions designed primarily to achieve specific accounting results. The structure of
+
+many such transactions was inconsistent with the transactions' underlying economic substance.
+
+Other transactions actually were to Enron's financial detriment but were completed because they
+
+achieved desired accounting goals that could improve Enron's apparent performance. Often
+
+these transactions were completed in haste near, and at times after, the close of a financial
+
+reporting period.
+
+           16.         From time to t h e , without regard to the actual performance of the
+
+
+                                                 7
+
+=== PAGE 8 ===
+company, defendants JEFFREY K.SKILLING and RICHARD A. CAUSEY and their
+
+coconspirators arbitrarily increased budget targets at or near the end of a quarter so that Enron
+
+could exceed analysts’ expectations by falsely appearing to achieve and publicly reporting a
+
+higher than projected earnings-per-share result. At times, SKILLING and CAUSEY caused these
+
+revisions to earnings-per-share results even after the close of a quarter,when they knew that
+
+Enron had not in fact achieved the reported results and again without regard to the company’s
+
+actual business perfomance far that quarter, Instead, to meet the increased earnings-per-share
+
+targets, Enron would employ one or more of the    leversdescribed in this Superseding Indictment.
+            17.        The levers relied on by defendants JEFFREY K.SKILLING and
+
+RICHARD A. CAUSEY and their coconspirators to manipulate Enron’s reported financial
+
+results included fraudulent accounting devices, as well as the fraudulent use of accounting
+
+techniques to create a false and misleading picture ofEnron’s business operations. In addition,
+
+the conspiracy included, at times, intentionally false and misleading representations, and
+
+omissions of material infomation, in Enron’s communications with its outside auditor in order t o
+
+ensure that the conspiracy’s objectives were achieved. This combination of accounting
+
+maneuvers, coupled With misleading public statements and omissions about Enron’s business
+
+performance by SKILLING, CAUSEY and others, enabled Enron to appear as a healthy and
+
+growing company that consistently met or exceeded its projected financial results through a
+
+sound business plan. In fact, as SKILLING and CAUSEY well knew, beginning at least in the
+
+fourth quarter of 2999, Enron consistently failed to meet budget targets through normal business
+
+operations and was able to appear successful only because of the scheme described in this
+Superseding Indictment.
+
+
+                                                 8
+
+=== PAGE 9 ===
+            18.         For a time, the scheme of defendants JEFFREY K.SKILLING and
+
+RICHARD A. CAUSEY and their coconspirators to inflate artificially the share price of Enron’s
+
+stock and to maintain Enron’s credit rating at investment grade succeeded. The misleading
+
+portrayal of Enron's financial condition supported Enron's stock price and its credit rating. In
+
+early 1998, Enron’s stock traded at approximately $30 per share. By January 2001, even after a
+
+1999 stuck split, Enron's stock had risen to over $80 per share and Enron had become the
+
+seventh-rankedcompany in the United States, according to the leading index of the "Fortune
+
+500." Until late 2001, Enron maintained an investment grade credit rating.
+
+            19.         During this time, the rise in Enron's stock price enriched defendants
+
+JEFFREY K. SKILLING and RICHARD A. CAUSEY and their coconspirators through salary,
+
+bonuses, grants of artificiallyappreciating stock and stock options, and prestige within their
+
+professions and communities. Between 1998 and 2001, SKILLING received approximately$200
+
+million from the sale ofEnron stock options and restricted stock, netting over $89 million in
+
+profit, and was paid more than $14 million in salary and bonuses. Between 1998 and 2001,
+
+CAUSEY received more than $14 milIion from the sale of Enron stock and stock options, netting
+
+over $5 million in profit, and was paid more than $4 million in salary and bonuses.
+
+Coconspirators, as well as other Enron executives and senior managers, sold hundreds of
+
+millions of dollars worth ofEnron stock at artificially inflated prices.
+
+           20.         In the end, the scheme ofdefendants JEFFREY K,SKILING and
+RICHARD A. CAUSEY and their coconspirators collapsed. On August14,2001, SKILLING
+
+suddenly resigned from Enron, according to SKILLING and Enron, for “personal reasons."
+
+Enron's stock price, which had been declining since January 2001, fell sharply. On October 16,
+
+
+                                                  9
+
+=== PAGE 10 ===
+2001, Enron announcedpurportedly “nonrecurring” losses of approximately $1 billion. Enron’s
+
+stock declined further. On October 29 and November1,2001, the two leading credit rating
+
+agencies downgraded Enron’s credit rating. On November 8,200 1, Enron announced its
+
+intention to restate its financial statements for 1997 through 2000 and the first and second
+
+quarters of 2001 to reduce previously reported net income by an aggregate of $586 million. On
+
+November 28,200 1, Enron’s credit rating was further downgraded to “junk” status. On
+
+December 2,2001, Enron filed for bankruptcy, making its stock, which less than a year earlier
+
+had been trading at over $80 per share, virtuaIly worthless.
+
+                      DEVICES EMPLOYED IN FURTHERANGE OF SCHEME
+
+             21.        Defendants JEFFREY K.SKILLING and RICHARD A, CAUSEY and
+
+their coconspirators employed various devices in furtherance of the fraudulent scheme, including
+
+but not limited to:
+
+                        a.        manufacturing and manipulating earnings through fraudulent
+
+use of reserve accounts to mask volatility in Enron’s wholesale energy trading earnings and
+
+conceal and retain large amounts of those trading earnings for later use in order to achieve
+
+desired earnings results;
+
+                        b.        manufacturing earnings and artificiallyimproving Enron’s
+
+balance sheet through fraudulent over-valuation of assets in Enron’s merchant investment
+
+portfolio;
+
+                        &.        concealing large losses and failures in Enron’s two highly-
+
+touted new businesses, EES and Enron Broadband Services (”EBS’’), by manipulating Enron’s
+
+“segment reporting” and using its reserved energy trading earnings to hide EES’s losses, and by
+
+
+                                                10
+
+=== PAGE 11 ===
+manipulating expense accounting to hide the extent of EBS’s losses;
+
+                       d.          manufacturing earnings by falsely touting Enron’s EBS
+
+business in order to drive up Enron’s stock price, then misleadingly presenting earnings from the
+
+resulting increase in Enron’s share price as recurring earnings from energy operations;
+
+                       e.          structuring financial transactions in a misleading manner in
+
+order to achieve earnings objectives, avoid booking of large losses in asset values, and conceal
+
+debt, including through the fraudulent use of a purportedly third-party investment entity that in
+
+fact was not truly independent from Enron and which was used to achieve Enron’s financial
+
+reporting objective and to enrich Enron executives and senior managers; and
+
+                       f.          structuring financial transactions in a misleading manner in
+
+order to conceal the mount of Enron’s debt and to create the false appearance of greater cash
+
+flows.
+
+           22.         Through the use of these devices, as well as others, defendants JEFFREY
+
+K. SKILLING and RICHARD A. CAUSEY and their coconspirators presented and described
+
+Enron’s financial results, which had been engineered to appear far more successful than they
+
+actually were, in a false and misleading manner in conferences with securities analysts, press
+
+releases, media statements, and other forms of communication with the investingpublic.
+
+Manufacturing and Manipulating Reported Earnings through Improper Use of Reserves
+
+           23.         Third Ouarter 2000 through Third Ouarter 2001: During 2000 and 2001,
+
+the profitability of Enron‘s wholesale energy trading business, primarily based in its Enron
+
+WhoIesale business unit, dramatically increased for reasons including rapidly rising energy prices
+
+inthe western United States, especially in California. This sudden and large increase in trading
+
+                                                11
+
+=== PAGE 12 ===
+    profits, which exceeded $1 billion, if disclosed to the public, would have made it apparent that
+
+    Enron Wholesale's revenues were cIosely tied to the market price for energy, and that Enron
+
+    therefore was exposed to the risk of a decline in such prices. Such disclosure would have
+
+    undermined Enron's description and presentation of itself as the dominant "intermediator” in the
+
+.   energy markets, rather than as a speculative (and therefore risky) trading company whose stock
+
+    would trade at a much lower price-to-earnings ratio.
+
+               24.         From the third quarter of 2000 through the third quarter of 2001,
+
+    defendants JEFFREY K.SKILLING and RICHARD A. CAUSEY and their coconspirators
+
+    fraudulently used reserve accounts within Enron Wholesale to mask the extent and volatility of
+
+    Enron Wholesale's windfall trading profits, particularly its profits from the California energy
+
+    markets, to avoid reporting large losses in other areas of its business, and to preserve the earnings
+
+    for use in Iater quarters in which Enron could improperly use them to meet analysts'
+
+    expectations. By early 2001,undisclosed reserve accounts within Enron Wholesale, which prior
+
+    to mid-2000 had held only tens of millions of dollars of Enron's energy trading earnings,
+
+    contained over $1 billion in unreported earnings. SKILLING, CAUSEY and their coconspirators
+
+    improperly planned to and did use hundreds of millions of dollars of those undisclosed reserved
+
+    earnings for, among other things, ensuring that budget targets were met and that hundreds of
+
+    millions of dollars in losses within Enron's EES business unit were successfully concealed from
+
+    the investingpublic.
+
+               25.         Second Ouarter 2000: In mid-July 2000,well after the second quarter
+
+    2000 was over, defendants JEFFREY K.SKILLING and RICHARD A. CAUSEY and others
+
+    conceived and executed a plan artificiallyto support and inflate Enron’s share price by
+
+
+                                                     12
+
+=== PAGE 13 ===
+fraudulently reporting an earnings-per-share figure of34 cents, as opposed to the 32 cents per
+
+share that analysts predicted Enron would report. SKILLING arid CAUSEY were aware that
+
+Enron’s perfomance for the quarter,even after Enron’s use of earnings levers and manipulation
+
+of its budget targets, did not support an earnings per share figure of 34 cents,
+
+            26.        In order to help achieve the earnings-per-share target that defendants
+JEFFREY K. SKILLING and RICHARD A. CAUSEY wanted to report publicly, a senior Enron
+
+executive improperly released into earnings millions of dollars from a ‘prudency” reserve
+
+account in Enron’s energy trading business, which purportedly existed so that Enron would not
+
+report more energy trading earnings than it actually expected to collect. This release of millions
+
+of dollars from the prudency reserve account was not done for legitimate business or accounting
+
+objectives. It was done solely to accomplish defendants SKILLING’s and CAUSEY’Sdesire to
+
+publicly report a higher earnings per share number than expected by securities analysts for the
+
+second quarter 2000,and thereby artificially inflate and support Enron’s share price.
+
+Manufacturing Earnings by Fraudulently Manipulating: Asset Values
+
+           27.         Enron executives and senior managers, including defendant RICHARD A,
+
+CAUSEY, engaged in a pattern of fraudulent conduct designed to generate earnings needed to
+
+meet targets by artificially increasing the book value of certain assetsin Emon’s large “merchant
+
+asset portfolio.” This portfolio included interests in m   y energy-relatedbusinesses that were
+
+not publicly traded and, therefore, were valued by Enron according to its own internal valuation
+
+“models” Enron at times manipulated these models in order to product results desired to meet
+
+earnings targets. For example, in the fourth quarter of 2000,under the direction of CAUSEY and
+
+others, Enron personnel fraudulently increased the value of one of the largest of Enron’s
+
+
+                                                 13
+
+=== PAGE 14 ===
+merchant assets, Mariner Energy, by $ 100 million in order to help close a budget shortfall.
+
+ Concealing EES Failures
+
+             28.        Inpresentations to the investing public, defendants JEFFREY K.
+
+SKILLING and RICHARD A. CAUSEY and their coconspirators heavily emphasized the
+
+performance and potential of EES as a major reason for past and projected increases in the value
+
+of Enron’s stock, at one time attributing as much as half of Enron’s total stock value to EES and
+EBS combined. To support what Enron already had said about EES,SKILLING, CAUSEY and
+their coconspirators concealed massive losses in EES‘sbusiness through fraudulently
+
+manipulating Enron’s ”business segment reporting.”
+
+             29.       They accomplished this at the close of the first quarter of2001 through a
+reorganization designed to conceal the existence and magnitude of EES’s unexpectedly severe
+
+business failure. Enron hid that failure from the investing public by moving large portions of
+
+EES’s business - which defendants JEFFREY K.SKILLING and RICHARD A. CAUSEY and
+
+others knew at the time otherwise would have to report hundreds o f millions of dollars in losses
+
+into   Enron Wholesale, which was the Enron business segment housing most of the company’s
+wholesale energy trading operations and income, As SKILLING, CAUSEY and others knew,
+
+Enron Wholesale would have ample earnings, including in the massive reserve accounts
+
+described above, to ensure that Enron WhoIesaIe could absorb the huge losses that in fact were
+
+attributable to EES while at the same time continuing to meet Enron’s budget targets. In public
+
+statements to securities analysts and others, SKILLING CAUSEY and others acting at their
+
+direction explained the change in segment reporting solely as a means to improve efficiency.
+
+They omitted to disclose that the purported “efficiency” maneuver in fact concealed from the
+
+
+                                                14
+
+=== PAGE 15 ===
+public and other failures in the touted EES business Unit, including huge losses in that business.
+
+Instead, SKILLING CAUSEY and others stated publicly that EES was continuing to perform
+
+profitably and as expected.
+
+Promoting EBS to Manufacture Earnings and Concealing Failure of EBS
+
+            30.        ‘Rollout”of EBS: Beginning in 1999, defendant JEFFREY K.
+
+SKILLING and others sought artificially to support and inflate Enron’s stock price by falsely
+
+characterizing Enron as a company whose earnings and future prospects were determined to a
+
+substantial extent by its telecommunications business, EBS. At that time, stocks of technology
+
+sector companies, commonly known as “dot-coms,” generally traded at a significant premium on
+
+public securities markets. SKILLING and others referred to this plan as giving “dot-corn luster”
+
+to Enron’s share price. A centerpiece of this strategy to promote EBS as a major factor in
+
+Enron’s earnings and share value was a dramatic presentation about EBS.
+
+           31.         “Project Grayhawk”: Knowing that Enron’s presentation about EBS at its
+
+January 20,2000 conference with securities analysts was designed to, and likely would, cause an
+immediate increase in Enron’s stock price, defendants JEFFREY K.SKILLING and RICHARD
+
+A. CAUSEY and their coconspirators constructed and approved a scheme to allow Enron to
+
+record and report as earnings from operations $85 million of what in reality was just the increase
+
+in Enron’s share price caused by the EBS presentation. Through its energy trading and assets
+
+business, Enron recorded earnings from a partnership interest it held in a large energy investment
+
+named JEDI. JEDI’s capital consisted, in part, of Enron stock. When Enron’s stock price rose,
+
+the value of JEDI rose. In September 1999, JEDI hedged its Enron stock through a transaction
+
+with Enron that fixed the value of the Enron stock at a set price. Just before the January 20,2000
+
+
+                                                15
+
+=== PAGE 16 ===
+analyst conference, Enron executed a series of transactions, in a project known as ‘‘Grayhawk,”
+
+that temporarily removed the fixed hedge and replaced it with an open one that did not limit the
+
+upside gain to JEDI from increases in value of the Enron stock. After the conference, the fixed
+
+hedge was then reinstated at Enron’sthen higher share price. The purpose and effect of
+
+temporarily removing the fixed hedge was to enable Enron to capture increased value of jEDI
+
+from the dramatic increase in Enron’s stock price as a result of its January 20,2000 analyst
+
+conference. Enron then improperly reported and publicly described this gain as recurring
+
+operating income in its energy business and failed to disclose to the investing public the
+
+manipulative manner in which it had been able to recognize as income the appreciation of its
+
+own stock
+
+            32,        January 20,2000 Analyst Conference: At the January 20,2000 analyst
+
+conference, defendant JEFFREY K. SKILLING and his coconspirators knowingly made false
+
+and misleading statements about EBS. SKILLING stated, among other things, that EBS “has
+
+already established the superior broadband delivery network”; that EBS has “built this network , ,
+
+. and we are turning on the switch”; that the critical ‘network control software” was in Enron’s
+possession and incorporated and used in its network; and that Enron valued the business at $30
+
+billion, which SKILLING called a “conservative”valuation, In SKILLING’s presence, EBS’s
+
+GO-CEOJoseph Hirko stated that EBS possessed advance network control software and that it
+
+was no “pipe dream.”   In reality, EBS had neither the claimed broadband network in place, nor
+the criticaI proprietary network control software to run it. The claims about EBS remained only
+
+unproven concepts and laboratory demonstrations that SKILLING was advised would take years
+
+to complete and might never be realized. In addition, the valuation of the business was inflated
+
+
+                                                16
+
+=== PAGE 17 ===
+by billions of dollars over what internal and external valuations had advised SKILLING might be
+
+supportable.
+
+            33.        First
+                       Quarter
+                       2000                Earnings: SKILLING’s and others’ plan to boost
+
+Enron’s stock price by aggressively touting EBS and to record earnings from that boost
+
+succeeded. On January 11 ,2000,the date on which Enron removed the fixed hedge on the Enron
+
+stock in JEDI as part of “Project Grayhawk,” Enron stock traded at approximately $47 per share.
+
+After the analyst conference on January 20,2000,Enron stock rose to approximately $57 per
+
+share. The “Project Grayhawk” maneuver allowed Enron to recognize, through JEDI,
+
+approximately $85 million in earnings as a result of the manufactured bounce in the stock from
+
+the false and misleading presentation to analysts about EBS. Enron then misleadingly described
+
+these earnings in later presentations to analysts and in SEC filings as ordinary and recurring
+
+operating earnings from its energy business. Enron did not disclose its manipulation of the hedge
+
+on the Enron stock in JEDI to the investing public, nor did it disclose that approximateIy 20-
+
+percent of the earnings of Enron’s largest business segment and the unit in which major Enron
+
+energy businesses were housed resulted not from business operations but solely from an increase
+
+in Enron’s own stock price.
+           34.         Concealment of EBS Failure: By late 2000,defendants JEFFREYK.
+
+SKILLING and RICHARD A. CAUSEY and others well knew that EBS was a struggling
+
+business that was losing far larger than expected amounts ofmoney. However, they took steps to
+
+ensure that EBS’s financial results did not publicly reflect its problems. For example, during
+
+2000,Enron structured a series of misleading, one-time financial transactions in EBS that were
+
+designed to manufacture earnings that Enron used to present the false impression that            EBS
+                                                                                                 was
+
+
+                                                17
+
+=== PAGE 18 ===
+progressing towards generating operating profits. Even with these transactions, EBS still was
+
+facing much larger than expected losses during the first quarter 2001. In order to ensure that
+
+EBS did not record in the first quarter 2001 losses that exceeded Enron’s annual budgeted loss
+target for EBS,and in order to ensure that the quarterly budgeted loss target dictated by
+
+SKILLING and CAUSEY for the first quarter 2001 was met, CAUSEY and others acting at his
+
+direction fraudulently reduced, and caused to be fraudulently reduced, EBS’s expenses for t h e
+
+first quarter of 200 1.
+
+Use of Special Purpose Entities and,LJM Partnership to Manipulate Financial Results
+
+            35.           Special Purpose Entities: One of the levers by which defendants
+
+JEFFREY K. SKILLING and RICHARD A, CAUSEY and their coconspirators ensured that
+
+Enron mat financial reporting targets was the creation and use of Special Purpose Entities
+
+(“SPEs”). SPEs were used to achieve “off-balance-sheet” accounting treatment of assets and
+
+business activities so that Enron could present itselfmore attractively as measured by criteria
+
+favored by securities analysts, credit rating agencies, and others. Under applicable accounting
+
+rules, if a company conducted a transaction with an SPE that included at least a three-percent
+
+equity investment that was at risk and from an independent source, a company could, under
+
+certain conditions, treat the results of such a transaction as “deconsolidated,”or excluded, from
+
+its own financial results. This meant that a company could record the earnings and cash flow
+
+from such a deal in its own results, but did not have to record liabilities such as debt in the
+
+transaction on its own balance sheet.
+
+            36.           Creation o f LJM Partnership: In June 1999,in order to have a purportedly
+
+independent third party available to provide this outside equity funding so that Enron could more
+
+
+                                                  18
+
+=== PAGE 19 ===
+easily create and use SPEs to achieve its desired financial reporting results, defendants JEFFREY
+
+K. SKILLING and RICHARD A. CAUSEY and others sought and obtained the approval of
+
+Enron’sBoard of Directors (the “Board”) for CFO Fastow to create and serve as the managing
+
+partner of an investment partnership named LJM1 that would invest in SPEs for Enron. The
+
+Board later approved Fastow’s participation in another even larger entity used to fund SPEs by
+
+Enron, LJM2 (the LJM entities are collectively referred to as “LJM” unless otherwise noted).
+
+LJM’s business activity principally involved transactions with Enron and Enron affiliates.
+
+           37.         As defendants JEFFREY K. SKILLING and RICHARD A. CAUSEY well
+
+knew, LJM was not a legitimate third party acting independently from Enron. Instead, LJM was
+
+controlled by Fastow acting simultaneously in his capacity both as Enron’s CFO and as the
+
+general partner in LJM. SKILLING, CAUSEY, Fastow and others then exploited Fastow’s dual
+
+role as a means to ensure that LJM did not act as a truly independent third party investor would
+
+have, but rather as Enron’s own vehicle to achieve its financial reporting objectives and as a
+
+means for Fastow and others to be heavily compensated for contributing to Enron’s success in
+
+meeting its financial reporting objectives.
+
+           38.         From approximately July 1999 through October 2001, Enron entered into
+
+transactions with LJM that defrauded the Victims. The transactions with LJM enabled Enron,
+
+among other things. to: (a) manipulate its reported financial results by readily and unobtrusively
+
+moving poorly performing assets off balance sheet, when in fact such off-balance-sheet treatment
+
+was improper; (b) conceal Enron’s poor operating performance by engaging in transactions
+
+designed to close gaps between Enron’s actual,business results and its stated financial reporting
+
+goals; (c) manufacture earnings through sham transactions when Enron was having trouble
+
+
+                                                19
+
+=== PAGE 20 ===
+otherwise meeting its goals for a quarter or year; and (d) improperly inflate the value of Enron’s
+
+investment portfolio by backdating documents when advantageous to Enron.
+
+            39.        “Raftor” Hedges: Beginning in the spring of 2000, Enron and LJM
+
+engaged in a series of financial transactionswith four SPES called Raptor I, Raptor II,Raptor III
+
+and Raptor IV (collectively referred to as tbe “Raptors”). Defendants JEFFREY K. SKILLING
+
+and RICHARD A. CAUSEY, Fastow, Enron Treasurer Ben F. Glisan, Jr., and their
+
+coconspirators used the Raptors to manipulate fraudulently Enron’s reported financial results.
+
+They designed and approved Raptor I, among other things, to protect Enron from having to report
+
+publicly in its financial results decreases in value in large portions of its energy merchant asset
+
+portfolio and technology investments by hedging the value of those investments with an allegedly
+
+independent third party created by Enron and LJM, known as Talon.
+
+           40          As defendants JEFFREY K. SKILLING and RICHARD A. CAUSEY well
+
+knew,however, the Raptor I structure was invalid under applicable accounting rules because
+
+Talon was not independent from Enron, and LJM’s investment in Talon was not sufficiently at
+
+risk to qualifyas outside equity. CAUSEY and Fastow had an oral side deal that LJM would
+receive its initial investment of $30 million in Talon plus a profit of $1 1million from Enron, all
+
+prior to Talon engaging in any of the hedging transactions for which it was created. As a quid
+
+pro quo for this payment to LJM, Fastow agreed with CAUSEY that Enron employees could use
+
+Raptor I to manipulate Enron’s balance sheet including by allowing Enron employees, without
+
+negotiation or due diligence on behalf o f LJM, to select the values at which the Enron assets
+
+were hedged with Talon. Defendant JEFFREY K.SKILLING was informed of and approved
+
+Fastow’s deal with CAUSEY in order to ensure that Enron achieved the financial reporting goals
+
+
+                                                 20
+
+=== PAGE 21 ===
+for which Raptor I was designed, even though it was clear that the Raptor I structure was not
+
+properly off Enron’s balance sheet.
+
+           41.         The defendant RICHARD A. CAUSEY, Fastow, Glisan, and others
+
+satisfied CAUSEY’s and Fastow’s side deal by manufacturing a transaction between Enron and
+
+Talon that generated a $41 million payment to LJM but had no legitimate business purpose for
+
+Enron. After satisfying the conditions of the side deal by providing LJM with a guaranteed
+
+return on its investment, Enron began to use Raptor I to hedge the value of Enron’s assets. Enron
+
+employees maniputatedthe book values of Enron assets, many of which were expected to decline
+
+in value, before they were hedged, knowing that the Raptor I structure ensured that Enron would
+
+not suffer the financial reporting consequences ofsubsequent declines or large fluctuations in the
+
+value of those assets. CAUSEY and Fastow further used Raptor I fraudulently to promote
+
+Enron’s financial position by back-dating a hedge to Enron’s advantage, capturing an inflated
+
+stock value of one of the Enron assets at a time when they knew that value already had declined
+
+The basic structure used in Raptor I, including CAUSEY’S and Fastow’s oral side deal, was
+
+repeated in the three successor Fraudulent hedging devices k n o w as Raptors II, III and IV.
+
+           42.         Manufacturing Earnings and Concealing Debt through Purported Sales to
+
+LJM: In addition to the fraudulent Raptor hedging devices, defendants JEFFREY K. SKILLING
+and RICHARD A. CAUSEY,and other Enron senior managers, used LJM to conduct other
+
+transactions in order Eo achieve financial reporting objectives, usually purported asset sales that
+
+yielded reported earnings and cash flow and moved poorly performing assets temporarily o f f
+
+Enron’s balance sheet. SKILLING, CAUSEY, Fastow, and others made undisclosed side
+
+agreements that guaranteed LJMagainst risk in certain of its transactions with Enron. These
+
+
+                                                 21
+
+=== PAGE 22 ===
+included side agreements that CAUSEY, Fastow and others termed “Global Galactic,” pursuant
+
+to which CAUSEY and Fastow rigged Enron-LJM deals so as to safeguard Enron’s scheme to
+
+manipulate its reported financial results.
+
+           43.         One such transaction involved LJM’s “purchase” of Enron’s interest in a
+
+company that was building a power plant in Cuiaba, Brazil (the “Cuiabaproject”), On
+
+September 30, 1999, when no true third-party buyer could be found, Enron “sold” a portion of its
+
+interest in the Cuiaba project to LJM for $11.3
+                                          million.        LJM agreed to “buy” this interest onIy
+
+because defendants JEFFREY K.SKILLING and RICHARD A. CAUSEY, Fastow and others, in
+
+an undisclosed side deal, agreed that Enron would buy back the interest, ifnecessary, at a profit
+
+to LJM. Based on this purported “sale,”which was in fact an asset parking or warehousing
+
+arrangement, Enron improperly recognized approximately $65 million in income in the third and
+
+fourth quarters of 1999, when it was straining to meet budget targets designed to ensure #at it
+
+achieved its earnings-per-share goals.
+
+           44.         By 2001, the Cuiaba project was approximateIy $200 million over budget.
+
+Nonetheless, in the spring o f 2001, defendants JEFFREY K.SKILLING, RICHARD A.
+
+CAUSEY and Fastow caused Enron to agree to buy back LJM’s interest in the Cuiaba project at a
+
+considerable profit to LJM, in keeping with the undisclosed oral side deal. After agreeing to
+
+execute the repurchase, SKILLING, CAUSEY, Fastow and others decided to deIay publicIy
+
+consummating t h e deal. until Fastow sold his interest in LJM so that Fastow’s role in the
+
+transaction would not be disclosed, Because Fastow’s role at LJM was coming under increased
+
+scrutiny, SKILLING, CAUSEY, Fastow and others sought ways to circumvent public disclosures
+
+about Fastow’s dual roles in LJM and as Enron’s CFO. Consequently, the repurchase was not
+
+
+                                                 22
+
+=== PAGE 23 ===
+effected until after Enron filed its second quarter 2001 financial reports, in which no repurchase
+
+or agreement to repurchase was disclosad. In fact, Enron bad agreed to the repurchase all along
+
+and it was accomplishedjust weeks after the second quarter filing with the SEC on the same
+
+terms as those agreed upon earlier.
+
+           45 .        NigerianBarges: In the fourth quarter 1999 Enron pushed through several
+
+end-of-the-quarter transactions that were designed solely to achieve budget targets at a time when
+
+the company was struggling to produce earnings sufficient to ensure that Enron met analysts’
+
+expectations and Enron’s predictions for earnings growth. One transaction used by Enron to
+
+ensure that its target was met in the fourth quarter of 2999 was a deal whereby Enron “sold”
+
+Merrill Lynch an interest in electricity-generating power barges moored off the coast o f Nigeria.
+
+When Enron was unable to find a true buyer for the barges by December 1999, it parked the
+
+barges with Merrill Lynch so that Enron could record $12 million in earnings and $28 million in
+
+cash flow needed to meet budget targets.
+
+           46.          Enron was able to induce Merrill Lynch to enter into the Nigerian barges
+
+transaction by promising that Merrill Lynch would receive a return of its investment plus an
+
+agreed-upon profit within six months. Enron conveyed this promise in the form of an oral
+
+”handshake”side-deal with Merrill Lynch that was concealed from Enron’s auditor and the
+
+public Because Merrill Lynch’s supposed equity investment was not sufficiently “at risk,”
+
+accounting rules prohibited Enron from treating the transaction as a sale from which it could
+
+record earnings and cash flow. In June 2000,Enron in fact delivered on its “handshake”promise
+
+to Merrill Lynch by producing LJM as a buyer for the Nigerian barges. Defendant RICHARD A.
+
+CAUSEY and Fastow agreed to include LJM’s repurchase of the Nigerian barges from Merrill
+
+
+                                                23
+
+=== PAGE 24 ===
+ Lynch at the agreed-uponprofit to Merrill Lynch in their “Global Galactic” agrement
+
+concerning LJM deals designed to assist Enron in achieving its financial reporting objectives. In
+
+turn,CAUSEY assured that LJM would b e bought out at a profit and paid a large fee for taking
+
+MerrilI Lynch out of the transaction by the agreed-upon June 30,2000 deadline.
+
+False and Misleading Representations to Investing Public
+
+            47.        In furtherance of the scheme to manipulate Enron’s financial results and
+inflate its stock price, defendants JEFFREY K.SKILLING and RICHARD A. CAUSEY and
+
+others presented and participated in the presentation of knowingly false and misleading
+
+statements about Enron’s financial results, the performance o f its businesses, and the manner in
+
+which its stock was and should be valued. These statements were disseminated to the investing
+
+public in conferences, conference calls, press releases, interviews, statements to members of the
+
+media, and SEC fiIings. They included, but were not limited lo, those described in paragraphs 48
+
+through 62 below.
+
+           48.         First Quarter 2000 Analyst Call: On April 12,2000, Enron heId its
+
+quarterly conference call to discuss its earnings for the first quarter of 2000. Defendants
+
+JEFFREY K. SKILLING and RICHARD A. CAUSEY were among the senior Enron managers
+
+who participated in the call and Enron’s preparation for the call. SKILLING knowingly made
+
+false and misleading stalements about Enron’soperating earnings for the quarter and omitted to
+
+disclose facts necessary to make his statementsnot misleading. SKLLING stated that Enron’s
+
+wholesale energy “assets and investments” business recorded earnings of $220 million for the
+
+quarter; that those earnings were “attributable to increased earnings from Enron’s portfolio of
+
+energy-related and other investments”; that ‘‘this was a pretty good quarter for the energy-dated
+
+
+                                                24
+
+=== PAGE 25 ===
+investment business in contrast to the drag it was over the last year”; and that the upswing in
+
+earnings in that portion of Enron’s business was “basically the performance of the existing asset
+
+portfolios.” Those statements were materially misleading because SKlLLING omitted to
+
+disclose that, in reality, approximately $85 million of the $220 million in earnings were unrelated
+
+to the oparating performance ofEnron’s energy business. Rather, as SKILLING well knew,
+
+through “Project Grayhawk,” they were solely attributable to a scheme to generate earnings by
+
+manufacturing an increase in Emon’s own stock price by heavily touting EBS at Emon’s January
+
+20.2000 analyst conference
+
+           49.         Fourth Quarter 2000 Analyst Call: On January 22,2001, Enron held its
+
+quarterly conference call With securities analysts to discuss its earnings for the fourth quarter of
+
+2000. Defendants JEFFREY K. SKILLING arid RICHARD A. CAUSEY were among the senior
+
+Enron managers who participatedin the call and Enron’s preparation for the call. SKILLING
+
+knowingly made false and misleading statements about Enron’s wholesaIe and retail energy
+
+trading businesses and omitted to disclose facts necessary to make his statements not misleading,
+
+including that “for Enron, the situation in California had little impact on fourth quarter results.
+
+Let me repeat that. For Enron, the situation in California had little impact on fourth quarter
+
+results.” Ha further stated that ‘nothing can happen in California that would jeopardize” Enron’s
+
+earnings targets for 2001 and that California business was “small” for Enron. In reality, as
+
+SKILLING well knew, Enron reaped huge profits in 2000 from energy trading in California and
+
+concealed hundreds of millions of dollars ofthose earnings in undisclosed reserve accounts for
+
+later use. Also, as SKLLING well knew, by late January 2001, California utilities owed EES
+
+hundreds of millions o f dollars that EES could not collect and Enron had concealed large
+
+
+                                                 25
+
+=== PAGE 26 ===
+reserves that it was forced to book for those uncollectible receivables within Enron Wholesale’s
+
+books.
+
+           50.         In support of Enron’s claims that EBS continued to be successful and a
+
+major positive factor contributing to Enron’s current and future stock price, a senior Enron
+
+manager misled analysts during the call about the source of EBS’s earnings in the fourth quarter
+
+of 2000. After being directed by defendant JEFFREY K. SKILLING to answer a question about
+
+the source of EBS’s revenues, the senior manager said that one-time, nonrecurring transactions
+
+such as sales of “dark fiber“ and a ‘monetization,” or sale, of part of EBS’s nascent video-on-
+
+demand venture with the Blockbuster company accounted for only “a fairly small amount” of
+
+EBS’s revenues. In truth, as Enron executives and senior managers including defendant
+
+RICHARD A. CAUSEY well h e w , the sale of projected future revenues from the Blockbuster
+
+video-on-demand venture, which Enron abandonedjust a quarter later, accounted for $53 million
+
+ofEBS’s fourth quarter 2000 revenues of $63 million.
+
+           51.        January25,2001 Analyst Conference: Enron held its annual conference in
+
+Houston with securities analysts on January 25,2001. At that conference, defendant JEFFREY
+
+K. SKILLING and coconspirators under his supervision, as a focal point o f Enron’s case for an
+
+increased stock value, knowingly made false and misleading presentations about the performance
+
+and potential of EBS and EES and omitted to disclose facts necessary to make his statements not
+
+misleading. SKILLING called all o f Enron’s major businesses, including EBS and EES, “strong
+
+franchises with sustainable high earnings power.” With regard to EBS,he said that “our
+
+network’s in place.” Ha asserted that Emon’s stock, which was then trading at over $80 per
+
+share, should be valued at $126 per share, attributing $63 of that alleged stock value to EBS and
+
+
+                                                26
+
+=== PAGE 27 ===
+EES , He stated that Enron was “not a trading business.”
+
+           52.         These statements were false and misleading and omitted facts necessary to
+
+make them not misleading. In reality, as defendant JEFFREY K.SKILLINGwell knew, EBS
+
+was performing very poorly and had made little commercial progress in 2000; EES personnel
+
+had recommended shutting down or selling EBS’s network; EBS had few revenue prospects for
+
+the upcoming year; and EBS had an unsupportable cost structure that, without correction, could
+
+potentially lead to substantial losses well in excess of those Enron had publicly forecast. Also, as
+
+SKILLING well knew, EES too was an unsuccessful business. Its modest earnings during 2000
+
+largely resulted from one-time sales of investment unrelated to its retail energy contracting
+
+business; its existing retail energy contracts were overvalued by hundreds of milions of dollars;
+
+and it was owed hundreds of millions of dollars by the California utilities that it could not collect
+
+and that Enron was concealing within Enron Wholesale. In addition, as SKlLLING well h e w ,
+
+Enron had made huge profits from speculative wholesale energy trading during 2000,particularly
+
+in the western United States, and had cancealedhundreds of millions of dollars of those earnings
+
+in reserve accounts.
+
+           53.         March 23.2001 Analyst Call: Enron held a special conference call with
+
+securities analysts on March 23,2002 in an effort to dispel growing public concerns about
+
+Enron’s stock, which had fallen from over $80 per share to under $GO per share in less than two
+
+months. Defendants JEFFREY K. SKILLING and RICHARD A.CAUSEY were among the
+
+senior Enron managers who participated in the call. and Enron’s preparation for the call.
+
+SKILLING knowingly made false and misleading statements, and omitted to disclose facts
+
+necessary to make his statements not misleading, in an effort to prop up Enron’s stock. Among
+
+
+                                                 27
+
+=== PAGE 28 ===
+other things, he stated that “Enron’s business is in great shape” and “I know this is a bad stock
+
+market but Enron’sin good shape,” even though, as SKILLING well knew, both of Enron’s
+
+showpiece new businesses, EBS and EES, were failing. He stated that Enron was “highly
+
+confident” o f its income target of $225 million for the year for EES and that EES was seeing the
+
+‘positive effect” of “the chaos that’s going on out in California.”   In reality, even EES’sexisting
+
+contracts were overvalued by hundreds of millions of dollars. EES was owed hundreds of
+
+millions of dollars by the California utilities that it could not collect and Enron had concealed
+
+reserves it was forced to book for those receivables within Enron Wholesale EES’s new
+
+management was predicting that it would take a year or more for EES to become truly profitable.
+
+           54.         Defendant JEFFREY K.SKILLING further stated that EBS “is coming
+
+along just fine” and that the company was “very comfortable with the volumes and targets and
+
+the benchmarks that we set for EBS.” He said that EBS’s two profit-and-loss centers,
+
+intermediation and content services, were “growing fast” and that EBS was not laying off
+
+employees but rather “moving peopIe around inside EBS” and that this wag ‘‘very good news.”
+
+In reality, as SKILLING well knew,EBS was continuing to fail. Senior personnel at EBS had
+
+reported that the unit had’an unsupportable cost structure and unproven revenue model. One
+
+senior EBS executive estimated that Enron would need to write-off, that is record as a loss,
+
+approximately half of EBS’s $875 million book value. EBS was laying off employees and
+
+SKILLING had told employees based in Portland, Oregon that EBS wouId be centralized in
+
+Houston and jobs would be cut because ofa “total meltdown” in the broadband industry.
+
+           55.         First Ouarter 2001 Analyst Call: Enron held its conference call with
+
+securities analysts to discuss its first quarter 2001 results on April 17,2001. Defendants
+
+
+                                                28
+
+=== PAGE 29 ===
+JEFFREY K. SKILLING and RICHARD A. CAUSES’ were among the senior Enron managers
+
+who participated in the call and Enron’s preparation for the call. SKILLING made false and
+
+misleading statements in the call and omitted to disclose facts necessary to make his statements
+
+not misleading. SKILLING talked about continued “big, big numbers” in EES’s energy
+
+contracting business. He falsely explained Enron’s movement of EES’s energy contract portfolio
+
+into Enron Wholesale by omitting any reference Eo EES’s large losses or their transfer to Enron
+
+Wholesale and stating, ‘‘[W]e have such capability in our wholesale business that we were -- we
+
+just weren’t taking advantage of that in managing our portfolio at the retail side. And this retail
+
+portfolio has gotten so big so fast that we needed to get the best -- the best hands working risk
+
+management there,” While Enron reported modest first quarter earnings for EES o f $40 million,
+
+in reality. as SKILLING well knew, EES was facing losses approaching one billion dollars,
+
+including overvalued contracts, uncollectible receivables with the California utilities, and huge
+
+costs from an increased California regulatory surcharge. As alleged in this Superseding
+
+Indictment, Enron had moved EES’s energy trading portfolio into Enron Wholesale to conceal
+
+those losses.
+
+           56.         Defendant JEFFREY K.SKILLING made further knowingly false and
+
+misleading statements about Enron’s wholesale energy trading business, and omitted lo disclose
+
+facts necessary to make his statements not misleading, including that “we remain confident that
+
+the situation in California will have no material impact on our financial condition and no adverse
+
+impact on 2001. earnings.” He refused, when pressed by analysts, to provide any detail or
+
+specific numbers regarding Enron’s reserves and to explain how Enron’sreserves were aIlotted
+
+between EES and Enron Wholesale, stating only that “we have adequate reserves and other credit
+
+
+                                                 29
+
+=== PAGE 30 ===
+offsets in place” to cover m y exposure in California In reality, as SKILLING well knew, Enron
+
+had concealed for later use hundreds o f millions of dollars of year 2000 energy trading profits,
+
+much of them from the California market, in reserve accounts within Enron Wholesale that
+
+exceeded $1 billion, and had used those reserves to conceal hundreds ofmillions of dollars of
+
+potential losses to EES,much of them incurred in the California market.
+
+            57.         Defendant JEFFREY K. SKILLING also made knowingly false and
+
+misleading statements, and omitted to disclose facts necessary to make his statements not
+
+misleading, about the success of EBS. He stated that “[o]ur network i s now substantiaIly
+
+complete” and that it “is just not the ease” that Enron was reducing staff of EBS because it was
+
+getting out of the content services business. SKILLING also stressed that the reported losses in
+
+the unit were on target and “anticipated” and that the unit’s capital expenditures were being
+
+reduced because it was “able to get access to connectivity without having to build it.” In reality,
+
+as SKlLLING well knew, the cost-cutting measures at EBS were instituted because the unit was
+
+continuing to fail and to lay off employees rather than redeploy them, and was incurring much
+
+larger than expected losses that could not be offset with projected future revenues.
+
+            58.         A senior Enron manager made further false and misleading statements
+
+about EBS in the call, and omitted to disclose facts necessary t o make his statements not
+
+misleading, including that revenues from selling portions of EBS’s contentbusiness, as opposed
+
+to recurring earnings from operations, were only “about a third” ofEBS’s overalI earnings and
+
+that EBS had only done ‘‘a little bit” of such sales in the past two quarters. In reality, as
+
+defendant JEFFREY K.SKILLING well knew, the sale of a portion of EBS’s content business
+
+was the principal mechanism by which the unit had generated revenue in the last two quarters
+
+
+                                                  30
+
+=== PAGE 31 ===
+and accounted for the majority of EBS’s earnings for the first quarter of 2001. Only a very small
+
+percentage of the unit’s revenues in either quarter was due to operations that could be expected to
+
+recur. Moreover, EBS had only been able to meet i t s target of $35 million in losses for the first
+
+quarter of 2001 through the combined efforts of the sale of portions of its content services
+
+business and the manipulation of the accounting for many of its expenses and aIlocations under
+
+the supervision of defendant RICHARD A. CAUSEY,
+
+           59.         Second Ouarter 2001 Analyst Call: Enron held its conference call with
+
+securities analysts to discuss i t s second quarter 2001 results on July 12,2001. Defendants
+
+JEFFREY K.SKILLING and RICHARD A. CAUSEY were among the senior Enron managers
+
+who participated in the call and Enron’s preparation for the call. SKILLING made further
+
+knowingly false and misleading statements about the condition of Enron, and omitted to disclose
+
+facts necessary to make his statements not misleading, including that Enron had a “great quartet.“
+
+He further stated that EES “had an outstanding second quarter” and was “firmly on track to
+achieve our 2001 target of $225 million” in earnings; that losses in EBS were due to “industry
+
+conditions” and “dried up” revenue opportunities; and that Enron’s “new businesses are
+
+expanding and adding to OUR earnings power and valuation, and w e are wall positioned for future
+
+growth.” A senior Enron manager also misled analysts about the movement of EES’s energy
+
+contracting portfolio into Enron Wholesale, stating, “We just took the risk management functions
+
+and combined them because we just -- we were trying to get some more efficiency out of
+
+management of the overall. risk management function.”
+
+           60.         In reality, as defendant JEFFREY K. SKILLING well knew, by the close
+o f the second quarter of 2001, EBS had failed and its increased losses were because it had
+
+
+                                                 31
+
+=== PAGE 32 ===
+stopped the one-time sales of portions of its business that had previously been the only
+
+significant source of its earnings. EES was facing hundreds of milIions o f dollars in conceded
+
+losses and was a year or more away from any prospect of success. As a whole, Enron was less
+
+than five months from bankruptcy and the accelerating pace of the company’s decline was well
+
+known to SKILLING, who abruptly resigned on August 14, 2001.
+
+            61.        Third Quarter 2001 Analyst Call: Enron held its quarterly conference call
+to discuss its third quarter 2001 earnings results with securities analysts on October 16, 2001.
+
+Defendant RICHARD A. CAUSEY was among the senior Enron managers who participated in
+
+the call and Enron’s preparation for the call. For the first time during the duration ofthe scheme
+
+to manipulate its reported financial.results, Enron conceded that it had suffered large losses,
+
+totaling approximately $1 billion; in certain segments of its business. These areas included many
+
+declining assets that had been concealed in the “Raptor” hedges as well as EBS. However,
+
+CAUSEY and others knowingly attempted to mislead the investing public about these losses in
+
+order to prevent the bad news from further devaluing Enron’s stock price.
+
+           62.         Enron misleadingly described the hundreds of millions ofdollars in losses
+stemming from the “unwind,”or abandonment, of the “Raptors” as “nonrecurring” losses, that is,
+
+a one-time or unusual earnings event. However, as defendant RICHARD A. CAUSEY well
+
+knew, over the course of prior quarters, Enron had characterized the positive earnings that i t
+
+previously recognized, and then hedged, from these same.assets as ordinary operating earnings
+
+that could be expected to recur. In addition, Enron did not disclose in its third quarter press
+
+release a substantial reduction in shareholder equity. Instead, Enron’s Chaiman/CEO only
+
+briefly mentioned in the call that “[i}n connection with the early termination [of the Raptor
+
+
+                                                 32
+
+=== PAGE 33 ===
+structures], shareholders’ equity will be reduced approximately $1.2 billion.” In reality and as
+
+defendant RICHARD A. CAUSEY well knew,this disclosure, which Mediately alarmed
+
+securities analysts because of its size and abnormality,resulted not from the termination o f the
+
+“Raptor“ structures, but principally from a huge accounting error by Enron in prior earnings
+
+results that Enron shortly would be forced to concede and correct.
+
+False and Misleading Representations to Victims
+
+           63.         Infurtherance ofthe scheme to manipulate Enron’s financial results and
+
+inflate its stock price, defendants JEFFREY K.SKILLING and RICHARD A. CAUSEY and
+
+their coconspirators filed and caused to be filed with the SEC false annual 10-Kreports for the
+
+years ending December 3 1, 1999 and December 31,2000, and false quarterly 10-Qreports for the
+
+quarters ending September 30,1999, March 31,2000, June 30,2000, September 30,2000, March
+
+3 1,2001 and June 30,2001. Among other things, those filings contained materially false and
+
+misleading financial statements that misstated Enron’s actual. revenues and earnings and
+
+understated Enron’s actual debt and expenses and materially false and misleading managment
+
+descriptions and analysis of Enron’s business, and they omitted to disclose facts necessary in
+
+order to make the disclosures made,in light of the circumstances under which they were made,
+
+not misleading. In addition, in furtherance o f the scheme, SKILLING, CAUSEY and others
+
+knowingly misrepresented, concealed and hid, and knowingly caused to be misrepresented,
+
+concealed and hidden, the existence, goals and acts done in furtherance of the scheme, including
+
+by providing false, misleading and inaccurate information and making false representations to,
+
+among others, the Victims.
+
+
+
+
+                                                33
+
+=== PAGE 34 ===
+                                          COUNTONE
+                        (Conspiracy to Commit Securities and Wire Fraud:
+                        Scheme to Manipulate Reported Financial Results)
+
+             64.       The allegations in paragraphs 1 through 63 are realleged as if fully set
+forth here
+
+             65        In or about and between late 1999 and December 2001, both dates being
+
+approximate and inclusive, within the Southern District of Texas and elsewhere, defendants
+
+JEFFREY K. SKILLING and RICHARD A, CAUSEY,and others, did knowingly and
+
+intentionallyconspire (1) to willfullly and unIawfully use and employ manipulative and deceptive
+
+contrivances and directly and indirectly (i) to employ devices, schemes and artifices to defraud;
+
+(ii) to make untrue statements of material fact and omit to state facts necessary in order to make
+
+the statements made, in light of the circumstances under which they were made, not misleading;
+
+and (iii) to engage in acts, practices, and courses of conduct which would and did operate as a
+
+fraud and deceit upon members of the investing public, in connection with the purchase and sale
+
+of Enron securities and by use of the instruments of communication in interstate commerce and
+
+the mails in violation of Title 15, United States Code, Sections 78j(b) and 78ff and Rule 10b-5
+
+ofthe SEC,Title 17, Code of Federal Regulations, Section 240.1 Ob-5, and (2) to devise a scheme
+
+and artifice to defraud and obtain money and property by means of materialIy false and
+
+fraudulent pretenses, representations and promises, and, for the purpose o f executing such
+
+scheme and artifice, to cause interstate Wire communications in violation of Title 18, United
+
+States Code, Section 1343.
+
+                                          OVERT ACTS
+
+             66.      In furtherance ofthe conspiracy and in order to carry out the objectives
+
+                                                34
+
+=== PAGE 35 ===
+thereof, on or about the dates listed below, in the Southern District of Texas and elsewhere,
+
+defendants JEFFREY K.SKILLING and RICHARD A. CAUSEY, and others, committed and
+
+caused to be committed the following overt acts, among others:
+
+                       a.         In or about 1999, SKILLING, CAUSEY and others obtained
+
+the approval of Enron’s Board at a Board meeting held in Houston, Texas for Enron’s CFO
+
+Fastow to conduct transactions between Enron and LJM
+
+                       b.         On.or about September 30,1999,SKILLING, CAUSEY and
+othersenabled Enron to “sell” to LJM for $11.5 million a portion of Enron’s interest in a
+company that was building a power plant in Cuiaba, Brazil;
+
+                       c.         On or about November15,1999, SKILLING and CAUSEY
+
+caused to be filed via electronic transmission from Houston, Texas to the SEC in Washington,
+
+D.C.Enron’s quarterly report on Form 10-Q for the period ending September 30,1999;
+                       d.         In or about the fourth quarter of 1999, Enron employees caused
+
+Merrill Lynch to buy Enron electricity barges moored off the coast of Nigeria that Enron had
+
+been unable to sell, so that Enron could record $12 million in earnings and $28 million in cash
+
+flow needed for budget targets;
+
+                       e.         In or about January 2000,SKILLING, CAUSEY and others
+planned and approved the alteration o f “hedges” on certain Enron stock held by the JEDI
+
+investment partnership so that Enron could record as operating earnings the increased value of
+
+JEDI’s Enron stock holdings that SKILLING, CAUSEY and others planned to cause by Enron’s
+
+announcements about its telecommunications business at its annual conference for securities
+
+analysts in Houston, Texas;
+
+
+                                                35
+
+=== PAGE 36 ===
+                      f.          On or about January 20,2000,SKlLLING and others made
+
+false and misleading statements about Enron’s telecommunications business at Enron’s annual
+
+conference for securities analysts held in Houston, Texas;
+
+                      g.          On or about January 2 1,2000, CAUSEY sold 45,000shares of
+
+Enron stock, generating gross proceeds of $3,220,000;
+
+                      h.          On or about March 13,2000,SKILLING and CAUSEY signed
+
+and caused to be delivered an annual management representation letter addressed to Enron’s
+
+accountants in Houston, Texas;
+
+                      i.          On or about March 30,2000,SKILLING and CAUSEY signed
+and caused to be filed via electronic transmission from Houston, Texas to the SEC in
+
+Washington, D.C. Enron’s annual report on Form 10-Kfor the period ending December 31,
+
+1999;
+
+                      j.          On or about April 12,2000, SKILLING, CAUSEY and others
+
+conducted a quarterly conference call from Houston, Texas with securities analysts;
+
+                      k.          On or about April 25 and 26,2000, SKILLING sold 96,217
+shares of Enron stock, generating gross proceeds o f $7,077,076.75;
+
+                      1.          On or about May 12,2000,CAUSEY and SKILLING signed
+and caused to be delivered a quarterly management representation letter addressed to Enron‘s
+
+accountants in Houston, Texas;
+
+                      m.          On or about May 15,2000, SKILLING and CAUSEY caused
+to be filed via electronic transmission from Houston, Texas to the SEC in Washington, D.C.
+
+Enron’s quarterly report on Form 10-Qfor the period ending March 3 1,2000;
+
+
+                                               36
+
+=== PAGE 37 ===
+                       n.          In or about the spring of2000, SKILLING, CAUSEY and
+others designed and approved Emon’s use of the Raptor structure in order to ensure that Enron
+
+would not have to report expected losses in the value of certain of its assets;
+
+                       0.          On or about and between July 17 and 19,2000, after the second
+
+quarter ended, SKILLING, CAUSEY and others caused entries to be made in Enron’s books and
+
+records in Houston, Texas, which entries improperly released funds from a reserve account solely
+
+to ensure that Enron reported a better earnings per share number than Enron actually achieved for
+
+the second quarter;
+
+                       P-          In or about the summer of 2000,in an undocumented side deal,
+
+CAUSEY and Fastow agreed that LJM wouId receive a guaranteed return o f its $30 million
+
+investment in the first Raptor structure, together with a profit of $1I million on that investment,
+
+in exchange for which Enron would be permitted unilaterally to determine the value of the assets
+
+hedged in Raptor without negotiation or due diligence by LJM
+
+                       q.          On or about August 11, 2000, SKILLING and CAUSEY signed
+and caused to be delivered a quarterly management representation letter addressed to Emon’s
+
+accountants in Houston, Texas;
+
+                       r.         On or about August 14,2000, SKILLING and CAUSEY
+caused to be filed via electronic transmission from Houston, Texas to the SEC in Washington,
+
+D.C, Enron’s quarterly report on Form 10-Qfor the period ending June 30,2000;
+
+                       S.         In or about September 2000,CAUSEY and others caused
+Enron to purchase a “put” on its own stock from an entity involved in the Raptor structure, which
+
+had no business purpose for Enron but ensured that LJM received the complete return of its $30
+
+
+                                                 37
+
+=== PAGE 38 ===
+million investment in the first Raptor structure, together With a profit of $11 million on that
+
+investment;
+
+                       t.          In or about September 2000, CAUSEY and others back-dated a
+
+portion of the Raptor I transaction to Enron’s advantage, capturing a stock value of one of the
+
+Enron assets hedged in Raptor I at a time when they knew that value already had declined;
+
+                       U.          On or about September 6,2000,CAUSEY and Fastow held a
+meeting in Houston, Texas to discuss Enron’s and LJM’s undocumented “Global. Galactic” side
+
+agreement that LJM would be guaranteed against Ioss in certain of its transactions with Enron,
+
+and that other losses to LJM would be made up through other transactions with Enron;
+
+                       V.          On or about and between August 30,2000and September 5,
+2000,SKILLING sold 86,441 shares of Enron stock, generating gross proceeds of$7,484,360;
+
+                       W.          On or about September 28,2000,CAUSEY sold 80,753 shares
+
+of Enron stock, generating gross proceeds of $7,096,807.83;
+
+                       x.          On or about and between November 1 and November 7,2000.
+SKILLING sold 138,668 shares of Enron stock, generating gross proceeds of $11,492,412.63;
+
+                       Y.          O n or about November 13,2000,SKILLING and CAUSEY
+
+signed and caused to be delivered a quarterly management representation letter addressed to
+
+Enron’s accountants in Houston, Texas;
+
+                       z.          On or about November 14,2000,SKILLING and CAUSEY
+
+caused to be filed via electronic transmission from Houston, Texas to the SEC in Washington,
+
+D.C.Enron’s quarterly report on Form 10-Q for the period ending September 30,2000;
+                       aa.         On or about and between November 15,2000 and June 13,
+
+
+                                                 38
+
+=== PAGE 39 ===
+2001,pursuant to a written plan providing for sales of 10,000 shares per week, SKILLING sold
+
+3 10,000shares of Enron stock, generating gross proceeds of$20,485,247.42;
+
+                        bb.         In or about November 2000, CAUSEY and others approved
+
+Enron employees’ manipulatingthe value of Mariner Energy on Enron’s books in order to
+
+produce approximately $100 million in reported earnings;
+
+                        cc.         On or about January 22,2001, SKILLING, CAUSEY and
+others conducted a quarterly conference call from Houston, Texas with securities analysts;
+
+                        dd .        On or about January 25,2001, SKILLING and others planned
+
+and delivered an annual. presentation in Houston, Texas to securities analysts;
+
+                        ee.         On or about February 23,2001,SKILLING and CAUSEY
+signed and caused to be delivered an annual management representation letter addressed to
+
+Enron’s accountants in Houston, Texas;
+
+                        ff.         On or about March 23,2001, SKILLING, CAUSEY and others
+conducted a conference call from Houston, Texas with securities analysts;
+
+                        gg.         In or about March 2001, SKILLING, CAUSEY and others
+approved the transfer of large portions o f EES’s   business, including areas where hundreds of
+
+millions o f dollars in losses would need to be recorded, from EES into Enron Wholesale;
+
+                        hh.         On or about April 2,2001, SKILLING and CAUSEY signed
+
+and caused to be filed via electronic transmission from Houston, Texas to the SEC in
+
+Washington, D.C.Enron’s annual report on Form 10-K for the period ending December 3 1,
+
+2000;
+                        ..
+                        11.         On or about April 17,2001, SKILLING, CAUSEY and others
+
+                                                    39
+
+=== PAGE 40 ===
+conducted a quarterly conference call with securities analysts;
+
+                      jj.         On or about May 15,2001, SKILLING and CAUSEY signed
+
+and caused to be delivered a quarterly management representation letter addressed to Enron’s
+
+accountants in Houston, Texas;
+
+                       kk.        On or about May 15,2001, SKILLING and CAUSEY caused
+
+to be filed via electronic transmission from Houston, Texas to the SEC in Washington, D.C.
+
+Enron’s quarterly report on Form 10-Qfor the period ending March 3 1,2001;
+
+                       11.         In or about the spring of 2001,SKILLING, CAUSEY and
+
+others caused Enron to agree to buy back LJM’s interest in the Cuiaba project at a considerable
+
+profit to LJM;
+
+                       mm.        On or about July 12,2001,SKILLING, CAUSEY and others
+
+conducted a quarterly conference call fromHouston, Texas with securities analysts;
+
+                      nn.         On or about August 14,200 1, CAUSEY signed and caused to
+be delivered a quarterly management representation letter addressed to Enron’s accountants in
+
+Houston, Texas;
+
+                       oo.        On or about August 14,2001, CAUSEY caused to be filed via
+
+electronic transmission from Houston, Texas to the SEC in Washington, D.C.Enron’s quarterly
+
+report on Form 10-Qfor the period ending June 30,2001;
+
+                      PP          On or about September 17,2001, SKILLLING sold 500,000
+
+shares of Enron stock, generating gross proceeds of $15,587,305.10;
+
+
+
+
+                                                40
+
+=== PAGE 41 ===
+                         qq.         On or about October 16,2001, CAUSEY and others conducted
+
+a quarterly conference call from Houston, Texas with securities analysts.
+
+              (Title 18, United States Code, Sections 371 and 3551 et seq.)
+
+                                            COUNT TWO
+                                   (Securities Fraud: Raptor Fraud)
+
+              67.        The allegations in paragraphs 1 through 63 are realleged as if fully set
+
+forth here.
+
+              68.        In or about and between spring 2000 and. October 2001, both dates being
+
+approximate and inclusive, within the Southern District of Texas and elsewhere, defendants
+
+JEFFREY K. SKlLLING and RICHARD A. CAUSEY, and others, in a course o f conduct
+
+involving the construction and use of Enron financial devices known as the Raptors, did willfully
+
+and unlawfully use and employ manipulative and deceptive devices and contrivances and directly
+
+and indirectly (i) employ devices, schemes and artifices t o defraud; (ii) make untrue statements of
+
+material. facts and omit to state facts necessary in order to make the statementsmade, in light of
+
+the circumstances under which they were made, not misleading; and (iii) engage in acts,
+
+practices, and comes of conduct which would and did operate as a fraud and deceit upon
+
+members of the investing public, in connection with purchases and sales of Enron securities and
+
+by the use of the instruments of communication in interstate commerce and the mails.
+
+              (Title 17, Code of Federal Regulations, Section 240.10b-5; Title 15, United States
+
+Code, Sections 78j(b) and 78ff; Title 18, United States Code, Sections 2 and 3551 et seq.)
+
+
+
+
+                                                  41
+
+=== PAGE 42 ===
+4   JEFFREY K. SKILLING   September 7,2000   $41,000,000from Talon 1 LLC
+                                             Wilmington Trust Co. account
+    RICHARD A. CAUSEY                        no+5 1419, Wilmington,
+                                             Delaware, to LJM2-Talon LLC
+                                             Chase Manhattan account no.
+                                             323-156479,Houston, Texas
+
+=== PAGE 43 ===
+5   RICHARD A. CAUSEY     September 19,2000   $6,000,000from WM2-Talon
+                                              LLC Chase Manhattan account
+                                              no. 323-156479,Houston,
+                                              Texas, to Talon I LLC
+                                              Wilmington Trust Co. account
+                                              no. 51419, Wilmington,
+                                              Delaware
+
+
+6   RICHARD A. CAUSEY     September 19,2000   $6,000,000 from Talon 1 LLC
+                                              Wilmington Trust Co. account
+                                              no. 51419, Wilmington,
+                                              Delaware, to Enron Citibank
+                                              account no.00076486, New
+                                              York, New York
+
+7   JEFFREY K. SKILLING   October 3,2000      $41,000,000 from Enron
+                                              Citibank account no.00076486,
+    RICHARD A. CAUSEY                         New York, New York, to
+                                              Timberwolf I LLC Wilmington
+                                              Trust Co. account no. S 197 1,
+                                              Wilmington, Delaware
+
+a   JEFFREY K.SKILLING    October 4,2000      $41,000,000 from Timberwolf I
+                                              LLC Wilmington Trust Co.
+    RICHARD A. CAUSEY                         account no, 51971, Wilmington,
+                                              Delaware, to LJM2-Timberwolf
+                                              LLC Chase Manhattan account
+                                              no. 323-864104,Houston, Texas
+
+9   RICHARD A. CAUSEY     October 13,2000     $1,100,000 from LJM2-
+                                              Timberwolf LLC Chase
+                                              Manhattan account no. 323-
+                                              864104, Houston, Texas, to
+                                              Timberwolf I LLC Wilmington
+                                              Trust Co. account no. 51971,
+                                              Wilmington, Delaware
+
+=== PAGE 44 ===
+10   RICHARD A. CAUSEY   October13,2000   $1,100,000 from Timberwolf I
+                                          LLC Wilmington Trust Co.
+                                          account no. 51971, Wilmington,
+                                          Delaware, to Enron Citibank
+                                          account no. 00076486,New
+                                          York, New York
+
+=== PAGE 45 ===
+                                                          Form 10-Kfor Enron for the Fiscal Year 2000
+
+
+
+
+              (Title 17, Code of Federal Regulations, Section 240.10b-5;Title 15, United States
+
+Code, Sections 78j(b) and 78ff; Title 1 8, United States Code, Sections 2 and 355 1 et seq.)
+
+                         C OUNTSEIGHTEENTHROUGHTWENTY-THREE
+                          (Securities Fraud: Presentations to Securities Analysts)
+
+              73   .T h e allegations of paragraphs 1 through 63 are realleged as if fully set
+forth here.
+
+              74.          On or about t h e dates set forth below, each such date constituting a
+separate count of this Superseding Indictment, within the Southern District of Texas and
+
+
+
+
+                                                     45
+
+=== PAGE 46 ===
+elsewhere, defendants JEFFREYK. SKILLING and RICHARD A. CAUSEY, and others, in
+
+presentations to securities analysts, did willfully and unlawfullyuse and employ manipulative
+
+and deceptive devices and contrivances and directly and indirectly (i) employ devices, schemes
+
+and artifices to defraud; (ii) make untrue statements of material facts and omit to state facts
+
+necessary in order to make the statements made, in light of the circumstances under which they
+
+were made, not misleading; and (iii) engage in acts, practices, and courses of conduct which
+
+would and did operate as a fraud and deceit upon members o f the investing public, in connection
+
+with purchases and sales o f Enron stock and by the use of the instruments of communication in
+
+interstate commerce and the mails.
+
+
+
+
+           RICHARD A. CAUSEY
+
+
+
+
+           RICHARD A CAUSEY
+
+
+
+
+           JEFFREY K.. SKILLING
+                                                                 Discuss Enron Stock Price
+           RICHARD A. CAUSEY
+
+
+                                                                 Conference Call
+           RICHARD A, CAUSEY
+
+
+
+                                                 46
+
+=== PAGE 47 ===
+23   JEFFREY K. SKILLING   July 12,2001   Second Quarter 2001 Analyst
+                                          Conference Call
+     RICHARD A. CAUSEY
+
+=== PAGE 48 ===
+                                             in Connection with Enron
+     RICHARD A. CAUSEY                       Form 10-Kfor Year 1999
+
+25   JEFFREY K.SKILLING   February 23,2001   Annual Representation Letter
+                                             in Connection with Enron
+     RICHARD A. CAUSEY                       Form 10-K�or Year 2000
+
+=== PAGE 49 ===
+       (False Statements to Auditors in Connection With Quarterly Representation Letters)
+
+              78.      The allegations in paragraph I through 63 are realleged as if fully set
+
+forth here.
+
+              79.      On or about the dates set forth below, each such date constituting a
+
+separate count of this Superseding Indictment, within the Southern District of Texas and
+
+elsewhere, defendants JEFFREY K. SKILLING and RICHARD A. CAUSEY, and others,
+
+knowingly and willfully made and caused to be made materially false and misleading statements,
+
+and omitted to state material facts necessary in order to make statements made, in light of the
+
+circumstances under which the statements were made, not misleading, to accountants of Enron,
+
+an issuer of a class of securities registered pursuant to Section 12 of the Securities Exchange Act
+
+o f 2934, in connection with the review of the financial statements of Enron as requited by law to
+
+be made, and the preparation and filing of documents and reports required to be filed with the
+
+SEC pursuant to rules and regulations enacted by the SEC.
+
+              so.      Specifically, while agreeing that they were responsible for the fair
+
+presentation of the financial statements,”SKILLING and CAUSEY falsely represented to
+
+Enron’s accountants that, among other things,(a) the financial statements were presented in
+
+accordance With generally accepted accounting principles; (b) Enron properly recorded or
+
+disclosed in its financial statements guarantees, whether written or oral, under which Enron was
+
+contingently liable; (E) there was no fraud involving management or employees who had a
+
+significant role in internal control, or fraud involving others that could have a material effect on
+
+the financial statements; (d) all related party transactions, including sales and guarantees (both
+
+
+
+                                                 49
+
+=== PAGE 50 ===
+                                             Letter in Connection with
+     RICHARD A CAUSEY                        Enron Form 10-Qfor First
+                                             Quarter 2000
+
+
+27   JEFFREY K. SKILLING   August 1 1,2000   Quarterly Representation
+                                             Letter in Connection with
+     RICHARD A. CAUSEY                       Enron Form 10-Q for Second
+                                             Quarter 2000
+
+
+28   JEFFREY K. SKILLING   November 13,2000 Quarterly Representation
+                                            Letter in Connection with
+     RICHARD A. CAUSEY                      Enron Form 10-Qfor Third
+                                            Quarter 2000
+
+29   JEFFREY K.SKILLING    May 15, 2001      Quarterly Representation
+                                             Letter in Connection with
+     RICHARD A. CAUSEY                       Enron Form 10-Q for First
+                                             Quarter 2001
+
+
+30   RICHARD A. CAUSEY     August 14,2001    QuarterlyRepresentation
+                                             Letter in Connection with
+                                             Enron Form 10-Qfor Second
+                                             Quarter 2001
+
+=== PAGE 51 ===
+                         COUNTSTHIRTY-ONETHROUGHFORTY
+                           (insider Trading: JEFFREY K. SKILLING)
+
+              81.      The allegations in paragraphs 1 through 63 are realleged as if fully set
+
+forth here.
+
+              82.      On or about the dates set forth below, each such date constituting a
+separate count of this Superseding Indictment, within the Southern District of Texas and
+
+elsewhere, defendant JEFFREY K.SKILLING knowingly and willfully used and employed
+
+manipulative and deceptive devices and contrivances, by use of means and instrumentalities of
+
+interstate commerce, in violation ofRule 10b-5 ofthe Rules and Regulations of the United States
+
+Securities and Exchange Commission (Title 17, Code of Federal Regulations, Section 240.1Ob-
+
+5), in that he engaged in acts, practices, and courses of business which would and did operate as a
+
+fraud and deceit upon members of the investing public in connection with the purchase or sale of
+
+securities, in Violation of Title 15, United States Code, Sections 78j(b) and 78ff. Specifically,
+
+while in possession of material non-public information that Enron and its executives and senior
+
+managers, including SKILLING had supplied and were continuing to supply materially false and
+
+misIeading information to the investing public, including but not limited to Enron'spublicly
+
+reported financial results and public statements of Enron's executives and senior managers,
+
+SKILLING soId shares ofEnron stock and generated total proceeds of $62,626,401.90.
+
+
+
+
+                                                51
+
+=== PAGE 52 ===
+32   April 26,2000       86,217       $74.00     $6,338,183.00
+                                      $73.875
+                                      $72.50
+
+33   August 30,2000      15,000       $86.125    $1,291,875.00
+
+
+34   September 1,2000    60,000       $87.00     $5,220,000.00
+                                      $86.875
+                                      $87.25
+
+
+35   September 5,2000    11,441       $85.00     $972,485.00
+
+
+36   November 1,2000     72,600       $83.2408   $6,041,023.50
+                                      $83.0625
+
+
+37   November 2,2000     20,000       $82,3381   $1,646,762.00
+
+
+38   November 7,2000     46,068       $82.5872   $3,804,627.13
+
+39   November 15,2000    10,000       $34.00to   $20,985,247.42
+                         perweek      $49.90
+                         for 31
+                         weeks per
+                         written
+                         sales plan
+
+40   September 17,2001   500,000      $31.5061$15,587,305.10
+                                      $3 1.0822
+
+=== PAGE 53 ===
+                          COUNTSFORTY-ONEFORTY-TWO
+                           (Insider Trading: RICHARD A. CAUSEY)
+
+              83.      The allegations in paragraphs 1 through 63 are realleged as if fully set
+
+forth here.
+
+              84.      On or about the dates set forth below, each such date constituting a
+
+separate count of this Superseding Indictment, within the Southern District of Texas and
+
+elsewhere, defendant RICHARD A. CAUSEY knowingly and wilIfully used and employed
+
+manipulative and deceptive devices and contrivances, by use of means and instrumentalities of
+
+interstate commerce, in violation ofRule lob-5 of the Rules and Regulations of the United States
+
+Securities and Exchange Commission (Title 17, Code of Federal Regulations, Section 240.1Ob-
+
+5), in that he engaged in acts, practices, and courses ofbusiness which would and did operate as a
+
+fraud and deceit upon members of the investing public in connection with the purchase or sale of
+
+securities, in violation of Title 15, United States Code, Sections 78j(b) and 78ff. Specifically,
+
+while in possession of material non-public information that Enron and its executives and senior
+
+managers, including CAUSEY, had supplied and were continuing to supply materially false and
+
+misleading information to the investing public, including but not limited to Enron’spublicly
+
+=== PAGE 54 ===
+42   September 28,2000   80,753   $87.8829   $7,096,807.83
+
+=== PAGE 55 ===
+                  (A)      a sum of money equal to the amount of proceeds obtained as a
+                           result of the conspiracy, securities fraud and wire fraud
+                           offenses for which the defendants are jointly and severally
+                           liable;
+
+                  (B)      real property known as 1999 McKinney Ave., #1008, Dallas,
+                           Texas;
+
+                  (C)      real property known as 10North Briarwood Court, Houston,
+                           Texas;
+
+                  (D)      $50,000in cash in MML Investors Services, Inc., BMA
+                           account number 25 1.5 18;
+
+                  (E)      securities, listed in Attachment A, worth approximately
+                           $49,342,452.98, and $808,643.74 in cash, contained in Charles
+                           Schwab account number 8 1 10-6773;
+
+                  (F)      $132,544.65 contained in Mass Mutual Financial Group Policy
+                           account number 11502764;
+
+                  (G)      $91,800.51 in cash contained in Southwest Bank account
+                           number 3229351 in the name of Veld Interests, Inc.
+
+            87.   With respect to defendant RICHARD A+CAUSEY, the following
+
+property:
+
+                  (A)      a sum o f money equal. to the amount of proceeds obtained as a
+                           result of the conspiracy, securities fraud and wire fraud
+                           offenses, for which the defendants are jointly and severally
+                           liable;
+
+                  (B)      real property known as 39 North Regent Oak, The Woodlands,
+                           Texas;
+
+                  (C)      securities listed in Attachment B,worth approximately
+                           $2,589,020.98, contained inFirst Union account number 2005-
+                           0471;
+
+                  (D)      approximately $274,305.69in Manulife North America
+                           Annuity account number 2107843;
+
+
+
+                                        5s
+
+=== PAGE 56 ===
+                        (E)        approximately $2 19,434.87 in Manulife North America
+                                   Annuity account number 2106714;
+
+           88.          In the went that any property described above as being subject to
+
+forfeiture, as asresult of any act or omission by either defendant:
+
+           (a) cannot be located upon the exercise of due diligence;
+
+           (b) has been transferred or sold to or deposited with a third person;
+
+           (c)   has been placed beyond the jurisdiction of the Court;
+
+           (d) has been substantially diminished in value; or
+
+           (e) has been commingled with other property which cannot be divided without
+
+difficulty; it is the intent of the United States, pursuant to Title 18, United States Code, Section
+
+982(b)(1), to seek forfeiture of any other property of defendants JEFFREY K.SKILLING and
+
+
+
+
+                                                 56
+
+=== PAGE 57 ===
+RICHARD A, CAUSEY up to the value ofthe above described property in paragraphs 86 and
+87.
+
+Dated:    Houston, Texas
+          February18,2004
+                                                   A TRUE BILL
+
+
+
+
+JOSHUA
+R.          HOCHBERG
+Acting United States Attorney
+
+LESLIE R. CALDWELL
+Director, Enron Task. Force
+
+
+By:
+          SAMUEL W. BUELL
+          SEAN M. BERKOWITZ
+          LINDA A. LACEWELL
+          KATHRYN
+          H.             RUEMMLER
+          Special Attorneys, Enron Task Force
+          LAUREL LOOMIS
+          PATRICK MURPHY
+          Trial Attorneys, Enron Task Force
+
+
+
+
+                                              57

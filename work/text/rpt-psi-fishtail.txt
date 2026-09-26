@@ -1,0 +1,2286 @@
+
+=== PAGE 1 ===
+                                                                                                                             1
+
+
+
+
+                            107th Congress                                                                           S. PRT.
+                                                   "               COMMITTEE PRINT                          !
+                              2d Session                                                                             107–82
+
+
+
+
+                                   FISHTAIL, BACCHUS, SUNDANCE, AND
+                                  SLAPSHOT: FOUR ENRON TRANSACTIONS
+                                      FUNDED AND FACILITATED BY
+                                      U.S. FINANCIAL INSTITUTIONS
+
+
+
+
+                                                                   R E P O R T
+                                                                   PREPARED BY THE
+
+
+                                           PERMANENT SUBCOMMITTEE ON
+                                                 INVESTIGATIONS
+                                                                           OF THE
+
+
+                                COMMITTEE ON GOVERNMENTAL AFFAIRS
+                                       UNITED STATES SENATE
+
+
+
+
+                                                                     JANUARY 2, 2003
+
+
+
+
+                                                         U.S. GOVERNMENT PRINTING OFFICE
+                              83–559 PDF                            WASHINGTON : 2003
+
+
+
+                                          For sale by the Superintendent of Documents, U.S. Government Printing Office
+                                       Internet: bookstore.gpo.gov Phone: toll free (866) 512–1800; DC area (202) 512–1800
+                                               Fax: (202) 512–2250 Mail: Stop SSOP, Washington, DC 20402–0001
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000    Frm 00001    Fmt 5012    Sfmt 5012   83559.TXT     SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 2 ===
+                                                COMMITTEE ON GOVERNMENTAL AFFAIRS
+                                            JOSEPH I. LIEBERMAN, Connecticut, Chairman
+                          CARL LEVIN, Michigan                      FRED THOMPSON, Tennessee
+                          DANIEL K. AKAKA, Hawaii                   TED STEVENS, Alaska
+                          RICHARD J. DURBIN, Illinois               SUSAN M. COLLINS, Maine
+                          ROBERT G. TORRICELLI, New Jersey          GEORGE V. VOINOVICH, Ohio
+                          MAX CLELAND, Georgia                      THAD COCHRAN, Mississippi
+                          THOMAS R. CARPER, Delaware                ROBERT F. BENNETT, Utah
+                          MARK DAYTON, Minnesota                    JIM BUNNING, Kentucky
+                                                                    PETER G. FITZGERALD, Illinois
+                                          JOYCE A. RECHTSCHAFFEN, Staff Director and Counsel
+                                              RICHARD A. HERTLING, Minority Staff Director
+                                                      DARLA D. CASSELL, Chief Clerk
+
+
+
+
+                                           PERMANENT SUBCOMMITTEE ON INVESTIGATIONS
+                                                   CARL LEVIN, Michigan, Chairman
+                          DANIEL K. AKAKA, Hawaii                   SUSAN M. COLLINS, Maine
+                          RICHARD J. DURBIN, Illinois               TED STEVENS, Alaska
+                          ROBERT G. TORRICELLI, New Jersey          GEORGE V. VOINOVICH, Ohio
+                          MAX CLELAND, Georgia                      THAD COCHRAN, Mississippi
+                          THOMAS R. CARPER, Delaware                ROBERT F. BENNETT, Utah
+                          MARK DAYTON, Minnesota                    JIM BUNNING, Kentucky
+                                                                    PETER G. FITZGERALD, Illinois
+                                            ELISE J. BEAN, Staff Director and Chief Counsel
+                                                  KIM CORTHELL, Minority Staff Director
+                                                     MARY D. ROBERTSON, Chief Clerk
+
+
+
+
+                                                                           (II)
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00002   Fmt 5904   Sfmt 5904   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 3 ===
+                                                                         CONTENTS
+
+                                                                                                                                                      Page
+
+                          SUMMARY OF TRANSACTIONS ......................................................................                                3
+                             Sham Asset Sale ...............................................................................................            3
+                             Sham Loan ........................................................................................................         3
+                          FISHTAIL ...............................................................................................................      5
+                             The Facts ...........................................................................................................      5
+                             Analysis .............................................................................................................     9
+                          BACCHUS ...............................................................................................................      10
+                             The Facts ...........................................................................................................     10
+                             Analysis .............................................................................................................    17
+                          SUNDANCE ............................................................................................................        18
+                             The Facts ...........................................................................................................     18
+                             Analysis .............................................................................................................    25
+                          SLAPSHOT .............................................................................................................       26
+                             The Facts ...........................................................................................................     26
+                             Analysis .............................................................................................................    33
+                          SUBCOMMITTEE HEARING .............................................................................                           34
+                          SUBCOMMITTEE RECOMMENDATIONS .....................................................                                           36
+
+
+
+
+                                                                                        (III)
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003     Jkt 000000      PO 00000       Frm 00003       Fmt 5904      Sfmt 5904      83559.TXT       SAFFAIRS      PsN: SAFFAIRS
+
+=== PAGE 4 ===
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00004   Fmt 5904   Sfmt 5904   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 5 ===
+                                 FISHTAIL, BACCHUS, SUNDANCE, AND
+                                SLAPSHOT: FOUR ENRON TRANSACTIONS
+                                    FUNDED AND FACILITATED BY
+                                    U.S. FINANCIAL INSTITUTIONS
+
+                             On January 2, 2002, Senator Carl Levin, Chairman of the U.S.
+                          Senate Permanent Subcommittee on Investigations of the Com-
+                          mittee on Governmental Affairs, and Senator Susan M. Collins, the
+                          Ranking Minority Member of the Subcommittee, announced that
+                          the Subcommittee would conduct an in-depth, bipartisan investiga-
+                          tion into the collapse of the Enron Corporation. This investigation
+                          was initiated in response to Enron’s declaration of bankruptcy on
+                          December 2, 2001, ending Enron’s status as a leading energy com-
+                          pany and the seventh largest corporation in the United States.
+                             In the year since Enron’s declaration of bankruptcy, Congres-
+                          sional hearings, including hearings held by this Subcommittee and
+                          the full Governmental Affairs Committee, have disclosed evidence
+                          of Enron’s participation in accounting deceptions, price manipula-
+                          tion, insider abuse, and unfair dealing with employees, investors,
+                          and creditors. Law enforcement agencies have indicted Enron’s
+                          former chief financial officer, Andrew Fastow, for fraud, money
+                          laundering, and other misconduct. Mr. Fastow’s former key assist-
+                          ant, Michael Kopper, has pleaded guilty to fraud and money laun-
+                          dering. Enron’s former top Western energy trader, Timothy Belden,
+                          has pleaded guilty to fraudulent conduct to manipulate prices in
+                          the California energy market. Additional criminal and civil inves-
+                          tigations by the U.S. Department of Justice, Securities and Ex-
+                          change Commission, Federal Energy Regulatory Commission, and
+                          other Federal, State, and local law enforcement agencies are ongo-
+                          ing.
+                             A key focus of the Subcommittee’s investigation has been to ex-
+                          amine the role of major U.S. financial institutions in Enron’s col-
+                          lapse.1 In July, the Subcommittee held two days of hearings exam-
+                          ining transactions involving Enron and three financial institutions,
+                          Citigroup, J.P. Morgan Chase & Co. (‘‘Chase’’), and Merrill Lynch.
+                          Each of the transactions examined in these hearings resulted in
+                          misleading information in Enron’s financial statements that made
+                          Enron appear to be in better financial condition than it was.2 The
+                          first hearing looked at more than $8 billion in deceptive trans-
+                          actions referred to as ‘‘prepays,’’ which Citigroup and Chase used
+                          to issue Enron huge loans disguised as energy trades. By charac-
+                            1 The Subcommittee has also examined the conduct of Enron’s Board of Directors. See ‘‘The
+                          Role of the Board of Directors in Enron’s Collapse,’’ S. Prt. 107–70 (July 8, 2002).
+                            2 See Subcommittee hearings, ‘‘The Role of the Financial Institutions in Enron’s Collapse’’
+                          (July 23 and 30, 2002) (hereinafter ‘‘July 23 hearing’’ and ‘‘July 30 hearing’’).
+                                                                           (1)
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00005   Fmt 6633   Sfmt 6633   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 6 ===
+                                                                               2
+
+                          terizing the transactions as energy trades rather than loans,
+                          Citgroup and Chase enabled Enron to claim the loan proceeds were
+                          cash flow from business operations rather than cash flow from fi-
+                          nancing, thereby misleading investors and analysts about the size
+                          of Enron’s trading operations and the nature of its incoming cash
+                          flow. The second hearing examined a sham asset sale from Enron
+                          to Merrill Lynch just before the end of the year 2000, which al-
+                          lowed Enron to claim the alleged ‘‘sale’’ revenue on its 2000 finan-
+                          cial statements, boosting its year-end earnings. The hearing
+                          showed that this transaction did not qualify as a true sale under
+                          accounting rules, because Enron had eliminated all risk from the
+                          deal by secretly promising Merrill Lynch to arrange a resale of the
+                          assets within six months and guaranteeing a 15 percent return on
+                          the deal.
+                             On December 11, 2002, the Subcommittee held a third hearing
+                          examining four multi-million dollar structured finance transactions
+                          known as Fishtail, Bacchus, Sundance, and Slapshot, involving
+                          Enron, Citigroup, and Chase. These transactions, which took place
+                          over a six-month period beginning in December 2000 and ending in
+                          June 2001, are the focus of this report. All four transactions related
+                          to Enron’s new business venture in pulp and paper trading. All
+                          four were financed primarily by the Salomon Smith Barney unit of
+                          Citigroup or by Chase. The evidence associated with the four trans-
+                          actions demonstrates that Citigroup and Chase actively aided
+                          Enron in executing them, despite knowing the transactions utilized
+                          deceptive accounting or tax strategies, in return for substantial fees
+                          or favorable consideration in other business dealings. The evidence
+                          also indicates that Enron would not have been able to complete any
+                          of these transactions without the direct support and participation
+                          of a major financial institution.
+                             The cumulative evidence from the three Subcommittee hearings
+                          demonstrates that some U.S. financial institutions have been de-
+                          signing, participating in, and profiting from complex financial
+                          transactions explicitly intended to help U.S. public companies en-
+                          gage in deceptive accounting or tax strategies. This evidence also
+                          shows that some U.S. financial institutions and public companies
+                          have been misusing structured finance vehicles, originally designed
+                          to lower financing costs and spread investment risk, to carry out
+                          sham transactions that have no legitimate business purpose and
+                          mislead investors, analysts, and regulators about companies’ activi-
+                          ties, tax obligations, and true financial condition.
+                             The information and analysis provided in this report are based
+                          upon a bipartisan investigation conducted jointly by the Sub-
+                          committee’s Democratic and Republican staffs. Overall, the Sub-
+                          committee has issued more than 75 subpoenas and document re-
+                          quests to Enron, Arthur Andersen, and a host of other individuals,
+                          accounting firms, and financial institutions, resulting in over two
+                          million pages of documents. The Subcommittee has also conducted
+                          over 100 interviews.
+                             To understand the four transactions examined in this report, the
+                          Subcommittee staff reviewed hundreds of thousands of pages of
+                          documents produced by Enron, Andersen, Citigroup, Chase, and
+                          other parties; interviewed key personnel involved in the trans-
+                          actions; consulted key Federal agencies including the Securities
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00006       Fmt 6633   Sfmt 6633   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 7 ===
+                                                                               3
+
+                          and Exchange Commission, Federal Reserve System, Office of the
+                          Comptroller of the Currency, the Internal Revenue Service, and the
+                          Government of Canada; and consulted with a number of finance,
+                          accounting, and tax experts. This report presents the Subcommit-
+                          tee’s findings with respect to those four transactions, as well as bi-
+                          partisan recommendations for actions that can be taken to stop
+                          U.S. financial institutions from continuing to design or participate
+                          in illegitimate structured financial transactions that help U.S. com-
+                          panies engage in misleading accounting.
+                          SUMMARY OF TRANSACTIONS
+                             All four of the transactions at issue in this report involve Enron’s
+                          fledgling electronic trading business in the pulp and paper indus-
+                          try, a new business venture which Enron was developing with the
+                          support of Citigroup, Chase, and others. The assets involved in the
+                          transactions include Enron’s trading book of derivatives and for-
+                          ward contracts to deliver pulp and paper products, electronic trad-
+                          ing software, online trading operations dedicated to pulp and paper
+                          trading activity, and certain paper mills and timberlands in the
+                          United States and Canada. All four transactions reflect efforts by
+                          Enron to keep debt off its balance sheet or to manufacture imme-
+                          diate returns on its pulp and paper trading business and use these
+                          returns to report better financial results than the company actually
+                          produced in 2000 and 2001.
+                             The four transactions can be summarized as follows.
+                             Sham Asset Sale. The first three transactions, Fishtail, Bac-
+                          chus, and Sundance, took place within an approximate six-month
+                          period from December 2000 to June 2001. All three involved the
+                          transfer of assets at inflated values from Enron to special purpose
+                          entities (SPEs) or joint ventures that Enron orchestrated and,
+                          among other problems, established with sham outside investments
+                          that did not have the required independence or did not truly place
+                          funds at risk. Moreover, when considered as a whole, the three
+                          transactions resulted in a disguised, six-month loan advanced by
+                          Citigroup to facilitate Enron’s deceptive accounting. In effect,
+                          Enron transferred its assets to a sham joint venture, Fishtail; ar-
+                          ranged, in the Bacchus transaction, for a shell company to borrow
+                          $200 million from Citigroup to ‘‘purchase’’ Enron’s Fishtail interest,
+                          without disclosing that Enron was guaranteeing the full purchase
+                          price; used the sham sale revenue to inflate its year-end 2000 earn-
+                          ings by $112 million; and then quietly returned the $200 million
+                          to Citigroup six months later via another sham joint venture,
+                          Sundance. The result was that the three transactions enabled
+                          Enron to produce misleading financial statements that made
+                          Enron’s financial condition appear better than it was. Senior
+                          Citigroup officials strongly objected to Citigroup’s participation in
+                          one of the transactions, warning: ‘‘The GAAP accounting is aggres-
+                          sive and a franchise risk to us if there is publicity.’’ Citigroup nev-
+                          ertheless proceeded and played a key role in advancing this trans-
+                          action, which could not have been completed without the funding
+                          and active support of a large financial institution.
+                             Sham Loan. The final transaction, Slapshot, took place on June
+                          22, 2001. It involves a sham $1 billion loan and related funding
+                          transfers and transactions that Chase designed and presented to
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00007       Fmt 6633   Sfmt 6633   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 8 ===
+                                                                               4
+
+                          Enron to produce up to $60 million in Canadian tax benefits and
+                          up to $65 million in financial statement benefits for Enron.
+                             In essence, the Slapshot transaction cloaked a legitimate $375
+                          million loan to Enron issued by a consortium of banks inside a $1.4
+                          billion sham loan to Enron issued by a Chase-controlled SPE.
+                          Chase provided the extra money for the sham loan by approving a
+                          $1 billion ‘‘daylight overdraft’’ on a Chase bank account. To elimi-
+                          nate any risk associated with providing the overdraft funds to
+                          Enron, Chase required Enron to deposit a separate $1 billion in an
+                          escrow account at Chase prior to Chase’s issuing the sham loan to
+                          Enron. Enron obtained the required escrow funds by drawing on its
+                          main corporate bank account at Citigroup which issued Enron a
+                          separate $1 billion daylight overdraft. Chase and Enron then cir-
+                          culated Chase’s $1.4 billion in ‘‘loan’’ proceeds and Enron’s $1 bil-
+                          lion in escrow funds through a maze of U.S. and Canadian bank
+                          accounts held by Enron and Chase affiliates, ending the trans-
+                          action when both Chase and Enron recovered their respective $1
+                          billion overdrafts by the end of the day.
+                             The end result of the Slapshot transaction was that Enron kept
+                          the $375 million provided by the bank consortium, and Enron di-
+                          rected its Canadian affiliate to repay the $375 million loan. But
+                          with Chase’s assistance, Enron also used the Slapshot transaction
+                          records to pretend that its affiliate had actually received the larger
+                          $1.4 billion ‘‘loan’’ and to treat its $22 million loan repayments—
+                          each of which was actually a payment of principal and interest on
+                          the $375 million loan—as pure interest payments on the $1.4 bil-
+                          lion ‘‘loan.’’ Canadian tax law, like U.S. tax law, allows companies
+                          to deduct from their taxable income all interest payments on a
+                          loan, but no payments of loan principal. By characterizing each $22
+                          million loan payment as an interest payment on the $1.4 billion
+                          loan, Enron claimed to be entitled to deduct the entire $22 million
+                          from its Canadian taxes, as well as obtain related financial state-
+                          ment benefits. Five months later, however, Enron declared bank-
+                          ruptcy before all the projected benefits from Slapshot were real-
+                          ized.3
+                             Chase was paid fees and other remuneration totaling $5.6 mil-
+                          lion for allowing Enron to use its ‘‘proprietary’’ Slapshot structure
+                          and for designing, coordinating, and completing the complex trans-
+                          actions involved. A written tax opinion provided to Enron by a Ca-
+                          nadian law firm stated that the transaction ‘‘clearly involves a de-
+                          gree of risk,’’ and advocated proceeding only after providing this
+                          warning: ‘‘We would further caution that in our opinion, it is very
+                          likely that Revenue Canada will become aware of the proposed
+                          transactions . . . [and] will challenge them.’’ Chase sold similar tax
+                          structures to other U.S. companies as well.
+                            3 In response to Subcommittee inquiries, on the day before the Subcommittee hearing, Enron’s
+                          legal counsel provided a letter forwarding information prepared by Enron on the current status
+                          of the Slapshot-related loans, assets and entities. Letter from Skadden, Arps, Slate, Meagher
+                          & Flom LLP, on behalf of Enron, to the Subcommittee (12/10/02), included in the hearing record
+                          for December 11, 2002, as Hearing Exhibit 368. (All exhibits from this hearing are hereinafter
+                          referred to as ‘‘Hearing Exhibit.’’) Enron stated that it had taken ‘‘[n]o United States federal
+                          income tax deductions . . . with respect to the Slapshot transaction,’’ and ‘‘there were no tax-
+                          related benefits reported in’’ Enron’s SEC filings. Enron also stated that its Canadian affiliates
+                          had actually claimed ‘‘gross interest [tax] deductions’’ in Canada totaling $124.9 million, but did
+                          not anticipate claiming any future tax benefits related to the Slapshot transaction.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00008       Fmt 6633   Sfmt 6633   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 9 ===
+                                                                               5
+
+                             Each of the four transactions examined in this report involved
+                          deceptive financial structures utilizing multiple SPEs or joint ven-
+                          tures, asset or stock transfers, and exotic forms of financing. All re-
+                          lied on a major financial institution to provide funding, complex
+                          funds transfers, and intricate structured finance deals. In the end,
+                          all four transactions appear to have had no business purpose other
+                          than to enable Enron to engage in deceptive accounting and tax
+                          strategies to inflate its financial results or deceptively reduce its
+                          tax obligations.
+                          FISHTAIL
+                            The Facts. The first transaction in the four-part series, Fish-
+                          tail, 4 took place in December 2000. This transaction was the first
+                          step in a larger plan by Enron to move its pulp and paper trading
+                          business off its balance sheet into a separate joint venture, sell its
+                          ownership interests in that venture, and then declare the income
+                          from the sale on its 2000 financial statements. The first step, Fish-
+                          tail, called for Enron to contribute its existing pulp and paper trad-
+                          ing business—that is, its electronic trading software, pulp and
+                          paper online trading operation and personnel, and existing pulp
+                          and paper trading book—to a joint venture with another investor
+                          in order to convert the business into an equity investment and es-
+                          tablish its value.
+                            Enron, LJM2 Co-Investment, LP (‘‘LJM2’’), 5 and Chase partici-
+                          pated in the Fishtail joint venture which was established on De-
+                          cember 19, 2000. To participate in Fishtail, LJM2 (acting through
+                          an affiliate LJM2-Ampato LLC) formed a new SPE called Anna-
+                          purna LLC. Enron (acting through Enron North America) and
+                          Annapurna each held 50 percent of Fishtail’s voting shares.6 Figure
+                          1 illustrates the final structure of the Fishtail joint venture.
+
+
+
+
+                             4 This report refers to transactions by the project names that Enron chose. In some instances,
+                          the participating financial institutions used different nomenclature. Fishtail, for example, was
+                          known internally at Chase as project ‘‘Grinch.’’
+                             5 LJM2 is a Delaware limited partnership which was formed and managed by Enron’s chief
+                          financial officer, Andrew Fastow, and which functioned as a private equity fund that dealt al-
+                          most exclusively with Enron. For more information on LJM2, its dealings with Enron, and the
+                          conflicts of interest inherent in its relationship with Enron, see the Subcommittee’s report, ‘‘The
+                          Role of the Board of Directors in Enron’s Collapse,’’ S. Prt. 107–70 (July 8, 2002), at 23–35.
+                             6 See ‘‘Fishtail LLC Formation/Securitization,’’ Andersen memorandum by Thomas Bauer and
+                          Kate Agnew (12/29/00), Bates AASCGA 008673.1–4, Hearing Exhibit 324. Under generally ac-
+                          cepted accounting principles (GAAP), companies typically do not consolidate entities in which
+                          they own 50 percent or less of the total outstanding voting shares. Accounting Principles Board
+                          Opinion No. 18, ‘‘The Equity Method of Accounting for Investments in Common Stock’’ (1971).
+                          Because the two parties in Fishtail each owned 50 percent of the voting shares, the joint venture
+                          did not appear on either Enron or Annapurna’s financial statements.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00009       Fmt 6633   Sfmt 6633   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 10 ===
+                                                                               6
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00010       Fmt 6633   Sfmt 6633   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 11 ===
+                                                                               7
+
+                             Arthur Andersen was Enron’s auditor and evaluated the Fishtail
+                          transaction to determine whether it complied with GAAP account-
+                          ing rules. The key Andersen guidelines for capitalizing joint ven-
+                          tures stated that, in a 50–50 joint venture involving two parties,
+                          the ratio of investment by the two parties may not exceed a ratio
+                          of four to one.7 In other words, under the Andersen 4:1 rule, a 50–
+                          50 joint venture may remain unconsolidated only if the minority
+                          party to the joint venture contributes a minimum of 20 percent of
+                          the total capitalization. In addition, the Andersen guidelines re-
+                          quire that the contribution provided by the second investor must
+                          include capital-at-risk equal to at least 3 percent of the total cap-
+                          italization. This 3 percent ‘‘equity investment’’ must be funded at
+                          the time the joint venture is formed and remain at risk throughout
+                          the venture.8
+                             Enron’s capital contribution to Fishtail was its pulp and paper
+                          trading business. In order to place a dollar value on this contribu-
+                          tion, Chase and Enron relied on a November 2000 valuation anal-
+                          ysis provided by Chase Securities, Inc. in connection with an ear-
+                          lier effort by Enron and a third party to form a joint venture that
+                          was not completed. The Chase Securities analysis had concluded
+                          that the pulp and paper trading business was worth $200 million.9
+                          Chase Securities issued this valuation, even though the key asset
+                          at the time, Enron’s pulp and paper trading book, was being car-
+                          ried on Enron’s books at less than half that amount, approximately
+                          $85 million.10 According to Enron and Chase officials interviewed
+                          by the Subcommittee, the remaining $115 million in value came
+                          from intangible or ‘‘soft’’ assets associated with the pulp and paper
+                          trading business.11 Enron’s own internal accounting guidance, how-
+                          ever, suggests that the most appropriate valuation for such intan-
+                             7 See Andersen email, plus attachments, from Kate Agnew to Andersen employees John Stew-
+                          art and others (8/21/00), Bates AASCGA 007193.1–007195.11, Hearing Exhibit 336. Since au-
+                          thoritative accounting literature on establishing, capitalizing and consolidating joint ventures
+                          and distinguishing them from special purpose entities is limited, Andersen developed internal
+                          policies and guidelines on how to structure joint ventures to ensure their GAAP compliance and
+                          prevent abuses such as deconsolidating a joint venture that was really funded and controlled
+                          by a single party. The 4:1 rule, which was unique to Andersen, was one of its key requirements
+                          for capitalizing 50–50 joint ventures. The traditional approach to capitalizing 50–50 joint ven-
+                          tures is to require each investor to provide 50 percent of the total capitalization.
+                             8 See ‘‘Fishtail LLC Formation/Securitization,’’ Andersen memorandum by Thomas Bauer and
+                          Kate Agnew (12/29/00), Bates AASCGA 008673.1–4, Hearing Exhibit 324. When analyzing the
+                          minimum substantive investment required for an unconsolidated joint venture like Fishtail, An-
+                          dersen analogized to the minimum 3 percent equity at risk requirement already in place for
+                          SPEs. (‘‘Specific authoritative guidance surrounding the necessary amount of capital-at-risk to
+                          be considered a substantive investment is available only in literature surrounding SPE’s. Al-
+                          though [Fishtail] appears to be a business/strategic joint venture, and is not by definition an
+                          SPE, we believe the SPE guidance (EITF 90–15) establishes a good reference point as a min-
+                          imum standard for our consideration.’’)
+                             9 See ‘‘Enron Network Partners: Valuation Analysis of Contributed Assets,’’ by Chase Securi-
+                          ties, Inc. (11/20/00), Bates CITI–SPSI 0015996–0016017.
+                             10 See ‘‘Fishtail LLC,’’ an Enron document summarizing the Fishtail transaction (undated),
+                          Bates ECa000015282.
+                             11 Subcommittee interview with Michael K. Patrick of Enron (11/14/02) (hereinafter ‘‘Patrick
+                          interview’’) and Robert Traband of Chase (11/19/02) (hereinafter ‘‘Traband interview’’). See also
+                          ‘‘Enron Network Partners: Valuation Analysis of Contributed Assets,’’ by Chase Securities, Inc.,
+                          Bates CITI–SPSI 0016012. In the section entitled, ‘‘Soft Assets,’’ the Chase Securities analysis
+                          states: ‘‘In addition to ‘hard dollar’ assets, Enron will contribute credit support, management tal-
+                          ent, a technology platform, internet experience (EOL), risk management, and other assets to the
+                          partnership. . . . Enron believes these assets add significant value to the partnership.’’ EOL re-
+                          fers to Enron Online, the electronic trading system Enron used to trade energy-related contracts
+                          and derivatives. The Chase Securities analysis of Enron’s pulp and paper trading system appar-
+                          ently agreed with Enron’s valuation of its associated ‘‘soft assets’’ as worth another $115 million.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00011       Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 12 ===
+                                                                               8
+
+                          gible or soft assets may be ‘‘zero.’’ 12 To justify the significant value
+                          assigned to Enron’s soft assets in Fishtail, Enron and Chase con-
+                          tend that the $115 million figure is the product of an unbiased
+                          third-party analysis, but this valuation is, in fact, the product of a
+                          Chase affiliate supporting an Enron assessment of its own soft as-
+                          sets.13
+                             In light of Enron’s alleged $200 million contribution, Annapurna
+                          was required to contribute at least $50 million to Fishtail to meet
+                          the Andersen 4:1 guideline for capitalizing joint ventures. In addi-
+                          tion, Annapurna had to contribute at least 3 percent of the total
+                          capitalization at the time the joint venture was formed and ensure
+                          it remained at risk.14 To provide the required contribution to Fish-
+                          tail, Annapurna turned to LJM2 and Chase. For its part, LJM2
+                          transferred $8 million in cash to Annapurna which, in turn, passed
+                          the funds to Fishtail. Chase provided Annapurna with a $42 mil-
+                          lion ‘‘commitment,’’ set out in a letter of credit, to fund Annapurna
+                          if called upon to do so. Annapurna then passed on this funding
+                          commitment to Fishtail. The parties referred to Chase’s commit-
+                          ment as an ‘‘unfunded capital’’ investment.15 One Enron employee
+                          referred to this novel approach of capitalizing a joint venture with
+                          an ‘‘unfunded capital’’ commitment as a ‘‘new accounting tech-
+                          nology’’ developed by Enron.16
+                             According to the same Enron employee, the Fishtail transaction
+                          was ‘‘primarily accounting driven and the structure was heavily ne-
+                             12 See ‘‘Accounting for Investments in Limited Partnerships and other Joint Ownership Enti-
+                          ties,’’ Enron accounting policy and guidance (6/26/01), Bates AAHEC(2) 03172.6, Hearing Exhibit
+                          335 (‘‘[I]n all cases the fair value of the contributions must be objectively determined and
+                          verifiable. Certain contributed intangibles may be difficult to objectively measure and therefore
+                          maybe [sic] deemed to be valued at zero for the purposes of the economic assessment. The in-
+                          tent is that the third party should not necessarily get ‘equity credit’ for ‘soft’ contribu-
+                          tions.’’ (Emphasis in original.)). Evidence indicates that Enron had vetted the policy statements
+                          in this memorandum with Andersen, and they were consistent with Enron valuation principles
+                          in place at the time of the Fishtail transaction.
+                             13 When Enron ‘‘sold’’ its Fishtail ownership interests one week later in the Bacchus trans-
+                          action, Enron claimed a profit of $112 million on the ‘‘sale.’’ This outsized profit margin raises
+                          obvious questions about whether Enron engineered an inflated asset valuation and sales price
+                          to enable it to report a large sales gain on its 2000 financial statements. In addition, one year
+                          later, an internal, preliminary asset inventory compiled by Enron in anticipation of declaring
+                          bankruptcy estimated the total market value of its pulp and paper trading business as of Sep-
+                          tember 30, 2001, at $50 million. ‘‘Enron Corporate Development Asset Inventory’’ (11/25/01),
+                          Bates EC 001521856–57, Hearing Exhibit 313. This $50 million internal valuation is dramati-
+                          cally less than the $200 million valuation Enron claimed in the Fishtail transaction nine months
+                          earlier, and the $228.5 million valuation claimed in the Sundance transaction just four months
+                          earlier. See ‘‘Sundance Structure,’’ Citigroup document (undated), Bates CITI–SPSI 0044992,
+                          Hearing Exhibit 331.
+                             14 See ‘‘Fishtail LLC Formation/Securitization,’’ Andersen memorandum by Thomas Bauer and
+                          Kate Agnew (12/29/00), Bates AASCGA 008673.1–4, Hearing Exhibit 324. In addition to the
+                          joint venture capitalization rules, under applicable accounting rules for SPEs, Annapurna quali-
+                          fied as an independent entity, unconsolidated with any party, only if, among other requirements,
+                          at least 3 percent of its capital came from an independent equity investor and remained genu-
+                          inely at risk. See In Re The PNC Financial Services Group, Inc., SEC Administrative Pro-
+                          ceedings File No. 3–10838 (Order Making Findings and Imposing Cease and Desist Order, 7/
+                          18/02); EITF Abstracts, Topic D–14, ‘‘Transactions Involving Special Purpose Entities’’; EITF
+                          Issue No. 90–15, ‘‘Impact of Nonsubstantive Lessors, Residual Value Guarantees, and Other
+                          Provisions in Leasing Transactions,’’ Response to Question No. 3.
+                             15 Email by Enron employee Michael Patrick to Wes Colwell, (1/4/01), Enron disk produced
+                          to the Subcommittee.
+                             16 Id. Several finance and accounting experts told the Subcommittee staff they had never
+                          heard of an ‘‘unfunded capital’’ commitment being used to capitalize a joint venture and ex-
+                          pressed skepticism over whether it qualified under current accounting rules as a valid joint ven-
+                          ture contribution. One expert also said that the arrangement cast doubt on the arms-length na-
+                          ture of the transaction, since it permitted one of the two parties to the joint venture to defer
+                          any actual investment in the venture until a later time.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00012       Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 13 ===
+                                                                               9
+
+                          gotiated with Arthur Andersen.’’ 17 Andersen apparently approved
+                          ‘‘the unfunded nature of the commitment’’ made by Chase only
+                          after a clause was added to the joint venture agreement giving
+                          Fishtail unilateral power to draw down the Annapurna-Chase com-
+                          mitment in certain circumstances.18 Another aspect of the agree-
+                          ment, however, specified that the first $200 million dollars of any
+                          loss experienced by Fishtail would be allocated to Enron, thereby
+                          making it highly unlikely that the Chase commitment would ever
+                          actually be drawn.19 Andersen nevertheless approved the trans-
+                          action.
+                             Chase was paid $500,000 in fees for participating in the Fishtail
+                          transaction.20 Its $42 million unfunded commitment to the joint
+                          venture was never used, and Chase never actually contributed any
+                          funds to Fishtail. LJM2 was paid an up-front fee of $350,000 for
+                          participating in Fishtail. Approximately six months later, LJM2
+                          was paid $8.5 million to ‘‘sell’’ its Annapurna ownership interest to
+                          Sundance. This payment meant that LJM2 not only recouped its
+                          initial capital investment of $8 million, but also, when combined
+                          with its earlier $350,000 fee, earned an overall 15 percent return
+                          on its Fishtail investment.21
+                             Analysis. The Fishtail transaction was, at its core, a sham joint
+                          venture which pretended to have more than one investor, but, in
+                          fact, relied solely on Enron. The primary goal of the transaction
+                          was to create an appearance of Enron’s moving its pulp and paper
+                          trading business from an in-house operation to a separate joint
+                          venture so that Enron could eliminate the assets from its balance
+                          sheet. A secondary goal was to fix a market value to the trans-
+                          ferred assets in preparation for their ‘‘sale’’ a week later.
+                             The evidence shows that Fishtail did not qualify for off-balance
+                          sheet treatment and should have been consolidated with Enron.
+                          Enron’s counter party in the joint venture, Annapurna, functioned
+                          as a shell operation designed to create the appearance but not the
+                          reality of a second investor. Annapurna had no employees, no bank
+                            17 Id. Mr. Patrick reaffirmed this information in his Subcommittee interview. The key Ander-
+                          sen employee involved in the Fishtail and Sundance transactions, Thomas Bauer, refused to be
+                          interviewed by the Subcommittee prior to the hearing to explain either his role or Andersen’s
+                          understanding of the two transactions. His legal counsel has since indicated, however, that Mr.
+                          Bauer has decided to cooperate and submit to a Subcommittee interview in the near future.
+                            18 ‘‘Amended and Restated Limited Liability Company Agreement of Fishtail LLC’’ (12/19/00),
+                          Clause 4.02, Bates SENATE ANNA 00081. See also ‘‘Fishtail LLC Formation/Securitization,’’
+                          Andersen memorandum by Tom Bauer and Kate Agnew (12/29/00), Bates AASCGA 008673.1,
+                          Hearing Exhibit 324 (‘‘Our preference would be to have the amount computed pursuant to the
+                          4 to 1 test to be fully funded upon formation but would not insist since the 4 to 1 test is not
+                          mandatory in the literature.’’). Mr. Patrick substantiated this account in his Subcommittee
+                          interview.
+                            19 ‘‘Amended and Restated Limited Liability Company Agreement of Fishtail LLC’’ (12/19/00),
+                          Clause 4.02, Bates SENATE ANNA 00081. See also ‘‘Project Grinch,’’ summary memorandum
+                          by Chase (12/16/00), Bates SENATE ANNA 00397–99, Hearing Exhibit 312 (The first paragraph
+                          of this memorandum states in bold type: ‘‘It is expected that the commitment will be un-
+                          funded.’’).
+                            20 See Chase Securities letter to Enron (12/20/00), Bates SENATE ANNA 00360–61, Hearing
+                          Exhibit 315. This information was also confirmed in the Traband interview and Subcommittee
+                          interview with Eric Peiffer (12/4/02) (hereinafter ‘‘Peiffer interview’’).
+                            21 LJM2 documents show that LJM2 had expected to receive a 15 percent return on its
+                          Annapurna investment and to be taken out of the Fishtail transaction within six months. See,
+                          for example, ‘‘LJM2 Investment Summary’’ (12/20/00), Bates LJM 029881–4, Hearing Exhibit
+                          306. While one Enron employee maintained in a Subcommittee interview that the 15 percent
+                          return was the maximum that LJM2 was entitled to receive on the joint venture, and not a
+                          guaranteed minimum return, the LJM2 documentation and similar minimum fee arrangements
+                          between Enron and LJM2 in other investments, suggest the final amount paid to LJM2 was
+                          more than coincidence. See, for example, 15 percent fee arrangement in the Nigerian barge
+                          transaction examined at the Subcommittee’s July 30 hearing; Patrick interview.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00013       Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 14 ===
+                                                                           10
+
+                          account, and no purpose or activities apart from its passive invest-
+                          ment in Fishtail.
+                             Annapurna was allegedly capitalized by LJM2 and Chase. But
+                          LJM2’s related party status, due to its close Enron ties and the
+                          ownership and control exercised by Enron’s chief financial officer,
+                          Andrew Fastow, 22 disqualified LJM2 from providing the ‘‘inde-
+                          pendent’’ equity investment necessary to an unconsolidated SPE or
+                          joint venture.23 In addition, Mr. Fastow’s pending criminal indict-
+                          ment alleges that Enron, on more than one occasion, used LJM2
+                          ‘‘to manufacture earnings through sham transactions’’ and that
+                          Enron had an ‘‘undisclosed agreement’’ with Mr. Fastow to ensure
+                          that LJM2 did ‘‘not lose money in its dealings with Enron.’’ 24 This
+                          undisclosed agreement, if it existed, meant that LJM2’s investment
+                          in Annapurna was never truly at risk since, in essence, Enron had
+                          guaranteed it would not suffer any loss from an Enron venture.
+                          Chase’s $42 million commitment also failed to place any funds at
+                          risk, since it was never funded or drawn upon and functioned
+                          under arrangements which made its use highly unlikely. As one fi-
+                          nance expert put it, ‘‘Chase never really had any skin in the game.’’
+                             If Chase’s unfunded commitment were disregarded, then
+                          Annapurna’s capitalization and contribution to Fishtail totals $8
+                          million in cash, well short of the Andersen 4:1 capitalization guide-
+                          lines for unconsolidated joint ventures. In addition, if the $8 mil-
+                          lion was neither independent nor at risk due to LJM2’s related
+                          party status and undisclosed agreement with Enron, Annapurna
+                          collapses as a SPE, and Fishtail fails to meet its requirement for
+                          a minimum 3 percent at-risk investment. In either situation, Fish-
+                          tail should have been consolidated with Enron.
+                             Additional issues are raised by the $200 million valuation placed
+                          on Enron’s pulp and paper trading business when it was contrib-
+                          uted to Fishtail. This $200 million figure was more than double the
+                          market value of the one ‘‘hard asset’’ carried on Enron’s own books,
+                          the remaining assets were ‘‘soft assets’’ that Enron itself was cau-
+                          tious about using to establish the value of a joint venture contribu-
+                          tion, and the only ‘‘independent’’ asset valuation was performed by
+                          a Chase affiliate.
+                             By participating in Fishtail, Chase helped Enron move its pulp
+                          and paper trading business off-balance sheet and establish a gen-
+                          erous market value for the transferred assets. Chase never actually
+                          invested any funds in Fishtail or took any active role in the busi-
+                          ness, yet was paid half a million dollars for pretending to provide
+                          the bulk of financing for this so-called joint venture.
+                          BACCHUS
+                            The Facts. The second transaction, Bacchus, took place one
+                          week after Fishtail, on or about December 26, 2000. Enron used
+                          the Bacchus transaction to declare that a $200 million asset ‘‘sale’’
+                          had taken place and record a $112 million ‘‘gain’’ on its 2000 finan-
+                          cial statements.
+                            22 See Subcommittee report, ‘‘The Role of the Board of Directors in Enron’s Collapse,’’ S. Prt.
+                          107–70 (July 8, 2002), at 23–35.
+                            23 See EITF Abstracts, Topic D–14, ‘‘Transactions Involving Special Purpose Entities.’’
+                            24 United States v. Fastow, (USDC SDTX, Cr. No. H–02–0665), Indictment (10/31/02) at para-
+                          graphs 19 and 22.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00014   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 15 ===
+                                                                           11
+
+                             Enron’s primary goal in Bacchus was to ‘‘monetize’’ its interest
+                          in its pulp and paper trading business so that it could record addi-
+                          tional income and cash flow from the ‘‘sale’’ of this business ven-
+                          ture on its financial statements.25 The Fishtail transaction took the
+                          first step by purporting to move Enron’s pulp and paper trading
+                          business to a separate joint venture off Enron’s books. Once Fish-
+                          tail was complete, Enron took the next step, in Bacchus, to ‘‘sell’’
+                          its Fishtail investment to an allegedly independent third party so
+                          that it could record the cash flow and income on its books.
+                             Enron reasoned that its ownership interests in Fishtail 26 quali-
+                          fied as a ‘‘financial asset’’ that could be sold and accounted for
+                          under Statement of Financial Accounting Standards (SFAS) 140.27
+                          SFAS 140 has typically been applied to the sale of financial assets
+                          such as pools of mortgages or receivables that have been
+                          securitized and transferred to an SPE.28 To avoid consolidation, the
+                          SPE purchasing the financial assets must have a minimum outside
+                          equity investment which represents at least 3 percent of the SPE’s
+                          total capital and which must remain genuinely at risk.29
+                             Within one week of forming Fishtail, Enron ‘‘sold’’ its Class C
+                          ownership interest in Fishtail for $200 million to an SPE it had
+                          formed called the Caymus Trust. This transaction, which Enron
+                          called Bacchus, is illustrated in the following Figure 2.
+
+
+
+
+                            25 See ‘‘Transaction Descriptions,’’ Enron document (undated), Bates EC2 000009786–87,
+
+                          Hearing Exhibit 317; Patrick interview; ‘‘Fishtail LLC Formation/Securitization,’’ Andersen
+                          memorandum by Thomas Bauer and Kate Agnew (12/29/00), Bates AASCGA 008673.1–4, Hear-
+                          ing Exhibit 324.
+                            26 Enron and LJM2 had agreed on three classes of ownership interests in the Fishtail joint
+
+                          venture. Class A interests, owned by Enron, conveyed the right to exercise management control
+                          over the joint venture and the right to 0.1 percent of the ‘‘economic interests’’ in Fishtail. Class
+                          B interests, owned by Annapurna, conveyed the right to 20 percent of the ‘‘economic interests’’
+                          in Fishtail. Class C interests, owned by Enron, conveyed the right to 79.9 percent of the ‘‘eco-
+                          nomic interests’’ in Fishtail. See ‘‘Fishtail,’’ a summary of the Fishtail transaction by Deloitte
+                          & Touche, LLP, executed in conjunction with the Powers Report, Bates DT 000376–000403,
+                          Hearing Exhibit 305. Presumably, by ‘‘economic interests’’ the parties meant the profits or losses
+                          sustained by the joint venture.
+                            27 SFAS 140, ‘‘Accounting for Transfers and Servicing of Financial Assets and Extinguishment
+
+                          of Liabilities,’’ is a statement of accounting standards issued by the Financial Accounting Stand-
+                          ards Board (FASB), an organization designated by the Securities and Exchange Commission
+                          (SEC) to develop, promulgate, and interpret generally accepted accounting principles for U.S.
+                          business. SFAS 140 superceded and replaced SFAS 125. Enron’s reliance on SFAS 140 in this
+                          transaction is documented, for example, in a Citigroup draft analysis of the transaction, ‘‘Capital
+                          Markets Approval Committee: Enron Corp. Project Bacchus FAS 125 Transaction’’ (12/1/00),
+                          Bates CITI–SPSI 012895. Enron engaged in numerous transactions under SFAS 140 and its
+                          predecessor SFAS 125, collectively involving more than $1 billion. See ‘‘Finance Related Asset
+                          Sales: Prepays and 125 Sales’’ (presentation to the Finance Committee of the Enron Board of
+                          Directors, August 2001), Exhibit 42 in the Subcommittee hearing, ‘‘The Role of the Board of Di-
+                          rectors in Enron’s Collapse’’ (May 7, 2002). See also ‘‘First Interim Report of Neal Batson, Court-
+                          Appointed Examiner,’’ In Re Enron Corp., Case No. 01–16034(AJG) (Bankr. SDNY, 9/21/02).
+                            28 Unlike other asset sales, SFAS 140 has been interpreted to allow the seller of the financial
+
+                          asset to retain a significant degree of control over the asset, even after its securitization and
+                          transfer to the SPE. For example, a financing company that routinely issues and acquires car
+                          loans may continue to manage and collect payments on these car loans even after pooling them
+                          and selling the rights to the cash flow to an SPE in an SFAS 140 transaction. Enron analogized
+                          that, in an SFAS 140 transaction, it could sell its Fishtail interests to an SPE, while continuing
+                          to exercise control over its pulp and paper trading business even after the sale.
+                            29 See footnote 14. FASB is currently in the process of revising certain SPE accounting stand-
+
+                          ards and, among other changes, may increase the required minimum outside equity for an un-
+                          consolidated SPE from 3 to 10 percent. See FASB Exposure Draft, ‘‘Consolidation of Certain
+                          Special-Purpose Entities’’ (June 28, 2002).
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00015   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 16 ===
+                                                                           12
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00016   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 17 ===
+                                                                           13
+
+                             The Caymus Trust was established by Enron as a Delaware busi-
+                          ness trust.30 The Caymus Trust was capitalized with a $194 mil-
+                          lion loan from Citigroup and a $6 million equity ‘‘investment’’ from
+                          FleetBoston Financial provided through an off-balance sheet entity
+                          it had established called Long Lane Master Trust IV.31 The $194
+                          million represented 97 percent of the Trust’s total capitalization,
+                          while the $6 million represented the required minimum 3 percent
+                          outside equity investment. Although FleetBoston appeared to carry
+                          the risk associated with the $6 million equity investment, in fact,
+                          the risk had been conveyed to Citigroup through a total return
+                          swap.32 This arrangement meant that Citigroup was responsible
+                          not only for the $194 million loan it had issued to the Caymus
+                          Trust, but also for the $6 million cash investment ostensibly made
+                          by FleetBoston.33
+                             Enron, in turn, reduced Citigroup’s risk in the Bacchus trans-
+                          action by entering into a total return swap with Citigroup to pro-
+                          vide credit support for the $194 million loan.34 Under this total re-
+                          turn swap, Enron effectively pledged to make Citigroup whole for
+                          any decline in value of the Fishtail assets should those assets be
+                          needed to repay the loan.35 In effect, Enron had guaranteed the
+                          $194 million loan.36 In an interview, Enron personnel explained to
+                          the Subcommittee that Andersen had approved its interpreting
+                          SFAS 140 as allowing Enron to guarantee the debt financing asso-
+                          ciated with the Caymus Trust.37 Andersen instructed that similar
+                          credit support could not be provided by Enron for the $6 million
+                          outside equity investment, 38 essentially because that support
+                          would mean that Enron would, in effect, be guaranteeing the entire
+                          purchase price, the purchaser of the assets would assume no risk
+                          from participating in the transaction, and the asset transfer would,
+                          therefore, no longer qualify as a ‘‘sale’’ under SFAS 140.
+                             Although Enron was barred by accounting standards from doing
+                          so, the Subcommittee uncovered documentary evidence indicating
+                          that Enron had also guaranteed the $6 million equity ‘‘investment’’
+                          in the Caymus Trust. Enron provided this guarantee by making an
+                          undisclosed oral agreement with Citigroup to ensure repayment of
+                             30 See ‘‘Data Sheet Reprint . . . Caymus Trust (c/o Wilmington Trust)’’ (2/22/02), Bates ECa
+                          000009793.
+                             31 Citigroup and FleetBoston worked together on at least one other set of Enron transactions,
+                          the Yosemite prepays, which also made use of Long Lane Master Trust IV. For more informa-
+                          tion, see the July 23 hearing, ‘‘Testimony of Robert Roach, Chief Investigator, Permanent Sub-
+                          committee on Investigations,’’ Appendix D, at pages D–10 and D–11.
+                             32 Email by Citigroup employee James Reilly (11/28/00), Bates CITI–SPSI 0118432, Hearing
+                          Exhibit 322c; Subcommittee interview with Citigroup employees Richard Caplan (11/21/02) and
+                          William Fox (11/22/02). A total return swap is a derivative transaction in which one party con-
+                          veys to the other party all of the risks and rewards of owning an asset without transferring
+                          actual legal ownership of that asset.
+                             33 According to explanations provided by Citigroup employees during their Subcommittee
+                          interviews, Citigroup used FleetBoston in the Bacchus transaction because its initial analysis
+                          led it to believe that owning both the debt and equity in Caymust Trust would raise regulatory
+                          issues. By the time Citigroup realized that these issues would not arise, the transaction was
+                          nearly completed and Citigroup decided not to change the structure.
+                             34 See ‘‘Project Bacchus,’’ diagram of Bacchus transaction (undated), Bates ECa 000196027,
+                          Hearing Exhibit 316; ‘‘Global Loans Approval Memorandum,’’ (12/11/00), Bates CITI–SPSI
+                          0015991–95, Hearing Exhibit 318.
+                             35 Conversely, the total return swap also entitled Enron, in effect, to retain any increase in
+                          value of the Fishtail assets, should that occur.
+                             36 By using a total return swap instead of a loan guarantee, Enron avoided having to disclose
+                          the guarantee in its financial statement footnotes.
+                             37 Patrick interview.
+                             38 See series of Andersen emails, (11/30/99), Bates AASCGA 001133.1–3, Hearing Exhibit 325.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00017   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 18 ===
+                                                                           14
+
+                          the $6 million. The key internal Citigroup memorandum seeking
+                          final approval of the Bacchus transaction from the Citigroup Credit
+                          Committee makes multiple references to the existence of this oral
+                          agreement.39 The memorandum describes the Bacchus credit ‘‘facil-
+                          ity’’ being requested as consisting of two parts: a ‘‘loan’’ and an ‘‘eq-
+                          uity’’ contribution. The memorandum states: ‘‘The equity compo-
+                          nent we provide will be based on verbal support as committed by
+                          Andrew S. Fastow . . . to Bill Fox [of Citigroup].’’ It also states
+                          that the ‘‘equity portion of the facility’’ involves ‘‘a large element of
+                          trust and relationship rationale’’ but ‘‘this equity risk is largely
+                          mitigated by verbal support received from Enron Corp. as per its
+                          CFO, Andrew S. Fastow.’’ At another point, the memorandum
+                          states: ‘‘Enron Corp. will essentially support the entire facility,
+                          whether through a guaranty or verbal support.’’ 40
+                             During an interview with Subcommittee staff, one senior
+                          Citigroup official who played a key role in securing final approval
+                          of the deal denied that Enron had verbally guaranteed the equity
+                          ‘‘investment.’’ 41 Yet he confirmed that, prior to the closing of the
+                          deal, he traveled to Enron in Houston and met with Mr. Fastow
+                          to obtain Enron’s ‘‘verbal support’’ for the equity investment. He
+                          also told the Subcommittee that Mr. Fastow assured him that
+                          Enron would take ‘‘whatever steps necessary’’ to ensure Citigroup
+                          would not suffer any loss related to the $6 million.42 Later, the
+                          same senior official sent an email to Citigroup’s risk management
+                          team stating that Citigroup had obtained a ‘‘total return swap from
+                          Enron’’ for the debt financing and ‘‘verbal support for the balance,’’
+                          meaning the $6 million.’’ 43
+                             In addition, a key Citigroup document seeking approval of mul-
+                          tiple new credit facilities for Enron explicitly stated at the time
+                          that, with respect to the Bacchus transaction, Citigroup had ob-
+                          tained ‘‘verbal guarantees’’ from Enron for the equity ‘‘investment’’
+                          in the Caymus Trust.44 This document, a Citigroup credit approval
+                          report signed by senior Citigroup employees, listed 14 ‘‘credit facili-
+                          ties’’ Citigroup was considering establishing for the benefit of
+                          Enron. Two identified the Caymus Trust as the ‘‘borrower.’’ One of
+                          these two described a proposed $7.5 million ‘‘facility’’ (later reduced
+                          to $6 million) for the Caymus Trust, which represented the re-
+                          quired 3 percent outside equity ‘‘investment’’ in that entity.45 The
+                             39 ‘‘Global Loans Approval Memorandum,’’ (12/11/00), Bates CITI–SPSI 0015991–95, Hearing
+                          Exhibit 318.
+                             40 See also ‘‘Executive Summary’’ of certain Citigroup transactions with Enron (undated),
+                          Bates CITI–SPSI 0128937, Hearing Exhibit 320 (‘‘Bacchus/Caymus Trust Facility—Citibank has
+                          been asked to approve and hold this $250MM facility consisting of Notes and Certificates. . . .
+                          The Notes ($242.5MM) will be supported by a total return swap with Enron Corp as the credit
+                          risk. The Certificates are supported by verbal support obtained by Bill Fox from Andy Fastow,
+                          Enron Corp’s Chief Financial Officer.’’)
+                             41 Fox interview.
+                             42 Id. At the December 11 hearing, Mr. Fox testified that Mr. Fastow promised to take ‘‘all
+                          steps necessary’’ to protect Citigroup from any loss related to the $6 million.
+                             43 Email from Mr. Fox to Citigroup employee Thomas Stott (4/18/01), Bates CITI–SPSI
+                          0085843, Hearing Exhibit 319. Still another Citigroup email, written two days after the Bacchus
+                          deal closed, stated: ‘‘The equity component has been approved on the basis of verbal support
+                          verified by Enron CFO, Andy Fastow.’’ Email from Citigroup employee Lydia Junek to Mr. Fox
+                          (12/21/00), Bates CITI–SPSI 0128944–45, Hearing Exhibit 322h.
+                             44 Citibank Credit Approval (12/8/00), Bates CITI–SPSI 0128921, Hearing Exhibit 320.
+                             45 At the time the credit approval report was completed in early December 2000, Enron and
+                          Citigroup expected the total purchase price in the Bacchus transaction would be $250 million,
+                          instead of the $200 million amount ultimately decided upon; the credit approval report reflected
+                          the initial, larger total. See email from Citigroup employee Steve Baillie to other Citigroup em-
+                          ployees (11/24/00), Bates CITI–SPSI 0119040, Hearing Exhibit 322a.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00018   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 19 ===
+                                                                           15
+
+                          credit approval report states that Citigroup had obtained the fol-
+                          lowing ‘‘Support’’ for this equity component:
+                               ‘‘Type: VERBAL GUARANTEES Percentage: 100.00’’
+                          The report lists the ‘‘Support Provider’’ as ‘‘Enron Corp.’’ 46
+                             Together, the evidence establishes that Enron guaranteed 100
+                          percent of the debt and equity ‘‘investment’’ in the Caymus Trust,
+                          and both Enron and Citigroup knew it. Enron’s 100 percent guar-
+                          antee of the Caymus Trust investments meant that the Caymus
+                          Trust had incurred no risk in transferring the $200 million to
+                          Enron to ‘‘purchase’’ the Fishtail assets, because Enron itself had
+                          guaranteed repayment of the full amount. The absence of risk
+                          meant the asset transfer did not qualify as a ‘‘sale’’ under SFAS
+                          140, and Enron should not have booked either cash flow from oper-
+                          ations or a reportable gain from this transaction. Instead, Enron
+                          should have treated the $200 million as a loan from Citigroup and
+                          booked the funds as debt and cash flow from financing.
+                             Nevertheless, immediately upon completing the December ‘‘sale’’
+                          of its Class C Fishtail interests to the Caymus Trust, Enron de-
+                          clared an additional $200 million in cash flow from operations as
+                          well as a $112 million gain in income on its year-end 2000 financial
+                          statements.47
+                             Citigroup internal documentation shows that Citigroup partici-
+                          pated in the Bacchus transaction in part as an accommodation to
+                          Enron. One email from November 2000 describes the Bacchus
+                          transaction as follows: ‘‘For Enron, this transaction is ‘mission crit-
+                          ical’ (their label not mine) for [year-end] and a ‘must’ for us.’’ 48 An-
+                          other email dated a week after the deal closed states with respect
+                          to Bacchus: ‘‘Sounds like we made a lot of exceptions to our stand-
+                          ard policies, I am sure we have gone out of our way to let them
+                          know that we are bending over backwards for them. . . let’s remem-
+                          ber to collect this iou when it really counts.’’ 49 Another document
+                          advocating participating in several Enron transactions states:
+                          ‘‘Given the breadth of our relationship with the company we have
+                          been told by Enron that it is important that we participate in these
+                          strategic initiatives,’’ including Bacchus.50 Another email a few
+                          months later discussing Bacchus and other pending deals observes:
+                          ‘‘Enron generates substantial GCIB revenue ($50mm in 2000); any
+                          decision to limit/reduce credit availability will significantly reduce
+                          revenues going forward both at Cit and SSB and permanently im-
+                          pair the relationship.’’ 51
+                            46 Citibank Credit Approval (12/8/00), Bates CITI–SPSI 0128921, Hearing Exhibit 320.
+                            47 See Enron’s 10–K SEC filing for 2000. Enron apparently calculated the $112 million gain
+                          by subtracting $88 million from the $200 million ‘‘sale’’ price. This $88 million was apparently
+                          the ‘‘basis’’ Enron claimed for its Class C ownership interest in Fishtail. See ‘‘3% Test and Gain
+                          Calculation,’’ Andersen document (11/17/01), Bates AASCGA 002454.6, Hearing Exhibit 321. See
+                          also footnote 11.
+                            48 Email from Citigroup employee James Reilly to other Citigroup employees (11/28/00), Bates
+                          CITI–SPSI 0129017.
+                            49 Email from Citigroup employee Steve Wagman to Citigroup employee Amanda Angelini,
+                          with copies to Mr. Caplan and others (12/27/00), Bates CITI–SPSI 0119009, Hearing Exhibit
+                          322i.
+                            50 ‘‘Executive Summary,’’ Citigroup document (undated), Bates CITI–SPSI 0128937, Hearing
+                          Exhibit 320.
+                            51 Email from Mr. Fox to Citigroup employee Thomas Stott (4/18/01), Bates CITI–SPSI
+                          0085843, Hearing Exhibit 319. GCIB refers to Global Corporate & Investment Bank. Cit refers
+                          to Citigroup. SSB refers to Salomon Smith Barney.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00019   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 20 ===
+                                                                           16
+
+                             The evidence also indicates that, early on, Citigroup became
+                          aware that Enron might use the Bacchus transaction to improve its
+                          financial statements. Emails over time show Citigroup personnel
+                          were aware, for example, that Enron might use Bacchus to reduce
+                          debt and generate cash flow from operations on its financial state-
+                          ments, but Citigroup asserts its personnel were unaware that Bac-
+                          chus would generate material earnings for Enron. One Citigroup
+                          email in November 2000, states that ‘‘Enron’s motivation’’ in Bac-
+                          chus ‘‘now appears to be writing up the asset in question from a
+                          [cost] basis of about $100 [million] to as high as $250 [million],
+                          thereby creating earnings.’’ 52 This email also states a ‘‘concern’’
+                          about ‘‘appropriateness since there is now an earnings dimension
+                          to this deal, which was not there before.’’
+                             Another Citigroup email a month later states that the Bacchus
+                          transaction was ‘‘designed’’ in part to ‘‘ensure that Enron will meet
+                          its [year-end] debt/cap[iptalization] targets’’; it was ‘‘probable’’ the
+                          transaction would ‘‘add to [funds flow from operations]’’ on Enron’s
+                          financial statements; and ‘‘possible, but not certain, that there will
+                          be an earnings impact.’’ 53 An email two days later calculates that
+                          the $200 million would represent more than ten percent of the cash
+                          flow and net income Enron had reported in 1999 and was likely to
+                          report in 2000.54 An email in response states: ‘‘Based on 1999 num-
+                          bers would appear that Enron significantly dresses up its balance
+                          sheet for year end; suspect we can expect the same this year.’’ 55
+                          While two of the December emails predict any earnings from the
+                          Bacchus transaction were likely to be immaterial, Citigroup per-
+                          sonnel agreed in Subcommittee interviews that the $112 million in
+                          extra earnings finally reported was material even to a company as
+                          large as Enron.56 Citigroup denied knowing at the time, however,
+                          that Enron had actually recorded these additional earnings in its
+                          2000 financial statements.
+                             In interviews with the Subcommittee staff, Citigroup executives
+                          involved in the Bacchus transaction stated that when a structured
+                          finance transaction has features suggesting that a client might be
+                          using the transaction to manufacture earnings on its financial
+                          statements, it creates an ‘‘appropriateness issue’’ which generally
+                          requires a greater degree of review and due diligence within the in-
+                          vestment bank.57 When asked whether the necessary appropriate-
+                          ness review took place in Bacchus, one Citigroup official stated that
+                          ‘‘further investigation’’ was warranted since the emails indicated
+                          that Citigroup had not clarified whether Enron was, in fact, going
+                          to claim earnings from the transaction and, if so, how much. He
+                            52 Email from Citigroup employee Steve Baillie to Mr. Fox (11/24/00), Bates CITI–SPSI
+                          0119040, Hearing Exhibit 322a.
+                            53 Email from Citigroup employee James Reilly to Mr. Caplan, Mr. Fox, and others (12/6/00),
+                          Bates CITI–SPSI 0119046, Hearing Exhibit 322d.
+                            54 Email from Citigroup employee Shirley Elliott to Mr. Fox (12/13/00), Bates CITI–SPSI
+                          011906, Hearing Exhibit 322f (‘‘In terms of total balance sheet size, it appears that Bacchus is
+                          immaterial; however, the $200 million represents 16.3% and 22.4% of operating cash flow and
+                          net income, respectively [for 1999, and] . . . 11.6% of cash EBITDA . . . [for 2000].’’) This anal-
+                          ysis assumes a zero basis.
+                            55 Email from Mr. Fox to Shirley Elliott (12/13/00), Bates CITI–SPSI 0128912, Hearing Ex-
+                          hibit 322g.
+                            56 Caplan interview; Fox interview.
+                            57 Id. These Citigroup executives also indicated that Citigroup typically does not get involved
+                          in structured transactions that have an earnings impact, with the exception of transactions gen-
+                          erating tax benefits.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00020   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 21 ===
+                                                                           17
+
+                          also indicated that he was unaware of any additional action taken
+                          to examine the earnings or other financial statement implications
+                          of the transaction. The Subcommittee has not found, and Citigroup
+                          has not provided, any evidence establishing that Citigroup under-
+                          took any additional appropriateness review to gauge Enron’s poten-
+                          tial use of Bacchus to generate earnings.
+                             In fact, the Bacchus figures significantly improved Enron’s 2000
+                          financial statements. The $112 million gain represented more than
+                          11 percent of Enron’s total net income for the fiscal year, while the
+                          $200 million in cash flow represented about 6 percent of Enron’s
+                          total cash flow from operations for the year.58 These figures sug-
+                          gest that, had the Fishtail and Bacchus transactions failed to close,
+                          Enron would likely have failed to meet Wall Street’s earnings pro-
+                          jections for the year, and the company’s share price would have
+                          suffered.
+                             Citigroup was paid a $500,000 fee for its participation in Bac-
+                          chus, earned about $5 million in interest payments related to the
+                          $200 million debt, and obtained another $450,000 yield related to
+                          the $6 million ‘‘equity investment.’’ 59
+                             Analysis. Even more than Fishtail, the Bacchus transaction was
+                          steeped in deceptive accounting, if not outright accounting fraud.
+                          The evidence shows that Enron guaranteed both the debt and eq-
+                          uity ‘‘investment’’ in the Caymus Trust, thereby eliminating all risk
+                          associated with the ‘‘sale’’ of the Fishtail assets to the Trust. With-
+                          out risk, the transaction fails to qualify as a sale under SFAS 140.
+                          The fact that Enron’s guarantee of the $6 million equity ‘‘invest-
+                          ment’’ was never placed in writing, but was kept as an oral side
+                          agreement with Citigroup, demonstrates that both parties under-
+                          stood its significance and potential for invalidating the entire
+                          transaction. Citigroup nevertheless proceeded with the deal, know-
+                          ing that a key component, Enron’s guarantee of the $6 million,
+                          rested on an unwritten and undisclosed oral agreement.
+                             Citigroup was also aware that Enron was likely to use the Bac-
+                          chus transaction to improve its financial statements through added
+                          cash flow and perhaps added earnings, but did not sufficiently con-
+                          front this issue either internally or by asking Enron for more infor-
+                          mation. In the end, Citigroup not only participated in the Bacchus
+                          deal, it supplied the funds needed for Enron to book the $200 mil-
+                          lion in extra cash flow from operations and $112 million in extra
+                          net income on its 2000 financial statements. Without Citigroup’s
+                          complicity and financial resources, Enron would not have been able
+                          to complete the deal and manipulate its financial statements to
+                          meet Wall Street expectations for its 2000 earnings.
+
+
+
+                             58 According to its 10–K filing with the SEC, Enron’s total net income for 2000 was $979 mil-
+
+                          lion. Using this filing and other information, the Subcommittee estimated Enron’s total funds
+                          flow from operations in 2000 at about $3.248 billion. See July 23 hearing, ‘‘Testimony of Robert
+                          Roach, Chief Investigator, Permanent Subcommittee on Investigations,’’ Appendix A, at page
+                          A–4.
+                             59 ‘‘Global Loans Approval Memorandum,’’ (12/11/00), Bates CITI–SPSI 0015991–95, Hearing
+
+                          Exhibit 318; information supplied by Citigroup to the Subcommittee.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00021   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 22 ===
+                                                                           18
+
+                          SUNDANCE
+                             The Facts. The third transaction, Sundance, took place six
+                          months after Bacchus. Fishtail and Bacchus had been constructed
+                          as short term arrangements 60 intended to enable Enron to move
+                          its pulp and paper trading business off-balance sheet and recognize
+                          income and cash flow from this business venture prior to the end
+                          of the fiscal year. Sundance Industrial Partners (‘‘Sundance’’) was
+                          allegedly established to create a more long-term off-balance sheet
+                          entity which Enron could use to hold and manage all of its pulp
+                          and paper business assets. Like Fishtail, however, Sundance pro-
+                          vided the appearance but not the reality of having more than one
+                          investor, and should have been consolidated on Enron’s balance
+                          sheet.
+                             Sundance was constructed as a 50–50 joint venture between
+                          Enron and Citigroup, to be capitalized at a 4:1 ratio in accordance
+                          with Anderson’s joint venture guidelines. Figure 3 is a diagram of
+                          the Sundance structure.
+
+
+
+
+                             60 The $194 million loan in Bacchus, for example, had a one-year maturity date. See ‘‘Global
+                          Loans Approval Memorandum,’’ (12/11/00), Bates CITI–SPSI 0015991–95, Hearing Exhibit 318.
+                          LJM2’s investment in Fishtail was intended to end after six months or trigger higher costs.
+                          ‘‘LJM2 Investment Summary’’ (12/20/00), Bates LJM 029881–4, Hearing Exhibit 306.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00022   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 23 ===
+                                                                           19
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00023   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 24 ===
+                                                                           20
+
+                             Enron contributed the following assets to the Sundance joint ven-
+                          ture: a Canadian paper mill known as Stadacona; a New Jersey
+                          paper mill known as Garden State Paper; timberland located in
+                          Maine and known as SATCO; a $25 million liquidity reserve for on-
+                          going administrative expenses; a $65 million commitment to serv-
+                          ice debt and capital expenditures; and $208 million in cash.61 The
+                          total value of Enron’s contribution was approximately $750 million.
+                             Citigroup, in turn, appeared to contribute $8.5 million in cash, 62
+                          certain shares valued at $20 million, 63 and $160 million in an ‘‘un-
+                          funded capital commitment.’’ Citigroup, thus, appeared to con-
+                          tribute assets totaling approximately $188.5 million to meet the
+                          Andersen joint venture capitalization guidelines.64
+                             Although Vinson and Elkins viewed the derivative transaction as
+                          sufficient to put Citigroup at risk for the Sonoma shares, other
+                          terms in the Sundance partnership agreement—which Vinson and
+                          Elkins helped draft—explicitly authorized Citigroup to unilaterally
+                          dissolve the partnership at any time, prior to incurring any loss.
+                          See email by Mr. Caplan to Mr. Fox, with attachments (10/29/01),
+                          Bates CITI–SPSI 0127648, Hearing Exhibit 333t. Vinson and Elk-
+                          ins knew or should have known that this partnership language in-
+                          sulated Citigroup from any true risk of loss in its Sundance invest-
+                          ments. Vinson and Elkins nevertheless issued the true sale opinion
+                          allowing Enron to record the $20 million gain from the Sonoma
+                          share transfer.
+                             Upon receiving the contributions from Enron and Citigroup,
+                          Sundance immediately used the $208 million cash provided by
+                          Enron to buy Enron’s prior Fishtail interests from the Caymus
+                          Trust.65 The Caymus Trust then used these funds to pay off its
+                            61 See ‘‘Sundance Steps’’ (6/1/01), Bates CITI–SPSI 0128886.
+                             62 The $8.5 million was immediately used by Sundance to purchase Annapurna’s Class B 20-
+                          percent economic interest in Fishtail. All of these monies were apparently paid to LJM2, ena-
+                          bling LJM2 to recoup its $8 million capital contribution to Annapurna and, when combined with
+                          an earlier $350,000 fee, earn an overall return of 15 percent on its Fishtail investment. See
+                          ‘‘Sundance Steps,’’ Enron document (5/16/01), Bates ECa 000022315, Hearing Exhibit 328a;
+                          ‘‘Structuring Summary: Project Grinch,’’ Chase document (12/16/00), Bates JPM–1–00437, Hear-
+                          ing Exhibit 311.
+                             63 The shares conveyed ownership of an SPE called Sonoma, LLC whose sole asset consisted
+                          of Enron’s Class A interest in Fishtail, which Enron had retained during the Bacchus trans-
+                          action. The Class A interest essentially conveyed management control over Enron’s pulp and
+                          paper trading business. Just prior to contributing the shares to Sundance, Citigroup purchased
+                          them from Enron for $20 million. Enron immediately reported the $20 million in ‘‘sales’’ revenue
+                          on its second quarter 2001 financial statements. The evidence suggests that the $20 million
+                          transaction was executed solely to allow Enron to book the additional $20 million. Initially,
+                          Enron’s outside counsel, Vinson and Elkins, had declined to issue a legal opinion characterizing
+                          the Sonoma stock transfer to Citigroup as a ‘‘true sale,’’ since Citigroup had avoided all risk
+                          associated with the shares by immediately contributing them to Sundance. To satisfy Vinson
+                          and Elkins, Citigroup entered into a derivative transaction with Sundance which, in part, al-
+                          lowed Sundance to sell the shares back to Citigroup within a certain period of time. After this
+                          derivative was put in place, Vinson and Elkins issued a ‘‘last minute true sale opinion’’ allowing
+                          Enron to book the sale. See ‘‘Enron Industrial Markets Finance Presentation of Sundance Indus-
+                          trial Partners,’’ Enron document, (6/1/01), Bates ECa000169835, Hearing Exhibit 329. An inter-
+                          nal Citigroup email indicates that Citigroup itself did not intend to take on any real risk by
+                          participating in the derivative transaction: ‘‘Spoke with the client. They intend and expect to
+                          close tomorrow whether the put issue is resolved or not. They fully understand that we will blow
+                          the deal up if we are at risk for the put. . . .’’ Email from Citigroup employee Doug Warren
+                          to Mr. Caplan (5/29/01), Bates CITI–SPSI 0123901, Hearing Exhibit 333l.
+                             64 The $188.5 million was intended to provide the minimum 20 percent capital contribution
+                          required by the Andersen 4:1 capitalization guidelines for 50–50 unconsolidated joint ventures.
+                          The $28.5 million in cash and stock was intended to provide the minimum 3 percent capital-
+                          at-risk required by the Andersen guidelines.
+                             65 This $208 million ‘‘purchase’’ of the Class C Fishtail interests, when considered in conjunc-
+                          tion with Sundance’s ‘‘purchase’’ of the Class B Fishtail interests for $8.5 million and Class A
+                          Fishtail interests for $20 million, appears to mean that, as of June 2001, Enron and Citigroup
+                          paid a total of $236.5 million for Enron’s pulp and paper trading business. But see ‘‘Sundance
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00024   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 25 ===
+                                                                           21
+
+                          $194 million loan from Citigroup and return the outstanding $6
+                          million equity ‘‘investment,’’ thereby eliminating all remaining risk
+                          for Citigroup associated with the Bacchus transaction.66 The $208
+                          million payment also included a $1.5 million payment to the
+                          Caymus Trust that was apparently passed along to Citigroup for
+                          alleged ‘‘breakage costs,’’ presumably due to early repayment of the
+                          $194 million loan.67 In essence, then, six months after receiving
+                          $200 million from the Caymus Trust—all of which had been fi-
+                          nanced by Citigroup—and using the money to book cash flow and
+                          earnings on its 2000 financial statements, Enron returned $200
+                          million to Citigroup via the Sundance joint venture.
+                             The evidence suggests that Citigroup agreed to participated in
+                          Sundance only after, contrary to accounting principles, the joint
+                          venture was structured to ensure that none of Citigroup’s funds
+                          was actually at risk and none of its expected returns depended
+                          upon the risks and rewards of the joint venture. Citigroup pro-
+                          tected its ‘‘investments’’ from loss in several ways. First, under the
+                          partnership agreement, Citigroup obtained unilateral authority to
+                          dissolve the Sundance partnership at any time and force its liq-
+                          uidation before Enron could draw upon any Citigroup funds.68 This
+                          unilateral authority meant, in effect, that as long as Citigroup
+                          monitored the Sundance transaction and acted promptly to dissolve
+                          the partnership, it could protect itself against any loss.
+                             In addition, the partnership agreement required Sundance to
+                          maintain at all times $28.5 million in Enron notes or other high
+                          quality, liquid financial instruments to which Citigroup was given
+                          preferred access.69 These liquid financial instruments were explic-
+                          itly segregated and set aside to ensure repayment, with a specified
+                          return, of Citigroup’s $8.5 million cash contribution and $20 million
+                          share contribution to the partnership. In addition, the partnership
+                          agreement provided that Enron had to exhaust its Sundance in-
+                          vestments before any of Citigroup’s $28.5 million in cash and stock
+                          could be used.
+                             Citigroup’s $160 million ‘‘unfunded’’ capital commitment also op-
+                          erated under multiple protections making it unlikely ever to be
+                          used. Under the partnership agreement, Citigroup’s funding com-
+                          mitment could be called on only after the partnership incurred
+                          GAAP losses in excess of $657 million, Enron exhausted its $65
+                          million debt and capital reserve and $25 million liquidity reserve,
+                          and the $28.5 million in liquid financial instruments were cashed
+                          in. Again, these arrangements meant that Sundance would have to
+                          lose almost $750 million—Enron’s entire investment—before any
+
+                          Structure,’’ Citigroup document (undated), Bates CITI–SPSI 0044992, Hearing Exhibit 331 (val-
+                          uing Fishtail at $228.5 million). Both figures represent a significant increase over the $200 mil-
+                          lion value assigned to this business just six months earlier. This increased value was assigned
+                          to Enron’s trading business during a period in which many internet-based businesses were fall-
+                          ing in value.
+                             66 ‘‘Sundance Steps,’’ Enron document (5/16/01), Bates ECa000022315, Hearing Exhibit 328a.
+                             67 Id.
+                             68 The Sundance partnership agreement authorized Citigroup, at its discretion, to invoke the
+                          creation of a board of directors and appoint two of the four members. ‘‘Sundance Partnership
+                          Agreement’’ (06/01/01), at 52–53, Bates CITI–SPSI 0016044. If this board were to ‘‘Deadlock,’’
+                          it would be considered a ‘‘dissolution event’’ and the partnership would automatically dissolve.
+                          Id. at 6, 61; see also ‘‘Description of the Sundance Transaction,’’ Citigroup document, (10/29/01),
+                          Bates CITI–SPSI 0127648, Hearing Exhibit 333t.
+                             69 See ‘‘Description of the Sundance Transaction,’’ Citigroup document (10/29/01), Bates CITI–
+                          SPSI 0127648, Hearing Exhibit 333t.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00025   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 26 ===
+                                                                           22
+
+                          loss could be repaid from Citigroup’s ‘‘contributions.’’ Enron high-
+                          lighted these features of the Sundance agreement in a September
+                          2001 presentation to Citigroup, describing it as ‘‘SBHC’s Cush-
+                          ion.’’ 70 Citigroup was told that it could wait until the entire ‘‘cush-
+                          ion’’ was absorbed before dissolving Sundance to avert any losses.
+                             Citigroup internal documents repeatedly described its Sundance
+                          investment as protected from risk. One of Citigroup’s primary nego-
+                          tiators of Sundance put it this way:
+                               ‘‘The transaction is structured to safeguard against the
+                               possibility that we need to contribute our contingency fund
+                               and to ensure that there is sufficient liquidity at all times
+                               to repay our $28.5 million investment.’’ 71
+                             Another Citigroup email stated, ‘‘our invest[ment] is so subordi-
+                          nated and controlled that it is ‘unimaginable’ how our principal is
+                          not returned.’’ 72 In addition, Citigroup arranged to receive fees and
+                          a specified return on its Sundance ‘‘contributions,’’ rather than
+                          share in any profits or increased value in the partnership, which
+                          means that its expected return was structured more like a return
+                          on debt than on an equity investment. In fact, although Citigroup
+                          internally classified its Sundance contribution as an ‘‘equity invest-
+                          ment,’’ minutes of a meeting of the Citigroup Capital Markets Ap-
+                          proval Committee (CMAC) considering the Sundance structure
+                          noted that, ‘‘based on the way the deal is structured, it is more like
+                          debt rather than equity.’’ 73 The final CMAC approval memo-
+                          randum stated: ‘‘The investment has been structured to act like
+                          debt in form and substance.’’ 74
+                             Given the lack of risk associated with Citigroup’s Sundance ‘‘in-
+                          vestment,’’ Citigroup personnel repeatedly questioned Sundance’s
+                          proposed off-balance sheet accounting. One Citigroup e-mail two
+                          weeks before the deal’s closing noted: ‘‘[A Citigroup tax attorney]
+                          wanted to say that this is a funky deal (accounting-wise). He is
+                          amazed that they can get it off balance sheet.’’ 75 Another email
+                          from Citigroup’s Global Energy and Mining group head in the Glob-
+                          al Relationship Bank questioning several aspects of the transaction
+                          stated: ‘‘Also not clear to me how this structure achieves Enron’s
+                             70 ‘‘Enron Industrial Markets Finance Presentation of Sundance Industrial Partners to
+                          Salomon Smith Barney,’’ (September 2001), Bates CITI–SPSI 0044993, Hearing Exhibit 331.
+                          SBHC refers to Salomon Brothers Holding Company. The presentation lists the risk mitigation
+                          mechanisms point by point, including: ‘‘Enron takes the first $747m in US GAAP losses. . . .
+                          SBHC has the power to dissolve the partnership at will. . . . SBHC has adequate information
+                          to assess ongoing risk. . . . Daily trading loss cannot exceed $5.5mm (6.7 months to erode cush-
+                          ion through trading losses). . . . Sundance has enough liquidity to repay SBHC anytime.’’
+                             71 Email from Mr. Caplan to Mr. Fox with attached Citigroup memorandum, ‘‘Description of
+                          the Sundance Transaction’’ (10/29/01), Bates CITI–SPSI 0127647–49, Hearing Exhibit 333t.
+                             72 Email between Citigroup employees Timothy Leroux and Andrew Lee (5/25/01), Bates CITI–
+                          SPSI 0044874, Hearing Exhibit 333i. According to a Subcommittee interview with Mr. Caplan,
+                          Citigroup was so convinced of the security of its investment and the lack of any real risk, that
+                          Citigroup decided not to purchase any default protection related to the Sundance transaction.
+                             73 ‘‘Capital Markets Approval Committee (CMAC) Minutes to Meeting’’ (5/16/01), Bates CITI–
+                          SPSI 0016030–31, Hearing Exhibit 327. See also email between Citigroup employees Amanda
+                          Angelini and Timothy Leroux (4/27/01), Bates CITI–SPSI 0044852, Hearing Exhibit 333a (listing
+                          reasons why Sundance ‘‘is more like debt than equity’’).
+                             74 ‘‘Capital Markets Approval Committee New Product/Complex Transaction Description
+                          Guidelines Enron Corp. Project Sundance Transaction’’ (5/15/01), Bates CITI–SPSI 0044830,
+                          Hearing Exhibit 333c. See also email from Citigroup employee Paul Gregg, ‘‘Subject: Enron Ex-
+                          posure on NA Credit Derivs,’’ (10/22/01), Bates CITI–SPSI 0123218, Hearing Exhibit 333u
+                          (‘‘Note that these equity partnerships, are designed to act as debt exposure due to numerous
+                          triggers built in which allow us to terminate.’’).
+                             75 Email from Citigroup employee Lynn Feintech to Mr. Caplan, ‘‘RE: cmac memo’’ (5/15/01),
+                          Bates CITI–SPSI 0122412, Hearing Exhibit 333d.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00026   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 27 ===
+                                                                           23
+
+                          off balance sheet objectives. Do we have a full understanding of
+                          this aspect of the transaction?’’ A Citigroup official responded by
+                          writing: ‘‘On the accounting: [Andersen] has agreed that by main-
+                          taining an 80/20 split on ownership with equal voting they can
+                          achieve off b/s treatment. We have not advised nor opined on the
+                          accuracy of that. However, according to Rick Caplan, it is identical
+                          to what Dynegy did in the gas deal for abg gas.’’ 76
+                             Just prior to the closing for the Sundance transaction, three sen-
+                          ior Citigroup officials strongly warned against proceeding with the
+                          deal, in part due to its ‘‘aggressive’’ accounting. The head of
+                          Citigroup’s Risk Management team for the Global Corporate and
+                          Investment Bank stated in a memorandum sent to the head of the
+                          investment bank:
+                               ‘‘This is a follow-up to our lunch conversation on the trans-
+                               action for Enron. If you recall, this is a complex structured
+                               transaction, which I have refused to sign off on.—Risk
+                               Management has not approved this transaction for the fol-
+                               lowing reasons: . . . The GAAP accounting is aggressive
+                               and a franchise risk to us if there is publicity (a la
+                               Xerox).’’ 77
+                          In an accompanying email, the head of Citigroup’s Global Relation-
+                          ship Bank wrote:
+                               ‘‘We ([the Global Energy and Mining group head] and I)
+                               share Risk’s view and if anything, feel more strongly that
+                               suitability issues and related risks when coupled with the
+                               returns, make it unattractive. It would be an unfortunate
+                               precedent if both GRB relationship management and
+                               Risk’s views were ignored.’’ 78
+                             Despite these strongly worded warnings from senior personnel
+                          the transaction went forward on June 1, 2001. The final go-ahead
+                          came on the day after a key Citigroup employee working on the
+                          deal sent an email at 6 p.m. stating: ‘‘Any word? Am getting a sig-
+                          nificant amount of pressure from [E]nron to execute.’’ 79 Another
+                          Citigroup email dated one month later reported: ‘‘[The head of the
+                          investment bank] was out of the country the day that transaction
+                          closed. The approval memo was . . . faxed to him. [He] then had
+                          a conversation with [the Risk Management head], who shared with
+                          us [his] feedback. We proceeded to close the transaction that day,
+                            76 Email exchange between Citigroup employees Mr. Fox and Ms. Feintech, ‘‘RE: Sundance,’’
+                          (5/16/01), Bates CITI–SPSI 0119011, Hearing Exhibit 333f. This email exchange may contain
+                          a reference to Dynegy and an SPE it sponsored, ABS Gas Supply LLC. If so, the SEC has re-
+                          cently determined that Dynegy violated certain securities laws and accounting rules by failing
+                          to consolidate ABS Gas on its balance sheet. While not admitting any of the SEC findings on
+                          this or other unrelated matters, Dynegy agreed to entry of a cease and desist order in the case
+                          and paid a $3 million penalty. See SEC v. Dynegy Inc., Civil Action No. H–02–3623 (USDC
+                          SDTX), Complaint (9/23/02), paragraphs 42–53.
+                            77 Citigroup memorandum by Mr. Bushnell, ‘‘Enron—Project Sundance Transaction,’’ (5/30/01),
+                          Bates CITI–SPSI 0124615, Hearing Exhibit 333n. The concerns expressed in the memorandum
+                          were raised internally five days earlier in draft form. See email from Citigroup employee Elea-
+                          nor Wagner to Mr. Bushnell (5/25/01), Bates CITI–SPSI 0044872, Hearing Exhibit 333k.
+                            78 Email from Alan MacDonald, head of Citigroup’s Global Relationship Bank, to Michael Car-
+                          penter, head of Citigroup’s Global Corporate & Investment Bank, ‘‘FW: Memo on Enron—Project
+                          Sundance’’ (5/31/01), Bates CITI–SPSI 0124614, Hearing Exhibit 333n.
+                            79 Email from Mr. Caplan to Shawn Feeny (5/31/01), Bates CITI–SPSI 012894, Hearing Ex-
+                          hibit 333o.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00027   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 28 ===
+                                                                           24
+
+                          given the absence of in[s]tructions [from either person] to the con-
+                          trary.’’ 80
+                            Citigroup has been unable to tell the Subcommittee who provided
+                          the final approval of the Sundance transaction. Although Citigroup
+                          internal policy requires signed management transaction approvals
+                          for transactions as large as Sundance, Citigroup could not locate
+                          any of the normal signed approvals.81 In his interview, Citigroup’s
+                          Risk Management head for the investment bank, who composed the
+                          strongly worded memorandum warning against proceeding with
+                          Sundance, stated that he was unable to recall virtually anything
+                          about his objections to the transaction, how his concerns were re-
+                          solved, or who actually gave the final approval for the transaction.
+                          For example, he stated that he could not recall the specifics of his
+                          accounting concerns; whether he discussed his accounting concerns
+                          with the investment bank head, although he assumes he did; the
+                          reassurances he received on the accounting issues, although he as-
+                          sumes he received reassurances; whether he ever signed off on the
+                          transaction, although he assumes he did; or whether the invest-
+                          ment bank head ultimately approved the project.82 At the hearing
+                          held one week after his interview, this Citigroup official testified
+                          that his memory of the transaction had been refreshed by review-
+                          ing certain emails and recalled giving his approval to the Sundance
+                          transaction, although he testified that he continued to be unable to
+                          recall other specific information about the final approval process,
+                          including whether the investment bank head finally approved the
+                          deal.83
+                            In any event, the Sundance transaction did close. When negative
+                          information about Enron began to emerge a few months later and
+                          questions began to arise about Enron’s solvency, Citigroup invoked
+                          the Sundance agreement provisions protecting it from loss and ac-
+                          tually terminated the Sundance partnership on or about November
+                          30, 2001, five months after it was established and two days before
+                          Enron filed for bankruptcy.84 At that time, Citigroup demanded
+                          that Enron buy out its Sundance interest for the $28.5 million
+                          Citigroup had ‘‘contributed’’ in cash and stock, and recovered this
+                          entire amount plus a return.85 Citigroup also terminated its $160
+                          million funding commitment. Citigroup’s actions showed that the
+                          partnership features had worked as intended to insulate its entire
+                          Sundance ‘‘investment’’ from loss.
+                            For participating in Sundance, Citigroup was apparently paid
+                          upfront fees of $725,000 as well as another $1.1 million return on
+                            80 Email from Shawn Feeney to Citigroup employee Andrew Lee (6/29/01), Bates CITI–SPSI
+                          0122944, Hearing Exhibit 333r.
+                            81 See email exchange between Citigroup employees Timothy Leroux and Andrew Lee, ‘‘RE:
+                          Sundance Approvals,’’ (6/6/01), Bates CITI–SPSI 0123806, Hearing Exhibit 333q (‘‘Would you
+                          happen to have a copy of the management approvals for the sundance trade (The Firm Invest-
+                          ments group needs it for their files.)’’ Response: ‘‘No . . . was given a verbal go ahead. . . . Un-
+                          derstand signed is to follow’’). See also email from Mr. Fox to Mr. MacDonald (6/04/01), Bates
+                          CITI–SPSI 0124617 (‘‘[A]ny feed back from Carpenter on Sundance; apparently the deal closed.’’)
+                            82 Bushnell interview (12/03/02).
+                            83 Bushnell testimony at the Subcommittee hearing held on December 11, 2002.
+                            84 Caplan interview.
+                            85 Id. See also email from Mr. Caplan (11/30/01), Bates CITI–SPSI 0125273, Hearing Exhibit
+                          333y. Although the Sonoma shares Citigroup had contributed to Sundance had likely lost value
+                          in light of Enron’s bankruptcy and Citigroup had allegedly assumed any risk of loss, Citigroup
+                          secured the full $20 million that the shares had supposedly been worth when contributed five
+                          months earlier.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00028   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 29 ===
+                                                                           25
+
+                          its $28.5 million ‘‘investment.’’ 86 When Sundance facilitated pre-
+                          payment of the $194 million loan in Bacchus, Citigroup received
+                          another $1.5 million in ‘‘breakage costs.’’
+                             Analysis. Like Fishtail and Bacchus, the Sundance transaction
+                          involves deceptive accounting and sham investments. One key ob-
+                          jective of the Sundance transaction was to keep Enron’s pulp and
+                          paper assets off its balance sheet by placing them in a separate
+                          joint venture. But the lack of risk associated with Citigroup’s so-
+                          called ‘‘investment’’ in Sundance indicates that this joint venture
+                          did not qualify for off-balance sheet treatment and should have
+                          been consolidated with Enron.
+                             To qualify as an unconsolidated 50–50 joint venture, Sundance
+                          needed two investors contributing capital in accordance with the
+                          Andersen 4:1 joint venture capitalization guidelines. In addition, a
+                          minimum three percent of the total capitalization had to be an
+                          independent equity investment at risk for the duration of the joint
+                          venture. The evidence indicates, however, that none of Citigroup’s
+                          Sundance investment was ever truly at risk in light of Citigroup’s
+                          right to dissolve the partnership at will prior to any loss, and the
+                          additional safeguards provided for each of its ‘‘investments.’’ In the
+                          case of its $160 million ‘‘unfunded commitment,’’ Citigroup funds
+                          could be used only after Enron’s entire $750 million investment
+                          was exhausted. In the case of its $28.5 million contribution of cash
+                          and stock, Enron’s investment not only had to be exhausted before-
+                          hand, but the $28.5 million also had to be kept in segregated, liq-
+                          uid financial instruments to which Citigroup had preferred access.
+                          In the end, none of Citigroup’s funding commitment was actually
+                          used and all of its cash and stock contributions were returned on
+                          short notice, in cash, with interest. Without Citigroup’s sham in-
+                          vestment in Sundance, Enron would have had to consolidate this
+                          partnership on its balance sheet, include in its financial results all
+                          of the Sundance pulp and paper assets, and disclose to investors
+                          and financial analysts all of the debt associated with this business
+                          venture.
+                             Senior Citigroup officials opposed participating in Sundance, call-
+                          ing its accounting ‘‘aggressive’’ and a ‘‘franchise risk.’’ Just prior to
+                          the transaction’s closing, three senior Citigroup officials warned
+                          against proceeding with it. The final go-ahead on the transaction
+                          was provided verbally by an unidentified Citigroup official. The
+                          final approval documents cannot be located.
+                             Sundance’s aggressive accounting troubled senior Citigroup offi-
+                          cials who were analyzing the transaction on its own terms. But its
+                          aggressive nature deepens when Sundance, Bacchus, and Fishtail
+                          are analyzed as a whole. When viewed together, the three trans-
+                          actions result in a disguised six-month loan advanced by Citigroup
+                          to facilitate Enron’s deceptive accounting. In effect, Enron borrowed
+                          $200 million from Citigroup in December 2000; arranged for a shell
+                          company, the Caymus Trust, to use the funds to ‘‘purchase’’ the
+                          Fishtail assets for $200 million, without disclosing that Enron was
+                          guaranteeing the full purchase price; used this sham sale to inflate
+                          its 2000 cash flow from operations by $200 million and its earnings
+                          by $112 million; and then quietly returned the $200 million to
+                            86 Information provided to the Subcommittee by Citigroup.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00029   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 30 ===
+                                                                           26
+
+                          Citigroup six months later via Sundance.87 This view of the three
+                          transactions as a disguised $200 million loan is further strength-
+                          ened by evidence indicating that Citigroup never truly placed any
+                          money at risk in the Bacchus or Sundance transactions, it profited
+                          from the transactions by obtaining fees and interest charges rather
+                          than equity rewards, and the $200 million seems, in the end, to
+                          have been cycled through all three transactions for the sole busi-
+                          ness purpose of facilitating Enron’s financial statement manipula-
+                          tion.
+                          SLAPSHOT
+                             The Facts. The fourth and final transaction, Slapshot, took
+                          place on June 22, 2001, soon after creation of the Sundance joint
+                          venture. Undertaken in connection with a loan to refinance a Cana-
+                          dian paper mill associated with Sundance, Slapshot was designed
+                          as a tax avoidance scheme that centered on utilizing a one-day, $1
+                          billion ‘‘loan’’ from Chase to generate approximately $60 million
+                          (U.S.) in Canadian tax benefits, as well as $65 million in financial
+                          statement benefits for Enron.88
+                             Enron first purchased the Canadian paper mill in March 2001
+                          for about $350 million.89 Three months later, in June, Enron con-
+                          tributed the paper mill to the Sundance joint venture with the ex-
+                          plicit understanding that Enron would soon be refinancing the pur-
+                          chase price.90
+                             Chase presented Enron with a refinancing proposal that would
+                          not only provide Enron with a loan from a consortium of banks to
+                          pay for the paper mill but also, at the same time, provide an Enron
+                          affiliate with significant Canadian tax benefits.91 In exchange for
+                             87 In fact, when setting up the mechanics of the Sundance transaction, Enron personnel
+                          cautioned Enron against muddying the timing by reacquiring its old Fishtail assets too soon.
+                          One internal Enron email instructed: ‘‘Fishtail CANNOT touch Enron’s Balance Sheet before
+                          Sundance is deconsolidated.’’ ‘‘Sundance Steps,’’ Enron document (5/16/01), Bates
+                          ECa000022315, Hearing Exhibit 328a.
+                             88 When Chase first presented the Slapshot structure to Enron, it projected Canadian tax ben-
+                          efits totaling $125 million in U.S. dollars. ‘‘Results and Cash Flows,’’ Chase document (undated),
+                          Bates SENATE FL–00939. When Enron performed its own analysis of potential tax savings
+                          using more conservative assumptions, it calculated that, over five years, Enron would obtain ‘‘a
+                          tax savings NPV of US$60 million’’ and ‘‘net income improvement over the next five years of
+                          NPV US$65 million.’’ ‘‘Slapshot Savings,’’ Enron document (undated), Bates ECa000195947.
+                          NPV means net present value. Another Enron document estimated that Slapshot would benefit
+                          Enron’s Corp’s ‘‘earnings per share computation’’ by $120 million over the five-year life of the
+                          project. Email from Enron tax expert Morris Clark to Enron North America’s chief financial offi-
+                          cer Joseph Deffner (undated), Bates EC 003005056.
+                             89 Enron bought the mill, located in Quebec City, Canada, from Daishowa, Inc. and provided
+                          the initial financing. When purchased by Enron, the mill was named the Daishowa Forest Prod-
+                          ucts paper mill; Enron renamed it Stadacona. Enron also established a new company,
+                          Campagnie Papiers Stadacona (‘‘CPS’’), as the immediate owner of the mill. According to a tax
+                          opinion letter, CPS had originally borrowed approximately $346 million from Enron to purchase
+                          the Stadacona paper mill. The larger $375 million loan amount in the Slapshot transaction was
+                          apparently provided not only to refinance the mill’s purchase price, but also to pay Enron a $29
+                          million ‘‘structuring fee.’’ See tax opinion letter from Skadden, Arps, Slate, Meagher & Flom
+                          LLP And Affiliates (‘‘Skadden Arps’’) to Enron Wholesale Services, (8/15/01), Bates EC2
+                          000047056, Hearing Exhibit 352.
+                             90 Since Stadacona was a key joint venture asset, Citigroup demanded and was given the right
+                          to approve any refinancing arrangement to ensure that Enron did not encumber the asset.
+                          Enron accordingly informed Citigroup about the Slapshot structure, and Citicorp apparently reg-
+                          istered no objection to Enron’s participation in it. Enron also paid Citigroup a fee to reimburse
+                          it for the costs associated with Citicorp’s analyzing the Slapshot structure.
+                             91 Since 2000, Enron had been working to design a tax structure that would enable it to use
+                          Canadian tax laws to generate tax deductions. Enron halted that effort when it decided to use
+                          the Chase structure. See email, with attachments, between Enron employees Stephen Douglas
+                          and Davis Maxey (12/11/00) (no Bates number), Hearing Exhibit 362, Enron disk produced to
+                          the Subcommittee; and Subcommittee interview with Stephen Douglas (12/3/02).
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00030   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 31 ===
+                                                                           27
+
+                          about $5.6 million in fees and other remuneration, Chase provided
+                          Enron with access to its ‘‘proprietary’’ structured finance arrange-
+                          ment 92 utilizing a sham $1 billion ‘‘loan’’ intended to be issued and
+                          repaid within a matter of hours. Although the $1 billion ‘‘loan’’ was
+                          to be issued and repaid on the same day, the Slapshot structure
+                          was designed to enable Enron’s Canadian affiliate to claim tax de-
+                          ductions and reap other Canadian tax benefits as if a real $1 bil-
+                          lion loan had been issued and remained outstanding. See Figure 4
+                          for a diagram of the Slapshot structure.
+                             Chase provided Enron with a step-by-step description of how the
+                          Slapshot transaction was to be executed.93 These instructions de-
+                          scribed a complex series of structured finance arrangements using
+                          shell corporations, fake loans, and complex funding transfers across
+                          international lines. They also showed how the $1 billion in sup-
+                          posed loan proceeds would be repaid later the same day. Chase per-
+                          sonnel actively assisted in planning and completing the specified
+                          steps in the Slapshot deal. The transaction itself actually took
+                          place on June 22, 2001.
+                             The transaction involved multiple Chase and Enron affiliates and
+                          SPEs, a number of which were established specifically to facilitate
+                          the Slapshot deal. Chase established its key entity in the trans-
+                          action, Flagstaff Capital Corporation (‘‘Flagstaff’’), as a wholly-
+                          owned SPE in Delaware. Chase also organized a bank consortium
+                          made up of itself and three other large banks to issue the $375 mil-
+                          lion loan to refinance the paper mill.94 Enron established
+                          Compagnie Papiers Stadacona (‘‘CPS’’) in Canada as the direct
+                          owner and operator of the Stadacona paper mill.95
+
+
+
+
+                            92 A key Chase employee involved in Slapshot, Eric Peiffer, referred to it as a new ‘‘tax tech-
+                          nology.’’ Peiffer interview.
+                            93 See, for example, ‘‘Structured Canadian Financing Transaction Organizational Meeting,’’ (2/
+                          8/01), Bates SENATE FL–00887, Hearing Exhibit 344 (providing six-step description of Slapshot
+                          transaction); ‘‘Transaction Summary,’’ Chase document (undated), Bates SENATE FL–00909–14,
+                          Hearing Exhibit 338 (providing seven-step description).
+                            94 The bank consortium members were Chase, Royal Bank of Scotland, Industrial Bank of
+                          Japan, and Bank of Tokyo-Mitsubishi, each of which was responsible for an equal share of the
+                          $375 million loan.
+                            95 Enron then contributed CPS to the Sundance joint venture. Enron established CPS as a
+                          Nova Scotia Unlimited Liability Company (‘‘NSULC’’), which is a particular type of corporation
+                          in Canada. Enron did not own CPS directly, but created a longer ownership chain which in-
+                          cluded two Dutch corporations it had established, BV–1 and BV–2. As indicated in the diagram,
+                          Sundance owned BV–1 which owned BV–2 which directly owned CPS. Enron also created two
+                          additional NSULCs, Hansen and Newman, that were both wholly-owned by CPS. Enron created
+                          this complex maze of companies, CPS, BV–1, BV–2, Hansen, and Newman, as part of the
+                          Slapshot tax avoidance structure in order to take advantage of differences between U.S. and Ca-
+                          nadian tax laws. For example, since Hansen, Newman, and CPS were NSULCs, U.S. tax law
+                          would allow Enron to treat them as pass-through entities for U.S. Federal income tax purposes.
+                          Similarly, under U.S. tax law, BV–1 was a controlled foreign corporation, while BV–2 could be
+                          treated as a disregarded entity for tax purposes. A tax opinion letter issued to Enron by
+                          Skadden Arps supporting the proposed structure explained, in part, that ‘‘since CPS itself [will
+                          be] treated as a branch of BV–2, which in turn [will be] treated as branch of BV–1, Newman
+                          and Hansen will both be treated as disregarded entities all of the assets and liabilities of which
+                          [will be] owned by BV–1 for United States federal income tax purposes.’’ At the same time, Ca-
+                          nadian law viewed CPS, Hansen, and Newman as separate companies which would increase the
+                          amount of potential Canadian tax benefits.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00031   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 32 ===
+                                                                           28
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00032   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 33 ===
+                                                                           29
+
+                            On June 22, Chase advanced the bank consortium’s $375 million
+                          loan to Flagstaff to be repaid in five years and one day.96 On the
+                          same day, Enron entered into a complex series of derivatives with
+                          Flagstaff, in essence, to guarantee repayment of the $375 million.97
+                          According to one internal Chase document, these derivatives gave
+                          Chase and the bank consortium ‘‘credit support equivalent to a
+                          guarantee . . . that does not constitute a guarantee for GAAP ac-
+                          counting for Enron’s purposes, thus providing an accounting benefit
+                          to Enron.’’ 98 In addition, by authorizing a ‘‘daylight overdraft’’ on
+                          the Flagstaff account, Chase ‘‘loaned’’ its affiliate, Flagstaff, an-
+                          other $1.039 billion.99
+                            At the conclusion of these initial steps, Flagstaff held two loans
+                          totaling approximately $1.4 billion ($375 million from the bank
+                          consortium and $1.039 billion from Chase).100 Flagstaff imme-
+                          diately loaned the entire amount to an Enron affiliate, Hansen, in
+                          exchange for a note.101
+                            Upon receiving the $1.4 billion from Flagstaff, Hansen imme-
+                          diately ‘‘loaned’’ the money to its parent, CPS, another Enron affil-
+                          iate.102 CPS then directed $375 million of the $1.4 billion to Enron.
+                          CPS ‘‘loaned’’ the remaining $1.039 billion to an Enron subsidiary
+                          in Canada called Enron Canadian Power Company (‘‘ECPC’’).
+                            At the same time this loan activity was occurring, Hansen en-
+                          tered into an agreement with its fellow subsidiary, Newman.103
+                          This agreement obligated Newman to purchase 99.99 percent of
+                          Hansen’s shares in five years and one day for $1.4 billion, the same
+                          amount Hansen already ‘‘owed’’ to Flagstaff.
+                            Newman and Flagstaff then entered into an agreement whereby
+                          Newman immediately paid Flagstaff $1.039 billion in exchange for
+                          Flagstaff’s agreeing to assume Newman’s obligation to pay for Han-
+                          sen’s shares in five years and one day.104 The $1.039 billion New-
+                          man paid to Flagstaff had been provided to Newman by Enron for
+                             96 The loan was structured to be in excess of five years in order to qualify for certain with-
+                          holding tax benefits under Canadian tax law.
+                             97 Rather than a simple loan guarantee, Chase and Enron devised a complex set of derivatives
+                          involving a warrant, put option, and total return swap, which functioned together to support
+                          repayment of the $375 million loan. See email by Eric Peiffer (10/16/01), Bates SENATE FL
+                          004540, Hearing Exhibit 357k.
+                             98 ‘‘(Flagstaff) Transaction Summary,’’ Chase document (undated), Bates FL–00910, Hearing
+                          Exhibit 375. An Enron employee indicated that this transaction was structured so that Enron
+                          could avoid disclosure of the guarantee in its financial statement footnotes. A Chase representa-
+                          tive indicated that Enron told Chase it wanted to structure the transaction as a swap because
+                          it was concerned that a guarantee would require Enron to carry the mill on its books.
+                             99 According to a Skadden Arps opinion letter, despite the amount involved, ‘‘[n]o instrument
+                          was prepared to evidence the Day-Light Loan’’ from Chase to Flagstaff. Tax opinion letter from
+                          Skadden Arps to Enron Wholesale Services, (8/15/01), Bates EC2 000047058, Hearing Exhibit
+                          354.
+                             100 The total loan amount was $1,414,504,347, however, for ease of reference, the figure $1.4
+                          billion will be used in the following analysis.
+                             101 Hansen is a NSULC shell company established by Enron and wholly owned by CPS. The
+                          Hansen note set up a so-called ‘‘bullet loan’’ of five years and one day, which required Hansen
+                          to pay only interest on the loan for five years and then, on the last day of the loan, repay the
+                          principal in its entirety.
+                             102 Hansen ‘‘loaned’’ the funds to CPS on essentially the same terms as the ‘‘loan’’ between
+                          Hansen and Flagstaff. Apparently in an effort to make the two loans between Flagstaff and
+                          Hansen and between Hansen and CPS technically different and to allow Hansen to assert that
+                          its ‘‘business purpose’’ in entering into the transactions was to make money off its loan to its
+                          parent CPS, the former loan had an interest rate of 6.12 percent, and the latter an interest rate
+                          of 6.13 percent.
+                             103 Newman is another NSULC shell company established by Enron and, like Hansen, wholly
+                          owned by CPS.
+                             104 The parties calculated that $1.039 billion was the net present value of the $1.4 billion owed
+                          by Newman to Hansen in five years and one day.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00033   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 34 ===
+                                                                           30
+
+                          placement in an escrow account.105 Chase had been unwilling to re-
+                          lease its $1.039 billion daylight overdraft ‘‘loan’’ to Enron until it
+                          was sure that there was $1.039 billion in an escrow account avail-
+                          able to ensure Chase would recover its money within the same day.
+                          To accommodate Chase, Enron had secured its own $1.039 billion
+                          daylight overdraft authorization on an account it held at Citibank.
+                          Once these funds were wired from Citibank to an escrow account
+                          at Chase, Chase released the $1.4 billion in Flagstaff that would
+                          go up the chain to Hansen and CPS. Flagstaff also took possession
+                          of the Enron escrow funds and forwarded the money to Chase
+                          which used it to pay off the daylight overdraft it had issued at the
+                          beginning of the day.
+                            The net result of the Slapshot transaction is as follows.
+                               • In two offsetting transfers of funds that moved through
+                                 multiple bank accounts of Chase, Enron, and their affili-
+                                 ates, Chase issued a sham loan of $1.039 billion to
+                                 Enron and, on the same day, had Enron send $1.039 bil-
+                                 lion in escrow funds to Chase which used the escrow
+                                 funds to satisfy the sham loan. Chase’s alleged ‘‘loan’’
+                                 was never at risk, however, since Chase had required
+                                 Enron to transfer the funds to an escrow account at a
+                                 Chase bank, before Chase released any of the ‘‘loan’’ pro-
+                                 ceeds to Enron.
+                               • Hansen and Flagstaff exchanged obligations to pay each
+                                 other an identical amount, $1.4 billion, in five years and
+                                 one day. The legal documents explicitly authorized them
+                                 to set off the funds owed to each other.106
+                               • CPS was left with a net outstanding loan of $375 mil-
+                                 lion, to be repaid with interest, to the bank consortium
+                                 through Hansen and Flagstaff over five years and one
+                                 day. The loan was guaranteed by Enron through a com-
+                                 plex set of derivatives that did not show up as a loan
+                                 guarantee on Enron’s books.107
+                            Notwithstanding the reality that only $375 million was actually
+                          loaned to CPS, the transaction was structured in such a way as to
+                          allow CPS, for tax purposes, to act as if it were subject to a $1.4
+                          billion ‘‘loan’’ obligation that remained outstanding. The purpose
+                          was to circumvent the general principle in U.S. and Canadian tax
+                          law which allows companies to deduct only their loan interest pay-
+                             105 Enron sent the $1.039 billion to Newman in accordance with a series of transactions in-
+                          volving ECPC and other Enron affiliates. Enron’s corporate bank account at Citigroup was, thus,
+                          both the origination point and termination point for the two different chains of transfers involv-
+                          ing two separate amounts of $1.039 billion—Enron’s $1.039 billion in escrow funds and Chase’s
+                          $1.039 billion in ‘‘loan’’ proceeds.
+                               In the Newman-ECPC transaction, ECPC obtained Newman debenture shares. These de-
+                          benture shares were designed to provide monetary distributions which exactly mirrored the in-
+                          terest payable to CPS under the CPS–ECPC note. That meant ECPC was to pay interest on
+                          the note to CPS in an amount exactly equal to the distributions that ECPC was to receive from
+                          Newman, an entity wholly-owned by CPS. According to Enron, Canadian tax lawyers advised
+                          it that the expected interest and distributions needed to actually change hands among the par-
+                          ties, notwithstanding the fact that from ECPC’s perspective the net result was a wash.
+                             106 See ‘‘Credit Agreement,’’ (6/22/01), Bates JPM–14–00475, Hearing Exhibit 350, Section
+                          10.08 (‘‘Right of Setoff’’) at Bates JPM–14–00512.
+                             107 The transaction was also structured to allow CPS to account for the loan on its books by
+                          showing a net debt of $375 million, not $1.4 billion. See, for example, ‘‘Transaction Summary,’’
+                          (undated), Bates SENATE FL–00912, Hearing Exhibit 338.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00034   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 35 ===
+                                                                           31
+
+                          ments, but not their loan principal payments. The Chase structure
+                          was intended to enable CPS to claim to be entitled to a Canadian
+                          tax deduction for its entire amount of its payments on the $375
+                          million loan.
+                             The Chase-designed structure worked as follows. The transaction
+                          documents required CPS to make quarterly loan payments to Han-
+                          sen in the amount of approximately $22 million. Hansen was then
+                          to pay Flagstaff an identical amount, and Flagstaff was to pay the
+                          same amount to the bank consortium. The $22 million was equiva-
+                          lent to a payment of principal and interest, using a fixed 6.12 per-
+                          cent interest rate, on the existing $375 million loan. In five years
+                          and one day, these payments would reduce the $375 million loan
+                          to zero.
+                             At the same time, Chase and Enron had manipulated the size of
+                          the loans between Flagstaff and Hansen and between Hansen and
+                          CPS, as well as the interest rates on those loans, in such a way
+                          that the $22 million quarterly payment was also equivalent to an
+                          interest-only payment, using a fixed 6.13 percent interest rate, on
+                          the $1.4 billion loan. Under Canadian tax law, if CPS were to char-
+                          acterize the $22 million as an interest-only payment on an out-
+                          standing loan, it could deduct the full $22 million from its Cana-
+                          dian taxes. Assuming repayment of the loan in full, Enron cal-
+                          culated the total deductions and related Canadian tax benefits
+                          from the Slapshot transaction over five years to be in the range of
+                          $60 million.108 These Canadian tax benefits were also calculated to
+                          convey additional financial statement benefits for Enron totaling
+                          about $65 million.109 Another Enron document calculated that
+                          Slapshot was going to ‘‘positively [impact] Enron’s earnings per
+                          share computation by approximately $120 [million]’’ over the life of
+                          the transaction.110
+                             Prior to participating in Slapshot, Chase obtained a legal opinion
+                          from a Canadian law firm, Blake, Cassels & Graydon, LLP (‘‘Blake
+                          Cassels’’), supporting the Slapshot structure. Enron apparently re-
+                          lied on that opinion and ultimately obtained its own opinion from
+                          the same law firm.111 The opinion provided to Enron, which in-
+                          cluded caveats and warnings that did not appear in the law firm’s
+                          earlier opinion to Chase, noted that the Slapshot structure ‘‘clearly
+                          involves a degree of risk’’ and advocated proceeding only after pro-
+                          viding this warning:
+                             108 ‘‘Slapshot Savings,’’ Enron document (undated), Bates ECa000195947, Hearing Exhibit
+                          339. Enron indicated that this $60 million represented the net present value of the total tax
+                          savings over five years. See also Chase projection of tax and financial statement benefits, ‘‘Re-
+                          sults and Cash Flows,’’ Chase document (undated), Bates SENATE FL–00939, Hearing Exhibit
+                          343. In response to Subcommittee inquiries, Enron stated that its Canadian affiliates actually
+                          claimed ‘‘gross interest [tax] deductions’’ in Canada related to Slapshot totaling $124.9 million,
+                          but have since decided not to claim any additional Slapshot tax benefits in the future. Letter
+                          from Enron legal counsel, Skadden, Arps, Slate, Meagher & Flom LLP, to the Subcommittee
+                          (12/10/02), Hearing Exhibit 368.
+                             109 Id. Enron stated that a ‘‘tax depreciation delay’’ over five years would create a ‘‘deferred
+                          tax benefit, resulting in net income improvement over the next five years of NPV US$65 mil-
+                          lion.’’ (Emphasis omitted.)
+                             110 Email from Enron tax expert Morris Clark to Enron North America’s chief financial officer
+                          Joseph Deffner (undated), Bates EC 003005056.
+                             111 See tax opinion letters from Blake Cassels to Chase Securities Inc. (11/7/00) (no Bates
+                          number), Hearing Exhibit 353, and from Blake Cassels to Enron North America Corp. (6/23/01),
+                          Bates EC2 000047037, Hearing Exhibit 352. The tax opinion Enron received from Blake Cassels
+                          is dated one day after the transaction closed; Enron told the Subcommittee it was informed oral-
+                          ly of its substance prior to the closing. Subcommittee interview of Stephen Douglas (12/3/02).
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00035   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 36 ===
+                                                                           32
+
+                               ‘‘We would further caution that in our opinion it is very
+                               likely that Revenue Canada will become aware of [the
+                               Slapshot transactions] and, upon becoming aware of them,
+                               will challenge them under [the Canadian anti-tax avoid-
+                               ance statute]. It is also, in our view, likely that such a
+                               Revenue Canada challenge would not be resolved in the
+                               Courts at a level below that of the Federal Court of Ap-
+                               peal. It is therefore likely that Enron will be faced with
+                               the decision as to whether to pursue the matter through
+                               the Courts or to attempt to reach a settlement with Rev-
+                               enue Canada pursuant to which it would receive a reduced
+                               Canadian tax benefit.’’
+                          In short, Enron’s own tax counsel warned that Slapshot would like-
+                          ly result in litigation over Enron’s tax liability and Enron would
+                          have to determine whether to settle the expected dispute with Rev-
+                          enue Canada.
+                            Internal documentation indicates that both Enron and Chase
+                          were concerned about the Canadian tax authorities disallowing the
+                          Slapshot structure and so took steps to keep information that
+                          would provide insights about the transaction to a minimum. For
+                          example, in analyzing how to structure an interest rate swap,
+                          Chase and Enron jointly considered three alternatives, two of
+                          which were described as disadvantageous, in part, because they
+                          would produce a ‘‘potential road map’’ of the transaction for Rev-
+                          enue Canada. Chase and Enron chose the third alternative which
+                          was explicitly described as advantageous, in part, because it pro-
+                          vided ‘‘no road map’’ for Revenue Canada.112
+                            In another document, an Enron tax attorney cautioned against
+                          Enron’s repatriating into the United States in 2001, certain funds
+                          associated with certain ‘‘preferred shares’’ that had been exchanged
+                          in the Slapshot transaction in 2001, because this same-year trans-
+                          action would undermine Slapshot’s alleged business purpose. An
+                          email written by the Enron tax attorney states that the Slapshot
+                          tax analysis ‘‘is predicated on two significant factors’’: (1) dem-
+                          onstrating a business purpose for why Enron’s Canadian affiliates
+                          received $1 billion from Enron and CPS; and (2) demonstrating
+                          that ‘‘Enron Canada did not have a tax-avoidance motive for enter-
+                          ing into Project Slapshot.’’ 113 The email goes on to state:
+                               ‘‘It should be noted that repaying the Preferred Shares
+                               within the same year as entering into Project Slapshot
+                               puts pressure on both of the above factors and, as such,
+                               puts the integrity of the transaction at risk. . . . [I]t is cer-
+                               tainly our position that the greater period of time that we
+                               can interpose before repaying any of the Preferred Shares,
+                               the greater the likelihood of withstanding an attack by
+                               Revenue Canada on audit.’’ 114
+
+                            112 ‘‘Structured Canadian Financing Transaction Organizational Meeting,’’ (2/8/01), Bates
+
+                          SENATE FL–00897, Hearing Exhibit 344.
+                            113 Email from Enron tax expert Morris Clark to Enron North America’s chief financial officer
+
+                          Joseph Deffner (undated), Bates EC 003005056.
+                            114 Id.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00036   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 37 ===
+                                                                           33
+
+                          This analysis shows, again, Enron’s ongoing concerns that Revenue
+                          Canada would ‘‘attack’’ Slapshot and that the Slapshot structure
+                          itself would not withstand legal challenge.
+                             Chase and Enron also included in the Slapshot legal documents
+                          a ‘‘recharacterization rider’’ to take effect only if Canadian tax au-
+                          thorities successfully challenged the underlying tax structure and
+                          reclassified the payments from Hansen to Flagstaff as payments of
+                          principal and interest on the $375 million loan. Should such an
+                          event occur, Chase and Enron agreed to ‘‘recast any principal paid
+                          in excess of 25% of the recharacterized loan as instead being a loan
+                          from [Hansen] to Flagstaff.’’ 115 This rider was designed to avoid
+                          payment of certain Canadian withholding taxes that would be trig-
+                          gered if Hansen’s loan principal payments were to exceed a speci-
+                          fied 25 percent limit. The rider’s solution was to reclassify the Han-
+                          sen loan payments to Flagstaff as the reverse—as the extension of
+                          loans by Hansen to Flagstaff—the exact opposite of what was in-
+                          tended under the Slapshot structure. This rider’s existence is addi-
+                          tional evidence, not only that Chase and Enron had real concerns
+                          that Revenue Canada would overturn Slapshot, but also that both
+                          were willing to continue to use deceptive strategies to avoid pay-
+                          ment of Canadian taxes.
+                             Analysis. Chase constructed and sold Slapshot as a tax avoid-
+                          ance structure whose core transaction was a deception—a sham $1
+                          billion loan that had no economic rationale or business purpose
+                          apart from generating deceptively large tax deductions.116 The
+                          funds never performed any function other than to transverse mul-
+                          tiple bank accounts in a single day to create the appearance of a
+                          loan that was, in fact, an illusion. The funds were issued without
+                          the paperwork that normally accompanies a billion-dollar bor-
+                          rowing. Chase’s $1 billion was never even truly at risk since Chase
+                          had required Enron to place the same amount in a Chase escrow
+                          account before Chase issued the original ‘‘loan’’ to Enron.
+                             The deceptive nature of the Slapshot transaction is clear from its
+                          component parts. Serial billion-dollar-plus loans were issued to
+                          newly created shell companies such as Flagstaff and Hansen which
+                          had virtually no capitalization, assets, or business operations to
+                          justify the lending. Another key transaction was a complex stock
+                          agreement between Hansen and Newman, two companies that
+                          were incapable of negotiating at arms-length because both were
+                          Enron-sponsored SPEs, wholly owned by the same Enron affiliate,
+                          CPS, with identical company officers. With respect to another key
+                          series of transactions, Flagstaff and Hansen clearly intended to set-
+                          off their identical $1.4 billion obligations to each other, but this in-
+                          tent to set-off is never mentioned in the transaction documents due
+                          to legal advice that it would undercut the supposed arms-length
+                            115 ‘‘5/25   Recharacterization Rider,’’ (undated), Bates SENATE FL–00075, Hearing Exhibit
+                          351.
+                            116 In one interview, Enron contended that one of the purported business purposes of the
+                          transactions was that the various Chase and Enron affiliates were profiting from the loans they
+                          exchanged. Douglas interview. However, the interest rate difference in the loans between Flag-
+                          staff and Hansen and between Hansen and CPS differed by only 0.01 percent. In addition, Han-
+                          sen and CPS were both Enron affiliates, contradicting any business rational for them to profit
+                          from each other. Moreover, the loan activity among these entities had no function apart from
+                          the $1.039 billion loan. All of the loans and related transactions were engineered by Chase and
+                          Enron to function together.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00037   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 38 ===
+                                                                           34
+
+                          nature of the transaction.117 Still another decision on interest rates
+                          appears to have been made not to rationalize or maximize the ben-
+                          efits to any one party but to avoid providing Revenue Canada with
+                          a useful ‘‘road map’’ to the transaction. Chase and Enron even
+                          agreed to recast the very nature of key transactions to salvage lim-
+                          ited Canadian tax benefits in the event Canadian tax authorities
+                          refused to recognize Hansen as paying off a $1.4 billion ‘‘loan.’’
+                             Many features of Slapshot—the sham billion-dollar loan that had
+                          no business purpose apart from generating tax benefits, the con-
+                          trived set offs between key parties, and the involvement of multiple
+                          shell companies lacking ongoing business operations—raised the
+                          possibility that the entire Slapshot transaction would be invali-
+                          dated under Canada’s statutory general anti-avoidance rule. De-
+                          spite the legal risks associated with Slapshot, Chase and Enron
+                          proceeded with the transaction.118 If Enron had not gone bankrupt,
+                          the large tax deductions generated by Slapshot would likely have
+                          been used to shelter the paper mill’s income from the payment of
+                          Canadian corporate income tax. Lower tax liabilities would have
+                          then translated into stronger Enron financial statements. Enron’s
+                          bankruptcy, however, interrupted Slapshot just five months after it
+                          began producing the promised benefits.
+                             Chase was paid more than $5 million for designing and orches-
+                          trating Slapshot. Enron could not have completed this transaction
+                          without the initiative and enthusiastic backing of a major financial
+                          institution with the resources to issue and move a $1 billion day-
+                          light overdraft through multiple bank accounts across international
+                          lines in a single day. Without Chase’s willing efforts to design,
+                          fund, and execute the incredibly complex transactions involved,
+                          whose details had to be carefully planned and coordinated, Enron
+                          would not have been able to make use of this deceptive tax strat-
+                          egy.
+                          SUBCOMMITTEE HEARING
+                            On December 11, 2002, the Subcommittee held a hearing exam-
+                          ining Fishtail, Bacchus, Sundance, and Slapshot. The Sub-
+                          committee heard from four panels of witnesses, including Citigroup
+                          and Chase officials, a banking and securities expert, and key Fed-
+                          eral agencies.
+                            The first panel consisted of Citigroup officials who were directly
+                          involved in the Bacchus and Sundance transactions, as well as a
+                          senior Citigroup official responsible for setting corporate policy. The
+                          Citigroup witnesses were Charles O. Prince III, Chairman and
+                          Chief Executive Officer of Citigroup’s Global Corporate and Invest-
+                          ment Bank; David C. Bushnell, Managing Director and head of
+                          Global Risk Management for the Global Corporate and Investment
+                            117 A Chase email stated: ‘‘As Flagstaff’s payment to [Hansen] is conditional on [Hansen’s] re-
+                          paying, Chase can just choose to invoke set-off which is Chase’s full intention—to direct [Han-
+                          sen] to keep its money rather than repay the loan, in return for Flagstaff not having to pay
+                          cash for the [Hansen] shares. Clearly there is no benefit to Chase/Flagstaff to have the money
+                          move. As discussed, the lawyers (especially the tax lawyers) are hesitant to state explicitly
+                          Chase’s intent to set-off or to require this set off, as they wish to keep the documents as ‘arm’s
+                          length’ as possible rather than tie them together (which additional ‘intent to set-off’ language
+                          would do).’’ Email between Chase employees Eric Peiffer and Kathryn Ryan (date illegible but
+                          possibly 2/28/01), Bates SENATE FL–02335, Hearing Exhibit 357c.
+                            118 In fact, one Chase employee informed the Subcommittee that it has marketed the Slapshot
+                          structure to at least 15 to 20 other companies in addition to Enron.
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00038   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 39 ===
+                                                                           35
+
+                          Bank; Richard Caplan, Managing Director and Co-Head of the
+                          Credit Derivatives Group at Salomon Smith Barney North Amer-
+                          ican Credit; and William T. Fox III, Managing Director of the Glob-
+                          al Power & Energy Group at Citibank. Mr. Caplan participated di-
+                          rectly in both the Bacchus and Sundance transactions. Mr. Fox was
+                          directly involved in the Bacchus transaction and was the key
+                          Citigroup official who communicated with Mr. Fastow regarding
+                          the verbal guarantee of the ‘‘equity investment’’ in the Caymus
+                          Trust. Mr. Bushnell, as head of risk management, was directly in-
+                          volved in the Sundance transaction. At the hearing, Mr. Bushnell
+                          disclosed that, although he had strongly urged Citigroup not to
+                          participate in Sundance, he may have provided the final oral ap-
+                          proval that allowed this project to proceed. Mr. Prince, who was not
+                          directly involved in either transaction, described a number of
+                          Citigroup’s post-Enron reforms, including a new corporate policy to
+                          prevent Citigroup’s participation in any transaction in which the
+                          transaction’s net effect is not accurately disclosed to a company’s
+                          investors and analysts.
+                             The second panel consisted of Chase officials who were directly
+                          involved in the Slapshot transaction, as well as senior officials re-
+                          sponsible for setting Chase’s corporate policy. The Chase officials
+                          were Michael E. Patterson, Vice Chairman of J.P. Morgan Chase
+                          & Co.; Andrew T. Feldstein, Managing Director and Co-Head of
+                          Structured Products and Derivatives Marketing at J.P. Morgan
+                          Chase & Co.; Robert W. Traband, Vice President of Chase in Hous-
+                          ton; and Eric N. Peiffer, Vice President of Chase in New York. Mr.
+                          Peiffer played a key role in developing and marketing the Slapshot
+                          tax structure. Mr. Peiffer and Mr. Traband dealt directly with
+                          Enron to design and carry out the Slapshot transaction examined
+                          in this report. Mr. Feldstein, who was not directly involved in
+                          Slapshot and is the new head of the Chase division carrying out
+                          structured finance and derivatives transactions, described Chase’s
+                          renewed commitment to the principles of integrity and trans-
+                          parency in its structured finance and derivative transactions. Mr.
+                          Patterson, who was also not directly involved in Slapshot, de-
+                          scribed a number of Chase’s post-Enron reforms, including a new
+                          transaction review committee, which he heads, to prevent Chase’s
+                          participation in transactions that facilitate deceptive accounting or
+                          carry other reputational risks. The Chase witnesses also testified
+                          at the hearing that Chase would no longer market the Slapshot tax
+                          structure or participate in transactions similar to Slapshot.
+                             The third panel at the hearing consisted of testimony from
+                          Muriel Siebert, who was the first woman member of the New York
+                          Stock Exchange, the first woman Supervisor of Banking for the
+                          State of New York, and the current owner and president of a bro-
+                          kerage house. Ms. Siebert testified that, since Enron’s collapse, her
+                          business had seen individual investors leave the stock market alto-
+                          gether because ‘‘they did not trust the system.’’ She expressed great
+                          concern about the deceptive transactions discussed in the hearing
+                          and the need to initiate reforms to prevent U.S. financial institu-
+                          tions from facilitating deceptive accounting or tax transactions.
+                             The fourth and final panel consisted of top Federal regulators at
+                          the Federal Reserve, Securities and Exchange Commission (‘‘SEC’’),
+                          and Office of the Comptroller of the Currency (‘‘OCC’’). The wit-
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00039   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 40 ===
+                                                                           36
+
+                          nesses were Richard Spillenkothen, Director of the Division of
+                          Banking Supervision and Regulation at the Federal Reserve; An-
+                          nette Nazareth, Director of the Division of Market Regulation at
+                          the SEC; and Douglas W. Roeder, Senior Deputy Comptroller for
+                          Large Bank Supervision at the OCC. These witnesses indicated
+                          that a relatively small universe of financial institutions—for exam-
+                          ple, less than ten of the national banks overseen by the OCC—en-
+                          gage in the type of complex structured finance transactions exam-
+                          ined in this report. They also acknowledged a regulatory gap that
+                          now exists in overseeing these transactions, since the SEC does not
+                          generally regulate banks, and the bank regulators do not generally
+                          oversee accounting practices. All three witnesses agreed with the
+                          testimony of the Federal Reserve that banks should not ‘‘engage in
+                          borderline transactions that are likely to result in significant
+                          reputational or operational risks to the banks.’’ The witnesses also
+                          described their existing regulatory efforts to address the issues
+                          raised in the hearing and their plans for additional actions in the
+                          future. Among other measures, the Federal Reserve has begun a
+                          review of structured finance products which it plans to complete
+                          within a few months. All three witnesses expressed a readiness to
+                          consider joint efforts to prevent U.S. financial institutions from aid-
+                          ing or abetting accounting fraud by their clients.
+                          SUBCOMMITTEE RECOMMENDATIONS
+                             The four transactions discussed in this report, Fishtail, Bacchus,
+                          Sundance, and Slapshot, are examples of the complex, deceptive
+                          transactions that have become Enron’s signature. None of the four
+                          could have been completed without the backing and active partici-
+                          pation of a major financial institution willing to facilitate a client’s
+                          deceptive accounting or tax transactions. The evidence compiled in
+                          this report and the December hearing, as well as in the two earlier
+                          Subcommittee hearings in July, show that some major U.S. finan-
+                          cial institutions deliberately misused structured finance techniques
+                          to help Enron engage in deceptive accounting or tax strategies, and
+                          were rewarded with millions of dollars in fees or favorable consid-
+                          eration in other business dealings. The resulting loss of investor
+                          confidence in the honesty and integrity of U.S. companies and fi-
+                          nancial institutions is an ongoing problem that requires additional
+                          attention and action.
+                             Based upon the evidence before it, including more than two mil-
+                          lion pages of subpoenaed documents; numerous interviews with
+                          Enron, Andersen, Citigroup, Chase, Merrill Lynch, and other par-
+                          ties; consultations with multiple finance, accounting, and tax ex-
+                          perts; and the records associated with the Subcommittee hearings
+                          on July 23, July 30, and December 11, 2002, the U.S. Senate Per-
+                          manent Subcommittee on Investigations makes the following rec-
+                          ommendations.
+                             (1) Joint Review of Structured Finance Products and
+                             Transactions. The Federal Reserve, OCC, and SEC should im-
+                             mediately initiate a one-time, joint review of banks and securities
+                             firms participating in complex structured finance products with
+                             U.S. public companies to identify those structured finance prod-
+                             ucts, transactions, or practices which facilitate a U.S. public com-
+                             pany’s use of deceptive accounting in its financial statements or
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00040   Fmt 6602   Sfmt 6602   83559.TXT   SAFFAIRS   PsN: SAFFAIRS
+
+=== PAGE 41 ===
+                                                                           37
+
+                             reports. By June 2003, these agencies should issue joint guidance
+                             on acceptable and unacceptable structured finance products,
+                             transactions and practices. By the end of 2003, the Federal Re-
+                             serve, OCC and SEC should each take all necessary steps to en-
+                             sure the financial institutions they oversee have stopped partici-
+                             pating in unacceptable structured finance products, transactions,
+                             or practices.
+                             (2) SEC Policy Statement: The SEC should issue a regulation,
+                             guidance, or other policy document stating that it is the SEC’s
+                             policy to take enforcement action against a financial institution
+                             that offers a deceptive financial product to, or participates in a
+                             deceptive financial transaction with, a U.S. publicly traded com-
+                             pany, thereby aiding or abetting that company’s inclusion of ma-
+                             terial false or misleading information in its financial statements
+                             or reports.
+                             (3) Unsafe and Unsound Practice: Upon issuance of an SEC
+                             regulation, guidance or other policy statement under Rec-
+                             ommendation (2), the Federal Reserve and OCC should promptly
+                             instruct their bank examiners, as part of their routine bank ex-
+                             aminations, to evaluate a bank’s structured finance activities to
+                             determine whether such activity appears to constitute a violation
+                             of the SEC policy and, if so, to declare that activity also con-
+                             stitutes an unsafe and unsound banking practice. In addition, the
+                             Federal Reserve and OCC should instruct their bank examiners
+                             to utilize the agency’s full panoply of regulatory and enforcement
+                             tools to require any such bank to cease engaging in any such un-
+                             safe and unsound practice. In this way, for the first time, Federal
+                             bank regulators will be able to exercise regulatory authority
+                             within their jurisdiction to deter banks from aiding or abetting
+                             deceptive accounting, because such activities will constitute an
+                             unsafe and unsound banking practice. In addition, such Federal
+                             Reserve and OCC actions will help ensure that a meaningful
+                             mechanism is introduced into routine Federal bank examinations
+                             to deter banks’ future misuse of structured finance transactions
+                             that aid or abet deceptive accounting.
+
+                                                                           Æ
+
+
+
+
+VerDate 11-MAY-2000   07:36 Jan 09, 2003   Jkt 000000   PO 00000   Frm 00041   Fmt 6602   Sfmt 6011   83559.TXT   SAFFAIRS   PsN: SAFFAIRS

@@ -1,0 +1,2746 @@
+
+=== PAGE 1 ===
+                              UNITED STATES DISTRICT COURT
+                               SOUTHERN DISTRICT OF TEXAS
+                                   HOUSTON DIVISION
+
+
+                                              §
+UNITED STATES SECURITIES                      §
+AND EXCHANGE COMMISSION,                      §
+                                              §
+                       Plaintiff,             §
+                                              §      Civil Action No. H-04-0284 (Harmon)
+       v.                                     §
+                                              §      SECOND AMENDED COMPLAINT
+KENNETH L. LAY,                               §
+JEFFREY K. SKILLING,                          §      JURY DEMANDED
+RICHARD A. CAUSEY,                            §
+                                              §
+                                              §
+                       Defendants.            §
+                                              §
+
+       Plaintiff Securities and Exchange Commission (the “Commission”) for its Second
+
+Amended Complaint alleges as follows:
+
+                                           SUMMARY
+
+       1.      Kenneth L. Lay, Jeffrey K. Skilling, and Richard A. Causey, all former senior
+
+executives of Enron, engaged in a multi-faceted scheme to defraud in violation of the federal
+
+securities laws. From at least 1999 through late 2001, Lay, Skilling, Causey, and others
+
+manipulated Enron’s publicly reported financial results and made false and misleading public
+
+statements about Enron’s financial condition and its actual performance. As an objective and
+
+result of their scheme to defraud, Lay, Skilling, Causey, and others made millions of dollars in
+
+the form of salary, bonuses, and the sale of Enron stock at prices they had inflated by fraudulent
+
+means. Skilling and Causey made at least $103 million and $23 million, respectively, in illicit
+
+gains. Lay also made millions of dollars in illicit gains, and was unjustly enriched when he
+
+=== PAGE 2 ===
+secretly dumped massive amounts of his own Enron stock at the same time he falsely portrayed
+
+that all was well at Enron. Although defendants owed fiduciary duties to act in the best interests
+
+of their company and shareholders, their scheme to defraud revealed in the end a troika of
+
+executives who acted for their own personal gain, leaving in their wake a bankrupt company,
+
+employees on the street, and worthless stock in the hands of shareholders and investors they had
+
+fooled.
+
+          2.   The Commission requests that this Court permanently enjoin Lay, Skilling, and
+
+Causey from violating the federal securities laws cited herein, prohibit each permanently and
+
+unconditionally from acting as an officer or director of any issuer of securities that has a class of
+
+securities registered pursuant to Section 12 of the Securities Exchange Act of 1934 (“Exchange
+
+Act”) or that is required to file reports pursuant to Section 15(d) of such Act, order each to
+
+disgorge all ill-gotten gains, to pay civil penalties, to have the amount of such penalties added to
+
+and become part of a disgorgement fund for the benefit of the victims of their unlawful conduct,
+
+and order such other and further relief as the Court may deem appropriate.
+
+                                 JURISDICTION AND VENUE
+
+          3.   The Court has jurisdiction over this action pursuant to Sections 21(d), 21(e), and
+
+27 of the Exchange Act [15 U.S.C. §§ 78u(d) and (e) and 78aa] and Sections 20(b), 20(d)(1) and
+
+22(a) of the Securities Act of 1933 (“Securities Act”) [15 U.S.C. §§ 77t(b), 77t(d)(1) and 77v(a)].
+
+          4.   Venue lies in this District pursuant to Section 27 of the Exchange Act [15 U.S.C.
+
+§ 78aa] and Section 22 of the Securities Act [15 U.S.C. § 77v(a)] because certain acts or
+
+transactions constituting the violations occurred in this District.
+
+          5.   In connection with the acts, practices, and courses of business alleged herein, Lay,
+
+
+                                                 -2-
+
+=== PAGE 3 ===
+Skilling, and Causey, directly or indirectly, made use of the means and instruments of
+
+transportation and communication in interstate commerce, and of the mails and of the facilities of
+
+a national securities exchange.
+
+       6.      Lay, Skilling, and Causey, unless restrained and enjoined by this Court, will
+
+continue to engage in transactions, acts, practices, and courses of business as set forth in this
+
+Second Amended Complaint or in similar illegal acts and practices.
+
+                                          DEFENDANTS
+
+       7.      Kenneth L. Lay resides in Houston, Texas. Lay served as the Chairman of the
+
+Board of Directors of Enron (the “Board”) from its formation in 1986 until January 23, 2002. He
+
+was the Chief Executive Officer (“CEO”) of Enron from 1986 until February 2001 and from
+
+August 14, 2001 until January 23, 2002. Lay resigned from the Board on February 4, 2002. Lay
+
+presided as Chairman at board meetings, where the Board reviewed Enron’s performance and
+
+financial condition. Lay, however, did not fully disclose to the Board at various times certain
+
+negative information concerning Enron that he was aware of and possessed at the time he sold
+
+shares of Enron stock. Lay also attended meetings of the Board’s Finance Committee, the Audit
+
+and Compliance Committee, and the Executive Committee, where the company’s operations and
+
+financial condition were discussed. In his capacity as CEO, Lay had oversight of Enron’s
+
+business units and supervised the senior executives and managers of these units. Lay regularly
+
+attended management meetings with these individuals and others, where the business and
+
+financial condition of Enron and its business units were discussed. Lay signed Enron’s annual
+
+reports filed on Form 10-K with the SEC. Lay also signed quarterly and annual management
+
+representation letters to Enron’s auditors, registration statements for the offer and sale of
+
+
+                                                 -3-
+
+=== PAGE 4 ===
+securities by Enron, and letters to shareholders accompanying Enron’s annual reports to
+
+shareholders.
+
+       8.       Jeffrey A. Skilling resides in Houston, Texas. He was employed by or acted as a
+
+consultant to Enron from at least the late 1980s through early December 2001. From 1979 to
+
+1990, Skilling was employed by the consulting firm of McKinsey & Co., where he provided
+
+consulting services to Enron. In August 1990, Enron hired Skilling. He held various positions at
+
+Enron and in January 1997, Enron promoted Skilling to President and Chief Operating Officer
+
+(“COO”) of the entire company, reporting directly to Lay. In February 2001, Skilling became
+
+CEO of Enron and retained his position as COO. On August 14, 2001, with no forewarning to
+
+the public, Skilling resigned from Enron. Lay resumed the CEO position at that time. Along
+
+with Lay, Skilling attended meetings of the Board’s Finance Committee, the Audit and
+
+Compliance Committee, and the Executive Committee, where the company’s operations and
+
+financial condition were discussed. Skilling also had oversight of Enron’s business units and
+
+supervised the senior executives and managers of these units. Skilling regularly attended
+
+management meetings with these individuals and others, where the business and financial
+
+condition of Enron and its business units were discussed. Skilling signed Enron’s annual reports
+
+filed on Form 10-K with the SEC and he signed quarterly and annual representation letters to
+
+Enron’s auditors. Skilling also signed registration statements for the offer and sale of securities
+
+by Enron, and letters to shareholders accompanying Enron’s annual reports to shareholders.
+
+       9.       Richard A. Causey resides in Houston, Texas. He was and is a certified public
+
+accountant and worked for Enron from 1991 through early 2002. From 1986 until 1991, while
+
+an employee of the accounting firm Arthur Andersen LLP (“Andersen”), Causey provided audit
+
+
+                                                 -4-
+
+=== PAGE 5 ===
+services to Enron on behalf of Andersen, Enron’s outside auditor. In 1991, Enron hired Causey
+
+as Assistant Controller of Enron Gas Services Group. From 1992 until 1997, Causey served in
+
+various executive positions at Enron. In 1998, Causey was made Chief Accounting Officer
+
+(“CAO”) of Enron and an Executive Vice-President. As Enron’s CAO, Causey managed
+
+Enron’s accounting practices and reported directly to Lay and Skilling. Lay, Skilling, and
+
+Causey, along with Enron’s Chief Financial Officer (“CFO”) Andrew S. Fastow, its Treasurer
+
+Ben F. Glisan, Jr., and others were the principal managers of Enron’s finances. Causey also was
+
+a principal manager of Enron’s financial disclosures to the investing public, and he regularly
+
+participated in conferences with investment analysts and in other public forums where he
+
+discussed Enron’s financial condition. Causey signed Enron’s annual reports on Form 10-K and
+
+its quarterly reports on Form 10-Q filed with the SEC, and signed quarterly and annual
+
+representation letters to Enron’s auditors. Causey also signed registration statements for the offer
+
+and sale of securities by Enron.
+
+                      ENTITIES AND OTHER PERSONS INVOLVED
+
+       10.     Enron Corp. is an Oregon corporation with its principal place of business in
+
+Houston, Texas. During the relevant time period, the common stock of Enron was registered
+
+with the Commission pursuant to Section 12(b) of the Exchange Act and traded on the New York
+
+Stock Exchange. Because it was a public company, Enron and its directors, officers, and
+
+employees were required to comply with federal securities laws, including rules and regulations
+
+requiring the filing of true and accurate financial information. Enron’s stock price was
+
+influenced by factors such as Enron’s reported financial information, credit rating, and its ability
+
+to meet revenue and earnings targets and forecasts. Investors considered this information
+
+
+                                                 -5-
+
+=== PAGE 6 ===
+important in making investment decisions. Likewise, the information was important to credit
+
+rating agencies and influenced the investment-grade ratings for Enron’s debt, which were critical
+
+to Enron’s ongoing business operations and ability to secure loans and to sell securities. During
+
+the time that defendants engaged in the fraudulent conduct alleged herein, Enron raised millions
+
+in the public debt and equity markets. Enron was the nation’s largest natural gas and electric
+
+marketer with reported annual revenue of more than $150 billion. Enron rose to number seven
+
+on the Fortune 500 list of companies. By December 2, 2001, when it filed for bankruptcy,
+
+Enron’s stock price had dropped in less than a year from over $80 per share to less than $1 per
+
+share.
+
+         11.   Enron Energy Services (EES) was formed by Enron in late 1996 to provide energy
+
+products and services to industrial, commercial, and residential customers in both regulated and
+
+deregulated markets. In Enron’s segment disclosures, EES’ results were reported separately as
+
+Retail Energy Services. Accurate segment disclosure reporting is required under generally
+
+accepted accounting principles and SEC rules and regulations for those companies operating in
+
+multiple significant industries.
+
+         12.   Enron Wholesale Services (Wholesale) was Enron’s largest business segment in
+
+2000 and 2001. Wholesale consisted of several business units, including Enron North America
+
+(ENA). ENA was the largest and most profitable business unit within Wholesale and included
+
+Enron’s wholesale merchant energy business across North America. In Enron’s segment
+
+disclosures, ENA’s results were reported within the Wholesale segment.
+
+         13.   Enron Broadband Services, Inc. (EBS) was a wholly-owned subsidiary of Enron
+
+engaged in the telecommunications business. Its two principal business lines were Bandwidth
+
+
+                                               -6-
+
+=== PAGE 7 ===
+Intermediation (the buying and selling of bandwidth) and Content Services (the delivery of high
+
+bandwidth, media rich content, such as video streaming, high capacity data transport, and video
+
+conferencing). EBS also made investments in companies with related technologies and with the
+
+potential for capital appreciation. In Enron’s segment disclosures, EBS’ results were reported
+
+separately as Broadband Services.
+
+       14.     Numerous other Enron executives and senior managers engaged in the scheme to
+
+defraud with Lay, Skilling, and Causey. The others included, but were not limited to, former
+
+Enron employees named as defendants in other Enron-related cases brought by the SEC in the
+
+Southern District of Texas: Fastow (SEC v. Fastow, H-02-3666); Glisan (SEC v. Glisan, H-03-
+
+3628); former ENA and EES CEO David W. Delainey, who reported to Skilling (SEC v.
+
+Delainey, H-03-4883); former ENA CAO Wesley Colwell, who reported to Causey and Delainey
+
+and managed the accounting for Enron’s wholesale energy business (SEC v. Colwell, H-03-
+
+4308); and former Enron Global Finance Managing Director Michael Kopper, who reported to
+
+Fastow and conducted structured finance activities for Enron (SEC v. Kopper, H-02-3127).
+
+Others assisted in various aspects of the scheme to defraud, including Merrill Lynch and certain
+
+of its employees (SEC v. Merrill Lynch, et al., HO-03-0946), J.P. Morgan Chase & Co. (SEC v.
+
+J.P. Morgan Chase & Co., H-03-2877), Canadian Imperial Bank of Commerce and certain of its
+
+employees (SEC v. CIBC, et al., H-03-5785); and Citigroup (In the Matter of Citigroup, Inc.,
+
+SEC Administrative Proceeding, File No. 3-11192).
+
+
+
+
+                                               -7-
+
+=== PAGE 8 ===
+                                   FACTUAL ALLEGATIONS
+
+The Objectives And Roots Of The Scheme To Defraud
+
+       15.     The objectives of the scheme to defraud carried out by defendants and others
+
+were, among other things, (a) to falsely present Enron as a profitable successful business; (b) to
+
+report recurring earnings that falsely appeared to grow by approximately 15 to 20 percent
+
+annually; (c) to meet or exceed the published expectations of industry analysts forecasting
+
+Enron’s reported earnings-per-share and other results; (d) to maintain an investment-grade credit
+
+rating; (e) to conceal the true magnitude of Enron’s losses, growing debt and other obligations;
+
+(f) to artificially inflate Enron’s stock price; and (g) to personally profit from the unlawful
+
+conduct, including gains from the sale of inflated Enron stock.
+
+       16.     As a result of the scheme to defraud carried out by defendants and others, the
+
+descriptions of Enron’s business and finances in public filings and public statements by
+
+defendants and others were false and misleading, and bore no resemblance to its actual
+
+performance and financial condition.
+
+       17.     Lay, Skilling, Causey, and others planned and carried out various parts of the
+
+scheme to defraud. They and others set annual and quarterly financial targets, including earnings
+
+and cash flow targets (“budget targets”), for Enron and each of its business units. The budget
+
+targets were based on the numbers necessary to meet or exceed analysts’ expectations, not on
+
+what could be realistically achieved by legitimate business operations.
+
+       18.     On a quarterly and year-end basis, Skilling, Causey, and others assessed Enron’s
+
+progress toward its budget targets. Often, Enron did not meet the budget targets from business
+
+operations and had earnings and cash flow shortfalls that were at times in the hundreds of
+
+
+                                                  -8-
+
+=== PAGE 9 ===
+millions of dollars. Within Enron, these shortfalls were referred to variously as the “gap,”
+
+“stretch,” and/or “overview.” When this occurred, the targets were met by unlawful means,
+
+including those described below.
+
+Use of Special Purpose Entities and LJM Partnership to Manipulate Financial Results
+
+       19.     As part of the scheme to defraud, Skilling, Causey, and others transferred assets
+
+and liabilities to Special Purpose Entities (“SPEs”). Under applicable accounting rules, Enron
+
+did not need to consolidate the SPE on its balance sheet if an independent investor had made a
+
+substantive investment in the SPE (at least 3% of the SPE’s equity), had control of the SPE, and
+
+had the risks and rewards of owning the SPE assets. Through the use of SPEs, Enron would,
+
+among other things, record earnings and cash flows while hiding debt.
+
+       Creation of LJM Partnership
+
+        20.    In June 1999, Skilling, Causey, and others sought and obtained the approval of the
+
+Board for Fastow to create and serve as the managing partner of an investment partnership
+
+named LJM Cayman, L.P. (LJM1). The Board later approved Fastow’s participation, as an
+
+equity and managing partner, in another even larger partnership used to fund SPEs by Enron
+
+named LJM2 Co-Investment, L.P. (LJM2) (the LJM entities are collectively referred to as “LJM”
+
+unless otherwise noted). These entities were created to invest in SPEs for Enron.
+
+       21.     As Skilling, Causey, and others knew, LJM was not a legitimate independent third
+
+party because Fastow controlled LJM. This permitted Skilling, Causey, and others to use LJM as
+
+Enron’s own vehicle for fraudulent means.
+
+       22.     From approximately July 1999 through October 2001, Enron entered into
+
+fraudulent transactions with LJM. The transactions enabled defendants and others to manipulate
+
+
+                                                -9-
+
+=== PAGE 10 ===
+Enron’s reported financial results by, among other things: (a) improperly moving poorly
+
+performing assets off-balance sheet; (b) concealing Enron’s poor operating performance; (c)
+
+manufacturing earnings through sham transactions; and (d) improperly inflating the value of
+
+Enron’s investment portfolio by backdating documents.
+
+       “Raptor” Hedges
+
+       23.     Beginning in the spring of 2000, Enron and LJM engaged in a series of financial
+
+transactions with four SPEs called Raptor I, Raptor II, Raptor III and Raptor IV (collectively
+
+referred to as the “Raptors”). The Raptors were capitalized mainly with Enron stock. Skilling,
+
+Causey, and others used the Raptors to manipulate fraudulently Enron’s reported financial
+
+results. They used Raptor I, among other things, to protect Enron from having to report publicly
+
+in its financial results decreases in value in large portions of its energy merchant asset portfolio
+
+and technology investments by purportedly hedging the value of those investments with an
+
+allegedly independent third party created by Enron and LJM, known as Talon.
+
+       24.     However, Skilling, Causey, and others knew the Raptor I structure was invalid
+
+under applicable accounting rules because Talon was not independent from Enron, since LJM2’s
+
+investment in Talon was not sufficiently at risk to qualify as outside equity. Causey and Fastow
+
+had an oral side-deal that LJM2 would receive its initial $30 million investment in Talon plus a
+
+profit of $11 million from Enron, all prior to Talon engaging in any of the hedging transactions
+
+for which it was created. Enron could then use Raptor I to manipulate Enron’s financial
+
+statements, including by allowing Enron employees to arbitrarily select the values at which the
+
+Enron assets were hedged with Talon. Skilling was informed of and approved the deal.
+
+       25.     The side-deal between Causey and Fastow was satisfied by Causey and others by
+
+
+                                                 -10-
+
+=== PAGE 11 ===
+manufacturing an illicit transaction between Enron and Talon that generated a $41 million
+
+payment to LJM2. Specifically, Causey and others caused Enron to purchase a “put” on its own
+
+stock from an entity involved in the “Raptor” structure, which had no business purpose for Enron
+
+but ensured that LJM2 received the complete return of its $30 million investment in the first
+
+“Raptor” structure, together with a profit of $11 million.
+
+       26.     After satisfying the side-deal by providing LJM2 with a guaranteed return of and
+
+on its investment, Enron began to use Raptor I to hedge the value of Enron’s assets. Enron
+
+employees manipulated the book values of Enron assets, many of which were expected to decline
+
+in value, before they were hedged, knowing that the Raptor I structure ensured that Enron would
+
+not suffer the financial reporting consequences of subsequent declines or large fluctuations in the
+
+value of those assets. Causey and others further used Raptor I fraudulently to promote Enron’s
+
+financial position by back-dating the effective date of the Raptor hedge to Enron’s advantage,
+
+capturing the all-time high stock value of one of the Enron assets, stock in a company named
+
+AVICI, at a time when they knew that value already had declined. The basic structure used in
+
+Raptor I, including the oral side-deal between Causey and Fastow, was repeated in the three
+
+successor fraudulent hedging devices known as Raptors II, III and IV.
+
+       27.     As with Raptor I, the Raptor successors were used to manipulate fraudulently
+
+Enron’s reported financial results. These vehicles did not offer true economic hedges. Because
+
+the vehicles were dependent on the value of Enron stock, if the price of Enron stock declined the
+
+hedging obligations of the Raptors could not be met, thus creating losses that would have to be
+
+reflected on Enron’s financial statements.
+
+       28.     Lay approved of the Raptors and understood they did not provide a true economic
+
+
+                                                -11-
+
+=== PAGE 12 ===
+hedge, and were designed and used solely to manipulate Enron’s financial statements. Lay was
+
+advised at various times in 2000 that the Raptors did not transfer economic risk and that a decline
+
+in Enron’s stock price would impair the hedging ability of the Raptors. By no later than August
+
+2001, Lay was aware that the Raptors were beyond salvage, and Enron’s stock price had declined
+
+below the minimum required for the Raptors to meet their hedging obligations. As a result of the
+
+fraudulent use of the Raptors, Enron reported over $1 billion in fictitious earnings on its books
+
+that should never have been recognized. Further, as set forth below, Lay made false and
+
+misleading public statements about the Raptors.
+
+       Manufacturing Earnings and Concealing Debt through Purported Sales to LJM
+
+       29.     In addition to the fraudulent Raptor hedging devices, Skilling, Causey, and others
+
+used LJM for other transactions, including purported asset sales. These generated reported
+
+earnings and cash flow and moved poorly performing assets temporarily off Enron’s balance
+
+sheet. Skilling, Causey, and others made undisclosed side agreements that guaranteed LJM
+
+against risk in certain of its transactions with Enron.
+
+               Cuiaba
+
+       30.     One such transaction involved LJM’s “purchase” of Enron’s interest in a company
+
+that was building a power plant in Cuiaba, Brazil (the “Cuiaba project”). On September 30,
+
+1999, when no true third-party buyer could be found, Skilling, Causey, and others caused Enron
+
+to “sell” a portion of Enron’s interest in the Cuiaba project to LJM for $11.3 million. LJM
+
+agreed to “buy” this interest only because Skilling, Causey, and others, in an undisclosed side-
+
+deal, agreed that Enron would buy back the interest, if necessary, at a profit to LJM. Based on
+
+this purported “sale,” which was in fact a asset parking or warehousing arrangement, Enron
+
+
+                                                 -12-
+
+=== PAGE 13 ===
+improperly recognized approximately $65 million in income in the third and fourth quarters of
+
+1999, income that was needed to meet budget targets and earnings-per-share goals.
+
+       31.        By 2001, the Cuiaba project was approximately $200 million over budget.
+
+Nonetheless, in the spring of 2001, Skilling, Causey, and others caused Enron to agree to buy
+
+back LJM’s interest in the Cuiaba project at a considerable profit to LJM, pursuant to the
+
+undisclosed oral side-deal. Enron did not disclose the repurchase agreement in its second quarter
+
+2001 financial reports because Skilling, Causey, and others did not want to announce the deal
+
+until after Fastow had sold his interest in LJM.
+
+                  Nigerian Barges
+
+       32.        In the fourth quarter of 1999, Enron engaged in a bogus asset sale to Merrill
+
+Lynch as part of an effort to meet budget targets. Enron “sold” Merrill Lynch an interest in
+
+electricity-generating power barges moored off the coast of Nigeria. When Enron was unable to
+
+find a true buyer for the barges by December 1999, it parked the barges with Merrill Lynch so
+
+that Enron could record $12 million in earnings and $28 million in cash flow needed to meet
+
+budget targets.
+
+       33.         Enron induced Merrill Lynch to enter into the Nigerian barge transaction by
+
+making a secret oral promise to Merrill Lynch that Merrill Lynch would receive a return of its
+
+investment plus an agreed-upon profit within six months. Skilling and Causey knew that the
+
+promise was concealed from Enron’s auditors and the public. Because Merrill Lynch’s equity
+
+investment was not sufficiently “at risk,” Enron should not have treated the transaction as a sale
+
+nor recorded earnings and cash flow from the transaction. In June 2000, Enron delivered on its
+
+promise to Merrill Lynch by producing LJM as a buyer for the Nigerian barges, while secretly
+
+
+                                                   -13-
+
+=== PAGE 14 ===
+promising to take LJM out of the Nigerian barge deal at a profit plus a large fee. The Nigerian
+
+barge transaction is the subject of the SEC’s action in this District against former Merrill Lynch
+
+executives involved in the transaction, SEC v. Merrill Lynch et al., No. H-03-0946.
+
+       Global Galactic
+
+       34.        Between approximately July 2000 and September 2000, Causey, Fastow, and
+
+others reached an agreement on fulfilling the unlawful side-deals between Enron and LJM.
+
+Fastow and Causey memorialized and initialed the agreement which came to be known as the
+
+“Global Galactic” agreement. Among other things, Causey and Fastow reaffirmed the side-deals
+
+between Enron and LJM concerning the Nigerian barges and Cuiaba. In addition, Causey and
+
+Fastow agreed that the put on ENE stock in Raptor I would be backdated to August 3, 2000,
+
+which would cause $41 million to be disbursed from Enron to LJM. LJM would then “invest”
+
+approximately $6 million of the $41 million in a Raptor vehicle in order to increase the alleged
+
+outside equity.
+
+Manufacturing Earnings by Fraudulently Manipulating Asset Values
+
+       35.        Enron executives and senior managers, including Causey, engaged in a pattern of
+
+fraudulent conduct designed to generate earnings needed to meet budget targets by artificially
+
+increasing the book value of certain assets in Enron’s large merchant asset portfolio. This
+
+portfolio included many interests in energy-related businesses that were not publicly traded and,
+
+therefore, were valued by Enron according to its own internal valuation models. Causey and
+
+others manipulated these models in order to produce results desired to meet earnings targets. For
+
+example, in the fourth quarter of 2000, under the direction of Causey and others, Enron personnel
+
+fraudulently increased the value of one of Enron’s largest merchant assets, Mariner Energy, by
+
+
+                                                -14-
+
+=== PAGE 15 ===
+$100 million in order to help close a budget gap.
+
+Use Of Disguised Loans As Asset “Sales” To Hide Debt And Report Fictitious Earnings
+
+       36.     As part of the scheme to manipulate Enron’s financial results and inflate its stock
+
+price, Causey, aided and abetted by others, caused Enron to obtain loans from certain financial
+
+institutions and report the transactions as sales of assets to generate purported cash from
+
+operating activities. These transactions were sham asset sales. Under Financial Accounting
+
+Standards 125 and 140, Enron “sold” assets to various SPEs it had established with various
+
+financial institutions (“FAS 140 transactions”). Through FAS 140 transactions, Causey and
+
+others removed those assets from Enron’s balance sheet and generated income and cash flow,
+
+while at the same time retaining control over the assets. From 1998 through 2001, Enron used
+
+FAS 140 transactions to obtain disguised loans, keeping more than $2.6 billion of debt off its
+
+balance sheet, generating more than $1 billion in earnings and $2 billion in operating cash flow.
+
+       37.     As Causey and others knew, Enron provided the Canadian Imperial Bank of
+
+Commerce (“CIBC”) with oral promises that its three percent “equity” in certain entities,
+
+including a vehicle known as “Hawaii 125-0,” which was used by Enron repeatedly to move
+
+assets off-balance sheet and record earnings, would be repaid. For example, in or about October
+
+2000, Fastow provided such an oral promise to CIBC. As Causey and others knew, under FAS
+
+140, these oral guarantees violated the off-balance sheet accounting treatment of assets “sold” to
+
+the vehicles because CIBC’s “equity” was not sufficiently at risk to qualify the vehicles as
+
+separate from Enron. Thus, the transactions did not qualify as asset sales and Enron should have
+
+disclosed the loans as debt on its financial statements, not as earnings and cash flow.
+
+
+
+
+                                                -15-
+
+=== PAGE 16 ===
+Concealing EES Failures
+
+       38.     In presentations to the investing public, Lay, Skilling, Causey, and others touted
+
+EES as a major reason for past and projected increases in the value of Enron’s stock. However,
+
+defendants and others were warned of major problems at EES in early 2001. For example, on
+
+January 22, 2001, Lay met with several Enron executives to discuss the problem of uncollectible
+
+receivables of EES in the amount of $500 million. Lay and others engaged in a fraudulent
+
+scheme to hide the uncollectible receivables by transferring them to ENA. The concealment of
+
+EES losses in this manner materially affected EES’ reported operating results.
+
+       39.     In the Spring of 2001, defendants and others were warned by EES management
+
+that EES was in extremely bad shape, was unlikely to meet its year end target of $225 million in
+
+income before interest and taxes (“IBIT”), and that EES would require at least a year before
+
+becoming truly profitable. Enron hid the magnitude of EES’ business failure from the investing
+
+public at the close of the first quarter 2001 by moving large portions of EES’ business – which
+
+Lay, Skilling, Causey, and others knew at the time otherwise would have to report hundreds of
+
+millions of dollars in losses – into Wholesale, which was the Enron business segment housing
+
+most of the company’s wholesale energy trading operations and income. As Lay, Skilling,
+
+Causey, and others knew, Wholesale would have ample earnings to absorb the losses that, in fact,
+
+were attributable to EES while at the same time continuing to meet Enron’s budget targets.
+
+       40.     Lay, Skilling, Causey, and others falsely explained to the public that the change in
+
+segment reporting was solely a means to improve efficiency. As detailed below, defendants also
+
+falsely stated publicly that EES was continuing to perform profitably and as expected, despite
+
+their knowledge of the hidden losses.
+
+
+                                               -16-
+
+=== PAGE 17 ===
+       41.     EES-related losses recorded by ENA materially affected Enron and Wholesale’s
+
+first quarter 2001 operating results. Had EES properly taken the losses, EES’ IBIT for the first
+
+quarter of 2001 would have decreased from a positive $40 million to a negative $694 million and
+
+would have likely caused Enron to miss its highly touted estimated IBIT of $225 million.
+
+Promoting EBS to Manufacture Earnings and Concealing Failure of EBS
+
+       42.     In 1999, technology stocks, traded at a premium compared to stocks of more
+
+traditional businesses. To take advantage of this market condition, Skilling and others sought to
+
+artificially pump up Enron’s stock price by heavily promoting EBS, a costly telecommunications
+
+business that ultimately failed.
+
+       “Project Grayhawk”
+
+       43.     Enron scheduled a high profile presentation to analysts about its new EBS
+
+business for January 20, 2000. Knowing the presentation would cause an immediate increase in
+
+Enron’s stock price, Skilling, Causey, and others constructed and approved a scheme to allow
+
+Enron to record and report approximately $85 million as a result of the spike in Enron’s stock
+
+price as earnings from operations.
+
+       44.     The scheme required a maneuver relating to Enron’s recorded earnings from a
+
+partnership interest it held in a large energy investment named JEDI. The investment holdings of
+
+the JEDI partnership consisted, in part, of Enron stock. When Enron’s stock price rose, the value
+
+of JEDI rose. However, in September 1999, JEDI hedged its Enron stock holdings through a
+
+transaction with Enron that fixed the value of the Enron stock held by JEDI at a set price. As a
+
+result of this hedge, an increase in the value of Enron stock held by JEDI did not increase JEDI’s
+
+income, and therefore did not generate a corresponding increase in Enron’s share of JEDI’s
+
+
+                                               -17-
+
+=== PAGE 18 ===
+income.
+
+       45.     In anticipation of an increase in Enron’s stock price from the January 20, 2000
+
+analyst conference, however, Enron executed a series of transactions, known as “Project
+
+Grayhawk,” that temporarily removed the JEDI hedge to allow JEDI’s income to increase if the
+
+price of Enron’s stock increased. After the price of Enron stock rose following the analyst
+
+conference, Enron and JEDI – through a new hedging arrangement – once again fixed the value
+
+of Enron stock held by JEDI, this time at a higher price.
+
+       46.     Enron removed the original hedge to enable Enron to recognize earnings brought
+
+about by the dramatic increase in Enron’s stock price as a result of its January 20, 2000 analyst
+
+conference. Skilling and others then improperly publicly reported this gain as recurring operating
+
+income in its energy business. Skilling and others failed to disclose that the income resulted
+
+from the increase in Enron’s own stock price caused by the false and misleading statements
+
+outlined below. Skilling, Causey, and others planned and approved the scheme.
+
+       January 20, 2000 Analyst Conference
+
+       47.     At the January 20, 2000 analyst conference, Skilling and others knowingly made
+
+false and misleading statements about EBS. Skilling stated, among other things, that EBS “has
+
+already established the superior broadband delivery network”; that EBS has “built this network
+
+. . . and we are turning on the switch”; that the critical “network control software” was in Enron’s
+
+possession and incorporated and used in its network; and that Enron valued the business at $30
+
+billion, which Skilling called a “conservative” valuation. In Skilling’s presence, EBS’ co-CEO
+
+Joseph Hirko stated that EBS possessed advance network control software and that it was no
+
+“pipe dream.” In reality, EBS had neither the claimed broadband network in place, nor the
+
+
+                                                -18-
+
+=== PAGE 19 ===
+critical proprietary network control software to run it. The claims about EBS remained only
+
+unproven concepts and laboratory demonstrations, and Skilling was advised before the analyst
+
+conference that the network he publicly described would take years to complete and might never
+
+be realized. In addition, the valuation of the business was inflated by billions of dollars over
+
+internal and external valuations.
+
+       First Quarter 2000 Earnings from Enron’s Own Stock
+
+       48.      Skilling’s and others’ plan to boost Enron’s stock price by aggressively touting
+
+EBS, and to record earnings from that boost, succeeded. On January 11, 2000, the date on which
+
+Enron purportedly altered the original hedge on the Enron stock in JEDI as part of Project
+
+Grayhawk, Enron stock traded at approximately $47 per share. After the analyst conference on
+
+January 20, 2000, Enron stock rose to approximately $67 per share. The fraudulent Project
+
+Grayhawk maneuver allowed Enron to recognize, through JEDI, approximately $85 million in
+
+earnings from the manufactured stock price. Enron, Skilling, and others then misleadingly
+
+described these earnings in later presentations to analysts and in SEC filings as ordinary and
+
+recurring operating earnings from its energy business. Enron, Skilling, and others did not
+
+disclose Project Grayhawk to the investing public, nor did they disclose that approximately 20
+
+percent of the earnings of Enron’s energy business for the first quarter 2000 resulted solely from
+
+an increase in Enron’s own stock price.
+
+       Concealment of EBS Failure
+
+       49.      By late 2000, Skilling, Causey, and others knew that EBS was a struggling
+
+business that was hemorrhaging money. However, they took steps to hide this fact and falsify
+
+EBS’ financial results. For example, during 2000, Enron structured a series of misleading, one-
+
+
+                                                -19-
+
+=== PAGE 20 ===
+time financial transactions in EBS, known as Project Braveheart and Backbone Trust, that were
+
+designed to manufacture earnings and give the false impression that EBS would generate
+
+operating profits. Even with these transactions, EBS still was facing much larger than expected
+
+losses during the first quarter of 2001. In order to ensure that EBS did not record losses in the
+
+first quarter of 2001 that exceeded Enron’s annual budgeted loss target for EBS, and in order to
+
+ensure that the quarterly budgeted loss target for the first quarter 2001 was met, Causey and
+
+others fraudulently reduced EBS’ expenses for the first quarter of 2001. They did so by shifting
+
+numerous EBS costs off EBS’ books, changing the depreciable life of certain of EBS’ assets
+
+from five to ten years, and halving the bonus accrual for EBS employees.
+
+Manufacturing and Manipulating Reported Earnings through Improper Use of Reserves
+
+       Third Quarter 2000 through Third Quarter 2001
+
+       50.     During 2000 and 2001, the profitability of Enron’s energy trading business,
+
+primarily based in Wholesale, dramatically increased for various reasons, including rapidly rising
+
+energy prices in the western United States, especially in California. If disclosed to the public,
+
+this sudden and large increase in trading profits, which exceeded $1 billion, would have made it
+
+apparent that Wholesale’s revenues were tied to the market price of energy, meaning Enron was
+
+exposed to the risk of a decline in such prices. This would have revealed Enron as a speculative
+
+(and therefore risky) trading company. To conceal the extent and volatility of Enron’s energy
+
+trading profits, Skilling, Causey, and others fraudulently hid hundreds of millions of dollars in
+
+trading profits in reserve accounts maintained on an internal Enron ledger called “Schedule C.”
+
+By early 2001, these reserves contained over $1 billion in unreported earnings.
+
+       51.     Skilling, Causey, and others then fraudulently used funds in the “Schedule C”
+
+
+                                                -20-
+
+=== PAGE 21 ===
+reserve accounts to avoid reporting large losses in other areas of Enron’s business. For example,
+
+in the first quarter of 2001, Skilling, Causey, and others improperly used “Schedule C” reserves
+
+to conceal from the investing public hundreds of millions of dollars in losses within Enron’s EES
+
+business unit.
+
+       Second Quarter 2000
+
+       52.       In mid-July 2000, weeks after the end of the second quarter 2000, Skilling,
+
+Causey and others carried out a plan to publicly report a 34 cents earnings-per-share figure in the
+
+second quarter, as opposed to the 32 cents earnings per share figure predicted by analysts.
+
+Skilling and Causey were aware that Enron’s performance for this quarter, even after Enron
+
+manipulated its budget targets, did not support a 34 cents earnings-per-share figure.
+
+       53.       To achieve the fraudulent earnings-per-share figure, Skilling, Causey, and others
+
+caused a senior Enron executive to improperly release into earnings millions of dollars from a
+
+“prudency” reserve account in Enron’s energy trading business. This release of reserves, which
+
+had no legitimate business purpose, artificially increased the second quarter earnings-per-share
+
+figure and Enron’s stock price.
+
+“Prepays” – Use Of Disguised Loans To Fraudulently Inflate Cash Flows
+
+       54.       Enron, aided and abetted by certain financial institutions, manipulated its financial
+
+results through a series of structured transactions, called “prepays.” Enron used prepays to report
+
+loans as cash flow from operating activities, rather than financing activities in its balance sheet.
+
+By using prepays as a means to increase its operating cash flow, Enron was able to match its so-
+
+called mark-to-market earnings (paper earnings based on changes in the market value of certain
+
+assets held by Enron) with operating cash flow. Enron used this tool to convince analysts and
+
+
+                                                 -21-
+
+=== PAGE 22 ===
+credit rating agencies that its reported mark-to-market earnings were real, i.e., that the value of
+
+the underlying assets would ultimately be converted to cash. In addition, Enron failed to disclose
+
+that the prepays were actually debt and failed to disclose the extent to which Enron was using
+
+prepays in its balance sheet during relevant periods. As of April 30, 2001, Enron’s undisclosed
+
+prepays totaled $3.9 billion dollars.
+
+       55.     By no later than April 2001, by virtue of informative presentations on prepays to
+
+Lay by Fastow and others, Lay was aware of the use, importance, and magnitude of prepays to
+
+create cash flow; that the prepays were undisclosed debt; and that credit agencies were not told of
+
+the magnitude of Enron’s prepay obligations.
+
+Failure To Disclose Goodwill Impairment
+
+       56.     In or about October 2001, Lay, Causey, and others failed to disclose the
+
+substantial impairment to the goodwill value attributable to one of its major assets, Wessex
+
+Water Services. Goodwill is an asset created when one entity acquires another entity. Goodwill
+
+is initially calculated as the excess of the sum of the amounts assigned to assets acquired over the
+
+amounts of liabilities assumed in an acquisition. By August 2001, Lay, Causey, and others
+
+undertook to determine the probable impact of a new goodwill rule on Enron, because goodwill
+
+losses would need to be disclosed to the market via SEC filings in the third quarter of 2001.
+
+The new rule was Statement of Accounting Standard No. 142, “Goodwill and Other Intangible
+
+Assets” (FAS 142). FAS 142 eliminated a company’s ability to amortize or reduce goodwill
+
+gradually over a period of years. Instead, the new rule required a periodic assessment of the
+
+value of goodwill and any impairment loss.
+
+       57.     By September 2001, as Lay and Causey knew, Enron’s internal accountants had
+
+
+                                                -22-
+
+=== PAGE 23 ===
+determined that the amount of goodwill attributable to Wessex Water Services (“Wessex”) was
+
+approximately $700 million. Enron possessed a direct and indirect interest in Wessex, a water
+
+utility company purchased at a high cost of $2.4 billion. A rate cut imposed in April 2000
+
+affected the future revenue of Wessex and made its post-acquisition value dubious at best. By
+
+the beginning of October 2001, Enron’s internal accountants determined that Wessex’s goodwill
+
+was impaired and that Enron would have to disclose the impairment unless Enron was able to
+
+assert that the company would once again pursue a water growth strategy backed by Enron.
+
+Enron’s internal accountants had estimated that pursuing such a strategy would require Enron to
+
+expend between $1.5 and $28 billion.
+
+       58.     Lay and Causey knew that Enron did not intend to pursue a water growth strategy
+
+and that Enron did not have the necessary capital for such a pursuit. Lay and Causey also knew
+
+that disclosure of the impairment would be unfavorable to Enron’s financial statements and
+
+might have a negative impact on Enron’s precarious credit rating. Nevertheless, on or about
+
+October 12, 2001, Lay, Causey, and others falsely claimed, including in representations to its
+
+auditors, that Enron was committed to developing a water growth strategy and failed to disclose
+
+an impairment of Wessex goodwill.
+
+False and Misleading Representations to Investing Public
+
+       59.     In furtherance of the scheme to manipulate Enron’s financial results and inflate its
+
+stock price, Lay, Skilling, Causey, and others participated in the presentation of knowingly false
+
+and misleading statements about Enron’s financial results, the performance of its businesses, the
+
+manner in which its stock was and should be valued, and the sale of personally held Enron stock.
+
+These statements were disseminated to the investing public in conferences, employee meetings,
+
+
+                                               -23-
+
+=== PAGE 24 ===
+conference calls, press releases, interviews, SEC filings, and statements to members of the
+
+media.
+
+         First Quarter 2000 Analyst Conference Call
+
+         60.    On April 12, 2000, Enron held its quarterly analyst conference call to discuss its
+
+earnings for the first quarter of 2000. Skilling and Causey were among the senior Enron
+
+managers who prepared for and participated in the call. Skilling knowingly made false and
+
+misleading statements. Skilling stated that Enron’s Wholesale business recorded earnings of
+
+$220 million for the quarter; that those earnings were “attributable to increased earnings from
+
+Enron’s portfolio of energy-related and other investments;” that “this was a pretty good quarter
+
+for the energy-related investment business in contrast to the drag it was over the last year;” and
+
+that the upswing in earnings in Wholesale was “basically the performance of the existing asset
+
+portfolios.” Skilling omitted to disclose that approximately $85 million of the $220 million in
+
+earnings were unrelated to the operating performance of Enron’s energy business. Rather, as
+
+Skilling knew, through “Project Grayhawk,” these earnings were solely attributable to a scheme
+
+to generate earnings by manufacturing an increase in Enron’s own stock price.
+
+         Fourth Quarter 2000 Analyst Conference Call
+
+         61.    On January 22, 2001, Enron held its quarterly analyst conference call to discuss
+
+its earnings for the fourth quarter of 2000. Skilling and Causey were among the senior Enron
+
+managers who prepared for and participated in the call. Skilling knowingly made false and
+
+misleading statements including: “for Enron, the situation in California had little impact on
+
+fourth quarter results. Let me repeat that. For Enron, the situation in California had little impact
+
+on fourth quarter results.” He further stated that “nothing can happen in California that would
+
+
+                                                -24-
+
+=== PAGE 25 ===
+jeopardize” Enron’s earnings targets for 2001 and that California business was “small” for
+
+Enron. In reality, as Skilling knew, Enron reaped huge profits in 2000 from energy trading in
+
+California and concealed hundreds of millions of dollars of those earnings in undisclosed reserve
+
+accounts for later use. Also, by late January 2001, as Skilling knew, California utilities owed
+
+EES hundreds of millions of dollars that EES could not collect and these uncollectible
+
+receivables had been offset by large reserves concealed within Wholesale’s books.
+
+       62.     In support of Enron’s claims that EBS continued to be successful and a positive
+
+factor contributing to Enron’s stock price, a senior Enron manager misled analysts during the call
+
+about the source of EBS’ earnings in the fourth quarter of 2000. After being directed by Skilling
+
+to answer a question about the source of EBS’ earnings, the senior manager said that one-time,
+
+nonrecurring transactions such as sales of “dark fiber” and a “monetization,” or sale, of part of
+
+EBS’ nascent video-on-demand venture with the Blockbuster company accounted for only “a
+
+fairly small amount” of EBS’ earnings. In truth, as Skilling, Causey, and others knew, the sale of
+
+projected future revenues from the Blockbuster video-on-demand venture, which Enron
+
+abandoned just two quarters later, accounted for $53 million of EBS’ $63 million in fourth
+
+quarter 2000 earnings.
+
+       January 25, 2001 Analyst Conference
+
+       63.      Enron held its annual analyst conference in Houston on January 25, 2001. At that
+
+conference, Skilling and others knowingly made false and misleading statements, including: (a)
+
+Skilling called all of Enron’s major businesses, including EBS and EES, “strong franchises with
+
+sustainable high earnings power,” (b) Skilling said of EBS that “I think we have a solid position.
+
+Our network is in place. We have customers and specific procedures and [devices] for the
+
+
+                                                -25-
+
+=== PAGE 26 ===
+marketplace,” (c) Skilling asserted that Enron’s stock, which was then trading at over $80 per
+
+share, should be valued at $126 per share, attributing $63 of that alleged stock value to EBS and
+
+EES, and (d) Skilling stated that Enron was “not a trading business.”
+
+       64.     In reality, as Skilling knew, EBS was performing very poorly and had made little
+
+commercial progress in 2000; EBS personnel had recommended shutting down or selling EBS’
+
+network; EBS had few revenue prospects for the upcoming year; and EBS had an unsupportable
+
+cost structure that, without correction, could potentially lead to substantial losses well in excess
+
+of those Enron had publicly forecast. Skilling also knew that EES was an unsuccessful business
+
+as well. Its modest earnings during 2000 largely resulted from one-time sales of investments
+
+unrelated to its retail energy contracting business; its existing retail energy contracts were
+
+overvalued by hundreds of millions of dollars; and it had hundreds of millions of dollars of
+
+uncollectible receivables that Enron was concealing within Wholesale.
+
+       March 23, 2001 Analyst Conference Call
+
+       65.     Enron held a special analyst conference call on March 23, 2001 in an effort to
+
+dispel growing public concerns about Enron’s stock, which had fallen from over $80 per share to
+
+under $60 per share in less than two months. Skilling prepared for and participated in the call.
+
+Skilling knowingly made false and misleading statements, and omitted to disclose facts necessary
+
+to make his statements not misleading. Among other things, he stated that “Enron’s business is
+
+in great shape” and “I know this is a bad stock market but Enron is in good shape.” He stated
+
+that Enron was “highly confident” of its income target of $225 million for the year for EES, and
+
+that EES was seeing the “positive effect” of “the chaos that’s going on out in California.”
+
+       66.     Skilling further stated that EBS “is coming along just fine” and that the company
+
+
+                                                 -26-
+
+=== PAGE 27 ===
+was “very comfortable with the volumes and targets and the benchmarks that we set for EBS.”
+
+He said that EBS’ two profit-and-loss centers, intermediation and content services, were
+
+“growing fast” and that EBS was not laying off employees but rather “moving people around
+
+inside EBS” and that this was “very good news.” In reality, as Skilling knew, EBS was
+
+continuing to fail. Senior personnel at EBS had reported internally that the unit had an
+
+unsupportable cost structure and unproven revenue model. One senior EBS executive estimated
+
+that Enron would need to write-off (that is, record as a loss) approximately half of EBS’ $875
+
+million book value. EBS was laying off employees and Skilling had told employees based in
+
+Portland, Oregon that EBS would be centralized in Houston and jobs would be cut because of a
+
+“total meltdown” in the broadband industry.
+
+       First Quarter 2001 Analyst Conference Call
+
+       67.     Enron held an analyst conference call to discuss its first quarter 2001 results on
+
+April 17, 2001. Skilling and Causey were among the senior Enron managers who prepared for
+
+and participated in the call. Skilling made false and misleading statements in the call and
+
+omitted to disclose facts necessary to make his statements not misleading.
+
+       68.     Skilling talked about continued “big, big numbers” in EES’ energy contracting
+
+business. He falsely explained Enron’s movement of EES’ energy contract portfolio into
+
+Wholesale, omitting any reference to EES’ large losses or their transfer to Wholesale and stated,
+
+“[W]e have such capability in our wholesale business that we were -- we just weren’t taking
+
+advantage of that in managing our portfolio at the retail side. And this retail portfolio has gotten
+
+so big so fast that we needed to get the best -- the best hands working risk management there.”
+
+While Enron reported modest first quarter earnings for EES of $40 million, in reality, as Skilling
+
+
+                                                -27-
+
+=== PAGE 28 ===
+and Causey knew, EES was facing losses approaching one billion dollars and had concealed
+
+those losses in Wholesale.
+
+       69.     Skilling also made knowingly false and misleading statements, and omitted to
+
+disclose facts necessary to make his statements not misleading, about the success of EBS. He
+
+stated that “[o]ur network is now substantially complete” and that it “is just not the case” that
+
+Enron was reducing staff of EBS because it was getting out of the content services business.
+
+Skilling also stressed that the reported losses in the unit were on target and “anticipated” and that
+
+the unit’s capital expenditures were being reduced because it was “able to get access to
+
+connectivity without having to build it.” In reality, as Skilling knew, the cost-cutting measures at
+
+EBS were instituted because the unit was continuing to fail, and was incurring much larger than
+
+expected losses that could not be offset with projected future revenues.
+
+       70.     A senior Enron manager made further false and misleading statements about EBS
+
+in the call, including that revenues from selling portions of EBS’ content business, as opposed to
+
+recurring earnings from operations, were only “about a third” of EBS’ overall earnings and that
+
+EBS had only done “a little bit” of such sales in the past two quarters. In reality, as Skilling
+
+knew, the sale of a portion of EBS’ content business was the principal mechanism by which the
+
+unit had generated revenue in the last two quarters and accounted for the majority of EBS’
+
+earnings for the first quarter of 2001. Only a very small percentage of the unit’s revenues in
+
+either quarter was due to operations that could be expected to recur. Moreover, EBS had only
+
+been able to meet its target of $35 million in losses for the first quarter of 2001 through the
+
+combined efforts of the sale of portions of its content services business and the manipulation of
+
+the accounting for many of its expenses and allocations under the supervision of Causey.
+
+
+                                                -28-
+
+=== PAGE 29 ===
+       Second Quarter 2001 Analyst Conference Call
+
+       71.     Enron held an analyst conference call to discuss its second quarter 2001 results
+
+on July 12, 2001. Skilling and Causey were among the senior Enron managers who prepared for
+
+and participated in the call. Skilling made knowingly false and misleading statements about the
+
+condition of Enron, including that Enron had a “great quarter.” He further stated that EES “had
+
+an outstanding second quarter” and was “firmly on track to achieve our 2001 target of $225
+
+million” in earnings; that losses in EBS were due to “industry conditions” and “dried up” revenue
+
+opportunities; and that Enron’s “new businesses are expanding and adding to our earnings power
+
+and valuation, and we are well positioned for future growth.” A senior Enron manager in the
+
+presence of Skilling and Causey also misled analysts about the movement of EES’ losses into
+
+Wholesale, stating, “We just took the risk management functions and combined them because we
+
+just -- we were trying to get some more efficiency out of management of the overall risk
+
+management function.”
+
+       72.     In reality, as Skilling and the manager knew, by the close of the second quarter of
+
+2001, EBS had failed and its increased losses were because it had stopped the one-time sales of
+
+portions of its business that had previously been the only significant source of its earnings. EES
+
+was facing hundreds of millions of dollars in concealed losses. As a whole, Enron was less than
+
+five months from bankruptcy, and the accelerating pace of the company’s decline was well
+
+known to Lay, Skilling, and Causey.
+
+       August 14, 2001: Skilling Leaves Enron
+
+       73.     On July 13, 2001, Skilling unexpectedly told Lay he wanted to leave Enron
+
+because he could not do anything about Enron’s declining stock price. On August 13, 2001,
+
+
+                                               -29-
+
+=== PAGE 30 ===
+Skilling informed the Board that he was resigning for personal reasons. On August 14, 2001,
+
+Enron issued a press release, with Lay’s approval, that announced Skilling had resigned and
+
+stated that the resignation was for personal reasons. Lay took the title of CEO and continued his
+
+control and oversight of Enron.
+
+       74.     On the same day, despite his knowledge of substantial problems at Enron as
+
+described above, Lay made the following false and misleading statements to securities analysts in
+
+a conference call: (a) “there are absolutely no problems that had anything to do with Jeff’s
+
+departure . . . there are no accounting issues, no trading issues, no reserve issues . . . unknown,
+
+previously unknown problems, issues . . . I can honestly say that the company is probably in the
+
+strongest and best shape . . . that it’s probably ever been in” and (b) regarding EES “we’ve been
+
+doubling revenue and doubling income quarter on quarter, year on year for now about the last
+
+three years. We expect that to continue to grow very, very strong . . . [M]ost of us inside the
+
+company believe that the Enron Energy Services component could become as large or larger than
+
+our wholesale business within a 5 or 6 year period or so.”
+
+       August 16, 2001 Employee Meeting
+
+       75.     In an August 16, 2001 meeting, Lay made false and misleading statements to his
+
+own employees, fully aware that they were heavily invested in Enron stock, including in Enron’s
+
+401K plan. Lay stated: “Enron Energy Services just keeps banging away and just keeps growing
+
+at a tremendous rate . . . almost a doubling from second quarter last year to this year. And we’ve
+
+been kind of doing that systematically over the last four years . . . tremendous growth. Of course,
+
+revenue is growing. But a very, very solid business.”
+
+
+
+
+                                                 -30-
+
+=== PAGE 31 ===
+           August 20, 2001 Interview
+
+           76.   Despite his knowledge of substantial problems at Enron, Lay made the following
+
+false and misleading statements in an August 20, 2001 interview with Business Week Online: (a)
+
+“There are no accounting issues, no trading issues, no reserve issues, no previously unknown
+
+problem issues,” and (b) “There is no other shoe to fall . . . The company is probably in the
+
+strongest and best shape that it has even been in. There are no surprises. We did file our 10-Q a
+
+few days ago. And if there were any serious problems, they would be in there.” Lay also
+
+revealed his awareness of the legal implications of his conduct: “If there’s anything material and
+
+we’re not reporting it, we’d be breaking the law.”
+
+           Lay Learns Of Additional Problems, August-September 2001
+
+           77.   Lay became aware of additional negative information about Enron during the last
+
+two weeks of August 2001 and the first week of September 2001. In this time period, Lay was
+
+briefed by numerous Enron employees on Enron’s mounting and undisclosed financial and
+
+operational problems, including overvaluation of Enron’s assets and business units by billions of
+
+dollars.
+
+           78.   As a result of Enron’s deteriorating financial condition, Lay, Causey, and others
+
+privately considered a range of potential solutions, including mergers, restructurings, and even
+
+divestment of Enron’s pipelines, assets that Lay considered to be the crown jewels of the
+
+company.
+
+           79.   On or about August 23 and 28, 2001, Lay, Causey, and others participated in
+
+Management Committee meetings where reports were presented showing earnings shortfalls in
+
+virtually every Enron business unit, totaling approximately $1 billion. On September 6 and 7,
+
+
+                                                 -31-
+
+=== PAGE 32 ===
+2001, Enron’s Management Committee, including Lay and Causey, attended a retreat at The
+
+Woodlands resort near Houston, Texas. They discussed serious problems at Enron, including
+
+underperforming business units and troubled assets. Among other things, Lay, Causey, and
+
+others were involved in discussions regarding the need to take at least a $1 billion charge in the
+
+third quarter of 2001 and that Enron had committed an accounting error in the amount of $1.2
+
+billion.
+
+           80.   Throughout September 2001, Lay, Causey, and other Enron executives engaged in
+
+a series of high-level meetings to discuss the growing undisclosed financial crisis at Enron and
+
+the likely impact on Enron’s credit rating and stock price. Lay, Causey, and others learned that
+
+the total amount of losses attributable to Enron’s assets and business units was at least $7 billion.
+
+Also at this time, Lay, Causey, and others learned that Enron’s outside auditors changed its
+
+previous position regarding the accounting treatment of the Raptors. Enron’s auditors
+
+determined that Enron’s treatment of the Raptors violated clear accounting rules. Lay, Causey,
+
+and others were then faced with the prospect of restating Enron’s earnings and admitting the
+
+error.
+
+           September 26, 2001 Employee Forum
+
+           81.   Lay participated in an Enron employee on-line forum on September 26, 2001 and
+
+made the following false and misleading statements, including: (a) “[t]he third quarter is looking
+
+great. We will hit our numbers. We are continuing to have strong growth in our businesses, and
+
+at this time I think we’re positioned for a very strong fourth quarter,” (b) “we have record
+
+operating and financial results,” and (c) “the balance sheet is strong.”
+
+           82.   Lay also made false and misleading statements to his employees about his trading
+
+
+                                                -32-
+
+=== PAGE 33 ===
+in Enron stock. Despite the fact that during the prior two months he had made net sales of over
+
+$20 million in Enron stock to Enron, sales that he knew his employees did not know about, Lay
+
+falsely and misleadingly stated: “I have strongly encouraged our 16B officers to buy additional
+
+Enron stock. Some, including myself, have done so over the last couple of months and others
+
+will probably do so in the future . . . My personal belief is that Enron stock is an incredible
+
+bargain at current prices.”
+
+       October 12, 2001 Call To Credit Rating Agency
+
+       83.     On or about October 12, 2001, Lay made false and misleading statements to a
+
+representative of a prominent credit rating agency in a telephone call. Among other things, Lay
+
+stated that Enron and its auditors had “scrubbed” the company’s books and that no additional
+
+write-downs would be forthcoming. In fact, as Lay knew, Enron’s international assets were
+
+being carried on Enron’s books for billions of dollars in excess of their fair value. Lay also knew
+
+that he and other Enron employees had failed to disclose and would not report the $700 million
+
+Wessex goodwill impairment, and had falsely claimed to others, including Andersen, that Enron
+
+would pursue a growth strategy in the water business. In addition, as Lay knew, Enron’s auditors
+
+had not completed their work regarding asset valuations or goodwill and had not yet provided a
+
+final opinion regarding the necessity of additional write-downs.
+
+       Third Quarter 2001 Earnings Release – October 16, 2001
+
+        84.    By October 2001, Lay knew, among other things, that: (a) Enron had incorrectly
+
+accounted for the Raptor transactions, and that due to the massive accounting error, shareholders’
+
+equity needed to be reduced by $1.2 billion; (b) the Raptors were being terminated and,
+
+combined with other write-downs, this would result in an earnings charge of $1.01 billion; and
+
+
+                                                 -33-
+
+=== PAGE 34 ===
+(c) these two items were unrelated, and the $1.2 billion reduction to shareholders’ equity was
+
+required, whether or not the Raptors were terminated. Despite this knowledge, Lay made false
+
+and misleading statements about these items.
+
+       85.     On October 16, 2001, Enron issued an earnings release, reviewed and approved by
+
+Lay, that reported a “non-recurring” earnings charge of $1.01 billion, a majority of the charge
+
+relating to the unwind of certain vehicles. Lay did not disclose that the vehicles at issue were the
+
+Raptors. Lay knew that the characterization of the termination of the vehicles as “nonrecurring”
+
+losses, that is, a one-time or unusual earnings event, was erroneous and inconsistent with Enron’s
+
+past treatment of Raptor earnings as recurring operating earnings. Lay and others knowingly
+
+omitted any reference to the separate $1.2 billion equity reduction in the press release.
+
+       86.     Enron had a conference call with analysts on October 16, 2001 to discuss the
+
+earnings release. Lay, Causey, and others prepared for and participated in the call. Lay made
+
+false and misleading statements in the call. Lay again falsely described the hundreds of millions
+
+of dollars in losses as “nonrecurring.” Lay also falsely stated that “in connection with the early
+
+termination, shareholders’ equity will be reduced by approximately $1.2 billion.” Lay and
+
+Causey did not disclose that the vehicles unwound (as part of the $1 billion charge) were the
+
+Raptors nor disclose that the $1.2 billion equity reduction was principally due to a significant
+
+accounting error.
+
+       87.     In the same call, Lay made false and misleading statements regarding the
+
+valuation of Enron’s international assets. In response to questions regarding the value of Elektro,
+
+a Brazilian power plant, which Enron carried on its books in excess of $2 billion, Lay stated that
+
+“[w]e may well have that asset and operate that asset for quite some time. It’s not a bad asset,
+
+
+                                                -34-
+
+=== PAGE 35 ===
+it’s a good asset, just like a lot of the other assets in this portfolio.” This statement was
+
+misleading, in that Lay knew that Elektro was overvalued by as much as $1 billion and classified
+
+internally as a “troubled” asset.
+
+        88.     Lay further stated that Enron “and its outside auditors have recently completed our
+
+preliminary evaluation of goodwill.” Lay represented that, based upon that review, “up to $200
+
+million goodwill adjustment may be necessary, and will be recorded as required by the
+
+accounting principles in the first quarter of 2002.” In fact, as Lay knew, the adjustment did not
+
+include the impaired Wessex goodwill of approximately $700 million and Enron’s auditors had
+
+not completed even a preliminary evaluation of goodwill.
+
+        89.     Lay and other senior Enron managers hosted a series of meetings with analysts
+
+and large institutional investors after the announcement of Enron’s third quarter earnings results.
+
+In these meetings, Lay and the senior managers falsely and misleadingly portrayed EES as
+
+rapidly increasing in profitability, quarter to quarter and year to year. Lay additionally distributed
+
+materials at the meetings that falsely and misleadingly described the value of Enron’s
+
+international portfolio as $6.5 billion, when Lay knew this figure vastly overstated the true value
+
+of the international assets by billions of dollars.
+
+        October 23, 2001 Analyst Call
+
+        90.     In an effort to calm deepening public concern regarding the decline in Enron’s
+
+stock price, Lay and Causey prepared for and participated in an Enron analyst conference call on
+
+October 23, 2001. In that call, Lay made the following false and misleading statements: “[we’re]
+
+not trying to conceal anything. We’re not hiding anything,” “[w]e’re really trying to make sure
+
+that the analysts and the shareholders and the debt holders really know what’s going on here. So,
+
+
+                                                  -35-
+
+=== PAGE 36 ===
+we are not trying to hold anything back,” and “I’m disclosing everything we’ve found.” In
+
+response to questioning, Lay again falsely stated that the $1.2 billion reduction to shareholder
+
+equity was a result of “unwinding” certain vehicles, failing to disclose that the cause of the equity
+
+write-down was principally due to a massive accounting error.
+
+        October 23, 2001 Employee Meeting
+
+        91.     By October 2001, in addition to other problems known to Lay as described above,
+
+Lay knew that Enron had serious liquidity issues. Lay knew that Enron had been forced to offer
+
+its prized pipelines as collateral for a $1 billion bank loan. He also knew that the only source of
+
+liquidity was a $3 billion bank line of credit, which, if drawn, would highlight Enron’s worsening
+
+financial situation. Despite this knowledge, on October 23, 2001, Lay made false and misleading
+
+statements to his employees during an all-employee meeting. Lay falsely stated, “[o]ur liquidity
+
+is fine. As a matter of fact, it’s better than fine, it’s strong. . .” Three days later, Lay authorized
+
+the draw-down of the entire $3 billion line of credit.
+
+        92.     Lay also made misleading statements about Enron stock and its prospects. Lay
+
+misleadingly stated, “as sad as the current market price is – and I’ve certainly lost a substantial
+
+portion of my net worth and my family’s net worth – at current prices the market value [of
+
+Enron] is about $17 or $18 billion. It was $2 billion when we started in ‘85. But I also know
+
+that many of you who were a lot wealthier six to nine months ago are now concerned about the
+
+college education for your kids, maybe the mortgage on your house, maybe your retirement . . .
+
+But we’re going to get it back.” Lay also stated that he thought a fair price for Enron stock was
+
+in the $50-$60 range and “that doesn’t mean we can’t get back up to the $80s or $90s in the no-
+
+too-distant future.” At the time, Enron stock was trading at approximately $19.79 per share. Lay
+
+
+                                                  -36-
+
+=== PAGE 37 ===
+did not disclose that he had substantially reduced his personal exposure to the declining stock
+
+price, having sold over $65 million of Enron stock in 2001. Lay also knew, and failed to
+
+disclose, that he had no reasonable basis to forecast an increase in Enron’s stock price.
+
+       November 12, 2001 Analyst Call
+
+       93.     Lay participated in an analyst conference call with analysts on November 12,
+
+2001. During the call, Lay made the following false and misleading statements: “We don’t have
+
+anything we’re trying to hide . . . I’m disclosing everything we’ve found.” Lay failed to disclose
+
+all of the negative information about Enron that he was well aware of by this point in time.
+
+Collapse of Scheme
+
+       94.     For a time, the scheme to defraud succeeded and supported Enron’s stock price
+
+and its credit rating. In early 1998, Enron’s stock traded at approximately $30 per share. By
+
+January 2001, even after a 1999 stock split, Enron’s stock had risen to over $80 per share and
+
+Enron had become the seventh-ranked company in the United States, according to the leading
+
+index of the “Fortune 500.” Until late 2001, Enron maintained an investment-grade credit rating.
+
+However, the scheme quickly collapsed after Enron’s announcement on October 16, 2001
+
+revealed enormous losses. On October 22, 2001, Enron announced that it was the subject of an
+
+SEC investigation. The next day, Lay authorized Enron to enter into merger discussions with
+
+Dynegy, Inc. On October 29 and November 1, 2001, the two leading credit rating agencies
+
+downgraded Enron’s credit rating. On November 8, 2001, Enron announced its intention to
+
+restate its financial statements for 1997 through 2000 and the first and second quarters of 2001 to
+
+reduce previously reported net income by an aggregate of $586 million. On November 9, 2001,
+
+Enron filed an 8-K with a merger agreement signed by Lay announcing a merger between Enron
+
+
+                                                -37-
+
+=== PAGE 38 ===
+and Dynegy, which falsely stated, among other things, that Enron’s prior public filings were true
+
+and accurate. On November 21, 2001, Enron’s credit rating was downgraded to “junk” status.
+
+On December 2, 2001, Enron filed for bankruptcy, making its stock, which was trading at over
+
+$80 per share less than a year earlier, virtually worthless.
+
+False and Misleading Filings With The SEC
+
+       95.     In furtherance of the scheme to manipulate Enron’s financial results and inflate its
+
+stock price, Lay, Skilling, Causey, and others filed and caused to be filed with the SEC false and
+
+misleading reports of Enron, including:
+
+       Annual and Quarterly Reports
+
+       Form 10-Q for the Third Quarter 1999 (filed on or about November 15, 1999);
+
+       Form 10-K for the Fiscal Year 1999 (filed on or about March 30, 2000);
+
+       Form 10-Q for the First Quarter 2000 (filed on or about May 15, 2000);
+
+       Form 10-Q for the Second Quarter 2000 (filed on or about August 14, 2000);
+
+       Form 10-Q for the Third Quarter 2000 (filed on or about November 14, 2000);
+
+       Form 10-K for Fiscal Year 2000 (filed on or about April 2, 2001);
+
+       Form 10-Q for the First Quarter 2001 (filed on or about May 15, 2001);
+
+       Form 10-Q for the Second Quarter 2001 (filed on or about August 14, 2001)
+
+       Registration Statements
+
+       Form S-3 filed on or about April 4, 2000;
+
+       Form S-3 filed on or about June 15, 2000;
+
+       Form S-3 filed on or about July 19, 2000;
+
+       Form S-3 filed on or about January 26, 2001; and
+
+
+                                                 -38-
+
+=== PAGE 39 ===
+       Form S-3 filed on or about June 1, 2001 and Amendment dated July 13, 2001
+
+       Other
+
+       Form 8-K dated November 9, 2001
+
+       96.     The reports caused to be filed by Lay, Skilling, Causey, contained, among other
+
+things, materially false and misleading financial statements that overstated Enron’s actual
+
+revenues and earnings, understated Enron’s actual debt and expenses, and contained materially
+
+false and misleading management descriptions and analysis of Enron’s business.
+
+Defendants’ Illegal Gains
+
+       97.     As officers and/or directors of Enron, Lay, Skilling, and Causey each owed a
+
+fiduciary duty to Enron and its shareholders to act solely in the best interests of Enron and its
+
+shareholders. Lay, Skilling, and Causey also signed employment and/or consulting agreements
+
+with Enron in which each acknowledged this fiduciary duty and agreed that each owed a duty of
+
+trust and confidence to Enron, and that personal use of confidential information of Enron was
+
+prohibited. The employment and/or consulting agreements signed by Lay, Skilling, and Causey
+
+were in effect during the time period relevant to the Second Amended Complaint.
+
+       98.     Lay, Skilling, Causey, and others made illegal gains from the scheme to defraud in
+
+the form of salary, bonuses, and other forms of compensation. During 2001, Lay received a
+
+salary of $1 million, a bonus of $7 million, and $3.6 million in long term incentive payments, all
+
+proceeds of the scheme to defraud. Between 1998 and 2001, Skilling received at least $14
+
+million in salary and bonuses, all proceeds of the scheme to defraud. Between 1998 and 2001,
+
+Causey received more than $4 million in salary and bonuses, all proceeds of the scheme to
+
+defraud. Moreover, as detailed below, the defendants and others also made additional illegal
+
+
+                                                -39-
+
+=== PAGE 40 ===
+gains by selling large amounts of Enron stock at the inflated prices they engineered.
+
+       99.      Defendants’ trading in Enron stock also occurred while they were in possession of
+
+material non-public information, including information about Enron’s actual financial position
+
+and the performance of its business units as described above, that the stock price was inflated,
+
+and that Enron and its executives and senior managers, including defendants, had supplied and
+
+were continuing to supply materially false and misleading information to the investing public,
+
+including, but not limited to, Enron’s publicly reported financial results and public statements of
+
+Enron’s executives and senior managers. Defendants knew or were reckless in not knowing that
+
+the information they possessed was confidential and that trading while in possession of that
+
+information was a breach of a fiduciary duty or similar relationship of trust and confidence that
+
+they owed to Enron and its shareholders.
+
+       100.     By selling shares of Enron stock at the market price, defendants represented that
+
+the market price was a reliable way to value their shares, vouching for the integrity of Enron’s
+
+financial statements and the public statements they and others made about Enron’s financial
+
+condition. This representation was false and misleading as the market price was not a reliable
+
+indicator of value because that price had been materially distorted by defendants’ release of
+
+inaccurate information. Defendants intended that Enron and the market rely on the accuracy of
+
+the stock market price as a fair way to value their shares. A true picture of Enron as of the dates
+
+of defendants’ stock sales was far different than that represented in Enron’s financial reports and
+
+defendants’ public statements, leading defendants to receive unduly excessive value for their
+
+Enron shares.
+
+
+
+
+                                                -40-
+
+=== PAGE 41 ===
+       Lay’s Illegal Gains From Sales Of Enron Stock
+
+       101.    Lay profited from the scheme to defraud, in part, by selling large amounts of
+
+Enron stock at prices that did not reflect the true value of Enron stock. In 2001, Lay sold over
+
+$70 million in Enron stock to repay cash advances on an unsecured Enron line of credit. In
+
+addition, Lay amended two preexisting program trading plans to enable him to sell an additional
+
+$20 million in Enron stock. Lay’s gains and losses avoided from the sales constitute illegal gains
+
+resulting from the scheme to defraud.
+
+               Lay’s Sales Of Enron Stock Back To Enron
+
+       102.    Lay’s unsecured line of credit allowed him to borrow up to $4 million (later
+
+increased to $7.5 million) directly from Enron. In May 1999, at Lay’s request, Enron permitted
+
+Lay to repay amounts due on the line of credit in shares of Enron stock, to be valued at the
+
+closing price on the date he gave notice of his intent to repay. Lay preferred this method of
+
+repayment because, among other things, he could avoid disclosure of his stock sales at the time
+
+the sales occurred. All repayments by Lay were through sales of Enron stock to the company.
+
+       103.    From January 25, 2001 to November 27, 2001, Lay took advances on his line of
+
+credit in the total amount of $77,525,000. Thereafter, despite having other assets at his disposal,
+
+Lay repaid balances on the line of credit by selling $70,104,762 worth of Enron stock to the
+
+company twenty times, at prices he knew did not reflect accurately Enron’s true financial
+
+condition. For example, after learning of Enron’s undisclosed plan to hide over $500 million in
+
+EES losses in ENA, Lay sold 1,086,571 shares of Enron common stock back to the company, in
+
+11 transactions, for a total of $34,081,558. Following Skilling’s resignation on August 14, 2001,
+
+at a point when Lay was learning more about Enron’s deteriorating financial condition, Lay sold
+
+
+                                               -41-
+
+=== PAGE 42 ===
+918,104 shares of Enron common stock back to the company, in five transactions, totaling
+
+$26,066,474. As Lay learned more negative information following Enron’s third quarter
+
+earnings release on October 16, 2001, Lay sold 362,051 shares of Enron stock back to the
+
+company, in four transactions, totaling $6,050,232. The transactions executed by Lay are set
+
+forth in the attached table, and incorporated as if fully set forth here.
+
+        104.    Lay’s sales of Enron stock were not reported by Lay to the SEC on a Form 5 or
+
+otherwise revealed publicly until February 2002, over two months after Enron filed for
+
+bankruptcy protection.
+
+        105.    Had Lay disclosed the substantial sales of his Enron stock at the time the sales
+
+occurred, this fact would have had a significant detrimental impact on the share price of Enron
+
+stock. By avoiding public disclosure of his stock sales, and even giving the impression to his
+
+employees and others that he was buying Enron stock, Lay was able to use artificially priced
+
+Enron shares to reduce his line of credit balance and avoid significant losses that he would have
+
+suffered had he retained his Enron shares.
+
+        106.    In addition to the benefit Lay obtained from the Enron stock sales at inflated
+
+prices, Lay took advances on his line of credit in the amount of $7.5 million, an amount drawn in
+
+six advances between October 24 and November 27, 2001, while he knew Enron’s financial
+
+condition was crumbling.
+
+                Lay’s Sales Of Enron Stock Pursuant To Amended 10b5-1 Plan
+
+        107.    Under Rule 10b5-1 of the Exchange Act, if a stock trading plan is entered into by
+
+a person before he becomes aware of material non-public information, such a plan can provide an
+
+affirmative defense to insider trading. However, any amendment to a plan is considered a new
+
+
+                                                  -42-
+
+=== PAGE 43 ===
+plan, and no affirmative defense is available if the amendment occurs after becoming aware of
+
+material non-public information.
+
+       108.    On November 1, 2000, Lay established two program sales plans pursuant to Rule
+
+10b5-1 of the Exchange Act. One plan was for Lay and his wife (the “Lay Plan”) and the other
+
+plan was for a family partnership (the “Partnership Plan”). Under the Lay Plan, Lay could sell
+
+3,534 shares of Enron stock every trading day at the market price from November 1, 2000
+
+through January 31, 2001 and 1,500 shares every trading day from February 1, 2001 through
+
+January 31, 2002. Under the Partnership Plan, Lay could sell 500 Enron shares each trading day
+
+from November 1, 2000 through January 31, 2002.
+
+       109.    On February 1, 2001, Lay amended the Lay Plan, increasing the sales to 2,500
+
+shares each day. On May 1, 2001, Lay amended the Partnership Plan, increasing the sales to
+
+1,000 shares each day. Lay terminated both plans effective July 31, 2001.
+
+       110.    At the time Lay amended both plans he was in possession of material non-public
+
+information concerning Enron as described above. Thus, Lay cannot use the affirmative defense
+
+provided under Rule 10b5-1.
+
+       111.    From February 1, 2001 through the termination date of July 31, 2001, under the
+
+Lay Plan, Lay sold 295,000 Enron shares at prices ranging from $43.66 to $80.81, for total
+
+proceeds of approximately $17,329,630. From May 1, 2001 through the termination date of July
+
+31, 2001, under the Partnership Plan, Lay sold 64,000 shares at prices ranging from $43.65 to
+
+$63.07, for total proceeds of $3,278,510. The transactions executed by Lay are set forth in the
+
+attached table and incorporated as if fully set forth here.
+
+
+
+
+                                                 -43-
+
+=== PAGE 44 ===
+       Skilling’s Illegal Gains From Sales Of Enron Stock
+
+       112.   Skilling sold shares of Enron stock that generated total proceeds of
+
+$62,626,401.90 as follows:
+
+ Trade    Date                     Shares        Sale Price(s)    Gross Proceeds
+
+
+ A        April 25, 2000           10,000        $73.875          $738,893.75
+                                                 $73.9375
+
+
+ B        April 26, 2000           86,217        $74.00           $6,338,183.00
+                                                 $73.875
+                                                 $72.50
+
+
+ C        August 30, 2000          15,000        $86.125          $1,291,875.00
+
+
+ D        September 1, 2000        60,000        $87.00           $5,220,000.00
+                                                 $86.875
+                                                 $87.25
+
+
+ E        September 5, 2000        11,441        $85.00           $972,485.00
+
+
+ F        November 1, 2000         72,600        $83.2406         $6,041,023.50
+                                                 $83.0625
+
+
+ G        November 2, 2000         20,000        $82.3381         $1,646,762.00
+
+
+ H        November 7, 2000         46,068        $82.5872         $3,804,627.13
+
+
+ I        November 15, 2000-       10,000        $84.00 to        $20,985,247.42
+          June 19, 2001            per week,     $49.90
+                                   31 weeks
+                                   per sales
+                                   plan
+
+
+
+
+                                               -44-
+
+=== PAGE 45 ===
+ J         September 17, 2001        500,000       $31.5061          $15,587,305.10
+                                                   $31.0822
+
+
+
+       Causey’s Illegal Gains From Sales Of Enron Stock
+
+       113.    Causey sold shares of Enron stock and generated total proceeds of $10,316,807.83
+
+as follows:
+
+ Trade     Date                      Shares        Sale Price(s)     Gross Proceeds
+
+
+ A         January 21, 2000          45,000        $72.00            $3,220,000.00
+                                                   $71.00
+
+
+ B         September 28, 2000        80,753        $87.8829          $7,096,807.83
+
+
+False And Misleading Statements To Enron’s Accountants
+
+       114.    On or about the dates set forth below, Skilling, Causey, and others, while agreeing
+
+that they were “responsible for the fair presentation of the financial statements,” falsely
+
+represented to Enron’s accountants that, among other things, (a) the statements and
+
+representations made in Enron’s financial statements were true; (b) Enron properly recorded or
+
+disclosed in its financial statements all agreements to repurchase assets previously sold; (c)
+
+Enron properly recorded or disclosed in its financial statements guarantees, whether written or
+
+oral, under which Enron was contingently liable; (d) Enron’s unaudited quarterly financial data
+
+fairly summarized, among other things, the operating revenues, net income and per share data
+
+based upon that income for each quarter; (e) there was no material fraud or any other
+
+irregularities that, although not material, involved management or other employees who had a
+
+
+                                                -45-
+
+=== PAGE 46 ===
+significant role in Enron’s system of internal control, or fraud involving other employees that
+
+could have a material effect on the financial statements; (f) there were no material liabilities or
+
+gain or loss contingencies (including those that might exist relating to oral guarantees) that were
+
+required to be disclosed in accordance with SFAS No. 5; (g) all related-party transactions,
+
+including sales, were properly recorded and disclosed; (h) no events occurred subsequent to the
+
+balance sheet date that had a material effect on the financial statements and that should have been
+
+disclosed in order to keep those financial statements from being misleading; (i) Enron made
+
+available to the accountants all financial records and related data; (j) Enron’s system of internal
+
+controls was adequate and had no significant deficiencies; and (k) the accounting records
+
+underlying Enron’s financial statements accurately and fairly reflected, in reasonable detail, the
+
+transactions of Enron, well knowing that these statements were false. Skilling, Causey, and
+
+others made the false representations in representation letters to Enron’s accountants as follows:
+
+ Count     Defendant(s)                     Date                    Statement to Auditors
+
+
+ A         JEFFREY K. SKILLING              March 13, 2000          Annual Representation Letter
+                                                                    in Connection with Enron
+           RICHARD A. CAUSEY                                        Form 10-K for Year 1999
+
+
+ B         JEFFREY K. SKILLING              May 12, 2000            Quarterly Representation
+                                                                    Letter in Connection with
+           RICHARD A CAUSEY                                         Enron Form 10-Q for First
+                                                                    Quarter 2000
+
+
+ C         JEFFREY K. SKILLING              August 11, 2000         Quarterly Representation
+                                                                    Letter in Connection with
+           RICHARD A. CAUSEY                                        Enron Form 10-Q for Second
+                                                                    Quarter 2000
+
+
+
+
+                                                -46-
+
+=== PAGE 47 ===
+ D         JEFFREY K. SKILLING              November 13, 2000       Quarterly Representation
+                                                                    Letter in Connection with
+           RICHARD A. CAUSEY                                        Enron Form 10-Q for Third
+                                                                    Quarter 2000
+
+
+ E         JEFFREY K. SKILLING              February 23, 2001       Annual Representation Letter
+                                                                    in Connection with Enron
+           RICHARD A. CAUSEY                                        Form 10-K for Year 2000
+
+
+ F         JEFFREY K. SKILLING              May 15, 2001            Quarterly Representation
+                                                                    Letter in Connection with
+           RICHARD A. CAUSEY                                        Enron Form 10-Q for First
+                                                                    Quarter 2001
+
+
+ G         RICHARD A. CAUSEY                August 14, 2001         Quarterly Representation
+                                                                    Letter in Connection with
+                                                                    Enron Form 10-Q for Second
+                                                                    Quarter 2001
+
+
+
+                                     CLAIMS FOR RELIEF
+
+                                          FIRST CLAIM
+
+            Violations of Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)]
+           and Exchange Act Rule 10b-5 [17 C.F.R. § 240.10b-5] (All Defendants)
+
+       115.    Paragraphs 1 through 114 are realleged and incorporated by reference herein.
+
+       116.    As set forth more fully above, Lay, Skilling, and Causey, directly or indirectly, by
+
+use of the means or instrumentalities of interstate commerce, or by the use of the mails and of the
+
+facilities of a national securities exchange, in connection with the purchase or sale of securities:
+
+have employed devices, schemes, or artifices to defraud, have made untrue statements of material
+
+facts or omitted to state material facts necessary in order to make the statements made, in the
+
+light of the circumstances under which they were made, not misleading, or have engaged in acts,
+
+                                                -47-
+
+=== PAGE 48 ===
+practices, or courses of business which operate or would operate as a fraud or deceit upon any
+
+person.
+
+          117.   By reason of the foregoing, Lay, Skilling, and Causey violated and aided and
+
+abetted violations of Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)], and Rule 10b-5
+
+thereunder [17 C.F.R. § 240.10b-5].
+
+                                         SECOND CLAIM
+
+            Violations of Section 17(a) of the Securities Act [15 U.S.C. § 77q(a)] (Lay)
+
+          118.   Paragraphs 1 through 117 are realleged and incorporated by reference herein.
+
+          119.   Lay, by engaging in the conduct described above, directly or indirectly, in
+
+connection with the offer or sale of securities, by the use of the means or instruments of
+
+transportation or communication in interstate commerce or by the use of the mails: with scienter,
+
+employed devices, schemes, or artifices to defraud, obtained money or property by means of
+
+untrue statements of material facts or omissions to state material facts necessary in order to make
+
+the statements made, in the light of the circumstances under which they were made, not
+
+misleading, or engaged in acts, practices, or courses of business which operate or would operate
+
+as a fraud or deceit upon the purchasers of such securities.
+
+          120.   By reason of the foregoing, Lay violated Section 17(a) of the Securities Act.
+
+                                          THIRD CLAIM
+
+Violations of Section 13(a) of the Exchange Act [15 U.S.C. § 78m(a)] (All Defendants) and
+         Exchange Act Rules 12b-20 (All Defendants), 13a-1 (Causey & Skilling),
+                             13a-11 (Lay), and 13a-13 (Causey)
+               [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, 240.13a-13]
+
+          121.   Paragraphs 1 through 120 are realleged and incorporated by reference herein.
+
+
+
+                                                 -48-
+
+=== PAGE 49 ===
+       122.     By engaging in the conduct described above, Lay, Skilling, and Causey knowingly
+
+and substantially caused Enron to file materially false and misleading reports and filings with the
+
+Commission.
+
+       123.     By reason of the foregoing, Lay, Skilling, and Causey aided and abetted violations
+
+by Enron of Section 13(a) of the Exchange Act and Exchange Act Rules 12b-20, 13a-1 (Causey
+
+and Skilling), 13a-11 (Lay), and 13a-13 (Causey).
+
+                                         FOURTH CLAIM
+
+           Violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act
+                         [15 U.S.C. §§ 78m(b)(2)(A), 78m(b)(2)(B)]
+          and Exchange Act Rule 13b2-1 [17 C.F.R. § 240.13b2-1] (All Defendants)
+
+       124.     Paragraphs 1 through 123 are realleged and incorporated by reference herein.
+
+       125.     By engaging in the conduct described above, Lay, Skilling, and Causey aided and
+
+abetted Enron’s failures to make and keep books, records and accounts which, in reasonable
+
+detail, accurately and fairly reflected Enron’s transactions and dispositions of its assets, in
+
+violation of Section 13(b)(2)(A) of the Exchange Act, and further aided and abetted failures to
+
+devise and maintain a system of internal accounting controls sufficient to provide reasonable
+
+assurances that Enron’s corporate transactions were executed in accordance with management’s
+
+authorization and in a manner to permit the preparation of financial statements in conformity
+
+with Generally Accepted Accounting Principles in violation of Section 13(b)(2)(B) of the
+
+Exchange Act.
+
+       126.     By engaging in the conduct described above, Lay, Skilling, and Causey, directly or
+
+indirectly, falsified and caused to be falsified Enron’s books, records, and accounts subject to
+
+
+
+
+                                                 -49-
+
+=== PAGE 50 ===
+Section 13(b)(2)(A) of the Exchange Act in violation of Exchange Act Rule 13b2-1.
+
+       127.    By reason of the foregoing, Skilling and Causey aided and abetted violations of
+
+Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and violated Exchange Act Rule
+
+13b2-1.
+
+                                         FIFTH CLAIM
+
+Violations of Section 13(b)(5) of the Exchange Act [15 U.S.C. § 78m(b)(5)] (Skilling/Causey)
+
+       128.    Paragraphs 1 through 127 are realleged and incorporated by reference herein.
+
+       129.    By engaging in the conduct described above, Skilling and Causey knowingly
+
+circumvented or knowingly failed to implement a system of internal financial controls at Enron,
+
+and knowingly falsified books, records, and accounts of Enron.
+
+       130.    By reason of the foregoing, Skilling and Causey violated and aided and abetted
+
+violations of Section 13(b)(5) of the Exchange Act.
+
+                                         SIXTH CLAIM
+
+    Violations of Exchange Act Rule 13b2-2 [17 C.F.R. § 240.13b2-2] (Skilling/Causey)
+
+       131.    Paragraphs 1 through 130 are realleged and incorporated by reference herein.
+
+       132.    By engaging in the conduct described above, Skilling and Causey, directly or
+
+indirectly, made or caused to be made false and misleading statements or omitted or caused
+
+others to omit to state material facts necessary in order to make statements made, in light of the
+
+circumstances under which such statements were made, not misleading to Enron’s independent
+
+accountants and Enron’s auditors in connection with audits and examinations of Enron’s required
+
+financial statements and in connection with the preparation and filing of documents and reports
+
+
+
+
+                                                -50-
+
+=== PAGE 51 ===
+required to be filed with the Commission, in violation of Exchange Act Rule 13b2-2.
+
+       133.    By reason of the foregoing, Skilling and Causey violated and aided and abetted
+
+violations of the Exchange Act Rule 13b2-2.
+
+                                         JURY DEMAND
+
+       The Commission demands a jury in this matter.
+
+                                     PRAYER FOR RELIEF
+
+       WHEREFORE, the Commission respectfully requests that this Court:
+
+       A.       Grant a Permanent Injunction restraining and enjoining Lay, Skilling, and Causey
+
+from violating the statutory provisions set forth herein; prohibiting each permanently and
+
+unconditionally from acting as an officer or director of any issuer of securities that has a class of
+
+securities registered pursuant to Section 12 of the Exchange Act or that is required to file reports
+
+pursuant to Section 15(d) of such Act; and ordering each to pay disgorgement of illegal gains,
+
+and civil penalties;
+
+       B.      Pursuant to Section 308 of the Sarbanes-Oxley Act of 2002, enter an order
+
+providing that the amount of civil penalties ordered against Lay, Skilling, and Causey be added to
+
+and become part of a disgorgement fund for the benefit of the victims of the violations alleged
+
+herein; and
+
+
+
+
+                                                 -51-
+
+=== PAGE 52 ===
+       C.     Grant such other and additional relief as this Court may deem just and proper.
+
+Dated: July ___, 2004                      Respectfully submitted,
+
+
+
+                                           Stephen M. Cutler
+                                             Director, Enforcement Division
+                                           Linda Chatman Thomsen
+                                             Deputy Director, Enforcement Division
+                                           Charles J. Clark
+                                             Assistant Director, Enforcement Division
+
+
+                                           __________________________________
+                                           Luis R. Mejia
+                                           Assistant Chief Litigation Counsel
+                                           Attorney-in-Charge, Plaintiff
+                                           Securities and Exchange Commission
+                                           450 Fifth Street, N.W.
+                                           Washington, DC 20549-0911
+                                           Phone: (202) 942-4744 (Mejia)
+                                           Fax: (202) 942-9569 (Mejia)
+
+Of Counsel:
+Douglas B. Paul
+Kurt G. Gresenz
+Alex Lipman
+Phil Gross
+Richard J. Kutchey
+
+
+
+
+                                             -52-
+
+=== PAGE 53 ===
+                        Ken Lay Line of Credit
+              Table of Advances and Repayments in 2001
+
+ Date       Transaction    Amount         Shares   Price   Sales Proceeds
+
+01/25/01   Advance        $4,000,000.00
+02/01/01   Repayment                       50,814 $78.79     $4,003,635.06
+03/23/01   Advance        $1,100,000.00
+04/05/01   Advance          $950,000.00
+04/19/01   Advance        $1,950,000.00
+04/27/01   Repayment                       63,152 $63.50     $4,010,152.00
+05/03/01   Advance        $4,000,000.00
+05/14/01   Repayment                       68,182 $58.75     $4,005,692.50
+05/23/01   Advance        $4,000,000.00
+05/25/01   Repayment                       75,491 $53.00     $4,001,023.00
+06/11/01   Advance        $4,000,000.00
+06/12/01   Repayment                       79,423 $50.37     $4,000,536.51
+06/15/01   Advance        $4,000,000.00
+06/19/01   Repayment                       86,665 $46.18     $4,002,189.70
+06/22/01   Advance        $4,000,000.00
+06/22/01   Repayment                       89,126 $44.88     $3,999,974.88
+06/26/01   Advance        $4,000,000.00
+06/26/01   Repayment                       90,518 $44.19     $3,999,990.42
+06/27/01   Advance        $4,000,000.00
+06/27/01   Repayment                       85,616 $46.72     $3,999,979.52
+06/28/01   Advance        $4,000,000.00
+06/28/01   Repayment                       82,747 $48.34     $3,999,989.98
+06/29/01   Advance        $4,000,000.00
+07/26/01   Repayment                       85,720 $46.84     $4,015,124.80
+07/27/01   Advance        $4,000,000.00
+08/21/01   Repayment                      110,706 $36.25     $4,013,092.50
+08/21/01   Advance        $4,000,000.00
+08/23/01   Repayment                      108,254 $36.95     $3,999,985.30
+08/24/01   Advance        $4,000,000.00
+08/24/01   Repayment                      110,041 $36.35     $3,999,990.35
+08/28/01   Advance        $4,000,000.00
+08/30/01   Repayment                      112,706 $35.50     $4,001,063.00
+08/31/01   Advance        $4,000,000.00
+09/4/01    Repayment                      114,346 $35.00     $4,002,110.00
+09/06/01   Advance        $4,000,000.00
+10/23/01   Repayment                       76,995 $19.79     $1,523,731.05
+10/24/01   Repayment                      103,614 $16.41     $1,700,305.74
+10/24/01   Advance        $3,500,000.00
+
+=== PAGE 54 ===
+    10/25/01        Repayment                                         33,672 $16.35                 $550,537.20
+    10/25/01        Advance                  $1,500,000.00
+    10/26/01        Repayment                                        147,770 $15.40              $2,275,658.001
+    10/26/01        Advance                  $2,000,000.00
+    11/01/01        Advance                  $1,000,000.00
+    11/09/01        Advance                    $525,000.00
+    11/27/01        Advance                  $1,000,000.00
+     Totals                                 $77,525,000.00        1,775,558                     $70,104,761.51
+
+
+
+
+1
+            Lay currently has an outstanding loan balance on his line of credit of $7.794 million, including
+interest.
+
+=== PAGE 55 ===
+Lay Plan Sales
+
+          Number    Sale     Cost       Gross
+  Date of Shares    Price    Basis     Proceeds      Net Profits
+ 02/01/01   2,500   $78.83    $16.75   $197,075.00   $155,200.00
+ 02/02/01   2,500   $78.77    $16.75   $196,925.00   $155,050.00
+ 02/05/01   2,500   $80.49    $17.00   $201,225.00   $158,725.00
+ 02/06/01   2,500   $80.81    $17.00   $202,025.00   $159,525.00
+ 02/07/01      40   $80.00    $17.00     $3,200.00     $2,520.00
+ 02/07/01   2,460   $80.39    $16.75   $197,759.40   $156,554.40
+ 02/08/01   2,500   $80.38    $16.75   $200,950.00   $159,075.00
+ 02/09/01   2,500   $80.77    $16.75   $201,925.00   $160,050.00
+ 02/12/01   2,500   $79.98    $16.75   $199,950.00   $158,075.00
+ 02/13/01   2,500   $79.76    $16.75   $199,400.00   $157,525.00
+ 02/14/01   2,500   $80.72    $16.75   $201,800.00   $159,925.00
+ 02/15/01   2,500   $77.60    $16.75   $194,000.00   $152,125.00
+ 02/16/01   2,500   $76.36    $16.75   $190,900.00   $149,025.00
+ 02/20/01   2,500   $76.28    $16.75   $190,700.00   $148,825.00
+ 02/21/01   2,500   $74.85    $16.75   $187,125.00   $145,250.00
+ 02/22/01   2,500   $72.58    $16.75   $181,450.00   $139,575.00
+ 02/23/01   2,500   $71.06    $16.75   $177,650.00   $135,775.00
+ 02/26/01   2,500   $70.57    $16.75   $176,425.00   $134,550.00
+ 02/27/01   2,500   $70.36    $16.75   $175,900.00   $134,025.00
+ 02/28/01   2,500   $69.50    $16.75   $173,750.00   $131,875.00
+ 03/01/01   2,500   $67.78    $16.75   $169,450.00   $127,575.00
+ 03/02/01   2,500   $69.00    $16.75   $172,500.00   $130,625.00
+ 03/05/01   2,500   $70.48    $16.75   $176,200.00   $134,325.00
+ 03/06/01   2,500   $69.86    $16.75   $174,650.00   $132,775.00
+ 03/07/01   2,500   $69.30    $16.75   $173,250.00   $131,375.00
+ 03/08/01   2,500   $70.40    $16.75   $176,000.00   $134,125.00
+ 03/09/01   2,500   $69.65    $16.75   $174,125.00   $132,250.00
+ 03/12/01   2,500   $64.92    $16.75   $162,300.00   $120,425.00
+ 03/13/01   2,500   $61.75    $16.75   $154,375.00   $112,500.00
+ 03/14/01   2,500   $61.43    $16.75   $153,575.00   $111,700.00
+ 03/15/01   2,500   $64.63    $16.75   $161,575.00   $119,700.00
+ 03/16/01   2,500   $65.50    $16.75   $163,750.00   $121,875.00
+ 03/19/01   2,500   $62.27    $16.75   $155,675.00   $113,800.00
+ 03/20/01   2,500   $62.28    $16.75   $155,700.00   $113,825.00
+ 03/21/01   2,500   $59.57    $16.75   $148,925.00   $107,050.00
+ 03/22/01   2,500   $53.93    $16.75   $134,825.00    $92,950.00
+ 03/23/01   2,500   $57.72    $16.75   $144,300.00   $102,425.00
+ 03/26/01   2,500   $61.32    $16.75   $153,300.00   $111,425.00
+ 03/27/01   2,500   $60.50    $16.75   $151,250.00   $109,375.00
+ 03/28/01   2,500   $58.83    $16.75   $147,075.00   $105,200.00
+ 04/02/01   2,500   $57.50    $16.75   $143,750.00   $101,875.00
+ 04/03/01   2,500   $55.90    $16.75   $139,750.00    $97,875.00
+ 04/04/01   2,500   $54.11    $16.75   $135,275.00    $93,400.00
+ 04/05/01   2,500   $54.88    $16.75   $137,200.00    $95,325.00
+
+=== PAGE 56 ===
+04/06/01   2,500   $54.75   $16.75   $136,875.00    $95,000.00
+04/09/01   2,500   $54.53   $16.75   $136,325.00    $94,450.00
+04/10/01     492   $57.20   $16.75    $28,142.40    $19,901.40
+04/10/01   2,008   $58.31   $16.75   $117,086.48    $83,452.48
+04/11/01   2,500   $59.69   $19.06   $149,225.00   $101,575.00
+04/12/01   2,500   $57.40   $19.06   $143,500.00    $95,850.00
+04/16/01   2,500   $58.24   $19.06   $145,600.00    $97,950.00
+04/17/01   2,500   $60.75   $19.06   $151,875.00   $104,225.00
+04/18/01   2,500   $61.57   $19.06   $153,925.00   $106,275.00
+04/19/01   2,500   $61.32   $19.06   $153,300.00   $105,650.00
+04/20/01   2,500   $60.87   $19.06   $152,175.00   $104,525.00
+04/23/01   2,500   $60.94   $19.06   $152,350.00   $104,700.00
+04/24/01   2,500   $62.18   $19.06   $155,450.00   $107,800.00
+04/25/01   2,500   $62.06   $19.06   $155,150.00   $107,500.00
+04/26/01   2,500   $63.21   $19.06   $158,025.00   $110,375.00
+04/27/01   2,500   $62.98   $19.06   $157,450.00   $109,800.00
+05/01/01   2,500   $63.12   $19.06   $157,800.00   $110,150.00
+05/02/01   2,500   $61.77   $19.06   $154,425.00   $106,775.00
+05/03/01   2,500   $58.79   $19.06   $146,975.00    $99,325.00
+05/04/01   2,500   $58.86   $19.06   $147,150.00    $99,500.00
+05/07/01   2,500   $58.67   $19.06   $146,675.00    $99,025.00
+05/08/01   2,500   $57.00   $19.06   $142,500.00    $94,850.00
+05/09/01   2,500   $57.21   $19.06   $143,025.00    $95,375.00
+05/10/01   2,500   $58.35   $19.06   $145,875.00    $98,225.00
+05/11/01   2,500   $57.54   $19.06   $143,850.00    $96,200.00
+05/14/01   2,500   $58.52   $19.06   $146,300.00    $98,650.00
+05/15/01   2,500   $58.08   $19.06   $145,200.00    $97,550.00
+05/16/01   2,500   $57.25   $19.06   $143,125.00    $95,475.00
+05/17/01   2,500   $55.02   $19.06   $137,550.00    $89,900.00
+05/18/01   2,500   $53.75   $19.06   $134,375.00    $86,725.00
+05/21/01   2,500   $55.16   $19.06   $137,900.00    $90,250.00
+05/22/01   2,500   $55.06   $19.06   $137,650.00    $90,000.00
+05/23/01   2,500   $55.68   $19.06   $139,200.00    $91,550.00
+05/24/01   2,500   $55.11   $19.06   $137,775.00    $90,125.00
+05/29/01   2,500   $53.41   $19.06   $133,525.00    $85,875.00
+06/01/01   2,500   $52.66   $19.06   $131,650.00    $84,000.00
+06/04/01   2,500   $53.88   $19.06   $134,700.00    $87,050.00
+06/05/01   2,500   $54.08   $19.06   $135,200.00    $87,550.00
+06/06/01   2,500   $52.79   $19.06   $131,975.00    $84,325.00
+06/07/01   2,500   $50.63   $19.06   $126,575.00    $78,925.00
+06/08/01   2,500   $50.20   $19.06   $125,500.00    $77,850.00
+06/11/01   2,500   $51.17   $19.06   $127,925.00    $80,275.00
+06/12/01   2,500   $50.92   $19.06   $127,300.00    $79,650.00
+06/13/01   2,500   $50.63   $19.06   $126,575.00    $78,925.00
+06/14/01   2,500   $48.83   $19.06   $122,075.00    $74,425.00
+06/15/01   2,500   $47.78   $19.06   $119,450.00    $71,800.00
+06/18/01   2,500   $46.00   $19.06   $115,000.00    $67,350.00
+06/19/01   2,500   $44.93   $19.06   $112,325.00    $64,675.00
+
+=== PAGE 57 ===
+ 06/20/01     2,500   $46.11    $19.06     $115,275.00      $67,625.00
+ 06/21/01     2,500   $45.15    $19.06     $112,875.00      $65,225.00
+ 06/22/01     2,500   $44.21    $19.06     $110,525.00      $62,875.00
+ 06/25/01     2,500   $44.79    $19.06     $111,975.00      $64,325.00
+ 06/26/01     2,500   $43.66    $19.06     $109,150.00      $61,500.00
+ 06/27/01     2,500   $45.45    $19.06     $113,625.00      $65,975.00
+ 06/28/01     2,500   $47.47    $19.06     $118,675.00      $71,025.00
+ 07/02/01     2,500   $48.81    $19.06     $122,025.00      $74,375.00
+ 07/03/01     2,500   $48.80    $19.06     $122,000.00      $74,350.00
+ 07/05/01     2,500   $49.66    $19.06     $124,150.00      $76,500.00
+ 07/06/01     2,500   $50.07    $19.06     $125,172.50      $77,522.50
+ 07/09/01     2,500   $49.40    $19.06     $123,500.00      $75,850.00
+ 07/10/01     2,500   $49.44    $19.06     $123,600.00      $75,950.00
+ 07/11/01     2,500   $49.00    $19.06     $122,500.00      $74,850.00
+ 07/12/01     2,500   $49.54    $19.06     $123,850.00      $76,200.00
+ 07/13/01     2,500   $49.48    $19.06     $123,700.00      $76,050.00
+ 07/16/01     2,500   $49.50    $19.06     $123,750.00      $76,100.00
+ 07/17/01     2,500   $49.64    $19.06     $124,100.00      $76,450.00
+ 07/18/01     2,500   $49.40    $19.06     $123,500.00      $75,850.00
+ 07/19/01     2,500   $48.91    $19.06     $122,275.00      $74,625.00
+ 07/20/01     2,500   $48.66    $19.06     $121,650.00      $74,000.00
+ 07/23/01     2,500   $47.49    $19.06     $118,725.00      $71,075.00
+ 07/24/01     2,500   $44.76    $19.06     $111,900.00      $64,250.00
+ 07/25/01     2,500   $43.83    $19.06     $109,575.00      $61,925.00
+ 07/26/01     2,500   $45.35    $19.06     $113,375.00      $65,725.00
+ 07/27/01     2,500   $46.05    $19.06     $115,125.00      $67,475.00
+ 07/30/01     2,500   $46.25    $19.06     $115,625.00      $67,975.00
+ 07/31/01     2,500   $45.98    $19.06     $114,950.00      $67,300.00
+
+            295,000                      $17,329,635.78 $11,971,325.78
+
+
+
+Partnership Plan Sales
+
+         Number
+           of         Sale     Cost        Gross
+ Date    Shares       Price    Basis      Proceeds       Net Profits
+05/01/01   1,000      $63.07    $20.78    $63,070.00      $42,290.00
+05/02/01   1,000      $61.78    $20.78    $61,780.00      $41,000.00
+05/03/01   1,000      $58.73    $20.78    $58,730.00      $37,950.00
+05/04/01   1,000      $58.86    $20.78    $58,860.00      $38,080.00
+05/07/01   1,000      $58.67    $20.78    $58,670.00      $37,890.00
+05/08/01   1,000      $57.00    $20.78    $57,000.00      $36,220.00
+05/09/01   1,000      $57.13    $20.78    $57,130.00      $36,350.00
+05/10/01   1,000      $58.35    $20.78    $58,350.00      $37,570.00
+05/11/01   1,000      $57.53    $20.78    $57,530.00      $36,750.00
+05/14/01   1,000      $58.55    $20.78    $58,550.00      $37,770.00
+05/15/01   1,000      $58.08    $20.78    $58,080.00      $37,300.00
+
+=== PAGE 58 ===
+05/16/01   1,000   $57.25   $20.78   $57,250.00   $36,470.00
+05/17/01   1,000   $55.05   $20.78   $55,050.00   $34,270.00
+05/18/01   1,000   $53.75   $20.78   $53,750.00   $32,970.00
+05/21/01   1,000   $55.14   $20.78   $55,140.00   $34,360.00
+05/22/01   1,000   $55.06   $20.78   $55,060.00   $34,280.00
+05/23/01   1,000   $55.67   $20.78   $55,670.00   $34,890.00
+05/24/01   1,000   $55.11   $20.78   $55,110.00   $34,330.00
+05/25/01   1,000   $53.81   $20.78   $53,810.00   $33,030.00
+05/29/01   1,000   $53.41   $20.78   $53,410.00   $32,630.00
+05/30/01   1,000   $52.95   $20.78   $52,950.00   $32,170.00
+05/31/01   1,000   $53.03   $20.78   $53,030.00   $32,250.00
+06/01/01   1,000   $52.66   $20.78   $52,660.00   $31,880.00
+06/04/01   1,000   $53.88   $20.78   $53,880.00   $33,100.00
+06/05/01   1,000   $54.08   $20.78   $54,080.00   $33,300.00
+06/06/01   1,000   $52.79   $20.78   $52,790.00   $32,010.00
+06/07/01   1,000   $50.63   $20.78   $50,630.00   $29,850.00
+06/08/01   1,000   $50.19   $20.78   $50,190.00   $29,410.00
+06/11/01   1,000   $51.17   $20.78   $51,170.00   $30,390.00
+06/12/01   1,000   $50.91   $20.78   $50,910.00   $30,130.00
+06/13/01   1,000   $50.64   $20.78   $50,640.00   $29,860.00
+06/14/01   1,000   $48.83   $20.78   $48,830.00   $28,050.00
+06/15/01   1,000   $47.80   $20.78   $47,800.00   $27,020.00
+06/18/01   1,000   $46.00   $20.78   $46,000.00   $25,220.00
+06/19/01   1,000   $44.93   $20.78   $44,930.00   $24,150.00
+06/20/01   1,000   $46.11   $20.78   $46,110.00   $25,330.00
+06/21/01   1,000   $45.15   $20.78   $45,150.00   $24,370.00
+06/22/01   1,000   $44.22   $20.78   $44,220.00   $23,440.00
+06/25/01   1,000   $44.78   $20.78   $44,780.00   $24,000.00
+06/26/01   1,000   $43.65   $20.78   $43,650.00   $22,870.00
+06/27/01   1,000   $45.45   $20.78   $45,450.00   $24,670.00
+06/28/01   1,000   $47.47   $20.78   $47,470.00   $26,690.00
+06/29/01   1,000   $49.25   $20.78   $49,250.00   $28,470.00
+07/02/01   1,000   $48.80   $20.78   $48,800.00   $28,020.00
+07/03/01   1,000   $48.80   $20.78   $48,800.00   $28,020.00
+07/05/01   1,000   $49.66   $20.78   $49,660.00   $28,880.00
+07/06/01   1,000   $50.06   $20.78   $50,060.00   $29,280.00
+07/09/01   1,000   $49.40   $20.78   $49,400.00   $28,620.00
+07/10/01   1,000   $49.41   $20.78   $49,410.00   $28,630.00
+07/11/01   1,000   $49.00   $20.78   $49,000.00   $28,220.00
+07/12/01   1,000   $49.54   $20.78   $49,540.00   $28,760.00
+07/13/01   1,000   $49.48   $20.78   $49,480.00   $28,700.00
+07/16/01   1,000   $49.50   $20.78   $49,500.00   $28,720.00
+07/17/01   1,000   $49.64   $20.78   $49,640.00   $28,860.00
+07/18/01   1,000   $49.39   $20.78   $49,390.00   $28,610.00
+07/19/01   1,000   $48.91   $20.78   $48,910.00   $28,130.00
+07/20/01   1,000   $48.66   $20.78   $48,660.00   $27,880.00
+07/23/01   1,000   $47.48   $20.78   $47,480.00   $26,700.00
+07/24/01   1,000   $44.76   $20.78   $44,760.00   $23,980.00
+
+=== PAGE 59 ===
+07/25/01    1,000   $43.87   $20.78     $43,870.00    $23,090.00
+07/26/01    1,000   $45.31   $20.78     $45,310.00    $24,530.00
+07/27/01    1,000   $46.04   $20.78     $46,040.00    $25,260.00
+07/30/01    1,000   $46.25   $20.78     $46,250.00    $25,470.00
+07/31/01    1,000   $45.98   $20.78     $45,980.00    $25,200.00
+
+           64,000                     $3,278,510.00 $1,948,590.00

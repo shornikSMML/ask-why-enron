@@ -1,0 +1,2931 @@
+
+=== PAGE 1 ===
+                 United States General Accounting Office
+
+GAO              Report to the Senate Committee on
+                 Banking, Housing, and Urban Affairs and
+                 the House Committee on Financial
+                 Services
+
+September 2003
+                 ACCOUNTING FIRM
+                 CONSOLIDATION
+                 Selected Large Public
+                 Company Views on
+                 Audit Fees, Quality,
+                 Independence, and
+                 Choice
+
+
+
+
+GAO-03-1158
+                 a
+
+=== PAGE 2 ===
+                                                September 2003
+
+
+                                                ACCOUNTING FIRM CONSOLIDATION
+                                                Views of Surveyed Large Public
+Highlights of GAO-03-1158, a report to          Companies on Audit Fees, Quality,
+Senate Committee on Banking, Housing,
+and Urban Affairs and the House                 Independence, and Choice
+Committee on Financial Services
+
+
+
+
+The largest accounting firms,                   Most of the 159 respondents said that they were satisfied with the current
+known as the “Big 4,” currently                 auditor, and half had used their current auditor for 10 years or more (see
+audit over 78 percent of U.S. public            figure below). Generally, the longer a respondent had been with an
+companies and 99 percent of public              auditor, the higher the overall level of satisfaction. Consistent with high
+company annual sales. To address
+                                                levels of satisfaction, GAO found that, aside from former clients of
+concerns raised by this
+concentration and as mandated by                Arthur Andersen, few respondents had switched auditors in the past
+the Sarbanes-Oxley Act of 2002, on              decade. When they did, they switched because of reputation, concerns
+July 30, 2003, GAO issued a report              about audit fees, and corporate mergers or management changes. In
+entitled Public Accounting Firms:               looking for a new auditor, the most commonly cited factors the
+Mandated Study on Consolidation                 respondents gave were quality of service, industry specialization, and
+and Competition, GAO-03-864. As                 “chemistry” with the audit team. Finally, almost all respondents used
+part of that study, GAO surveyed a              their auditor of record for a variety of nonaudit services, including tax-
+random sample of 250 public                     related services and assistance with company debt and equity offerings.
+companies from the Fortune 1000
+list; preliminary findings were
+                                                Respondents had differing views about whether past consolidation had
+included in the July report. This
+supplemental report details more                some influence on audit fees, but most believed that consolidation had
+comprehensively the 159 responses               little or no influence on audit quality or independence. Respondents
+we received through August 11,                  commented that other factors—such as new regulations deriving from
+2003, focusing on (1) the                       the Sarbanes–Oxley Act and changing auditing standards—have had a
+relationship of their company with              greater impact on audit price, quality, and independence.
+their auditor of record in terms of
+satisfaction, tenure relationship,              While half of the respondents said that past consolidation had little or no
+and services provided; (2) the                  influence on competition and just over half said they had a sufficient
+effects of consolidation on audit               number of auditor choices, 84 percent also indicated a preference for
+fees, quality, and independence;
+                                                more firms from which to choose as most would not consider using a
+and (3) the potential implications
+of consolidation for competition                non-Big 4 firm. Reasons most frequently cited included (1) the need for
+and auditor choice.                             auditors with technical skills or industry-specific knowledge, (2) the
+                                                reputation of the firm, and (3) the capacity of the firm. Finally, some
+                                                expressed concerns about further consolidation in the industry and the
+                                                limited number of alternatives were they to change auditors under
+                                                existing independence rules.
+
+                                                Length of Relationship with Current Auditor
+                                                Number of companies
+                                                40   40
+                                                     37
+
+                                                30
+
+
+                                                20                             18
+                                                                                                     13                           13                    12
+                                                10                  10
+                                                                                          8                     7                             8
+                                                                                                                           6
+
+                                                 0      3
+www.gao.gov/cgi-bin/getrpt?GAO-03-1158.
+                                                       <2          2-5        6-10      11-15      16-20      21-25      26-30   31-40      41-50     51-94
+                                                     Years
+To view the full product, including the scope
+and methodology, click on the link above.                      Former Andersen clients that switched within the last 2 years             All other respondents
+For more information, contact Davi M.
+                                                Source: GAO.
+D'Agostino at (202) 512-8678 or
+d'agostinod@gao.gov.
+
+=== PAGE 3 ===
+Contents
+
+
+
+Letter                                                                                                   1
+                             Results in Brief                                                            2
+                             Background                                                                  4
+                             Most Respondents Were Satisfied with Their Auditor, Had Long-term
+                               Relationships, and Used Their Auditor for a Variety of Services           5
+                             Respondents Had Differing Views about Past Consolidation’s
+                               Influence on Audit Fees but Most Agreed That It Had Little or No
+                               Influence on Audit Quality or Auditor Independence                       10
+                             Respondents Were Concerned That Limited Audit Choices May
+                               Create Problems                                                          13
+
+
+Appendixes
+              Appendix I:    Scope and Methodology                                                      19
+             Appendix II:    Annotated Public Company Survey                                            21
+             Appendix III:   Summary of Written Comments to the Public Company
+                             Survey                                                                     36
+                             Change in Audit Quality                                                    36
+                             Number of Auditor Options Available                                        38
+                             Sufficiency of the Number of Options                                       40
+                             Willingness to Use Auditor of Competitor                                   41
+                             Minimum Number of Firms Necessary                                          42
+                             Optimal Number of Firms                                                    43
+                             Suggestions for Increasing Competition                                     45
+                             Additional Comments                                                        46
+             Appendix IV:    GAO Contacts and Staff Acknowledgments                                     51
+                             GAO Contacts                                                               51
+                             Staff Acknowledgments                                                      51
+
+
+Tables                       Table 1: Respondents That Had Switched Auditors Since 1987                  8
+                             Table 2: Explanations for Changes in Audit Quality                         37
+                             Table 3: Explanations for the Number of Auditor Options
+                                      Available                                                         39
+                             Table 4: Number of Auditor Options Available                               40
+                             Table 5: Explanations of Why a Company Would or Would Not
+                                      Choose the Auditor of a Competitor                                41
+                             Table 6: Explanations of Minimum Number of Firms Necessary                 42
+                             Table 7: Explanations of Optimal Number of Firms                           44
+                             Table 8: Suggestions for Taking Action to Increase Competition             45
+
+
+
+                             Page i                               GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 4 ===
+          Contents
+
+
+
+
+          Table 9: Additional Comments                                                           47
+
+
+Figures   Figure 1: Length of Relationship with Current Auditor                                      6
+          Figure 2: Satisfaction with Current Auditor, by Tenure                                     7
+          Figure 3: Factors Cited in Choosing a New Auditor                                          9
+          Figure 4: Views on Change and Impact of Past Consolidation on
+                    Audit Fees                                                                   11
+          Figure 5: Views on Changes in and Impact of Past Consolidation on
+                    Audit Quality                                                                12
+          Figure 6: Views on Changes in and Impact of Past Consolidation on
+                    Auditor Independence                                                         13
+          Figure 7: Reasons Cited for Not Using a Non-Big 4 Firm                                 15
+
+
+
+
+          Abbreviations
+
+          GAAP         generally accepted accounting principles
+          GAAS         generally accepted auditing standards
+          SIC          Standard Industry Classification
+          SEC          Securities and Exchange Commission
+
+
+
+
+           This is a work of the U.S. government and is not subject to copyright protection in the
+           United States. It may be reproduced and distributed in its entirety without further
+           permission from GAO. However, because this work may contain copyrighted images or
+           other material, permission from the copyright holder may be necessary if you wish to
+           reproduce this material separately.
+
+
+
+
+          Page ii                                       GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 5 ===
+A
+United States General Accounting Office
+Washington, D.C. 20548
+
+
+
+                                    September 30, 2003
+
+                                    The Honorable Richard C. Shelby
+                                    Chairman
+                                    The Honorable Paul S. Sarbanes
+                                    Ranking Minority Member
+                                    Committee on Banking, Housing, and Urban Affairs
+                                    United States Senate
+
+                                    The Honorable Michael G. Oxley
+                                    Chairman
+                                    The Honorable Barney Frank
+                                    Ranking Minority Member
+                                    Committee on Financial Services
+                                    House of Representatives
+
+                                    The number of public accounting firms widely considered capable of
+                                    providing audit services to large national and multinational public
+                                    companies decreased from eight (the “Big 8”) in the 1980s to four (the “Big
+                                    4”) today.1 These four firms currently audit over 78 percent of all U.S.
+                                    public companies and 99 percent of public company annual sales. The Big
+                                    4 also dominate the market for audit services internationally. On July 30,
+                                    2003, we issued a report on the impact of this consolidation on competition
+                                    and audit services provided to large national and multinational companies
+                                    (as mandated by the Sarbanes-Oxley Act of 2002).2 This supplemental
+                                    report details more comprehensively the responses we received through
+                                    August 11, 2003, to a survey of a random sample of Fortune 1000 companies
+                                    on their experiences with their auditors of record.3 Specifically, our
+                                    objective was to obtain the views of the chief financial officers of large
+
+                                    1
+                                     The Big 8 were Arthur Andersen LLP, Arthur Young LLP, Coopers & Lybrand LLP, Deloitte
+                                    Haskins & Sells LLP, Ernst & Whinney LLP, Peat Marwick Mitchell LLP, Price Waterhouse
+                                    LLP, and Touche Ross LLP. The Big 4 accounting firms are Deloitte and Touche LLP, Ernst &
+                                    Young LLP, KPMG LLP, and PricewaterhouseCoopers LLP. These firms differ from other
+                                    firms by their total revenues, size, and global reach.
+                                    2
+                                     See U.S. General Accounting Office, Public Accounting Firms: Mandated Study on
+                                    Consolidation and Competition, GAO-03-864 (Washington, D.C.: July 30, 2003) and Pub. L.
+                                    No. 107-204 § 701 (2002).
+                                    3
+                                     We also surveyed the 97 largest public accounting firms for their views on accounting firm
+                                    consolidation and its potential implications; their responses are included in our July 30,
+                                    2003, report. This report focuses on the views of large public companies as clients of
+                                    accounting firms.
+
+
+
+
+                                    Page 1                                         GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 6 ===
+                   national and multinational public companies on (1) the relationship of their
+                   company with their auditor of record in terms of satisfaction, tenure of the
+                   relationship, and services provided; (2) the effects of consolidation on
+                   audit fees, quality, and auditor independence; and (3) the potential
+                   implications of consolidation for competition and auditor choice.
+
+                   We drew a random sample of 250 of the largest publicly held companies
+                   from the 2003 list of the Fortune 1000 companies produced by Fortune, a
+                   division of Time, Inc., after removing 40 private companies from this list.
+                   Of the 250 companies surveyed, we received responses from 159
+                   companies, or 64 percent; all of whom used a Big 4 firm as their auditor of
+                   record. The response rates for individual questions varied, depending on
+                   how many respondents answered each question. Because of the limited
+                   level of participation in the survey, the responses discussed in this report
+                   reflect only the views of the public companies that responded to the survey
+                   and are not projected to the entire population of public Fortune 1000
+                   companies. Appendix I discusses our survey methodology in detail. A
+                   copy of the questionnaire, annotated to show the respondents’ answers to
+                   each question, is included as appendix II. In addition, nearly 94 percent
+                   (149 of 159) of the respondents provided narrative comments on at least
+                   one of the key questions about their experiences with their auditors of
+                   record. Included as appendix III, these narrative comments provide
+                   valuable insight into how the respondents interpreted key questions and
+                   amplify the respondents’ views and experiences.
+
+
+
+Results in Brief   Most of the public companies responding to the survey (respondents) said
+                   they were satisfied with their current auditor, half had used their current
+                   auditor for 10 years or more, and almost all used their auditor of record for
+                   other nonaudit services. More than three-quarters of the respondents said
+                   that they were satisfied with their relationship with their current auditor of
+                   record. We also found an association between audit tenure and
+                   satisfaction. That is, the longer respondents had been with their current
+                   auditors, the more satisfied they were. Company-auditor relationships
+                   averaged 19 years, ranging from less than 1 year to 94 years. Although 61 of
+                   the 159 respondents had switched auditors since 1987, 37 of the 61 were
+                   former clients of Arthur Andersen (Andersen) that had switched since
+                   2001. Aside from the dissolution of Andersen, other reasons cited for
+                   changing auditors included concerns about auditor reputation, concern
+                   about the fees charged for audit and attest services, mergers and other
+                   ownership or management changes, and the desire to obtain a “fresh
+                   perspective.” When looking for a new auditor, most respondents said
+
+
+
+                   Page 2                                  GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 7 ===
+quality of services, the auditor’s reputation, industry specialization or
+expertise, and the engagement team’s chemistry or perceived ability to
+work with the company were of “great” or “very great” importance. Almost
+all the respondents used their auditor of record for a variety of services
+besides audit and attest, such as tax-related services and assistance with
+company debt and equity offerings.
+
+Respondents had differing views about whether the past consolidation of
+public accounting firms had some influence on audit fees, but most
+believed that it had little or no influence on audit quality or auditor
+independence. Although most (93 percent) respondents indicated that
+audit fees had increased over the past decade, they were split evenly
+between those who thought that the consolidation among the largest public
+accounting firms had an “upward influence” on audit fees and those who
+thought that it had “little or no influence” (47 percent versus 46 percent).
+More than twice as many respondents believed that audit quality increased
+over the past decade than decreased (44 percent compared to 18 percent)
+and a majority (63 percent) believed that accounting firm consolidation had
+little or no influence on changes in audit quality. Rather than consolidation,
+some respondents cited other reasons for changes in audit quality, such as
+new regulations resulting from the Sarbanes-Oxley Act and a change in the
+audit partner in charge of their audit.4 Similarly, while many respondents
+(59 percent) agreed that independence had increased over the past decade,
+72 percent of respondents believed that the past consolidation had little or
+no influence on auditor independence.
+
+While a majority of respondents believed that past consolidation had little
+or no impact on competition, many were concerned that the limited
+number of choices they have for audit services might create problems,
+given that 88 percent of the respondents said that they would not consider
+using a non-Big 4 firm for audit and attest services. The reasons they cited
+for choosing a Big 4 over a non-Big 4 firm included industry and technical
+expertise, reputation, and geographic presence. While over half of the 158
+respondents said that the options their company currently had were
+adequate, some companies expressed concerns about having too few
+alternatives if they were to change auditors. Respondents cited multiple
+
+4
+ Sarbanes-Oxley requires that the Securities and Exchange Commission (SEC) enact
+independence rules, which address areas such as prohibited nonaudit services, audit
+partner rotation, and conflicts of interest. See Pub. L. No. 107-204, Title II § 201- § 206 and 17
+C.F.R. Parts 210 and 240, Final Rule: Revision of the Commission’s Auditor Independence
+Requirements.
+
+
+
+
+Page 3                                            GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 8 ===
+             reasons to explain their concerns about limited choices among the Big 4,
+             including auditor independence rules and their companies’ need for certain
+             industry expertise. Moreover, a large majority (86 percent) of respondents
+             said that they would prefer a market with more than four big firms. Many
+             of these respondents also commented that they did not want to see further
+             consolidation within the Big 4. However, almost two-thirds of all
+             respondents said that they would not suggest any actions, such as
+             government intervention, to increase competition in the provision of audit
+             and attest services for large national and multinational companies.
+
+
+
+Background   Since the Securities Act of 1933 and the Securities Exchange Act of 1934
+             established the principle of full disclosure—requiring public companies to
+             provide full and accurate information to the investing public—public
+             accounting firms have played a critical role in companies’ financial
+             reporting and disclosure. While officers and directors of a public company
+             are responsible for the preparation and content of financial statements that
+             fully and accurately reflect the company’s financial condition and the
+             results of its operations, public accounting firms, which function as
+             independent external auditors are expected to provide an additional
+             safeguard. The external auditor is responsible for auditing companies’
+             financial statements in accordance with generally accepted auditing
+             standards (GAAS) to provide reasonable assurance that a company’s
+             financial statements are fairly presented in all material respects in
+             accordance with generally accepted accounting principles (GAAP).
+
+             Public accounting firms offer a broad range of services to their clients. In
+             addition to traditional audit and attest and tax services, firms also offer
+             consulting services in areas such as information technology. Although all
+             of the Big 4 firms continue to offer certain consulting services, three of the
+             Big 4 have sold or divested portions of their consulting businesses.5
+             Following the implementation of Sarbanes-Oxley, SEC issued new
+             independence rules in March 2003, which place additional limitations on
+             management consulting and other nonaudit services that firms could
+             provide to their audit clients. Sarbanes-Oxley also requires auditors to
+             report to and be overseen by a public company’s audit committee, which
+             consists of members of the company’s board of directors who are required
+
+
+             5
+              PricewaterhouseCoopers’ consulting practice was sold to International Business Machines
+             Corp.; KPMG’s consulting practice became BearingPoint; and Ernst & Young sold its
+             practice to Cap Gemini Group USA.
+
+
+
+
+             Page 4                                       GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 9 ===
+                           to be independent. The external auditor also interacts closely with the
+                           company’s senior management, including the chief financial officer.
+
+
+
+Most Respondents           Most of the survey respondents said they were satisfied with their current
+                           auditor. Moreover, half of the respondents reported that they have had the
+Were Satisfied with        same auditor of record for 10 or more years.6 Respondents gave various
+Their Auditor, Had         reasons for changing auditors, including concerns about their auditor’s
+                           reputation and fees. They also told us what factors would drive their
+Long-term                  decision in choosing a new auditor. Almost all respondents said that they
+Relationships, and         used their auditor of record for more than audit and attest functions,
+Used Their Auditor for     including tax-related services and assistance with company debt and equity
+                           offerings.
+a Variety of Services
+
+High Degree of Client      Overall, 80 percent (127 out of 158 respondents answering this question) of
+Satisfaction and Auditor   the respondents said they were “very” or “somewhat” satisfied with their
+                           current auditor of record, while 12 percent (19 of 158) said that they were
+Tenure
+                           very or somewhat dissatisfied, and 8 percent (12 of 158) said they were
+                           neither satisfied nor dissatisfied. Similarly, of the 135 respondents that
+                           provided the year they first employed their auditor of record, half of them
+                           said they had retained their auditor of record for 10 years or more. The
+                           average tenure was 19 years, ranging from less than 1 year to 94 years.
+                           When the 37 public companies that switched from Andersen because of
+                           Andersen’s dissolution were excluded, the average tenure increased to 25
+                           years, and the percentage of public companies that had retained their
+                           auditor for 10 years or more increased to 68 percent. Figure 1 shows the
+                           length of the relationship these respondents had with their current auditor.
+
+
+
+
+                           6
+                            The 159 respondents include 37 public companies that had to switch from Andersen since
+                           2002; Andersen dissolved in 2002.
+
+
+
+
+                           Page 5                                       GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 10 ===
+Figure 1: Length of Relationship with Current Auditor
+Number of companies
+     40
+40
+     37
+
+35
+
+
+30
+
+
+25
+
+
+20                           18
+
+15                                               13                             13
+                                                                                                12
+                   10
+10                                      8                                               8
+                                                            7
+                                                                      6
+ 5
+
+         3
+ 0
+       <2         2-5       6-10       11-15    16-20     21-25     26-30      31-40   41-50   51-94
+     Years
+
+
+               Former Andersen clients that switched within the last 2 years
+               All other respondents
+
+Source: GAO.
+
+
+
+We found that there was an association between the length of the company-
+auditor relationship and satisfaction. That is, the longer the relationship
+between a company and its auditor, the more likely that the company was
+satisfied with its auditor of record. As figure 2 shows, 94 percent (30 of 32)
+of companies with auditor tenure of more than 30 years were very or
+somewhat satisfied with their auditor, whereas 70 percent (28 of 40) of
+companies using their current auditor for 1 year or less said they were very
+or somewhat satisfied with their auditor.
+
+
+
+
+Page 6                                                   GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 11 ===
+Figure 2: Satisfaction with Current Auditor, by Tenure
+Percentage
+
+100
+                                                            94
+
+
+                                             79
+ 80                           75
+         70
+
+
+ 60
+
+
+
+
+ 40
+
+
+
+
+ 20              18
+                                                    15
+
+                                      7                            6
+
+  0
+         Less than            More than 1   More than 10     30 or
+           1 year             to 10 years    to 30 years   more years
+      Tenure with current auditor
+
+
+               Satisfied
+
+               Dissatisfied
+
+Source: GAO.
+
+
+
+Sixty-one of the respondents reported that they switched auditors since
+1987. Of those 61, 37 were former Andersen clients that switched within
+the last 2 years as a result of Andersen’s dissolution, five were former
+Andersen clients that switched over 2 years ago for reasons other than
+Andersen’s dissolution, and 19 were other respondents that switched from
+another Big 4 or non-Big firm since 1987, as shown in table 1. The
+respondents who were clients of Andersen and had to change auditors
+within the last 2 years as a result of Andersen’s dissolution were somewhat
+less satisfied with their current auditor than a separate group of 19
+respondents that had switched from another Big 4 or non-Big 4 firm since
+1987. Of the 37 former Andersen clients, 25 respondents indicated that they
+were satisfied with their current auditor of record, seven said that they
+were dissatisfied with their current auditor, and five said they were neither
+satisfied nor dissatisfied. Of the 19 other respondents that switched from
+other firms since 1987, proportionally more (16 respondents) said they
+were satisfied with their current auditor of record, while only one was
+
+
+
+Page 7                                                GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 12 ===
+                                          somewhat dissatisfied and two were neither satisfied nor dissatisfied.
+                                          While this suggests that clients leaving Andersen because of its dissolution
+                                          are less satisfied with their current audit arrangements than other firms
+                                          that had changed auditors in the past, it is important to note that the 37
+                                          respondents who were former Andersen clients also had the shortest
+                                          tenures with their current auditors, which may in part explain their lower
+                                          satisfaction.
+
+
+
+Table 1: Respondents That Had Switched Auditors Since 1987
+
+Categories of companies that                 Satisfied with    Dissatisfied with Neither satisfied nor Number of switching
+switched auditors                           current auditor     current auditor           dissatisfied         companies
+Former Andersen clients that switched
+within the past 2 years because of
+Andersen’s dissolution in 2002                          25                   7                     5                    37
+Former Andersen clients that switched
+from Andersen from 1987 through 2000,
+for other reasons                                        3                   0                     2                     5
+Respondents that switched from other
+Big 4 or non-Big 4 firms (not Andersen)
+from 1987 through 2003                                  16                   1                     2                    19
+Total                                                   44                   8                     9                    61
+Source: GAO.
+
+
+
+
+Respondents Cited Varied                  Respondents gave a variety of reasons for switching, including concerns
+Reasons for Changing                      about the reputation of their auditor, the need to retain an auditor that
+                                          could meet companies’ new demands, concerns about the level of fees
+Auditors and Factors for
+                                          charged for audit and attest services, and increased demands resulting
+Selecting a New Auditor                   from a corporate merger or change in company ownership. Four
+                                          respondents said their relationship with their former auditor was no longer
+                                          working, and another respondent cited a disagreement over an accounting
+                                          policy that resulted in the switch. While none of the respondents said their
+                                          company had a mandatory rotation policy, two respondents said their
+                                          companies switched auditors to obtain a “fresh perspective” and “as a form
+                                          of good governance.”
+
+                                          When we asked the respondents what factors would drive their decision if
+                                          they had to choose a new auditor, they most often cited “quality of services
+                                          offered” as a factor of “very great” or “great” importance (99 percent or 157
+
+
+
+
+                                          Page 8                                  GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 13 ===
+                             of 159).7 The second most highly rated factor was “reputation or name
+                             recognition of the auditor” (83 percent or 132 of 159), followed by “industry
+                             specialization or expertise” (81 percent or 128 of 159).
+
+
+
+                             Figure 3: Factors Cited in Choosing a New Auditor
+                             Factors
+
+                                                  Quality of
+                                                                                                                        76         23
+                                            services offered
+
+                                          Reputation or
+                                                                                                 42                           41
+                                       name recognition
+
+                                  Industry specialization
+                                                                                                        50                   31
+                                             or expertise
+
+                             Chemistry/perceived ability
+                                to effectively work with                              31                               43
+                                      engagement team
+
+                                                      Price                15                                39
+
+                                     Ability of auditor to
+                                      handle company's                                 32               17
+                                international operations
+
+                             Number of services offered            5                        31
+
+
+                                 Auditor's proximity to
+                                                                       8                 26
+                               company's headquarters
+
+                                                               0                20                 40             60          80    100
+                                                               Percentage
+
+
+                                                                           Very great importance
+
+                                                                           Great importance
+
+                             Source: GAO.
+
+
+
+
+Almost All Respondents       Ninety-four percent (149 of 159) of respondents obtained other services
+Used Auditors for Nonaudit   from their auditors in addition to audit and attest services. We asked
+                             respondents if their auditor provided any of the three following categories
+Services
+                             of services: tax-related, assistance with company debt and equity offerings,
+
+                             7
+                              The survey stated that “Audit quality is thought to include the knowledge and experience of
+                             audit firm partners and staff, the capability to efficiently respond to a client’s needs, and the
+                             ability and willingness to appropriately identify and surface material reporting issues in
+                             financial reports.”
+
+
+
+
+                             Page 9                                                           GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 14 ===
+                           and “other services.” Only 10 companies, or 6 percent, reported that their
+                           auditor of record provided them with only audit and attest services.
+                           Respondents for the remaining 149 companies said they used their auditor
+                           of record for one or a combination of other services. Specifically, 87
+                           percent (130 of 149) said their auditor provided tax-related services, such
+                           as tax preparation and 71 percent (106 of 149) said they received assistance
+                           with company debt and equity offerings. Thirty-seven percent (55 of 149)
+                           said they received other services, such as merger and acquisition due
+                           diligence, internal control reviews, or tax planning assistance.
+
+
+
+Respondents Had            Respondents had differing views about the impact of past consolidation
+                           among the largest accounting firms on audit fees, but most agreed that it
+Differing Views about      had little or no influence on audit quality or auditor independence. While
+Past Consolidation’s       93 percent (147 of 158) of respondents said that their audit fees increased
+                           over the past decade, they were almost evenly divided about whether past
+Influence on Audit         consolidation of the largest accounting firms had a “moderate upward” or
+Fees but Most Agreed       “great upward” influence (47 percent or 75 of 158) or little or no influence
+That It Had Little or No   (46 percent or 72 of 158). See figure 4.
+Influence on Audit
+Quality or Auditor
+Independence
+
+
+
+
+                           Page 10                                GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 15 ===
+Figure 4: Views on Change and Impact of Past Consolidation on Audit Fees
+
+Change in fees                                                           Impact of past consolidation on fees
+
+                                                                                Great
+    Greatly
+                                     32                                       upward              6
+ increased
+                                                                            influence
+                                                                            Moderate
+Somewhat
+                                                       61                     upward                                    41
+increased
+                                                                            influence
+
+  Little or                                                                   Little or
+                       2                                                                                                      46
+no change                                                                no influence
+
+                                                                            Moderate
+Somewhat
+                   4                                                       downward           1
+decreased
+                                                                            influence
+                                                                                Great
+   Greatly
+                   1                                                       downward           0
+decreased
+                                                                            influence
+
+Don't know         0                                                      Don't know              6
+
+               0           10   20   30   40   50       60    70   80                     0           10    20    30     40        50   60   70   80
+               Percentage                                                                 Percentage
+Source: GAO.
+
+
+
+                                                    More respondents said that audit quality had increased over the past
+                                                    decade rather than decreased, but the majority of them did not believe that
+                                                    past consolidation of the largest accounting firms influenced these
+                                                    changes. Specifically, 44 percent (69 of 158) of the respondents said that
+                                                    audit quality had increased, while 18 percent (29 of 158) said quality had
+                                                    decreased and 37 percent (58 of 158) said there had been little or no
+                                                    change. However, 63 percent (100 of 158) of the respondents believed that
+                                                    consolidation of the largest firms had little or no influence on the quality of
+                                                    audit and attest services their companies received (see fig. 5).
+
+                                                    The respondents provided other reasons for changes in audit quality,
+                                                    including changes in audit partner, new regulations and audit standards,
+                                                    and technical expertise of the audit team. Several respondents cited the
+                                                    importance of the assigned audit partner to overall audit quality. One
+                                                    respondent noted, “The partner in charge is critical [to audit quality].”
+                                                    Another respondent said audit quality improved because of “more personal
+                                                    involvement of the audit partner.” Other respondents believed that
+                                                    changes in audit quality were due to changes in audit methodologies and
+                                                    the Sarbanes-Oxley Act. According to one respondent, “The change in the
+                                                    depth and quality of the audit process is due to a more rigorous regulatory
+
+
+
+                                                    Page 11                                                GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 16 ===
+                                                              and litigation environment and not to audit firm consolidation.” Another
+                                                              respondent noted, “Following the Sarbanes-Oxley Act and Andersen’s
+                                                              downfall, other firms are increasing the level of work they do and the depth
+                                                              of the audit.” Finally, we received comments about the skills and
+                                                              experience of the audit team. One respondent wrote, “Answers to
+                                                              accounting questions take too long and quality of staff is poor.
+                                                              Fundamental audit practices are gone.” Another respondent similarly
+                                                              commented that the “level of experience seems to have declined,
+                                                              contributing to lower quality, [and] partners supervise more jobs.”
+                                                              However, that same respondent also noted that since his company had
+                                                              changed auditors, the “level of experience has improved.”
+
+
+
+Figure 5: Views on Changes in and Impact of Past Consolidation on Audit Quality
+Change in quality                                                                 Impact of past consolidation on quality
+
+                                                                                          Very
+     Much
+                       9                                                               positive            2
+     better
+                                                                                     influence
+                                                                                    Somewhat
+Somewhat
+                                           35                                          positive                 15
+   better
+                                                                                     influence
+
+  Little or                                                                            Little or
+                                               37                                                                                                  63
+no change                                                                         no influence
+
+                                                                                    Somewhat
+Somewhat
+                                16                                                    negative                      16
+   worse
+                                                                                     influence
+                                                                                          Very
+     Much
+                   2                                                                  negative         0
+     worse
+                                                                                     influence
+
+Don't know         1                                                               Don't know          4
+
+               0           10        20   30        40   50      60     70   80                    0           10         20    30    40    50     60    70    80
+               Percentage                                                                          Percentage
+Source: GAO.
+
+
+
+                                                              Finally, 59 percent (94 of 158) of the respondents indicated that their
+                                                              auditor had become more independent over the past decade, while 1
+                                                              percent (2 of 158) said that their auditor had become less independent and
+                                                              38 percent (60 of 158) said that there had been no change in their auditor’s
+                                                              independence. However, 72 percent (114 of 158) of the respondents also
+                                                              said that past consolidations of the largest accounting firms had little or no
+                                                              influence on auditor independence (see fig. 6). The remaining views
+                                                              varied, with 16 percent (26 of 158) of respondents believing that the
+
+
+
+                                                              Page 12                                                    GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 17 ===
+                                                           consolidations had a negative influence on auditor independence and 8
+                                                           percent (12 of 158) saying that it had a positive influence. Some of the
+                                                           respondents commented that audits had been positively affected by SEC’s
+                                                           new independence requirements, while one respondent said that the new
+                                                           rules had not significantly enhanced auditor independence.
+
+
+
+Figure 6: Views on Changes in and Impact of Past Consolidation on Auditor Independence
+Change in independence                                                         Impact of past consolidation on independence
+
+      Much                                                                             Very
+      more             11                                                           positive        3
+independent                                                                       influence
+  Somewhat                                                                       Somewhat
+      more                                       48                                 positive            5
+independent                                                                       influence
+
+   Little or                                                                        Little or
+                                       38                                                                                                         72
+ no change                                                                     no influence
+
+  Somewhat                                                                       Somewhat
+       less        1                                                               negative                  15
+independent                                                                       influence
+      Much                                                                             Very
+       less        1                                                               negative         1
+independent                                                                       influence
+
+ Don't know        1                                                            Don't know          4
+
+               0        10   20   30        40        50       60    70   80                    0           10     20    30    40     50    60    70    80
+               Percentage                                                                       Percentage
+Source: GAO.
+
+
+
+
+Respondents Were                                           Respondents raised concerns about the future implications of
+                                                           consolidation, especially about possible limitations on audit firm choice. A
+Concerned That                                             significant majority of respondents said that their companies would not use
+Limited Audit Choices                                      a non-Big 4 accounting firm for audit services, which limited their choices.
+                                                           While most respondents said that they would be able to use another Big 4
+May Create Problems                                        firm as their auditor of record if they had to change, they also said that they
+                                                           would prefer more large firms from which to choose. Moreover, they
+                                                           raised concerns that further consolidation among the largest accounting
+                                                           firms would result in too few choices. Yet, despite those concerns, most
+                                                           respondents favored allowing market forces to dictate the level of
+                                                           competition in the market for audit and attest services.
+
+
+
+
+                                                           Page 13                                                GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 18 ===
+Respondents Preferred Big   Eighty-eight percent (139 of 158) of respondents indicated that they would
+4 Firms over Non-Big 4      not consider using a non-Big 4 firm for audit and attest services. As shown
+                            in figure 7, nearly all the respondents cited three factors as being of great or
+Firms for Audit Services    very great importance in determining why their companies would not use a
+                            non-Big 4 firm: (1) auditor’s technical skills and knowledge of the
+                            company’s industry (91 percent or 126 of 138); (2) the reputation of the
+                            accounting firm (91 percent or 126 of 138); and (3) the capacity of the firm
+                            (90 percent or 125 of 138). These three factors also corresponded closely
+                            to the most frequently cited factors in choosing a new auditor as previously
+                            noted in figure 3. One respondent noted, “We have operations in 40
+                            countries and want all our auditors to operate with the same systems and
+                            procedures. Only a global firm can deal with this complexity in a cost-
+                            effective manner and give us the continuity of support for U.S. generally
+                            accepted accounting principles and local statutory requirements.” Another
+                            respondent noted, “We would want a Big 4 firm because of its global
+                            presence and capabilities, reputation, and depth of resources available.”
+                            Sixty-five percent (89 of 137) of respondents also cited geographic
+                            presence and 60 percent (81 of 134) cited the lack of consent from the
+                            company’s board of directors as reasons of great or very great importance.
+                            Respondents also provided the following reasons as to why they would not
+                            use a non-Big 4 firm: their shareholders would not want a non-Big 4 firm;
+                            to gain investor confidence or stock market acceptance; Big 4 firms have
+                            financial resources to stand behind their work; public companies are
+                            expected to use them; and the quality of services from a Big 4.
+
+
+
+
+                            Page 14                                  GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 19 ===
+                        Figure 7: Reasons Cited for Not Using a Non-Big 4 Firm
+                        Factors
+
+                           Technical skill/
+                            knowledge of                                                            64        27
+                                 industry
+
+                             Reputation of
+                                                                                          57                  34
+                                audit firm
+
+
+                               Capacity of
+                                                                                     48                       42
+                                audit firm
+
+                              Geographic
+                        presence required                                 37                        28
+                             of audit firm
+
+                        Board of directors
+                                                                 25                            35
+                        would not allow it
+
+
+                        Inferred obligation
+                                                           19                   26
+                          to use Big 4 firm
+
+                              Contractual
+                         obligation to use        7         14
+                              a Big 4 firm
+                                              0                 20             40               60       80          100
+                                              Percentage
+
+
+                                                      Very great importance
+
+                                                      Great importance
+
+                        Source: GAO.
+
+
+
+
+Majority of Survey      While 57 (90 of 158) percent of respondents said that the number of firms
+Respondents Preferred   their companies could use for audit and attest services was adequate as
+                        compared with the 43 percent (68 of 158) who said it was not, 86 percent
+More Audit Choices
+                        (117 of 136) told us that ideally there should be more than four large
+                        accounting firms as viable choices for large national and multinational
+                        public companies. In responding to our question on what they thought the
+                        optimal number of firms for large companies should be, 74 percent (100 of
+                        136) said they would prefer from five to eight large accounting firms to
+                        provide audit and attest services to large national and multinational public
+                        companies and 12 percent (17 of 136) of the respondents preferred more
+                        than eight firms. Fourteen percent (19 of 136) of the respondents said four
+                        or fewer firms would be optimal. Most comments we received in favor of
+                        more firms addressed the need to increase competition, decrease fees, and
+
+
+
+                        Page 15                                                 GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 20 ===
+                             comply with the new independence rules as required by Sarbanes-Oxley.
+                             Respondents noted, “More firms will improve the competition in the
+                             [accounting] industry,” “more choices, more competition, lower cost,” and
+                             “one firm provides [our] tax planning services which may impair [its]
+                             independence.” Another respondent wrote, “Slightly more options would
+                             enhance technical resourcing opportunities external to current auditors.”
+
+                             However, we also received many comments cautioning that too great a
+                             number of firms might have negative implications. One respondent said,
+                             “Any greater number of firms would have difficulty in maintaining scale to
+                             properly serve large international companies.” According to another
+                             respondent, “If the number gets too big, then [it would be] hard to have
+                             level of expertise in certain industries.” Some respondents felt that four or
+                             five big firms would be sufficient. One respondent wrote, “As a firm
+                             believer in the efficiency of the marketplace, I believe that the current
+                             number of large firms (4) is probably close to the optimum number, but
+                             wouldn’t mind seeing another major firm gradually emerge.” Another
+                             respondent wrote, “Balance must be struck between competition and
+                             fragmentation of a fixed talent pool.”
+
+
+
+Respondents Said Further     When asked the minimum number of accounting firms necessary to
+Consolidation Would Result   provide audit and attest services to large national and multinational public
+                             companies, 82 percent (120 of 147) of respondents indicated that the
+in Too Few Choices
+                             market was either at its minimum or already below the minimum number
+                             required. Fifty-nine percent (86 of 147) said that four or five large
+                             accounting firms would be the necessary minimum. According to one
+                             respondent, “Four is the absolute minimum, because if you currently use
+                             one firm for external audit purposes and another firm for internal audit
+                             purposes, that only leaves two other firms from which to choose if you
+                             want to change auditors or use a Big 4 firm for consulting services.”
+
+                             Some respondents pointed out that not even all the Big 4 firms have the
+                             necessary industry expertise required to conduct their companies’ audits.
+                             According to one respondent, “From a realistic standpoint, only one other
+                             Big 4 firm has a utility practice that would help [it] understand our
+                             industry.” Another respondent wrote, “We use one of the Big 4. Two of
+                             them do not have industry expertise. Only one of the remaining three has
+                             industry expertise in the geographic region.”
+
+                             Although Sarbanes-Oxley prohibits a company’s external auditor from
+                             providing internal audit services and certain other consulting services to
+
+
+
+                             Page 16                                GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 21 ===
+                             the same company, many companies currently use one of the Big 4 as their
+                             external auditor and one of the remaining three Big 4 firms for nonaudit
+                             services such as tax consulting and internal audits. Therefore, a company
+                             with this arrangement that needed to change auditors would have one
+                             fewer alternative or would need to terminate its internal audit or consulting
+                             relationship. For example, one respondent noted, “Aside from our current
+                             auditor, we use another of the Big 4 as a co-source provider of internal
+                             audit services, so [we] would not consider them. We are using a third for
+                             tax work so it would be hard under Sarbanes-Oxley to switch to them.”
+
+
+
+Most Respondents Prefer to   Despite the fact that 94 percent of respondents said they had three or fewer
+Allow Market Forces to       options from which to choose if they had to change auditors, 62 percent (98
+                             of 159) of respondents said they would not suggest that any actions be
+Dictate the Level of         taken to increase competition in the provision of audit and attest services
+Competition in the Audit     for large national and multinational companies. When asked whether steps
+Market                       should be taken to increase the number of available choices, 79 percent (65
+                             of 83) opposed government action to break up the Big 4, while 66 (55 of 83)
+                             percent opposed any government action to assist non-Big 4 firms. Seventy-
+                             eight percent (64 of 82) of respondents said they would favor letting market
+                             forces operate without government intervention.
+
+                             While some respondents expressed their belief that the market would
+                             adjust to create a more competitive environment, others expressed
+                             uncertainty about whether government actions could increase competition.
+                             According to one respondent, “Government action to assist the non-Big 4
+                             firms will not work. The level of expertise and depth of resources required
+                             to deal with ever increasing levels of complexity and regulation cannot be
+                             [solved through] government intervention.” However, another respondent
+                             commented, “Having only four large firms is a concern. The benefits of
+                             consolidation should be higher quality, less variation in advice, stronger
+                             financial resources of the accounting firm, and more accountability. If
+                             these benefits are not achieved, then the government may need to
+                             intervene.” In addition, several respondents expressed concern about
+                             further consolidation. Referring to the dissolution of Andersen, one
+                             respondent said, “Our biggest concern is the ease with which a firm can
+                             disappear.” Another stated, “The failure of Andersen had a devastating
+                             impact and ultimately resulted in fewer qualified professionals providing
+                             attest services during a time of rapidly increasing complexity in applying
+                             GAAP.”
+
+
+
+
+                             Page 17                                GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 22 ===
+We are sending copies of this report to the Chairman and Ranking Minority
+Member of the House Committee on Energy and Commerce. We are also
+sending copies of this report to the Chairman of SEC, the Chairman of the
+Public Company Accounting Oversight Board, and other interested parties.
+We also will make copies available to others upon request. In addition, the
+report will be available at no charge on the GAO web site at
+http://www.gao.gov.
+
+This report was prepared under the direction of Orice M. Williams,
+Assistant Director. Please contact her or me at (202) 512-8678 if you or
+your staffs have any questions concerning this work. Key contributors are
+acknowledged in appendix IV.
+
+
+
+
+Davi M. D’Agostino
+Director, Financial Markets and
+Community Investment
+
+
+
+
+Page 18                               GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 23 ===
+Appendix I
+
+Scope and Methodology
+
+
+             We surveyed a random sample of 250 of the 960 largest publicly-held
+             companies. We defined this population using the 2003 list of the Fortune
+             1000 companies produced by Fortune, a division of Time, Inc., after
+             removing 40 private companies from this list. We mailed a paper
+             questionnaire to the chief financial officers, or other executives performing
+             a similar role, requesting their views on the services they received from
+             their auditor of record, the effects of past consolidation on competition
+             among accounting firms, and its potential implications. To develop this
+             questionnaire, we consulted with a number of experts at GAO, the
+             American Institute of Certified Public Accountants, and the Securities and
+             Exchange Commission, and pretested a draft questionnaire with six large
+             public companies from a variety of industries. The survey began on May 6,
+             2003. We removed one company that had gone out of business and
+             received 159 usable responses as of August 11, 2003, from the final sample
+             of 249 companies, for an overall response rate of 64 percent. The number
+             of responses to an individual question may be fewer than 159, depending on
+             how many respondents answered that question.
+
+             While the survey results are based on a random sample drawn to be
+             representative of the population of publicly held Fortune 1000 companies
+             and thus could be adjusted statistically to represent the whole population,
+             including those not sampled, we are instead reporting totals and
+             percentages only for those companies actually returning questionnaires.
+             We did this because a significant number of sampled companies did not
+             respond, and the answers respondents gave could differ from those
+             nonrespondents might have given had they participated. This kind of
+             potential error from nonresponse, when coupled with the sampling error
+             that results from studying only a fraction of the population, made it
+             particularly risky to project the results of our survey to not only the
+             nonrespondents, but also to the part of the public company population we
+             did not sample. There are other practical difficulties in conducting any
+             survey that may also contribute to errors in survey results. For example,
+             differences in how a question is interpreted or the sources of information
+             available to respondents can introduce unwanted variability into the survey
+             results. We took steps during data collection and analysis to minimize such
+             errors. In addition to the questionnaire testing and development measures
+             mentioned above, we followed up with nonresponding companies with
+             telephone calls to help them overcome problems they encountered in
+             completing the survey and to encourage them to respond. We also checked
+             and edited the survey data and programs used to produce our survey
+             results.
+
+
+
+
+             Page 19                                GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 24 ===
+Appendix I
+Scope and Methodology
+
+
+
+
+All 159 companies responding to our survey employed a Big 4 firm as their
+auditor of record. These companies derived an average of 83 percent of
+their total revenues from operations within the United States and paid, on
+average, $3.19 million in fees to their auditor of record in the fiscal year
+prior to the survey. Using Standard Industry Classification (SIC) codes, we
+found that 149 respondents represented 39 different industry sectors; we
+could not identify an SIC code for the other 10 respondents. The top 7
+industry sectors represented were
+
+• electric, gas, and sanitary services (17 companies),
+
+• depository institutions (10 companies),
+
+• business services (9 companies),
+
+• industrial and commercial machinery and computer equipment (9
+  companies),
+
+• wholesale trade-non-durable goods (9 companies),
+
+• chemicals and allied products (8 companies), and
+
+• electronic and other electrical equipment and components, except
+  computer equipment (6 companies).
+
+
+
+
+Page 20                                GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 25 ===
+Appendix II
+
+Annotated Public Company Survey
+
+
+
+
+                                                  United States General Accounting Office
+
+
+                                                  Survey of Public Companies
+
+              Introduction                                           Instructions
+
+              The Sarbanes-Oxley Act of 2002 mandated that           Please complete this questionnaire specifically
+              the U.S. General Accounting Office (GAO), the          for the company named in the cover letter, and
+              independent research and investigative arm of          not for any subsidiaries or related companies.
+              Congress, study the impact of the recent
+              consolidation of firms in the accounting               This questionnaire should be completed by the
+              profession.                                            Chief Financial Officer (CFO) or other
+                                                                     executive of this organization who can provide
+              To provide a thorough, fair, and balanced report       historical information on mergers, operations
+              to Congress, it is essential that we obtain the        and finance, as well as report the corporate
+              experiences and viewpoints of a representative         policy of this firm.
+              sample of public companies.
+                                                                     Please return the completed questionnaire in the
+              Your company was selected randomly from the            enclosed envelope within 10 business days of
+              2002 list of Fortune 1000 companies. It is             receipt. If the envelope is misplaced, our
+              important for every selected firm to respond to        address is:
+              ensure the validity of our research.
+                                                                            U. S. General Accounting Office
+              The results of the survey will be compiled and                Attn: Cecile Trop
+              presented in summary form only as part of our                 200 W. Adams Street, #700
+              report, and GAO will not release individually                 Chicago, IL 60606
+              identifiable data from this survey, unless
+              compelled by law or required to do so by the           If you have any questions or concerns about this
+              Congress.                                              survey, please contact:
+
+                                                                            Michelle Pannor
+                                                                            Telephone: (202) 512-3608
+                                                                            Email: pannorm@gao.gov
+
+                                                                     Thank you for participating in this survey.
+
+
+
+
+                                                                 1
+
+
+
+
+                     Page 21                                                 GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 26 ===
+  Appendix II
+  Annotated Public Company Survey
+
+
+
+
+Background
+
+
+1. Approximately what percentage of your company’s total revenues are derived from operations
+   within and outside of the United States?
+   Please enter percentages totaling 100%.
+
+ _____% of our revenues are derived from operations within the United States
+                                           N=158 Mean=83 Median=95 Range=12-100
+
+ _____% of our revenues are derived from operations outside of the United States
+                                           N=110 Mean=25 Median=20 Range=0-88
+
+  100 % Total revenues
+
+
+2. If your company was founded in the past decade, in what year was it founded?
+   Please enter 4-digit year.
+
+   _______________ Year founded
+
+
+3. What is the name of your company’s current auditor of record and when did this firm become
+   your auditor of record? Please enter name of auditor and 4-digit year hired.
+
+    ______________________________ Name of auditor
+
+   _______________________________ First year employed as auditor
+
+
+4. What type of services does your auditor of record currently provide to your company? Please
+   check all that apply.
+
+   1.     Only audit and attest services                                             N=10
+   2.     Tax-related services (e.g., tax preparation)                               N=130
+   3.     Assistance with company debt and equity offerings (e.g. comfort letters)   N=106
+   4.     Other services - please describe:                                          N=54
+
+          _______________________________________________________________________
+
+
+
+
+                                             2
+
+
+
+
+  Page 22                                                 GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 27 ===
+  Appendix II
+  Annotated Public Company Survey
+
+
+
+
+5. Approximately how much were the total annual fees that your company paid to your auditor of
+   record for audit and attest services during your last fiscal year?
+   Please enter approximate dollar figure.
+   N=156
+
+    $_________________ Annual fees                                 Mean=$3,189,578
+                                                                   Median=$1,334,500
+                                                                   Range=$13,807-$62,000,000
+
+6. Starting in 1987, when consolidation of the largest accounting firms began, or since your
+   company was founded (if that occurred after 1987), has your company employed more than one
+   auditor of record? Please check one box.
+   N=158
+
+   1.     Yes - how many: ________                                               38%
+   2.     No         SKIP TO NEXT PAGE                                           62%
+
+
+
+7. What were the names and tenures of the most recent previous auditor(s) of record your company
+   has employed since 1987? Please name up to two of the most recent previous auditors and
+   years employed.
+
+    ________________________ Name of auditor           from (year)_____ to (year)_______
+
+    ________________________ Name of auditor           from (year)_____ to (year)_______
+
+
+8. Which of the following reasons explain why your company changed auditor of record one or
+   more times since 1987? Please check all that apply.
+
+   1.     Our company had a mandatory rotation policy                             N=0
+   2.     Expansion of our company required an auditor of record that could meet new demands
+                                                                                  N=7
+   3.     New regulations forbidding use of auditor for management consulting and other services
+                                                                                  N=2
+   4.     Fees for audit and attest services                                      N=7
+   5.     Concern about reputation of our auditor of record                       N=10
+   6.     Our auditor of record was going out of business                         N=31
+   7.     Our auditor of record resigned                                          N=0
+   8.     Relationship with our auditor of record was no longer working           N=4
+   9.     Other – please describe:                                                N=19
+
+          __________________________________________________________________
+
+
+                                            3
+
+
+
+
+  Page 23                                                GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 28 ===
+    Appendix II
+    Annotated Public Company Survey
+
+
+
+
+ 9. If your company previously employed Arthur Andersen as your auditor of record and switched
+    to another firm in the past two years, did you switch to the firm to which your previous Arthur
+    Andersen partner moved? Please check one box.
+    N=56
+
+     1.     Not applicable – did not employ Arthur Andersen               34%
+     2.     Yes, switched to partner’s new firm                           30%
+     3.     No, switched to other firm –                                  36%
+     please explain: _______________________________________________________________
+
+Consolidation in the Accounting Profession
+
+We are focusing on the trend toward consolidation that has occurred in the public accounting
+profession starting in 1987, when consolidation activity among the largest firms began, primarily the
+consolidation of the “Big 8” into the “Big 4.” This section asks you to consider how your company’s
+relationship with its auditor of record, and the audit services it provides, has changed over this time
+frame. Although a number of factors may have influenced these changes, we would like you to
+assess the influence of consolidation in the accounting profession in particular. Please base your
+answers on your experience in the past decade or, if this is not possible, on the time frame that
+reflects your experience.
+
+ 10. How have the fees that your company pays for audit and attest services changed over the past
+     decade? If it is not possible for you to answer for the past decade, please base your answer on
+     the time frame that best reflects your experiences. Please check one box.
+     N=158
+
+     1.     Greatly increased                                                           32%
+     2.     Somewhat increased                                                          61%
+     3.     Little or no change                                                         2%
+     4.     Somewhat decreased                                                          4%
+     5.     Greatly decreased                                                           1%
+
+
+
+
+                                                 4
+
+
+
+
+    Page 24                                                   GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 29 ===
+  Appendix II
+  Annotated Public Company Survey
+
+
+
+
+11. If your company changed auditors within the last two years, how have the fees your company
+    pays your current auditor of record changed compared to the fees paid to your previous auditor?
+    Please check one box.
+    N=156
+
+   1.      Not applicable – have not changed auditors                                    71%
+   -----------------------------------------------------------
+   2.      Greatly increased                                                             5%
+   3.      Somewhat increased                                                            15%
+   4.      Little or no change                                                           7%
+   5.      Somewhat decreased                                                            2%
+   6.      Greatly decreased                                                             0%
+
+12. In your opinion, how has the consolidation of the largest accounting firms over the past decade
+    influenced the fees that your company pays for auditing and attest services?
+    N=158
+
+   1.     Great upward influence                                                         6%
+   2.     Moderate upward influence                                                      41%
+   3.     Little or no influence                                                         46%
+   4.     Moderate downward influence                                                    1%
+   5.     Great downward influence                                                       0%
+   ----------------------------------------------------------
+   6.     Don’t know                                                                     6%
+
+13. Audit quality is often thought to include the knowledge and experience of audit firm partners
+    and staff, the capability to efficiently respond to a client’s needs, and the ability and willingness
+    to appropriately identify and surface material reporting issues in financial reports.
+
+   Do you believe that the overall quality of audit services your company receives has gotten better
+   or worse over the past decade? Please check one box.
+   N=158
+
+   1.     Much better                                                                    9%
+   2.     Somewhat better                                                                35%
+   3.     Little or no change                                                            37%
+   4.     Somewhat worse                                                                 16%
+   5.     Much worse                                                                     3%
+   ----------------------------------------------------------
+   6.     Don’t know                                                                     1%
+
+
+
+
+                                                      5
+
+
+
+
+  Page 25                                                        GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 30 ===
+  Appendix II
+  Annotated Public Company Survey
+
+
+
+
+14. If your company changed auditors within the last two years, do you believe that the overall
+    quality of audit services your company receives from your current auditor is better or worse
+    than the overall quality of audit services your company received from its previous auditor?
+    Please check one box.
+    N=154
+
+   1.      Not applicable – have not changed auditors                                71%
+   ----------------------------------------------------------
+   2.      Much better                                                               5%
+   3.      Somewhat better                                                           10%
+   4.      Little or no change                                                       8%
+   5.      Somewhat worse                                                            5%
+   6.      Much worse                                                                1%
+   -----------------------------------------------------------
+   7.      Don’t know                                                                0%
+
+
+15. In your opinion, how has the consolidation of the largest accounting firms over the past decade
+    influenced the quality of audit and attest services that your company receives?
+    N=158
+
+   1.     Very positive influence                                                    2%
+   2.     Somewhat positive influence                                                15%
+   3.     Little or no influence                                                     63%
+   4.     Somewhat negative influence                                                16%
+   5.     Very negative influence                                                    0%
+   ----------------------------------------------------------
+   6.     Don’t know                                                                 4%
+
+16. If you have experienced a change in audit quality, please explain:
+    If you have not experienced a change, please enter “none.”
+
+   _________________________________________________________________________
+
+   _________________________________________________________________________
+
+   _________________________________________________________________________
+
+
+
+
+                                                      6
+
+
+
+
+  Page 26                                                        GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 31 ===
+  Appendix II
+  Annotated Public Company Survey
+
+
+
+
+17. Auditor independence is often thought to relate to the accounting firm’s ability and willingness
+    to appropriately deal with (a) financial reporting issues that may indicate materially misstated
+    financial statements; (b) the appearance of independence in terms of the other services a firm is
+    allowed to and chooses to provide to their clients; and (c) how much influence clients appear to
+    have in the audit decisions.
+
+  Do you believe that your company’s auditor(s) has become more or less independent over the
+  past decade? Please check one box.
+  N=158
+
+   1.      Much more independent                                                      11%
+   2.      Somewhat more independent                                                  48%
+   3.      Little or no change                                                        38%
+   4.      Somewhat less independent                                                  1%
+   5.      Much less independent                                                      1%
+   ----------------------------------------------------------
+   6.      Don’t know                                                                 1%
+
+
+18. If your company changed auditors within the last two years, do you believe that your current
+    auditor is more or less independent than your previous auditor?
+    Please check one box.
+    N=155
+
+   1.      Not applicable – have not changed auditors                                 72%
+   ----------------------------------------------------------
+   2.      Much more independent                                                      5%
+   3.      Somewhat more independent                                                  11%
+   4.      Little or no change                                                        12%
+   5.      Somewhat less independent                                                  0%
+   6.      Much less independent                                                      0%
+   ----------------------------------------------------------
+   7.      Don’t know                                                                 0%
+
+
+
+
+                                                      7
+
+
+
+
+  Page 27                                                       GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 32 ===
+  Appendix II
+  Annotated Public Company Survey
+
+
+
+
+19. In your opinion, how has the consolidation of the largest accounting firms over the past decade
+    influenced the ability of your auditor of record to maintain independence in the audit and attest
+    services it provides to your company? Please check one box.
+    N=158
+
+   1.     Very positive influence                                                      3%
+   2.     Somewhat positive influence                                                  5%
+   3.     Little or no influence                                                       72%
+   4.     Somewhat negative influence                                                  15%
+   5.     Very negative influence                                                      1%
+   ----------------------------------------------------------
+   6.     Don’t know                                                                   4%
+
+
+
+20. How satisfied are you with your current auditor of record?
+    Please check one box
+    N=158
+
+   1.     Very satisfied                                                               45%
+   2.     Somewhat satisfied                                                           35%
+   3.     Neither satisfied nor dissatisfied                                           8%
+   4.     Somewhat dissatisfied                                                        11%
+   5.     Very dissatisfied                                                            1%
+   ----------------------------------------------------------
+   6.     Don’t know                                                                   0%
+
+
+
+
+                                                      8
+
+
+
+
+  Page 28                                                       GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 33 ===
+        Appendix II
+        Annotated Public Company Survey
+
+
+
+
+Competition in the Public Accounting Profession
+
+     21. Would you consider using a non-Big 4 firm for audit and attest services?
+         Please check one box
+         N=158
+
+         1.      Not applicable – already use a non-Big 4 firm               SKIP TO QUESTION 23
+                                                                                      4%
+         2.      Yes              SKIP TO QUESTION 23                                 8%
+         3.      No                                                                   88%
+
+
+     22. IF NO: How important are the following reasons in explaining why you would not consider
+         using a non-Big 4 firm? Please check one box in each row.
+
+                                      Very Great     Great       Moderate       Some       Little or No   Don’t
+                                      Importance   Importance   Importance    Importance   Importance     Know
+                                         (1)          (2)          (3)           (4)           (5)         (6)
+Geographic presence that our
+company requires of an auditor          37%          28%          18%            9%            8%         0%
+N=137
+Technical skill/knowledge of
+industry                                64%          27%           6%            3%            0%         0%
+N=138
+
+Capacity of audit firm                  48%          42%           8%            1%            1%         0%
+N=138
+
+Reputation of audit firm                57%          34%           9%            0%            0%         0%
+N=138
+Contractual obligation to use a
+Big 4 firm (e.g., with banks,            7%          14%          15%           11%           46%         7%
+lenders, or landlords)
+N=137
+Inferred obligation to use a Big 4
+firm (e.g., with banks, lenders, or     19%          26%          19%           12%           20%         4%
+landlords)
+N=136
+Our Board of Directors would
+not allow it                            25%          35%          14%            4%            4%         18%
+N=134
+Other - please describe:
+                                        N=10          N=3          N=0           N=0          N=0         N=7
+N=20
+
+
+
+
+                                                       9
+
+
+
+
+        Page 29                                                     GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 34 ===
+        Appendix II
+        Annotated Public Company Survey
+
+
+
+
+     23. If you had to switch your auditor of record, how easy or difficult would each of the following
+         stages be? Please check one box in each row.
+                                   Very         Somewhat      Neither Easy    Somewhat   Very         Don’t
+                                  Difficult      Difficult    nor Difficult     Easy     Easy         Know
+                                     (1)           (2)             (3)          (4)       (5)          (6)
+Identifying eligible candidates
+                                    1%            11%             8%            15%      65%          0%
+N=158
+Reviewing proposals and
+selecting the new auditor           3%            38%             29%           21%       9%          0%
+N=157
+Transitioning to the new
+auditor (e.g., training)           39%            53%             5%            1%        1%          1%
+N=158
+Other - please describe:
+N=19                               N=11           N=2             N=0           N=0      N=0          N=6
+
+
+     24. Aside from your current auditor of record, how many firms do you think your company would
+         have as options if you needed to change auditors?
+         Please enter the number of firms to which your company could switch.
+         N=157
+         __________________ firm(s)
+
+                                           Range of responses=0–3                N=148          94%
+                                           Range of responses=4–8                N=9            6%
+
+         Please explain: ___________________________________________________________
+
+         _________________________________________________________________________
+
+
+
+     25. Do you think the number of firms your company has as options for auditing and attest services
+         is enough? Please check one box.
+         N=158
+
+         1.     Yes                                                                             57%
+         2.     No                                                                              43%
+
+         Please explain: ___________________________________________________________
+
+         _________________________________________________________________________
+
+         _________________________________________________________________________
+
+
+
+                                                         10
+
+
+
+
+        Page 30                                                          GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 35 ===
+        Appendix II
+        Annotated Public Company Survey
+
+
+
+
+     26. Would your company choose as your auditor of record an accounting firm that currently audits
+         one of your competitors? Please check one box.
+         N=157
+
+         1.     Yes                                                                       92%
+         2.     No                                                                        8%
+
+         Please explain: ___________________________________________________________
+
+         _________________________________________________________________________
+
+         _________________________________________________________________________
+
+
+     27. If you had to choose a new auditor of record, how important would each of the following factors
+         be to your decision? Please check one box in each row.
+
+                                    Very Great     Great       Moderate    Some     Little or No   Don’t
+                                    Importance   Importance   Importance Importance Importance     Know
+                                       (1)          (2)          (3)         (4)         (5)        (6)
+Price
+                                      15%          39%          37%          7%          2%        0%
+N=157
+
+Number of services offered
+                                       5%          31%          33%         20%         10%        1%
+N=158
+
+Quality of services offered
+                                      76%          23%           1%          0%          0%        0%
+N=159
+Industry specialization or
+Expertise                             50%          31%          15%          4%          0%        0%
+N=159
+Reputation or name recognition
+of the auditor                        42%          41%          11%          5%          1%        0%
+N=159
+Auditor’s proximity to your
+company’s headquarters                 8%          26%          42%          9%         15%        0%
+N=159
+Ability of auditor to handle your
+company’s international               32%          17%           8%          7%         35%        1%
+operations
+N=155
+Chemistry/perceived ability to
+effectively work with engagement      31%          43%          18%          6%          2%        0%
+team
+N=159
+Other - please describe:               N=5          N=2          N=0        N=0         N=0        N=5
+N=12
+
+
+
+                                                     11
+
+
+
+
+        Page 31                                                   GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 36 ===
+        Appendix II
+        Annotated Public Company Survey
+
+
+
+
+     28. Has the consolidation of the largest accounting firms over the past decade made it harder or
+         easier for your company to satisfactorily select an auditor and maintain a relationship with that
+         auditor? Please check one box.
+         N=158
+
+         1.      Much harder                                                                         6%
+         2.      Somewhat harder                                                                     17%
+         3.      Little or no effect                                                                 68%
+         4.      Somewhat easier                                                                     3%
+         5.      Much easier                                                                         0%
+         ----------------------------------------------------------
+         6.      Don’t know                                                                          6%
+
+     29. How, if at all, has the consolidation of the largest accounting firms over the past decade affected
+         competition in the provision of audit and attest services? If it is not possible for you to answer
+         for the past decade, please base your answer on the time frame that best reflects your
+         experiences. Please check one box.
+         N=159
+
+         1.      Greatly increased competition                                                       1%
+         2.      Somewhat increased competition                                                      9%
+         3.      Little or no effect               SKIP TO QUESTION 31                               50%
+         4.      Somewhat decreased competition                                                      24%
+         5.      Greatly decreased competition                                                       11%
+     ----------------------------------------------------------
+         6.      Don’t know                                                                          5%
+
+     30. How, if at all, has this change in competition affected each of the following areas?
+                                   Greatly       Somewhat        Little or No   Somewhat     Greatly       Don’t
+                                  Increased      Increased          Effect      Decreased   Decreased      Know
+                                     (1)              (2)             (3)          (4)         (5)          (6)
+Costs
+                                    12%              61%              14%         5%          0%           8%
+N=77
+
+Quality of service
+                                     1%              16%              43%         31%         1%           8%
+N=77
+Auditor independence at the
+overall firm level                   1%              10%              68%         14%         0%           6%
+N=77
+Auditor independence at the
+individual partner level             4%              9%               70%         8%          0%           9%
+N=77
+Other - please describe:            N=3              N=1              N=1         N=0         N=0          N=2
+N=7
+
+
+
+                                                            12
+
+
+
+
+        Page 32                                                             GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 37 ===
+  Appendix II
+  Annotated Public Company Survey
+
+
+
+
+31. What do you believe is the minimum number of accounting firms necessary to provide audit
+    and attest services to large national and multinational public companies? Please enter a
+    number.
+
+   ______________ number of firms
+
+   N=147
+
+                                Range of responses=0–3               N=27           18%
+                                Range of responses=4–5               N=86           59%
+                                Range of responses=6–8               N=31           21%
+                                Range of responses=10+               N=3            2%
+
+   Please explain: ____________________________________________________________
+
+   _________________________________________________________________________
+
+   _________________________________________________________________________
+
+   _________________________________________________________________________
+
+
+
+32. What do you believe is the optimal number of accounting firms for providing audit and attest
+    services to large national and multinational public companies? Please enter a number.
+
+   ______________ number of firms
+
+   N=136
+
+                                Range of responses=0–2               N=5            4%
+                                Range of responses=3–4               N=14           10%
+                                Range of responses=5–8               N=100          74%
+                                Range of responses=9+                N=17           12%
+
+   Please explain: ___________________________________________________________
+
+   _________________________________________________________________________
+
+   _________________________________________________________________________
+
+   _________________________________________________________________________
+
+
+
+
+                                              13
+
+
+
+
+  Page 33                                                  GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 38 ===
+  Appendix II
+  Annotated Public Company Survey
+
+
+
+
+33. Do you suggest that any actions be taken to increase competition in the provision of audit and
+    attest services for large national and multinational public companies? Please check one box.
+    N=159
+
+   1.     Yes                                                                            22%
+   2.     No                                                                             62%
+   3.     Don’t know                                                                     16%
+
+   Please explain: ___________________________________________________________
+
+   _________________________________________________________________________
+
+   _________________________________________________________________________
+
+   _________________________________________________________________________
+
+
+34. Would you favor or oppose the following actions to increase competition to provide audit and
+    attest services for large national and multinational clients? Please check one box in each row.
+
+                             Strongly   Somewhat Neither Favor    Somewhat      Strongly       Don’t
+                              Favor       Favor   nor Oppose       Oppose       Oppose         Know
+                               (1)         (2)          (3)           (4)          (5)          (6)
+Government action to
+break up the Big 4             2%         7%           12%           22%          57%          0%
+N=83
+Government action to
+assist the non-Big 4 firms     2%         18%          13%           17%          49%          0%
+N=83
+Let market forces operate
+without intervention          48%         31%          13%           4%           2%           2%
+N=82
+Other - please describe:
+N=10
+                              N=9         N=1          N=0           N=0          N=0          N=0
+
+Other - please describe:
+N=2
+                              N=1         N=0          N=0           N=0          N=1          N=0
+
+Other - please describe:
+N=0
+                              N=0         N=0          N=0           N=0          N=0          N=0
+
+
+
+
+                                                 14
+
+
+
+
+  Page 34                                                     GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 39 ===
+  Appendix II
+  Annotated Public Company Survey
+
+
+
+
+35. Do you have any additional comments on any of the issues covered by this survey?
+    Please use the space below to make additional comments or clarifications of any answers you
+    gave in this survey.
+
+
+
+
+                   Thank you for your assistance with this survey!
+                     Please return it in the envelope provided.
+
+
+
+
+                                             15
+
+
+
+
+  Page 35                                                 GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 40 ===
+Appendix III
+
+Summary of Written Comments to the Public
+Company Survey
+
+                  Companies surveyed were invited to add written comments to a number of
+                  questions to further explain their answers. Of the 159 respondents that
+                  responded to the survey, 149 volunteered written answers to at least one of
+                  the eight key open-ended comment questions in our survey:
+
+                  • change in audit quality,
+
+                  • the number of auditor options,
+
+                  • the sufficiency of such options,
+
+                  • willingness to use the auditor of a competitor,
+
+                  • minimum number of audit firms necessary,
+
+                  • optimal number of firms,
+
+                  • suggested actions for increasing competition, and
+
+                  • any additional comments on the survey.
+
+                  The following tables display selected comments from some respondents to
+                  these eight questions. Some of the quotes illustrate typical comments
+                  made by several other companies, while others represent a unique
+                  viewpoint of only that company. While these specific comments provide
+                  valuable insights, the number of comments of a particular type reproduced
+                  here is not necessarily proportional to the number of other similar
+                  responses, and, therefore, the comments do not represent the variety of
+                  opinion that might be found in the population of large public companies as
+                  a whole.
+
+
+
+Change in Audit   More respondents said that overall audit quality had gotten better over the
+                  past decade than worse (44 percent compared to 18 percent). The reasons
+Quality           behind these ratings are presented in table 2, grouped into summary
+                  categories.
+
+
+
+
+                  Page 36                               GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 41 ===
+                                               Appendix III
+                                               Summary of Written Comments to the Public
+                                               Company Survey
+
+
+
+
+Table 2: Explanations for Changes in Audit Quality
+
+Drawn from 56 responses to question 16—“If you have experienced a change in audit quality, please explain.”
+Direction of quality     General category of
+change                   explanation                 Comment
+Better                    Audit methods                  “Improved methodologies and documentation. Improved support tools and
+                                                         depth of expertise.”
+                                                         “Improvements largely reflect steady, incremental improvements in
+                                                         effectiveness—applying new technology, lessons learned from customer
+                                                         feedback, etc.”
+                                                         “More focus on risk analysis and internal controls.”
+                          Staffing/expertise             “Better experienced audit staff; better national level resources available.”
+                                                         “Greater familiarity and experience of auditors with our company has had some
+                                                         positive impact on quality. They understand our business more and are much
+                                                         more efficient.”
+                                                         “Broader client base gives greater practice experience.”
+                          Environmental forces           “I believe there has been a change, but driven more by the environment and
+                                                         Sarbanes-Oxley.”
+                                                         “Change in the depth and quality of the audit process is due to a more rigorous
+                                                         regulatory and litigation environment and not audit consolidation.”
+                          Changing requirements          “Audit quality is somewhat higher, due to added GAAS requirements rather
+                                                         than consolidation of audit firms.”
+                                                         “Audit quality has been positively impacted by new independence requirements
+                                                         and scrutiny of the accounting industry.”
+                          Client actions                 “Our audit quality has increased as we have changed audit partners and have
+                                                         requested an increase in scope and scrutiny.”
+                                                         “We are challenged thoroughly to document fully matters of judgment and
+                                                         estimates.”
+                                                         “Recent events have caused [our auditor] to scrutinize more closely and we
+                                                         have asked for more coverage in certain areas.”
+Worse                     Audit methods                  Less specific transaction testing now than before.”
+                                                         “Less insightful; rarely identifies known matters of concern; overly simplistic in
+                                                         approach; poor identification of financial and business risks.”
+                                                         “Focus on ‘form’ of compliance not substance... Audits in ‘90s did not focus on
+                                                         controls...Sarbanes-Oxley 404 brings controls back to forefront but of little value
+                                                         as audit firms are focused on fee, opportunity & form (not substance) which
+                                                         should have been there (in audits) these past 10 years for auditors to attest as
+                                                         to validity of financial results.”
+                                                         “Auditors are increasingly worried about 'checklist' compliance with unduly
+                                                         complicated GAAP rules rather than assessing 'fair presentation' in the context
+                                                         of the company's line of business.”
+
+
+
+
+                                               Page 37                                         GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 42 ===
+                                             Appendix III
+                                             Summary of Written Comments to the Public
+                                             Company Survey
+
+
+
+
+(Continued From Previous Page)
+Direction of quality    General category of
+change                  explanation                    Comment
+                        Staffing/expertise             “Less involvement by partners/senior management, lower quality planning and
+                                                       execution.”
+                                                       “Too much reliance on technology to cut hours; less on the ground time; staff
+                                                       turnover higher.”
+                                                       “Firms have become cookie-cutter checklist type of auditors. Very little
+                                                       business sense of experience exists. The auditor should know more than the
+                                                       client but that doesn't exist today.“
+                        Environmental forces           “Slight decline mainly due to fee pressure.”
+                                                       “Less competition; more regulation; more complexity; more ‘legalistic,’
+                                                       nonproductive effort and protectionism on everyone's part.”
+                        Timeliness                     “The timeliness of resolving issues is much slower and the answers to key
+                                                       accounting issues can change shortly before filings and/or press releases.”
+                                                       “Too much info to keep ‘current’ on results in longer internal review process and
+                                                       longer decision-making process on part of the auditors.“
+Source: GAO.
+
+
+
+
+Number of Auditor                            Almost all respondents—94 percent—indicated that they had three or
+                                             fewer options from which to choose if they had to change auditors, and 61
+Options Available                            percent said exactly three. The explanatory comments we received to that
+                                             question, shown in table 3, confirm that respondents are almost always
+                                             referring to the Big 4 firms other than the one they currently employ. As
+                                             only 8 percent of respondents said they currently use or would consider
+                                             using a non-Big 4 firm, there were few written explanations for why they
+                                             thought they had more than three or four options. Those who did explain
+                                             mentioned the national prominence of the larger second-tier firms and
+                                             smaller firms with special industry expertise as reasons.
+
+
+
+
+                                             Page 38                                        GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 43 ===
+Appendix III
+Summary of Written Comments to the Public
+Company Survey
+
+
+
+
+Table 3: Explanations for the Number of Auditor Options Available
+
+Of the 157 responses to question 24—“Aside from your current auditor of record, how
+many firms do you think your company would have as options if you needed to change
+auditors?”—130 respondents also provided comments. Below are selected comments.
+Range of options         Comment
+Three remaining Big 4    “As a Fortune 100 company, I believe that our realistic options
+firms                    are currently limited to the Big 4.”
+                         “I believe the board and management would require that the
+                         switch be made to a Big 4 firm.”
+                         “Because of our size and technical complexity, we would choose
+                         from the remaining Big 3.”
+                         “We have operations in 40 countries—all operating on the same
+                         systems, procedures. Only a global firm can deal with this
+                         complexity in a cost effective manner and continuity of support
+                         for US GAAP and local statutory requirements.”
+Only one or two of the   “Remainder of Big 4 firms who have an expertise/knowledge of
+Big 4 firms              our industry and a willingness to take on new clients in our
+                         industry.”
+                         “…Aside from our current auditor, we use another of the Big 4 as
+                         a co-source provider of internal audit services, so would not
+                         consider them. We are using a third for tax work so it would be
+                         hard under Sarbanes-Oxley to switch to them.”
+                         “One of the remaining Big 4 would probably be excluded due to
+                         potential independence issues.”
+                         “Only two firms other than [our current auditor] in the northwest
+                         that have energy experience and expertise.”
+                         “Current and predecessor audit firm exclusion leaves only two
+                         other Big 4 firms. However, both of these firms have existing
+                         relationship with major direct competitors.”
+Others in addition to    “It would be fairly easy to transition to one of the other ‘Big 4.’
+the Big 4 firms          However, there are probably only a couple regional firms that
+                         have industry expertise and a base of operations in Nevada,
+                         such that we could utilize them.”
+                         “Other three of the Big 4; two other firms of sufficient capability
+                         (technical expertise, SEC experience, industry experience,
+                         sufficient staff resources-quantity & quality) could probably be
+                         identified.”
+                         “We would consider the remaining Big 4 firms and could also
+                         consider the top 2 non-Big 4 firms. But because of our
+                         international operations, our bias would be strongly in favor of a
+                         Big 4 firm.”
+                         “National firms of prominence.” [This company said it had five
+                         options.]
+Source: GAO.
+
+
+
+
+Page 39                                         GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 44 ===
+                                              Appendix III
+                                              Summary of Written Comments to the Public
+                                              Company Survey
+
+
+
+
+Sufficiency of the                            Almost half of the respondents (43 percent) said they did not have enough
+                                              options and desired more. Respondents who said they had enough options
+Number of Options                             said the Big 4 firms were able to meet their needs. However, several of
+                                              these respondents cautioned that further reductions could be problematic.
+                                              Those saying the number of firms was not sufficient often took the position
+                                              that “more competition is always better.” Other comments included that
+                                              differentiation between the firms’ services was declining, special expertise
+                                              was not longer readily available, and monopolistic tendencies in setting
+                                              fees. See table 4.
+
+
+
+Table 4: Number of Auditor Options Available
+
+Of the 158 responses to question 25—“Do you think the number of firms your company has as options for auditing and attest services is
+enough?”—63 respondents also provided comments. Below are selected comments.
+                         General category of
+Sufficiency of options explanation                       Comment
+Sufficient               General                           “Current firms as sufficient to meet business needs and independence
+                                                           rules. Sarbanes-Oxley Act and subsequent rules are more constraining
+                                                           than [number] of firms.”
+                                                           “[Sufficient] but just barely. I felt much more comfortable with 5 or 6.”
+                         Competition/fees                  “Three firms still provide a variety of choices and competition; however, if it
+                                                           declines further problems could arise.”
+                                                           “There is adequate competition and rivalry among 4 firms.”
+                                                           “…While more firms would possibly increase competition, I think the fee
+                                                           effect would be modest.”
+                         Specialties/expertise             “The other 3 Big 4 CPA firms should possess appropriate professional
+                                                           qualifications and be able to provide services on a global basis.”
+                                                           “All 4 firms have good technical competence and sufficient resources.”
+Insufficient             General                           “I do not believe that the 4 major firms offer sufficient alternatives. Too
+                                                           many potential conflicts with customers, vendors, partners, etc., to ensure
+                                                           independence in all cases.”
+                                                           “Considering a need to spread work among non-competitor firms, 4 is too
+                                                           small. Also, in-house auditing can't be done by the named firm, audit-
+                                                           related work is being spread to others, as is non-audit work; 4 large firms
+                                                           limits choices.”
+                                                           “It is always better to have more competition.”
+                         Competition/fees                  “It is clear that [auditor] believes they can become more aggressive with
+                                                           billings due to the lower number of competitors.”
+                                                           “We believe that there are not enough choices. More competition might
+                                                           drive audit fees down.”
+                         Specialties/expertise             “We would feel more comfortable about locating a firm that fit our
+                                                           geographic and technical needs if there were more options.”
+
+
+
+
+                                              Page 40                                        GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 45 ===
+                                           Appendix III
+                                           Summary of Written Comments to the Public
+                                           Company Survey
+
+
+
+
+(Continued From Previous Page)
+                         General category of
+Sufficiency of options   explanation                    Comment
+                                                        “It would be great to have large national alternatives to call on like the old
+                                                        Kenneth Leventhal & Co. which had an expertise in real estate and was
+                                                        national.”
+                         Differentiation                “Not sufficient differentiation in audit approach, personality.”
+                                                        “Talent pool is restricted.”
+Source: GAO.
+
+
+
+
+Willingness to Use                         More than 90 percent of our respondents said that their company would
+                                           choose the auditor of a competitor. A few of those respondents provided
+Auditor of Competitor                      explanations as to why they would or would not, as shown in table 5.
+
+
+
+                                           Table 5: Explanations of Why a Company Would or Would Not Choose the Auditor of
+                                           a Competitor
+
+                                           Of the 157 responses to question 26—“Would your company choose as your auditor of
+                                           record an accounting firm that currently audits one of your competitors?”—87
+                                           respondents also provided comments. Below are selected comments.
+                                           Would choose
+                                           a competitor’s
+                                           auditor?         Comment
+                                           No               "Not in same city. Would not want same personnel auditing a
+                                                            competitor."
+                                                            "Probably not if a primary competitor in our key markets - concerns
+                                                            about auditor personnel discussions, etc."
+                                                            "Too much competitive intelligence."
+                                                            “Not one of our major, direct competitors. Partly for confidentiality and
+                                                            partly because we don't want to be the ‘#2’ client and fail to attract the
+                                                            best talent at our auditor.”
+                                                            “I would rather say ‘maybe.’ The fact that our major competitor was one
+                                                            of the 3 other Big 4 firms available would be a ‘strike’ against that firm
+                                                            due to sensitive information.”
+                                                            “Industry too small and potential conflicts too risky.”
+                                           Yes              "Comfort that there would be no risk of competitive information being
+                                                            communicated within audit firm or to competitor client."
+                                                            "The confidentiality and integrity of the audit firm should allow for this."
+                                                            "We have too many competitors to use this as a valid screening
+                                                            criterion. Also, we have confidence in the ‘Chinese walls’ inside of [our
+                                                            auditor]."
+
+
+
+
+                                           Page 41                                         GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 46 ===
+                    Appendix III
+                    Summary of Written Comments to the Public
+                    Company Survey
+
+
+
+
+                    (Continued From Previous Page)
+                    Would choose
+                    a competitor’s
+                    auditor?         Comment
+                                     "With only 4 firms to choose from, we've had to change our views on
+                                     this."
+                                     "Because of the limited choices we must be willing to choose a firm that
+                                     audits competitors."
+                                     "Our current auditor audits a significant portion of our peer group. We
+                                     consider that a good thing for addressing new accounting issues."
+                                     "This decision will be based on the professional qualifications of the
+                                     CPA firm and we would expect that firm to maintain the highest level of
+                                     confidentiality. Some of our competitors are audited by other Big 4
+                                     firms so it is possible that we may select one of these firms"
+                                     As long as the competitor's audit was not performed out of the same
+                                     local office.
+                    Source: GAO.
+
+
+
+
+Minimum Number of   A large majority (82 percent) of respondents said that the minimum
+                    number of firms necessary to provide audit services to large companies
+Firms Necessary     such as theirs was four or more. The largest number of responses was
+                    received for four or five firms. See table 6.
+
+
+
+                    Table 6: Explanations of Minimum Number of Firms Necessary
+
+                    Of the 147 responses to question 31—“What do you believe is the minimum number of
+                    accounting firms necessary to provide audit and attest services to large national and
+                    multinational public companies?”—84 respondents also provided comments. Below are
+                    selected comments.
+                    Number of
+                    firms               Comment
+                    2-3               "One firm would be a monopoly—two firms would allow for some
+                                      competition."
+                                      "If for some reason we had to switch auditors (poor service, conflicts of
+                                      interest, etc.) we would have at least two firms to look at."
+                                      "Having at least two choices from your current firm is important to
+                                      maintain competition. Otherwise, there would be no competition when
+                                      you made a decision to change and fees/quality would be adversely
+                                      impacted."
+
+
+
+
+                    Page 42                                        GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 47 ===
+                    Appendix III
+                    Summary of Written Comments to the Public
+                    Company Survey
+
+
+
+
+                    (Continued From Previous Page)
+                    Number of
+                    firms            Comment
+                    4                "Seems ok now but shouldn't be any less. Better now for primarily
+                                     domestic companies like ours."
+                                     "We're doing it now. I'd hate to see that number go lower. A higher
+                                     number would be preferred."
+                                     "If there are more firms than this you have to question whether they
+                                     would have the size and scale to support multinational audit."
+                                     "There should not be further consolidation within the Big 4 firms. This
+                                     group represents our service provider choices given the size and
+                                     complexity of [our] worldwide operations."
+                                     "Current set up is minimum to provide coverage due to risk of big 4
+                                     regressing to an oligopolistic common cost/performance level that
+                                     provides insufficient audit quality at too high a cost."
+                    5-6              "No good reason other than 4 is too few. If one more firm fails/choices
+                                     for separate firm consulting and it projects - conflicts between
+                                     businesses become impossible."
+                                     "The minimum of 6 firms is based upon expanding competition is many
+                                     geographical areas. Currently with only 4, there are areas where only
+                                     2 or 3 are active."
+                                     "With four firms, a 25% success rate on bid is high. Fair competition is
+                                     better served when the success rate to bid is below 20%."
+                                     "Biggest issue is that the potential for overlaps of coverage of closely
+                                     associated competitors, vendors and customers makes it harder to
+                                     ensure independence absentee conflicts. With six, this should be able
+                                     to be avoided."
+                    7-12             "In order to get competition and assure that all your competitors don't
+                                     use same people (firms). You need more firms than currently
+                                     available. We've lost creativity and competition as a result of
+                                     consolidation."
+                                     "Right balance of competition in price & service."
+                                     "With a restriction that no firm has more than 20% of the market—
+                                     defined as member of SEC registrants."
+                    Source: GAO.
+
+
+
+
+Optimal Number of   Most (86 percent) respondents said the optimal number of firms was
+                    greater than four, although the majority of those responses remained in the
+Firms               five to eight range. See table 7 for selected comments.
+
+
+
+
+                    Page 43                                      GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 48 ===
+Appendix III
+Summary of Written Comments to the Public
+Company Survey
+
+
+
+
+Table 7: Explanations of Optimal Number of Firms
+
+Of the 136 responses to question 32—“What do you believe is the optimal number of
+accounting firms for providing audit and attest services to large national and multinational
+public companies?”—66 respondents also provided comments. Below are selected
+comments.
+Number of
+firms              Comment
+4-6                "As a firm believer in the efficiency of the market place, I believe that
+                   the current number of large firms (4) is probably close to the optimum
+                   number, but wouldn't mind seeing another major firm gradually
+                   emerge."
+                   “Any more would result in consolidation as we have seen over past 15
+                   years.”
+                   "Four firms provide enough choices from which to select. Also, by
+                   limiting the number of firms to four ensures that there will be capable &
+                   talented individuals available at the firms."
+                   "We believe that a couple more choices than currently available would
+                   be optimal, but any additional beyond that would not be incrementally
+                   beneficial to companies."
+                   "Need a balance between the healthy level of diverse views of
+                   accounting application, and having too much inconsistency."
+                   "Two more large firms would help avoid problems - particularly if
+                   certain firms are conflicted through board membership, and other
+                   issues."
+7-8                "The highest quality of service came at a time in history when there
+                   were 8 firms."
+                   "Big 8 provided more choice, competition."
+                   "Beyond 8 I don't believe there will be enough qualified personnel."
+                   "More choice would be preferable, although industry experience is very
+                   important to us."
+                   "Having a few large firms has caused the firms to take on more of a
+                   ‘market share’ mentality with too much focus on increasing client base
+                   and fees and not enough focus on providing a quality audit."
+10 or more         "The more firms of similar size, caliber, quality, knowledge the more
+                   choices for public companies."
+                   "Enough for both scale and price competition."
+                   "This number [20] would allow for better stratification of clients by size,
+                   geographic needs, etc. However current legal environment and
+                   complexity of rules and regulations probably makes this difficult. We
+                   choose the large firms because of their depth of resources and
+                   expertise. Increasing the level of complexity just eliminates more
+                   firms."
+Source: GAO.
+
+
+
+
+Page 44                                         GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 49 ===
+                         Appendix III
+                         Summary of Written Comments to the Public
+                         Company Survey
+
+
+
+
+Suggestions for          While 62 percent said no actions should be taken and 16 percent did not
+                         know, 22 percent of respondents said that they thought actions should be
+Increasing Competition   taken to increase competition in the audit industry. When asked to explain,
+                         those that favored action mentioned assisting non-Big 4 firms to by
+                         reducing barriers to entry, preventing further consolidation, breaking up
+                         the Big 4, and other actions. Many suggested that market forces should be
+                         allowed to operate without intervention. See table 8.
+
+
+
+                         Table 8: Suggestions for Taking Action to Increase Competition
+
+                         Of the 159 responses to question 33—“Do you suggest that any actions be taken to
+                         increase competition in the provision of audit and attest services for large national and
+                         multinational public companies?”—37 respondents also provided comments. Below are
+                         selected comments.
+                         Action
+                         suggested?          Comment
+                         Yes                "Perhaps assist the non-Big 4 to become ‘big’ by reducing some
+                                            barriers to entry."
+                                            "Government assistance to non-Big 4 accounting firms."
+                                            "Encourage regional firms to develop national organization."
+                                            "Expand the number of companies and reduce the educational
+                                            Inequities placed upon new public accountants versus accountants in
+                                            the private sector."
+                                            "…Help smaller firms grow larger. Incentives [to] companies to use
+                                            smaller firms…."
+                                            "Financial solvency of existing Big 4 firms must be secured primarily
+                                            through tort reform."
+                                            "Action should be taken to maintain current level of competition or
+                                            choice."
+                                            "Liability for audit failures should be limited. The failure of Andersen
+                                            had a devastating impact and ultimately resulted in fewer qualified
+                                            professionals providing attest services during a time of rapidly
+                                            increasing complexity in applying GAAP."
+                                            "Allow no more mergers. Fire the idiots in the Justice Dept. that killed
+                                            Andersen; absolutely asinine."
+                                            "I would like to see some of the firms broken up. How to do so is
+                                            another question."
+                                            "They will need some effort to break them up. The idea that one firm is
+                                            needed to handle worldwide engagements is absurd."
+                                            "Require rotation of audit firms."
+
+
+
+
+                         Page 45                                         GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 50 ===
+                      Appendix III
+                      Summary of Written Comments to the Public
+                      Company Survey
+
+
+
+
+                      (Continued From Previous Page)
+                      Action
+                      suggested?        Comment
+                                        "Separate audit & attestation services."
+                                        "Enable a competing firm to provide a company's Sarbanes-Oxley
+                                        attest function."
+                      No or don’t know "Market forces should be allowed to work freely without constraints."
+                                        "The market will adjust/add more competitors if needed/supported,
+                                        over time."
+                                        "Allow market based forces to continue to operate without
+                                        intervention."
+                                        "I believe in free enterprise market conditions & competition will
+                                        provide adequate alternatives."
+                                        "Do not favor government intervention in the marketplace."
+                                        "Current level of competition combined with strong corporate reporting
+                                        regulations, appears sufficient to allow market forces to operate."
+                                        "I cannot foresee how this would be accomplished. ‘Competition’ for
+                                        the audit piece comes into play very infrequently and switching
+                                        costs/disruption are very high. I oppose any government action to
+                                        encourage a breakup."
+                                        "There should be opportunities for smaller firms (e.g., BDO Seidman)
+                                        to get bigger and be able to handle large, international accounts."
+                                        "Big 4 firms are competitive today. No need to take action."
+                                        "Enough pressure on price, quality pressure remains high."
+                      Source: GAO.
+
+
+
+
+Additional Comments   We asked respondents to volunteer any additional comments on the issues
+                      in the survey. A number of respondents mentioned concerns about further
+                      consolidation in the accounting profession, cost and quality, and other
+                      issues such as the impact of the Sarbanes-Oxley act and proposals for
+                      mandatory audit firm rotation.
+
+
+
+
+                      Page 46                                        GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 51 ===
+Appendix III
+Summary of Written Comments to the Public
+Company Survey
+
+
+
+
+Table 9: Additional Comments
+
+Drawn from the 33 answers given to question 35—“Do you have any additional comments
+on any of the issues covered by this survey?”
+Type of
+Comment            Comment
+Consolidation    "The number of firms cannot be permitted to go below 4. To destroy a
+concerns         firm like Andersen because of the action of a few partners was
+                 nonsense and must not happen again. The remaining firms have now
+                 a license to increase fees disproportionately to existing levels,
+                 especially with Sarbanes-Oxley. Has anyone calculated the cost to us
+                 industry of this and measured the impact on future earnings and jobs -
+                 I doubt it!"
+                 "Having only 4 large firms is a concern! However, the benefit should
+                 be: —higher quality—less variation in advice— stronger financial
+                 resources—more accountability. If these benefits an not achieved,
+                 then government may need to intervene."
+                 "…Our biggest concern is the ease at which a firm can disappear (e.g.,
+                 A. Andersen)….Competition does not affect us now, but actions
+                 beyond our control (e.g., firm disappears) could put us in a position to
+                 search…."
+                 "4 major audit firms is too few! 6+ is a minimum."
+                 "It would be in the best interest of the public to have more choices.
+                 However, the reason there is less is due to the fixed infrastructure cost
+                 of large firms and the need for a global reach. Therefore size does
+                 count."
+                 "Consolidation of auditors and increased regulation has greatly
+                 increased the cost of governance. I'm not sure society is benefiting
+                 from this."
+                 "Government action to assist the non-Big 4 firms will not work. The
+                 level of expertise and depth of resources required to deal with ever
+                 increasing levels of complexity and regulation cannot be provided by
+                 government intervention."
+                 "…I am concerned about the stability of the existing Big 4 firms with
+                 the implications from audit-failure lawsuits. Can these firms survive
+                 financially an Enron-like lawsuit? What choices do global fortune 500
+                 companies have if another one of these firms fail? The next tier of
+                 firms has not developed a strong enough global network to be viewed
+                 as viable."
+                 The government forced Arthur Andersen out of business! I certainly
+                 don't condone the activities of a few who did ‘bad,’ but 99.9% of the AA
+                 people were honest, hard-working people, with the highest integrity.”
+
+
+
+
+Page 47                                       GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 52 ===
+Appendix III
+Summary of Written Comments to the Public
+Company Survey
+
+
+
+
+(Continued From Previous Page)
+Type of
+Comment            Comment
+Cost and quality   "The accounting and auditing profession is clearly broken. The source
+and concerns       1 root cause appears to be the enormous compensation levels of the
+                   partners in the Big 4—often exceeding those of the CFOs they are
+                   suppose to audit. There is an eternal quest for higher fees, higher
+                   profits and growth. The result of which is to perform less work for more
+                   money. Auditing standards need to be very specific - as an example,
+                   review the documentation/testing now performed on fraud. Even
+                   though numerous standards on fraud detection have been released,
+                   the firms have not substantially changed their audits."
+                   "I think the public accounting profession is in disarray predominantly
+                   because, for several years, audit expertise has been de-emphasized
+                   for selling. While this may appear to be an economic model for
+                   success, it has led to major problems, some of which we have seen
+                   coming to fruition recently. (i.e., lack of ethical standards, lack of basic
+                   accounting & auditing knowledge, etc.)"
+                   "The evolution of the current system of auditing U.S. companies is
+                   bordering on being worthless. We have kids from colleges with no
+                   business experience auditing companies using checklists & cookie
+                   cutter approaches rather than using sound business experience to
+                   ferret out problems."
+                   "Very timely subject. I am greatly concerned about this topic. It is very
+                   difficult to manage audit costs. We are paying $150/hour for a college
+                   graduate with very little experience; yet that is what the lack of
+                   competition brings. We are classed for 4 different partner/(3 hrs each)
+                   at $450/hr reviews on a simple SEC consent letter and we are told ‘that
+                   is our firm policy.’"
+                   "The biggest issue today with audit quality is 'check list' GAAP audits.
+                   We need to be standards based, not rules based. Audits should
+                   employ thoughtful and insightful analysis of the company, industry and
+                   economic environment. This issue however will only be corrected with
+                   well thought out tax reform that allows thoughtful analysis of facts and
+                   national resolutions of disputes."
+                   "Our 2002 audit fees are about 4x those of a decade ago. I do not
+                   believe our stake holders would conclude that they are receiving 4x the
+                   value. I do not believe there is a single solution that would be effective,
+                   but enthusiastically endorse the efforts by GAO to explore the matter."
+                   "As indicated early on in the survey, my perception of the
+                   real problem with auditing today is as follows: —complex standard
+                   setting with minimal consideration of the impact or value to the
+                   investing public—audit firms treat audit like a ‘loss leader’ for other
+                   selling opportunities. — audit firms financially reward partners for
+                   selling—not performing quality audits. Audit staff are inadequately
+                   trained to keep up with changing accounting standards and the
+                   complexity of operations."
+                   Engagement partners need very high level of technical competence
+                   not sales skills—engagement partners should be subject to ongoing
+                   periodic proficiency evaluation of some type.
+
+
+
+
+Page 48                                          GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 53 ===
+Appendix III
+Summary of Written Comments to the Public
+Company Survey
+
+
+
+
+(Continued From Previous Page)
+Type of
+Comment          Comment
+                 "My responses do not reflect my expectations about fees in the future.
+                 Although our fees did not increase in 2002, I anticipate that we will see
+                 significant increases in the future (50%-100%) to cover increased
+                 hours required as a result of the new provisions under Sarbanes-Oxley
+                 and the audit firms bearing the cost of securities litigation. We need
+                 smart professionals performing our audits, and increased exposure to
+                 audit failures drives these people to jobs in industry."
+Other concerns   "I have a developing concern. The Big 4 provide excellent audit &
+                 attest services in the financial area. Legislation is
+                 preventing/restricting ‘other’ services. Yet corporations are reporting in
+                 more than financial areas, and the shareholders, employees and public
+                 want these other areas (environmental, social, etc.) to be attested and
+                 verified. It would seem beneficial to have the named audit firm provide
+                 such verification. Yet current legislative developments will prevent that.
+                 It seem that the named auditor could provide the best overall
+                 verification. As corporations report in global reporting initiative (GRI)
+                 reports, on sustainability report on triple bottom line (economic,
+                 environmental & social) reports, will there have to be multiple verifying
+                 firms?"
+                 "Litigation/securities reform. Lawsuits are sapping capital & causing
+                 audit fees to rise. CEO & CFOs need to do hard time for the misery
+                 they have inflicted on the rest of us. SEC needs to be a bit restrained
+                 in interpreting S.O. act—we're getting a little too much enthusiasm
+                 right now."
+                 "Summary points: (1) need more competition in the auditing industry.
+                 (2) don't know how best to accomplish this!! (3) in any event - need the
+                 SEC to be more active in the resolution of accounting issues - not just
+                 policy setting!"
+                 "Sarbanes-Oxley legislation has been primarily responsible for
+                 increasing fees and reducing auditor selection choices."
+                 "Strongly opposed to mandatory rotation of independent firms. The
+                 start up costs to corporations would be significant. Also mandatory
+                 rotations may limit the individual firms from innovating to differentiate
+                 their service offering in the marketplace…."
+                 "I am leery of government intervention as it tends to create other
+                 problems. I believe the current focus on audit quality and corporate
+                 governance which is arising out of government policies will (1) raise
+                 costs of being public significantly, (2) fuel going private, (3) change the
+                 capital profile of investors, [and] (4) lead to less efficient markets and
+                 less creativity."
+
+
+
+
+Page 49                                       GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 54 ===
+Appendix III
+Summary of Written Comments to the Public
+Company Survey
+
+
+
+
+(Continued From Previous Page)
+Type of
+Comment          Comment
+                 "The biggest ‘independence’ and ‘quality’ issues faced by corporate
+                 America today are from credit rating agencies, e.g., S&P and Moody’s,
+                 not auditors. Rating agencies are a de facto duopoly, are opaque (how
+                 they derive their ratings is largely not determinable based on
+                 quantitative measures), and full of conflicts (selling consulting services
+                 regarding how to improve a company's rating). The government
+                 should (1) forbid rating agencies to sell rating consulting services, (2)
+                 require greater disclosure regarding ratings methodology, and as a last
+                 resort (3) consider breaking up S&P and Moody’s or other action to
+                 lessen their duopoly power."
+                 "Companies should be encouraged, not discouraged, to use their audit
+                 firm for tax return and planning support because of the efficiencies
+                 gained."
+                 "Consider having investors directly fund audits by an assessment
+                 against assets invested in public entities. Investors could provide
+                 audits through a nongovernment entity like NASD, or they could
+                 contract with existing audit firms."
+Source: GAO.
+
+
+
+
+Page 50                                       GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 55 ===
+Appendix IV
+
+GAO Contacts and Staff Acknowledgments
+
+
+
+GAO Contacts      Davi M. D’Agostino (202) 512-8678
+                  Orice M. Williams (202) 512-8678
+
+
+
+Staff             In addition to those individuals named above, Martha Chow, Marc Molino,
+                  Michelle Pannor, David Pittman, Carl Ramirez, Barbara Roesmann, and
+Acknowledgments   Derald Seid made key contributions to this report.
+
+
+
+
+(250159)          Page 51                              GAO-03-1158 Accounting Firm Consolidation
+
+=== PAGE 56 ===
+GAO’s Mission            The General Accounting Office, the audit, evaluation and investigative arm of
+                         Congress, exists to support Congress in meeting its constitutional responsibilities
+                         and to help improve the performance and accountability of the federal government
+                         for the American people. GAO examines the use of public funds; evaluates federal
+                         programs and policies; and provides analyses, recommendations, and other
+                         assistance to help Congress make informed oversight, policy, and funding
+                         decisions. GAO’s commitment to good government is reflected in its core values of
+                         accountability, integrity, and reliability.
+
+
+Obtaining Copies of      The fastest and easiest way to obtain copies of GAO documents at no cost is
+                         through the Internet. GAO’s Web site (www.gao.gov) contains abstracts and full-
+GAO Reports and          text files of current reports and testimony and an expanding archive of older
+                         products. The Web site features a search engine to help you locate documents
+Testimony                using key words and phrases. You can print these documents in their entirety,
+                         including charts and other graphics.
+                         Each day, GAO issues a list of newly released reports, testimony, and
+                         correspondence. GAO posts this list, known as “Today’s Reports,” on its Web site
+                         daily. The list contains links to the full-text document files. To have GAO e-mail this
+                         list to you every afternoon, go to www.gao.gov and select “Subscribe to
+                         e-mail alerts” under the “Order GAO Products” heading.
+
+
+Order by Mail or Phone   The first copy of each printed report is free. Additional copies are $2 each. A check
+                         or money order should be made out to the Superintendent of Documents. GAO
+                         also accepts VISA and Mastercard. Orders for 100 or more copies mailed to a single
+                         address are discounted 25 percent. Orders should be sent to:
+                         U.S. General Accounting Office
+                         441 G Street NW, Room LM
+                         Washington, D.C. 20548
+                         To order by Phone:     Voice: (202) 512-6000
+                                                TDD: (202) 512-2537
+                                                Fax: (202) 512-6061
+
+
+To Report Fraud,         Contact:
+                         Web site: www.gao.gov/fraudnet/fraudnet.htm
+Waste, and Abuse in      E-mail: fraudnet@gao.gov
+Federal Programs         Automated answering system: (800) 424-5454 or (202) 512-7470
+
+
+
+Public Affairs           Jeff Nelligan, Managing Director, NelliganJ@gao.gov (202) 512-4800
+                         U.S. General Accounting Office, 441 G Street NW, Room 7149
+                         Washington, D.C. 20548
+
+=== PAGE 57 ===
+United States                  Presorted Standard
+General Accounting Office      Postage & Fees Paid
+Washington, D.C. 20548-0001           GAO
+                                 Permit No. GI00
+Official Business
+Penalty for Private Use $300
+Address Service Requested

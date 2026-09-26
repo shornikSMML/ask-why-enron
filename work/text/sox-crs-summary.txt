@@ -1,0 +1,886 @@
+
+=== PAGE 1 ===
+                                                   Order Code RL31554
+
+
+
+
+                  CRS Report for Congress
+                                      Received through the CRS Web
+
+
+
+
+                             Corporate Accountability:
+                            Sarbanes-Oxley Act of 2002:
+                                         (P.L. 107-204)
+
+
+
+
+                                                   August 27, 2002
+
+
+
+
+                    -name redacted- and -name redacted-
+                                           Legislative Attorneys
+                                         American Law Division
+
+
+
+
+Congressional Research Service ˜ The Library of Congress
+
+=== PAGE 2 ===
+Corporate Accountability: Sarbanes-Oxley Act of 2002:
+                   P.L. 107-204
+
+Summary
+      On July 30, 2002, President Bush signed into law the Sarbanes-Oxley Act of
+2002, P.L. 107-204. This law has been described by some as the most important and
+far-reaching securities legislation since passage of the Securities Act of 1933, 15
+U.S.C. §§ 77a et seq., and the Securities Exchange Act of 1934, 15 U.S.C. §§ 78a et
+seq., both of which were passed in the wake of the stock market crash of 1929.
+
+      The Act establishes a new Public Company Accounting Oversight Board which
+is to be supervised by the Securities and Exchange Commission. The Act restricts
+accounting firms from performing a number of other services for the companies
+which they audit. The Act also requires new disclosures for public companies and
+the officers and directors of those companies. Among the other issues affected by the
+new legislation are securities fraud, criminal and civil penalties for violating the
+securities laws and other laws, blackouts for insider trades of pension fund shares,
+and protections for corporate whistleblowers.
+
+     This report will not be updated.
+
+=== PAGE 3 ===
+Contents
+
+Title I: Public Company Accounting Oversight Board . . . . . . . . . . . . . . . . . . . . . 1
+
+Title II: Auditor Independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+
+Title III: Corporate Responsibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+
+Title IV: Enhanced Financial Disclosures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+Title V: Analyst Conflicts of Interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+Title VI: Commission Resources and Authority . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+Title VII: Studies and Reports . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+Title VIII: Corporate and Criminal Fraud Accountability . . . . . . . . . . . . . . . . . 10
+
+Title IX: White Collar Crime Penalty Enhancements . . . . . . . . . . . . . . . . . . . . . 12
+
+Title X: Corporate Tax Returns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+Title XI: Corporate Fraud Accountability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+=== PAGE 4 ===
+     Corporate Accountability: Sarbanes-Oxley
+            Act of 2002: P.L. 107-204
+
+      On July 30, 2002, President Bush signed into law the Sarbanes-Oxley Act of
+2002, P.L. 107-204. This law has been described by some as the most important and
+far-reaching securities legislation since passage of the Securities Act of 19331 and the
+Securities Exchange Act of 1934,2 both of which were passed in the wake of the
+Stock Market Crash of 1929.
+
+     Sarbanes-Oxley had its genesis early in 2002 after the declared bankruptcy of
+the Enron Corporation, but for some time it appeared as though its impetus had
+slowed. However, when the WorldCom scandal became known in late June, the
+Congress showed renewed interest in enacting stiffer corporate responsibility
+legislation, and Sarbanes-Oxley quickly became law.
+
+     The Act establishes a new Public Company Accounting Oversight Board, which
+is to be supervised by the Securities and Exchange Commission (SEC or
+Commission). The Act restricts accounting firms from performing a number of other
+services for the companies which they audit. The Act also requires new disclosures
+for public companies and the officers and directors of those companies. Among the
+other issues affected by the new legislation are securities fraud, criminal and civil
+penalties for violating the securities laws and other laws, blackouts for insider trades
+of pension fund shares, and protections for corporate whistleblowers. This report
+summarizes major provisions of this Act.
+
+        Title I: Public Company Accounting Oversight
+                            Board
+     Section 101 establishes the Public Company Accounting Oversight Board
+(Board), a new, independent regulatory body, to oversee the auditing of issuers
+(public companies which are subject to the federal securities laws). The Board’s
+oversight of auditors is for the purpose of protecting the interests of investors.
+
+    The Board shall not be an agency or establishment of the United States
+Government and shall be a nonprofit corporation subject to the District of Columbia
+Nonprofit Corporation Act. No employee shall be deemed an officer, employee, or
+agent of the federal government.
+
+
+
+
+1
+    15 U.S.C. §§ 77a et seq.
+2
+    15 U.S.C. §§ 78a et seq.
+
+=== PAGE 5 ===
+                                         CRS-2
+
+     The Board is subject to the oversight of the Securities and Exchange
+Commission, and subject to this oversight the Board shall register public accounting
+firms which prepare audit reports for issuers subject to SEC registration, establish
+standards concerning the preparation of audit reports, conduct inspections of
+registered public accounting firms, conduct investigations and disciplinary
+proceedings where justified upon registered public accounting firms, perform other
+duties as determined by the SEC, enforce compliance with the Act, and set the budget
+and manage the operations of the Board and its staff.
+
+     The Board shall have five members, who shall be prominent individuals of
+integrity with a demonstrated commitment to the interests of investors and the public.
+They must understand the financial disclosures required of issuers under the
+securities laws and the obligations of accountants concerning the preparation and
+issuing of audit reports concerning these disclosures.
+
+     Only two members of the Board shall be or have been certified public
+accountants. If one of those persons is the chairperson, that person may not have
+been a practicing certified public accountant for at least five years before
+appointment to the Board. Each Board member must serve on a full-time basis and
+may not have other employment while serving on the Board. No Board member can
+share in the profits of or receive payments from a public accounting firm, except for
+fixed continuing payments under standard retirement arrangements, subject to
+conditions imposed by the SEC.
+
+     Not later than ninety days after the Act’s enactment, the SEC, after consulting
+with the Chairman of the Board of Governors of the Federal Reserve System and the
+Secretary of the Treasury, shall appoint the chairperson of the Board and other initial
+members and shall designate each person’s term of service.
+
+     The term of service of each Board member is five years, except that the terms
+of office of the initial Board members shall expire in annual increments. Any Board
+member appointed to fill a vacancy occurring before the expiration of the term of the
+predecessor shall be appointed only for the remainder of that term.
+
+    No person may be a member or chairperson of the Board for more than two
+terms, whether or not consecutive. A member of the Board may be removed by the
+SEC for good cause.
+
+     The Board may issue rules concerning its operation and administration and other
+matters, subject to the approval of the SEC.
+
+     The Board must submit an annual report to the SEC; the SEC shall transmit a
+copy of that report to the Senate Committee on Banking, Housing, and Urban Affairs
+and the House Committee on Financial Services.
+
+      Section 102 requires that, beginning 180 days after the Commission determines
+that the Board can fulfill its duties, it shall be unlawful for any person not a registered
+public accounting firm to prepare or issue or participate in the preparation or issuing
+of any audit report concerning any issuer.
+
+=== PAGE 6 ===
+                                       CRS-3
+
+     Each accounting firm must submit as part of its application for registration the
+names of all issuers for which it prepared or issued audit reports during the preceding
+calendar year; the annual fees received from each issuer for audit services, other
+accounting services, and non-audit services; other current financial information as
+requested by the Board; a statement of the firm’s quality control practices; a list of
+all accountants associated with the firm who help to prepare audit reports;
+information concerning civil, criminal, or administrative actions or disciplinary
+proceedings pending against the firm or any person associated with the firm in
+connection with any audit report; copies of any disclosures filed by an issuer with the
+Commission concerning accounting disagreements; and any other specified
+information.
+
+     The Board shall approve a completed application for registration not later than
+45 days after the date of receipt unless the Board issues a notice of disapproval or
+requests more information. Each registered public accounting firm shall submit an
+annual report to the Board and may be required to update reports more frequently.
+Registration applications and annual reports shall be made available for public
+inspection.
+
+     The Board shall assess and collect a registration fee and an annual fee from each
+registered public accounting firm to cover the costs of processing and reviewing.
+
+     Section 103 requires the Board to establish by rule such quality control standards
+to be used by registered public accounting firms in the preparation and issuing of
+audit reports, as required by the Act or the rules of the Commission or as necessary
+or appropriate in the public interest or for the protection of investors. The Board may
+consult with professional groups of accountants or advisory groups.
+
+     The Board’s rules shall require that each registered public accounting firm must
+keep work papers for at least seven years, provide a concurring or second partner
+review of the audit report, and describe in each audit report the internal control
+structure and procedures of the issuer.
+
+    The Board shall cooperate with professional groups of accountants and advisory
+groups in the examination of the need for changes in accounting standards.
+
+     Section 104 requires the Board to conduct a continuing program of inspections
+to assess the degree of compliance of each registered public accounting firm.
+Inspections shall be conducted annually for each registered public accounting firm
+providing audit reports for more than 100 issuers and at least once every three years
+for each firm providing audit reports for 100 or fewer issuers.
+
+     Section 105 requires the Board to issue rules concerning fair procedures for the
+investigation and disciplining of registered public accounting firms and associated
+persons of the firms. The Board may conduct an investigation of any act or practice
+by a registered public accounting firm which may be a violation of the Act, the
+Board’s rules, or the securities laws concerning preparation and issuing of audit
+reports and liabilities of accountants.
+
+=== PAGE 7 ===
+                                        CRS-4
+
+     If a registered public accounting firm or person associated with the firm refuses
+to cooperate with the investigation, the Board may impose such sanctions as
+suspending or revoking the registration of the public accounting firm.
+
+     The Board may refer an investigation to the Commission, any other federal
+functional regulator, the Attorney General of the United States, the attorney general
+of one or more states, and the appropriate state regulatory authority.
+
+      For the most part information received by the Board concerning an investigation
+shall be privileged and confidential in any proceeding in federal court, state court, or
+administrative agency until presented in connection with a public proceeding.
+
+     If the Board finds that a registered public accounting firm has violated the Act,
+the rules of the Board, or the securities laws concerning audit reports and
+accountants, it may impose appropriate sanctions, including temporary suspension
+or permanent revocation of registration; a civil penalty for each violation in an
+amount not more than $100,000 for a natural person or $2,000,000 for any other
+person; if in a case involving intentional or other knowing conduct, a fine not more
+than $750,000 for a natural person or $15,000,000 for any other person; censure; or
+any other appropriate sanction. Such sanctions as registration suspension and
+revocation and the larger monetary penalties shall apply only to intentional or
+knowing conduct, including reckless conduct, or in repeated instances of negligent
+conduct.
+
+     Section 106 states that any foreign accounting firm which prepares or furnishes
+an audit report concerning any issuer is subject to the Act and the rules of the Board
+and the SEC issued under the Act to the same extent as a United States public
+accounting firm. Audit workpapers of the foreign accounting firm shall be produced
+if a United States public accounting firm relies upon the opinion of a foreign
+accounting firm in auditing an issuer.
+
+     The Commission and the Board may exempt any foreign public accounting firm
+from any provision of the Act or from rules of the Board or the Commission in the
+public interest or for the protection of investors.
+
+     Section 107 provides that the Commission shall have oversight and enforcement
+authority over the Board. No rule of the Board shall become effective without prior
+approval by the Commission. The Board is to be treated as a registered securities
+association for purposes of approval of its rules by the Commission. The
+Commission may modify a sanction imposed by the Board upon a registered public
+accounting firm if it finds that the sanction is not necessary or appropriate or is
+excessive, oppressive, or inadequate.
+
+      Section 108 allows the Commission to recognize as “generally accepted” for
+purposes of the securities laws any accounting principles established by a standard
+setting body that is a private entity, has a board of trustees the majority of whom are
+not and have not been for two years associated with a registered public accounting
+firm, is funded as required, has adopted procedures to ensure prompt changes to
+accounting principles necessary to reflect changing business practices, and considers
+the need to keep standards current. This standard setting body must have the capacity
+
+=== PAGE 8 ===
+                                        CRS-5
+
+to assist the Commission. The standard setting body must submit an annual report
+to the Commission and the public.
+
+     The SEC shall conduct a study on adoption by the United States financial
+reporting system of a principles-based accounting system to replace the rules-based
+accounting system.
+
+     Section 109 concerns funding of the Board and the standard setting body, known
+as the Financial Accounting Standards Board. The Board and the standard setting
+body shall establish an annual budget, which is subject to approval by the SEC.
+
+     The budget of the Board shall be payable from annual accounting support fees
+assessed upon publicly traded companies.
+
+                   Title II: Auditor Independence
+     Section 201 prohibits a registered public accounting firm which performs an
+audit for any issuer to provide to that issuer any non-audit service, such as
+bookkeeping, financial information systems design, actuarial services, management
+functions, investment banking service, and legal services. Accounting firms may
+provide certain other non-audit services, including tax services, for an audit client if
+the activity is approved by the audit committee of the issuer.
+
+     Section 202 requires that all auditing services and non-audit services provided
+to an issuer by the auditor of the issuer be preapproved by the audit committee of the
+issuer (or, if no such committee exists, the entire board of directors of the issuer).
+Approval by an audit committee of a non-audit service to be approved by the auditor
+shall be disclosed to investors in periodic reports.
+
+     Section 203 prohibits a registered public accounting firm from providing audit
+services to an issuer if the lead audit partner has performed audit services for the
+issuer in each of the five previous fiscal years.
+
+     Section 204 requires each registered public accounting firm performing an audit
+for an issuer to report to the audit committee all critical accounting policies and
+practices, all alternative treatments of financial information, and other material
+written communications.
+
+     Section 206 makes it unlawful for a registered public accounting firm to perform
+any audit service if a chief executive officer, controller, chief financial officer, or
+chief accounting officer was employed by that independent registered public
+accounting firm and participated in any capacity in the audit of that issuer during the
+one year period preceding the date of the initiation of the audit.
+
+                Title III: Corporate Responsibility
+     Section 301 requires each member of the audit committee of the issuer to be a
+member of the board of directors of the issuer and to be independent otherwise. In
+order to be considered independent, a member of an audit committee may not accept
+
+=== PAGE 9 ===
+                                        CRS-6
+
+any consulting, advisory or other compensatory fee from the issuer or be an affiliated
+person of the issuer or any subsidiary.
+
+     Each audit committee must establish procedures for the treatment of complaints
+concerning accounting or auditing matters and anonymous submissions by employees
+of the issuer concerning questionable accounting or auditing matters.
+
+      Section 302 directs the Commission to issue a rule requiring for each company
+filing periodic reports under the Securities Exchange Act of 1934 that the principal
+executive officer and the principal financial officer certify in each annual or quarterly
+report that the signing officer has reviewed the report and that, based on the officer’s
+knowledge, the report does not contain untrue statements and does not omit
+statements resulting in a misleading report and that the financial statements fairly
+represent the financial condition of the company. The signing officers are
+responsible for establishing and maintaining internal controls. The signing officers
+must disclose to the issuer’s auditors and to the audit committee significant
+deficiencies in the internal controls and any fraud which involves management or
+employees who have a significant role in the issuer’s internal controls.
+
+     The requirements of this provision shall not be diminished if an issuer
+reincorporates or transfers domicile or offices from inside the United States to a
+foreign country.
+
+      Section 303 declares unlawful any officer’s or director’s taking any action
+fraudulently to influence, coerce, manipulate, or mislead any independent public or
+certified accountant engaged in auditing financial statements for the purpose of
+making those financial statements materially misleading.
+
+      Section 304 provides that, if an issuer is required to prepare an accounting
+restatement because of material noncompliance of the issuer as a result of
+misconduct, the chief executive officer and the chief financial officer shall reimburse
+the issuer for any bonus received during the during the previous twelve month period
+and any profits from the sale of securities of the issuer during that twelve month
+period.
+
+     Section 305 gives the SEC the authority to bar a person from serving as an
+officer or director if that person committed a securities law violation and his conduct
+demonstrated unfitness to serve as an officer or director.
+
+     The Commission may also seek in federal court any equitable relief appropriate
+or necessary for the benefit of investors.
+
+     Section 306 prohibits directors or executive officers from engaging in
+transactions involving any equity security of the issuer during any blackout period if
+the director or officer acquires the equity security in connection with service or
+employment as a director or officer. A “blackout period” is defined as any period of
+more than three consecutive business days during which the ability of not fewer than
+50% of the participants or beneficiaries under all individual retirement account plans
+maintained by the issuer to purchase or sell any equity of the issuer held in an
+
+=== PAGE 10 ===
+                                        CRS-7
+
+individual account plan is temporarily suspended by the issuer or by a fiduciary of the
+plan.
+
+     This section also requires that participants in retirement plans be provided with
+written notice at least 30 days before a blackout period. There are two exceptions to
+the 30 day notice: 1. the deferral of the blackout period would violate ERISA
+provisions requiring fiduciaries to act exclusively on behalf of participants and
+ERISA provisions requiring trustees to act prudently in their decisions concerning
+plan assets could not be complied with or 2. the inability to provide notice is because
+of unforeseeable events or circumstances beyond the reasonable control of the plan
+administrator.
+
+     The Secretary of Labor may assess a civil penalty against a plan administrator
+of up to $100 a day from the date of the plan administrator’s failure or refusal to
+provide notice to participants and beneficiaries.
+
+      Section 307 requires the Commission to issue rules in the public interest and for
+the protection of investors to set forth minimum standards of professional conduct
+for attorneys who practice before the Commission in representing issuers. The rules
+must require an attorney to report evidence of a material violation of securities law
+or breach of fiduciary duty by the company or its agent to the chief legal counsel or
+to the chief executive officer of the company. If the counsel or officer does not
+respond to the evidence, the attorney must report the evidence to the audit committee
+or to the board of directors.
+
+     Section 308 allows civil penalties levied by the Commission as a result of any
+judicial or administrative action to be placed into a disgorgement fund for the benefit
+of harmed investors. The SEC may also accept gifts and bequests for this fund.
+
+         Title IV: Enhanced Financial Disclosures
+     Section 401 requires each financial report filed as part of periodic disclosures
+by an issuer to reflect all material correcting adjustments identified by a registered
+public accounting firm.
+
+     The Commission is required to issue rules providing that annual and quarterly
+financial reports filed with the Commission shall disclose all material off-balance
+sheet transactions that may have a material current or future effect on financial
+condition, changes in financial condition, or significant components of revenues or
+expenses.
+
+     The Commission must also issue rules providing that pro forma financial
+information included in any report filed with the SEC shall not contain an untrue
+statement of a material fact or omit to state a material fact necessary in order to make
+the pro forma financial information not misleading.
+
+     The SEC is required to conduct a thorough study of special purpose entities,
+including the potential exposure faced by investors.
+
+=== PAGE 11 ===
+                                        CRS-8
+
+    Section 402 prohibits personal loans of any kind by an issuer to a director or
+executive officer of the issuer.
+
+      Section 403 requires insiders, defined as officers, directors, and 10%
+shareholders, to file with the SEC reports of their trades of the issuer’s stock before
+the end of the second business day on which the trade occurred or at such other time
+if the SEC determines that the two-day period is not feasible. Beginning within one
+year after passage of this Act, the filing shall be done electronically and the
+information shall be provided on an Internet site within one day after filing.
+
+     Section 404 requires the Commission to prescribe rules requiring each annual
+report to contain an internal control report which shall state the responsibility of
+management for establishing and maintaining an adequate internal control structure
+and procedures for financial reporting and an assessment of the effectiveness of the
+internal control structure and procedures of the issuer for financial reporting.
+
+     Section 405 exempts registered investment companies from certain disclosure
+requirements, such as filing a statement assessing the effectiveness of internal
+controls.
+
+     Section 406 requires the SEC to issue rules to require each issuer to disclose
+whether or not, and, if not, the reason why, it has adopted a code of ethics for senior
+financial officers, such as the principal financial officer, comptroller, or principal
+accounting officer.
+
+     Section 407 requires the Commission to issue rules to require each issuer to
+disclose whether or not, and, if not, the reason why, the audit committee of that issuer
+has at least one member who is a financial expert. A “financial expert” is a person
+who: 1. has an understanding of generally accepted accounting principles and
+financial statements; 2. experience in the preparation or auditing of financial
+statements of generally comparable issuers; 3. experience in the application of these
+principles in connection with the accounting for estimates, accruals, and reserves;
+4. experience with internal accounting controls; and 5. an understanding of audit
+committee functions.
+
+    Section 408 requires the Commission to review disclosures by issuers at least
+once every three years.
+
+     Section 409 requires each issuer to disclose in plain English to the public on a
+rapid and current basis additional information concerning material changes in the
+financial condition and operations of the issuer.
+
+              Title V: Analyst Conflicts of Interest
+     Section 501 requires the Commission or a registered securities association or
+national securities exchange within one year to adopt rules designed to address
+conflicts of interest facing securities analysts. These rules must restrict the pre-
+publication clearance of research or recommendations by investment bankers not
+directly responsible for investment research, limit the supervision and compensatory
+
+=== PAGE 12 ===
+                                        CRS-9
+
+evaluation of research personnel to officials not engaged in investment activities, and
+protect securities analysts from retaliation or threats of retaliation by investment
+banking staff because of unfavorable research reports.
+
+     The rules must also require a stock analyst to disclose the extent to which he
+owns stock being discussed, whether he or his employer has received any income
+from the company whose stock is being discussed, whether his employer has had any
+business dealings within the past year with the company, and whether the analyst’s
+compensation was tied to investment banking revenue.
+
+     Title VI: Commission Resources and Authority
+     Section 601 authorizes the appropriations of the SEC for fiscal year 2003. It
+shall receive $776,000,000, of which $102,700,000 shall be available to fund
+additional compensation, including salaries and benefits; $108,400,000 shall be
+available for information technology, security enhancements, and recovery and
+mitigation activities in light of the attacks on September 11, 2001; and $98,000,000
+shall be available to add at least 200 qualified professionals to provide enhanced
+oversight of auditors and audit services and support staff to strengthen full disclosure.
+
+     Section 602 authorizes the Commission to censure any person or deny to any
+person the privilege of appearing or practicing before the Commission if the
+Commission finds that person not to possess the qualifications to represent others,
+to be lacking in character or integrity or to have engaged in unethical or improper
+professional conduct, or to have willfully violated or willfully aided or abetted the
+violation of the securities laws or regulations.
+
+     Section 603 allows a court to prohibit a person from participating in an offering
+of penny stock.
+
+     Section 604 authorizes the SEC to bar from the securities industry persons who
+have been suspended or barred by a state securities, banking, or insurance regulator
+because of fraudulent, manipulative, or deceptive conduct.
+
+                   Title VII: Studies and Reports
+     This title requires that a number of studies and reports be conducted. For
+example, the Comptroller General is required to conduct a study concerning factors
+leading to the consolidation of public accounting firms. The Commission is required
+to conduct a study concerning the role and function of credit rating agencies in the
+operation of the securities market. The Commission is also required to conduct a
+study of securities professionals who have aided and abetted violations of the federal
+securities laws. The Commission must review and analyze its enforcement actions
+concerning violations of securities law reporting requirements and restatements of
+financial statements over the past five years. The General Accounting Office is
+required to conduct a study on the role of investment banks and financial advisers in
+assisting public companies in manipulating their earnings and obscuring their true
+financial condition. GAO is specifically directed to address the role of investment
+banks in the bankruptcy of Enron and the failure of Global Crossing.
+
+=== PAGE 13 ===
+                                        CRS-10
+
+             Title VIII: Corporate and Criminal Fraud
+                           Accountability
+    Section 801 indicates that Title VIII of the bill may be cited as the “Corporate
+and Criminal Fraud Accountability Act of 2002.”
+
+      Section 802 creates two new federal crimes. 18 U.S.C. § 1519 imposes criminal
+sanctions for destruction, alteration, or falsification of records in federal
+investigations and bankruptcy. Under this section, anyone who “knowingly alters,
+destroys, mutilates, conceals, covers up, falsifies, or makes a false entry in any
+record, document, or tangible object with the intent to impede, obstruct, or influence
+the investigation or proper administration of any department or agency of the United
+States or any case filed under title 11 [of the United States Code, dealing with
+bankruptcy], or in relation to or in contemplation of any such matter or case” would
+be subject, upon conviction, to imprisonment of up to 20 years, a fine under title 18
+of the United States Code, or both. Under 18 U.S.C. § 3571, individuals convicted
+of a felony may be fined the greater of either the amount set forth in the offense
+statute or an amount not more than $250,000, while the maximum fine for an
+organization convicted of a felony would be the greater of the amount set forth in the
+offense statute or an amount of not more than $500,000. This section also provides
+for an alternative fine based on pecuniary gain or loss. If anyone has derived
+pecuniary gain from the offense or if the offense results in pecuniary loss to any
+person, the defendant may be fined not more than the greater of twice the gross gain
+or twice the gross loss, unless the imposition of a fine under this subsection would
+unduly complicate or prolong the sentencing process.
+
+     New 18 U.S.C. § 1520, in part, provides criminal sanctions for destruction of
+corporate audit records. Under subsection 1520(a)(1), an accountant who conducts
+an audit of an issuer of securities to which 15 U.S.C. § 78j-1(a) applies is required
+to maintain all audit or review workpapers for 5 years after the end of the fiscal
+period within which the audit or review was concluded. Subsection 1520(a)(2)
+directs the SEC to promulgate rules and regulations within 180 days, after a notice
+and comment period, regarding record retention relating to such an audit or review,
+and authorizes the SEC to amend or supplement them. Anyone who knowingly and
+willfully violates 18 U.S.C. § 1520(a)(1) or any rules or regulations promulgated
+under 18 U.S.C. § 1520(b) is subject to a fine under title 18 of the U.S. Code,3
+imprisonment of not more than 10 years, or both.4 The provisions of new 18 U.S.C.
+§ 1520 do not alter any other obligations or duties imposed by federal or state laws
+or regulations regarding record retention.5
+
+     Section 803 renders debts incurred in violation of securities fraud laws
+nondischargeable in bankruptcy proceedings. More specifically, it amends 11 U.S.C.
+§ 523(a) by adding a new subsection (19) providing that a discharge under 11 U.S.C.
+
+3
+  See discussion of possible fines for felony convictions under 18 U.S.C. § 3571, in text
+regarding Section 802 of P.L. 107-204, above.
+4
+    18 U.S.C. § 1520(b).
+5
+    18 U.S.C. § 1520(c).
+
+=== PAGE 14 ===
+                                        CRS-11
+
+§§ 727, 1141, 1228(a), 1228(b), or 1328(b) does not discharge an individual debtor
+from a debt that meets two criteria: (1) the debt is for a violation of federal securities
+laws; state securities laws; regulations under federal or state securities laws; common
+law fraud, deceit or manipulation in connection with the purchase or sale of any
+security; and (2) the debt results from a judgment, order, consent order, or decree
+entered in a federal or state judicial or administrative proceeding; a settlement
+agreement entered into by the debtor; or a court or administrative order for damages,
+fine, penalty, citation, restitution, disgorgement, attorney fee, cost, or other payment
+owed by the debtor.
+
+     While creating no new private rights of action, section 804 modifies 28 U.S.C.
+§ 1658 to establish a statute of limitations for private rights of action involving a
+claim of fraud, deceit, manipulation, or contrivance in violation of a securities
+regulatory requirement committed on or after the effective date of the Act. The new
+limitation period is the earlier of either 2 years after discovery of the facts
+constituting the violation or 5 years after the commission of the violation.
+
+     Section 805 directs the U.S. Sentencing Commission to review and amend the
+sentencing guidelines for obstruction of justice and violations of 18 U.S.C. §§ 1519
+and 1520 to ensure that they are sufficient to deter and punish such offenses. In
+addition, it directs the Commission to provide a specific offense characteristic
+sentencing enhancement under Guideline 2B1.1 for a fraud offense endangering the
+solvency or financial security of a substantial number of victims. Further, the
+Commission is directed to make certain that the organizational sentencing guidelines
+under Chapter 8 of the U.S. Sentencing Guidelines are sufficient to deter and punish
+organizational criminal misconduct. The Commission must promulgate these
+guidelines or amendments within 180 days of enactment of the Act.
+
+     Section 806 adds new 18 U.S.C. § 1514A, which creates a civil action to protect
+employees of publicly traded companies against discrimination in the terms and
+conditions of employment in retaliation for whistleblowing in securities fraud cases.
+This section covers situations where such employees have engaged in any lawful act
+to provide information, to cause information to be provided, or otherwise to assist
+any investigation by a federal regulatory or law enforcement agency, a Member of
+Congress or congressional committee, or a person having supervisory authority over
+the employee or investigative authority for the employer, regarding any violation of
+18 U.S.C. §§ 1341 (mail fraud), 1343 (wire fraud), 1344 ( bank fraud), 1348
+(securities fraud against shareholders), or any SEC rule or regulation; or of any
+federal law regarding fraud against shareholders. In addition, 18 U.S.C. § 1514A
+authorizes an employee alleging such wrongful discharge or other discrimination to
+seek relief by filing a complaint with the Secretary of Labor, using procedures set
+forth in 49 U.S.C. § 42121(b)(1). In the absence of delay due to bad faith of the
+employee, if the Secretary of Labor does not issue a final decision within 180 days,
+the employee may bring an action in the appropriate U.S. District Court, seeking de
+novo review.6 The section requires that an action brought pursuant to 18 U.S.C. §
+1514A(b)(1) must be commenced within 90 days after the date on which the violation
+
+
+
+6
+    18 U.S.C. § 1514A(b)(1).
+
+=== PAGE 15 ===
+                                           CRS-12
+
+occurs.7 Remedies provided an employee prevailing in an action under section
+1514A(b)(1) includes all relief necessary to make him or her whole, including
+reinstatement with pre-discrimination seniority status, back pay with interest, and
+compensation for any special damages incurred due to the discrimination, including
+litigation costs, expert witness fees, and reasonable attorneys fees.8 Section
+1514A(d) leaves the employee with all rights, privileges or remedies under federal
+or state law or any collective bargaining agreement.
+
+      Section 807 creates a new securities fraud crime with penalties including a fine
+under Title 18, U.S. Code.9 The offense covers anyone who knowingly executes or
+attempts to execute a scheme or artifice to defraud any person in connection with a
+security of an issue with a class of securities registered under 15 U.S.C. § 78l or
+required to file reports under 15 U.S.C. § 78o(d); or to obtain by false or fraudulent
+pretenses, representations or promises, any money or property in connection with
+purchase or sale of a class of securities registered under 15 U.S.C. § 78l or required
+to file reports under 15 U.S.C. §78o(d). Upon conviction an offender would face up
+to 25 years in prison, a fine under Title 18, U.S.C., or both.
+
+    Title IX: White Collar Crime Penalty Enhancements
+    Section 901 designates this title of the Act as the “White-Collar Crime Penalty
+Enhancement Act of 2002.”
+
+     Section 902 adds a new 18 U.S.C. § 1349 to the U.S. Code, which indicates that
+any person who attempts or conspires to commit an offense under 18 U.S.C. § 1341-
+1348 (dealing generally with fraudulent acts of various types) shall face the same
+penalties as those provided for the offense that was the object of the attempt or the
+conspiracy.
+
+     Section 903 increases the potential maximum term of imprisonment available
+upon conviction for mail fraud (18 U.S.C. § 1341) or wire fraud (18 U.S.C. § 1343),
+other than mail fraud or wire fraud affecting a financial institution, from five years
+to twenty years.
+
+     Section 904 raises the maximum criminal penalties available upon conviction
+of anyone willfully violating Title I, subtitle B, part 1 of ERISA, or any regulation or
+order issued thereunder. Heretofore, 29 U.S.C. § 1131 provided that individual
+offenders faced a maximum fine of $5,000 (unless a larger fine was imposed under
+18 U.S.C. § 3571),10 a maximum term of imprisonment of 1 year, or both. Section
+
+
+7
+    18 U.S.C. § 1514A(b)(2)(D).
+8
+    18 U.S.C. § 1514(c).
+9
+ For a discussion of the fines that may be imposed under 18 U.S.C. § 3571 upon conviction
+of a felony, see discussion of section 802 of P.L. 107-204, above.
+10
+  Note that 18 U.S.C. § 3571 provides, for a Class A misdemeanor not resulting in death,
+that a fine of the greater either of the amount set forth in the offense section or of not more
+than $100,000 may be imposed upon an individual defendant, while a fine of the greater of
+                                                                                  (continued...)
+
+=== PAGE 16 ===
+                                          CRS-13
+
+904 of the Act increases the maximum fine for an individual defendant convicted
+under 29 U.S.C. § 1131 to $100,000, and the maximum term of imprisonment to 10
+years. Under the new language in this offense provision, organizational defendants
+will face an increased fine level, raised from $100,000 to $500,000. It is noteworthy
+that the increased maximum term of imprisonment changes this offense from a
+misdemeanor to a felony.11
+
+     Section 905 directs the U.S. Sentencing Commission, within 180 days of the
+date of enactment of the Act, to review, and, as appropriate, to amend the applicable
+sentencing guidelines and related policy statements to implement the Act, thereby
+ensuring, among other things, that the pertinent guidelines and policy statements
+reflect the seriousness of the offenses, the growing incidence of such fraud offenses,
+and the need to modify these guidelines and policy statements to deter, prevent, and
+punish such offenses.
+
+      Section 906 creates a new 18 U.S.C. § 1350, dealing with corporate
+responsibility for financial reports. Subsections 1350(a) and (b) require the chief
+executive officer and chief financial officer (or their equivalent) of an issuer to certify
+the accuracy of periodic financial statements filed by the issuer with the SEC under
+15 U.S.C. §§ 78m(a) or 78o(d) and the compliance of those reports with statutory
+requirements in 18 U.S.C. § 1350. Anyone who makes such a certification knowing
+that the report accompanying the certifying statement does not meet the statutory
+requirements would, upon conviction, face up to $1 million in fine, up to 10 years in
+prison, or both. Anyone willfully certifying compliance knowing that the periodic
+report accompanying the statement does not comport with the requirements of 18
+U.S.C. § 1350 would face a fine of up to $5 million, imprisonment of not more than
+20 years, or both.12
+
+
+
+10
+  (...continued)
+the amount set forth in the offense section or of not more than $200,000 may be imposed
+upon an organization. This section also provides for an alternative fine based on pecuniary
+gain or loss. If anyone has derived pecuniary gain from the offense or if the offense results
+in pecuniary loss to any person, the defendant may be fined not more than the greater of
+twice the gross gain or twice the gross loss, unless the imposition of a fine under this
+subsection would unduly complicate or prolong the sentencing process. A Class A
+misdemeanor is defined in 18 U.S.C. § 3559(a)(6) as an offense not specifically classified
+by a letter grade in the section defining it, for which the maximum authorized term of
+imprisonment is “one year or less but more than six months.”
+11
+   Under 18 U.S.C. § 3571, individuals convicted of a felony may be fined the greater of
+either the amount set forth in the offense statute or an amount not more than $250,000, while
+the maximum fine for an organization convicted of a felony would be the greater of the
+amount set forth in the offense statute or an amount not more than $500,000. This section
+also provides for an alternative fine based on pecuniary gain or loss. If anyone has derived
+pecuniary gain from the offense or if the offense results in pecuniary loss to any person, the
+defendant may be fined not more than the greater of twice the gross gain or twice the gross
+loss, unless the imposition of a fine under this subsection would unduly complicate or
+prolong the sentencing process.
+12
+  See the provisions of 18 U.S.C. § 3571(d) with respect to an alternative fine level
+calculated based upon twice the gross pecuniary gain or loss resulting from the offense.
+
+=== PAGE 17 ===
+                                           CRS-14
+
+                     Title X: Corporate Tax Returns
+     Section 1001 states that it is the sense of the Senate that the federal income tax
+return of a corporation should be signed by the chief executive officer of the
+corporation.
+
+             Title XI: Corporate Fraud Accountability
+    Section 1101 designates this title of the Act as the “Corporate Fraud
+Accountability Act of 2002.”
+
+     Section 1102 amends 18 U.S.C. § 1512 to add a new subsection (c) which
+defines a new crime. Under this new subsection, anyone who corruptly alters,
+destroys, mutilates, or conceals a record, document, or other object with the intent to
+impair the object’s integrity or availability for use in an official proceeding or who
+otherwise obstructs, influences, or impedes such a proceeding, or attempts to do any
+of these things, faces a maximum of 20 years in prison, a fine under Title 18, U.S.
+Code,13 or both.
+
+     Under Section 1103, 15 U.S.C. § 78u-3 is amended to afford the SEC the right,
+during the course of a lawful investigation of possible securities law violations by an
+issuer of publicly traded securities or its directors, officers, partners, controlling
+partners, agents, or employees, the power, under specified circumstances, to petition
+a U.S. district court for temporary freeze authority. This mechanism would become
+available when the SEC deems it likely that the issuer will be making extraordinary
+payments to any of those persons. In response to such a petition, the court may
+require the issuer to escrow those payments in an interest-bearing account for 45 days
+under court supervision. Unless impracticable or contrary to the public interest, the
+court will give those affected notice and an opportunity to be heard. An order entered
+under this provision may be extended for up to 45 additional days upon good cause
+shown. If the issuer or any of those persons referenced is charged with a securities
+law violation before the expiration of such an order, the order shall continue in effect,
+subject to court approval, until the conclusion of pertinent legal proceedings.
+Otherwise, the order will terminate and the payments will be returned to the affected
+recipients.
+
+     Section 1104 directs the U.S. Sentencing Commission to review sentencing
+guidelines applicable to securities fraud, accounting fraud, and related offenses, to
+consider sentencing enhancements for officers or directors of publicly traded
+corporations who commit such offenses, and to report thereon to Congress. The
+section specifies considerations that should be taken into account by the Commission
+in making its review. The U.S. Sentencing Commission is directed to promulgate
+resulting new guidelines or amendments to existing guidelines within 180 days of the
+date of enactment of the Act.
+
+
+
+
+13
+     See the discussion of 18 U.S.C. § 3571 at fn. 11, supra.
+
+=== PAGE 18 ===
+                                         CRS-15
+
+     Section 1105 amends 15 U.S.C. § 78u-3 to provide the Commission authority,
+in any cease-and-desist proceeding under Section 78u-3(a), to issue an order
+prohibiting anyone who has violated Section 10(b) (15 U.S.C. § 78j(b)) or related
+rules or regulations from acting as an officer or director of any issuer of a class
+registered under Section 12 (15 U.S.C. § 78l) or required to file reports pursuant to
+section 15(d) (15 U.S.C. § 78o(d)), if the person’s conduct demonstrates unfitness
+to serve in such capacity. In addition, it amends 15 U.S.C. § 77h-1 to authorize the
+SEC, in such a cease-and-desist proceeding, to issue an order prohibiting any person
+who has violated section 17(a)(1) (15 U.S.C. § 78q(a)) or related rules or regulations
+from acting as an officer or director of such an issuer if the person’s conduct
+demonstrates unfitness to serve in such a capacity. In either of these types of orders
+prohibiting service as an officer or director of such an issuer, the prohibition may be
+conditional or unconditional and may be permanent or for such time as the SEC may
+determine.
+
+     Under Section 1106 of the Act, the criminal penalties available under 15 U.S.C.
+§ 78ff(a) for individual defendants are increased from a maximum fine of $1 million
+to $5 million and a maximum term of imprisonment from 10 years to 20 years, or
+both, while the maximum fine for organizational defendants is increased from $2.5
+million to $25 million.14
+
+      Finally, Section 1107 amends 18 U.S.C. § 1513 to add a new subsection which
+provides, upon conviction, for imposition of a sentence including a fine under Title
+18, U.S. Code; imprisonment for up to 10 years; or both; upon anyone who
+knowingly takes harmful action, including interference with the lawful employment
+or livelihood of any person, with intent to retaliate for providing truthful information
+to a law enforcement officer regarding the commission or possible commission of
+any federal offense.
+
+
+
+
+14
+  For a discussion of an alternative method of calculating fines based upon twice the gross
+pecuniary gain or twice the gross pecuniary loss to any person resulting from the
+commission of the offense, see 18 U.S.C. § 3571(d).
+
+=== PAGE 19 ===
+EveryCRSReport.com
+
+The Congressional Research Service (CRS) is a federal legislative branch agency, housed inside the
+Library of Congress, charged with providing the United States Congress non-partisan advice on
+issues that may come before Congress.
+
+EveryCRSReport.com republishes CRS reports that are available to all Congressional staff. The
+reports are not classified, and Members of Congress routinely make individual reports available to
+the public.
+
+Prior to our republication, we redacted names, phone numbers and email addresses of analysts
+who produced the reports. We also added this page to the report. We have not intentionally made
+any other changes to any report published on EveryCRSReport.com.
+
+CRS reports, as a work of the United States government, are not subject to copyright protection in
+the United States. Any CRS report may be reproduced and distributed in its entirety without
+permission from CRS. However, as a CRS report may include copyrighted images or material from a
+third party, you may need to obtain permission of the copyright holder if you wish to copy or
+otherwise use copyrighted material.
+
+Information in a CRS report should not be relied upon for purposes other than public
+understanding of information that has been provided by CRS to members of Congress in
+connection with CRS' institutional role.
+
+EveryCRSReport.com is not a government website and is not affiliated with CRS. We do not claim
+copyright on any CRS report we have republished.

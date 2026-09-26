@@ -1,0 +1,797 @@
+
+=== PAGE 1 ===
+              Case 4:08-cv-00314     '   Document 1     Filed 01/28/2008        Page 1 of 16
+
+
+
+                              UNITED STATES DISTRICT COURT
+                               SOUTHERN DISTRICT OF TEXAS
+                                   HOUSTON DMSION
+
+
+
+SECURITIES AND EXCHANGE COMMISSION, :
+                        Plaintiff,
+                                                             Civil Action No.
+
+                                                             COMPLAINT
+DAVID B.DUNCAN,
+
+                        Defendant.
+
+
+        Plaintiff Securities and Exchange Commission (L'Commission") for its Complaint alleges
+
+as follows:
+
+                                             SUMMARY
+
+         1.      Enron Corp.'s ("Enron") senior executives engaged in and presided over a wide-
+
+ranging scheme to defkaud the investing public by materially overstating tbc companyysearnings
+
+and cash flows, and concealing debt in periodic reports filed with the Commission. The
+
+fraudulent scheme was canied out through a variety of complex structured transactions, off-
+
+balance sheet financings, related party transactions, misleading disclosures, and a widespread
+
+abuse of generally accepted accounting principles CfGAAP"). .
+
+        2.       Arthur Andersen LLP ("Andersen") served as Enron's auditor, and for each year
+
+during the relevant time period, issued an auditor's report stating the opinion that Enron's
+
+h n c i a l statem-   were presented fairly, in all material respects, in conformity with GAAP, and
+
+that Andersen had conducted its audit of those financial statements in accordance with generally
+
+accepted auditing standards ("GUS').        David B. Duncan ("Duncan") served as the global
+
+=== PAGE 2 ===
+                                                                             '    .      f   .
+
+
+
+
+            Case 4:08-cv-OQ314 Document 1              Filed 01/28/2008          Page 2 of 16
+
+
+
+engagement partner responsible for the Enron audits, As the global engagement partner for the
+
+Enron audits, Duncan was ultimatelyresponsible for determiningwhether an unqualified opinion
+should be issued within the auditor's report. For years ended December 31,1998 through 2000,
+
+Duncan was reckless in not knowing that the unqualified auditor's reports he signed on behalf of
+
+Andersen were materially false and misleading. These auditor's reports were part of Enron's
+
+annual reports on Forms 10-K filed with the Comraission for yeas 1998,1999 and 2000. Based
+
+on this, the Commission alleges that Duncan violated Section lo@) of the Securities Exchange
+
+Act of 1934 ("Exchange Act") and Rule lob-5 promulgated thereunder. AccordingIy, the
+
+Commission requests that this Court permanently enjoin Duncan fkom any future violation of
+
+Section 10(b) of the Exchange Act and Rule lob-5 promulgated thereunder.
+
+                                JURISDICTION AND VENUE
+
+               The Court has jurisdiction over this action pursuant to Sections 21(d), 21(e), and
+
+27 of the Exchange Act [I5 U.S.C.$8 78u(d) and (e) and 78aa].
+
+       4.      Venue lies in this District pursuant to Section 27 of the Exchange Act [15 U.S.C.
+
+5 78aaJbecause certain acts or transactions constituting the violations occurred in this District.
+                                      DEFENDANT
+
+       5.      David B. Duncan,age 48, resides in Houston, Texas. Duncan served as the global
+
+engagement partner for Andersen's audits of Enrm fiom 1997 until December 2001. During the
+
+relevant time period, Duncan was a certified public accountant licensed in the state of Texas. As
+
+the global engagement partner, Duncan was the senior member of the Andersen engagement
+
+team responsible for the Enron audits during each of the relevant periods.
+
+=== PAGE 3 ===
+             Case 4:08-cv-00314      Document 1       Filed 01/28/2008      Page 3 of 16
+
+
+
+
+                                       OTHER ENTITIES
+
+                 Enron was an Oregon corporation with its principal place of business in Houston,
+
+Texas. lhuing the relevant time period, Enron's common stock was registered with the
+
+Commission pursuant to Section 12@) of the Exchange Act and traded on the New York Stock
+
+Exchange. Among other operations, E m was the nation's largest natural gas and electric
+
+marketer, with reported annual revenue of more than $100 billion. In 2000, Enron rose to
+
+number seven on the Fovhrne 500 list of public companies. By December 2,2001, when it filed
+
+for bankruptcy, Enron's stock price had dropped over the course of a year h m more than $80
+
+per share to less than $1.
+
+        7.      Andenen once was one of the so-called "Big Five" so count in^ f m in the United
+
+States and had its headquarters in Chicago, Illinois. Andasen personnel performed work for
+
+Enron during the relevant time period in several cities, including Chicago, Houston,and ]London.
+
+                                  F'ArnAL AILLEGATIONS
+
+Enron IdenWied as a Maximum Risk Client
+
+        8.      Duncan was aware that the risk of hudulent financial reporting at E m n was
+
+high. In accordance with applicable professional standards, Andersen assessed the risk of fkaud
+
+at Enron (AU9316, Cmideration of Fraud in a Financial Statement Audit), and the engagement
+
+team documented that E m n possessed many of the risk factorsthat should be considered in
+
+making that assessment. For example, Fraud Risk Assessment questionnaires prepared by the
+
+engagement team and reviewed by Duncan documented that Enron placed an "undue emphasis
+
+on meeting earnings targets;" used "highly aggressive accounting .. .practices;" utilized
+
+''unusual" &-end     transactions that posed difficult "substance over for: questions; possessed a
+
+=== PAGE 4 ===
+                                                                              r'   :
+
+            Case 4:08-cv-00314        Document 1        Filed 01/28/2008     Page 4 of 16
+
+
+
+
+"philosophy of significantly managing (maximizing or minimizing) earnings;" and had a "high
+
+dependence on debt, difficulty in meeting debt payments or vulnerability to interest rate
+
+changes." In addition, an internal Andersen document prepared each year by Duncan and others
+
+on the engagement team consistently classified the E m n engagement as involving b'mmaxhum
+
+risk" and noted that Enron's use of complex "form over substance" and related party transactions
+
+created an "extreme" or '%very significant" financial reporting risk.
+
+       9.        Because of the recognized risk and his position as global engagement partner,
+
+Duncan was required by GAAS to design and implement auditing procedures adequate to address
+
+the risks inherent in the E m n engagement, to perfom substantive tests or other procedures to
+
+obtain &cient,     competent evidential matter, and to properly supervise the audits (AU $312,
+
+Aualit Risk and Materiality in Conducting an Audit, AU 5326,Evidential Matter, and AU 93 11,
+
+Planning and Supervision). Instead, in performing and supervising the Enron audits, Duncan
+
+.failed to exercise due professional care and the necessary skepticism (AU $230, Due
+
+Professional Care in the PerfUrmance of Work)to m u r e that Enron's financial. statements were
+
+presented in conformity with GAAP (AU $410, Adherence to Generally Accepted Accounting
+
+Principles) and that the audits were conducted in accordance with GAAS (AU $508, Reports on
+
+Audited Financial Statements).
+
+Enron's Prepay Transactions
+
+       10.       Enron improperlyreported structured fmcing proceeds as operating cash flows
+
+by means of ')repay" transdons with various financial institutions. Enron used prepay
+
+transactions to improperly report the Cash it received from prepay transactions as cash flow from
+
+operating activities, rather than cash flow h m financing activities. This allowed Enron to hide
+
+the true extent of its borrowing fkom investors and the national credit rating agencies because
+                                                 4
+
+=== PAGE 5 ===
+          Case 4:08-cv-00314        Document 1         Filed 01/28/2008       Page 5 of 16
+
+
+
+
+sums borrowed in prepay transactions appeared as "price risk management liabilities" rather than
+
+additional debt on Enron's balance sheet.
+
+       11.     Enron's prepay transactions were in substance financhgs because Enron used a
+
+t h e party structure involving a bank and a bank sponsored SPE that were not independent of
+
+each other to remove all commodity price risk h n the transaction. The circular nature of
+
+delivery and payments with respect to the commodities and the lack of independence between the
+
+bank counterparties had the effect of eliminating any material risk or any potential gain with
+
+respect to changes in the price of the underlying commodity. In effect, Enron's prepay
+
+transactions involved an investment bank making a I q e payment to Enron in exchange for
+
+Enron's promise to pay the bank sponsored entity an amount in excess of what Enron received in
+
+the initial prepayment.
+
+       12.     Amounts borrowed by Enron using the prepay structure were finely tuned each
+
+quarter for maximum reporting benefit. E m n simply determined the amount of operating cash
+
+flowsit wanted to report, projected any "shortfall" as the end of a reporting period approached,
+
+and then used prepay transactions to fill the gap. From 1997 through September 30,2001,
+
+Enron, using prepay transactions, received over $5 billion in funds in this manner.
+
+       13.     Enron never separately disclosed in its public filings that it was entering into
+
+prepay transactions. Such disclosure was necessary because of the large dollar amounts and
+
+volume of prepay transactions entered into by Enron and the significant future obligated cash
+
+commitments associated with the transactions. Rather, the prepay transactions were aggregated
+
+into Enron's "price risk management liabilities." Enron provided a generic and inadequate
+
+description of its price risk management activities in the notes to the financid statements and in
+
+=== PAGE 6 ===
+          Case 4:08-cv-00314         Document 1        Filed 01/28/2008       Page 6 of 16
+
+
+
+
+the management's discussion and analysis section of its annual reports on Form 10-K and its
+
+quarterly reports on Form 10-Q.
+
+        14.    GAAS provides that "the presentation of financial statements in conformity with
+[GAAP]
+     includes adequate disclosure of material matters. These matters relate to the form,
+
+arrangement, and content of the financial statements and their appended notes . .." (AU $431,
+
+Adequacy of Disclosure'inFinancial Statements). GAAS also states that "[GAAP] recognize[s]
+
+the importance of reporting transactions and events in accordance with their substance" and that
+
+the "auditor should consider whether the substance of the transacti&nsor warts differs materially
+
+from their form." (AU $411, The Meaning of Present Fairly in Conformity With General&
+
+Accepted Accounting Principles in the Independent Auditor's Report). Enron's financial
+
+statement presentation and disclosure of the prepay transactions waa not in conformity with
+
+GAAP because it mischaractdzed the nature of the cash flows associated with the transactions,
+obscured the true economic substance of these financing transactions, and did not address the
+
+material impact they had on h n ' s financial statements.
+
+        15.    Duncan failed to ensure that the engagement team audited Enron's prepay
+
+transactions in accordance with GAAS and failed to ensure that E&       properly presented and
+
+disclosed the prepay transactions in its financial statements. For example, Andmen advised
+
+E m of certain basic criteria they believed were required for the prepay transactions to be
+treated as price risk management liabilities rather than debt, as well as the requirements they
+
+believed were necessary to account for the related cash infusion as cash flow fhm operations
+
+rather than cash flow fkom financing. However, the testing work done and evidential matter
+
+obtained and considered by the engagement team was not sufficient to establish whether Enron
+
+followed those criteria. One of Andersm's key critenia required that the three parties to the
+                                              6
+
+=== PAGE 7 ===
+          Case 4:08-cv-00314        Document 1        Filed 01/28/2008       Page 7 of 16
+
+
+
+
+prepay transactions be independent fkom one another. Duncan and the engagement team placed
+
+an undue reliance on unsupported and unverified representations h r n Enron's management that
+
+the third-party special purpose entities ("SPEsy')involved in the prepay transactions were credit
+
+worthy independent businesses (AU $333, Management's Representations). Andersen's limited
+
+and untimely attempts to seek c d m t i o n s from these SPEs were insufficient to conclude that
+
+each was an independent business. Accordingly, in violation of applicable professional
+
+standards, Duncan failed to ensure that the engagement team designed and implemented adequate
+
+audit procedkes (AU$312, Audit Risk and Materiality in Conducting an Audit) and obtained
+
+sufficient, competent evidential matter regarding this vital aspect of the prepay tramactions (AU
+
+5 326, Evidential Matter). In doing so, Duncan failed to properly supervise the audit (AU $311,
+Planning and upe en is ion) and to exercise due professional care to ensure that adequate audit
+
+procedures were perfmed to collfirm that Andersen's prepay advice was followed by Enron,
+
+and that the unqualified audit reports he signed were not misleading (AU $230, Due Professional
+
+Care in the Pe$omance of Work).
+
+       16.     In exercising the appropriate level of due professional care, Duncan should have
+
+recognized that Enron's disclosures regarding prepay transactions were materially inadequate.
+
+Duncan did, on several occasions, recommend improved disclosuresto certain.senior
+
+managemmt of E h . In conjunction with the 2000 audit, Duncan proposed to certain of
+
+Enron's senior management specific language used by another Andersen audit client that would
+
+have disclosed the fact that Enron used "prepaid commodity contracts" and also the dollar
+
+amount of liabilities associated with the prepay transactions. Duncan's recommendations to
+
+enhance the disclosure for prepay transactions were rejected. However, Duncan failed to inform
+
+Enron's Audit Committee of his recommendations or that they had been rejected by
+                                            7
+
+=== PAGE 8 ===
+          Case 4:08-cv-00314         Document 1        Filed 01/28/2008       Page 8 of 16
+
+
+
+
+management. GAAS requires that any disagreements with management regarding financial
+
+statement disclosures should be discussed with the audit committee (AU $380, Communication
+
+With Audit Committees). "If management omits fkom the financial statements, including the
+
+accompanying notes, infibmation that is required by gcn~ral~y
+                                                           accepted accounting principles, the
+
+auditor should express a qualified or an adverse opinion and should provide the information in
+
+his report. . ." (AU 943 1, Adequacy of Disclosure in Financial Statements). Accordingly, under
+
+these circumstances, Duncan should have insisted that Enron enhance its prepay transaction
+
+disclosure, and, if Enron refused, raised the matter with Enron's Audit Committee. If the
+
+disclosure was not fixed after that, Duncan should have issued qualified audit opinions. He
+
+fded to undertake any of these actions.
+
+Enronfs Project Nahanni
+
+               After completing sn $800 million dollar prepay transaction in November 1999,
+
+Enron was still approximately $500 million short of the funds flow target Emon had told the
+
+credit rating agencies it intended to achieve for the year. To make up for this shortfall, Enron
+
+entered into a transaction code-named Project NahaDni that, in its entirety, had no material
+
+economic benefit to Enron. This transaction was in substance a year-end, one month, $500
+
+million financing that Enron used to manipulate its financial statements by: (i) inflating reported
+
+cash flow from operating activities; (ii) under-reporting cash flow from financing activities; and
+
+(iii) under-reporting debt -- in each instance by $500 million.
+
+               Project Nahanni was structured as a minority interest transaction in which
+
+Citigroup, through an SPE called Nahanni, provided capital in return for a minority interest in a
+
+consolidated subsidiary of Enron called Marengo. Marengo was a partnership between Emon
+
+and Nahanni created specifically to effahlate the subject transaction. As a result, cash flow
+                                                8
+
+=== PAGE 9 ===
+          Case 4:08-cv-00314         Document 1        Filed 01/28/2008      Page 9 of 16
+
+
+
+
+associated with the activities of Marengo appeared as cash flow from operating activities on
+
+Enron's financial statements, and Nahanni's financial contribution to Marengo appeared as a
+
+minority interest on Enron's balance sheet, rather than debt.
+
+        19.    On or about December 17,1999, Citigroup h d e d Nahanni with $485 million in
+
+debt and $15 million in outside equity. Nahanxli immediately purchased $500 million of short-
+
+term U.S.Treasury bills ("T-bills") and then contributed the T-bills to acquire a minority interest
+
+in Marengo. On or about December 29,1999, two days before Enron's annual reporting period
+
+ended, Enron directed Marengo to sell the $500 million in T-bills. The sale of the T-bills
+
+appeared as cash flow from operating activities on Enron's consolidated statement of cash flow.
+
+Enron then borrowed h m Marengo the cash proceeds fbm the sale of the T-bills to pay down
+
+its reported debt by $500 million just before year-end 1999. Since E m n treated the transaction
+
+with Marengo as an inter-company loan, it did not increase Enron's reported debt. By replacing
+
+$500 million of debt with a minority interest in a consolidated subsidiary, Enron improved its
+
+reported debt-to-equity ratio by 16 percent at year-end, December 31, 1999. In addition, the $500
+
+million in operating cash flow fiom Project Nahanni accounted for 41 percent of Enron's total
+
+cash flow reported for the year.
+
+       20.     On or about January 14,2000, Enron repaid the $500 million loan h m Masengo
+
+with interest. Marengo then paid Nahanni approximately $487.1 million, representing $485
+
+million in principal, plus $2.1 million in inmest. While the initiation of the transaction was
+
+reported as an increase in cash flow fkom operating activities, its wind-down just weeks later was
+
+reported by E m n as a reduction in cash flow fbm investing activities.
+
+       21.     In order for the Nahanni transaction to achieve Enron's god of increasing its cash
+
+flow fiorn operating activities, it was necessary for Emon to take the position that holding     .
+                                                 9
+
+=== PAGE 10 ===
+         Case 4:08-cv40314           Document 1        Filed 01/28/2008       Page 10 of 16
+
+
+
+
+Treasury securities was part of its "merchant activities," so that it could then claim that the sale
+
+of those secmYtiesgenerated cash flow h m operating activities. Accordingly, Enron changed
+
+the merchant activities footnote in-itsfinancial statements to include government securities in the
+
+definition of merchant investments. Duncan and others on the engagement team were reckless in
+
+not knowing that such a change was materially misleading because T-bill investing was not a part
+
+of Enron's merchant business, and because, contrary to the defhition of a merchant investment,
+
+Enron never had any intent to hold the securities for the purpose of making a profit.
+
+       22.     Enron's overall disclosure of the Nahanni transaction in its 1999 Form 10-K was
+
+materially misleading because Emon did not disclose: (i) that the partnership was created in
+
+December to fund a transaction that lasted just long enough to achieve a year-end fnancial
+
+reporting objective; and (ii) that the Nahanni transaction was a one-time boost to cash flow,not a
+
+continuous, sustainable cash flow h m operations. Thus, Emon's disclosure created the false
+impression that the transaction related to Enron's regular-cow-of-business investments in
+
+energy and technology companies. Duncan reviewed Enron's Project Nahanni disclosure and
+
+was reckless in not knowing that it was materially misleading. Although various aspects of the
+
+Nahanni tramaction were technically reported in accordance with GAAP, Duncan and the
+
+engagement team failed to exercise due professional care and skepticism when approving
+
+Enron's accomthg for the tramaction (AU8230,Due Professional Care in the Peifiormance of
+
+Work), and failed to ensure Emn's financial statement presentation was not materially
+
+misleading (AU 9431, Adequacy of Disclosu~ein Financial Statements, AU 5411, The Meaning
+
+of Present Fairly in Conformity With GenerallyAccepted Accounting Principles in the
+
+Independent Auditor's Report, and AU 8508, Reporkr on Audited Financial Statements).
+
+=== PAGE 11 ===
+          Case 4:08-cv40314          Document 1        Filed 01/28/2008      Page 11 of 16
+
+
+
+
+Enron's Raptor Transactions
+
+        23.      Beginning in the spring of 2000, E m n and WM2, a partnership formed and
+
+managed by Enron's then-Chief Financial Officer Andrew Fastow, engaged in a series of
+
+complex f w d transactions with four SPE structures called Raptor I, Raptor LI, Raptor IU,and
+
+Raptor IV (collectively referred to as the "Raptors"). Enron's senior management used the
+
+Raptors, in part, to manipulate Emn's financial statements.
+
+        24.      By 1999, a large percentage of Enron's quarterly earnings were attributed to
+
+unrealized gains in its merchant energy portfolio and in various technology investments. Many
+
+of these assets were extremely volatile. The Raptors were used by Enron to "hedge" the value of
+
+those inv-ents      with a purported independent thkd party SPE, so that Enron could offset
+
+declines in the value of these assets with the Raptor hedges. ,Enroncapitalized Raptors I, II, and
+
+IV with Enron stock. Raptor TII was capitalized with warrants of an Enron spin-off company.
+&ron received an economic interest in the Raptors and $1.2 billion in notes receivable fiom the
+
+Raptors in return for the Enron shares and warrants.
+
+        25.      W M 2 contributed $30 million of equity to each Raptor. However, through
+
+undisclosed side agreements between Fastow and others, the struc$wes were designed so that
+
+amounts equal to WM2's equity was returned to lWM2 for each Raptor prior to any hedges being
+
+put in place. As a result of the oral side agreements and related effective retum of capital, L,JM2
+                                                                                                      '
+
+
+
+
+had no equity at risk and Enron should have wnsolidated the Raptors into its financiai
+
+statements. LJM2's equity was effectivelyretuned to it through three separate $41 million put
+
+options in Enron stock in Raptors I, II, rmd IV,and through a distribution in Raptor IU. These
+
+put options provided a return equal to WM2's initial $30 million capital contribution in each
+
+Raptor, along with an agreed upon rate of rehun on such capital, before the Raptor SPEs entered
+                                               11
+
+=== PAGE 12 ===
+         Case 4:08-cv40314          Document 1        Filed 01/28/2008       Page 12 of 16
+
+
+
+
+into the hedging transactions. Effectively, Enron was entering into hedging contracts with
+
+entities backed solely with its own stock.
+
+       26.     Since the Enron engagement was classified as maximum risk, and related party
+
+transactions created an "extreme" or "very significant" financial reporting risk, the existence of
+
+the put options in the Raptor structures should have triggered increased professional skepticism.
+
+The puts were priced at a premium that matched exactly LJM2's targeted retum and were
+
+included as part of aggressive and complex related party transactions that had:a material effect on
+
+Enron's reported earnings. Additionally, LJM2received its $41 million payout in each Raptor
+
+shortly after signing the contracts - resulting in a short term rehun on investment in excess of
+
+130% in each case. Moreover, the payout occurred in each Raptor after Enron settled the put
+
+option early and before any hedges were put in place. The timing of settlement by E m n of these
+
+out-of-the-money put options should have been an additional red flag and prompted Duncan and
+
+the engagement team to increase their professional skepticism and question why Enron would
+
+repeatedly make such economically irrational payments. These payments actually eliminated the
+
+supposed protection h m a drop in its stock price that the company purportedly had purchased at
+
+a premium. GAAS requires that more extensive or e f f d v e audit tests should be designed for
+
+related party transactions when the auditor assessed risk at a higher level (AU $334, Related
+
+Parties). Despite the need for greater scrutiny, Duncan did not exercise due professional care or
+
+professional skepticism with regard to this aspect of the Raptor transactions (AU $230,Due
+
+Prof&onaE    Care in the Performance of Work).
+
+               Enron's footnote disclosure in its Fonn 10-K for year 2000 contains a paragraph
+
+describing some-aspectsof the Raptor transactions. However, the disclosure was not in
+
+accordance with GAAP (FAS57, Related Party Disclosures) since it did not include an adequate
+                                          12
+
+=== PAGE 13 ===
+                                 +    F1
+
+              Case 4:08-cv40314            Document 1       Filed 01/28/2008        Page 13 of 16
+
+
+
+
+    description of the Raptor transactions and information necessary to understand the effects these
+
+    transactions had on Emon's financial statements. Furthermore, in the footnote, Enron asserted,
+
+    without any reasonable basis or substantiation, that "the terms of the transactions with the
+
+    Related Party were reasonable compared to those which codd have been negotiated with
+
+    unrelated third parties." FAS 57 states that financial statement representations "shall not imply
+
+    that the related party transactionswere consummated on terms equivalent to those that prevail in
+
+    arm's-length transactions unless such representations can be substantiated." Duncan reviewed
+
+    Enron's related party disclosure and was reckless in not knowing that the terms of the Raptor
+
+    transactions were not equivalent to an arm's-length transaction and that the disclosure was
+
+    materially misleading.
+
+    Audit Reports
+
+            28.     On March 5,1999, Duncan, on behalf of Andersen, signed an unqualified
+
+    auditors' report in which he stated that Andersen audited Enron's 1998 consolidated financial
+
+:   statements "in accordance with generally accepted auditing standards" and expressed the opinion
+
+    that the financial statements "present fairly, in all material respects, the financial position of
+
+    Enron Cop. and subsidiaries . . .and the results of their operations, cash flows and changes in
+
+                           .
+    shareholders' equity . . in conformitywith accounting principles generally accepted in the
+
+    United States." This auditors' report was included in Enron's Form 10-K filed with the
+
+    Commission on Ivlarch 3 1,1999.
+
+            29.     On March 13,2000, Duncan, on behalf of Andersen, signed an unqualified
+
+    auditors' report in which he stated that Andersen audited Enron's 1999 consolidated financial
+
+    statements "in accordance with auditing standards generally accepted in the United States" and
+
+    expressed the opinion that the financial statements "present fhirly, in ali mateiial respects, the
+                                                       13
+
+=== PAGE 14 ===
+         Case 4:08-cv40314           Document 1         Filed 01/28/2008       Page 14 of 16
+
+
+
+
+financial position of Enron Corp. and subsidiaries . . . and the results of their operations, cash
+
+flows and changes in shareholders' equity. .. in conformity with accounting principles generally
+
+accepted in the United States." This auditors' report was included in Enron's Form 10-K filed
+
+with the Commission on Mmh 30,2000.
+
+       30.     On February 23,2001, Duncan, on behalf of Andersen, signed an unqualified
+auditors' report in which he stated that Andersen audited Emon's ZOO0 consolidated financial
+
+statements '"in accordance with auditing standards generally accepted in the United States" and
+
+expressed the opinion that the financial statements ''present fairly, in all material respects, the
+
+financial position of E m n Corp. and subsidiaries . . .and the results of their operations, cash
+
+flows and changes in shareholders' equity .. .in conformity with accounting principles g e n d l y
+
+accepted in the United States." This auditors' report was inc1uded.b Enron's Form 10-Kfiled
+
+with the Commission on April 2,2001.
+
+        31.    For the reasons outlined above, Duncan was reckless in not knowing that
+
+Andersen's audits of Enron's financial statements were not performed in accordance with GAAS
+
+and that Enrpn's financial statements did not present Enron's financial position, the results of
+
+their operations, cash flows, and changes     shareholders' equity in conformity with GAAP.
+
+Duncan, as the global engagement partner for the Enron audits, was ultimately responsible for
+
+determining whether an unqualified opinion should be issued within the auditors' report. As
+
+such, when he certified that Andersen audited Enron's financial statements in accordance with
+
+GAAS,and that Enron's financial statements were prepared in accordance with GAAP, he made
+material misstatexbents or omissions in Andersen's auditors' reports filed with h n ' s 1998,
+
+1999, and 2000 Forms 10-K.
+
+=== PAGE 15 ===
+                                                                i
+
+
+         case 4:08-~"40314 Document 1                  Filed 01/28/2008       Page 15 of 16
+
+
+
+
+                                      CLAIM FOR RELIEF
+
+        Violations.of Section lo@) of the Exchange Act and Rule lob-5 Thereunder
+
+       32.       Paragraphs 1 through 31 are realleged and incorporated by reference herein.
+
+       33.       Duncan, as Andexsen's global engagement partner for the Enron audits, directly or
+
+indirectly, by use of the means or instnunentalities of interstate commerce, or by the use of the
+
+mails or of a facility of a national securities exchange, in connection with the purchase or sale of
+
+securities: (a) employed devices, schemes, or artifices to d e h d , (b) made untrue statements of
+
+material fact or omitted to state material facts necessary in order to make the statements made, in
+
+the light of the circmstances under which they were made, not misleading; or (c) engaged in
+
+acts, practices, or c o r n s of business which operated or would operate as a fraud or deceit upon
+
+other persons.
+
+       36.       In connection with the above discussed acts or omissions, Duncan acted
+
+recklessly.
+
+       37.       By reason of the foregoing, Duncan violated Section 10(b) of the Exchange Act
+
+El5 U.S.C.$78j(b)J, and Rule lob-5 thereunder 117 C.F.R.8 240.10b-53.
+
+=== PAGE 16 ===
+         Case 4:08-cv40314        Document 1       Filed 01/28/2008      Page 16 of 16
+
+
+
+
+                                   PRAYER FOR RELIEF
+
+Wherefore, the Commission respectfully requests that this Court grant a permanent injunction
+
+restraining and enjoining Defendant Duncan h m any future violations of Section 10(b) of the
+
+Exchange Act and Rule lob-5 thereunder.
+
+Dated: January 1 , 2 0 0 8
+
+                                            Respectfully submitted,
+
+
+
+
+                                            Securities and Exchange Commission
+                                            100 F Street, N.E.
+                                            Washington, DC 20549
+                                            Phone: (202)551-4475 (Thomas)
+                                            Fax: (202)772-9245(Thomas)
+Of Counsel:
+Fredric D.Firestone
+Gregory G.Faragasso
+John H.Loesch
+Richard J. Kutchey

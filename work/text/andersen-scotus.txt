@@ -1,0 +1,128 @@
+ 
+
+ ARTHUR ANDERSEN LLP V. UNITED STATES 
+
+ LII 
+
+ Supreme Court 
+
+ ARTHUR ANDERSEN LLP V. UNITED STATES (04-368) 374 F.3d 281, reversed and remanded. Syllabus Opinion [ Rehnquist ] HTML version PDF version HTML version PDF version 
+
+ Syllabus 
+ NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued. The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader. See
+ United States v. Detroit Timber & Lumber Co., 200 U.S. 321 ,
+337. 
+ SUPREME COURT OF THE UNITED
+STATES 
+ ARTHUR ANDERSEN LLP v . UNITED
+STATES 
+ CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT 
+ No. 04—368. Argued April 27,
+2005–Decided May 31, 2005 
+
+ As Enron Corporation’s financial
+difficulties became public, petitioner, Enron’s auditor,
+instructed its employees to destroy documents pursuant to its
+document retention policy. Petitioner was indicted under 18 U.S.C. §
+1512 (b)(2)(A) and (B), which make it a crime to
+“knowingly … corruptly persuad[e] another person
+… with intent to … cause” that person to
+“withhold” documents from, or “alter”
+documents for use in, an “official proceeding.” The
+jury returned a guilty verdict, and the Fifth Circuit affirmed,
+holding that the District Court’s jury instructions
+properly conveyed the meaning of “corruptly
+persuades” and “official proceeding” in
+§1512(b); that the jury need not find any consciousness of
+wrongdoing in order to convict; and that there was no
+reversible error. 
+ Held: The jury instructions
+failed to convey properly the elements of a “corrup[t]
+persuas[ion]” conviction under §1512(b). 
+Pp. 6—12. 
+ (a) This
+Court’s traditional restraint in assessing federal
+criminal statutes’ reach, see, e.g., United States 
+v. Aguilar, 515
+U.S. 593 , 600, is particularly appropriate here, where the
+act underlying the
+conviction–“persua[sion]”–is by itself
+innocuous. Even “persuad[ing]” a person “with
+intent to … cause” that person to
+“withhold” testimony or documents from the Government
+is not inherently malign. Under ordinary circumstances, it is
+not wrongful for a manager to instruct his employees to comply
+with a valid document retention policy, even though the policy,
+in part, is created to keep certain information from others,
+including the Government. Thus, §1512(b)’s
+“knowingly … corruptly persuades” phrase is key
+to what may or may not lawfully be done in the situation
+presented here. The Government suggests that
+“knowingly” does not modify “corruptly
+persuades,” but that is not how the statute most naturally
+reads. “[K]nowledge” and “knowingly” are
+normally associated with awareness, understanding, or
+consciousness, and “corrupt” and
+“corruptly” with wrongful, immoral, depraved, or
+evil. Joining these meanings together makes sense both
+linguistically and in the statutory scheme. Only persons
+conscious of wrongdoing can be said to “knowingly …
+corruptly persuad[e].” And limiting criminality to
+persuaders conscious of their wrongdoing sensibly allows
+§1512(b) to reach only those with the level of culpability
+usually required to impose criminal liability. See
+ Aguilar, supra , at 602. Pp. 6—9. 
+ (b) The jury
+instructions failed to convey the requisite consciousness of
+wrongdoing. Indeed, it is striking how little culpability the
+instructions required. For example, the jury was told that,
+even if petitioner honestly and sincerely believed its conduct
+was lawful, the jury could convict. The instructions also
+diluted the meaning of “corruptly” such that it
+covered innocent conduct. The District Court based its
+instruction on the Fifth Circuit Pattern Jury Instruction for
+§1503, which defined “corruptly” as
+“knowingly and dishonestly, with the specific intent to
+subvert or undermine the integrity” of a proceeding. 
+However, the court agreed with the Government’s insistence
+on excluding “dishonestly” and adding the term
+“impede” to the phrase “subvert or
+undermine,” so the jury was told to convict if it found
+petitioner intended to “subvert, undermine, or 
+ impede” governmental factfinding by suggesting to its
+employees that they enforce the document retention policy. 
+These changes were significant. “[D]ishonest[y]” was
+no longer necessary to a finding of guilt, and it was enough
+for petitioner to have simply “impede[d]” the
+Government’s factfinding ability. “Impede” has
+broader connotations than “subvert” or even
+“undermine,” and many of these connotations do not
+incorporate any “corrupt[ness]” at all. Under the
+dictionary definition of “impede,” anyone who
+innocently persuades another to withhold information from the
+Government “get[s] in the way of the progress of” the
+Government. With regard to such innocent conduct, the
+“corruptly” instructions did no limiting work
+whatsoever. The instructions also led the jury to believe that
+it did not have to find any nexus between the
+“persua[sion]” to destroy documents and any
+particular proceeding. In resisting any nexus element, the
+Government relies on §1512(e)(1), which states that an
+official proceeding “need not be pending or about to be
+instituted at the time of the offense.” It is, however,
+quite another thing to say a proceeding need not even be
+foreseen. A “knowingly … corrup[t] persaude[r]”
+cannot be someone who persuades others to shred documents under
+a document retention policy when he does not have in
+contemplation any particular official proceeding in which those
+documents might be material. Cf. Aguilar, supra, at
+599—600. Pp. 9—12. 
+ 374 F.3d 281, reversed and remanded. 
+ Rehnquist,
+C. J., delivered the opinion for a unanimous Court. 
+

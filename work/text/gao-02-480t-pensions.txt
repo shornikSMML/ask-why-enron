@@ -1,0 +1,596 @@
+
+=== PAGE 1 ===
+                               United States General Accounting Office
+
+GAO                            Testimony
+                               Before the Senate Finance Committee
+
+
+
+
+For Release on Delivery
+Expected at 2:00 p.m.,
+Wednesday, February 27, 2002   PRIVATE PENSIONS
+
+                               Key Issues to Consider
+                               Following the Enron
+                               Collapse
+
+                               Statement of David M. Walker
+                               Comptroller General of the United States
+
+
+
+
+GAO-02-480T
+
+=== PAGE 2 ===
+Mr. Chairman and Members of the Committee:
+
+I am pleased to be here today to provide you with preliminary
+observations on some of the challenges facing our nation’s private pension
+system. Pension income is crucial to American retirees’ standard of living.
+About half of Americans over 65 receive payments from pensions and
+savings plans, and such income represents about 18 percent of their total
+income. Over 70 million workers participate in pension and savings plans,
+and such plans in 1997 represented about $3.6 trillion in retirement
+savings.
+
+The federal government encourages employers to sponsor and maintain
+pension and savings plans for their employees. The private pension system
+is voluntary and consists of defined benefit plans and defined contribution
+plans. Defined benefit plans promise to provide a level of retirement
+income that is generally based on salary and years of service. Defined
+contribution plans are based on the contributions to and investment
+returns on the individual accounts. Such plans include thrift savings plans,
+profit-sharing plans, and employee stock ownership plans (ESOPs).
+
+The financial collapse of the Enron Corporation and its effect on the
+company’s workers and retirees suggests certain vulnerabilities in these
+selected savings mechanisms. Enron’s retirement plans, which included a
+defined benefit cash balance plan, a defined contribution 401(k) plan, and
+an ESOP, caused Congress to question specifically the use of employer
+stock as the company match, the continued existence of floor offsets, and
+the practice of investment freezes or lockdowns during changes in plan
+administrators. The financial losses suffered by participants in Enron’s
+retirement plans have raised questions about the benefits and limitations
+of such private pension and savings plans and the challenges employees
+face in saving for retirement through their employer-provided plans.
+
+You asked me here today to help provide context for considering how to
+address the vulnerabilities the Enron case may suggest. Accordingly, I will
+discuss three areas that, because of the experience with Enron, appear
+particularly salient to policymakers’ decisions: (1) the importance of
+investment diversification and related investor education issues; (2) the
+crucial role of disclosure, and what information employees need and can
+expect about their company and their pension plans; and (3) the
+importance of fiduciary rules in safeguarding employee pension assets. In
+discussing these three issues, I will also address certain plan design issues
+such as floor-offsets, using company stock in pension plans, and plan
+operation issues, such as investment freezes or lockdowns. My
+
+Page 1                                                           GAO-02-480T
+
+=== PAGE 3 ===
+observations are based on prior GAO work, a preliminary review of
+Enron’s and other public companies’ plans, discussions with industry
+experts and senior regulatory officials, and my personal experience,
+including my former position as Assistant Secretary of Labor for Pension
+and Welfare Benefit Programs.
+
+In summary, the collapse of the Enron Corporation and the accompanying
+loss of Enron employees’ retirement savings appear to highlight
+vulnerabilities in the private pension system and help focus attention on
+strengthening several aspects of this system. Diversification of pension
+assets is crucially important, particularly in a world where the use of
+defined contribution plans—those plans in which employees bear the
+investment risk—is increasing. If both the employees’ 401(k) contributions
+and the company match are largely in employer stock, as was the case at
+Enron, employees risk losing not only their jobs should the company go
+out of business, but also a significant portion of their retirement savings.
+The Enron situation suggests the importance of encouraging employees to
+diversify but any action would have to be balanced against the desires of
+employers and employees to maintain a portion of retirement savings in
+company stock. In addition, the Enron situation illustrates the need to
+provide employees with investment education and advice that will enable
+them to better manage their retirement savings.
+
+Workers need clear and understandable information about their pension
+plans to make wise retirement saving decisions. While disclosure rules
+state that plan sponsors must provide plan participants with a summary of
+benefits and rights under their pension plan and notification when plan
+benefits are changed, such information is not always clear, particularly in
+describing complex plans, like floor-offset arrangements. We have also
+observed in earlier work that wide variation exists in the type and
+amounts of information workers receive about plan changes that can
+potentially reduce pension benefits, and enhanced disclosure
+requirements may be warranted. Furthermore, employees, like other
+investors, need reliable and understandable information about a
+company’s financial condition and prospects.
+
+Finally, fiduciary standards form the cornerstone of private pension
+protections. These standards require plan sponsors to act in a manner that
+is solely in the interest of plan participants and beneficiaries. In the end,
+investigations of Enron’s actions related to its plans will determine
+whether plan fiduciaries acted in accordance with these responsibilities.
+In light of Enron, policymakers may wish to consider whether current
+fiduciary standards are sufficient or whether they require strengthening,
+
+Page 2                                                           GAO-02-480T
+
+=== PAGE 4 ===
+             and act accordingly to address these fundamental principles of pension
+             management.
+
+             The Enron collapse provides the Congress with clear examples of issues it
+             may wish to consider when deciding whether and how to strengthen the
+             security of plan benefits. These issues include employees’ need for
+             enhanced education and appropriate investment advice, plan designs such
+             as floor-offset arrangements and the use of employer stock in retirement
+             savings plans, and plan operations, such as plan investment freezes and
+             lockdowns. Addressing these issues will require balancing the need for
+             greater participant protections with the potential increase in employer
+             burden that could undermine their willingness to sponsor or contribute to
+             such plans.
+
+
+             The Internal Revenue Code (IRC) defines pension plans as either defined
+Background   benefit or defined contribution and includes separate requirements for
+             each type of plan. The employer, as plan sponsor, is responsible for
+             funding the promised benefit, investing and managing the plan assets, and
+             bearing the investment risk. If a defined benefit plan terminates with
+             insufficient assets to pay promised benefits, the Pension Benefit Guaranty
+             Corporation (PBGC) provides plan termination insurance to pay
+             participants’ pension benefits up to certain limits.
+
+             Under defined contribution plans, employees have individual accounts to
+             which employers, employees, or both make periodic contributions. Plans
+             that allow employees to choose to contribute a portion of their pre-tax
+             compensation to the plan under section 401(k) of IRC are generally
+             referred to as 401(k) plans. In many 401(k) plans employees can control
+             the investments in their account while in other plans the employer
+             controls the investments. ESOPs may also be combined with other
+             pension plans, such as a profit-sharing plan or a 401(k) plan.1 Investment
+             income earned on a 401(k) plan accumulates tax-free until an individual
+             withdraws the funds. In a defined contribution plan, the employee bears
+             the investment risk, and plan participants have no termination insurance.
+
+             The Internal Revenue Service (IRS) and the Pension and Welfare Benefits
+             Administration (PWBA) of the Department of Labor (DOL) are primarily
+             responsible for enforcing laws related to private pension plans. Under the
+
+
+             1
+                 When an ESOP is combined with a 401(k) plan, it is called a KSOP.
+
+
+
+             Page 3                                                                  GAO-02-480T
+
+=== PAGE 5 ===
+Employee Retirement Income Security Act of 1974 (ERISA), as amended,
+IRS enforces coverage and participation, vesting , and funding standards
+that concern how plan participants become eligible to participate in
+benefit plans, earn rights to benefits, and reasonable assurance that plans
+have sufficient assets to pay promised benefits. IRS also enforces
+provisions of the IRC that apply to pension plans, including provisions
+under section 401(k) of the IRC. PWBA enforces ERISA’s reporting and
+disclosure provisions and fiduciary standards, which concern how plans
+should operate in the best interest of participants.
+
+Since the 1980’s, there has been a significant shift from defined benefit
+plans to defined contribution pension plans. Many employers sponsor both
+types of plans, with the defined contribution plan supplementing the
+defined benefit plan. However, most of the new pension plans adopted by
+employers are defined contribution plans. According to the Department of
+Labor, employers sponsored over 660,000 defined contribution plans as of
+1997 compared with about 59,000 defined benefit plans. As shown in figure
+1, defined contribution plans covered about 55 million participants, while
+defined benefit plans covered over 40 million participants in 1997.
+
+
+
+
+Page 4                                                          GAO-02-480T
+
+=== PAGE 6 ===
+Figure 1: Participants in Private Pension Plans, 1997
+
+
+
+
+                                         The number of employer-sponsored 401(k) plans has also increased
+                                         substantially in recent years, increasing from over 17,000 in 1984 to over
+                                         265,000 plans in 1997. In 1997, 401(k) plans accounted for 40 percent of all
+                                         employer-sponsored defined contribution plans and approximately 37
+                                         percent of all private pension plans. Approximately 33.8 million employees
+                                         actively participated in a 401(k) plan, and these plans held about $1.3
+                                         trillion in assets as of 1997.2
+
+                                         The continued growth in the number of defined contribution plans and
+                                         plan assets is encouraging, but concerns remain that many workers who
+                                         traditionally lack pensions may not be benefiting from these plans, and the
+                                         overall percentage of workers covered by pensions has remained relatively
+                                         stable for many years. Furthermore, the trend toward defined contribution
+                                         plans and the increased availability of lump-sum payments from pension
+                                         plans when workers change jobs raises issues of whether workers will
+
+
+
+                                         2
+                                          “Private Pension Plan Bulletin: Abstract of 1997, Form 5500 Annual Reports.” US
+                                         Department of Labor, Pension and Welfare Benefits Administration. Winter 2001.
+
+
+
+                                         Page 5                                                                     GAO-02-480T
+
+=== PAGE 7 ===
+preserve their pension benefits until retirement or outlive their retirement
+assets.
+
+Similar to other large companies, Enron sponsored both a defined benefit
+plan and a defined contribution plan, covering over 20,000 employees.
+Enron’s tax-qualified pension plans consisted of a 401(k)-defined
+contribution plan, an employee stock ownership plan, and a defined
+benefit cash balance plan. Under Enron’s 401(k) plan, participants were
+allowed to contribute from 1 to 15 percent of their eligible base pay in any
+combination of pre-tax salary deferrals or after-tax contributions subject
+to certain limitations.3 Enron generally matched 50 percent of all
+participants’ pre-tax contributions up to a maximum of 6 percent of an
+employee’s base pay, with the matching contributions invested solely in
+the Enron Corporation Stock Fund. Participants were allowed to
+reallocate their company matching contributions among other investment
+options when they reached the age of 50. 4
+
+Enron’s employee stock ownership plan,5 like other ESOPs, was designed
+to encourage employee ownership in their company. The plan provided
+employee retirement benefits for workers’ service with the company
+
+
+3
+ Participants were immediately fully vested in their voluntary contributions and employees
+hired after July 1999 are fully vested in their company contributions after 1 year of service.
+4
+ For defined benefit plans, ERISA limits the amount of employer stock and real property
+that can be held to 10 percent of plan assets. However, defined contribution plans,
+including 401(k) plans, ESOPs, and other defined contribution plans with individual
+accounts, are generally exempt from this requirement. While the vast majority of 401(k)
+plans are thus not subject to any restriction on the amount of employer stock that it may
+hold, there are limited circumstances under which the 10 percent limitation could apply to
+a 401(k) plan.
+5
+  The ESOP provided for three subaccounts, (1) a savings subaccount where the plan
+allocated shares of Enron stock equal to 10 percent of each participant’s base pay; (2) a
+retirement subaccount where the plan allocated shares of Enron stock based on each
+participant’s age, years of service, and base pay; and (3) a special subaccount for
+participants active on December 31, 1994, where the participants received an allocation to
+this account and the defined benefit portion of their retirement plan. This allocation in
+total equaled 5 percent of their base pay and was in lieu of an accrual to their 1995 defined
+benefit plan. According to Enron plan documents, the vested portion of a participant’s
+retirement subaccount was used to offset the benefit they earned from Enron’s cash
+balance plan from January 1, 1987 through December 31, 1994. The offset was calculated
+using the value of the shares of Enron stock based on the earlier of when the shares were
+distributed or when the shares were available to be withdrawn from the ESOP. Once a plan
+participant has access to the shares of his or her retirement subaccount, the shares’ value
+is used to offset the benefit they have earned from the Enron defined benefit plan for their
+service between January 1, 1987, and December 31, 1994.
+
+
+
+Page 6                                                                         GAO-02-480T
+
+=== PAGE 8 ===
+                        between January 1, 1987, and December 31, 1994. No new participants
+                        were allowed into the ESOP after January 1, 1995.
+
+                        Finally, Enron sponsored a cash balance plan, which accrued retirement
+                        benefits to employees during their employment at Enron. An employee
+                        was eligible to be a member of the cash balance plan immediately upon
+                        being employed. According to DOL officials, the cash balance plan did not
+                        have any investments in Enron stock as of the end of 2000. If the plan is
+                        unable to pay promised benefits and is taken over by PBGC, vested
+                        participants and retirees will receive their promised benefits up to the
+                        limit guaranteed under ERISA.
+
+                        The Enron collapse points to the importance of prudent investment
+Greater                 principles such as diversification, including diversification of employer
+Diversification and     matching contributions. Diversification helps individuals to mitigate the
+                        risk of holding stocks by spreading their holdings over many investments
+Investment              and reducing excessive exposure to any one source of risk. Many workers
+Sophistication May Be   are covered by participant-directed 401(k) plans that allow participants to
+Needed                  allocate the investment of their account balances among a menu of
+                        investment options, including employer stock. Additionally, many plan
+                        sponsors match participants’ elective contributions with shares of
+                        employer stock.
+
+                        When the employer’s stock constitutes the majority of employees’ account
+                        balances and is the only type of matching contribution the employer
+                        provides, employees are exposed to the possibility of losing more than
+                        their job if the company goes out of business or into serious financial
+                        decline. They are also exposed to the possibility of losing a major portion
+                        of their retirement savings. For example, DOL reports that 63 percent of
+                        Enron’s 401(k) assets were invested in company stock as of the end of
+                        2000. These concentrations are the result both of employee investment
+                        choice and employer matching with company stock. The types of losses
+                        experienced by Enron employees could have been limited if employees
+                        had diversified their account balances and if they had been able to
+                        diversify their company matching contributions more quickly.
+
+                        Companies prefer to match employees’ contributions with company stock
+                        for a number of reasons. First, when a company makes its matching
+                        contribution in the form of company stock, issuing the stock has little
+                        impact on the company’s financial statement in the short term. Second,
+                        stock contributions are fully deductible as a business expense for tax
+                        purposes at the share price in effect when the company contributes them.
+                        Third, matching contributions in company stock puts more company
+
+                        Page 7                                                          GAO-02-480T
+
+=== PAGE 9 ===
+shares in the hands of employees who some officials feel are less likely to
+sell their shares if the company’s profits are less than expected or in the
+event of a takeover. Finally, companies point out that matching with
+company stock promotes a sense of employee ownership, linking the
+interests of employees with the company and other shareholders.
+
+Some pension experts have said that easing employer restrictions on when
+employees are allowed to sell their company matching contributions
+would increase their ability to diversify. In 1997, a majority of the Pension
+and Welfare Benefits Administration Advisory Council working group on
+employer assets in ERISA plans recommended that participants in 401(k)
+plans be able to sell employer stock when they become vested in the plan.6
+Additionally, legislation has recently been introduced that would limit the
+amount of employer stock that can be held in participants’ 401(k)
+accounts and provide participants greater freedom to diversify their
+employer matching contributions. Proponents of allowing employees to
+diversify employer stock matching contributions more quickly say that this
+would benefit both employers and employees by maintaining the tax and
+financial benefits for the company while providing employees with more
+investment freedom and increased retirement benefit security. However,
+others have expressed concern that further restrictions on employer plan
+designs may reduce incentives for employers to sponsor plans or provide
+matching contributions.
+
+Even with opportunities to diversify, studies indicate that employees will
+need education to improve their ability to manage their retirement savings.
+Numerous studies have looked at how well individuals who are currently
+investing understand investments and the markets. 7 On the basis of those
+studies, it is clear that among those who save through their company’s
+retirement programs or on their own, large percentages of the investing
+population are unsophisticated and do not fully understand the risks
+associated with their investment choices. For example, one study found
+that 47 percent of 401(k) plan participants believe that stocks are
+components of a money market fund, and 55 percent of those surveyed
+
+
+
+6
+ Pension and Welfare Benefits Administration Advisory Council on Employee Welfare and
+Pension Benefits Plans, Report of the Working Group on Employer Assets in ERISA
+Employer-Sponsored Plans, November 13, 1997.
+7
+ U.S. General Accounting Office, Social Security: Capital Markets and Educational
+Issues Associated With Individual Accounts, GAO/GGD-99-115 (Washington, D.C., June
+1999).
+
+
+
+Page 8                                                                  GAO-02-480T
+
+=== PAGE 10 ===
+thought that they could not lose money in government bond funds.
+Another study on the financial literacy of mutual fund investors found that
+less than half of all investors correctly understood the purpose of
+diversification. These studies and others indicate the need for enhanced
+investment education about such topics as investing, the relationship
+between risk and return, and the potential benefits of diversification.
+
+In addition to investor education, employees may need more
+individualized investment advice. Such investment advice becomes even
+more important as participation in 401(k) plans continues to increase.
+ERISA does not require plan sponsors to make investment advice available
+to plan participants. Under ERISA, providing investment advice results in
+fiduciary responsibility for those providing the advice, while providing
+investment education does not. ERISA does, however, establish conditions
+employers must meet8 in order to be shielded from fiduciary liability
+related to investment choices made by employees in their participant-
+directed accounts. In 1996, DOL issued guidance to employers and
+investment advisers on how to provide educational investment
+information and analysis to participants without triggering fiduciary
+liability. DOL recently issued guidance about investment advice making it
+easier for plans to use independent investment advisors to provide advice
+to employees in retirement plans.
+
+Industry representatives that we spoke with said more companies are
+providing informational sessions with investment advisors to help
+employees better understand their investments and the risk of not
+diversifying. They also said that changes are needed under ERISA to better
+shield employers from fiduciary liability for investment advisors’
+recommendations to individual participants. ERISA currently prohibits
+fiduciary investment advisors from engaging in transactions with clients’
+plans where they have a conflict of interest, for example, when the
+advisors are providing other services such as plan administration. As a
+result, investment advisors cannot provide specific investment advice to
+401(k) plan participants about their firm’s investment products without
+approval from DOL. Various legislative proposals have been introduced
+that would address employers’ concern about fiduciary liability when they
+make investment advice available to plan participants and make it easier
+for fiduciary investment advisors to provide investment advice to
+
+
+
+8
+ These include a minimum number of investment options and related material that must be
+provided to participants.
+
+
+
+Page 9                                                                   GAO-02-480T
+
+=== PAGE 11 ===
+                      participants when they also provide other services to the participants’
+                      plan. However, concerns remain that such proposals may not adequately
+                      protect plan participants from conflicted advice.
+
+
+                      Enron’s failure highlights the importance of plan participants receiving
+Enhanced Disclosure   clear information about their pension plan and any changes to it that could
+Could Help            affect plan benefits. Current ERISA disclosure requirements provide only
+                      minimum guidelines that firms must follow on the type of information they
+Employees             provide plan participants. Improving the amount of disclosure provided to
+Understand            plan participants and also ensuring that such disclosure is in plain English
+                      could help participants better manage the risks they face.
+Investment Risks
+They Face             Enron’s pension plans illustrate the complex nature of some plan designs
+                      that may be difficult for participants to understand. For example, Enron’s
+                      pension plans included a floor-offset arrangement. Such arrangements
+                      consist of separate, but associated defined benefit and defined
+                      contribution plans. The benefits accrued under one plan offset the benefit
+                      payable from the other. In 1987, Congress limited the use of such plans.
+                      However, plans in existence when the provision was enacted, including
+                      Enron’s plan, were grandfathered. In addition, Enron’s conversion of its
+                      defined benefit plan from one type of benefit formula to another illustrates
+                      the types of changes and their consequent affect on benefits that plan
+                      participants need to understand. Enron’s defined benefit plan was
+                      converted from a final average pay formula—where the pension benefit is
+                      a percentage of the participant’s final years of pay multiplied by his or her
+                      length of service—to a cash balance formula, which expresses the defined
+                      benefit as a hypothetical account balance. As we have previously reported,
+                      conversions to cash balance plans can be advantageous to certain groups
+                      of workers—for example, those who switch jobs frequently—but can
+                      lower the pension benefits of others. 9
+
+                      The extent to which Enron employees were informed or understood the
+                      effect of the floor-offset or the conversion of their defined benefit plan to a
+                      cash balance formula is unclear. As stated in a prior GAO report on cash
+                      balance plans10, we found wide variation in the type and amounts of
+                      information workers receive about plan changes and that can potentially
+
+
+                      9
+                       U.S. General Accounting Office, Private Pension Plans: Implications of Conversions to
+                      Cash Balance Plans, GAO/HEHS-00-185, (Washington, D.C., September 2000).
+                      10
+                           See footnote 9.
+
+
+
+                      Page 10                                                                   GAO-02-480T
+
+=== PAGE 12 ===
+                    reduce pensions benefits. Based in part on our recommendations, the
+                    Congress, under the Economics Growth and Tax Relief Reconciliation Act
+                    of 2001, required that employers provide participants more timely and
+                    clear information concerning changes to plans that could reduce their
+                    future benefits. The Treasury Department is responsible for issuing the
+                    applicable regulations implementing this requirement. 11
+
+                    Other types of information may also be beneficial to plan participants.
+                    Currently, ERISA requires that plan administrators provide each plan
+                    participant with a summary of certain financial data reported to DOL. As
+                    we previously reported,12 the Secretary of Labor could require that plan
+                    administrators provide plan participants with information about the
+                    employers’ financial condition and other information. Such information
+                    could enable employees to be more fully informed about their holdings
+                    and any potential risks associated with them.
+
+
+                    Under ERISA, fiduciaries are held to high but broad standards. Persons
+ERISA Requires      who perform certain tasks, generally involving the use of a plan’s assets,
+Fiduciaries to be   become fiduciaries because of those duties. Others, such as the plan
+                    sponsor, the plan administrator, or a trustee are fiduciaries because of
+Prudent and         their position. Fiduciaries are required to act solely in the interest of plan
+Reasonable          participants and beneficiaries. They are to adhere to a standard referred to
+                    as the prudent expert rule, which requires them to act as a prudent person
+                    experienced in such matters would in similar circumstances. Fiduciaries
+                    are required to follow their plan’s documents and act in accordance with
+                    the terms of the plan as it is set out. If fiduciaries do not perform their
+                    duties in accordance with ERISA standards, they may be held personally
+                    liable for any breach of their duty.
+
+                    Yet, even with the high standards and broad guidance provided by ERISA,
+                    in some cases the actions of fiduciaries can seem to conflict with the best
+                    interests of plan participants. During the period when revelations about
+                    Enron’s finances were contributing to the steady devaluation of Enron’s
+                    stock price, Enron’s plan fiduciaries imposed a lockdown on the 401(k)
+                    plan, preventing employees from making withdrawals or investment
+
+
+                    11
+                         Public Law 107-16.
+                    12
+                      U.S. General Accounting Office, 401(k) Pension Plans: Extent of Plans’ Investments in
+                    Employer Securities and Real Property, GAO/HEHS-98-28 (Washington, D.C., November
+                    1997).
+
+
+
+                    Page 11                                                                   GAO-02-480T
+
+=== PAGE 13 ===
+              transfers.13 Enron imposed the lockdown to change recordkeepers, an
+              acceptable practice. Some observers, however, have questioned whether
+              Enron employees were sufficiently notified about the lockdown.
+              Observers have also questioned the equity of treatment between Enron
+              senior executives and Enron workers during the lockdown. Enron’s
+              employees were unable to make changes to their 401(k) accounts during
+              the plan’s lockdown period. However, Enron executives did not face
+              similar restrictions on company stock not held in the plan. Fairness would
+              suggest that company executives should face similar restrictions in their
+              ability to sell company stock during lockdown periods when workers are
+              unable to make 401(k) investment changes. This is especially true for
+              those executives who serve as pension plan fiduciaries, including plan
+              trustees.
+
+
+              The Enron collapse, although not by itself evidence that private pension
+Conclusions   law should be changed, serves to illustrate what can happen to employees’
+              retirement savings under certain conditions. Specifically, it illustrates the
+              importance of diversification for retirement savings as well as employees’
+              need for enhanced education, appropriate investment advice, and greater
+              disclosure. All of these may help them better navigate the risks they face in
+              saving for retirement.
+
+              In addition to the broad issues of diversification and education, Enron’s
+              collapse raises questions about the relationship between various plan
+              designs and participant benefit security. In particular, Congress may wish
+              to consider whether further restrictions on floor-offset arrangements are
+              warranted, whether to provide additional employee flexibility in
+              connection with matches in the form of employer stocks, and whether to
+              limit the amount of employer stock that can be held in certain retirement
+              saving plans. Resolving these issues will require considering the tradeoffs
+              between providing greater participant protections and employers’ need for
+              flexibility in plan design. Finally, Congress will have to weigh whether to
+              rely on the broad fiduciary standards established in ERISA that currently
+              govern fiduciary actions or to impose specific requirements that would
+              govern certain plan administrative operations such as plan investment
+              freezes or lockdowns.
+
+
+              13
+                The Department of Labor is investigating Enron to determine whether there were any
+              ERISA violations in the operation of the company’s employee benefit plans. DOL also
+              recently reached an agreement with Enron to appoint an independent fiduciary to assume
+              control of the company’s retirement plans.
+
+
+
+              Page 12                                                                   GAO-02-480T
+
+=== PAGE 14 ===
+                  Mr. Chairman this concludes my statement. I would be happy to answer
+                  any questions you or other members of the Committees may have.
+
+
+                  For further information regarding this testimony, please contact Barbara
+Contacts and      D. Bovbjerg, Director, or George A. Scott, Assistant Director, Education,
+Acknowledgments   Workforce, and Income Security (202) 512-7215. Individuals making key
+                  contributions to this testimony include Joseph Applebaum, Jeremy Citro,
+                  Tamara Cross, Patrick DiBattista, Raun Lazier, and Roger Thomas.
+
+
+
+
+(130128)
+                  Page 13                                                        GAO-02-480T

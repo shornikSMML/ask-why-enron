@@ -75,8 +75,8 @@
   <path class="s2l" d="M572.5,436 V432.5 Q572.5,428.9 576.0357142857143,428.9 H608.9642857142857 Q612.5,428.9 612.5,432.5 V436 Z"/>
   <path class="s2l" d="M639.5,436 V432.5 Q639.5,428.9 643.0357142857143,428.9 H675.9642857142857 Q679.5,428.9 679.5,432.5 V436 Z"/>
   <path class="s2l" d="M706.5,436 V432.5 Q706.5,428.9 710.0357142857143,428.9 H742.9642857142857 Q746.5,428.9 746.5,432.5 V436 Z"/>
-  <text class="ink s" x="170.5" y="412">Years 2–10: small updates as time passes and forecasts change.</text>
-  <text class="ink s" x="170.5" y="392">These can be gains or losses.</text>
+  <text class="ink s" x="170.5" y="392">Years 2–10: small updates as time passes and forecasts change.</text>
+  <text class="ink s" x="170.5" y="412">These can be gains or losses.</text>
   <line class="base" x1="80" y1="436" x2="770" y2="436"/>
   <text class="mut s" x="123.5" y="456" text-anchor="middle">Yr 1</text>
   <text class="mut s" x="190.5" y="456" text-anchor="middle">Yr 2</text>

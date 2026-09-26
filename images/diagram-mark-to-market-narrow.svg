@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 920" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+  <title id="t">Illustration: waiting for the cash versus mark-to-market accounting (phone layout)</title>
+  <desc id="d">Illustration with made-up numbers, not Enron figures. A company signs a 10-year contract expected to earn 10 dollars of profit a year, 100 dollars in all. Top chart, waiting for the cash: the company reports 10 dollars of profit in each of the 10 years. Bottom chart, mark-to-market: in year 1 the company reports about 70 dollars, its estimate of what all ten years of future profit are worth today, and in years 2 to 10 it reports only small updates, which can be gains or losses. The cash actually received is the same in both cases: 10 dollars a year. The year-1 figure rests on forecasts of prices many years ahead; if the forecasts prove wrong, later years must record losses.</desc>
+  <style>
+    svg { --d-bg:#fcfcfb; --d-ink:#0b0b0b; --d-muted:#52514e; --d-line:#8a8984; --d-s1:#2a78d6; --d-s2:#eb6834; --d-note:#f6f3e6; --d-flag:#8a3a12; }
+    @media (prefers-color-scheme: dark) {
+      svg { --d-bg:#1a1a19; --d-ink:#ffffff; --d-muted:#c3c2b7; --d-line:#8a8984; --d-s1:#3987e5; --d-s2:#d95926; --d-note:#2b2920; --d-flag:#f0a47f; }
+    }
+    .bg  { fill: var(--diagram-bg, var(--d-bg)); }
+    .ink { fill: var(--diagram-ink, var(--d-ink)); }
+    .mut { fill: var(--diagram-muted, var(--d-muted)); }
+    .s1  { fill: var(--d-s1); }
+    .s2  { fill: var(--d-s2); }
+    .s2l { fill: var(--d-s2); opacity: .55; }
+    .base{ stroke: var(--d-line); stroke-width: 1.5; }
+    .note{ fill: var(--d-note); stroke: var(--d-line); stroke-width: 1.5; }
+    .flag{ fill: none; stroke: var(--d-flag); stroke-width: 2; stroke-dasharray: 6 5; }
+    .flagt{ fill: var(--d-flag); font-size: 13px; font-weight: 700; letter-spacing: .08em; }
+    .h   { font-size: 24px; font-weight: 700; }
+    .ph  { font-size: 19px; font-weight: 700; }
+    .b   { font-size: 18px; }
+    .s   { font-size: 15px; }
+    .v   { font-size: 14px; font-weight: 700; }
+  </style>
+  <rect class="bg" x="0" y="0" width="520" height="920" rx="12"/>
+  <rect class="flag" x="340" y="14" width="164" height="28" rx="6"/>
+  <text class="flagt" x="422" y="33" text-anchor="middle">ILLUSTRATION</text>
+  <text class="ink h" x="20" y="80">When is profit reported?</text>
+  <text class="mut b" x="20" y="108">A made-up 10-year contract expected to</text>
+  <text class="mut b" x="20" y="132">earn $10 a year ($100 in all). Not Enron figures.</text>
+
+  <rect class="s1" x="20" y="164" width="14" height="14" rx="3"/>
+  <text class="ink ph" x="42" y="177">Waiting for the cash</text>
+  <text class="mut s" x="42" y="198">Profit reported each year as it is earned</text>
+  <rect class="s2" x="20" y="318" width="14" height="14" rx="3"/>
+  <text class="ink ph" x="42" y="331">Mark-to-market</text>
+  <text class="mut s" x="42" y="352">Estimated value of the whole contract up front</text>
+
+  <path class="s1" d="M37.5,250 V232.6 Q37.5,228.6 41.5,228.6 H65.5 Q69.5,228.6 69.5,232.6 V250 Z"/>
+  <text class="ink v" x="53.5" y="222.6" text-anchor="middle">$10</text>
+  <path class="s1" d="M84.5,250 V232.6 Q84.5,228.6 88.5,228.6 H112.5 Q116.5,228.6 116.5,232.6 V250 Z"/>
+  <text class="ink v" x="100.5" y="222.6" text-anchor="middle">$10</text>
+  <path class="s1" d="M131.5,250 V232.6 Q131.5,228.6 135.5,228.6 H159.5 Q163.5,228.6 163.5,232.6 V250 Z"/>
+  <text class="ink v" x="147.5" y="222.6" text-anchor="middle">$10</text>
+  <path class="s1" d="M178.5,250 V232.6 Q178.5,228.6 182.5,228.6 H206.5 Q210.5,228.6 210.5,232.6 V250 Z"/>
+  <text class="ink v" x="194.5" y="222.6" text-anchor="middle">$10</text>
+  <path class="s1" d="M225.5,250 V232.6 Q225.5,228.6 229.5,228.6 H253.5 Q257.5,228.6 257.5,232.6 V250 Z"/>
+  <text class="ink v" x="241.5" y="222.6" text-anchor="middle">$10</text>
+  <path class="s1" d="M272.5,250 V232.6 Q272.5,228.6 276.5,228.6 H300.5 Q304.5,228.6 304.5,232.6 V250 Z"/>
+  <text class="ink v" x="288.5" y="222.6" text-anchor="middle">$10</text>
+  <path class="s1" d="M319.5,250 V232.6 Q319.5,228.6 323.5,228.6 H347.5 Q351.5,228.6 351.5,232.6 V250 Z"/>
+  <text class="ink v" x="335.5" y="222.6" text-anchor="middle">$10</text>
+  <path class="s1" d="M366.5,250 V232.6 Q366.5,228.6 370.5,228.6 H394.5 Q398.5,228.6 398.5,232.6 V250 Z"/>
+  <text class="ink v" x="382.5" y="222.6" text-anchor="middle">$10</text>
+  <path class="s1" d="M413.5,250 V232.6 Q413.5,228.6 417.5,228.6 H441.5 Q445.5,228.6 445.5,232.6 V250 Z"/>
+  <text class="ink v" x="429.5" y="222.6" text-anchor="middle">$10</text>
+  <path class="s1" d="M460.5,250 V232.6 Q460.5,228.6 464.5,228.6 H488.5 Q492.5,228.6 492.5,232.6 V250 Z"/>
+  <text class="ink v" x="476.5" y="222.6" text-anchor="middle">$10</text>
+  <line class="base" x1="24" y1="250" x2="500" y2="250"/>
+  <text class="mut s" x="53.5" y="270" text-anchor="middle">1</text>
+  <text class="mut s" x="100.5" y="270" text-anchor="middle">2</text>
+  <text class="mut s" x="147.5" y="270" text-anchor="middle">3</text>
+  <text class="mut s" x="194.5" y="270" text-anchor="middle">4</text>
+  <text class="mut s" x="241.5" y="270" text-anchor="middle">5</text>
+  <text class="mut s" x="288.5" y="270" text-anchor="middle">6</text>
+  <text class="mut s" x="335.5" y="270" text-anchor="middle">7</text>
+  <text class="mut s" x="382.5" y="270" text-anchor="middle">8</text>
+  <text class="mut s" x="429.5" y="270" text-anchor="middle">9</text>
+  <text class="mut s" x="476.5" y="270" text-anchor="middle">10</text>
+  <text class="mut s" x="262" y="292" text-anchor="middle">Year</text>
+  <path class="s2" d="M37.5,540 V394.0 Q37.5,390.0 41.5,390.0 H65.5 Q69.5,390.0 69.5,394.0 V540 Z"/>
+  <text class="ink v" x="37.5" y="382.0">about $70</text>
+  <path class="s2l" d="M84.5,540 V536.5 Q84.5,532.9 88.03571428571429,532.9 H112.96428571428571 Q116.5,532.9 116.5,536.5 V540 Z"/>
+  <path class="s2l" d="M131.5,540 V536.5 Q131.5,532.9 135.03571428571428,532.9 H159.96428571428572 Q163.5,532.9 163.5,536.5 V540 Z"/>
+  <path class="s2l" d="M178.5,540 V536.5 Q178.5,532.9 182.03571428571428,532.9 H206.96428571428572 Q210.5,532.9 210.5,536.5 V540 Z"/>
+  <path class="s2l" d="M225.5,540 V536.5 Q225.5,532.9 229.03571428571428,532.9 H253.96428571428572 Q257.5,532.9 257.5,536.5 V540 Z"/>
+  <path class="s2l" d="M272.5,540 V536.5 Q272.5,532.9 276.0357142857143,532.9 H300.9642857142857 Q304.5,532.9 304.5,536.5 V540 Z"/>
+  <path class="s2l" d="M319.5,540 V536.5 Q319.5,532.9 323.0357142857143,532.9 H347.9642857142857 Q351.5,532.9 351.5,536.5 V540 Z"/>
+  <path class="s2l" d="M366.5,540 V536.5 Q366.5,532.9 370.0357142857143,532.9 H394.9642857142857 Q398.5,532.9 398.5,536.5 V540 Z"/>
+  <path class="s2l" d="M413.5,540 V536.5 Q413.5,532.9 417.0357142857143,532.9 H441.9642857142857 Q445.5,532.9 445.5,536.5 V540 Z"/>
+  <path class="s2l" d="M460.5,540 V536.5 Q460.5,532.9 464.0357142857143,532.9 H488.9642857142857 Q492.5,532.9 492.5,536.5 V540 Z"/>
+  <text class="ink s" x="88.5" y="488">Years 2–10: small updates as time</text>
+  <text class="ink s" x="88.5" y="508">passes and forecasts change.</text>
+  <text class="ink s" x="88.5" y="528">These can be gains or losses.</text>
+  <line class="base" x1="24" y1="540" x2="500" y2="540"/>
+  <text class="mut s" x="53.5" y="560" text-anchor="middle">1</text>
+  <text class="mut s" x="100.5" y="560" text-anchor="middle">2</text>
+  <text class="mut s" x="147.5" y="560" text-anchor="middle">3</text>
+  <text class="mut s" x="194.5" y="560" text-anchor="middle">4</text>
+  <text class="mut s" x="241.5" y="560" text-anchor="middle">5</text>
+  <text class="mut s" x="288.5" y="560" text-anchor="middle">6</text>
+  <text class="mut s" x="335.5" y="560" text-anchor="middle">7</text>
+  <text class="mut s" x="382.5" y="560" text-anchor="middle">8</text>
+  <text class="mut s" x="429.5" y="560" text-anchor="middle">9</text>
+  <text class="mut s" x="476.5" y="560" text-anchor="middle">10</text>
+  <text class="mut s" x="262" y="582" text-anchor="middle">Year</text>
+
+  <rect class="note" x="16" y="614" width="488" height="290" rx="12"/>
+  <text class="ink b" x="36" y="646" font-weight="700">The cash is the same either way:</text>
+  <text class="ink b" x="36" y="670" font-weight="700">$10 arrives each year.</text>
+  <text class="ink b" x="36" y="700">Only the timing of reported profit changes.</text>
+  <text class="ink b" x="36" y="725">The year-1 figure (about $70, not $100) is</text>
+  <text class="ink b" x="36" y="750">today's estimated value of ten years of</text>
+  <text class="ink b" x="36" y="775">future profit: money that arrives later</text>
+  <text class="ink b" x="36" y="800">counts for less. It depends on forecasts of</text>
+  <text class="ink b" x="36" y="825">prices and costs many years ahead. If they</text>
+  <text class="ink b" x="36" y="850">turn out too hopeful, the company must</text>
+  <text class="ink b" x="36" y="875">record losses later.</text>
+</svg>

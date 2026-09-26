@@ -14,6 +14,7 @@ Phase 1:
 3. Timeline, 1985–2006.
 4. Glossary.
 5. "How This Was Built" page (see BUILD LOG).
+6. The Footnote: the related-party footnote from Enron's 2000 Form 10-K (sources/03-sec-filings/enron-10k-fy2000.txt), shown in full and annotated phrase by phrase in plain language, the way an annotated edition explains a difficult poem: what each phrase said, what it left out, and what the investigations later found. Every annotation links to its source.
 
 Phase 2:
 6. Lenses the reader can switch on over the Story: Follow the Money; The Auditors; The Board; Who Knew What, When.

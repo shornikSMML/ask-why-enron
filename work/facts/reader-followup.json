@@ -531,6 +531,54 @@
     "checker_note": "Fingerprint OK. OCR quote checked against page image PDF 18: verbatim. Round 3 Fact-Checker A."
   },
   {
+    "id": "F-022",
+    "topic": "Audit Committee meeting time: Duncan's e-mail (examiner n. 472)",
+    "claim": "The bankruptcy examiner wrote that evidence suggests the time allotted for Enron's Audit Committee meetings affected how much detailed information Andersen gave the committee. He cites a December 19, 2000 e-mail from David Duncan to Andersen colleague Neil Wood, about providing information to the Audit Committee on internal control issues, in which Duncan wrote that it all had to occur in about a 30-45 minute presentation, so Andersen necessarily had to stay at a certain level.",
+    "quote": "As this all must occur in about a 30 – 45 minute presentation, you might understand that we necessarily have to stay at a certain level.",
+    "source_id": "batson-final-app-b-part2",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part2-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 29,
+      "printed_page": "p. 131, n. 472",
+      "section": "IV.I Andersen's Interaction with Enron's Audit Committee, footnote 472",
+      "lines": "work/text/batson-final-app-b-part2.txt ~1268-1273"
+    },
+    "source_type": "examiner conclusion",
+    "verb": "reported",
+    "people": [
+      "David Duncan"
+    ],
+    "event_date": "2000-12-19",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "The quoted sentence is Duncan's e-mail as quoted by the examiner (Bates AB1128 00602-00605); the e-mail itself is not in the library. The examiner's own words: 'Evidence suggests that the time allotted for the Audit Committee meetings had an effect on the level of detailed information provided by Andersen to the Committee.' Context: the e-mail discusses information to the Audit Committee 'regarding internal control issues', not every Audit Committee presentation; say so if space allows. The printed dash is an en dash ('30 – 45'). Pairs with C-035 (thirty meetings, about one hour each).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (batson-final-app-b-part2 matches download_log.csv). OCR text checked against the page image, PDF 29 (printed p. 131, n. 472): quote verbatim, including the en dash. Examiner's framing sentence verified on the same image. Phase 2 Fact-Checker A, 2026-09-27."
+  },
+  {
+    "id": "F-023",
+    "topic": "Raptor restructuring, Q1 2001: $36.6M reserve instead of $504M",
+    "claim": "The board's special committee found that restructuring the Raptors (effective as of March 26, 2001) let Enron avoid reflecting a $504 million credit reserve loss in its first-quarter 2001 financial statements; instead it recorded only a $36.6 million credit reserve loss. The committee gives the $36.6 million figure 'by Enron's calculations'.",
+    "quote": "Restructuring the Raptors allowed Enron to avoid reflecting the $504 million credit reserve loss in its first quarter financial statements. Instead, it recorded only a $36.6 million credit reserve loss.",
+    "source_id": "powers-report-sec",
+    "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": "pp. 122, 124",
+      "section": "V.D.2 First Quarter 2001 Restructuring (b. The Restructuring Transaction; conclusion)",
+      "lines": "4469-4471, 4553-4555"
+    },
+    "source_type": "board committee finding",
+    "verb": "found",
+    "people": [],
+    "event_date": "2001-03-26",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Line 4470-4471: 'By Enron's calculations, the restructuring allowed Enron to record only a $36.6 million credit reserve'. The executive summary (A-057) describes the expected charge as 'more than $500 million'; the $504 million shortfall is at line 4430 (A-057). The transaction documents are dated April 13, 2001, after quarter-end, but say 'effective as of March 26, 2001' (n. 58). For year-end 2000 no reserve was recorded (A-056). Use with A-056/A-057 for 'Enron avoided a large charge'.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (powers-report-sec). Quote verbatim at lines 4553-4555; 'By Enron's calculations' sentence verbatim at lines 4469-4471. Phase 2 Fact-Checker A, 2026-09-27."
+  },
+  {
     "id": "F-051",
     "topic": "Lea Fastow: name (House hearing)",
     "claim": "At a House Energy and Commerce oversight hearing on February 7, 2002, Chairman Greenwood said it appeared that Lea Fastow, Andrew Fastow's wife, performed certain management tasks for Chewco, and placed in the record an October 13, 1998 fax from her to Michael Kopper about account balances.",

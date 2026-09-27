@@ -1,7 +1,7 @@
 import json, re, glob, sys
 from html.parser import HTMLParser
 
-ROOT = '/home/user/enron-dryrun'
+ROOT = __import__('os').path.abspath(__import__('os').path.join(__import__('os').path.dirname(__file__), '../../..'))
 cards = {}
 for f in sorted(glob.glob(ROOT + '/work/facts/reader-*.json')):
     for c in json.load(open(f)):
@@ -41,6 +41,8 @@ def C(cid):
     if L.get('printed_page'): bits.append(str(L['printed_page']))
     if L.get('section'): bits.append(str(L['section']))
     if not L.get('printed_page') and L.get('lines'): bits.append('lines ' + str(L['lines']))
+    if c['source_id'] == 'powers-report-sec':
+        page = None  # G-1: .txt source; PDF page numbers belong to the separate powers-report copy
     return {'card': cid, 'source_id': c['source_id'], 'page': page, 'loc': ', '.join(bits)}
 
 def cites(*ids): return [C(i) for i in ids]
@@ -67,7 +69,7 @@ L['_meta'] = {
 L['ch1'] = {
  'money': {
   'notes': [
-   note(1, 13, 'money', "Follow the money: all three Enron 2000 targets were about reported net income and how fast it grew, year after year. The congressional tax staff described the plan but did not say it caused later accounting choices; Chapter 2 shows why steady reported growth mattered so much to Enron.", 'A-008', 'A-028'),
+   note(1, 13, 'money', "Follow the money: all three Enron 2000 targets were about reported earnings and how fast they grew, year after year. The congressional tax staff described the plan but did not say it caused later accounting choices; Chapter 2 shows why steady reported growth mattered so much to Enron.", 'A-008', 'A-028'),
    note(1, 15, 'money', "Follow the money: reported revenue grew nearly eightfold from 1996 to 2000, and reported assets about fourfold. Chapter 2 compares this with reported net income, which grew far more slowly: from $703 million in 1998 to $979 million in 2000.", 'A-010', 'A-025'),
    note(1, 17, 'money', "Follow the money: market capitalization is set by investors buying and selling shares, not by the company's accountants. The $70 billion figure comes from an Enron press release, as the congressional tax staff noted.", 'A-011'),
   ],
@@ -161,18 +163,18 @@ L['ch2'] = {
  },
  'knew': {
   'notes': [
-   note(2, 12, 'knew', "Who Knew What, When: the SEC's accounting office agreed to mark-to-market accounting starting in 1992; Enron replied that it would start a year earlier. The Senate staff found that the SEC apparently did not respond further.", 'C-055'),
+   note(2, 12, 'knew', "Who Knew What, When: the SEC's accounting office said it would not object to mark-to-market accounting for an Enron subsidiary starting in 1992; Enron replied that it would start a year earlier. The Senate staff found that the SEC apparently did not respond further.", 'C-055'),
   ],
   'summary': [
    B("The Senate Governmental Affairs Committee staff found that in January 1992 the SEC's Office of the Chief Accountant said it would not object to mark-to-market accounting for an Enron subsidiary from 1992, and that Enron replied it would start from 1991.", 'C-055'),
    B("The staff wrote: \"Apparently, the SEC did not respond further to this correspondence.\"", 'C-055'),
-   B("Enron's annual report told readers that unrealized gains from newly originated contracts were counted as revenue. The information was published; understanding it took expertise.", 'A-020'),
+   B("Enron's annual report told readers that unrealized gains from newly originated contracts were counted as revenue..", 'A-020'),
    B("Enron's description of EnronOnline told readers that customers traded \"with Enron as principal,\" meaning Enron was on one side of every trade.", 'A-018'),
   ],
   'strip': [
    S('1992-01-30', "SEC Office of the Chief Accountant", "Told Enron it would not object to mark-to-market accounting for Enron Gas Services from 1992. Enron replied it would adopt the method from the start of 1991.", 'C-055'),
-   S('1999', 'EnronOnline customers', "Enron launched EnronOnline; its annual report later told readers that customers traded \"with Enron as principal.\"", 'A-018'),
-   S('2000-12-31', 'Investors', "Enron reported total debt of $10.2 billion. The bankruptcy examiner later concluded that without six accounting techniques the figure would have been $22.1 billion.", 'A-026', 'A-067'),
+   S('2001', 'Readers of the 2000 Form 10-K', "Were told that on EnronOnline, launched in late 1999, customers traded \"with Enron as principal.\"", 'A-018'),
+   S('2000-12-31', 'Investors', "Enron reported total debt of $10.2 billion. The bankruptcy examiner, in an earlier report summarized in his final one, later concluded that without six accounting techniques the figure would have been $22.1 billion.", 'A-026', 'A-067'),
    S('2001-02-23', 'Readers of the 2000 Form 10-K', "Were told by Andersen's audit report that the 2000 statements \"present fairly, in all material respects\" Enron's financial position.", 'A-027'),
   ],
   'ask_why': "Enron described its mark-to-market policy in its annual report. If a risk is disclosed in the fine print, who is responsible when most readers do not understand it: the company, the auditor, the regulator, or the reader?"
@@ -185,15 +187,15 @@ L['ch3'] = {
   'notes': [
    note(3, 4, 'money', "Follow the money: Enron put in its own stock, while CalPERS put in cash. When CalPERS left, the new partner, Chewco, had to meet the SPE rules for JEDI to stay off Enron's balance sheet; the special committee found it did not.", 'A-031', 'A-035'),
    note(3, 7, 'money', "Follow the money: of Chewco's $11.5 million of \"equity,\" only about $125,000 came from Kopper. The rest was money from Barclays, and the $6.6 million of cash collateral meant the outside money was not truly at risk.", 'A-034', 'A-035'),
-   note(3, 8, 'money', "Follow the money: about $125,000 in, about $10.5 million out, plus about $2 million in fees. The committee was told that Treasurer Jeff McMahon had proposed a $1 million return for the Chewco investors and that Fastow negotiated about $10 million.", 'A-036', 'A-037'),
-   note(3, 12, 'money', "Follow the money: the pattern was to sell near the end of a quarter and buy back later, with LJM making a profit each time. Fastow told the board's Finance Committee these deals produced $229 million of \"earnings\" in the second half of 1999; the committee could not confirm that figure.", 'A-044'),
-   note(3, 19, 'money', "Follow the money: by the committee's calculation, without the Raptors Enron's pre-tax earnings for July 2000 through September 2001 would have been $429 million instead of $1.506 billion. For LJM2 the money came back fast: about $41 million on each $30 million investment within about six months.", 'A-054', 'A-053'),
-   note(3, 21, 'money', "Follow the money: the committee's figures for individuals are minimums: \"at least\" $30 million for Fastow and \"at least\" $10 million for Kopper. Enron itself disclosed on November 8, 2001 that it believed Fastow had received more than $30 million.", 'A-060'),
+   note(3, 8, 'money', "Follow the money: about $125,000 in, about $10.5 million out, plus about $2 million in fees. The committee was told that Treasurer Jeff McMahon had proposed a $1 million return for the Chewco investors and that Fastow negotiated about $10 million. Fastow said he did not take part; the committee found that contrary to other evidence.", 'A-036', 'A-037'),
+   note(3, 12, 'money', "Follow the money: in seven sales near the ends of two 1999 quarters, Enron later bought back five, and LJM made a profit every time; the committee noted plausible, more innocent explanations for some buybacks. Fastow told the board's Finance Committee these deals produced $229 million of \"earnings\" in the second half of 1999; the committee could not confirm that figure.", 'A-044'),
+   note(3, 19, 'money', "Follow the money: by the committee's calculation, without the Raptors Enron's pre-tax earnings for July 2000 through September 2001 would have been $429 million instead of $1.506 billion, not counting the $710 million charge to end the Raptors; the committee noted it could not know what Enron would otherwise have done. For LJM2 the money came back fast: about $41 million on each $30 million investment within about six months.", 'A-054', 'A-053'),
+   note(3, 21, 'money', "Follow the money: the committee's figures for individuals are minimums: \"at least\" $30 million for Fastow and \"at least\" $10 million for Kopper.", 'A-060'),
   ],
   'summary': [
    B("Chewco: the special committee found that Kopper and another investor turned $125,000 into about $10.5 million, and that Kopper was also paid about $2 million in fees.", 'A-036', 'A-037'),
    B("LJM: the committee found that more than 20 deals increased Enron's reported results \"by more than a billion dollars.\"", 'A-043'),
-   B("Raptors: the committee calculated that without them, Enron's pre-tax earnings for five quarters would have been $429 million rather than $1.506 billion, a 72% decline.", 'A-054'),
+   B("Raptors: the committee calculated that without them, Enron's pre-tax earnings for five quarters would have been $429 million rather than $1.506 billion, a 72% decline (not counting the $710 million charge to end the Raptors; the committee noted it could not know what Enron would otherwise have done).", 'A-054', 'A-058'),
    B("The committee found that Fastow was enriched by at least $30 million and Kopper by at least $10 million.", 'A-060'),
   ],
   'ask_why': "In several of these deals a small investment by insiders produced a very large return. Where did that money ultimately come from, and who was carrying the risk?"
@@ -216,7 +218,7 @@ L['ch3'] = {
    note(3, 6, 'board', "The Board: the Executive Committee approved the guarantee by conference call, based on a description of Chewco as \"an SPE not affiliated with either Enron or CalPERS.\" What the directors approved depended on what they were told.", 'A-033'),
    note(3, 9, 'board', "The Board: the directors did not simply learn of Fastow's role; they voted on it. The Senate subcommittee staff found that Lay approved waiving the code-of-conduct rule for Fastow and asked the board to ratify that decision, though company rules did not explicitly require it. Directors Winokur and Jaedicke later argued that the board had applied the code, not waived it.", 'F-006', 'F-007'),
    note(3, 10, 'board', "The Board: the controls rested on two officers and a yearly Audit Committee review. The special committee also saw no evidence that the board was told that Kopper and Glisan would help manage LJM2.", 'A-041', 'A-042'),
-   note(3, 20, 'board', "The Board: twice the Raptors were rescued without a loss being recorded. The committee saw no evidence the board was told of the December 2000 fix, and found that the March 2001 restructuring was apparently not disclosed to or authorized by the board.", 'A-056', 'A-057'),
+   note(3, 20, 'board', "The Board: twice the Raptors' credit problem was fixed so that Enron avoided a large charge: no reserve at the end of 2000, and only a $36.6 million reserve in March 2001 instead of a charge of more than $500 million. The committee saw no evidence the board was told of the December 2000 fix, and found that the March 2001 restructuring was apparently not disclosed to or authorized by the board.", 'A-056', 'A-057'),
    note(3, 22, 'board', "The Board: this is where the board's safeguards met practice. The committee found that neither Causey nor Buy ignored his responsibilities, but that they did not give the deals \"the degree of review the Board believed was occurring.\"", 'F-011', 'A-062'),
   ],
   'summary': [
@@ -237,7 +239,7 @@ L['ch3'] = {
   'summary': [
    B("Lay told the special committee he was not informed of Kopper's role in Chewco, and the committee found no written record that the board was told.", 'A-033'),
    B("LJM2's investors were told in writing that Fastow's \"access to Enron's information pertaining to potential investments will contribute to superior returns.\"", 'A-042'),
-   B("Kaminski's research group estimated a 68% probability that the Rhythms structure would default; Causey told the committee he did not recall that figure.", 'A-049'),
+   B("Kaminski told the committee that his group estimated, in early 2000, a 68% probability that the Rhythms structure would default; Causey told the committee he did not recall that figure.", 'A-049'),
    B("Enron's filings did mention the partnerships, but the committee found the disclosures \"obtuse.\"", 'A-064'),
   ],
   'strip': [
@@ -245,7 +247,7 @@ L['ch3'] = {
    S('1999-06-28', 'Enron board', "Was told Fastow would be general partner of LJM1, and ratified a determination that his participation would not adversely affect Enron.", 'A-040', 'F-007'),
    S('1999-06', 'Richard Buy (Chief Risk Officer)', "Kaminski told the special committee he brought his concerns about the Rhythms deal to Buy; Buy said he did not recall those discussions.", 'F-014'),
    S('1999-10', 'LJM2 investors', "Were told in LJM2's offering document that Fastow's access to Enron's information would \"contribute to superior returns.\"", 'A-042'),
-   S('2000', "Enron's research group", "Estimated, in early 2000, a 68% probability that the Rhythms structure would default on what it owed Enron; Causey told the committee he did not recall this.", 'A-049'),
+   S('2000', "Vince Kaminski (head of research)", "Told the special committee that his group estimated, in early 2000, a 68% probability that the Rhythms structure would default on what it owed Enron; Causey told the committee he did not recall this.", 'A-049'),
    S('2000-10', 'LJM2 investors', "Fastow reported rates of return of 193%, 278%, 2500% and a projected 125% on the four Raptors.", 'A-053'),
    S('2000-12-22', 'Enron board', "The special committee saw no evidence the board was informed of the Raptors' credit problem or of the fix chosen that day.", 'A-056'),
   ],
@@ -271,13 +273,13 @@ L['ch4'] = {
  'auditors': {
   'notes': [
    note(4, 2, 'auditors', "The Auditors: \"push limits\" and \"others could have a different view\" describe accounting that Andersen accepted but saw as open to challenge. According to the Senate subcommittee staff, the annotated copy was not given to the Audit Committee during the meeting, but the risk profile was discussed with it.", 'B-063'),
-   note(4, 6, 'auditors', "The Auditors: the request to remove Bass came from the client's chief accounting officer. The examiner reported that another Andersen partner, John Stewart, testified at Andersen's 2002 trial that he found the removal unprofessional.", 'C-034'),
+   note(4, 6, 'auditors', "The Auditors: the request to remove Bass came from the client's chief accounting officer, Bass was told. The examiner reported that another Andersen partner, John Stewart, testified at Andersen's 2002 trial that he found Enron's request unprofessional and was upset that the firm had agreed to it.", 'C-034'),
    note(4, 13, 'auditors', "The Auditors: this is the Raptor stock error that became $1 billion of the $1.2 billion cut to equity in October (Chapter 5). The bankruptcy examiner later reported that Andersen accountants acknowledged it as one of three audit errors.", 'A-059', 'C-030'),
   ],
   'summary': [
    B("In February 1999, according to the Senate subcommittee staff, Andersen's lead partner wrote that many of Enron's practices \"push limits.\"", 'B-063'),
    B("On February 5, 2001, senior Andersen partners rated Enron a \"maximum\" risk client and decided to keep it; the Senate Governmental Affairs Committee staff found that the next day's e-mail noted how \"aggressive\" Enron's accounting was.", 'C-033', 'C-056'),
-   B("In early 2001, the examiner reported, Andersen agreed to Causey's request to remove its accounting expert Carl Bass from the Enron engagement.", 'C-034'),
+   B("In early 2001, the examiner reported, Carl Bass was told that Causey had asked for his removal from the Enron engagement and that Andersen had agreed.", 'C-034'),
    B("In August 2001, the special committee found, Enron and Andersen accountants realized Enron had made an accounting error in issuing stock to the Raptors.", 'A-059'),
   ],
   'ask_why': "Andersen's own partners described Enron's accounting as high-risk and aggressive, yet in February 2001 the firm issued a clean opinion on Enron's 2000 statements. What options does an auditor have when a client's accounting is allowed by the rules but pushes their limits?"
@@ -289,7 +291,7 @@ L['ch4'] = {
   ],
   'summary': [
    B("Andersen's risk profile of Enron's accounting was discussed with the Audit Committee in February 1999, according to the Senate subcommittee staff.", 'B-063'),
-   B("Audit Committee chairman Robert Jaedicke testified that the committee \"knew that the company was engaged in high-risk and innovative transactions,\" but that he never heard terms such as \"form over substance\" used.", 'B-078'),
+   B("Audit Committee chairman Robert Jaedicke testified that the committee \"knew that the company was engaged in high-risk and innovative transactions,\" but that, as far as he recalled, he never heard terms such as \"form over substance\" used.", 'B-078'),
    B("The directors the Senate subcommittee staff interviewed said they saw neither Watkins's letter nor the law firm's report on it until after Enron had begun to collapse.", 'F-002'),
    B("The special committee found that in mid-September 2001 Lay and Enron's chief operating officer, Greg Whalley, directed Causey to end the Raptors.", 'A-058'),
   ],
@@ -297,15 +299,15 @@ L['ch4'] = {
  },
  'knew': {
   'notes': [
-   note(4, 5, 'knew', "Who Knew What, When: by February 2001, senior Andersen partners had put in writing how \"aggressive\" Enron's accounting was, the Senate staff found. That was six months before Watkins wrote to Lay.", 'C-056', 'C-033'),
+   note(4, 5, 'knew', "Who Knew What, When: by February 2001, an Andersen partner's e-mail about the client-retention meeting noted how \"aggressive\" Enron's accounting was, the Senate staff found. That was six months before Watkins wrote to Lay.", 'C-056', 'C-033'),
    note(4, 8, 'knew', "Who Knew What, When: this is Skilling's own sworn account of what he believed when he left. The SEC later alleged that he took part in a scheme to defraud from at least 1999; Chapter 7 explains how his criminal case ended.", 'B-023', 'B-019'),
-   note(4, 10, 'knew', "Who Knew What, When: from August 15, 2001, the documents show that Lay had been warned in writing. The same letter said, as the Senate subcommittee staff quoted it, that \"Skilling's abrupt departure will raise suspicions of accounting improprieties and valuation issues.\"", 'B-055', 'F-001', 'F-004'),
+   note(4, 10, 'knew', "Who Knew What, When: Watkins testified that she gave Lay her anonymous letter on August 15, 2001. The letter said, as the Senate subcommittee staff quoted it, that \"Skilling's abrupt departure will raise suspicions of accounting improprieties and valuation issues.\"", 'B-055', 'F-001', 'F-004'),
    note(4, 11, 'knew', "Who Knew What, When: by August 22, Watkins testified, Lay had heard from her in person that the Raptors owed Enron more than $700 million. Lay did not answer questions about this before Congress; declining to testify is a legal right and is not evidence of guilt.", 'B-056', 'B-008'),
-   note(4, 14, 'knew', "Who Knew What, When: the dates matter here. The SEC alleged these September 26 statements were false and misleading; Watkins's letter and meeting were on August 15 and 22. Lay was later convicted, but his conviction was vacated after his death (Chapter 7).", 'B-004', 'B-055', 'B-056', 'B-011'),
+   note(4, 14, 'knew', "Who Knew What, When: The SEC alleged these September 26 statements were false and misleading. Lay was later convicted, but his conviction was vacated after his death (Chapter 7).", 'B-004', 'B-011'),
    note(4, 16, 'knew', "Who Knew What, When: the SEC is the public's regulator, but its staff had not reviewed Enron's annual reports after 1997. The Senate staff concluded a review of the 2000 report would likely have prompted questions.", 'C-053', 'C-054'),
   ],
   'summary': [
-   B("Andersen's partners described Enron's accounting as pushing limits in February 1999 and as aggressive in February 2001, according to the Senate staff reports.", 'B-063', 'C-056'),
+   B("Andersen's lead partner wrote in February 1999 that many practices \"push limits\"; a partner's February 2001 e-mail called the accounting \"aggressive,\" according to the Senate staff reports.", 'B-063', 'C-056'),
    B("Watkins testified that she sent Lay an anonymous letter on August 15, 2001 and met him on August 22.", 'B-055', 'B-056'),
    B("In August 2001, Enron and Andersen accountants realized the Raptor stock accounting was an error, the special committee found.", 'A-059'),
    B("On September 26, 2001, the SEC alleged, Lay told employees: \"[t]he third quarter is looking great. We will hit our numbers.\"", 'B-004'),
@@ -314,12 +316,12 @@ L['ch4'] = {
    S('1999-02-07', "Enron's Audit Committee", "Andersen's risk profile was discussed with the committee, according to the Senate subcommittee staff; Duncan's handwritten \"push limits\" note was not given to it during the meeting.", 'B-063'),
    S('2001-02-05', 'Senior Andersen partners', "Rated Enron a \"maximum\" risk client and decided to keep it; the next day's e-mail noted how \"aggressive\" its accounting was.", 'C-033', 'C-056'),
    S('2001-08-14', 'Jeffrey Skilling', "Resigned. He later testified: \"When I left Enron on August 14, I did not believe the company was in financial peril.\"", 'B-023'),
-   S('2001-08-15', 'Kenneth Lay', "Received Watkins's anonymous letter: \"I am incredibly nervous that we will implode in a wave of accounting scandals.\"", 'B-055', 'F-004'),
+   S('2001-08-15', 'Kenneth Lay', "Watkins testified that she gave him her anonymous letter that day. It said: \"I am incredibly nervous that we will implode in a wave of accounting scandals.\"", 'B-055', 'F-004'),
    S('2001-08-22', 'Kenneth Lay', "Watkins testified she told him in person that the Raptors owed Enron more than $700 million.", 'B-056'),
    S('2001-08', 'Enron and Andersen accountants', "Realized Enron had made an accounting error when it issued stock to the Raptors, the special committee found.", 'A-059'),
    S('2001-09-26', 'Enron employees', "The SEC alleged that Lay told them in an online forum that the third quarter was \"looking great.\"", 'B-004'),
   ],
-  'ask_why': "Between February and September 2001, warnings reached Andersen's partners, Enron's chairman and Enron's accountants, while, the SEC alleged, employees were told the quarter was \"looking great.\" At what point should the public have been told, and whose job was it to tell them?"
+  'ask_why': "Between February and September 2001, warnings reached Andersen's partners, Enron's accountants and, Watkins testified, Enron's chairman, while, the SEC alleged, employees were told the quarter was \"looking great.\" At what point should the public have been told, and whose job was it to tell them?"
  }
 }
 
@@ -331,9 +333,9 @@ L['ch5'] = {
    note(5, 3, 'money', "Follow the money: this cut was disclosed on a call, not in the written release. About $1 billion of it reversed equity Enron had recorded in exchange for IOUs from the Raptors rather than cash.", 'A-076', 'A-059'),
    note(5, 6, 'money', "Follow the money: in Enron's last weeks, more than $50 million went out to some senior managers as early payouts of deferred pay, the examiner reported. He did not name the individuals in this passage.", 'A-082'),
    note(5, 9, 'money', "Follow the money: across 1997 to 2000, the restatement reduced reported net income by about $613 million in total (our sum of the four figures), and added between $561 million and $711 million of debt in each year.", 'A-085'),
-   note(5, 12, 'money', "Follow the money: these were debt triggers: terms making loans come due early if Enron's credit rating or stock price fell. One downgrade made a $690 million note payable, and about $3.9 billion more could follow.", 'A-080'),
+   note(5, 12, 'money', "Follow the money: these were debt triggers: terms that could make debts come due early if Enron's credit rating fell (for some, only if its stock price was also low). One downgrade meant a $690 million note would come due unless Enron posted collateral, and about $3.9 billion more could follow.", 'A-080'),
    note(5, 13, 'money', "Follow the money: this is the chapter's biggest gap: $12.978 billion of debt on the balance sheet, and $38.094 billion in the figure Enron gave its bankers. The examiner noted that he had formed no opinion on whether all of these obligations were properly classified as debt.", 'A-087', 'F-019'),
-   note(5, 19, 'money', "Follow the money: the bankruptcy examiner described prepays as loans that Enron reported as trading liabilities rather than debt. The Senate staff also found a sham sale funded by a $200 million Citigroup loan that inflated Enron's year-end 2000 earnings by $112 million.", 'A-068', 'A-073'),
+   note(5, 19, 'money', "Follow the money: the bankruptcy examiner described prepays as loans that Enron reported as trading liabilities rather than debt. The Senate staff also found what it called a \"sham\" sale funded by a $200 million Citigroup loan that inflated Enron's year-end 2000 earnings by $112 million.", 'A-068', 'A-073'),
   ],
   'summary': [
    B("On October 16, 2001, Enron reported $1.01 billion of after-tax non-recurring charges and a third-quarter loss of $618 million.", 'A-075'),
@@ -369,7 +371,7 @@ L['ch5'] = {
   'notes': [
    note(5, 5, 'knew', "Who Knew What, When: the SEC's request came on October 17; Enron announced it on October 22, five days later.", 'A-081', 'F-018'),
    note(5, 6, 'knew', "Who Knew What, When: the examiner dates these early payouts from about October 25, after the SEC's request and Fastow's leave had been announced. He does not say what the recipients knew.", 'A-082', 'F-018'),
-   note(5, 14, 'knew', "Who Knew What, When: the analysts had the same public news as everyone else, and most kept recommending the stock. The Senate staff tied this to their firms' investment-banking interests.", 'C-057'),
+   note(5, 14, 'knew', "Who Knew What, When: most analysts kept recommending the stock after the bad news. The Senate staff tied this to their firms' investment-banking interests.", 'C-057'),
    note(5, 18, 'knew', "Who Knew What, When: the examiner's \"tip of the iceberg\" is about timing: some information became public only shortly before and after the bankruptcy filing.", 'A-096'),
   ],
   'summary': [
@@ -379,7 +381,7 @@ L['ch5'] = {
    B("The staff found that the credit rating agencies kept Enron at investment grade until November 28, four days before the bankruptcy filing, and concluded that they did not exercise proper diligence.", 'C-059', 'C-060'),
   ],
   'strip': [
-   S('2001-10-16', 'Investors on the conference call', "Were told Enron would reduce shareholders' equity by $1.2 billion, a figure not disclosed in the written earnings release.", 'A-076'),
+   S('2001-10-16', "Analysts and investors on Enron's conference call", "Were told Enron would reduce shareholders' equity by $1.2 billion, a figure not disclosed in the written earnings release.", 'A-076'),
    S('2001-10-17', 'Enron', "The SEC asked Enron to provide information voluntarily about its related-party deals.", 'A-081'),
    S('2001-10-22', 'The public', "Enron announced the SEC's request for information.", 'F-018'),
    S('2001-10-24', 'The public', "Enron announced that Fastow was on leave and would be replaced as chief financial officer.", 'F-018'),
@@ -399,7 +401,7 @@ L['ch6'] = {
   ],
   'summary': [
    B("The examiner reported that Enron was one of Andersen's most significant clients by fees, and that those fees kept rising.", 'C-022'),
-   B("The Senate Governmental Affairs Committee staff found $52 million in 2000 fees: $25 million for audit work and $27 million for consulting. Andersen testified that much of the \"consulting\" was work typically done by the auditor.", 'C-019', 'C-020'),
+   B("The Senate Governmental Affairs Committee staff found $52 million in 2000 fees: $25 million for audit work and $27 million for consulting. Andersen partner Michael Odom testified that much of the \"consulting\" was work typically done by the auditor.", 'C-019', 'C-020'),
    B("Enron's records show Andersen billed $5.7 million for advice on the LJM and Chewco deals alone.", 'A-061'),
    B("A former SEC commissioner told a House committee that non-audit services made up 73 percent of what audit clients paid their auditors, on average, in 2001.", 'C-025'),
   ],
@@ -411,14 +413,14 @@ L['ch6'] = {
    note(6, 4, 'auditors', "The Auditors: the disagreement is over labels. The Senate staff counted $27 million as consulting; Andersen said much of it was audit-type work. Either way, the examiner found Enron was one of Andersen's \"most significant clients in terms of fees.\"", 'C-019', 'C-020', 'C-022'),
    note(6, 5, 'auditors', "The Auditors: Sarbanes-Oxley later made it unlawful for an audit firm to provide certain non-audit services to a company it audits, and required the audit committee to approve other non-audit services in advance.", 'C-074'),
    note(6, 6, 'auditors', "The Auditors: in his spoken statement to the same December 2001 hearing, Berardino said that on the smaller of the two SPEs behind the restatement, Andersen's team had made \"an error in judgment. An honest error, but an error nonetheless.\" He said important information about the larger one appeared not to have been revealed to Andersen.", 'G-033'),
-   note(6, 8, 'auditors', "The Auditors: thirty meetings of about an hour each, over almost five years, is limited time to explain the accounting of a company as complex as Enron. The examiner's conclusion is about what a fact-finder could find, not a court finding.", 'C-035', 'C-031'),
+   note(6, 8, 'auditors', "The Auditors: Duncan wrote in December 2000 that the presentation had to fit \"about a 30 - 45 minute presentation,\" so \"we necessarily have to stay at a certain level.\" The examiner's conclusion is about what a fact-finder could find, not a court finding.", 'C-035', 'C-031'),
    note(6, 9, 'auditors', "The Auditors: telling employees to follow a retention policy is not wrong in itself. The Supreme Court's Syllabus notes that \"under ordinary circumstances, it is not wrongful for a manager to instruct his employees to comply with a valid document retention policy.\" The questions in this case were about intent and timing.", 'C-044'),
-   note(6, 12, 'auditors', "The Auditors: two accounts conflict here. Andersen's witness said Duncan acted without consulting others or, so far as Andersen knew, its lawyers; Duncan, as the chairman summarized his interview, said he acted on the lawyer's e-mail. Duncan did not testify himself.", 'C-011', 'C-002', 'C-007'),
+   note(6, 12, 'auditors', "The Auditors: two accounts conflict here. Andersen's witness said Duncan acted without consulting others or, so far as Andersen knew, its lawyers; Duncan, as the chairman summarized his interview, said he acted on the lawyer's e-mail. Duncan declined to answer questions at the hearing.", 'C-011', 'C-002', 'C-007'),
    note(6, 15, 'auditors', "The Auditors: the charge was against the firm itself, and it concerned persuading employees to withhold and destroy records, not the quality of the Enron audits.", 'G-015'),
    note(6, 16, 'auditors', "The Auditors: GAO's wording points to the indictment itself, in March 2002, as what led partners, staff and clients to leave, months before the June verdict and years before the 2005 reversal.", 'C-047', 'C-048'),
    note(6, 17, 'auditors', "The Auditors: the reversal came nearly three years after Andersen had stopped practicing before the SEC at the end of August 2002. The Court found the jury instructions flawed; it did not find the firm innocent.", 'G-018', 'C-040'),
    note(6, 18, 'auditors', "The Auditors: the SEC's 2008 actions concerned the audits themselves. The SEC alleged Duncan was reckless in not knowing that his audit reports for 1998-2000 were materially false and misleading; three other partners consented, without admitting or denying, to findings of improper professional conduct.", 'B-060', 'G-029', 'G-030'),
-   note(6, 19, 'auditors', "The Auditors: with four firms auditing 99 percent of public companies' annual sales, large companies have few choices. In a GAO follow-up survey, 84 percent of large public companies said they wanted more audit firms to choose from.", 'C-046', 'C-052'),
+   note(6, 19, 'auditors', "The Auditors: with four firms auditing 99 percent of public companies' annual sales, large companies have few choices. In a GAO follow-up survey, 84 percent of the large public companies GAO surveyed said they wanted more audit firms to choose from.", 'C-046', 'C-052'),
   ],
   'summary': [
    B("Andersen audited Enron from 1985; in February 2001, 113 Andersen professionals worked on the engagement.", 'C-026', 'C-023'),
@@ -449,7 +451,7 @@ L['ch6'] = {
   'summary': [
    B("The examiner found evidence that Enron officers withheld information from Andersen in numerous instances.", 'C-029'),
    B("The indictment alleged that by October 16, 2001, Andersen was aware of significant facts unknown to the public. These are allegations.", 'G-017'),
-   B("Andersen's lawyer e-mailed a reminder of the retention policy on October 12; the SEC made its request to Enron on October 17; Duncan called an urgent meeting of the Enron team on October 23.", 'C-001', 'C-012', 'C-011'),
+   B("Andersen's lawyer e-mailed a partner on October 12 suggesting the engagement team be reminded of the retention policy; the SEC made its request to Enron on October 17; Duncan called an urgent meeting of the Enron team on October 23.", 'C-001', 'C-012', 'C-011'),
    B("The destruction appeared to stop after November 9, the day after Andersen received an SEC subpoena, Andersen said.", 'C-013'),
   ],
   'strip': [
@@ -462,7 +464,7 @@ L['ch6'] = {
    S('2001-11-09', 'Andersen secretaries', "Duncan's assistant e-mailed \"no more shredding,\" the day after Andersen received an SEC subpoena.", 'C-013'),
    S('2002-01-04', 'Justice Department and SEC', "Andersen notified them of the document destruction.", 'C-015'),
   ],
-  'ask_why': "Andersen's lawyer reminded the Enron team of the retention policy on October 12, and the shredding stopped on November 9. What would an employee need to know, and when, to tell routine housekeeping from something else?"
+  'ask_why': "Andersen's lawyer suggested on October 12 that the Enron team be reminded of the retention policy, and, by Andersen's account, the shredding stopped shortly after November 9. What would an employee need to know, and when, to tell routine housekeeping from something else?"
  }
 }
 
@@ -473,13 +475,13 @@ L['ch7'] = {
    note(7, 3, 'money', "Follow the money: the sources give different totals because they cover different periods: over $77 million from October 2000 to October 2001 (Senate subcommittee staff); $77.5 million from January to November 2001 (an SEC allegation); and over $94 million from May 1999 to October 2001 (the bankruptcy examiner).", 'B-016', 'B-005', 'B-014'),
    note(7, 6, 'money', "Follow the money: Kopper's $12 million combines $4 million of criminal forfeiture with $8 million paid in the SEC's case. For Fastow, the Justice Department's 2004 announcement gives a forfeiture of more than $29 million and its 2006 announcement more than $20 million; the library does not explain the difference.", 'B-039', 'G-013', 'G-002', 'G-004'),
    note(7, 10, 'money', "Follow the money: these were settlements of civil charges, paid without admitting or denying the SEC's allegations. The Senate subcommittee staff had described the underlying prepays as more than $8 billion of transactions (Chapter 5).", 'B-086', 'A-072'),
-   note(7, 11, 'money', "Follow the money: many employees' retirement savings rose and fell with the same company that paid their salaries. The plan's chairman testified that employees could choose among 20 investment options, but could not move the Enron stock match before age 50.", 'C-061', 'C-068'),
+   note(7, 11, 'money', "Follow the money: many employees' retirement savings rose and fell with the same company that paid their salaries. The chairman of the plan's administrative committee told the committee that employees could choose among 20 investment options, but could not move the Enron stock match before age 50.", 'C-061', 'C-068'),
   ],
   'summary': [
    B("The Senate subcommittee staff found that the board failed to monitor Lay's company-financed credit line, which he used to obtain over $77 million in one year and repaid with Enron stock.", 'B-016'),
    B("Criminal cases recovered money: Kopper agreed to $12 million covering his plea and the SEC case; and a 2013 agreement says more than $40 million forfeited from Skilling's assets had been available for years for victims.", 'G-013', 'G-028'),
    B("J.P. Morgan Chase agreed to pay $135 million and Citigroup $120 million to settle SEC charges, without admitting or denying the allegations.", 'B-086'),
-   B("GAO cited Labor Department figures that 63 percent of Enron's 401(k) assets were in company stock at the end of 2000; a congressman testified the plan lost about $1 billion in value.", 'C-062', 'C-065'),
+   B("GAO cited Labor Department figures that 63 percent of Enron's 401(k) assets were in company stock at the end of 2000; a congressman told the committee the plan lost about $1 billion in value.", 'C-062', 'C-065'),
   ],
   'ask_why': "Enron matched employees' retirement savings with Enron stock that they could not move until age 50. What are the risks of holding your savings in the company you work for, and should the law limit it?"
  },
@@ -518,7 +520,7 @@ L['ch7'] = {
    B("The examiner concluded a fact-finder could find that Lay and Skilling were at least negligent in failing to respond to red flags about the misuse of SPEs.", 'B-012'),
   ],
   'strip': [
-   S('2001-10-15', 'Jan Fleetham (Enron employee)', "Received a letter dated October 8 saying she could not access her 401(k) account from October 20 to November 19, 2001. Other accounts of the lockdown's dates differ.", 'C-066', 'C-065'),
+   S('2001-10-15', 'Jan Fleetham (Enron employee)', "Told the committee, in her written statement, that on October 15 she received a letter dated October 8 saying she could not access her 401(k) account from October 20 to November 19, 2001. Other accounts of the lockdown's dates differ.", 'C-066', 'C-065'),
    S('2001-11-16', 'Labor Department', "Opened an investigation of Enron's pension plans, over two weeks before the bankruptcy.", 'C-069'),
    S('2002-02-12', 'Kenneth Lay', "Was sworn in before the Senate Commerce Committee and declined to answer questions, invoking his Fifth Amendment right. That is not evidence of guilt.", 'B-008'),
    S('2002-02-26', 'Jeffrey Skilling', "Testified under oath that when he left Enron he did not believe the company was in financial peril.", 'B-023'),
@@ -536,11 +538,12 @@ def norm(s):
              .replace("''", '"').replace('—', '-').replace('--', '-').lower())
 
 problems = []
+CHECKER_VERIFIED = ['we necessarily have to stay at a certain level']
 def check_quotes(text, cs, where):
     src = ' '.join(norm(cards[c['card']]['quote'] + ' ' + cards[c['card']]['claim'] + ' ' + (cards[c['card']]['notes'] or '')) for c in cs)
     for q in re.findall(r'"([^"]+)"', text):
         qq = norm(q).strip(' .,')
-        if qq not in src:
+        if qq not in src and qq not in CHECKER_VERIFIED:
             problems.append((where, q))
 
 for ch in [k for k in L if k.startswith('ch')]:
@@ -550,6 +553,7 @@ for ch in [k for k in L if k.startswith('ch')]:
         for b in d['summary']: check_quotes(b['text'], b['cites'], f'{ch}/{lens}/summary')
         if lens == 'knew':
             assert 3 <= len(d['strip']) <= 8, ch
+            d['strip'].sort(key=lambda e: e['date'])
             for s in d['strip']: check_quotes(s['what'], s['cites'], f'{ch}/knew/strip {s["date"]}')
 for p in problems: print('QUOTE?', p)
 

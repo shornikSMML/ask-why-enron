@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 1811" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+  <title id="t">How a bank "prepay" worked: a loan dressed up as trades (phone layout)</title>
+  <desc id="d">Original diagram, simplified, of a JPMorgan Chase prepay as described under oath by Senate subcommittee investigator Robert Roach on July 23, 2002, and as alleged by the SEC. Step 1: the bank sends cash to an offshore entity, Mahonia. Step 2: Mahonia sends the cash to Enron now, as a prepayment for commodities. Step 3: Enron makes commodity deliveries to Mahonia later. Step 4: Mahonia passes the deliveries back to the bank. Step 5: an offsetting swap between the bank and Enron sends the commodity price risk back to Enron, so the circle closes. Net effect: Enron gets cash now and repays it later with interest set in advance; the SEC alleged these prepays were in substance loans. How Enron could record it: the cash as cash flow from operations rather than borrowing (Roach testified); what it owed appeared as price risk management liabilities, minority interest, or otherwise, not as debt (SEC alleged); on its tax returns Enron treated the deals as loans (Roach testified). Senate staff estimate for the end of 2000: about 4 billion dollars of prepays outstanding; booked as debt, total debt would have risen about 40 percent to 14 billion dollars and funds flow from operations would have fallen almost 50 percent to 1.7 billion dollars. Roach testified that Enron obtained more than 8 billion dollars through prepays over about six years, including 3.7 billion from Chase; Citigroup's total is 4.8 billion per Roach and 4.7 billion per the bankruptcy examiner. JPMorgan Chase's witness testified that prepaid forwards are fundamentally different than funded debt. Who controlled Mahonia is disputed: Roach called it one of Chase's shell corporations; Chase's witness testified it was beneficially owned by a charitable trust; the bankruptcy examiner called Mahonia and Delta shell entities set up by JPMorgan Chase and Citigroup.</desc>
+  <style>
+    svg { --d-bg:#fcfcfb; --d-ink:#1b1b1a; --d-muted:#52514e; --d-line:#8a8984; --d-co:#e3eefb; --d-co-edge:#2a78d6; --d-spe:#fde8df; --d-spe-edge:#c4501f; --d-out:#eeeeec; --d-note:#f6f3e6; --d-flag:#8a3a12; --d-bar:#2a78d6; }
+    @media (prefers-color-scheme: dark) {
+      svg { --d-bg:#1a1a19; --d-ink:#f2f2f0; --d-muted:#c3c2b7; --d-line:#9a998f; --d-co:#1d2d42; --d-co-edge:#3987e5; --d-spe:#3d241a; --d-spe-edge:#e0703f; --d-out:#2a2a28; --d-note:#2b2920; --d-flag:#f0a47f; --d-bar:#3987e5; }
+    }
+    .bg   { fill: var(--diagram-bg, var(--d-bg)); }
+    .ink  { fill: var(--diagram-ink, var(--d-ink)); }
+    .mut  { fill: var(--diagram-muted, var(--d-muted)); }
+    .co   { fill: var(--d-co); stroke: var(--d-co-edge); stroke-width: 2.5; }
+    .spe  { fill: var(--d-spe); stroke: var(--d-spe-edge); stroke-width: 2.5; }
+    .out  { fill: var(--d-out); stroke: var(--d-line); stroke-width: 2; }
+    .note { fill: var(--d-note); stroke: var(--d-line); stroke-width: 1.5; }
+    .zone { fill: none; stroke: var(--d-line); stroke-width: 2; stroke-dasharray: 8 6; }
+    .flag { fill: none; stroke: var(--d-flag); stroke-width: 2; stroke-dasharray: 6 5; }
+    .flagt{ fill: var(--d-flag); font-size: 13px; font-weight: 700; letter-spacing: .06em; }
+    .bar  { fill: var(--d-bar); }
+    .base { stroke: var(--d-line); stroke-width: 1.5; }
+    .arr  { fill: none; stroke: var(--diagram-ink, var(--d-ink)); stroke-width: 3; }
+    .thin { fill: none; stroke: var(--diagram-muted, var(--d-muted)); stroke-width: 2; }
+    .ah   { fill: var(--diagram-ink, var(--d-ink)); }
+    .ahm  { fill: var(--diagram-muted, var(--d-muted)); }
+    .step { fill: var(--diagram-ink, var(--d-ink)); }
+    .stepn{ fill: var(--diagram-bg, var(--d-bg)); font-weight: 700; font-size: 15px; }
+    .h    { font-size: 21px; font-weight: 700; }
+    .hb   { font-weight: 700; }
+    .i    { font-style: italic; }
+    .tag  { font-weight: 700; letter-spacing: .06em; }
+  </style>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path class="ah" d="M0,0 L10,5 L0,10 z"/>
+    </marker>
+    <marker id="am" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path class="ahm" d="M0,0 L10,5 L0,10 z"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="520" height="1811" rx="12"/>
+  <text class="ink" x="260" y="40" font-size="24" text-anchor="middle" font-weight="700">How a bank "prepay" worked</text>
+  <text class="mut" x="260" y="68" font-size="15" text-anchor="middle">Simplified JPMorgan Chase example, as a Senate</text>
+  <text class="mut" x="260" y="88" font-size="15" text-anchor="middle">investigator described it under oath (July 23, 2002)</text>
+  <rect class="out" x="16" y="120" width="420" height="80" rx="10"/>
+  <text class="ink" x="226" y="154" font-size="22" text-anchor="middle" font-weight="700">The bank</text>
+  <text class="ink" x="226" y="182" font-size="16" text-anchor="middle">(JPMorgan Chase)</text>
+  <rect class="spe" x="16" y="330" width="420" height="86" rx="10"/>
+  <text class="ink" x="226" y="364" font-size="20" text-anchor="middle" font-weight="700">Offshore entity (Mahonia)*</text>
+  <text class="mut" x="226" y="394" font-size="15" text-anchor="middle">a go-between</text>
+  <rect class="co" x="16" y="546" width="420" height="80" rx="10"/>
+  <text class="ink" x="226" y="594" font-size="23" text-anchor="middle" font-weight="700">Enron</text>
+  <path class="arr" d="M90,200 L90,324" marker-end="url(#a)"/>
+  <circle class="step" cx="90" cy="262" r="15"/><text class="stepn" x="90" y="267" text-anchor="middle">1</text>
+  <text class="ink" x="114" y="258" font-size="16" font-weight="700">Cash now</text>
+  <path class="arr" d="M330,330 L330,206" marker-end="url(#a)"/>
+  <circle class="step" cx="330" cy="268" r="15"/><text class="stepn" x="330" y="273" text-anchor="middle">4</text>
+  <text class="ink" x="314" y="250" font-size="15" text-anchor="end" font-weight="700">Deliveries</text>
+  <text class="ink" x="314" y="270" font-size="15" text-anchor="end" font-weight="700">passed on</text>
+  <text class="ink" x="314" y="290" font-size="15" text-anchor="end" font-weight="700">to the bank</text>
+  <path class="arr" d="M90,416 L90,540" marker-end="url(#a)"/>
+  <circle class="step" cx="90" cy="478" r="15"/><text class="stepn" x="90" y="483" text-anchor="middle">2</text>
+  <text class="ink" x="114" y="470" font-size="16" font-weight="700">Cash now, as a</text>
+  <text class="ink" x="114" y="490" font-size="16" font-weight="700">“prepayment”</text>
+  <path class="arr" d="M330,546 L330,422" marker-end="url(#a)"/>
+  <circle class="step" cx="330" cy="484" r="15"/><text class="stepn" x="330" y="489" text-anchor="middle">3</text>
+  <text class="ink" x="314" y="470" font-size="15" text-anchor="end" font-weight="700">Commodity</text>
+  <text class="ink" x="314" y="490" font-size="15" text-anchor="end" font-weight="700">deliveries later</text>
+  <path class="arr" d="M436,160 H482 V586 H442" marker-end="url(#a)"/>
+  <circle class="step" cx="482" cy="373" r="15"/><text class="stepn" x="482" y="378" text-anchor="middle">5</text>
+  <text class="ink" x="260" y="654" font-size="15.5" text-anchor="middle" font-weight="700">   Offsetting swap: price risk goes</text>
+  <text class="ink" x="260" y="674" font-size="15.5" text-anchor="middle" font-weight="700">back to Enron (SEC alleged)</text>
+  <circle class="step" cx="95" cy="649" r="13"/><text class="stepn" x="95" y="654" text-anchor="middle">5</text>
+  <rect class="note" x="16" y="700" width="488" height="124" rx="10"/>
+  <text class="ink" x="260" y="730" font-size="16.5" text-anchor="middle" font-weight="700">Net effect: Enron gets cash now and repays it</text>
+  <text class="ink" x="260" y="752" font-size="16.5" text-anchor="middle" font-weight="700">later, with interest set in advance.</text>
+  <text class="ink" x="260" y="778" font-size="15.5" text-anchor="middle">The SEC alleged these prepays were “in substance</text>
+  <text class="ink" x="260" y="799" font-size="15.5" text-anchor="middle">loans.”</text>
+  <rect class="note" x="16" y="844" width="488" height="301" rx="10"/>
+  <text class="ink" x="34" y="874" font-size="18" font-weight="700">How Enron could record it</text>
+  <text class="ink" x="34" y="902" font-size="16" font-weight="700">Cash in:</text>
+  <text class="ink" x="34" y="924" font-size="15.5">counted as cash flow from operations, not as</text>
+  <text class="ink" x="34" y="945" font-size="15.5">borrowing. (Roach testified)</text>
+  <text class="ink" x="34" y="976" font-size="16" font-weight="700">What it owed:</text>
+  <text class="ink" x="34" y="998" font-size="15.5">not shown as debt; it appeared as "price risk</text>
+  <text class="ink" x="34" y="1019" font-size="15.5">management liabilities," "minority interest," or</text>
+  <text class="ink" x="34" y="1040" font-size="15.5">otherwise. (SEC alleged)</text>
+  <text class="ink" x="34" y="1071" font-size="16" font-weight="700">Tax returns:</text>
+  <text class="ink" x="34" y="1093" font-size="15.5">the same deals were treated as loans, so Enron could</text>
+  <text class="ink" x="34" y="1114" font-size="15.5">deduct the interest. (Roach testified)</text>
+  <rect class="note" x="16" y="1165" width="488" height="278" rx="10"/>
+  <text class="ink" x="34" y="1195" font-size="18" font-weight="700">If booked as debt instead</text>
+  <text class="mut" x="34" y="1217" font-size="14">Senate staff estimate, end of 2000 (Roach testified)</text>
+  <text class="ink" x="34" y="1244" font-size="15.5">•</text>
+  <text class="ink" x="50" y="1244" font-size="15.5">About $4 billion of prepays outstanding</text>
+  <text class="ink" x="34" y="1271" font-size="15.5">•</text>
+  <text class="ink" x="50" y="1271" font-size="15.5">Total debt: up about 40%, to $14 billion</text>
+  <text class="ink" x="34" y="1298" font-size="15.5">•</text>
+  <text class="ink" x="50" y="1298" font-size="15.5">Funds flow from operations: down almost 50%, to</text>
+  <text class="ink" x="50" y="1319" font-size="15.5">$1.7 billion</text>
+  <line class="base" x1="34" y1="1348" x2="486" y2="1348"/>
+  <text class="ink" x="34" y="1372" font-size="15.5">Prepays over about six years: more than $8 billion</text>
+  <text class="ink" x="34" y="1393" font-size="15.5">(Roach testified), including $3.7 billion from Chase</text>
+  <text class="ink" x="34" y="1414" font-size="15.5">and $4.7–4.8 billion from Citigroup (sources differ).</text>
+  <text class="ink" x="260" y="1483" font-size="18" text-anchor="middle" font-weight="700">“what remains is a loan to Enron”</text>
+  <text class="mut" x="260" y="1507" font-size="13.5" text-anchor="middle">— Robert Roach, Senate subcommittee investigator, under oath</text>
+  <text class="ink" x="260" y="1547" font-size="18" text-anchor="middle" font-weight="700">“prepaid forwards are fundamentally different</text>
+  <text class="ink" x="260" y="1571" font-size="18" text-anchor="middle" font-weight="700">than funded debt”</text>
+  <text class="mut" x="260" y="1595" font-size="13.5" text-anchor="middle">— Jeffrey Dellapina, JPMorgan Chase, under oath</text>
+  <text class="mut" x="16" y="1637" font-size="13.5">*Who controlled Mahonia is disputed. Roach called it one of</text>
+  <text class="mut" x="16" y="1655" font-size="13.5">Chase's “shell corporations.” Chase's witness testified it was</text>
+  <text class="mut" x="16" y="1673" font-size="13.5">“beneficially owned by a charitable trust” and not controlled by</text>
+  <text class="mut" x="16" y="1691" font-size="13.5">Chase or Enron. The bankruptcy examiner called Mahonia and Delta</text>
+  <text class="mut" x="16" y="1709" font-size="13.5">(used in Citigroup's deals) “shell entities set up by JPMorgan</text>
+  <text class="mut" x="16" y="1727" font-size="13.5">Chase and Citigroup.”</text>
+  <text class="mut" x="16" y="1753" font-size="13">Sources: Senate PSI hearing, July 23, 2002 (S. Hrg. 107-618, vol. 1),</text>
+  <text class="mut" x="16" y="1771" font-size="13">printed pp. 14–16, 60–62 (Roach, Dellapina); SEC Press Release</text>
+  <text class="mut" x="16" y="1789" font-size="13">2003-87; Batson Final Report p. 95 and App. G p. 62.</text>
+</svg>

@@ -13,7 +13,7 @@ window.LENSES = {
      "para_index": 13,
      "para_key": "ch1-p13",
      "para_start": "In 1996, Enron introduced a plan it called",
-     "text": "Follow the money: all three Enron 2000 targets were about reported net income and how fast it grew, year after year. The congressional tax staff described the plan but did not say it caused later accounting choices; Chapter 2 shows why steady reported growth mattered so much to Enron.",
+     "text": "Follow the money: all three Enron 2000 targets were about reported earnings and how fast they grew, year after year. The congressional tax staff described the plan but did not say it caused later accounting choices; Chapter 2 shows why steady reported growth mattered so much to Enron.",
      "cites": [
       {
        "card": "A-008",
@@ -24,7 +24,7 @@ window.LENSES = {
       {
        "card": "A-028",
        "source_id": "powers-report-sec",
-       "page": 42,
+       "page": null,
        "loc": "p. 36, I. Background: Enron and Special Purpose Entities"
       }
      ]
@@ -409,7 +409,7 @@ window.LENSES = {
       {
        "card": "A-022",
        "source_id": "powers-report-sec",
-       "page": 83,
+       "page": null,
        "loc": "p. 77, IV.A Origin of the Transaction"
       }
      ]
@@ -423,7 +423,7 @@ window.LENSES = {
       {
        "card": "A-028",
        "source_id": "powers-report-sec",
-       "page": 42,
+       "page": null,
        "loc": "p. 36, I. Background: Enron and Special Purpose Entities"
       }
      ]
@@ -484,7 +484,7 @@ window.LENSES = {
       {
        "card": "A-028",
        "source_id": "powers-report-sec",
-       "page": 42,
+       "page": null,
        "loc": "p. 36, I. Background: Enron and Special Purpose Entities"
       }
      ]
@@ -594,13 +594,13 @@ window.LENSES = {
       {
        "card": "A-029",
        "source_id": "powers-report-sec",
-       "page": 43,
+       "page": null,
        "loc": "p. 37, I. Background: Enron and Special Purpose Entities"
       },
       {
        "card": "A-033",
        "source_id": "powers-report-sec",
-       "page": 52,
+       "page": null,
        "loc": "pp. 46-47, II.B Limited Board Approval"
       }
      ]
@@ -613,7 +613,7 @@ window.LENSES = {
       {
        "card": "A-029",
        "source_id": "powers-report-sec",
-       "page": 43,
+       "page": null,
        "loc": "p. 37, I. Background: Enron and Special Purpose Entities"
       }
      ]
@@ -624,7 +624,7 @@ window.LENSES = {
       {
        "card": "A-028",
        "source_id": "powers-report-sec",
-       "page": 42,
+       "page": null,
        "loc": "p. 36, I. Background: Enron and Special Purpose Entities"
       }
      ]
@@ -649,7 +649,7 @@ window.LENSES = {
      "para_index": 12,
      "para_key": "ch2-p12",
      "para_start": "Enron had checked with its regulator first. The",
-     "text": "Who Knew What, When: the SEC's accounting office agreed to mark-to-market accounting starting in 1992; Enron replied that it would start a year earlier. The Senate staff found that the SEC apparently did not respond further.",
+     "text": "Who Knew What, When: the SEC's accounting office said it would not object to mark-to-market accounting for an Enron subsidiary starting in 1992; Enron replied that it would start a year earlier. The Senate staff found that the SEC apparently did not respond further.",
      "cites": [
       {
        "card": "C-055",
@@ -684,7 +684,7 @@ window.LENSES = {
      ]
     },
     {
-     "text": "Enron's annual report told readers that unrealized gains from newly originated contracts were counted as revenue. The information was published; understanding it took expertise.",
+     "text": "Enron's annual report told readers that unrealized gains from newly originated contracts were counted as revenue..",
      "cites": [
       {
        "card": "A-020",
@@ -721,22 +721,9 @@ window.LENSES = {
      ]
     },
     {
-     "date": "1999",
-     "who": "EnronOnline customers",
-     "what": "Enron launched EnronOnline; its annual report later told readers that customers traded \"with Enron as principal.\"",
-     "cites": [
-      {
-       "card": "A-018",
-       "source_id": "enron-10k-2000",
-       "page": null,
-       "loc": "Item 7. MD&A - Wholesale Services, lines 2392-2398"
-      }
-     ]
-    },
-    {
      "date": "2000-12-31",
      "who": "Investors",
-     "what": "Enron reported total debt of $10.2 billion. The bankruptcy examiner later concluded that without six accounting techniques the figure would have been $22.1 billion.",
+     "what": "Enron reported total debt of $10.2 billion. The bankruptcy examiner, in an earlier report summarized in his final one, later concluded that without six accounting techniques the figure would have been $22.1 billion.",
      "cites": [
       {
        "card": "A-026",
@@ -749,6 +736,19 @@ window.LENSES = {
        "source_id": "batson-final",
        "page": 21,
        "loc": "p. 18, III.A Overview"
+      }
+     ]
+    },
+    {
+     "date": "2001",
+     "who": "Readers of the 2000 Form 10-K",
+     "what": "Were told that on EnronOnline, launched in late 1999, customers traded \"with Enron as principal.\"",
+     "cites": [
+      {
+       "card": "A-018",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Item 7. MD&A - Wholesale Services, lines 2392-2398"
       }
      ]
     },
@@ -781,13 +781,13 @@ window.LENSES = {
       {
        "card": "A-031",
        "source_id": "powers-report-sec",
-       "page": 49,
+       "page": null,
        "loc": "p. 43, II.A Formation of Chewco"
       },
       {
        "card": "A-035",
        "source_id": "powers-report-sec",
-       "page": 58,
+       "page": null,
        "loc": "pp. 50-52, II.D SPE Non-Consolidation \"Equity\" Requirement"
       }
      ]
@@ -801,13 +801,13 @@ window.LENSES = {
       {
        "card": "A-034",
        "source_id": "powers-report-sec",
-       "page": 55,
+       "page": null,
        "loc": "pp. 49-50, II.D SPE Non-Consolidation \"Equity\" Requirement"
       },
       {
        "card": "A-035",
        "source_id": "powers-report-sec",
-       "page": 58,
+       "page": null,
        "loc": "pp. 50-52, II.D SPE Non-Consolidation \"Equity\" Requirement"
       }
      ]
@@ -816,18 +816,18 @@ window.LENSES = {
      "para_index": 8,
      "para_key": "ch3-p8",
      "para_start": "Kopper was paid about $2 million in fees",
-     "text": "Follow the money: about $125,000 in, about $10.5 million out, plus about $2 million in fees. The committee was told that Treasurer Jeff McMahon had proposed a $1 million return for the Chewco investors and that Fastow negotiated about $10 million.",
+     "text": "Follow the money: about $125,000 in, about $10.5 million out, plus about $2 million in fees. The committee was told that Treasurer Jeff McMahon had proposed a $1 million return for the Chewco investors and that Fastow negotiated about $10 million. Fastow said he did not take part; the committee found that contrary to other evidence.",
      "cites": [
       {
        "card": "A-036",
        "source_id": "powers-report-sec",
-       "page": 60,
+       "page": null,
        "loc": "pp. 54-55, II.E Fees Paid to Chewco/Kopper"
       },
       {
        "card": "A-037",
        "source_id": "powers-report-sec",
-       "page": 70,
+       "page": null,
        "loc": "pp. 60-64, II.G Enron's Repurchase of Chewco's Limited Partnership Interest"
       }
      ]
@@ -836,12 +836,12 @@ window.LENSES = {
      "para_index": 12,
      "para_key": "ch3-p12",
      "para_start": "From June 1999 through June 2001, Enron did",
-     "text": "Follow the money: the pattern was to sell near the end of a quarter and buy back later, with LJM making a profit each time. Fastow told the board's Finance Committee these deals produced $229 million of \"earnings\" in the second half of 1999; the committee could not confirm that figure.",
+     "text": "Follow the money: in seven sales near the ends of two 1999 quarters, Enron later bought back five, and LJM made a profit every time; the committee noted plausible, more innocent explanations for some buybacks. Fastow told the board's Finance Committee these deals produced $229 million of \"earnings\" in the second half of 1999; the committee could not confirm that figure.",
      "cites": [
       {
        "card": "A-044",
        "source_id": "powers-report-sec",
-       "page": 18,
+       "page": null,
        "loc": "p. 12, Executive Summary - Asset Sales"
       }
      ]
@@ -850,18 +850,18 @@ window.LENSES = {
      "para_index": 19,
      "para_key": "ch3-p19",
      "para_start": "In the last two quarters of 2000, $532",
-     "text": "Follow the money: by the committee's calculation, without the Raptors Enron's pre-tax earnings for July 2000 through September 2001 would have been $429 million instead of $1.506 billion. For LJM2 the money came back fast: about $41 million on each $30 million investment within about six months.",
+     "text": "Follow the money: by the committee's calculation, without the Raptors Enron's pre-tax earnings for July 2000 through September 2001 would have been $429 million instead of $1.506 billion, not counting the $710 million charge to end the Raptors; the committee noted it could not know what Enron would otherwise have done. For LJM2 the money came back fast: about $41 million on each $30 million investment within about six months.",
      "cites": [
       {
        "card": "A-054",
        "source_id": "powers-report-sec",
-       "page": 105,
+       "page": null,
        "loc": "p. 99 (table p. 133), V. The Raptors (introduction); V.F table"
       },
       {
        "card": "A-053",
        "source_id": "powers-report-sec",
-       "page": 134,
+       "page": null,
        "loc": "pp. 128-129, V.F Conclusions on the Raptors"
       }
      ]
@@ -870,12 +870,12 @@ window.LENSES = {
      "para_index": 21,
      "para_key": "ch3-p21",
      "para_start": "The bankruptcy examiner later summed up: \"Although its",
-     "text": "Follow the money: the committee's figures for individuals are minimums: \"at least\" $30 million for Fastow and \"at least\" $10 million for Kopper. Enron itself disclosed on November 8, 2001 that it believed Fastow had received more than $30 million.",
+     "text": "Follow the money: the committee's figures for individuals are minimums: \"at least\" $30 million for Fastow and \"at least\" $10 million for Kopper.",
      "cites": [
       {
        "card": "A-060",
        "source_id": "powers-report-sec",
-       "page": 9,
+       "page": null,
        "loc": "pp. 3-4 (K-1 details p. 163), Executive Summary - Summary of Findings; VII.A"
       }
      ]
@@ -888,13 +888,13 @@ window.LENSES = {
       {
        "card": "A-036",
        "source_id": "powers-report-sec",
-       "page": 60,
+       "page": null,
        "loc": "pp. 54-55, II.E Fees Paid to Chewco/Kopper"
       },
       {
        "card": "A-037",
        "source_id": "powers-report-sec",
-       "page": 70,
+       "page": null,
        "loc": "pp. 60-64, II.G Enron's Repurchase of Chewco's Limited Partnership Interest"
       }
      ]
@@ -905,19 +905,25 @@ window.LENSES = {
       {
        "card": "A-043",
        "source_id": "powers-report-sec",
-       "page": 15,
+       "page": null,
        "loc": "pp. 8-9, 11, Executive Summary - The LJM Transactions"
       }
      ]
     },
     {
-     "text": "Raptors: the committee calculated that without them, Enron's pre-tax earnings for five quarters would have been $429 million rather than $1.506 billion, a 72% decline.",
+     "text": "Raptors: the committee calculated that without them, Enron's pre-tax earnings for five quarters would have been $429 million rather than $1.506 billion, a 72% decline (not counting the $710 million charge to end the Raptors; the committee noted it could not know what Enron would otherwise have done).",
      "cites": [
       {
        "card": "A-054",
        "source_id": "powers-report-sec",
-       "page": 105,
+       "page": null,
        "loc": "p. 99 (table p. 133), V. The Raptors (introduction); V.F table"
+      },
+      {
+       "card": "A-058",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 127-128, V.E Unwind of the Raptors"
       }
      ]
     },
@@ -927,7 +933,7 @@ window.LENSES = {
       {
        "card": "A-060",
        "source_id": "powers-report-sec",
-       "page": 9,
+       "page": null,
        "loc": "pp. 3-4 (K-1 details p. 163), Executive Summary - Summary of Findings; VII.A"
       }
      ]
@@ -946,13 +952,13 @@ window.LENSES = {
       {
        "card": "A-052",
        "source_id": "powers-report-sec",
-       "page": 106,
+       "page": null,
        "loc": "pp. 100-101, V.A.1 Raptor I: Formation and Structure"
       },
       {
        "card": "A-061",
        "source_id": "powers-report-sec",
-       "page": 11,
+       "page": null,
        "loc": "p. 5 (Raptors p. 132), Executive Summary; V.F Conclusions on the Raptors"
       }
      ]
@@ -965,7 +971,7 @@ window.LENSES = {
       {
        "card": "A-030",
        "source_id": "powers-report-sec",
-       "page": 11,
+       "page": null,
        "loc": "p. 5, Executive Summary - Summary of Findings"
       }
      ]
@@ -976,7 +982,7 @@ window.LENSES = {
       {
        "card": "A-035",
        "source_id": "powers-report-sec",
-       "page": 58,
+       "page": null,
        "loc": "pp. 50-52, II.D SPE Non-Consolidation \"Equity\" Requirement"
       },
       {
@@ -1004,7 +1010,7 @@ window.LENSES = {
       {
        "card": "A-052",
        "source_id": "powers-report-sec",
-       "page": 106,
+       "page": null,
        "loc": "pp. 100-101, V.A.1 Raptor I: Formation and Structure"
       }
      ]
@@ -1023,7 +1029,7 @@ window.LENSES = {
       {
        "card": "A-032",
        "source_id": "powers-report-sec",
-       "page": 49,
+       "page": null,
        "loc": "pp. 43-44, II.A Formation of Chewco"
       }
      ]
@@ -1037,7 +1043,7 @@ window.LENSES = {
       {
        "card": "A-033",
        "source_id": "powers-report-sec",
-       "page": 52,
+       "page": null,
        "loc": "pp. 46-47, II.B Limited Board Approval"
       }
      ]
@@ -1057,7 +1063,7 @@ window.LENSES = {
       {
        "card": "F-007",
        "source_id": "powers-report-sec",
-       "page": 75,
+       "page": null,
        "loc": "p. 69 (LJM1); p. 72 (LJM2); p. 44 n. 8 (Code text), III.A LJM1 (Board approval, June 28, 1999); LJM2 approval"
       }
      ]
@@ -1071,13 +1077,13 @@ window.LENSES = {
       {
        "card": "A-041",
        "source_id": "powers-report-sec",
-       "page": 78,
+       "page": null,
        "loc": "pp. 70-73, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
       },
       {
        "card": "A-042",
        "source_id": "powers-report-sec",
-       "page": 78,
+       "page": null,
        "loc": "p. 72, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
       }
      ]
@@ -1086,18 +1092,18 @@ window.LENSES = {
      "para_index": 20,
      "para_key": "ch3-p20",
      "para_start": "By December 2000, two Raptors lacked the money",
-     "text": "The Board: twice the Raptors were rescued without a loss being recorded. The committee saw no evidence the board was told of the December 2000 fix, and found that the March 2001 restructuring was apparently not disclosed to or authorized by the board.",
+     "text": "The Board: twice the Raptors' credit problem was fixed so that Enron avoided a large charge: no reserve at the end of 2000, and only a $36.6 million reserve in March 2001 instead of a charge of more than $500 million. The committee saw no evidence the board was told of the December 2000 fix, and found that the March 2001 restructuring was apparently not disclosed to or authorized by the board.",
      "cites": [
       {
        "card": "A-056",
        "source_id": "powers-report-sec",
-       "page": 126,
+       "page": null,
        "loc": "pp. 119-120, V.D.1 Fourth Quarter 2000 Temporary Fix"
       },
       {
        "card": "A-057",
        "source_id": "powers-report-sec",
-       "page": 21,
+       "page": null,
        "loc": "pp. 14-15 (details pp. 121-125), Executive Summary; V.D.2 The Restructuring Transaction"
       }
      ]
@@ -1111,13 +1117,13 @@ window.LENSES = {
       {
        "card": "F-011",
        "source_id": "powers-report-sec",
-       "page": 16,
+       "page": null,
        "loc": "p. 10, Executive Summary"
       },
       {
        "card": "A-062",
        "source_id": "powers-report-sec",
-       "page": 16,
+       "page": null,
        "loc": "p. 10 (Lay p. 19), Executive Summary - The LJM Transactions; The Participants"
       }
      ]
@@ -1130,19 +1136,19 @@ window.LENSES = {
       {
        "card": "A-040",
        "source_id": "powers-report-sec",
-       "page": 75,
+       "page": null,
        "loc": "pp. 68-70, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
       },
       {
        "card": "A-041",
        "source_id": "powers-report-sec",
-       "page": 78,
+       "page": null,
        "loc": "pp. 70-73, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
       },
       {
        "card": "F-007",
        "source_id": "powers-report-sec",
-       "page": 75,
+       "page": null,
        "loc": "p. 69 (LJM1); p. 72 (LJM2); p. 44 n. 8 (Code text), III.A LJM1 (Board approval, June 28, 1999); LJM2 approval"
       }
      ]
@@ -1164,13 +1170,13 @@ window.LENSES = {
       {
        "card": "F-011",
        "source_id": "powers-report-sec",
-       "page": 16,
+       "page": null,
        "loc": "p. 10, Executive Summary"
       },
       {
        "card": "A-062",
        "source_id": "powers-report-sec",
-       "page": 16,
+       "page": null,
        "loc": "p. 10 (Lay p. 19), Executive Summary - The LJM Transactions; The Participants"
       }
      ]
@@ -1181,7 +1187,7 @@ window.LENSES = {
       {
        "card": "A-056",
        "source_id": "powers-report-sec",
-       "page": 126,
+       "page": null,
        "loc": "pp. 119-120, V.D.1 Fourth Quarter 2000 Temporary Fix"
       }
      ]
@@ -1200,7 +1206,7 @@ window.LENSES = {
       {
        "card": "A-033",
        "source_id": "powers-report-sec",
-       "page": 52,
+       "page": null,
        "loc": "pp. 46-47, II.B Limited Board Approval"
       }
      ]
@@ -1214,7 +1220,7 @@ window.LENSES = {
       {
        "card": "A-042",
        "source_id": "powers-report-sec",
-       "page": 78,
+       "page": null,
        "loc": "p. 72, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
       }
      ]
@@ -1228,13 +1234,13 @@ window.LENSES = {
       {
        "card": "F-014",
        "source_id": "powers-report-sec",
-       "page": 90,
+       "page": null,
        "loc": "p. 84 (continues p. 85), IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'"
       },
       {
        "card": "A-049",
        "source_id": "powers-report-sec",
-       "page": 93,
+       "page": null,
        "loc": "p. 87, IV.E Unwinding the Transaction"
       }
      ]
@@ -1248,7 +1254,7 @@ window.LENSES = {
       {
        "card": "A-064",
        "source_id": "powers-report-sec",
-       "page": 23,
+       "page": null,
        "loc": "p. 17 (see also pp. 200-202), Executive Summary - Public Disclosure; VIII.E Conclusions on Disclosure"
       }
      ]
@@ -1261,7 +1267,7 @@ window.LENSES = {
       {
        "card": "A-033",
        "source_id": "powers-report-sec",
-       "page": 52,
+       "page": null,
        "loc": "pp. 46-47, II.B Limited Board Approval"
       }
      ]
@@ -1272,18 +1278,18 @@ window.LENSES = {
       {
        "card": "A-042",
        "source_id": "powers-report-sec",
-       "page": 78,
+       "page": null,
        "loc": "p. 72, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
       }
      ]
     },
     {
-     "text": "Kaminski's research group estimated a 68% probability that the Rhythms structure would default; Causey told the committee he did not recall that figure.",
+     "text": "Kaminski told the committee that his group estimated, in early 2000, a 68% probability that the Rhythms structure would default; Causey told the committee he did not recall that figure.",
      "cites": [
       {
        "card": "A-049",
        "source_id": "powers-report-sec",
-       "page": 93,
+       "page": null,
        "loc": "p. 87, IV.E Unwinding the Transaction"
       }
      ]
@@ -1294,7 +1300,7 @@ window.LENSES = {
       {
        "card": "A-064",
        "source_id": "powers-report-sec",
-       "page": 23,
+       "page": null,
        "loc": "p. 17 (see also pp. 200-202), Executive Summary - Public Disclosure; VIII.E Conclusions on Disclosure"
       }
      ]
@@ -1309,27 +1315,8 @@ window.LENSES = {
       {
        "card": "A-033",
        "source_id": "powers-report-sec",
-       "page": 52,
+       "page": null,
        "loc": "pp. 46-47, II.B Limited Board Approval"
-      }
-     ]
-    },
-    {
-     "date": "1999-06-28",
-     "who": "Enron board",
-     "what": "Was told Fastow would be general partner of LJM1, and ratified a determination that his participation would not adversely affect Enron.",
-     "cites": [
-      {
-       "card": "A-040",
-       "source_id": "powers-report-sec",
-       "page": 75,
-       "loc": "pp. 68-70, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
-      },
-      {
-       "card": "F-007",
-       "source_id": "powers-report-sec",
-       "page": 75,
-       "loc": "p. 69 (LJM1); p. 72 (LJM2); p. 44 n. 8 (Code text), III.A LJM1 (Board approval, June 28, 1999); LJM2 approval"
       }
      ]
     },
@@ -1341,8 +1328,27 @@ window.LENSES = {
       {
        "card": "F-014",
        "source_id": "powers-report-sec",
-       "page": 90,
+       "page": null,
        "loc": "p. 84 (continues p. 85), IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'"
+      }
+     ]
+    },
+    {
+     "date": "1999-06-28",
+     "who": "Enron board",
+     "what": "Was told Fastow would be general partner of LJM1, and ratified a determination that his participation would not adversely affect Enron.",
+     "cites": [
+      {
+       "card": "A-040",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 68-70, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
+      },
+      {
+       "card": "F-007",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 69 (LJM1); p. 72 (LJM2); p. 44 n. 8 (Code text), III.A LJM1 (Board approval, June 28, 1999); LJM2 approval"
       }
      ]
     },
@@ -1354,20 +1360,20 @@ window.LENSES = {
       {
        "card": "A-042",
        "source_id": "powers-report-sec",
-       "page": 78,
+       "page": null,
        "loc": "p. 72, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
       }
      ]
     },
     {
      "date": "2000",
-     "who": "Enron's research group",
-     "what": "Estimated, in early 2000, a 68% probability that the Rhythms structure would default on what it owed Enron; Causey told the committee he did not recall this.",
+     "who": "Vince Kaminski (head of research)",
+     "what": "Told the special committee that his group estimated, in early 2000, a 68% probability that the Rhythms structure would default on what it owed Enron; Causey told the committee he did not recall this.",
      "cites": [
       {
        "card": "A-049",
        "source_id": "powers-report-sec",
-       "page": 93,
+       "page": null,
        "loc": "p. 87, IV.E Unwinding the Transaction"
       }
      ]
@@ -1380,7 +1386,7 @@ window.LENSES = {
       {
        "card": "A-053",
        "source_id": "powers-report-sec",
-       "page": 134,
+       "page": null,
        "loc": "pp. 128-129, V.F Conclusions on the Raptors"
       }
      ]
@@ -1393,7 +1399,7 @@ window.LENSES = {
       {
        "card": "A-056",
        "source_id": "powers-report-sec",
-       "page": 126,
+       "page": null,
        "loc": "pp. 119-120, V.D.1 Fourth Quarter 2000 Temporary Fix"
       }
      ]
@@ -1420,7 +1426,7 @@ window.LENSES = {
       {
        "card": "A-051",
        "source_id": "powers-report-sec",
-       "page": 103,
+       "page": null,
        "loc": "p. 97, V. The Raptors (introduction)"
       }
      ]
@@ -1434,7 +1440,7 @@ window.LENSES = {
       {
        "card": "A-058",
        "source_id": "powers-report-sec",
-       "page": 133,
+       "page": null,
        "loc": "pp. 127-128, V.E Unwind of the Raptors"
       }
      ]
@@ -1458,7 +1464,7 @@ window.LENSES = {
       {
        "card": "A-059",
        "source_id": "powers-report-sec",
-       "page": 104,
+       "page": null,
        "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
       }
      ]
@@ -1480,7 +1486,7 @@ window.LENSES = {
       {
        "card": "A-058",
        "source_id": "powers-report-sec",
-       "page": 133,
+       "page": null,
        "loc": "pp. 127-128, V.E Unwind of the Raptors"
       }
      ]
@@ -1508,7 +1514,7 @@ window.LENSES = {
      "para_index": 6,
      "para_key": "ch4-p6",
      "para_start": "In early 2001, the examiner reported, Carl Bass,",
-     "text": "The Auditors: the request to remove Bass came from the client's chief accounting officer. The examiner reported that another Andersen partner, John Stewart, testified at Andersen's 2002 trial that he found the removal unprofessional.",
+     "text": "The Auditors: the request to remove Bass came from the client's chief accounting officer, Bass was told. The examiner reported that another Andersen partner, John Stewart, testified at Andersen's 2002 trial that he found Enron's request unprofessional and was upset that the firm had agreed to it.",
      "cites": [
       {
        "card": "C-034",
@@ -1527,7 +1533,7 @@ window.LENSES = {
       {
        "card": "A-059",
        "source_id": "powers-report-sec",
-       "page": 104,
+       "page": null,
        "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
       },
       {
@@ -1569,7 +1575,7 @@ window.LENSES = {
      ]
     },
     {
-     "text": "In early 2001, the examiner reported, Andersen agreed to Causey's request to remove its accounting expert Carl Bass from the Enron engagement.",
+     "text": "In early 2001, the examiner reported, Carl Bass was told that Causey had asked for his removal from the Enron engagement and that Andersen had agreed.",
      "cites": [
       {
        "card": "C-034",
@@ -1585,7 +1591,7 @@ window.LENSES = {
       {
        "card": "A-059",
        "source_id": "powers-report-sec",
-       "page": 104,
+       "page": null,
        "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
       }
      ]
@@ -1643,7 +1649,7 @@ window.LENSES = {
      ]
     },
     {
-     "text": "Audit Committee chairman Robert Jaedicke testified that the committee \"knew that the company was engaged in high-risk and innovative transactions,\" but that he never heard terms such as \"form over substance\" used.",
+     "text": "Audit Committee chairman Robert Jaedicke testified that the committee \"knew that the company was engaged in high-risk and innovative transactions,\" but that, as far as he recalled, he never heard terms such as \"form over substance\" used.",
      "cites": [
       {
        "card": "B-078",
@@ -1670,7 +1676,7 @@ window.LENSES = {
       {
        "card": "A-058",
        "source_id": "powers-report-sec",
-       "page": 133,
+       "page": null,
        "loc": "pp. 127-128, V.E Unwind of the Raptors"
       }
      ]
@@ -1684,7 +1690,7 @@ window.LENSES = {
      "para_index": 5,
      "para_key": "ch4-p5",
      "para_start": "On February 5, 2001, senior Andersen partners held",
-     "text": "Who Knew What, When: by February 2001, senior Andersen partners had put in writing how \"aggressive\" Enron's accounting was, the Senate staff found. That was six months before Watkins wrote to Lay.",
+     "text": "Who Knew What, When: by February 2001, an Andersen partner's e-mail about the client-retention meeting noted how \"aggressive\" Enron's accounting was, the Senate staff found. That was six months before Watkins wrote to Lay.",
      "cites": [
       {
        "card": "C-056",
@@ -1724,7 +1730,7 @@ window.LENSES = {
      "para_index": 10,
      "para_key": "ch4-p10",
      "para_start": "Watkins testified that on August 15, 2001, the",
-     "text": "Who Knew What, When: from August 15, 2001, the documents show that Lay had been warned in writing. The same letter said, as the Senate subcommittee staff quoted it, that \"Skilling's abrupt departure will raise suspicions of accounting improprieties and valuation issues.\"",
+     "text": "Who Knew What, When: Watkins testified that she gave Lay her anonymous letter on August 15, 2001. The letter said, as the Senate subcommittee staff quoted it, that \"Skilling's abrupt departure will raise suspicions of accounting improprieties and valuation issues.\"",
      "cites": [
       {
        "card": "B-055",
@@ -1770,25 +1776,13 @@ window.LENSES = {
      "para_index": 14,
      "para_key": "ch4-p14",
      "para_start": "On September 26, 2001, Lay answered questions from",
-     "text": "Who Knew What, When: the dates matter here. The SEC alleged these September 26 statements were false and misleading; Watkins's letter and meeting were on August 15 and 22. Lay was later convicted, but his conviction was vacated after his death (Chapter 7).",
+     "text": "Who Knew What, When: The SEC alleged these September 26 statements were false and misleading. Lay was later convicted, but his conviction was vacated after his death (Chapter 7).",
      "cites": [
       {
        "card": "B-004",
        "source_id": "sec-lay-complaint",
        "page": 32,
        "loc": "p. 32, Second Amended Complaint, para. 81"
-      },
-      {
-       "card": "B-055",
-       "source_id": "hrg-commerce-skilling-watkins",
-       "page": 16,
-       "loc": "p. 12, Statement of Sherron Watkins"
-      },
-      {
-       "card": "B-056",
-       "source_id": "hrg-commerce-skilling-watkins",
-       "page": 16,
-       "loc": "p. 12, Statement of Sherron Watkins"
       },
       {
        "card": "B-011",
@@ -1821,7 +1815,7 @@ window.LENSES = {
    ],
    "summary": [
     {
-     "text": "Andersen's partners described Enron's accounting as pushing limits in February 1999 and as aggressive in February 2001, according to the Senate staff reports.",
+     "text": "Andersen's lead partner wrote in February 1999 that many practices \"push limits\"; a partner's February 2001 e-mail called the accounting \"aggressive,\" according to the Senate staff reports.",
      "cites": [
       {
        "card": "B-063",
@@ -1860,7 +1854,7 @@ window.LENSES = {
       {
        "card": "A-059",
        "source_id": "powers-report-sec",
-       "page": 104,
+       "page": null,
        "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
       }
      ]
@@ -1911,6 +1905,19 @@ window.LENSES = {
      ]
     },
     {
+     "date": "2001-08",
+     "who": "Enron and Andersen accountants",
+     "what": "Realized Enron had made an accounting error when it issued stock to the Raptors, the special committee found.",
+     "cites": [
+      {
+       "card": "A-059",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
+      }
+     ]
+    },
+    {
      "date": "2001-08-14",
      "who": "Jeffrey Skilling",
      "what": "Resigned. He later testified: \"When I left Enron on August 14, I did not believe the company was in financial peril.\"",
@@ -1926,7 +1933,7 @@ window.LENSES = {
     {
      "date": "2001-08-15",
      "who": "Kenneth Lay",
-     "what": "Received Watkins's anonymous letter: \"I am incredibly nervous that we will implode in a wave of accounting scandals.\"",
+     "what": "Watkins testified that she gave him her anonymous letter that day. It said: \"I am incredibly nervous that we will implode in a wave of accounting scandals.\"",
      "cites": [
       {
        "card": "B-055",
@@ -1956,19 +1963,6 @@ window.LENSES = {
      ]
     },
     {
-     "date": "2001-08",
-     "who": "Enron and Andersen accountants",
-     "what": "Realized Enron had made an accounting error when it issued stock to the Raptors, the special committee found.",
-     "cites": [
-      {
-       "card": "A-059",
-       "source_id": "powers-report-sec",
-       "page": 104,
-       "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
-      }
-     ]
-    },
-    {
      "date": "2001-09-26",
      "who": "Enron employees",
      "what": "The SEC alleged that Lay told them in an online forum that the third quarter was \"looking great.\"",
@@ -1982,7 +1976,7 @@ window.LENSES = {
      ]
     }
    ],
-   "ask_why": "Between February and September 2001, warnings reached Andersen's partners, Enron's chairman and Enron's accountants, while, the SEC alleged, employees were told the quarter was \"looking great.\" At what point should the public have been told, and whose job was it to tell them?"
+   "ask_why": "Between February and September 2001, warnings reached Andersen's partners, Enron's accountants and, Watkins testified, Enron's chairman, while, the SEC alleged, employees were told the quarter was \"looking great.\" At what point should the public have been told, and whose job was it to tell them?"
   }
  },
  "ch5": {
@@ -2023,7 +2017,7 @@ window.LENSES = {
       {
        "card": "A-059",
        "source_id": "powers-report-sec",
-       "page": 104,
+       "page": null,
        "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
       }
      ]
@@ -2060,7 +2054,7 @@ window.LENSES = {
      "para_index": 12,
      "para_key": "ch5-p12",
      "para_start": "The quarterly report Enron filed on November 19",
-     "text": "Follow the money: these were debt triggers: terms making loans come due early if Enron's credit rating or stock price fell. One downgrade made a $690 million note payable, and about $3.9 billion more could follow.",
+     "text": "Follow the money: these were debt triggers: terms that could make debts come due early if Enron's credit rating fell (for some, only if its stock price was also low). One downgrade meant a $690 million note would come due unless Enron posted collateral, and about $3.9 billion more could follow.",
      "cites": [
       {
        "card": "A-080",
@@ -2094,7 +2088,7 @@ window.LENSES = {
      "para_index": 19,
      "para_key": "ch5-p19",
      "para_start": "Banks were involved, too. The Senate subcommittee staff",
-     "text": "Follow the money: the bankruptcy examiner described prepays as loans that Enron reported as trading liabilities rather than debt. The Senate staff also found a sham sale funded by a $200 million Citigroup loan that inflated Enron's year-end 2000 earnings by $112 million.",
+     "text": "Follow the money: the bankruptcy examiner described prepays as loans that Enron reported as trading liabilities rather than debt. The Senate staff also found what it called a \"sham\" sale funded by a $200 million Citigroup loan that inflated Enron's year-end 2000 earnings by $112 million.",
      "cites": [
       {
        "card": "A-068",
@@ -2203,7 +2197,7 @@ window.LENSES = {
       {
        "card": "A-059",
        "source_id": "powers-report-sec",
-       "page": 104,
+       "page": null,
        "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
       }
      ]
@@ -2253,7 +2247,7 @@ window.LENSES = {
       {
        "card": "A-066",
        "source_id": "powers-report-sec",
-       "page": 39,
+       "page": null,
        "loc": "pp. 31-34, Introduction - Formation of the Committee; The Committee's Investigation"
       }
      ]
@@ -2329,7 +2323,7 @@ window.LENSES = {
      "para_index": 14,
      "para_key": "ch5-p14",
      "para_start": "People whose job was to judge Enron from",
-     "text": "Who Knew What, When: the analysts had the same public news as everyone else, and most kept recommending the stock. The Senate staff tied this to their firms' investment-banking interests.",
+     "text": "Who Knew What, When: most analysts kept recommending the stock after the bad news. The Senate staff tied this to their firms' investment-banking interests.",
      "cites": [
       {
        "card": "C-057",
@@ -2409,7 +2403,7 @@ window.LENSES = {
    "strip": [
     {
      "date": "2001-10-16",
-     "who": "Investors on the conference call",
+     "who": "Analysts and investors on Enron's conference call",
      "what": "Were told Enron would reduce shareholders' equity by $1.2 billion, a figure not disclosed in the written earnings release.",
      "cites": [
       {
@@ -2533,7 +2527,7 @@ window.LENSES = {
      ]
     },
     {
-     "text": "The Senate Governmental Affairs Committee staff found $52 million in 2000 fees: $25 million for audit work and $27 million for consulting. Andersen testified that much of the \"consulting\" was work typically done by the auditor.",
+     "text": "The Senate Governmental Affairs Committee staff found $52 million in 2000 fees: $25 million for audit work and $27 million for consulting. Andersen partner Michael Odom testified that much of the \"consulting\" was work typically done by the auditor.",
      "cites": [
       {
        "card": "C-019",
@@ -2555,7 +2549,7 @@ window.LENSES = {
       {
        "card": "A-061",
        "source_id": "powers-report-sec",
-       "page": 11,
+       "page": null,
        "loc": "p. 5 (Raptors p. 132), Executive Summary; V.F Conclusions on the Raptors"
       }
      ]
@@ -2654,7 +2648,7 @@ window.LENSES = {
      "para_index": 8,
      "para_key": "ch6-p8",
      "para_start": "The examiner also concluded that a fact-finder could",
-     "text": "The Auditors: thirty meetings of about an hour each, over almost five years, is limited time to explain the accounting of a company as complex as Enron. The examiner's conclusion is about what a fact-finder could find, not a court finding.",
+     "text": "The Auditors: Duncan wrote in December 2000 that the presentation had to fit \"about a 30 - 45 minute presentation,\" so \"we necessarily have to stay at a certain level.\" The examiner's conclusion is about what a fact-finder could find, not a court finding.",
      "cites": [
       {
        "card": "C-035",
@@ -2688,7 +2682,7 @@ window.LENSES = {
      "para_index": 12,
      "para_key": "ch6-p12",
      "para_start": "Duncan's account, as a House subcommittee chairman summarized",
-     "text": "The Auditors: two accounts conflict here. Andersen's witness said Duncan acted without consulting others or, so far as Andersen knew, its lawyers; Duncan, as the chairman summarized his interview, said he acted on the lawyer's e-mail. Duncan did not testify himself.",
+     "text": "The Auditors: two accounts conflict here. Andersen's witness said Duncan acted without consulting others or, so far as Andersen knew, its lawyers; Duncan, as the chairman summarized his interview, said he acted on the lawyer's e-mail. Duncan declined to answer questions at the hearing.",
      "cites": [
       {
        "card": "C-011",
@@ -2794,7 +2788,7 @@ window.LENSES = {
      "para_index": 19,
      "para_key": "ch6-p19",
      "para_start": "Andersen's fall reshaped the audit profession. The GAO",
-     "text": "The Auditors: with four firms auditing 99 percent of public companies' annual sales, large companies have few choices. In a GAO follow-up survey, 84 percent of large public companies said they wanted more audit firms to choose from.",
+     "text": "The Auditors: with four firms auditing 99 percent of public companies' annual sales, large companies have few choices. In a GAO follow-up survey, 84 percent of the large public companies GAO surveyed said they wanted more audit firms to choose from.",
      "cites": [
       {
        "card": "C-046",
@@ -3041,7 +3035,7 @@ window.LENSES = {
      ]
     },
     {
-     "text": "Andersen's lawyer e-mailed a reminder of the retention policy on October 12; the SEC made its request to Enron on October 17; Duncan called an urgent meeting of the Enron team on October 23.",
+     "text": "Andersen's lawyer e-mailed a partner on October 12 suggesting the engagement team be reminded of the retention policy; the SEC made its request to Enron on October 17; Duncan called an urgent meeting of the Enron team on October 23.",
      "cites": [
       {
        "card": "C-001",
@@ -3181,7 +3175,7 @@ window.LENSES = {
      ]
     }
    ],
-   "ask_why": "Andersen's lawyer reminded the Enron team of the retention policy on October 12, and the shredding stopped on November 9. What would an employee need to know, and when, to tell routine housekeeping from something else?"
+   "ask_why": "Andersen's lawyer suggested on October 12 that the Enron team be reminded of the retention policy, and, by Andersen's account, the shredding stopped shortly after November 9. What would an employee need to know, and when, to tell routine housekeeping from something else?"
   }
  },
  "ch7": {
@@ -3269,7 +3263,7 @@ window.LENSES = {
      "para_index": 11,
      "para_key": "ch7-p11",
      "para_start": "Many Enron employees saved for retirement through a",
-     "text": "Follow the money: many employees' retirement savings rose and fell with the same company that paid their salaries. The plan's chairman testified that employees could choose among 20 investment options, but could not move the Enron stock match before age 50.",
+     "text": "Follow the money: many employees' retirement savings rose and fell with the same company that paid their salaries. The chairman of the plan's administrative committee told the committee that employees could choose among 20 investment options, but could not move the Enron stock match before age 50.",
      "cites": [
       {
        "card": "C-061",
@@ -3327,7 +3321,7 @@ window.LENSES = {
      ]
     },
     {
-     "text": "GAO cited Labor Department figures that 63 percent of Enron's 401(k) assets were in company stock at the end of 2000; a congressman testified the plan lost about $1 billion in value.",
+     "text": "GAO cited Labor Department figures that 63 percent of Enron's 401(k) assets were in company stock at the end of 2000; a congressman told the committee the plan lost about $1 billion in value.",
      "cites": [
       {
        "card": "C-062",
@@ -3419,13 +3413,13 @@ window.LENSES = {
       {
        "card": "F-015",
        "source_id": "powers-report-sec",
-       "page": 37,
+       "page": null,
        "loc": "p. 31 (and p. 9 n. 1), I. Introduction (the Special Investigative Committee)"
       },
       {
        "card": "A-063",
        "source_id": "powers-report-sec",
-       "page": 28,
+       "page": null,
        "loc": "pp. 22-24, Executive Summary - The Participants: The Board of Directors"
       }
      ]
@@ -3478,7 +3472,7 @@ window.LENSES = {
       {
        "card": "A-063",
        "source_id": "powers-report-sec",
-       "page": 28,
+       "page": null,
        "loc": "pp. 22-24, Executive Summary - The Participants: The Board of Directors"
       }
      ]
@@ -3616,7 +3610,7 @@ window.LENSES = {
     {
      "date": "2001-10-15",
      "who": "Jan Fleetham (Enron employee)",
-     "what": "Received a letter dated October 8 saying she could not access her 401(k) account from October 20 to November 19, 2001. Other accounts of the lockdown's dates differ.",
+     "what": "Told the committee, in her written statement, that on October 15 she received a letter dated October 8 saying she could not access her 401(k) account from October 20 to November 19, 2001. Other accounts of the lockdown's dates differ.",
      "cites": [
       {
        "card": "C-066",

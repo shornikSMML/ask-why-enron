@@ -13,14 +13,16 @@
    "lines": "430-432 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "law",
-  "notes": "The SEC made this determination on April 25, 2003 (cards C-081 and S-019). 270 days after July 30, 2002 is April 26, 2003 (my arithmetic, not stated in a source)."
+  "notes": "The SEC made this determination on April 25, 2003 (cards C-081 and S-019). 270 days after July 30, 2002 is April 26, 2003 (my arithmetic, not stated in a source).",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Claim matches Sec. 101(d). 270-day arithmetic (Apr 26, 2003) re-computed and correct; it is the card's arithmetic, not a source statement."
  },
  {
   "id": "S-002",
@@ -36,14 +38,16 @@
    "lines": "491-494 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "law",
-  "notes": "Appointment deadline and consultation: Sec. 101(e)(4)(A), lines 463-473. Five-year terms: 101(e)(5)(A). Two-CPA limit is card C-073."
+  "notes": "Appointment deadline and consultation: Sec. 101(e)(4)(A), lines 463-473. Five-year terms: 101(e)(5)(A). Two-CPA limit is card C-073.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Claim matches 101(e)(4)-(5) (lines 463-494)."
  },
  {
   "id": "S-003",
@@ -59,14 +63,16 @@
    "lines": "455-457 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "law",
-  "notes": ""
+  "notes": "",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. 'Fixed retirement payments' = 'fixed continuing payments ... under standard arrangements for the retirement' (lines 452-461)."
  },
  {
   "id": "S-004",
@@ -82,14 +88,16 @@
    "lines": "575-578 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "102",
   "aspect": "law",
-  "notes": "With the April 25, 2003 SEC determination, the 180 days would end in late October 2003; no library document states the actual deadline date or when firms registered (gap logged)."
+  "notes": "With the April 25, 2003 SEC determination, the 180 days would end in late October 2003; no library document states the actual deadline date or when firms registered (gap logged).",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Late-October 2003 date in notes is arithmetic (Oct 22, 2003), not a source statement; do not print it as the registration deadline."
  },
  {
   "id": "S-005",
@@ -105,14 +113,16 @@
    "lines": "594-596 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "102",
   "aspect": "law",
-  "notes": "Useful link to the Andersen fee cards (C-019 to C-022): the Board now sees the audit/consulting split for every client."
+  "notes": "Useful link to the Andersen fee cards (C-019 to C-022): the Board now sees the audit/consulting split for every client.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Claim matches 102(b)(2)(A)-(B)."
  },
  {
   "id": "S-006",
@@ -128,14 +138,16 @@
    "lines": "697-701 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "103",
   "aspect": "law",
-  "notes": "Seven years here (a Board standard) differs from the five-year criminal retention rule for auditors in Sec. 802 (18 U.S.C. 1520; card C-079). Both are in the Act; do not conflate them."
+  "notes": "Seven years here (a Board standard) differs from the five-year criminal retention rule for auditors in Sec. 802 (18 U.S.C. 1520; card C-079). Both are in the Act; do not conflate them.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. (ii) and (iii) confirmed at lines 703-713."
  },
  {
   "id": "S-007",
@@ -151,14 +163,16 @@
    "lines": "782-785 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "103",
   "aspect": "law",
-  "notes": "Pairs with the SEC's April 25, 2003 order under Sec. 103(a)(3)(B) (card S-019). The library copy of that order is only the SEC landing page, so what the interim standards were is not documented (gap logged)."
+  "notes": "Pairs with the SEC's April 25, 2003 order under Sec. 103(a)(3)(B) (card S-019). The library copy of that order is only the SEC landing page, so what the interim standards were is not documented (gap logged).",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Same-time SEC approval confirmed at lines 789-793."
  },
  {
   "id": "S-008",
@@ -174,14 +188,16 @@
    "lines": "844-846 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "104",
   "aspect": "law",
-  "notes": "Three-year rule: Sec. 104(b)(1)(B), lines 850-853. The Board may adjust these schedules by rule."
+  "notes": "Three-year rule: Sec. 104(b)(1)(B), lines 850-853. The Board may adjust these schedules by rule.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Three-year rule confirmed at lines 850-853."
  },
  {
   "id": "S-009",
@@ -197,19 +213,21 @@
    "lines": "921-924 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "104",
   "aspect": "law",
-  "notes": ""
+  "notes": "",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Transmission to SEC and state regulators confirmed at 104(g)(1)."
  },
  {
   "id": "S-010",
   "topic": "SOX Sec. 105: Board penalties",
-  "claim": "If the PCAOB finds violations it can suspend or revoke a firm's registration, bar individuals, censure, require training, or fine up to $100,000 per person or $2 million per firm; for intentional, knowing or reckless conduct (or repeated negligence) fines can reach $750,000 per person or $15 million per firm.",
+  "claim": "If the PCAOB finds violations it can censure, require training, or fine up to $100,000 per person or $2 million per firm. Suspending or revoking a firm's registration, barring or suspending individuals, limiting a firm's activities, and the higher fines (up to $750,000 per person or $15 million per firm) are available only for intentional or knowing conduct (including reckless conduct) or repeated negligence.",
   "quote": "not more than $750,000 for a natural person or $15,000,000 for any other person;",
   "source_id": "sox-plaw-html",
   "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
@@ -220,14 +238,16 @@
    "lines": "1152-1153 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "105",
   "aspect": "law",
-  "notes": "The higher penalties, suspensions and bars apply only to intentional or knowing conduct, including reckless conduct, or repeated negligence (Sec. 105(c)(5), lines 1161-1170). Sec. 105(c)(6) adds liability for failure to supervise."
+  "notes": "The higher penalties, suspensions and bars apply only to intentional or knowing conduct, including reckless conduct, or repeated negligence (Sec. 105(c)(5), lines 1161-1170). Sec. 105(c)(6) adds liability for failure to supervise.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). FIXED: the claim implied suspension, revocation and bars were available for any violation; Sec. 105(c)(5) limits them (and the higher fines) to intentional/knowing/reckless conduct or repeated negligence. Verb set to 'requires'."
  },
  {
   "id": "S-011",
@@ -243,14 +263,16 @@
    "lines": "1346-1348 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "107",
   "aspect": "law",
-  "notes": ""
+  "notes": "",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Exception for initial/transitional standards confirmed (107(b)(2))."
  },
  {
   "id": "S-012",
@@ -266,14 +288,16 @@
    "lines": "1503 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "permits",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "108",
   "aspect": "law",
-  "notes": "The statute does not name FASB; the Senate report (S. Rept. 107-205, PDF p. 16-17) and CRS (CRS-5) identify it as the Financial Accounting Standards Board. Quote is short because the clause is a list; the claim summarizes 19(b)(1)(A)(i)-(v)."
+  "notes": "The statute does not name FASB; the Senate report (S. Rept. 107-205, PDF p. 16-17) and CRS (CRS-5) identify it as the Financial Accounting Standards Board. Quote is short because the clause is a list; the claim summarizes 19(b)(1)(A)(i)-(v).",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'permits' (the SEC 'may recognize'). Claim summarizes 19(b)(1)(A)(i)-(v) accurately."
  },
  {
   "id": "S-013",
@@ -289,14 +313,16 @@
    "lines": "1611-1613 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "109",
   "aspect": "law",
-  "notes": "Fee allocation by average monthly equity market capitalization: Sec. 109(g), lines 1650-1665. Fees 'shall not be considered public monies' (109(c)(1)). The scholarship use is subject to appropriations."
+  "notes": "Fee allocation by average monthly equity market capitalization: Sec. 109(g), lines 1650-1665. Fees 'shall not be considered public monies' (109(c)(1)). The scholarship use is subject to appropriations.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. SEC budget approval confirmed at 109(b); scholarship use is subject to appropriations (109(c)(2))."
  },
  {
   "id": "S-014",
@@ -321,7 +347,9 @@
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "problem",
-  "notes": "O'Malley testified March 6, 2002 (report fn. 3). The report is the Senate Banking Committee's own explanation (filed July 3, 2002; ordered reported June 18)."
+  "notes": "O'Malley testified March 6, 2002 (report fn. 3). The report is the Senate Banking Committee's own explanation (filed July 3, 2002; ordered reported June 18).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report quoting O'Malley's testimony (fn. 3); 'ten days of hearings' confirmed. Attribute: 'the committee report quoted O'Malley'."
  },
  {
   "id": "S-015",
@@ -346,7 +374,9 @@
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "problem",
-  "notes": "Volcker's words as quoted in the committee report (fn. 4). Attribute as 'Volcker told the committee', citing the report."
+  "notes": "Volcker's words as quoted in the committee report (fn. 4). Attribute as 'Volcker told the committee', citing the report.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report quoting Volcker (fn. 4). Verified."
  },
  {
   "id": "S-016",
@@ -369,7 +399,9 @@
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "problem",
-  "notes": "The footnote quotes a POB resolution dated January 20, 2002, citing the SEC's plan to reorganize self-regulation 'without input from the Public Oversight Board'."
+  "notes": "The footnote quotes a POB resolution dated January 20, 2002, citing the SEC's plan to reorganize self-regulation 'without input from the Public Oversight Board'.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report fn. 5. Verified."
  },
  {
   "id": "S-017",
@@ -392,7 +424,9 @@
   "ocr_checked_against_image": false,
   "provision": "104",
   "aspect": "problem",
-  "notes": "Inspection rationale continues on PDF p. 13 [p. 9], section D."
+  "notes": "Inspection rationale continues on PDF p. 13 [p. 9], section D.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report; inspection rationale confirmed at PDF 13 [p. 9], section D."
  },
  {
   "id": "S-018",
@@ -415,12 +449,14 @@
   "ocr_checked_against_image": false,
   "provision": "general",
   "aspect": "problem",
-  "notes": "Ten hearings: S. Rept. 107-205, PDF p. 6 [p. 2]. Title page has no printed page number."
+  "notes": "Ten hearings: S. Rept. 107-205, PDF p. 6 [p. 2]. Title page has no printed page number.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Title page confirmed; full printed title begins 'The Legislative History of the Sarbanes-Oxley Act of 2002:'. 'Ten hearings' confirmed at S. Rept. 107-205 PDF 6 [p. 2]."
  },
  {
   "id": "S-019",
   "topic": "PCAOB: SEC orders of April 25, 2003",
-  "claim": "On April 25, 2003 the SEC issued two orders: Release No. 33-8223 under Section 101(d) (the Board is ready) and Release No. 33-8222 under Section 103(a)(3)(B) (approving the Board's initial standards).",
+  "claim": "On April 25, 2003 the SEC issued two orders: Release No. 33-8223, 'Order Regarding Section 101(d)' (the section under which the SEC decides whether the Board is ready), and Release No. 33-8222, 'Order Regarding Section 103(a)(3)(B)' (the section under which the SEC approves the Board's initial or transitional standards). The same day the SEC and PCAOB announced that the Board had been determined to be appropriately organized and able to carry out the Act (SEC press release 2003-52). The library does not contain the text of either order.",
   "quote": "Release Number 33-8223 SEC Issue Date April 25, 2003",
   "source_id": "sec-pcaob-101d-order",
   "file": "sources/08-sox-law-pcaob-profession/sec-33-8223-pcaob-101d-order-2003-04-25.htm",
@@ -431,14 +467,16 @@
    "lines": "214-219 (work/text copy)"
   },
   "source_type": "SEC order (landing page only)",
-  "verb": "stated",
+  "verb": "issued",
   "people": [],
   "event_date": "2003-04-25",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "implementation",
-  "notes": "IMPORTANT: both library files (sec-pcaob-101d-order, sec-pcaob-103-order) are only SEC landing pages with the title, release number and date; the text of the orders is not in them. Release 33-8222 page: same date and title 'Order Regarding Section 103(a)(3)(B)'. The manifest note that the interim standards were the existing AICPA standards is not supported by any library document text. Gap logged."
+  "notes": "IMPORTANT: both library files (sec-pcaob-101d-order, sec-pcaob-103-order) are only SEC landing pages with the title, release number and date; the text of the orders is not in them. Release 33-8222 page: same date and title 'Order Regarding Section 103(a)(3)(B)'. The manifest note that the interim standards were the existing AICPA standards is not supported by any library document text. Gap logged.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). FIXED: the landing page for Rel. 33-8222 gives only its title; the claim no longer says what the order did, only what Sec. 103(a)(3)(B) covers. Added the SEC/PCAOB announcement (sec-press-2003-52, fingerprint OK; verb 'announced'). Verb for the orders: 'issued'."
  },
  {
   "id": "S-020",
@@ -461,12 +499,14 @@
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "implementation",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). SEC report to Congress. The sentence covers 'the accounting and auditing process'. Verified."
  },
  {
   "id": "S-021",
   "topic": "Pitt: \"private sector\" not \"self\" regulation",
-  "claim": "SEC Chairman Harvey Pitt told the House Financial Services Committee in March 2002 that the SEC wanted a new private-sector body, independent of the profession's AICPA, to review firms' quality controls and discipline auditors, and supported the House bill's 'public regulatory organization'.",
+  "claim": "SEC Chairman Harvey Pitt told the House Financial Services Committee in March 2002 that the SEC wanted a new private-sector body, independent of the profession's AICPA, to review firms' quality controls and discipline auditors, and said the House bill's proposed 'public regulatory organization' shared many characteristics the SEC thought necessary.",
   "quote": "We are proposing \"private sector\" regulation, not \"self\" regulation.",
   "source_id": "sox-pitt-testimony",
   "file": "sources/07-sox-legislative-history/sec-pitt-testimony-carta-2002-03-20.htm",
@@ -477,7 +517,7 @@
    "lines": "246 (work/text copy)"
   },
   "source_type": "written congressional testimony (posted by the SEC)",
-  "verb": "testified",
+  "verb": "said",
   "people": [
    "Harvey Pitt"
   ],
@@ -486,7 +526,9 @@
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "problem",
-  "notes": "Pitt said the SEC announced this approach January 17 [2002]. He also said legislation was not required for it, though the SEC would help if Congress legislated."
+  "notes": "Pitt said the SEC announced this approach January 17 [2002]. He also said legislation was not required for it, though the SEC would help if Congress legislated.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). FIXED: 'supported' overstated Pitt's words ('shares many characteristics that the Commission believes are necessary'). Verb set to 'said' (written testimony)."
  },
  {
   "id": "S-022",
@@ -509,7 +551,9 @@
   "ocr_checked_against_image": false,
   "provision": "general",
   "aspect": "problem",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report. Verified."
  },
  {
   "id": "S-023",
@@ -532,12 +576,14 @@
   "ocr_checked_against_image": false,
   "provision": "general",
   "aspect": "implementation",
-  "notes": "Two-column Highlights page; the quote runs down the left column. GAO did this study because SOX Sec. 701 required it. 'No evidence of impaired competition to date' is in the right column of the same page."
+  "notes": "Two-column Highlights page; the quote runs down the left column. GAO did this study because SOX Sec. 701 required it. 'No evidence of impaired competition to date' is in the right column of the same page.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). GAO report (Highlights, two-column page; quote read down the left column). Report dated July 2003; Sec. 701 mandate confirmed."
  },
  {
   "id": "S-024",
   "topic": "Fewer choices for big companies",
-  "claim": "GAO found that the largest companies' choice of auditor fell from eight firms in 1988 to four in 2003; of 1,085 former Andersen clients that changed auditors, only one large company (assets over $5 billion) moved to a smaller firm.",
+  "claim": "GAO found that for most large public companies the maximum number of audit-firm choices fell from eight in 1988 to four in 2003; of 1,085 former Andersen clients that changed auditors (Oct 2001-Dec 2002), only one large company (assets over $5 billion) moved to a smaller firm.",
   "quote": "For most large public companies, the maximum number of choices has gone from eight in 1988 to four in 2003.",
   "source_id": "gao-03-864",
   "file": "sources/08-sox-law-pcaob-profession/gao-03-864-accounting-firm-consolidation.pdf",
@@ -555,7 +601,9 @@
   "ocr_checked_against_image": false,
   "provision": "203",
   "aspect": "implementation",
-  "notes": "GAO notes limited choice matters if firms had to switch auditors, 'such as through mandatory firm rotation' (same page). The mandatory-rotation study itself (Sec. 207) is not in the library (gap logged). Survey figures were preliminary ('to date')."
+  "notes": "GAO notes limited choice matters if firms had to switch auditors, 'such as through mandatory firm rotation' (same page). The mandatory-rotation study itself (Sec. 207) is not in the library (gap logged). Survey figures were preliminary ('to date').",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). FIXED: source says 'For most large public companies, the maximum number of choices'; claim had said 'the largest companies' choice'."
  },
  {
   "id": "S-025",
@@ -571,7 +619,7 @@
    "lines": "148-150 (work/text copy)"
   },
   "source_type": "presidential remarks (official record)",
-  "verb": "stated",
+  "verb": "said",
   "people": [
    "George W. Bush"
   ],
@@ -580,7 +628,9 @@
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "law",
-  "notes": "Two-column page; quote is in the left column of p. 1285. Bush's remarks do not mention Enron by name."
+  "notes": "Two-column page; quote is in the left column of p. 1285. Bush's remarks do not mention Enron by name.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Official record of presidential remarks; verb set to 'said'. Two-column page confirmed."
  },
  {
   "id": "S-026",
@@ -603,7 +653,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "problem",
-  "notes": "Same passage: restatements averaged 49 a year in 1990-97 and 150 a year in 1999 and 2000. The report places these side by side but does not claim one caused the other."
+  "notes": "Same passage: restatements averaged 49 a year in 1990-97 and 150 a year in 1999 and 2000. The report places these side by side but does not claim one caused the other.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report citing SEC figures. Verified."
  },
  {
   "id": "S-027",
@@ -626,7 +678,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "problem",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report. Verified."
  },
  {
   "id": "S-028",
@@ -649,7 +703,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "problem",
-  "notes": "The committee's own example of an auditor auditing its own valuation work is Superior Bank, not Enron. It also notes the industry had already announced it would stop providing internal audit and systems design to audit clients."
+  "notes": "The committee's own example of an auditor auditing its own valuation work is Superior Bank, not Enron. It also notes the industry had already announced it would stop providing internal audit and systems design to audit clients.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report. Verified; Superior Bank and industry announcement notes confirmed."
  },
  {
   "id": "S-029",
@@ -672,7 +728,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "problem",
-  "notes": "Supporters of a full ban quoted include CalPERS CEO James Burton, TIAA-CREF's John Biggs, John Whitehead and Walter Schuetze (PDF pp. 19-20 [pp. 15-16])."
+  "notes": "Supporters of a full ban quoted include CalPERS CEO James Burton, TIAA-CREF's John Biggs, John Whitehead and Walter Schuetze (PDF pp. 19-20 [pp. 15-16]).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report. Verified."
  },
  {
   "id": "S-030",
@@ -688,7 +746,7 @@
    "lines": "4797-4800 (work/text copy)"
   },
   "source_type": "prepared statement submitted for a Senate hearing record",
-  "verb": "testified",
+  "verb": "said",
   "people": [
    "Richard C. Breeden"
   ],
@@ -697,7 +755,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "problem",
-  "notes": "Breeden's characterization, not a finding. The same page says Andersen's Enron audit fees were about '$25 million each year' as an estimate-style statement; use Andersen fee figures from the Powers Report or C-cards instead. Prepared statements were submitted to the hearing record; Breeden also testified orally that day."
+  "notes": "Breeden's characterization, not a finding. The same page says Andersen's Enron audit fees were about '$25 million each year' as an estimate-style statement; use Andersen fee figures from the Powers Report or C-cards instead. Prepared statements were submitted to the hearing record; Breeden also testified orally that day.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Prepared statement in the hearing record: Breeden's characterization, not a finding; verb set to 'said'. Do not use his '$25 million each year' as a fee fact."
  },
  {
   "id": "S-031",
@@ -713,7 +773,7 @@
    "lines": "3505-3507 (work/text copy)"
   },
   "source_type": "congressional committee report (additional views of a member)",
-  "verb": "stated",
+  "verb": "said",
   "people": [
    "John J. LaFalce"
   ],
@@ -722,12 +782,14 @@
   "ocr_checked_against_image": false,
   "provision": "203",
   "aspect": "problem",
-  "notes": "These are one member's views, not the committee's findings. The House bill as reported had no partner rotation or cooling-off rule; both were added in the final law."
+  "notes": "These are one member's views, not the committee's findings. The House bill as reported had no partner rotation or cooling-off rule; both were added in the final law.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Additional views of one member (LaFalce), not the committee; verb set to 'said'. Verified."
  },
  {
   "id": "S-032",
   "topic": "Pitt urged caution on new independence rules",
-  "claim": "In March 2002 SEC Chairman Pitt told the House committee that the SEC's auditor-independence rules were less than 18 months old and should be tested in practice, and that limiting services with an inherent conflict and punishing poor audit performance were better tools.",
+  "claim": "In March 2002 SEC Chairman Pitt told the House committee that the SEC's auditor-independence rules were less than 18 months old and should be tested in practice, and said that limiting services with an inherent conflict, barring inappropriate compensation, and penalizing firms with substandard audit performance were 'more likely to prevent audit failures than the suggestion that we increase the reliance of all audit firms on their audit clients.'",
   "quote": "The Commission's rules on auditor independence were adopted less than 18 months ago, and were targeted to address problems about which there had been considerable study, discussion and debate.",
   "source_id": "sox-pitt-testimony",
   "file": "sources/07-sox-legislative-history/sec-pitt-testimony-carta-2002-03-20.htm",
@@ -738,7 +800,7 @@
    "lines": "246 (work/text copy)"
   },
   "source_type": "written congressional testimony (posted by the SEC)",
-  "verb": "testified",
+  "verb": "said",
   "people": [
    "Harvey Pitt"
   ],
@@ -747,7 +809,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "problem",
-  "notes": "Shows the SEC chairman did not initially seek a statutory list of banned services; the final law went further than the House bill he was discussing."
+  "notes": "Shows the SEC chairman did not initially seek a statutory list of banned services; the final law went further than the House bill he was discussing.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). FIXED: Pitt compared these tools with one specific suggestion, not with all alternatives; claim now quotes his comparison. Verb set to 'said'."
  },
  {
   "id": "S-033",
@@ -763,14 +827,16 @@
    "lines": "1782-1785 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "202",
   "aspect": "law",
-  "notes": ""
+  "notes": "",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. 5% de minimis exception confirmed (lines 1760-1778)."
  },
  {
   "id": "S-034",
@@ -797,7 +863,9 @@
   "ocr_checked_against_image": false,
   "provision": "203",
   "aspect": "problem",
-  "notes": "Partner rotation text is card C-075. The 'lead' and 'review' partners are defined in report fn. 39."
+  "notes": "Partner rotation text is card C-075. The 'lead' and 'review' partners are defined in report fn. 39.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report. Levitt, Hills and O'Malley quotes confirmed at PDF 25 [p. 21]."
  },
  {
   "id": "S-035",
@@ -813,14 +881,16 @@
    "lines": "1917-1919 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "203",
   "aspect": "law",
-  "notes": "Sec. 207 was not in my brief's list but is the other half of the Sec. 203 compromise. GAO's rotation report is not in the library (gap logged)."
+  "notes": "Sec. 207 was not in my brief's list but is the other half of the Sec. 203 compromise. GAO's rotation report is not in the library (gap logged).",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Verified."
  },
  {
   "id": "S-036",
@@ -836,14 +906,16 @@
    "lines": "1824-1826 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "204",
   "aspect": "law",
-  "notes": ""
+  "notes": "",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Verified."
  },
  {
   "id": "S-037",
@@ -859,14 +931,16 @@
    "lines": "1905-1906 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "206",
   "aspect": "law",
-  "notes": "Quote is short because the key clause breaks across a statute page; the claim follows lines 1896-1911."
+  "notes": "Quote is short because the key clause breaks across a statute page; the claim follows lines 1896-1911.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Verified."
  },
  {
   "id": "S-038",
@@ -882,7 +956,7 @@
    "lines": "4820-4821 (work/text copy)"
   },
   "source_type": "prepared statement submitted for a Senate hearing record",
-  "verb": "testified",
+  "verb": "said",
   "people": [
    "Richard C. Breeden"
   ],
@@ -891,7 +965,9 @@
   "ocr_checked_against_image": false,
   "provision": "206",
   "aspect": "problem",
-  "notes": "Breeden names no individuals. Any named Enron hire from Andersen must come from another library source."
+  "notes": "Breeden names no individuals. Any named Enron hire from Andersen must come from another library source.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Prepared statement; verb set to 'said'. Verified."
  },
  {
   "id": "S-039",
@@ -907,7 +983,7 @@
    "lines": "4182-4184 (work/text copy)"
   },
   "source_type": "prepared statement submitted for a Senate hearing record",
-  "verb": "testified",
+  "verb": "said",
   "people": [
    "David M. Walker"
   ],
@@ -916,12 +992,14 @@
   "ocr_checked_against_image": false,
   "provision": "206",
   "aspect": "problem",
-  "notes": ""
+  "notes": "",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Prepared statement (Walker, Mar 5, 2002); verb set to 'said'. Verified."
  },
  {
   "id": "S-040",
   "topic": "Cooling-off: one year, not two",
-  "claim": "Bowsher and Lynn Turner urged a two-year cooling-off period and Deloitte's CEO opposed any; the Senate committee chose one year, applying only to audit-team members hired into top finance posts. If a company hires its audit engagement's accountant as CEO, it must change auditors.",
+  "claim": "Bowsher and Lynn Turner urged a two-year cooling-off period and Deloitte's CEO opposed any; the Senate committee chose one year, applying only to members of the audit team hired as the company's CEO, CFO, controller, chief accounting officer or equivalent. The committee said that if a company hires an accountant from the audit team as its CEO, for example, it would be required to change auditors.",
   "quote": "The Committee decided to impose a one-year cooling off period that would apply to an employee of the accounting firm who worked on the issuer's audit and subsequently seeks to be employed by that issuer in a senior management capacity.",
   "source_id": "sox-srpt-107-205",
   "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
@@ -943,7 +1021,9 @@
   "ocr_checked_against_image": false,
   "provision": "206",
   "aspect": "problem",
-  "notes": ""
+  "notes": "",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). FIXED: 'top finance posts' was inaccurate (CEO is covered); CEO example now attributed to the committee."
  },
  {
   "id": "S-041",
@@ -959,14 +1039,16 @@
    "lines": "1935-1938 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "implementation",
-  "notes": "The SEC's actual independence rules (early 2003) are not in the library (gap logged). Only the deadline can be stated."
+  "notes": "The SEC's actual independence rules (early 2003) are not in the library (gap logged). Only the deadline can be stated.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Verified."
  },
  {
   "id": "S-042",
@@ -989,7 +1071,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "implementation",
-  "notes": "DISAGREEMENT IN COUNTING: the statute lists nine items; the ninth is 'any other service that the Board determines, by regulation, is impermissible' (card C-074). The SEC counts the eight named services. Say 'eight named services, plus any the PCAOB adds'."
+  "notes": "DISAGREEMENT IN COUNTING: the statute lists nine items; the ninth is 'any other service that the Board determines, by regulation, is impermissible' (card C-074). The SEC counts the eight named services. Say 'eight named services, plus any the PCAOB adds'.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). SEC report: its list names eight services and omits the statute's ninth item ('any other service that the Board determines, by regulation, is impermissible', Sec. 201, line 1719). Site wording: 'The Act bans eight named services plus any other service the PCAOB bans by rule (the SEC's 2003 report counts eight categories).' Never write 'eight' or 'nine categories' without that explanation."
  },
  {
   "id": "S-043",
@@ -1005,14 +1089,16 @@
    "lines": "2084-2086 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "302",
   "aspect": "law",
-  "notes": "Basic certification is card C-076. Sec. 302(c): the SEC rules had to be effective within 30 days of enactment (line 2104)."
+  "notes": "Basic certification is card C-076. Sec. 302(c): the SEC rules had to be effective within 30 days of enactment (line 2104).",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Verified."
  },
  {
   "id": "S-044",
@@ -1038,7 +1124,9 @@
   "ocr_checked_against_image": false,
   "provision": "302",
   "aspect": "problem",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report. 'In effect the bill adopts this proposal' confirmed."
  },
  {
   "id": "S-045",
@@ -1061,7 +1149,9 @@
   "ocr_checked_against_image": false,
   "provision": "302",
   "aspect": "implementation",
-  "notes": "The release number is printed as '34-8124' in the SEC report; that may be a typographical variant, and the rule text itself is not in the library. Cite the date and title only, as given here (gap logged)."
+  "notes": "The release number is printed as '34-8124' in the SEC report; that may be a typographical variant, and the rule text itself is not in the library. Cite the date and title only, as given here (gap logged).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). SEC report fn. 103 confirmed; release number printed 'Rel. No. 34-8124' split across lines. Cite title and date only."
  },
  {
   "id": "S-046",
@@ -1077,7 +1167,7 @@
    "lines": "112-114 (work/text copy)"
   },
   "source_type": "presidential remarks (official record)",
-  "verb": "stated",
+  "verb": "said",
   "people": [
    "George W. Bush"
   ],
@@ -1086,7 +1176,9 @@
   "ocr_checked_against_image": false,
   "provision": "302",
   "aspect": "law",
-  "notes": "C-071 notes this sentence in passing; this card gives it its own locator. Right-hand column of p. 1284; the text copy splits 'of-/ficers' across lines."
+  "notes": "C-071 notes this sentence in passing; this card gives it its own locator. Right-hand column of p. 1284; the text copy splits 'of-/ficers' across lines.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Official record of presidential remarks; verb set to 'said'. Verified."
  },
  {
   "id": "S-047",
@@ -1111,7 +1203,9 @@
   "ocr_checked_against_image": false,
   "provision": "302",
   "aspect": "law",
-  "notes": "A signing statement is the President's reading of the law, not law itself."
+  "notes": "A signing statement is the President's reading of the law, not law itself.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Signing statement: the President's reading, not law. Verified."
  },
  {
   "id": "S-048",
@@ -1127,14 +1221,16 @@
    "lines": "3891-3893 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "906",
   "aspect": "law",
-  "notes": "Penalties ($1M/10 years knowing; $5M/20 years willful) are card C-077 (CRS) and lines 3903-3915 of the statute. Sec. 906 was a Senate floor addition; its origin is not documented in my reading."
+  "notes": "Penalties ($1M/10 years knowing; $5M/20 years willful) are card C-077 (CRS) and lines 3903-3915 of the statute. The legislative origin of Sec. 906 is not documented in the library sources read for these cards. [Fact-Checker: removed the unsupported statement that Sec. 906 'was a Senate floor addition'.]",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). FIXED (notes only): removed unsupported 'Sec. 906 was a Senate floor addition'. Verb set to 'requires'."
  },
  {
   "id": "S-049",
@@ -1150,14 +1246,16 @@
    "lines": "2812-2815 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "law",
-  "notes": "Core requirement is card C-078. Sec. 103(a)(2)(A)(iii) separately requires each audit report to describe the auditor's internal-control testing (card S-006)."
+  "notes": "Core requirement is card C-078. Sec. 103(a)(2)(A)(iii) separately requires each audit report to describe the auditor's internal-control testing (card S-006).",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Verified."
  },
  {
   "id": "S-050",
@@ -1182,7 +1280,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "problem",
-  "notes": "The 1991 rule for banks is Sec. 36 of the Federal Deposit Insurance Act, per the report."
+  "notes": "The 1991 rule for banks is Sec. 36 of the Federal Deposit Insurance Act, per the report.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report quoting Bowsher (fn. 63, Mar 19, 2002). Verified."
  },
  {
   "id": "S-051",
@@ -1205,7 +1305,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "problem",
-  "notes": "What Sec. 404 actually cost companies after 2003 is not covered by any library document (gap logged). Do not state later cost figures."
+  "notes": "What Sec. 404 actually cost companies after 2003 is not covered by any library document (gap logged). Do not state later cost figures.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report: statement of intent, not a result. Verified."
  },
  {
   "id": "S-052",
@@ -1221,14 +1323,16 @@
    "lines": "2602-2605 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "401",
   "aspect": "law",
-  "notes": "Same section adds 13(i): financial reports must reflect all material correcting adjustments the auditor identified."
+  "notes": "Same section adds 13(i): financial reports must reflect all material correcting adjustments the auditor identified.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Verified."
  },
  {
   "id": "S-053",
@@ -1244,14 +1348,16 @@
    "lines": "2662-2666 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "401",
   "aspect": "law",
-  "notes": "The SEC's resulting study (due after the off-balance-sheet rules took effect) is not in the library (gap logged)."
+  "notes": "The SEC's resulting study (due after the off-balance-sheet rules took effect) is not in the library (gap logged).",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Verified."
  },
  {
   "id": "S-054",
@@ -1276,7 +1382,9 @@
   "ocr_checked_against_image": false,
   "provision": "401",
   "aspect": "problem",
-  "notes": "The quoted Breeden phrase that follows is 'enhance[d] disclosure of \"off-balance sheet\" transactions and debt.'"
+  "notes": "The quoted Breeden phrase that follows is 'enhance[d] disclosure of \"off-balance sheet\" transactions and debt.'",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report. Verified."
  },
  {
   "id": "S-055",
@@ -1292,7 +1400,7 @@
    "lines": "4870-4871 (work/text copy)"
   },
   "source_type": "prepared statement submitted for a Senate hearing record",
-  "verb": "testified",
+  "verb": "said",
   "people": [
    "Richard C. Breeden"
   ],
@@ -1301,12 +1409,14 @@
   "ocr_checked_against_image": false,
   "provision": "401",
   "aspect": "problem",
-  "notes": "Breeden also said off-balance-sheet financing 'does not mean that such activity violates GAAP or is wrong' - keep that balance."
+  "notes": "Breeden also said off-balance-sheet financing 'does not mean that such activity violates GAAP or is wrong' - keep that balance.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Prepared statement; verb set to 'said'. Verified, including the 'does not mean ... violates GAAP' balance."
  },
  {
   "id": "S-056",
   "topic": "Senate floor: the SPE study amendment",
-  "claim": "On the Senate floor on July 12, 2002, Senator Schumer offered, with Senator Shelby, an amendment requiring an SEC study of special purpose entities, saying Enron had used such entities to take losses off its books; it was agreed to. Its text matches enacted Sec. 401(c).",
+  "claim": "On the Senate floor on July 12, 2002, Senator Schumer offered, for himself and Senator Shelby, an amendment requiring an SEC study of special purpose entities, saying Enron had used such entities to take losses off its books; it was agreed to (Amendment No. 4296). Its text closely matches enacted Sec. 401(c).",
   "quote": "We have seen, particularly most egregiously in the case of Enron, these have been entities that have been used to take losses off the books,",
   "source_id": "sox-hrg-banking-v3",
   "file": "sources/07-sox-legislative-history/shrg-107-948-v3-accounting-reform-investor-protection.pdf",
@@ -1317,7 +1427,7 @@
    "lines": "17208-17210 (work/text copy)"
   },
   "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
-  "verb": "stated",
+  "verb": "said",
   "people": [
    "Charles E. Schumer",
    "Richard C. Shelby"
@@ -1327,7 +1437,9 @@
   "ocr_checked_against_image": false,
   "provision": "401",
   "aspect": "problem",
-  "notes": "Floor remarks, not sworn testimony. Schumer's further statements about Fastow's fees and Raptor on the same page are his characterizations; take Enron SPE facts from the Powers Report cards, not from this speech."
+  "notes": "Floor remarks, not sworn testimony. Schumer's further statements about Fastow's fees and Raptor on the same page are his characterizations; take Enron SPE facts from the Powers Report cards, not from this speech.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). FIXED: 'with Senator Shelby' -> 'for himself and Senator Shelby' (clerk's reading); amendment number added; 'matches' -> 'closely matches'. Verb set to 'said'."
  },
  {
   "id": "S-057",
@@ -1350,7 +1462,9 @@
   "ocr_checked_against_image": false,
   "provision": "401",
   "aspect": "implementation",
-  "notes": "The proposal was Release Nos. 33-8144; 34-46767 (Nov. 4, 2002), per fn. 73 (PDF p. 33 [p. 29]). The rule text is not in the library."
+  "notes": "The proposal was Release Nos. 33-8144; 34-46767 (Nov. 4, 2002), per fn. 73 (PDF p. 33 [p. 29]). The rule text is not in the library.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). SEC report. Verified."
  },
  {
   "id": "S-058",
@@ -1373,7 +1487,9 @@
   "ocr_checked_against_image": false,
   "provision": "401",
   "aspect": "implementation",
-  "notes": "On PDF p. 34 [p. 30] the report says the SEC 'alleged' that Enron's former CFO and another official used entities they controlled to move items off the balance sheet (SEC charges filed Oct. 2, 2002). Use 'alleged'; outcomes must come from other library documents."
+  "notes": "On PDF p. 34 [p. 30] the report says the SEC 'alleged' that Enron's former CFO and another official used entities they controlled to move items off the balance sheet (SEC charges filed Oct. 2, 2002). Use 'alleged'; outcomes must come from other library documents.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). SEC report fn. 58 verified; Enron highlight on PDF 34 [p. 30] uses 'alleged'; A.A.E.R. No. 1640 dated Oct. 2, 2002 (fn., line 1728)."
  },
  {
   "id": "S-059",
@@ -1389,7 +1505,7 @@
    "lines": "246 (work/text copy)"
   },
   "source_type": "written congressional testimony (posted by the SEC)",
-  "verb": "testified",
+  "verb": "said",
   "people": [
    "Harvey Pitt"
   ],
@@ -1398,12 +1514,14 @@
   "ocr_checked_against_image": false,
   "provision": "401",
   "aspect": "problem",
-  "notes": ""
+  "notes": "",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Pitt's written testimony; verb set to 'said'. Verified."
  },
  {
   "id": "S-060",
   "topic": "SOX Sec. 402: no personal loans to executives",
-  "claim": "Section 402 makes it illegal for a public company, directly or through a subsidiary, to make, arrange or renew a personal loan to a director or executive officer. Loans already outstanding at enactment are allowed if not materially changed; ordinary consumer credit offered to the public on market terms is exempt.",
+  "claim": "Section 402 makes it illegal for a public company, directly or through a subsidiary, to extend, maintain, arrange or renew credit in the form of a personal loan to a director or executive officer. There are exceptions: loans already outstanding at enactment (if not materially changed); certain consumer credit, credit cards, home-improvement loans and broker margin loans made in the ordinary course of business on terms available to the public; and loans by insured banks that are subject to federal insider-lending limits.",
   "quote": "to extend or maintain credit, to arrange for the extension of credit, or to renew an extension of credit, in the form of a personal loan to or for any director or executive officer (or equivalent thereof) of that issuer.",
   "source_id": "sox-plaw-html",
   "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
@@ -1414,14 +1532,16 @@
    "lines": "2681-2685 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "402",
   "aspect": "law",
-  "notes": "CRS (CRS-8) says Sec. 402 'prohibits personal loans of any kind'; that overstates it, because the statute has exceptions (13(k)(2)-(3)). Follow the statute."
+  "notes": "CRS (CRS-8) says Sec. 402 'prohibits personal loans of any kind'; that overstates it, because the statute has exceptions (13(k)(2)-(3)). Follow the statute.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). FIXED: claim listed only one statutory exception; now lists all in 13(k)(1)-(3). CRS-8's 'of any kind' overstates the ban - follow the statute. Verb set to 'requires'."
  },
  {
   "id": "S-061",
@@ -1447,7 +1567,9 @@
   "ocr_checked_against_image": false,
   "provision": "402",
   "aspect": "problem",
-  "notes": "The report's source is a newspaper (Wall Street Journal, May 3, 2002), not an investigation. Check against Powers/PSI/Batson cards before stating the $70 million as fact; otherwise attribute to the committee report. The report spells the name 'Jeffery'."
+  "notes": "The report's source is a newspaper (Wall Street Journal, May 3, 2002), not an investigation. Check against Powers/PSI/Batson cards before stating the $70 million as fact; otherwise attribute to the committee report. The report spells the name 'Jeffery'.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Quote verified (fn. 59). The $70 million figure rests on a newspaper (Wall Street Journal, May 3, 2002) cited by the committee. It must NOT be stated as fact. Allowed: 'The Senate committee's report, citing the Wall Street Journal, said ...'. Other library sources give different figures for different periods: the SEC alleged Lay sold over $70 million in Enron stock in 2001 to repay advances on his line of credit (sec-lay-complaint p. 41, para. 101; card B-005: advances of $77,525,000, Jan 25-Nov 27, 2001); the JCT staff report says 25 withdrawals in 2001 totaling $77.5 million, all but $7.5 million repaid (rpt-jct-vol1 PDF 43 [p. 15], checked against the page image); the bankruptcy examiner concluded Lay borrowed and repaid with stock over $94 million, May 1999-Oct 2001 (card B-014). If the site needs a figure, use one of these with its attribution and period; do not merge them."
  },
  {
   "id": "S-062",
@@ -1470,7 +1592,9 @@
   "ocr_checked_against_image": false,
   "provision": "402",
   "aspect": "problem",
-  "notes": "See S-063 for the floor amendment."
+  "notes": "See S-063 for the floor amendment.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Committee report. Verified."
  },
  {
   "id": "S-063",
@@ -1486,7 +1610,7 @@
    "lines": "17104-17105 (work/text copy)"
   },
   "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
-  "verb": "stated",
+  "verb": "said",
   "people": [
    "Charles E. Schumer"
   ],
@@ -1495,12 +1619,14 @@
   "ocr_checked_against_image": false,
   "provision": "402",
   "aspect": "problem",
-  "notes": "Schumer said executives at Enron, WorldCom and Adelphia together received more than $5 billion in personal loans - his figure, not verified; it lumps the three companies together. He also cited President Bush's call the day before to end company loans to officers. Adoption: PDF p. 282 [p. 1438]."
+  "notes": "Schumer said executives at Enron, WorldCom and Adelphia together received more than $5 billion in personal loans - his figure, not verified; it lumps the three companies together. He also cited President Bush's call the day before to end company loans to officers. Adoption: PDF p. 282 [p. 1438].",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Floor statement: Schumer's characterization; verb set to 'said'. Amendment 4295 agreed to (PDF 282 [p. 1438]); Congressional Record for Friday, July 12, 2002. Schumer himself said the ban has 'certain narrow exceptions'. His '$5 billion' is his figure."
  },
  {
   "id": "S-064",
   "topic": "Leahy bill joined to Sarbanes bill",
-  "claim": "On July 9, 2002, Majority Leader Daschle offered, for Senator Leahy, the Corporate and Criminal Fraud Accountability Act (S. 2010) as an amendment to the Sarbanes bill, calling the two 'parts of a vital whole'. It became the basis of the Act's criminal provisions (Title VIII).",
+  "claim": "On July 9, 2002, Majority Leader Daschle offered, for Senator Leahy, an amendment identical to the Corporate and Criminal Fraud Accountability Act (S. 2010), calling it 'a necessary complement to the Sarbanes bill' and the two bills 'two parts of a vital whole'. Title VIII of the enacted Act carries the same name (Sec. 801).",
   "quote": "I view the Leahy amendment as a necessary complement to the Sarbanes bill.",
   "source_id": "sox-hrg-banking-v3",
   "file": "sources/07-sox-legislative-history/shrg-107-948-v3-accounting-reform-investor-protection.pdf",
@@ -1511,7 +1637,7 @@
    "lines": "4010-4011 (work/text copy)"
   },
   "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
-  "verb": "stated",
+  "verb": "said",
   "people": [
    "Tom Daschle",
    "Patrick J. Leahy"
@@ -1521,7 +1647,9 @@
   "ocr_checked_against_image": false,
   "provision": "802",
   "aspect": "problem",
-  "notes": "Title VIII of the Act carries the same short title ('Corporate and Criminal Fraud Accountability Act of 2002', CRS-10). Amendment offered on PDF p. 69 [p. 1225]."
+  "notes": "Title VIII of the Act carries the same short title ('Corporate and Criminal Fraud Accountability Act of 2002', CRS-10). Amendment offered on PDF p. 69 [p. 1225].",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). FIXED: 'became the basis of the Act's criminal provisions' was an inference; now states only that Title VIII carries the same name (Sec. 801, line 3487). Verb set to 'said'."
  },
  {
   "id": "S-065",
@@ -1537,7 +1665,7 @@
    "lines": "4056-4057 (work/text copy)"
   },
   "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
-  "verb": "stated",
+  "verb": "said",
   "people": [
    "Tom Daschle"
   ],
@@ -1546,7 +1674,9 @@
   "ocr_checked_against_image": false,
   "provision": "802",
   "aspect": "problem",
-  "notes": "The two provisions are 18 U.S.C. 1519 and 1520 (Sec. 802; card C-079). The text copy's next sentence reads 'As we say in the Arthur Andersen case' (likely a printing error for 'saw'); do not quote it. Andersen's conviction was later reversed (2005)."
+  "notes": "The two provisions are 18 U.S.C. 1519 and 1520 (Sec. 802; card C-079). The text copy's next sentence reads 'As we say in the Arthur Andersen case' (likely a printing error for 'saw'); do not quote it. Andersen's conviction was later reversed (2005).",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Floor statement; verb set to 'said'. Verified; do not quote the 'As we say' sentence. Andersen's conviction was later reversed (2005) - cite from library outcome cards."
  },
  {
   "id": "S-066",
@@ -1562,7 +1692,7 @@
    "lines": "4360-4363 (work/text copy)"
   },
   "source_type": "prepared statement submitted for a Senate hearing record",
-  "verb": "testified",
+  "verb": "said",
   "people": [
    "Richard C. Breeden"
   ],
@@ -1571,7 +1701,9 @@
   "ocr_checked_against_image": false,
   "provision": "802",
   "aspect": "problem",
-  "notes": "Breeden's characterization (Feb 2002), before Andersen's trial. Pair with the Andersen outcome cards."
+  "notes": "Breeden's characterization (Feb 2002), before Andersen's trial. Pair with the Andersen outcome cards.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Prepared statement; verb set to 'said'. Verified."
  },
  {
   "id": "S-067",
@@ -1587,14 +1719,16 @@
    "lines": "3950-3953 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "1102",
   "aspect": "law",
-  "notes": "Unlike 1519 (Sec. 802), this covers only 'official proceedings'. The Supreme Court's 2005 Andersen reversal concerned the older persuasion clause of 1512(b) (see C-044); do not link 1512(c) to that case without a source."
+  "notes": "Unlike 1519 (Sec. 802), this covers only 'official proceedings'. The Supreme Court's 2005 Andersen reversal concerned the older persuasion clause of 1512(b) (see C-044); do not link 1512(c) to that case without a source.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Verified."
  },
  {
   "id": "S-068",
@@ -1619,7 +1753,9 @@
   "ocr_checked_against_image": false,
   "provision": "1102",
   "aspect": "law",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Signing statement. Verified (source uses ``corruptly''; straight quotes in card)."
  },
  {
   "id": "S-069",
@@ -1635,14 +1771,16 @@
    "lines": "3741-3743 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "806",
   "aspect": "law",
-  "notes": "The protection itself is card C-080. The 90-day limit (lines 3727-3730) is short; CRS-11/12 confirms. Who enforced it at Labor (OSHA) is not stated in the library."
+  "notes": "The protection itself is card C-080. The 90-day limit (lines 3727-3730) is short; CRS-11/12 confirms. Who enforced it at Labor (OSHA) is not stated in the library.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. 180-day court option and remedies (incl. attorney fees) confirmed at lines 3700-3747."
  },
  {
   "id": "S-070",
@@ -1658,7 +1796,7 @@
    "lines": "4487-4488 (work/text copy)"
   },
   "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
-  "verb": "stated",
+  "verb": "said",
   "people": [
    "Patrick J. Leahy"
   ],
@@ -1667,7 +1805,9 @@
   "ocr_checked_against_image": false,
   "provision": "806",
   "aspect": "problem",
-  "notes": "Leahy does not name the law firm or the employee in this passage. His next remarks ('they wanted to fire the whistleblower') are his characterization; do not present as fact. Date: floor proceedings printed under July 9, 2002."
+  "notes": "Leahy does not name the law firm or the employee in this passage. His next remarks ('they wanted to fire the whistleblower') are his characterization; do not present as fact. Date: floor proceedings printed under July 9, 2002.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Floor statement; verb set to 'said'. Printed under July 9, 2002. Verified."
  },
  {
   "id": "S-071",
@@ -1683,7 +1823,7 @@
    "lines": "4065-4067 (work/text copy)"
   },
   "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
-  "verb": "stated",
+  "verb": "said",
   "people": [
    "Tom Daschle",
    "Sherron Watkins"
@@ -1693,12 +1833,14 @@
   "ocr_checked_against_image": false,
   "provision": "806",
   "aspect": "problem",
-  "notes": "Daschle's statement about the bill's effect; it does not say Watkins was retaliated against. Facts about Watkins come from other cards."
+  "notes": "Daschle's statement about the bill's effect; it does not say Watkins was retaliated against. Facts about Watkins come from other cards.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Floor statement; verb set to 'said'. Verified."
  },
  {
   "id": "S-072",
   "topic": "Stabenow asks about whistleblowers",
-  "claim": "At the first Senate Banking hearing (Feb 12, 2002), Senator Stabenow asked for whistleblower protections, saying many people at Enron appeared to know something was wrong but were held back by the corporate culture. She later wrote the audit committee anonymous-complaint rule (Sec. 301).",
+  "claim": "At the first Senate Banking hearing (Feb 12, 2002), Senator Stabenow asked about whistleblower protections, saying that at Enron 'it appears' many people knew something was wrong but were held back by the corporate culture. The committee's bill later included her amendment requiring audit committees to set up procedures for employees' anonymous submission of concerns (now Sec. 301).",
   "quote": "In the case of Enron, it appears that many people in the company knew what was going on was wrong, but were stuck in the corporate culture that prevented them from coming forward.",
   "source_id": "sox-hrg-banking-v1",
   "file": "sources/07-sox-legislative-history/shrg-107-948-v1-accounting-reform-investor-protection.pdf",
@@ -1710,7 +1852,7 @@
    "lines": "1110-1121 (work/text copy)"
   },
   "source_type": "senator's statement at a Senate hearing",
-  "verb": "stated",
+  "verb": "said",
   "people": [
    "Debbie Stabenow"
   ],
@@ -1719,7 +1861,9 @@
   "ocr_checked_against_image": false,
   "provision": "806",
   "aspect": "problem",
-  "notes": "Stabenow's amendment on anonymous employee submissions to audit committees: S. Rept. 107-205, PDF p. 29 [p. 25]; statute Sec. 301 (10A(m)(4)). 'It appears' - her impression, not a finding."
+  "notes": "Stabenow's amendment on anonymous employee submissions to audit committees: S. Rept. 107-205, PDF p. 29 [p. 25]; statute Sec. 301 (10A(m)(4)). 'It appears' - her impression, not a finding.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). FIXED: 'She later wrote' -> the committee bill 'included her amendment' (S. Rept. 107-205, PDF 29 [p. 25], lines 1727-1731); 'it appears' kept as her impression. Verb set to 'said'."
  },
  {
   "id": "S-073",
@@ -1744,7 +1888,9 @@
   "ocr_checked_against_image": false,
   "provision": "806",
   "aspect": "law",
-  "notes": "The statute text itself protects information given to 'any Member of Congress or any committee of Congress' (1514A(a)(1)(B)). The signing statement is a narrower reading, not an amendment."
+  "notes": "The statute text itself protects information given to 'any Member of Congress or any committee of Congress' (1514A(a)(1)(B)). The signing statement is a narrower reading, not an amendment.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Signing statement. Statute wording 'any Member of Congress or any committee of Congress' confirmed (line 3687)."
  },
  {
   "id": "S-074",
@@ -1760,14 +1906,16 @@
    "lines": "4142-4145 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "1107",
   "aspect": "law",
-  "notes": "Unlike Sec. 806 (civil, public-company employees only), Sec. 1107 is criminal and covers any person and any employer."
+  "notes": "Unlike Sec. 806 (civil, public-company employees only), Sec. 1107 is criminal and covers any person and any employer.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Verified."
  },
  {
   "id": "S-075",
@@ -1783,14 +1931,16 @@
    "lines": "3783-3784 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "requires",
   "people": [],
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "807",
   "aspect": "law",
-  "notes": ""
+  "notes": "",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Statute; verb set to 'requires'. Maximum is 25 years (line 3783). Also covers attempts and schemes to obtain money by false pretenses."
  },
  {
   "id": "S-076",
@@ -1806,7 +1956,7 @@
    "lines": "4050-4051 (work/text copy)"
   },
   "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
-  "verb": "stated",
+  "verb": "said",
   "people": [
    "Tom Daschle"
   ],
@@ -1815,7 +1965,9 @@
   "ocr_checked_against_image": false,
   "provision": "807",
   "aspect": "problem",
-  "notes": "The library does not show where the penalty rose to 25 years (the conference report has no section-by-section explanation). Report both figures; do not explain the change."
+  "notes": "The library does not show where the penalty rose to 25 years (the conference report has no section-by-section explanation). Report both figures; do not explain the change.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Floor statement; verb set to 'said'. Both figures verified: Daschle described a '10-year felony' (July 9, 2002); enacted Sec. 807 sets 'not more than 25 years' (card S-075). The library does not explain the change; do not explain it. Do not confuse with Bush's 'from 5 to 20 years' (signing remarks), which refers to other fraud penalties."
  },
  {
   "id": "S-077",
@@ -1838,7 +1990,9 @@
   "ocr_checked_against_image": false,
   "provision": "general",
   "aspect": "problem",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). CRS report. Verified."
  },
  {
   "id": "S-078",
@@ -1854,19 +2008,21 @@
    "lines": "4163 (work/text copy)"
   },
   "source_type": "statute",
-  "verb": "stated",
+  "verb": "records",
   "people": [],
   "event_date": "2002-07-25",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "general",
   "aspect": "law",
-  "notes": "The Senate Banking Committee voted 17-4 to report its bill on June 18, 2002 (S. Rept. 107-205, PDF p. 6 [p. 2])."
+  "notes": "The Senate Banking Committee voted 17-4 to report its bill on June 18, 2002 (S. Rept. 107-205, PDF p. 6 [p. 2]).",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). Legislative-history note printed at the end of the Public Law; verb set to 'records'. Senate 'passed, amended, in lieu of S. 2673' (i.e., passed H.R. 3763 as amended). 'Approved July 30, 2002' confirmed."
  },
  {
   "id": "S-079",
   "topic": "The conference report explains little",
-  "claim": "In conference, the Senate's text replaced the whole House bill; conferees met July 19 and 24, 2002. The joint explanatory statement only records this, with no section-by-section explanation.",
+  "claim": "The Senate had replaced the entire text of the House bill with its own; in conference, the House agreed with a substitute for both versions. Conferees met July 19 and 24, 2002. The joint explanatory statement records this but gives no section-by-section explanation.",
   "quote": "The Managers on the part of the House and the Senate met on July 19 and July 24, 2002 (the House chairing), and reconciled the differences between the House bill and the Senate amendment.",
   "source_id": "sox-hrpt-107-610",
   "file": "sources/07-sox-legislative-history/hrpt-107-610-sox-conference-report.pdf",
@@ -1884,7 +2040,9 @@
   "ocr_checked_against_image": false,
   "provision": "general",
   "aspect": "problem",
-  "notes": "Because the conference report gives no reasons for individual sections, the Senate report (S. Rept. 107-205) and floor debate are the best library sources for congressional purpose. Provisions added on the Senate floor (e.g. Sec. 402's ban, Title VIII) have no committee report explanation."
+  "notes": "Because the conference report gives no reasons for individual sections, the Senate report (S. Rept. 107-205) and floor debate are the best library sources for congressional purpose. Provisions added on the Senate floor (e.g. Sec. 402's ban, Title VIII) have no committee report explanation.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). FIXED: the claim said the Senate text replaced the House bill 'in conference'. The statement says the Senate amendment struck the House bill and the House receded 'with an amendment that is a substitute for the House bill and the Senate amendment'. Confirmed no section-by-section explanation (PDF 69-70)."
  },
  {
   "id": "S-080",
@@ -1907,6 +2065,8 @@
   "ocr_checked_against_image": false,
   "provision": "general",
   "aspect": "implementation",
-  "notes": "Same summary: the SEC charged 18 audit firms and 89 individual auditors in the period (PDF p. 7 [p. 3]). The study was required by SOX Sec. 704. Enron is not counted in these statistics."
+  "notes": "Same summary: the SEC charged 18 audit firms and 89 individual auditors in the period (PDF p. 7 [p. 3]). The study was required by SOX Sec. 704. Enron is not counted in these statistics.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). SEC report executive summary; 515 actions from 227 investigations, 126 revenue-recognition matters, 18 audit firms and 89 auditors confirmed (PDF 5-7)."
  }
 ]

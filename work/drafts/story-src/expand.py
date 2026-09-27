@@ -9,12 +9,12 @@ import csv, html, json, re, sys, os
 
 ROOT = '/home/user/enron-dryrun'
 cards = {}
-for f in ['reader-a', 'reader-b', 'reader-c', 'reader-followup', 'reader-revision']:
+for f in ['reader-a', 'reader-b', 'reader-c', 'reader-followup', 'reader-revision', 'reader-banks']:
     for c in json.load(open(f'{ROOT}/work/facts/{f}.json')):
         cards[c['id']] = c
 manifest = {r['id']: r for r in csv.DictReader(open(f'{ROOT}/sources/manifest.csv'))}
 
-PAT = re.compile(r'\{\{([A-CFG]-\d{3})(?:!([a-z0-9-]+))?(?:@([^#}]+))?(?:#(\d+))?\}\}')
+PAT = re.compile(r'\{\{([A-CFGK]-\d{3})(?:!([a-z0-9-]+))?(?:@([^#}]+))?(?:#(\d+))?\}\}')
 errors = []
 used = []
 
@@ -70,8 +70,9 @@ def repl(m):
 
 def main():
     srcdir, outdir = sys.argv[1], sys.argv[2]
-    for n in range(1, 8):
-        p = os.path.join(srcdir, f'ch{n}.src.html')
+    names = [f'ch{n}' for n in range(1, 8)] + ['banks']
+    for n in names:
+        p = os.path.join(srcdir, f'{n}.src.html')
         if not os.path.exists(p):
             continue
         txt = open(p).read()
@@ -79,11 +80,11 @@ def main():
         out = PAT.sub(repl, txt)
         left = re.findall(r'\{\{[^}]*\}\}', out)
         if left:
-            errors.append(f'ch{n}: unexpanded markers {left}')
-        open(os.path.join(outdir, f'ch{n}.html'), 'w').write(out)
+            errors.append(f'{n}: unexpanded markers {left}')
+        open(os.path.join(outdir, f'{n}.html'), 'w').write(out)
         body = re.sub(r'<[^>]+>', ' ', re.sub(r'<a class="cite".*?</a>', '', out))
         words = len(re.findall(r"[A-Za-z0-9$%.,'’-]+", body))
-        print(f'ch{n}: {len(used)-before} cites, ~{words} words')
+        print(f'{n}: {len(used)-before} cites, ~{words} words')
     print('cards used:', len(set(used)))
     if errors:
         print('ERRORS:')

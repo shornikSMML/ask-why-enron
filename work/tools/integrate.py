@@ -136,11 +136,14 @@ LENS_IDS = ["money", "auditors", "board", "knew"]
 
 
 def draft_paragraphs(n):
-    """<p> elements of work/drafts/chN.html in order (the dek counts; 0-based index)."""
-    frag = read(DRAFTS / f"ch{n}.html")
+    """Body <p> elements of work/drafts/chN.html in order, as the lens data counts them
+    (para_index = position + 1; the dek and the Ask Why box are skipped)."""
+    frag = re.sub(r'<aside class="ask-why".*?</aside>', "", read(DRAFTS / f"ch{n}.html"), flags=re.S)
     out = []
     for m in re.finditer(r"<p((?:\s[^>]*)?)>(.*?)</p>", frag, re.S):
         attrs, inner = m.group(1), m.group(2)
+        if 'class="dek"' in attrs:
+            continue
         lens = re.search(r'data-lens="([^"]*)"', attrs)
         text = strip_tags(re.sub(r'<a class="cite".*?</a>', "", inner, flags=re.S))
         out.append({"lens": (lens.group(1).split() if lens else []), "text": text})
@@ -154,7 +157,7 @@ def sample_lenses():
         ch = {}
         for lens in LENS_IDS:
             tagged = [(i, p) for i, p in enumerate(paras) if lens in p["lens"]]
-            notes = [{"para_index": i, "para_start": " ".join(p["text"].split()[:8]),
+            notes = [{"para_index": i + 1, "para_start": " ".join(p["text"].split()[:8]),
                       "text": f"[Sample note] Layout test text for the {lens} lens on this paragraph. The real note is being written.",
                       "cites": [{"card": "SAMPLE", "source_id": "powers-report-sec", "page": None, "loc": "[sample locator]"}]}
                      for k, (i, p) in enumerate(tagged) if k % 2 == 0]
@@ -219,7 +222,10 @@ def wrap_phase2():
     src = DRAFTS / "footnote-others.json"
     if src.exists():
         data = json.loads(read(src))
-        text = ("// Generated from work/drafts/footnote-others.json by work/tools/integrate.py. Edit the JSON, then re-run.\n"
+        intro_p = DRAFTS / "footnote-others-intro.txt"
+        intro = read(intro_p).strip() if intro_p.exists() else ""
+        text = ("// Generated from work/drafts/footnote-others.json (and footnote-others-intro.txt) by work/tools/integrate.py. Edit those, then re-run.\n"
+                f"window.FOOTNOTE_OTHERS_INTRO = {json.dumps(intro, ensure_ascii=False)};\n"
                 f"window.FOOTNOTE_OTHERS = {json.dumps(data, indent=1, ensure_ascii=False)};\n")
     else:
         text = ("// work/drafts/footnote-others.json does not exist yet: no \"Other notes\" section is shown,\n"
@@ -338,6 +344,26 @@ def static_checks(footnote, usage):
             for c in part.get("cites", []):
                 check_src(f"footnote {key}", c.get("source_id"))
 
+    lp = DRAFTS / "lenses.json"
+    if lp.exists():
+        for ch, lenses in json.loads(read(lp)).items():
+            if ch.startswith("_"):
+                continue
+            for lens, d in lenses.items():
+                items = d.get("notes", []) + [b for b in d.get("summary", []) if isinstance(b, dict)] + d.get("strip", [])
+                for it in items:
+                    for c in it.get("cites", []) or []:
+                        check_src(f"lenses {ch} {lens}", c.get("source_id"))
+    pp = DRAFTS / "pathways.json"
+    if pp.exists():
+        pdata = json.loads(read(pp))
+        for pw in (pdata.get("pathways", []) if isinstance(pdata, dict) else pdata):
+            for i, st in enumerate(pw.get("stops", []), 1):
+                f = (st.get("page") or "").split("?")[0].split("#")[0]
+                if f and not (ROOT / f).exists():
+                    problems.append(f"pathway {pw.get('id')} stop {i}: page {f} does not exist")
+                for c in st.get("cites", []) or []:
+                    check_src(f"pathway {pw.get('id')} stop {i}", c.get("source_id"))
     others_p = DRAFTS / "footnote-others.json"
     if others_p.exists():
         others = json.loads(read(others_p))
@@ -345,8 +371,11 @@ def static_checks(footnote, usage):
             others = others.get("notes") or others.get("items") or []
         for o in others:
             check_src(f"footnote-others {o.get('id')}", o.get("source_id"))
-            for c in o.get("cites", []) or []:
+            for c in (o.get("cites", []) or []) + [e for e in (o.get("excerpt") or []) if isinstance(e, dict)]:
                 check_src(f"footnote-others {o.get('id')}", c.get("source_id"))
+            for t in o.get("glossary_terms", []) or []:
+                if t not in glossary:
+                    problems.append(f"footnote-others {o.get('id')}: glossary id '{t}' not in js/glossary-data.js")
     unused = sorted(set(credits) - set(usage))
     if unused:
         print("  note: images in credits but not shown on any page: " + ", ".join(unused))

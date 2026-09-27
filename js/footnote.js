@@ -87,6 +87,7 @@
   if (!Array.isArray(OTHERS)) OTHERS = OTHERS.notes || OTHERS.items || [];
   if (OTHERS.length) {
     out += '<section class="fn-others" aria-labelledby="fn-others-h"><h2 id="fn-others-h">Other notes in the same report</h2>' +
+      (window.FOOTNOTE_OTHERS_INTRO ? String(window.FOOTNOTE_OTHERS_INTRO).split(/\n{2,}/).map(function (t) { return "<p>" + esc(t.trim()) + "</p>"; }).join("") : "") +
       OTHERS.map(function (o) {
         var ex = o.excerpt == null ? [] : (Array.isArray(o.excerpt) ? o.excerpt : [o.excerpt]);
         var src = o.source_id ? A.sourceRefHTML({ source_id: o.source_id, loc: o.lines ? "lines " + o.lines : (o.loc || "") })
@@ -94,11 +95,17 @@
         return '<section class="fn-other" id="' + esc(o.id) + '" aria-labelledby="' + esc(o.id) + '-h">' +
           '<h3 id="' + esc(o.id) + '-h">' + esc(o.title || o.id) + "</h3>" +
           (src ? '<p class="fn-source">' + src + "</p>" : "") +
-          ex.map(function (e) { return '<blockquote class="fn-excerpt">' + esc(typeof e === "string" ? e : e.text || "") + "</blockquote>"; }).join("") +
+          ex.map(function (e) {
+            if (typeof e === "string") return '<blockquote class="fn-excerpt">' + esc(e) + "</blockquote>";
+            var where = [e.where, e.lines ? "lines " + e.lines : ""].filter(Boolean).join(", ");
+            return '<blockquote class="fn-excerpt">' + esc(e.text || "") +
+              (where ? '<footer class="fn-excerpt-src">' + (e.source_id && e.source_id !== o.source_id ? A.sourceRefHTML({ source_id: e.source_id, loc: where }) : esc(where)) + "</footer>" : "") + "</blockquote>";
+          }).join("") +
           (o.said ? "<h4>What it said</h4><p>" + esc(o.said) + "</p>" : "") +
           (o.left_out ? "<h4>What it left out</h4><p>" + esc(o.left_out) + "</p>" : "") +
           (o.found ? "<h4>What later filings and investigations found</h4><p>" + esc(o.found) + "</p>" : "") +
           ((o.cites || []).length ? '<p class="fn-other-cites">Sources: ' + o.cites.map(A.citeTag).join("") + "</p>" : "") +
+          termsHTML(o.glossary_terms) +
           "</section>";
       }).join("") + "</section>";
   }

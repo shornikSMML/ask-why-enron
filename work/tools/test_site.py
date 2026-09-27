@@ -166,7 +166,7 @@ def phase2_tests(browser, problems, notes):
             for u in r["untagged"]:
                 problems.append(f"[lens] ch{n} {lens}: note is on a paragraph not tagged data-lens={lens}: {u}")
             for u in r["byText"]:
-                problems.append(f"[lens] ch{n} {lens}: para_index does not match; found by text only: {u}")
+                problems.append(f"[lens] ch{n} {lens}: para_index does not follow the agreed count: {u}")
         notes.append(f"lens ch{n}: {rep['paragraphs']} paragraphs, {tot['matched']}/{tot['notes']} notes matched")
         for lens in LENS_IDS:
             page.evaluate(f"applyLens('{lens}')"); page.wait_for_timeout(80)
@@ -246,11 +246,16 @@ def phase2_tests(browser, problems, notes):
     ctx = browser.new_context(viewport={"width": 1440, "height": 900})
     page = ctx.new_page()
     page.goto(url("pathways.html")); page.wait_for_timeout(150)
-    paths = page.evaluate("AskWhy.pathways.list().map(p => ({id: p.id, n: (p.stops||[]).length, stops: (p.stops||[]).map(s => ({page: s.page, anchor: s.anchor}))}))")
+    paths = page.evaluate("AskWhy.pathways.list().map(p => ({id: p.id, n: (p.stops||[]).length, stops: (p.stops||[]).map(s => ({page: s.page, anchor: s.anchor, fallback: s.fallback || null}))}))")
     psample = page.evaluate("!!window.PATHWAYS_SAMPLE")
     notes.append(f"pathways: {len(paths)} ({'SAMPLE data' if psample else 'from work/drafts/pathways.json'}): " + ", ".join(f"{p['id']} ({p['n']} stops)" for p in paths))
-    fuzzy = []
+    import re as _re
+    def stop_url(pid, i, st):
+        pg = st.get("page") or "index.html"
+        a = (st.get("anchor") or "").lstrip("#")
+        return url(pg + ("&" if "?" in pg else "?") + f"path={pid}&stop={i}" + (f"#{a}" if a else ""))
     shots = 0
+    used_fallback = []
     for pw_ in paths:
         for i, st in enumerate(pw_["stops"], 1):
             pg = (st["page"] or "").split("#")[0]
@@ -258,27 +263,42 @@ def phase2_tests(browser, problems, notes):
             if not (ROOT / file_part).exists():
                 problems.append(f"[pathway] {pw_['id']} stop {i}: page {file_part} does not exist")
                 continue
-            href = page.evaluate(f"AskWhy.pathways.stopHref(AskWhy.pathways.find({pw_['id']!r}), {i})")
-            page.goto((ROOT / "pathways.html").as_uri().rsplit("/", 1)[0] + "/" + href); page.wait_for_timeout(150)
+            page.goto(stop_url(pw_["id"], i, st)); page.wait_for_timeout(150)
+            page.wait_for_load_state(); page.wait_for_timeout(100)   # a fallback redirect may have happened
             if page.locator(".pathway-bar .pw-count").count() != 1:
                 problems.append(f"[pathway] {pw_['id']} stop {i}: pathway bar missing on {pg}")
             anchor = (st.get("anchor") or "").lstrip("#")
+            r = page.evaluate("AskWhy.pathwayStop || null")
             if anchor:
-                r = page.evaluate("AskWhy.pathwayStop || null")
                 if not r or not r.get("resolved"):
-                    problems.append(f"[pathway] {pw_['id']} stop {i}: anchor #{anchor} not found on {file_part}")
-                elif not r.get("exact"):
-                    fuzzy.append(f"{pw_['id']} stop {i}: {file_part}#{anchor} -> #{r['resolved']}")
-            m = __import__("re").search(r"[?&]lens=([a-z]+)", pg)
+                    problems.append(f"[pathway] {pw_['id']} stop {i}: #{anchor} not found on {file_part}" + (" (nor its fallback)" if st.get("fallback") else ""))
+                elif r.get("fallback"):
+                    used_fallback.append(f"{pw_['id']} stop {i}: {file_part}#{anchor} -> fallback #{r['resolved']}")
+            here = page.url
+            m = _re.search(r"[?&]lens=([a-z]+)", here)
             if m and page.evaluate("document.documentElement.getAttribute('data-lens')") != m.group(1):
                 problems.append(f"[pathway] {pw_['id']} stop {i}: lens {m.group(1)} not switched on")
-            m = __import__("re").search(r"[?&]tag=([a-z-]+)", pg)
+            m = _re.search(r"[?&]tag=([a-z-]+)", here)
             if m and page.locator('#tl-filters button[aria-pressed="true"]').get_attribute("data-tag") != m.group(1):
                 problems.append(f"[pathway] {pw_['id']} stop {i}: timeline tag {m.group(1)} not applied")
-            if shots < 4 and file_part in ("cast.html", "timeline.html", "footnote.html", "banks.html", "why-it-matters.html", "glossary.html") and anchor:
+            if shots < 5 and file_part in ("cast.html", "timeline.html", "footnote.html", "banks.html", "why-it-matters.html", "glossary.html"):
                 page.screenshot(path=str(SHOTS / f"desktop-light-pathway-{pw_['id']}-stop{i}.png")); shots += 1
-    for f in fuzzy:
-        notes.append("pathway anchor matched by heading words, not an exact id: " + f)
+    # anchors promised in work/drafts/pathway-anchor-requests.md, even if no pathway uses them yet
+    page.goto(url("timeline.html")); page.wait_for_timeout(150)
+    for tid in ("tl-2001-10-lockdown", "tl-2001-10-special-committee", "tl-1992"):
+        if not page.locator(f"#{tid}").count():
+            problems.append(f"[anchors] timeline.html#{tid} missing")
+    page.goto(url("footnote.html#fn-06")); page.wait_for_timeout(200)
+    if page.locator("#anno-panel .phrase").count() == 0 or "fn-06" not in (page.evaluate("document.querySelector('mark.anno.is-active') && document.querySelector('mark.anno.is-active').id") or ""):
+        problems.append("[anchors] footnote.html#fn-06 did not open annotation fn-06")
+    for n in range(1, 8):
+        page.goto(url(f"chapters/ch{n}.html")); page.wait_for_timeout(100)
+        auto = page.evaluate("[...document.querySelectorAll('#chapter h2')].filter(h=>!h.closest('aside.ask-why')).map(h=>h.id)")
+        if not page.locator("#ask-why").count():
+            problems.append(f"[anchors] ch{n}: #ask-why missing")
+        notes.append(f"anchors ch{n}: " + " ".join("#" + a for a in auto))
+    for f in used_fallback:
+        notes.append("pathway stop uses its fallback (main section not written yet): " + f)
     page.goto(url("pathways.html")); page.wait_for_timeout(150)
     page.screenshot(path=str(SHOTS / "desktop-light-pathways.png"), full_page=True)
     if paths:
@@ -291,8 +311,7 @@ def phase2_tests(browser, problems, notes):
     page = ctx.new_page()
     if paths and paths[0]["n"] > 1:
         page.goto(url("pathways.html")); page.wait_for_timeout(100)
-        href = page.evaluate(f"AskWhy.pathways.stopHref(AskWhy.pathways.find({paths[0]['id']!r}), 2)")
-        page.goto((ROOT / "pathways.html").as_uri().rsplit("/", 1)[0] + "/" + href); page.wait_for_timeout(200)
+        page.goto(stop_url(paths[0]["id"], 2, paths[0]["stops"][1])); page.wait_for_timeout(250)
         page.screenshot(path=str(SHOTS / "phone-light-pathway-bar.png"))
         ov = page.evaluate("document.documentElement.scrollWidth - document.documentElement.clientWidth")
         if ov > 0:

@@ -63,3 +63,15 @@ Written by the Footnote Annotator. The ids match the `glossary_terms` values in 
 | counterparty | counterparty | The other party to a contract or deal. | fn-29 |
 | trust | trust | A legal arrangement in which one party holds assets for the benefit of others. SPEs were often set up as trusts. | fn-30 |
 | side-deal | side deal | An undocumented or undisclosed promise made alongside a formal contract. | fn-31 |
+
+## Added for "Other notes in the same report" (Phase 2)
+
+These terms are used in `work/drafts/footnote-others.json` but are not yet in `js/glossary-data.js`, so the JSON does not tag them. If the glossary writer adds them, tag them in the entries shown.
+
+| id | term | suggested plain definition | entry |
+|---|---|---|---|
+| guarantee | guarantee | A promise to pay someone else's debt if they do not. | note-15 |
+| letter-of-credit | letter of credit | A bank's promise to pay a seller or lender on a customer's behalf if the customer does not. | note-15 |
+| recourse | recourse (borrowing "on a recourse basis") | The lender can come back to the borrower, here Enron, for repayment if the pledged assets fall short. | note-15 |
+| value-at-risk | value at risk | A statistical estimate of how much a trading book could lose over a short period under normal market conditions. | note-4 |
+| trigger-event | trigger event | A specified event, such as a credit downgrade or a stock price falling below a set level, that makes a debt come due early. | q3-10q |

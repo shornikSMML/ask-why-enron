@@ -3,12 +3,12 @@
      { "ch3": { "money": { notes: [{para_index, para_start, text, cites:[{card, source_id, page, loc}]}],
                            summary: ["..."], ask_why: "..." },
                 "knew":  { ..., strip: [{date, who|person, what, cites|cite}] } } }
-   Paragraph matching: the chapter's paragraphs are the <p> elements between the
-   CONTENT START and CONTENT END comments, in order (the dek counts). A note is placed
-   on paragraph number para_index if that paragraph starts with para_start; the
-   script accepts 0- or 1-based numbering, with or without the dek, and otherwise
-   falls back to a unique text match (with a console warning). Unmatched notes are
-   reported in window.AskWhy.lensReport and by work/tools/test_site.py.
+   Paragraph matching: para_index counts the chapter's <p> elements from 1, skipping
+   the dek and the Ask Why box (work/drafts/lens-requests.md); the paragraph must start
+   with para_start. Other numberings and a unique text match are accepted with a
+   console warning. Unmatched notes are reported in window.AskWhy.lensReport and by
+   work/tools/test_site.py. Summary bullets and strip entries may be strings or
+   {text, cites} / {date, who, what, cites}; a top-level "_meta" key is ignored.
    State: ?lens=money in the URL, remembered per browser. Keys: 1-4 choose, 0 turns off. */
 (function () {
   "use strict";
@@ -65,12 +65,16 @@
     if (!b) return false;
     return a.indexOf(b) === 0 || a.indexOf(b.split(" ").slice(0, 6).join(" ")) === 0;
   }
+  // Convention (work/drafts/lens-requests.md): para_index counts the chapter's <p>
+  // elements from 1, skipping <p class="dek"> and any <p> inside <aside class="ask-why">.
+  // Other conventions (0-based, dek included) are tried next, then a unique text match.
   function matchParagraph(note) {
     var idx = parseInt(note.para_index, 10);
+    var body = PARAS.filter(function (p) { return !p.classList.contains("dek") && !p.closest("aside.ask-why"); });
+    if (!isNaN(idx) && body[idx - 1] && startsWith(body[idx - 1], note.para_start)) return { p: body[idx - 1], how: "index" };
     var noDek = PARAS.filter(function (p) { return !p.classList.contains("dek"); });
-    var tries = [];
-    if (!isNaN(idx)) tries = [PARAS[idx], PARAS[idx - 1], noDek[idx], noDek[idx - 1]];
-    for (var i = 0; i < tries.length; i++) if (tries[i] && startsWith(tries[i], note.para_start)) return { p: tries[i], how: "index" };
+    var tries = isNaN(idx) ? [] : [body[idx], PARAS[idx], PARAS[idx - 1], noDek[idx], noDek[idx - 1]];
+    for (var i = 0; i < tries.length; i++) if (tries[i] && startsWith(tries[i], note.para_start)) return { p: tries[i], how: "other-index" };
     var hits = PARAS.filter(function (p) { return startsWith(p, note.para_start); });
     if (hits.length === 1) return { p: hits[0], how: "text" };
     return { p: null, how: hits.length > 1 ? "ambiguous" : "none" };
@@ -85,6 +89,14 @@
       return A.sourceRefHTML({ source_id: c.source_id, pdf_page: c.pdf_page != null ? c.pdf_page : c.page, loc: c.loc, card: c.card })
         .replace('<span class="loc">', ' <span class="loc">');
     }).join("; ") + "</span>";
+  }
+  var MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+  function fmtDate(d) {
+    var m = /^(\d{4})(?:-(\d{2}))?(?:-(\d{2}))?$/.exec(String(d || "").trim());
+    if (!m) return String(d || "");
+    if (!m[2]) return m[1];
+    var mon = MONTHS[parseInt(m[2], 10) - 1] || m[2];
+    return m[3] ? mon + " " + parseInt(m[3], 10) + ", " + m[1] : mon + " " + m[1];
   }
   function noteBody(n) { return "<p>" + esc(n.text || "") + "</p>" + (refs(n.cites) ? "<p class=\"lens-src-line\">Source: " + refs(n.cites) + "</p>" : ""); }
 
@@ -112,14 +124,14 @@
     var rep = report.lenses[lensId] = { notes: (d.notes || []).length, matched: 0, unmatched: [], untagged: [], byText: [] };
     (d.notes || []).forEach(function (n, i) {
       var m = matchParagraph(n);
-      var label = "note " + (i + 1) + " (para_index " + n.para_index + ': "' + String(n.para_start || "").slice(0, 40) + '")';
+      var label = "note " + (i + 1) + " (" + (n.para_key || "para_index " + n.para_index) + ': "' + String(n.para_start || "").slice(0, 40) + '")';
       if (!m.p) {
         rep.unmatched.push(label + " — " + m.how);
         console.warn("Lens " + lensId + ": could not match " + label);
         return;
       }
       rep.matched++;
-      if (m.how === "text") { rep.byText.push(label); console.warn("Lens " + lensId + ": matched by text, not by para_index: " + label); }
+      if (m.how !== "index") { rep.byText.push(label + " — " + m.how); console.warn("Lens " + lensId + ": para_index does not follow the agreed count (" + m.how + "): " + label); }
       if (!(" " + (m.p.getAttribute("data-lens") || "") + " ").match(new RegExp(" " + lensId + " "))) {
         rep.untagged.push(label);
         console.warn("Lens " + lensId + ": note is on a paragraph not tagged " + lensId + ": " + label);
@@ -170,7 +182,7 @@
       sec.className = "knew-strip";
       sec.setAttribute("aria-label", "Who knew what, when, in this chapter");
       sec.innerHTML = "<h2>Who knew what, when</h2>" + (strip.length ? '<ol>' + strip.map(function (s) {
-        return '<li><span class="k-date">' + esc(s.date || "") + '</span><span class="k-who">' + esc(s.who || s.person || s.body || "") + "</span>" +
+        return '<li><span class="k-date"><time datetime="' + esc(s.date || "") + '">' + esc(fmtDate(s.date)) + "</time></span>" + '</span><span class="k-who">' + esc(s.who || s.person || s.body || "") + "</span>" +
           '<span class="k-what">' + esc(s.what || s.text || "") + "</span>" + (refs(s.cites || s.cite) ? '<span class="k-src">' + refs(s.cites || s.cite) + "</span>" : "") + "</li>";
       }).join("") + "</ol>" : '<p class="none">No dated entries for this chapter.</p>');
       var dek = document.querySelector("#chapter .dek") || document.querySelector("#chapter h1");

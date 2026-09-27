@@ -20,7 +20,9 @@
   "event_date": "2002-07-23",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Roach and Gary Brown were sworn at PDF p. 31 (lines 1961-1968). Roach was subcommittee staff, so his testimony presents the staff's investigation, not a court finding. Existing card A-072 already gives the PSI report's '$8 billion' summary. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "Roach and Gary Brown were sworn at PDF p. 31 (lines 1961-1968). Roach was subcommittee staff, so his testimony presents the staff's investigation, not a court finding. Existing card A-072 already gives the PSI report's '$8 billion' summary. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Oath verified: Roach and Brown sworn (PDF 31, lines ~1955-1968, 'Mr. ROACH. I do.'). Claim and verb 'testified' correct; attributed to the staff investigator, not a finding."
  },
  {
   "id": "K-002",
@@ -43,7 +45,9 @@
   "event_date": "2002-07-23",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "JPMorgan Chase's witness disputed that Chase controlled Mahonia (see the Dellapina card). Good basis for a diagram: Chase -> Mahonia -> Enron -> (deliveries) -> Mahonia -> Chase. Roach called this a 'simplified version'. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "JPMorgan Chase's witness disputed that Chase controlled Mahonia (see the Dellapina card). Good basis for a diagram: Chase -> Mahonia -> Enron -> (deliveries) -> Mahonia -> Chase. Roach called this a 'simplified version'. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Oath verified: Roach and Brown sworn (PDF 31, lines ~1955-1968, 'Mr. ROACH. I do.'). MAHONIA CONTROL: the claim attributes the 'shell corporation' description to Roach; the dispute is recorded in K-010 and K-045 notes."
  },
  {
   "id": "K-003",
@@ -66,7 +70,9 @@
   "event_date": "2002-07-23",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Four elements listed at lines 2097-2112 (PDF pp. 33-34). Plain-language explanation for the Mark-to-Market / Banks pathway. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "Four elements listed at lines 2097-2112 (PDF pp. 33-34). Plain-language explanation for the Mark-to-Market / Banks pathway. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Oath verified: Roach and Brown sworn (PDF 31, lines ~1955-1968, 'Mr. ROACH. I do.'). Claim and verb 'testified' correct; attributed to the staff investigator, not a finding."
  },
  {
   "id": "K-004",
@@ -89,7 +95,9 @@
   "event_date": "1992/2001",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "SOURCES DIFFER SLIGHTLY: the bankruptcy examiner's Final Report, Appendix G (Toronto Dominion), p. 62 (PDF 64), gives Citigroup's prepay volume as $4.7 billion and JPMorgan Chase's as $3.7 billion. Say 'about $4.7-4.8 billion' or cite both. Roach said prepays began 'around 1992' and the full amount 'may be much larger'. event_date is a range, not a single date."
+  "notes": "SOURCES DIFFER SLIGHTLY: the bankruptcy examiner's Final Report, Appendix G (Toronto Dominion), p. 62 (PDF 64), gives Citigroup's prepay volume as $4.7 billion and JPMorgan Chase's as $3.7 billion. Say 'about $4.7-4.8 billion' or cite both. Roach said prepays began 'around 1992' and the full amount 'may be much larger'. event_date is a range, not a single date.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Oath verified: Roach and Brown sworn (PDF 31, lines ~1955-1968, 'Mr. ROACH. I do.'). DISAGREEMENT CONFIRMED on the page image: Batson Final App. G, printed p. 62 (PDF 64) gives Citigroup $4.7 billion and JPMorgan Chase $3.7 billion; Roach gives $4.8 billion (14 deals) and $3.7 billion (12 deals). Say 'about $4.7-4.8 billion' or give both with attribution."
  },
  {
   "id": "K-005",
@@ -112,7 +120,9 @@
   "event_date": null,
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Striking 'Ask Why' detail. Only one source in the library for it; attribute to Roach's testimony. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "Striking 'Ask Why' detail. Only one source in the library for it; attribute to Roach's testimony. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Oath verified: Roach and Brown sworn (PDF 31, lines ~1955-1968, 'Mr. ROACH. I do.'). Claim and verb 'testified' correct; attributed to the staff investigator, not a finding."
  },
  {
   "id": "K-006",
@@ -135,7 +145,9 @@
   "event_date": "2000-12-31",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Staff's own restatement estimate, not an audited figure. Reported 2000 figures he used: total debt about $10 billion, funds flow from operations about $3.2 billion. Good chart for the Follow the Money lens (label it 'Senate staff estimate')."
+  "notes": "Staff's own restatement estimate, not an audited figure. Reported 2000 figures he used: total debt about $10 billion, funds flow from operations about $3.2 billion. Good chart for the Follow the Money lens (label it 'Senate staff estimate').",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Oath verified: Roach and Brown sworn (PDF 31, lines ~1955-1968, 'Mr. ROACH. I do.'). Claim and verb 'testified' correct; attributed to the staff investigator, not a finding."
  },
  {
   "id": "K-007",
@@ -158,7 +170,9 @@
   "event_date": "2001-12",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "A senator's opening statement is advocacy by a committee member, not testimony or a finding. Attribute as 'Senator Levin said'. Compare Enron's Nov. 19, 2001 bank presentation: $4.822 billion of 'Commodity Transactions with Financial Institutions' at 9/30/01 (see Batson card). Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "A senator's opening statement is advocacy by a committee member, not testimony or a finding. Attribute as 'Senator Levin said'. Compare Enron's Nov. 19, 2001 bank presentation: $4.822 billion of 'Commodity Transactions with Financial Institutions' at 9/30/01 (see Batson card). Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Senator's opening statement; the card correctly avoids 'testified'."
  },
  {
   "id": "K-008",
@@ -181,7 +195,9 @@
   "event_date": "1998-11",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "The quote is Levin's reading of the email (brackets are his). Later in the hearing (PDF p. 80, lines 4995-5002) Levin identified it as Exhibit 123, from Chase investment banker 'George Serice' (spelling as Levin gave it), November 1998. The same opening statement quotes a Citigroup email and an Andersen email. See next card for how Chase's witnesses answered. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "The quote is Levin's reading of the email (brackets are his). Later in the hearing (PDF p. 80, lines 4995-5002) Levin identified it as Exhibit 123, from Chase investment banker 'George Serice' (spelling as Levin gave it), November 1998. The same opening statement quotes a Citigroup email and an Andersen email. See next card for how Chase's witnesses answered. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Levin's reading of a Chase email; attribute as such."
  },
  {
   "id": "K-009",
@@ -205,7 +221,9 @@
   "event_date": "2002-07-23",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Oath for McCree, Traband and Dellapina at PDF p. 76 (lines 4758-4765). Dellapina's words (PDF p. 81, lines 5048-5051): 'I believe that prepaid forwards are fundamentally different than funded debt.' Present both sides; the banks' view differs from the staff's."
+  "notes": "Oath for McCree, Traband and Dellapina at PDF p. 76 (lines 4758-4765). Dellapina's words (PDF p. 81, lines 5048-5051): 'I believe that prepaid forwards are fundamentally different than funded debt.' Present both sides; the banks' view differs from the staff's.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Oath verified for McCree, Traband and Dellapina (PDF 76). McCree also called it 'casual commentary by an employee that, frankly, was not informed' (PDF 80); Dellapina's 'inaccurate' and 'fundamentally different than funded debt' verified (PDF 81)."
  },
  {
   "id": "K-010",
@@ -228,7 +246,9 @@
   "event_date": "2002-07-23",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "SOURCES DISAGREE: Levin and Roach described Mahonia as a Chase shell/offshore entity controlled by the bank; the bankruptcy examiner (Final Report p. 95, PDF 98) called Mahonia and Delta 'shell entities set up by JPMorgan Chase and Citigroup'. Dellapina also said Chase's first Enron prepay was in 1992 (a Jersey SPE) and that from 1993 to 2001 Enron did 11 more with Chase, ten with Mahonia Limited and one with Mahonia Natural Gas Limited (lines 4877-4891)."
+  "notes": "SOURCES DISAGREE: Levin and Roach described Mahonia as a Chase shell/offshore entity controlled by the bank; the bankruptcy examiner (Final Report p. 95, PDF 98) called Mahonia and Delta 'shell entities set up by JPMorgan Chase and Citigroup'. Dellapina also said Chase's first Enron prepay was in 1992 (a Jersey SPE) and that from 1993 to 2001 Enron did 11 more with Chase, ten with Mahonia Limited and one with Mahonia Natural Gas Limited (lines 4877-4891). FACT-CHECKER ADDITION: later in the same hearing (PDF 84-85, lines ~5255-5310) Senator Levin read from a 1986 letter by Chase's Jersey law firm (Exhibit 118) saying 'it is important that the SPV's are controlled by Chase' but that 'for accounting and other requirements it is not desirable that they are wholly owned by Chase', so Chase was 'considering establishing a charitable trust' to own them. The portion read names a vehicle called East Moss, not Mahonia. McCree, Traband and Dellapina said they had never seen the letter. Present it as the senator's reading of a document, beside Dellapina's testimony and the examiner's 'shell entities set up by JPMorgan Chase' (K-045); the library does not settle who controlled Mahonia.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). FIXED. Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Oath verified (PDF 76). Quote and the 'neither appointed nor controlled by Chase or Enron' testimony verified (lines 4897-4905). Notes extended with Levin's reading of the 1986 Chase letter (Exhibit 118), which bears on the Mahonia-control disagreement; the three positions are now all recorded."
  },
  {
   "id": "K-011",
@@ -251,7 +271,9 @@
   "event_date": "2002-07-23",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Oath for Hendricks, Bushnell, Reilly and Caplan at PDF p. 109 (lines 6820-6829). Second quote available (PDF p. 111): 'we relied heavily on the assurances that its outside auditor, Arthur Andersen, had reviewed these transactions.' Useful for The Auditors lens: the banks pointed to the auditor."
+  "notes": "Oath for Hendricks, Bushnell, Reilly and Caplan at PDF p. 109 (lines 6820-6829). Second quote available (PDF p. 111): 'we relied heavily on the assurances that its outside auditor, Arthur Andersen, had reviewed these transactions.' Useful for The Auditors lens: the banks pointed to the auditor.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Oath verified for Hendricks, Bushnell, Reilly and Caplan (PDF 109); title from his testimony heading (PDF 110): 'Managing Director, Global Risk Management, Citigroup/Salomon Smith Barney'."
  },
  {
   "id": "K-012",
@@ -274,7 +296,9 @@
   "event_date": "2002-07-23",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Quote spans PDF pp. 47-48 (printed pp. 29-30). Stumpp was sworn with the rating-agency panel (see swearing-in near line 2722). Links to Who Knew What, When: the banks knew; the rating agencies say they did not. See also existing card C-059 on rating agencies. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim. Quote runs across a page break (PDF pp. 47-48) with a footnote between 'prepaid for-' and 'ward'; checked by reading both pages."
+  "notes": "Quote spans PDF pp. 47-48 (printed pp. 29-30). Stumpp was sworn with the rating-agency panel (see swearing-in near line 2722). Links to Who Knew What, When: the banks knew; the rating agencies say they did not. See also existing card C-059 on rating agencies. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim. Quote runs across a page break (PDF pp. 47-48) with a footnote between 'prepaid for-' and 'ward'; checked by reading both pages.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Quote runs across PDF 47-48 (footnote in between). Oath verified: 'Ms. STUMPP. I do.' (PDF 44, line ~2734)."
  },
  {
   "id": "K-013",
@@ -298,7 +322,9 @@
   "event_date": "2002-07-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Quote is Furst's. Furst himself noted that 'even innocent witnesses' may assert the privilege; the site must say that invoking the Fifth is not evidence of guilt. Levin said Merrill's Dan Bayly would be deposed by staff after the hearing (lines 11811-11830). Existing card B-084 notes Furst and Tilney also asserted the Fifth in SEC testimony. For how any criminal case against these men ended, see gaps file."
+  "notes": "Quote is Furst's. Furst himself noted that 'even innocent witnesses' may assert the privilege; the site must say that invoking the Fifth is not evidence of guilt. Levin said Merrill's Dan Bayly would be deposed by staff after the hearing (lines 11811-11830). Existing card B-084 notes Furst and Tilney also asserted the Fifth in SEC testimony. For how any criminal case against these men ended, see gaps file.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer at the stated PDF page (end-of-line hyphens rejoined). Oath verified: 'Mr. FURST. I do. Mr. TILNEY. I do.' (PDF 189). Both said they had met voluntarily with staff and learned of a Justice Department investigation; Furst invoked the Fifth Amendment, Tilney declined 'based upon my constitutional right'. Presented neutrally; the note requiring 'not evidence of guilt' is correct. The quote begins on PDF 189 and ends on PDF 190."
  },
  {
   "id": "K-014",
@@ -319,7 +345,9 @@
   "event_date": "2003-07-28",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "JPMorgan Chase consented to a final judgment in a civil injunctive action without admitting or denying the allegations. The release adds that the interest was 'calculated with reference to LIBOR' and that 'The only risk in the transactions was J.P. Morgan Chase's risk that Enron would not make its payments when due'. Settlement amounts are already in card B-086. The whole release body is one long line in the text copy."
+  "notes": "JPMorgan Chase consented to a final judgment in a civil injunctive action without admitting or denying the allegations. The release adds that the interest was 'calculated with reference to LIBOR' and that 'The only risk in the transactions was J.P. Morgan Chase's risk that Enron would not make its payments when due'. Settlement amounts are already in card B-086. The whole release body is one long line in the text copy.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the original HTML release. Verb 'alleged' correct for the JPMorgan Chase court action; 'J.P. Morgan Chase-sponsored special purpose vehicle' is the release's wording."
  },
  {
   "id": "K-015",
@@ -340,7 +368,9 @@
   "event_date": "2003-07-28",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Citigroup's case was an administrative proceeding with 'findings'; JPMorgan Chase's was a court action with 'allegations'. Use 'the SEC found, and Citigroup neither admitted nor denied' for Citigroup. Nahanni: per the SEC, Citigroup helped Enron generate operating cash by selling Treasury bills bought with loan proceeds. The same order resolved a Dynegy matter (Project Alpha). Bacchus matches the Senate staff report's account (see Bacchus cards)."
+  "notes": "Citigroup's case was an administrative proceeding with 'findings'; JPMorgan Chase's was a court action with 'allegations'. Use 'the SEC found, and Citigroup neither admitted nor denied' for Citigroup. Nahanni: per the SEC, Citigroup helped Enron generate operating cash by selling Treasury bills bought with loan proceeds. The same order resolved a Dynegy matter (Project Alpha). Bacchus matches the Senate staff report's account (see Bacchus cards).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified in the original HTML release. Citigroup's matter is an administrative order with 'findings' (settled, neither admitted nor denied); verb 'found (settled)' correct."
  },
  {
   "id": "K-016",
@@ -361,7 +391,9 @@
   "event_date": "2003-07-28",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Also: 'Enron sought to convince analysts and credit rating agencies that its reported mark-to-market earnings were real'. Ties the Banks page to the mark-to-market chapter. Links to glossary terms mark-to-market, cash flow from operations, off-balance-sheet."
+  "notes": "Also: 'Enron sought to convince analysts and credit rating agencies that its reported mark-to-market earnings were real'. Ties the Banks page to the mark-to-market chapter. Links to glossary terms mark-to-market, cash flow from operations, off-balance-sheet.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified in the original HTML release; the release says 'As alleged by the Commission, these institutions knew'."
  },
  {
   "id": "K-017",
@@ -382,7 +414,9 @@
   "event_date": "2003-07-28",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Links Enron to Sarbanes-Oxley Sec. 308(a) (Fair Funds) for the 'Why This Matters' page. The release does not give the terms of the District Attorney settlements (gap). Regulators named: Federal Reserve Bank of New York, OCC, New York State Banking Department. $236M = $135M (JPMorgan Chase) + $101M (Citigroup's Enron share). MERGED: Also in the release: Enforcement Director Stephen M. Cutler said 'you can’t turn a blind eye to the consequences of your actions' (verbatim, curly apostrophe). The SEC's 'know or have reason to know' standard is looser than the examiner's 'actual knowledge' test."
+  "notes": "Links Enron to Sarbanes-Oxley Sec. 308(a) (Fair Funds) for the 'Why This Matters' page. The release does not give the terms of the District Attorney settlements (gap). Regulators named: Federal Reserve Bank of New York, OCC, New York State Banking Department. $236M = $135M (JPMorgan Chase) + $101M (Citigroup's Enron share). MERGED: Also in the release: Enforcement Director Stephen M. Cutler said 'you can’t turn a blind eye to the consequences of your actions' (verbatim, curly apostrophe). The SEC's 'know or have reason to know' standard is looser than the examiner's 'actual knowledge' test.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified in the original HTML release; DA settlements and the regulators' written agreements ('obligate them to enhance their risk management programs and internal controls') confirmed. The note's comparison of the SEC's 'know or have reason to know' with the examiner's 'actual knowledge' is supported by K-060 (examiner's own statement)."
  },
  {
   "id": "K-018",
@@ -403,7 +437,9 @@
   "event_date": "2003-12-22",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Source is only an index title; the complaint and release are not in the library, so the transactions CIBC was charged over, the three executives' names and how their cases ended are unknown (logged as gap). The title does not say whether CIBC admitted or denied the charges; do not add that."
+  "notes": "Source is only an index title; the complaint and release are not in the library, so the transactions CIBC was charged over, the three executives' names and how their cases ended are unknown (logged as gap). The title does not say whether CIBC admitted or denied the charges; do not add that.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Title verified (sec-enron-spotlight line 83). Index title only; the card correctly adds nothing about admission or denial."
  },
  {
   "id": "K-019",
@@ -426,7 +462,9 @@
   "event_date": "1999-12",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Words in quotation marks are the Merrill document as quoted in the complaint. Same paragraph: Enron had paid Merrill about $40 million in fees in 1999. The Senate staff report (p. 2) describes the same promise as a secret resale within six months with a guaranteed 15 percent return; the SEC complaint gives 22.5% per year or '$250,000 plus 15% per annum'. The figures differ; cite each source for its own number. MERGED: Structure (para. 16, line 72): a Merrill entity bought stock in Enron Nigeria Barge Limited for $28 million; Enron lent $21 million non-recourse, 'Thus, Merrill Lynch was asked to provide only $7 million in cash for the deal.' Para. 28: Merrill 'never paid any interest on the loan'."
+  "notes": "Words in quotation marks are the Merrill document as quoted in the complaint. Same paragraph: Enron had paid Merrill about $40 million in fees in 1999. The Senate staff report (p. 2) describes the same promise as a secret resale within six months with a guaranteed 15 percent return; the SEC complaint gives 22.5% per year or '$250,000 plus 15% per annum'. The figures differ; cite each source for its own number. MERGED: Structure (para. 16, line 72): a Merrill entity bought stock in Enron Nigeria Barge Limited for $28 million; Enron lent $21 million non-recourse, 'Thus, Merrill Lynch was asked to provide only $7 million in cash for the deal.' Para. 28: Merrill 'never paid any interest on the loan'.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim (complaint para. 19). DISAGREEMENT CONFIRMED: the complaint gives the promised return as '$250,000 plus 15% per annum or a flat 22.5% per annum' (para. 19), '22.5%' (paras. 18, 26) and 'approximately a 22% annualized return' actually earned (para. 35); the Senate staff report (rpt-psi-fishtail p. 2, line ~202) says 'guaranteeing a 15 percent return'. Cite each source for its own figure; do not merge."
  },
  {
   "id": "K-020",
@@ -452,7 +490,9 @@
   "event_date": "1999-12-23",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Allegation only. Para. 26 alleges Thomas Davis approved the deal knowing it was 'a sham sale'. The same 'unwritten guarantee' pattern appears in the Senate staff's Bacchus findings and the examiner's RBS findings."
+  "notes": "Allegation only. Para. 26 alleges Thomas Davis approved the deal knowing it was 'a sham sale'. The same 'unwritten guarantee' pattern appears in the Senate staff's Bacchus findings and the examiner's RBS findings.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the SEC complaint (text copy of the HTML). Allegations; verb 'alleged' correct."
  },
  {
   "id": "K-021",
@@ -475,7 +515,9 @@
   "event_date": "2000-06-29",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Para. 35 also alleges 'LJM2 documents confirm that it made the purchase to fulfill Fastow's guarantee.' Connects to the LJM chapter."
+  "notes": "Para. 35 also alleges 'LJM2 documents confirm that it made the purchase to fulfill Fastow's guarantee.' Connects to the LJM chapter.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the SEC complaint (text copy of the HTML). Allegations; verb 'alleged' correct."
  },
  {
   "id": "K-022",
@@ -496,7 +538,9 @@
   "event_date": "1999-12",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "The executive is unnamed in the complaint. The trade was unwound June 30, 2000; Merrill received $8.5 million, half its fee (para. 50)."
+  "notes": "The executive is unnamed in the complaint. The trade was unwound June 30, 2000; Merrill received $8.5 million, half its fee (para. 50).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the SEC complaint (text copy of the HTML). Allegations; verb 'alleged' correct."
  },
  {
   "id": "K-023",
@@ -520,7 +564,9 @@
   "event_date": "1999-12-31",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "The complaint does not name Enron's CAO; do not add a name from other sources in this card. Good for The Auditors lens (auditor approval used as cover)."
+  "notes": "The complaint does not name Enron's CAO; do not add a name from other sources in this card. Good for The Auditors lens (auditor approval used as cover).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the SEC complaint (text copy of the HTML). Allegations; verb 'alleged' correct."
  },
  {
   "id": "K-024",
@@ -541,12 +587,14 @@
   "event_date": "1999",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "The $60 million and '30% improvement' also appear in para. 1 (card B-083). The added numbers here are the before/after net income and EPS and the fee total. How the SEC case against Merrill Lynch the company ended is not in the library (gap)."
+  "notes": "The $60 million and '30% improvement' also appear in para. 1 (card B-083). The added numbers here are the before/after net income and EPS and the fee total. How the SEC case against Merrill Lynch the company ended is not in the library (gap).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the SEC complaint (text copy of the HTML). Allegations; verb 'alleged' correct."
  },
  {
   "id": "K-025",
   "topic": "Merrill and CIBC agreements with the government (as the appeals court described them)",
-  "claim": "In Skilling's appeal, the Fifth Circuit described 'the government's plea agreements with Merrill Lynch and Canadian Imperial Bank of Commerce' and rejected Skilling's argument that they stopped witnesses from helping his defense; the court said employees of those banks were free to testify for him.",
+  "claim": "In Skilling's appeal, the Fifth Circuit described 'the government's plea agreements with Merrill Lynch and Canadian Imperial Bank of Commerce' and rejected Skilling's argument that they stopped witnesses from helping his defense. It relied on a letter in which the trial court told potential witnesses, including those subject to a plea agreement, that they were free to testify for him; the Fifth Circuit added that although the corporations could not take a position contrary to the plea agreements, their employees, acting personally, were free to testify for the defense.",
   "quote": "Skilling asserts that the government’s plea agreements with Merrill Lynch and Canadian Imperial Bank of Commerce (“CIBC”) improperly forbade witnesses from cooperating with his defense.",
   "source_id": "ca5-skilling-2009",
   "file": "sources/09-courts-doj/ca5-us-v-skilling-2009.pdf",
@@ -564,7 +612,9 @@
   "event_date": "2009-01-06",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "CAUTION: the library has no copy of these agreements. CA5 calls them 'plea agreements' but does not describe their terms, dates or charges; do not say the banks 'pleaded guilty' or were 'convicted' on this basis. Logged as gap. Existing card B-085 covers the Nigerian barge criminal trial of four unnamed Merrill employees and its reversal."
+  "notes": "CAUTION: the library has no copy of these agreements. CA5 calls them 'plea agreements' but does not describe their terms, dates or charges; do not say the banks 'pleaded guilty' or were 'convicted' on this basis. Logged as gap. Existing card B-085 covers the Nigerian barge criminal trial of four unnamed Merrill employees and its reversal.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). FIXED. Quote verified (PDF 60). Claim said 'the court said employees of those banks were free to testify'; it was the district court's letter to witnesses, which the Fifth Circuit relied on (PDF 61). Reworded. PLEA AGREEMENTS: the card is right that the library gives no terms, dates or charges. On the site, if used at all, keep 'plea agreements' in quotation marks as the Fifth Circuit's term and never say either bank 'pleaded guilty' or was 'convicted'."
  },
  {
   "id": "K-026",
@@ -585,7 +635,9 @@
   "event_date": "2000-12/2001-06",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "S. Prt. 107-82, Jan. 2, 2003. The staff also found Enron could not have completed any of the four without a major bank. Existing card A-073 summarizes the Fishtail-Bacchus-Sundance 'round trip'; this card is the overall finding. Printed page = PDF page minus 4 in this report. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "S. Prt. 107-82, Jan. 2, 2003. The staff also found Enron could not have completed any of the four without a major bank. Existing card A-073 summarizes the Fishtail-Bacchus-Sundance 'round trip'; this card is the overall finding. Printed page = PDF page minus 4 in this report. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct."
  },
  {
   "id": "K-027",
@@ -608,7 +660,9 @@
   "event_date": "2000-12-19",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Chase's internal name was 'Project Grinch' (fn. 4, line 414). A finance expert quoted by the staff: 'Chase never really had any skin in the game.' (line 675). LJM2 earned an overall 15 percent return (lines 599-605). Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim. MERGED: Valuation (PDF p. 11, lines 458-471): 'The Chase Securities analysis had concluded that the pulp and paper trading business was worth $200 million.' Enron carried the trading book at about $85 million; $115 million was 'soft' value; Enron's own Nov. 2001 inventory valued the business at $50 million as of Sept. 30, 2001 (fn. 13, PDF p. 12)."
+  "notes": "Chase's internal name was 'Project Grinch' (fn. 4, line 414). A finance expert quoted by the staff: 'Chase never really had any skin in the game.' (line 675). LJM2 earned an overall 15 percent return (lines 599-605). Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim. MERGED: Valuation (PDF p. 11, lines 458-471): 'The Chase Securities analysis had concluded that the pulp and paper trading business was worth $200 million.' Enron carried the trading book at about $85 million; $115 million was 'soft' value; Enron's own Nov. 2001 inventory valued the business at $50 million as of Sept. 30, 2001 (fn. 13, PDF p. 12).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct."
  },
  {
   "id": "K-028",
@@ -629,7 +683,9 @@
   "event_date": "2000-12-26",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "The $6 million was the minimum 3 percent outside equity required to keep the buyer off Enron's books under the SPE rules (plain-language glossary: '3 percent rule'). Fn. 36 (line 860): by using a total return swap instead of a guarantee, 'Enron avoided having to disclose the guarantee in its financial statement footnotes.' The GPO text uses double single-quotes (‘‘ ’’) for quotation marks; render as normal quotes on the site. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "The $6 million was the minimum 3 percent outside equity required to keep the buyer off Enron's books under the SPE rules (plain-language glossary: '3 percent rule'). Fn. 36 (line 860): by using a total return swap instead of a guarantee, 'Enron avoided having to disclose the guarantee in its financial statement footnotes.' The GPO text uses double single-quotes (‘‘ ’’) for quotation marks; render as normal quotes on the site. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct."
  },
  {
   "id": "K-029",
@@ -653,7 +709,9 @@
   "event_date": "2000-12",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Fox denied in a staff interview that Enron had 'verbally guaranteed' the equity, but confirmed he met Fastow to obtain Enron's 'verbal support' and was told Enron would take 'whatever steps necessary' (lines 887-895). At the Dec. 11, 2002 hearing Fox testified Fastow promised to take 'all steps necessary' (fn. 42, line 920). Present Fox's denial alongside the staff's conclusion. The examiner's Final Report (PDF p. 105-106) quotes the same Citigroup emails."
+  "notes": "Fox denied in a staff interview that Enron had 'verbally guaranteed' the equity, but confirmed he met Fastow to obtain Enron's 'verbal support' and was told Enron would take 'whatever steps necessary' (lines 887-895). At the Dec. 11, 2002 hearing Fox testified Fastow promised to take 'all steps necessary' (fn. 42, line 920). Present Fox's denial alongside the staff's conclusion. The examiner's Final Report (PDF p. 105-106) quotes the same Citigroup emails.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct. Fox's staff-interview denial and his Dec. 11 testimony ('all steps necessary', fn. 42, summarized by the staff) are correctly recorded as the other side."
  },
  {
   "id": "K-030",
@@ -674,7 +732,9 @@
   "event_date": "2000",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "The 'would likely have failed to meet' point is the staff's inference ('These figures suggest'). Citigroup personnel agreed in interviews that $112 million was material but denied knowing at the time that Enron had booked it as earnings (lines 1031-1037). A-073 already gives the $112M; this card adds the percentages and the forecast point. MERGED: Citigroup's Bacchus earnings (PDF p. 21, lines 1088-1091): 'Citigroup was paid a $500,000 fee for its participation in Bacchus, earned about $5 million in interest payments related to the $200 million debt', plus a $450,000 yield on the $6 million 'equity investment'."
+  "notes": "The 'would likely have failed to meet' point is the staff's inference ('These figures suggest'). Citigroup personnel agreed in interviews that $112 million was material but denied knowing at the time that Enron had booked it as earnings (lines 1031-1037). A-073 already gives the $112M; this card adds the percentages and the forecast point. MERGED: Citigroup's Bacchus earnings (PDF p. 21, lines 1088-1091): 'Citigroup was paid a $500,000 fee for its participation in Bacchus, earned about $5 million in interest payments related to the $200 million debt', plus a $450,000 yield on the $6 million 'equity investment'.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct. $979 million net income is in fn. 58 (line 1119). 'Would likely have failed to meet Wall Street's earnings projections' is the staff's inference; keep 'the staff said'."
  },
  {
   "id": "K-031",
@@ -695,7 +755,9 @@
   "event_date": "2000-12-27",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "The 'iou' email is from Citigroup employee Steve Wagman to Amanda Angelini, Dec. 27, 2000 (fn. 49). The examiner's Final Report (PDF p. 106, printed p. 103) quotes the same email, image-checked. Another email noted Enron generated about $50 million of revenue for the unit in 2000 (line 978). Use for Follow the Money lens. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "The 'iou' email is from Citigroup employee Steve Wagman to Amanda Angelini, Dec. 27, 2000 (fn. 49). The examiner's Final Report (PDF p. 106, printed p. 103) quotes the same email, image-checked. Another email noted Enron generated about $50 million of revenue for the unit in 2000 (line 978). Use for Follow the Money lens. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct."
  },
  {
   "id": "K-032",
@@ -716,7 +778,9 @@
   "event_date": "2001-06-01",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Quote is the final Citigroup Capital Markets Approval Committee memo as quoted by the staff (fn. 74). Another Citigroup email: 'our invest[ment] is so subordinated and controlled that it is ‘unimaginable’ how our principal is not returned.' Sundance used $208 million of Enron's cash to repay Citigroup's Bacchus loan (lines 1203-1262)."
+  "notes": "Quote is the final Citigroup Capital Markets Approval Committee memo as quoted by the staff (fn. 74). Another Citigroup email: 'our invest[ment] is so subordinated and controlled that it is ‘unimaginable’ how our principal is not returned.' Sundance used $208 million of Enron's cash to repay Citigroup's Bacchus loan (lines 1203-1262).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct."
  },
  {
   "id": "K-033",
@@ -741,12 +805,14 @@
   "event_date": "2001-06-01",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "The risk memo (by David Bushnell, fn. 77) contains 'The GAAP accounting is aggressive and a franchise risk to us if there is publicity (a la Xerox).' That line is already in A-073's notes. At the Dec. 11, 2002 hearing Bushnell testified he recalled giving his approval and 'may have provided the final oral approval' (lines 1470-1477, 2129-2132). Carpenter (head of the investment bank) and MacDonald (head of the Global Relationship Bank) are named in fn. 77-78 as recipient and sender; the report does not say either did anything improper. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "The risk memo (by David Bushnell, fn. 77) contains 'The GAAP accounting is aggressive and a franchise risk to us if there is publicity (a la Xerox).' That line is already in A-073's notes. At the Dec. 11, 2002 hearing, according to the staff report, Bushnell testified he recalled giving his approval (lines 1470-1477); the report's hearing summary says he 'disclosed that ... he may have provided the final oral approval' (lines 2129-2132). Those are the staff's words, not a quotation of Bushnell; the hearing transcript is not in the library. Carpenter (head of the investment bank) and MacDonald (head of the Global Relationship Bank) are named in fn. 77-78 as recipient and sender; the report does not say either did anything improper. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). FIXED. Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct. Note corrected: 'may have provided the final oral approval' is the staff report's summary, not Bushnell's own words."
  },
  {
   "id": "K-034",
   "topic": "Sundance: Citigroup gets out two days before bankruptcy",
-  "claim": "The staff found that as doubts about Enron grew, Citigroup used its protections to end Sundance on or about November 30, 2001, two days before Enron's bankruptcy, recovering its full $28.5 million plus a return. It had been paid $725,000 in upfront fees and a $1.1 million return, plus $1.5 million of 'breakage costs' when Sundance repaid the Bacchus loan early.",
+  "claim": "The staff found that as doubts about Enron grew, Citigroup used its protections to end Sundance on or about November 30, 2001, two days before Enron's bankruptcy, recovering its full $28.5 million plus a return. It had been paid $725,000 in upfront fees and a $1.1 million return, and, when Sundance repaid the Bacchus loan early, a $1.5 million payment to the Caymus Trust 'apparently passed along to Citigroup' for alleged 'breakage costs'.",
   "quote": "Citigroup invoked the Sundance agreement provisions protecting it from loss and actually terminated the Sundance partnership on or about November 30, 2001, five months after it was established and two days before Enron filed for bankruptcy.",
   "source_id": "rpt-psi-fishtail",
   "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
@@ -762,7 +828,9 @@
   "event_date": "2001-11-30",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Staff concluded the three deals together were a disguised six-month, $200 million Citigroup loan (lines 1560-1588); A-073 covers that. Good timeline item for 'Who Knew What, When'. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "Staff concluded the three deals together were a disguised six-month, $200 million Citigroup loan (lines 1560-1588); A-073 covers that. Good timeline item for 'Who Knew What, When'. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). FIXED. Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct. Claim stated the $1.5 million 'breakage costs' as a plain payment to Citigroup; the report says the payment went to the Caymus Trust and 'was apparently passed along to Citigroup for alleged \"breakage costs\"' (lines 1253-1256). Hedge restored."
  },
  {
   "id": "K-035",
@@ -783,7 +851,9 @@
   "event_date": "2001-06-22",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Enron's own analysis projected tax savings with a net present value of US$60 million and $65 million of financial-statement benefit (fn. 88). Chase required Enron to put $1 billion in a Chase escrow account first; Enron got that money through a separate $1 billion Citigroup overdraft. Candidate for an original diagram. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "Enron's own analysis projected tax savings with a net present value of US$60 million and $65 million of financial-statement benefit (fn. 88). Chase required Enron to put $1 billion in a Chase escrow account first; Enron got that money through a separate $1 billion Citigroup overdraft. Candidate for an original diagram. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct."
  },
  {
   "id": "K-036",
@@ -804,7 +874,9 @@
   "event_date": "2001-06-22",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "The quote is the Canadian law firm's tax opinion as quoted by the staff. Enron told the subcommittee (Dec. 10, 2002 letter) it took no U.S. federal tax deductions for Slapshot and reported no related tax benefits in its SEC filings. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "The quote is the Canadian law firm's tax opinion as quoted by the staff. Enron told the subcommittee (Dec. 10, 2002 letter) it took no U.S. federal tax deductions for Slapshot and reported no related tax benefits in its SEC filings. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct."
  },
  {
   "id": "K-037",
@@ -825,7 +897,9 @@
   "event_date": "2001",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Fn. 94 is on PDF p. 31. Nothing in the report says the other consortium banks knew of the sham loan; do not imply it. Chase's witnesses testified on Dec. 11, 2002 that Chase would no longer market Slapshot (see hearing card)."
+  "notes": "Fn. 94 is on PDF p. 31. Nothing in the report says the other consortium banks knew of the sham loan; do not imply it. Chase's witnesses testified on Dec. 11, 2002 that Chase would no longer market Slapshot (see hearing card).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct."
  },
  {
   "id": "K-038",
@@ -850,7 +924,9 @@
   "event_date": "2002-12-11",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "The Dec. 11, 2002 hearing transcript is not in the library; this is the staff report's summary of it (logged as gap). Regulators testifying: Richard Spillenkothen (Federal Reserve), Annette Nazareth (SEC), Douglas Roeder (OCC). They said fewer than ten OCC-supervised national banks do these complex deals (lines 2187-2194). Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "The Dec. 11, 2002 hearing transcript is not in the library; this is the staff report's summary of it (logged as gap). Regulators testifying: Richard Spillenkothen (Federal Reserve), Annette Nazareth (SEC), Douglas Roeder (OCC). They said fewer than ten OCC-supervised national banks do these complex deals (lines 2187-2194). Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct. This is the staff report's summary of the Dec. 11, 2002 hearing (transcript not in library); 'the staff report says ... testified' is the correct attribution."
  },
  {
   "id": "K-039",
@@ -871,7 +947,9 @@
   "event_date": "2003-01-02",
   "from_ocr": false,
   "ocr_checked_against_image": false,
-  "notes": "Whether regulators adopted these recommendations is not shown in the library (gap). Links to 'Why This Matters to You'. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+  "notes": "Whether regulators adopted these recommendations is not shown in the library (gap). Links to 'Why This Matters to You'. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified verbatim in the text layer of the staff report (end-of-line hyphens rejoined). Staff findings; verb 'found' correct. Verb 'recommended' correct."
  },
  {
   "id": "K-040",
@@ -892,7 +970,9 @@
   "event_date": "2003-11-04",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Defines two legal ideas for the glossary: aiding and abetting a breach of fiduciary duty; equitable subordination (a court pushing a creditor's claim to the back of the line behind other creditors). The examiner is 'not the ultimate decision maker' (PDF p. 16). Image-checked PDF p. 66. OCR rendered the dash as an em dash; the image shows an en dash. OCR text shows an em dash where the image shows an en dash; quote follows the image."
+  "notes": "Defines two legal ideas for the glossary: aiding and abetting a breach of fiduciary duty; equitable subordination (a court pushing a creditor's claim to the back of the line behind other creditors). The examiner is 'not the ultimate decision maker' (PDF p. 16). Image-checked PDF p. 66. OCR rendered the dash as an em dash; the image shows an en dash. OCR text shows an em dash where the image shows an en dash; quote follows the image.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 66); verb and civil 'fact-finder' standard correct."
  },
  {
   "id": "K-041",
@@ -913,7 +993,9 @@
   "event_date": "2003-11-04",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "The Third Interim Report and its bank appendices (Citigroup = Third Interim App. D; JPMorgan Chase = Third Interim App. E) are NOT in the library (known gap). This summary does not name the banks; do not name them from this card. The examiner notes the $5 billion 'could be significantly greater' (fn. 6). Image-checked PDF p. 7. Officer conclusions already in A-071."
+  "notes": "The Third Interim Report and its bank appendices (Citigroup = Third Interim App. D; JPMorgan Chase = Third Interim App. E) are NOT in the library (known gap). This summary does not name the banks; do not name them from this card. The examiner notes the $5 billion 'could be significantly greater' (fn. 6). Image-checked PDF p. 7. Officer conclusions already in A-071.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 7); verb and civil 'fact-finder' standard correct. Banks are not named in this summary; the card correctly says so."
  },
  {
   "id": "K-042",
@@ -934,7 +1016,9 @@
   "event_date": "2003-09-24",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "This is the examiner describing a lawsuit, not a finding. How that lawsuit ended is not in the library (gap). Image-checked PDF p. 8. Use 'Enron's bankruptcy estate sued', 'alleged'."
+  "notes": "This is the examiner describing a lawsuit, not a finding. How that lawsuit ended is not in the library (gap). Image-checked PDF p. 8. Use 'Enron's bankruptcy estate sued', 'alleged'.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 8); verb and civil 'fact-finder' standard correct. A description of the estate's lawsuit; allegations."
  },
  {
   "id": "K-043",
@@ -955,7 +1039,9 @@
   "event_date": "2003-11-04",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Quote omits a footnote marker after 'billion' (fn. 24: the amount 'could be significantly greater'). The defense noted is 'in pari delicto' (both parties at fault) and standing (PDF p. 15). Image-checked PDF pp. 15-16. Always name the report and letter: Final Report App. E = RBS, App. F = CSFB, App. G = Toronto Dominion."
+  "notes": "Quote omits a footnote marker after 'billion' (fn. 24: the amount 'could be significantly greater'). The defense noted is 'in pari delicto' (both parties at fault) and standing (PDF p. 15). Image-checked PDF pp. 15-16. Always name the report and letter: Final Report App. E = RBS, App. F = CSFB, App. G = Toronto Dominion.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 15-16); verb and civil 'fact-finder' standard correct. In pari delicto and standing defenses confirmed on PDF 15."
  },
  {
   "id": "K-044",
@@ -976,7 +1062,9 @@
   "event_date": "2001-09-30",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Figures are in billions, from Enron's own presentation as reproduced by the examiner. The $25.116B total is in card A-087; this card adds the bank-related categories. 'Commodity transactions with financial institutions' appears to correspond to prepays, but the table does not say so explicitly; say 'a category Enron called...'. Image-checked PDF p. 20."
+  "notes": "Figures are in billions, from Enron's own presentation as reproduced by the examiner. The $25.116B total is in card A-087; this card adds the bank-related categories. 'Commodity transactions with financial institutions' appears to correspond to prepays, but the table does not say so explicitly; say 'a category Enron called...'. Image-checked PDF p. 20.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 20); verb and civil 'fact-finder' standard correct. All eight categories and $25.116 billion total confirmed."
  },
  {
   "id": "K-045",
@@ -997,7 +1085,9 @@
   "event_date": "2003-11-04",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Disagrees with Chase's sworn testimony that Mahonia was owned by a charitable trust and not controlled by Chase (Dellapina card). The examiner adds (PDF p. 99) that Andersen suggested disclosing the prepays and dropped it when management refused. Image-checked PDF p. 98."
+  "notes": "Disagrees with Chase's sworn testimony that Mahonia was owned by a charitable trust and not controlled by Chase (Dellapina card). The examiner adds (PDF p. 99) that Andersen suggested disclosing the prepays and dropped it when management refused. Image-checked PDF p. 98.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 98); verb and civil 'fact-finder' standard correct. MAHONIA CONTROL: the examiner's 'shell entities set up by JPMorgan Chase and Citigroup' disagrees with Dellapina's sworn account (K-010); both must be shown."
  },
  {
   "id": "K-046",
@@ -1018,7 +1108,9 @@
   "event_date": "2003-11-04",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Examples follow at PDF pp. 104-107 (Citigroup Bacchus/Sundance, Merrill barge, RBS, CSFB, Barclays). Image-checked PDF p. 97."
+  "notes": "Examples follow at PDF pp. 104-107 (Citigroup Bacchus/Sundance, Merrill barge, RBS, CSFB, Barclays). Image-checked PDF p. 97.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 97); verb and civil 'fact-finder' standard correct."
  },
  {
   "id": "K-047",
@@ -1043,7 +1135,9 @@
   "event_date": "1998-04",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "The footnote cites the Third Interim Report, Appendix I (Role of Merrill Lynch), which is not in the library; the Final Report's summary is the library source. The same footnote says CSFB fixed-income analyst Jill Sakol testified she felt pressure not to publish negative comments on Enron (see CSFB analysts card). Image-checked PDF p. 104."
+  "notes": "The footnote cites the Third Interim Report, Appendix I (Role of Merrill Lynch), which is not in the library; the Final Report's summary is the library source. The same footnote says CSFB fixed-income analyst Jill Sakol testified she felt pressure not to publish negative comments on Enron (see CSFB analysts card). Image-checked PDF p. 104.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 104); verb and civil 'fact-finder' standard correct. Footnote 192 relies on the Third Interim Report App. I (not in library); keep 'the examiner reported'."
  },
  {
   "id": "K-048",
@@ -1064,7 +1158,9 @@
   "event_date": "1999-12-21",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Footnote 200 identifies the note as a fax from Rob Furst to Jim Brown, Dec. 21, 1999; the testimony is a sworn statement of James A. Brown to the examiner's counsel (fn. 201). The SEC complaint (para. 24) mentions an internal document with a similar concern. Image-checked PDF p. 106."
+  "notes": "Footnote 200 cites a 'Facsimile from Rob Furst, Merrill Lynch, to Jim Brown, Merrill Lynch, Dec. 21, 1999'. The examiner calls the words 'one Merrill Lynch employee's notes' and does not say who wrote them; do NOT attribute the 'aid/abet' words to Furst or to Brown; the testimony is a sworn statement of James A. Brown to the examiner's counsel (fn. 201). The SEC complaint (para. 24) mentions an internal document with a similar concern. Image-checked PDF p. 106.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). FIXED. Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 106); verb and civil 'fact-finder' standard correct. Note corrected: it implied Furst wrote the 'aid/abet' notes; the examiner does not say whose notes they were. Important because Furst is a named individual."
  },
  {
   "id": "K-049",
@@ -1085,7 +1181,9 @@
   "event_date": "2003-11-04",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Always say 'Batson Final Report, Appendix E (RBS)': the Second Interim App. E (prepays) and Third Interim App. E (JPMorgan Chase) are different documents. Deals: LJM1/Rhythms, Sutton Bridge and ETOL I-III (FAS 140), Nixon prepay. Also stated in Final Report p. 67 (PDF 70). Image-checked App. E PDF pp. 101-102 and Final PDF 70. Outcome of any claim against RBS not in library (gap). MERGED: RBS's return on LJM1 (Final Report PDF p. 74, printed p. 71, image-checked): RBS calculated 'a total return on our $7.5m investment of approx [sic] $22.7m or in excess of 1200% IRR. This is a most satisfactory result and underlines the way Enron supports its Tier 1 banks.' (Aug. 31, 2001 email)."
+  "notes": "Always say 'Batson Final Report, Appendix E (RBS)': the Second Interim App. E (prepays) and Third Interim App. E (JPMorgan Chase) are different documents. Deals: LJM1/Rhythms, Sutton Bridge and ETOL I-III (FAS 140), Nixon prepay. Also stated in Final Report p. 67 (PDF 70). Image-checked App. E PDF pp. 101-102 and Final PDF 70. Outcome of any claim against RBS not in library (gap). MERGED: RBS's return on LJM1 (Final Report PDF p. 74, printed p. 71, image-checked): RBS calculated 'a total return on our $7.5m investment of approx [sic] $22.7m or in excess of 1200% IRR. This is a most satisfactory result and underlines the way Enron supports its Tier 1 banks.' (Aug. 31, 2001 email).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image (App. E, PDF 102; 'NatWest ... by hostile takeover in March 2000' in App. E text line 72). Report and letter named. Civil standard."
  },
  {
   "id": "K-050",
@@ -1106,7 +1204,9 @@
   "event_date": "1999/2000",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Batson Final Report, Appendix E (RBS). Same page: through LJM1, 'Fastow and his colleagues, several of whom were Enron officers, received over $40 million.' Image-checked PDF pp. 5-6."
+  "notes": "Batson Final Report, Appendix E (RBS). Same page: through LJM1, 'Fastow and his colleagues, several of whom were Enron officers, received over $40 million.' Image-checked PDF pp. 5-6.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image (App. E, PDF 5-6). Report and letter named."
  },
  {
   "id": "K-051",
@@ -1129,7 +1229,9 @@
   "event_date": "2000-09-19",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Quote is an RBS credit recommendation (Sept. 19, 2000) as quoted in fn. 118 of the Final Report. OCR rendered '21st' as '21 Century'; the image shows '21st Century Alchemy' (superscript st). Same pattern as Bacchus and the Merrill barge. Image-checked PDF pp. 74-75."
+  "notes": "Quote is an RBS credit recommendation (Sept. 19, 2000) as quoted in fn. 118 of the Final Report. OCR rendered '21st' as '21 Century'; the image shows '21st Century Alchemy' (superscript st). Same pattern as Bacchus and the Merrill barge. Image-checked PDF pp. 74-75.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 74-75); verb and civil 'fact-finder' standard correct."
  },
  {
   "id": "K-052",
@@ -1150,7 +1252,9 @@
   "event_date": "1999-12",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "An RBS credit analysis at the time of a later extension called 'the scale of financial period manipulation [by Enron] ... exceedingly worrying' (PDF p. 76). Nixon total was $324 million: Barclays $110M, RBS $110M, Citigroup $104M (App. G, PDF p. 4, fn. 3). Barclays is not a subject of a Final Report appendix. Image-checked PDF pp. 75-76. OCR text inserts footnote numbers ('99123') inside the quote; quote follows the page image."
+  "notes": "An RBS credit analysis at the time of a later extension called 'the scale of financial period manipulation [by Enron] ... exceedingly worrying' (PDF p. 76). Nixon total was $324 million: Barclays $110M, RBS $110M, Citigroup $104M (App. G, PDF p. 4, fn. 3). Barclays is not a subject of a Final Report appendix. Image-checked PDF pp. 75-76. OCR text inserts footnote numbers ('99123') inside the quote; quote follows the page image.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 75); verb and civil 'fact-finder' standard correct."
  },
  {
   "id": "K-053",
@@ -1175,7 +1279,9 @@
   "event_date": "2000-03",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Everything here rests on an indictment (United States v. Bermingham, Cr. No. H-02-0597, S.D. Tex., filed June 27, 2002): use 'alleged/charged'. Fn. 112 says the docket then called Bermingham a 'fugitive' and that he 'allegedly is evading authorities'; the other two bankers are not named in the Final Report. How the case ended is not in the library (gap). Card B-040 (SEC Kopper complaint) covers Southampton and the three NatWest bankers. OCR missed a line ('What am I missing???????') in the quoted 1999 email on PDF p. 72; do not use the OCR text of that email without the image. Image-checked PDF pp. 72-73."
+  "notes": "Everything here rests on an indictment (United States v. Bermingham, Cr. No. H-02-0597, S.D. Tex., filed June 27, 2002): use 'alleged/charged'. Fn. 112 says the docket then called Bermingham a 'fugitive' and that he 'allegedly is evading authorities'; the other two bankers are not named in the Final Report. How the case ended is not in the library (gap). Card B-040 (SEC Kopper complaint) covers Southampton and the three NatWest bankers. OCR missed a line ('What am I missing???????') in the quoted 1999 email on PDF p. 72; do not use the OCR text of that email without the image. Image-checked PDF pp. 72-73.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 72-73); verb and civil 'fact-finder' standard correct. Allegations from the RBS bankers' indictment (fn. 112, PDF 72: 'ultimately was indicted and charged with wire fraud ... allegedly is evading authorities'); verbs 'allegedly/charged' correct. The outcome is not in the library."
  },
  {
   "id": "K-054",
@@ -1196,7 +1302,9 @@
   "event_date": "2003-11-04",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Deals: LJM1/Rhythms (incl. 'SAILS'), CSFB Prepay ($150M), Nile FAS 140 ($25M). CSFB was a Tier 1 bank; Enron paid it over $23 million in fees in 1999, more than any other Tier 1 bank (Final Report PDF p. 77). The examiner also concluded about $3.9 million of a Sept. 27, 2001 payment to a CSFB affiliate was likely recoverable as a preference (App. F PDF pp. 97-100). Image-checked App. F PDF pp. 95-96 and Final PDF 78."
+  "notes": "Deals: LJM1/Rhythms (incl. 'SAILS'), CSFB Prepay ($150M), Nile FAS 140 ($25M). CSFB was a Tier 1 bank; Enron paid it over $23 million in fees in 1999, more than any other Tier 1 bank (Final Report PDF p. 77). The examiner also concluded about $3.9 million of a Sept. 27, 2001 payment to a CSFB affiliate was likely recoverable as a preference (App. F PDF pp. 97-100). Image-checked App. F PDF pp. 95-96 and Final PDF 78.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image (App. F, PDF 95); CSFB 'over $23 million' in 1999 fees confirmed in the Final Report (PDF 78). Report and letter named."
  },
  {
   "id": "K-055",
@@ -1217,7 +1325,9 @@
   "event_date": "2000-12",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Fn. 133 gives the employee's full question (Dec. 12, 2000 email): 'Is it ok for us to be entering into such an ‘obvious’ loan transaction?' App. F (PDF p. 5) totals: about $18.9M of improper gain (Nile), about $175M proceeds, debt understated $150M at Dec. 31, 2000; the examiner could not confirm, but found no evidence against, operating-cash-flow treatment of the CSFB Prepay (App. F fn. 11). Image-checked Final PDF p. 80 and App. F PDF p. 5."
+  "notes": "Fn. 133 gives the employee's full question (Dec. 12, 2000 email): 'Is it ok for us to be entering into such an ‘obvious’ loan transaction?' App. F (PDF p. 5) totals: about $18.9M of improper gain (Nile), about $175M proceeds, debt understated $150M at Dec. 31, 2000; the examiner could not confirm, but found no evidence against, operating-cash-flow treatment of the CSFB Prepay (App. F fn. 11). Image-checked Final PDF p. 80 and App. F PDF p. 5.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 80); verb and civil 'fact-finder' standard correct. Fn. 133 email wording confirmed."
  },
  {
   "id": "K-056",
@@ -1240,7 +1350,9 @@
   "event_date": "2001",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Sakol also testified she did not feel pressured to publish research more positive than she thought it should be (App. F fn. 118). Launer's first name is not on this page; do not add it. Relevant to the analyst conflicts that Sarbanes-Oxley Title V addressed (check SOX cards before linking). Image-checked App. F PDF p. 35."
+  "notes": "Sakol also testified she did not feel pressured to publish research more positive than she thought it should be (App. F fn. 118). Launer's first name is not on this page; do not add it. Relevant to the analyst conflicts that Sarbanes-Oxley Title V addressed (check SOX cards before linking). Image-checked App. F PDF p. 35.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image (App. F, PDF 35); fn. 118 (Sakol did not perceive pressure to publish more positive research) confirmed. Report and letter named."
  },
  {
   "id": "K-057",
@@ -1261,7 +1373,9 @@
   "event_date": "2003-11-04",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Toronto Dominion argued it did not structure the prepays or create an SPE and was a 'mere participant'; the examiner said this was a question of fact but could not conclude its role was not substantial assistance (App. G PDF p. 64). The examiner also concluded a $2.5 million Sept. 19, 2001 payment could likely be recovered as a preference (PDF p. 68). Image-checked App. G PDF pp. 64-65."
+  "notes": "The examiner anticipated that Toronto Dominion 'may argue' it did not structure the prepays or create an SPE and was 'a mere participant' (the appendix records the examiner's statement of a possible defense, not an argument Toronto Dominion is shown to have made); the examiner said this was a question of fact but could not conclude its role was not substantial assistance (App. G PDF p. 64). The examiner also concluded a $2.5 million Sept. 19, 2001 payment could likely be recovered as a preference (PDF p. 68). Image-checked App. G PDF pp. 64-65.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). FIXED. Quote verified against the page image (App. G, PDF 64-65). Note corrected: 'Toronto Dominion argued' became 'the examiner anticipated that Toronto Dominion may argue', matching the text. Report and letter named."
  },
  {
   "id": "K-058",
@@ -1282,7 +1396,9 @@
   "event_date": "1998-12/2000-12",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Debt understated: ~$250M (12/31/98), $500M (6/30/99), $324M (12/31/99), $270M (12/31/00). The $2B is gross and includes deals partly funded by Citigroup, Barclays and RBS (Truman $500M, Jethro $675M, Nixon $324M), where Toronto Dominion acted as a conduit (fn. 3). Toronto Dominion itself lent over $1.1 billion. Image-checked App. G PDF p. 4."
+  "notes": "Debt understated: ~$250M (12/31/98), $500M (6/30/99), $324M (12/31/99), $270M (12/31/00). The $2B is gross and includes deals partly funded by Citigroup, Barclays and RBS (Truman $500M, Jethro $675M, Nixon $324M), where Toronto Dominion acted as a conduit (fn. 3). Toronto Dominion itself lent over $1.1 billion. Image-checked App. G PDF p. 4.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image (App. G, PDF 4, fn. 3; PDF 6 for the $1.1 billion). Report and letter named."
  },
  {
   "id": "K-059",
@@ -1303,7 +1419,9 @@
   "event_date": "2000-11-07",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Quote is a Nov. 7, 2000 Toronto Dominion email (fn. 136). A Dec. 1998 credit request said the 'sole purpose' of that prepay was to satisfy promises Enron made to the rating agencies about reducing leverage. The relationship returned 12% in 1997 (PDF p. 84). Image-checked Final PDF pp. 81-83. OCR text garbles the footnote marker after the quote; quote follows the page image."
+  "notes": "Quote is a Nov. 7, 2000 Toronto Dominion email (fn. 136). A Dec. 1998 credit request said the 'sole purpose' of that prepay was to satisfy promises Enron made to the rating agencies about reducing leverage. The relationship returned 12% in 1997 (PDF p. 84). Image-checked Final PDF pp. 81-83. OCR text garbles the footnote marker after the quote; quote follows the page image.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image by the Fact-Checker (Batson Final Report, PDF 81-83); verb and civil 'fact-finder' standard correct. The 'highly profitable' and 39%/20% figures confirmed (PDF 83)."
  },
  {
   "id": "K-060",
@@ -1324,6 +1442,8 @@
   "event_date": "2003-07-28",
   "from_ocr": true,
   "ocr_checked_against_image": true,
-  "notes": "Important for fairness: the library shows no SEC or criminal action against Toronto Dominion, RBS or CSFB. Absence in the library is not proof none occurred (gap). The SEC's Citigroup order itself is not in the library, only the press release. Image-checked App. G PDF p. 6."
+  "notes": "Important for fairness: the library shows no SEC or criminal action against Toronto Dominion, RBS or CSFB. Absence in the library is not proof none occurred (gap). The SEC's Citigroup order itself is not in the library, only the press release. Image-checked App. G PDF p. 6.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image (App. G, PDF 6, fn. 5): verbatim. Report and letter named."
  }
 ]

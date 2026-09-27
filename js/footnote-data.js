@@ -52,7 +52,7 @@ window.FOOTNOTE = {
   {
    "id": "ctx-1",
    "lines": "5134-5136",
-   "where": "Enron 2000 Form 10-K, Note 15 (Unconsolidated Equity Affiliates), which points to Note 16",
+   "where": "Enron 2000 Form 10-K, Note 9 (Unconsolidated Equity Affiliates), which points to Note 16",
    "text": "In 2000 and 1999, the Related Party, as described in Note 16, contributed $33 million and $15 million, respectively, of equity to Whitewing.",
    "annotations": [
     {
@@ -98,7 +98,7 @@ window.FOOTNOTE = {
   {
    "id": "ctx-2",
    "lines": "5141-5143",
-   "where": "Enron 2000 Form 10-K, Note 15 (Unconsolidated Equity Affiliates), which points to Note 16",
+   "where": "Enron 2000 Form 10-K, Note 9 (Unconsolidated Equity Affiliates), which points to Note 16",
    "text": "In 2000, The New Power Company sold warrants convertible into common stock of The New Power Company for $50 million to the Related Party (described in Note 16).",
    "annotations": [
     {

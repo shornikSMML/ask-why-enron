@@ -691,3 +691,14 @@ mark.anno.pw-target { outline-offset: 2px; }
 .fn-other h4 { font-family: var(--sans); font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: .9rem 0 .2rem; }
 .fn-excerpt { margin: .6rem 0; padding: .5rem .9rem; border-left: 3px solid var(--highlight-active); background: var(--bg-sunk); font-size: .95rem; }
 .fn-other-cites { font-family: var(--sans); font-size: .85rem; color: var(--muted); }
+.fn-excerpt-src { display: block; font-family: var(--sans); font-size: .76rem; color: var(--muted); margin-top: .3rem; }
+.pw-mini {
+  position: fixed; left: 50%; bottom: .8rem; transform: translate(-50%, 150%); z-index: 35; transition: transform .2s ease;
+  display: flex; align-items: center; gap: .9rem; max-width: calc(100vw - 1.5rem);
+  font-family: var(--sans); font-size: .85rem; background: var(--bg-raised); color: var(--text);
+  border: 1px solid var(--rule); border-radius: 999px; box-shadow: var(--shadow); padding: .45rem .95rem;
+}
+.pw-mini.show { transform: translate(-50%, 0); }
+.pw-mini-where { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; color: var(--muted); }
+.pw-mini a { font-weight: 600; white-space: nowrap; }
+@media print { .pw-mini { display: none !important; } }

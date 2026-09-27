@@ -79,6 +79,17 @@
       (isSample() ? " " + SAMPLE_FLAG : "") + "</p></div>";
     header.parentNode.insertBefore(bar, header.nextSibling);
     document.body.classList.add("on-pathway");
+    // A compact copy stays at the bottom of the screen after the reader scrolls down.
+    var mini = document.createElement("nav");
+    mini.className = "pw-mini";
+    mini.setAttribute("aria-label", "Pathway, short");
+    mini.innerHTML = '<span class="pw-mini-where">' + esc(p.title) + " · " + n + "/" + N + "</span>" +
+      (n > 1 ? '<a href="' + esc(stopHref(p, n - 1)) + '" aria-label="Previous stop">&larr;</a>' : "") +
+      (n < N ? '<a href="' + esc(stopHref(p, n + 1)) + '">Next stop &rarr;</a>' : '<a href="' + ROOT + "pathways.html#" + esc(p.id) + '">Finish &rarr;</a>');
+    document.body.appendChild(mini);
+    if ("IntersectionObserver" in window) {
+      new IntersectionObserver(function (es) { mini.classList.toggle("show", !es[0].isIntersecting); }).observe(bar);
+    } else mini.classList.add("show");
 
     // Keep the pathway when the reader switches lens or uses in-page links: nothing to do,
     // the query string stays. Scroll to and highlight the stop's target.

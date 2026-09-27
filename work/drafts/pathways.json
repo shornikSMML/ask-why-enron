@@ -126,7 +126,7 @@
      "page": "glossary.html",
      "anchor": "mark-to-market",
      "label": "Glossary: mark-to-market accounting",
-     "bridge": "Begin with the short definition. Two related ideas, fair value and unrealized gain, come up at every later stop."
+     "bridge": "Begin with the short definition. Two related ideas, fair value and unrealized gain, come up again and again."
     },
     {
      "page": "glossary.html",
@@ -204,7 +204,7 @@
     "title": "Mark-to-Market Explained",
     "subtitle": "Accounting beginners · about 30 minutes",
     "stops": [
-     "Glossary: mark-to-market accounting: Begin with the short definition. Two related ideas, fair value and unrealized gain, come up at every later stop.",
+     "Glossary: mark-to-market accounting: Begin with the short definition. Two related ideas, fair value and unrealized gain, come up again and again.",
      "Glossary: unrealized gain: An unrealized gain is a profit on paper: the value has gone up, but nothing has been sold and no cash has arrived. Keep this idea in mind for the rest of the pathway.",
      "Timeline: mark-to-market accounting for trading: Enron began using the method early. Notice that the sources give two different starting years, 1991 and 1992, and that the site reports both instead of choosing one.",
      "Chapter 2: What mark-to-market accounting means: Work through the ten-year contract example with the diagram. When a contract has no market price, ask who produces the estimate of what it is worth.",
@@ -306,7 +306,7 @@
      ]
     }
    ],
-   "closing_question": "An SPE could stay off Enron's books if an independent owner had at least 3% of its value at risk. Why might a rule based on a single number be easier to get around than a rule based on who really bears the risk?",
+   "closing_question": "An SPE could stay off Enron's books if an independent owner had at least 3% of its assets at risk. Why might a rule based on a single number be easier to get around than a rule based on who really bears the risk?",
    "handout": {
     "title": "The Special Purpose Entities",
     "subtitle": "Readers who want the mechanics · about 40 minutes",
@@ -322,7 +322,7 @@
      "Cast: Andrew Fastow: Read how Fastow's cases ended, and notice where two government announcements give different figures.",
      "Cast: Michael Kopper: Kopper, who worked for Fastow, took Fastow's place at Chewco. Read what the library shows about his case, and what it does not show."
     ],
-    "closing_question": "An SPE could stay off Enron's books if an independent owner had at least 3% of its value at risk. Why might a rule based on a single number be easier to get around than a rule based on who really bears the risk?",
+    "closing_question": "An SPE could stay off Enron's books if an independent owner had at least 3% of its assets at risk. Why might a rule based on a single number be easier to get around than a rule based on who really bears the risk?",
     "discussion_questions": [
      "Sketch the basic SPE from the first diagram of Chapter 3. Where would you look to check whether the outside 3% was really at risk?",
      "The board approved Fastow's dual role and added controls. Which control would you have strengthened, and how?",
@@ -429,7 +429,7 @@
      "page": "timeline.html?tag=auditors",
      "anchor": "",
      "label": "Timeline: auditor events",
-     "bridge": "The timeline is filtered to auditor events. Scroll through them to see the whole relationship, from the 1985 merger to the 2005 decision."
+     "bridge": "The timeline is filtered to auditor events. Scroll through them to see the whole relationship, from InterNorth's 1985 purchase of Houston Natural Gas to the 2005 decision."
     },
     {
      "page": "chapters/ch6.html",
@@ -451,7 +451,7 @@
      "Cast: David Duncan: Andersen's lead partner on Enron. Read his outcome carefully, including what the library does not yet show.",
      "Cast: Nancy Temple: The Andersen lawyer whose e-mail about the document policy is quoted in Chapter 6. Notice what the Cast says about charges.",
      "Chapter 6: Conviction, collapse, reversal: The Supreme Court reversed Andersen's conviction in 2005. Read exactly why, and what the reversal did and did not decide. The numbered notes link to the Court's opinion in the source library.",
-     "Timeline: auditor events: The timeline is filtered to auditor events. Scroll through them to see the whole relationship, from the 1985 merger to the 2005 decision.",
+     "Timeline: auditor events: The timeline is filtered to auditor events. Scroll through them to see the whole relationship, from InterNorth's 1985 purchase of Houston Natural Gas to the 2005 decision.",
      "Chapter 6: The Big Four: Finish with the effect on the profession. Notice what the GAO said it had found, and what it said it had not yet found."
     ],
     "closing_question": "An auditor is paid by the company it checks. After reading Andersen's story, what arrangements would you want in place so that an auditor can say no to its most important client?",
@@ -660,7 +660,7 @@
      "page": "footnote.html",
      "anchor": "note-9",
      "label": "Note 9: affiliates kept off the books",
-     "bridge": "Note 9 listed JEDI and Whitewing, each 50% owned and not consolidated. The Senate Governmental Affairs Committee staff later reported that experts pointed to this pattern, just below the level that requires consolidation, as a reason to look closer.",
+     "bridge": "Note 9 listed JEDI and Whitewing, each with a 50% voting interest and not consolidated. The Senate Governmental Affairs Committee staff later reported that experts pointed to this pattern, just below the level that requires consolidation, as a reason to look closer.",
      "cites": [
       {
        "source_id": "enron-10k-2000",
@@ -780,7 +780,7 @@
      "Note 1: accounting policies: Note 1 said Enron's statements included \"all subsidiaries controlled by Enron Corp.\" Keep the word \"controlled\" in mind: whether Enron had to consolidate an entity depended on rules about who controlled it and who bore its risk.",
      "Note 3: the trading book: Note 3 reported about $21.5 billion of trading assets at fair value, and cautioned that the face amounts of its contracts did not measure its real exposure to risk. Ask how a reader could tell how much of that value came from Enron's own estimates.",
      "Note 4: merchant investments: Note 4 said these investments were valued using market prices, independent appraisals and cash flow analyses. Compare it with what Chapter 3 says about the Raptors, which were set up to offset losses on the same kind of investment.",
-     "Note 9: affiliates kept off the books: Note 9 listed JEDI and Whitewing, each 50% owned and not consolidated. The Senate Governmental Affairs Committee staff later reported that experts pointed to this pattern, just below the level that requires consolidation, as a reason to look closer.",
+     "Note 9: affiliates kept off the books: Note 9 listed JEDI and Whitewing, each with a 50% voting interest and not consolidated. The Senate Governmental Affairs Committee staff later reported that experts pointed to this pattern, just below the level that requires consolidation, as a reason to look closer.",
      "Note 16: related party transactions: Now read the famous note phrase by phrase. Note 9 had already mentioned \"the Related Party\" and pointed ahead to this note; here is what that label covered.",
      "Note 15: commitments and guarantees: Note 15 listed Enron's guarantees and said management did not consider it likely that Enron would have to pay. Ask what a reader would need to know to judge that for themselves.",
      "The third-quarter 2001 report: In November 2001, Enron's quarterly report named the Raptors and set out their terms. The Senate subcommittee staff contrasted its nine-page account with the one-page notes of earlier years.",
@@ -800,7 +800,7 @@
    "title": "The Banks",
    "for_whom": "Finance students",
    "minutes": 35,
-   "intro": "This pathway looks at the banks and investment banks that did business with Enron. It explains \"prepays,\" deals that looked like trades but worked like loans, then looks at specific transactions, the institutions involved, and how the regulators' cases ended as far as the library shows.",
+   "intro": "This pathway looks at the banks and investment banks that did business with Enron. It explains \"prepays,\" deals that Senate investigators found looked like trades but worked like loans, then looks at specific transactions, the institutions involved, and how the regulators' cases ended as far as the library shows.",
    "stops": [
     {
      "page": "chapters/ch5.html",

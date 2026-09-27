@@ -97,7 +97,7 @@ p = {
     "intro": "Mark-to-market accounting values a contract or an investment at its current market value, and counts any change in that value as profit or loss right away. This pathway explains the idea in plain language, then follows it through Enron's trading contracts, its investments, and the structures built to protect its gains on paper.",
     "stops": [
         stop("glossary.html", "mark-to-market", "Glossary: mark-to-market accounting",
-             "Begin with the short definition. Two related ideas, fair value and unrealized gain, come up at every later stop."),
+             "Begin with the short definition. Two related ideas, fair value and unrealized gain, come up again and again."),
         stop("glossary.html", "unrealized-gain", "Glossary: unrealized gain",
              "An unrealized gain is a profit on paper: the value has gone up, but nothing has been sold and no cash has arrived. Keep this idea in mind for the rest of the pathway."),
         stop("timeline.html", "tl-1992", "Timeline: mark-to-market accounting for trading",
@@ -157,7 +157,7 @@ p = {
              "Kopper, who worked for Fastow, took Fastow's place at Chewco. Read what the library shows about his case, and what it does not show.",
              ["A-032"]),
     ],
-    "closing_question": "An SPE could stay off Enron's books if an independent owner had at least 3% of its value at risk. Why might a rule based on a single number be easier to get around than a rule based on who really bears the risk?",
+    "closing_question": "An SPE could stay off Enron's books if an independent owner had at least 3% of its assets at risk. Why might a rule based on a single number be easier to get around than a rule based on who really bears the risk?",
 }
 p["handout"] = handout(p, [
     "Sketch the basic SPE from the first diagram of Chapter 3. Where would you look to check whether the outside 3% was really at risk?",
@@ -196,7 +196,7 @@ p = {
              "The Supreme Court reversed Andersen's conviction in 2005. Read exactly why, and what the reversal did and did not decide. The numbered notes link to the Court's opinion in the source library.",
              ["G-019"]),
         stop("timeline.html?tag=auditors", "", "Timeline: auditor events",
-             "The timeline is filtered to auditor events. Scroll through them to see the whole relationship, from the 1985 merger to the 2005 decision."),
+             "The timeline is filtered to auditor events. Scroll through them to see the whole relationship, from InterNorth's 1985 purchase of Houston Natural Gas to the 2005 decision."),
         stop("chapters/ch6.html", "big-four", "Chapter 6: The Big Four",
              "Finish with the effect on the profession. Notice what the GAO said it had found, and what it said it had not yet found."),
     ],
@@ -254,7 +254,7 @@ p = {
     "title": "The Banks",
     "for_whom": "Finance students",
     "minutes": 35,
-    "intro": "This pathway looks at the banks and investment banks that did business with Enron. It explains \"prepays,\" deals that looked like trades but worked like loans, then looks at specific transactions, the institutions involved, and how the regulators' cases ended as far as the library shows.",
+    "intro": "This pathway looks at the banks and investment banks that did business with Enron. It explains \"prepays,\" deals that Senate investigators found looked like trades but worked like loans, then looks at specific transactions, the institutions involved, and how the regulators' cases ended as far as the library shows.",
     "stops": [
         stop("chapters/ch5.html", "tip-of-the-iceberg", "Chapter 5: The tip of the iceberg",
              "The end of Chapter 5 first brings in the banks. Notice the phrase the Senate subcommittee staff used for the prepays.",
@@ -329,7 +329,7 @@ p = {
              "Note 4 said these investments were valued using market prices, independent appraisals and cash flow analyses. Compare it with what Chapter 3 says about the Raptors, which were set up to offset losses on the same kind of investment.",
              ["N-011", "A-051"]), fallback=fb("chapters/ch2.html", "marking-investments")),
         dict(stop("footnote.html", "note-9", "Note 9: affiliates kept off the books",
-             "Note 9 listed JEDI and Whitewing, each 50% owned and not consolidated. The Senate Governmental Affairs Committee staff later reported that experts pointed to this pattern, just below the level that requires consolidation, as a reason to look closer.",
+             "Note 9 listed JEDI and Whitewing, each with a 50% voting interest and not consolidated. The Senate Governmental Affairs Committee staff later reported that experts pointed to this pattern, just below the level that requires consolidation, as a reason to look closer.",
              ["N-014", "N-019"]), fallback=fb("chapters/ch3.html", "chewco")),
         stop("footnote.html", "fn-p0", "Note 16: related party transactions",
              "Now read the famous note phrase by phrase. Note 9 had already mentioned \"the Related Party\" and pointed ahead to this note; here is what that label covered.",

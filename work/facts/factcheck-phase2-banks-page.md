@@ -75,3 +75,58 @@ Agent: Fact-Checker (instance B). Date: 2026-09-27. Method as in Round 2. I did 
 | `images/diagram-prepay.svg` + `-narrow.svg` | **PASS AFTER FIXES** | No factual errors. Should-fix #11 (title), #12 (attribute "Net effect"), #13 (page range), #14 (`fact_cards`). |
 
 The two new glossary terms (`aiding-and-abetting`, `equitable-subordination`) were ignored as instructed. Both are used correctly in context.
+
+## Final
+
+Date: 2026-09-27. I re-checked the built page, the two revised SVGs, `images/credits.json` and `js/glossary-data.js` themselves, not only the fixes report.
+
+### Page: `work/drafts/banks.html`
+
+**Citations: all 53 match their cards.** Every card exists and is OK or FIXED, and every `data-src` and page equals the card's. No candidate files are cited. Buffett is absent.
+
+| # | Finding | Status |
+|---|---|---|
+| 1 | $4.7 billion now cites K-061 (`batson-final-app-g`, page 64). | Resolved |
+| 2 | 15 percent now cites K-062 (`rpt-psi-fishtail`, page 6). | Resolved |
+| 3 | Ask Why now reads "Merrill Lynch, the SEC alleged, had Enron sign a letter saying Andersen had approved the accounting, without ever speaking to Andersen itself." This matches the complaint, paras. 43-45 (K-023): Merrill prepared the letter and never talked to Andersen. | Resolved |
+| 4, 5 | "assured us ..." is now attributed to "an internal Merrill document the SEC quoted". Fastow's statement is paraphrased without quotation marks. | Resolved |
+| 7 | Furst and Tilney: their voluntary staff meetings and the Justice Department investigation are now given. "Invoking that right is not evidence of guilt" is kept. | Resolved |
+| 8 | "In what he called a simplified version, ..." | Resolved |
+
+**The writer's optional additions:**
+- **RBS banker's 2002 indictment: supported.** It is cited to K-053, which is checked OK and which I image-checked on Final Report PDF 72-73. Fn. 112 says Bermingham "ultimately was indicted and charged with wire fraud for his role in allegedly improperly profiting from LJM1". The page's wording is "indicted in 2002 on allegations about a separate LJM1-related sale; the outcome is not in the library". It is accurate, uses allegation language and does not name him.
+- **"(or $250,000 plus 15 percent)": accurate.** The complaint, para. 19, says "a return of $250,000 plus 15% per annum or a flat 22.5% per annum". Optional polish, not required: "$250,000 plus 15 percent a year", so the 15 percent is not read as a one-time figure.
+- **Toronto Dominion: fixed.** All 4 instances now match the sources' spelling; no "Toronto-Dominion" remains.
+
+**Rest of the page:** unchanged and still correct. The guilty-plea rule holds: no bank is said to have pleaded guilty, and the Fifth Circuit's "plea agreements" are not used. The Mahonia dispute and the examiner's civil standard are still stated as before, and the tone is neutral.
+
+### Diagram: `images/diagram-prepay.svg` + `-narrow.svg`
+
+| # | Finding | Status |
+|---|---|---|
+| 11 | `<title>` and the `credits.json` title now read "How a bank 'prepay' worked, as Senate investigators and the SEC described it". "Dressed up as trades" is gone. | Resolved |
+| 12 | "Net effect, as Roach and the SEC described it:" in both versions and in `<desc>`. | Resolved |
+| 13 | Sources line reads "printed pp. 14–16, 60–63". | Resolved |
+| 14 | K-061 is in `fact_cards`. | Resolved |
+
+Fingerprints: wide `29459ac0...` and narrow `7e25c1e1...` match `sha256` and `narrow_sha256` in `credits.json`. The wide and narrow versions carry the same facts.
+
+### Glossary: `aiding-and-abetting` (cites K-040)
+
+**Correct.**
+- The general definition ("knowingly helping someone else commit a wrong") is right.
+- The Enron sentence matches K-040 (Final Report PDF 66, image-checked): actual knowledge plus substantial assistance; "should have known" or suspicion is not enough; routine banking services do not count.
+- "Only if" states necessary conditions. The examiner's full test also requires an officer's breach and foreseeable injury, but nothing stated is wrong.
+- The citation matches its card (`batson-final`, page 66).
+
+`equitable-subordination` has no citation. Its general definition is correct.
+
+### Verdicts
+
+| Item | Verdict |
+|---|---|
+| `work/drafts/banks.html` | **PASS** (optional polish: "15 percent a year") |
+| `images/diagram-prepay.svg` + `-narrow.svg` | **PASS** |
+| `js/glossary-data.js`, entry `aiding-and-abetting` | **PASS** |
+
+Corrections are logged as rows 144-150 in `build-log/corrections.md`.

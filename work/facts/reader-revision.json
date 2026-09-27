@@ -1,0 +1,823 @@
+[
+  {
+    "id": "G-001",
+    "topic": "Fastow: guilty plea",
+    "claim": "The Justice Department announced that on January 14, 2004, Andrew Fastow, Enron's former chief financial officer, pleaded guilty before Judge Kenneth Hoyt in federal court in Houston to two counts of conspiracy to commit securities and wire fraud (18 U.S.C. § 371), and agreed to cooperate with the Enron investigation.",
+    "quote": "Andrew S. Fastow, the former chief financial officer (CFO) of Enron Corporation, has pleaded guilty to two counts of conspiracy to commit securities and wire fraud and is cooperating with an ongoing criminal investigation",
+    "source_id": "doj-fastow-plea-press-2004",
+    "file": "sources/candidates/doj-press-2004-01-14-fastow-pleads-guilty.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #019, Jan. 14, 2004, paras. 1-2 and 'Andrew Fastow Pleads Guilty' section",
+      "lines": "17-27, 71-72"
+    },
+    "source_type": "government press release",
+    "verb": "pleaded guilty",
+    "people": [
+      "Andrew Fastow"
+    ],
+    "event_date": "2004-01-14",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-fastow-plea-press-2004.txt. Write 'the Justice Department announced'. The release calls him 'the highest-level defendant to be charged to date' (line 25). It is a press release describing the plea; the plea agreement itself is not in the library."
+  },
+  {
+    "id": "G-002",
+    "topic": "Fastow: plea agreement terms",
+    "claim": "According to the Justice Department, under the plea agreement Fastow agreed to serve a 10-year prison sentence on the two counts, to forfeit more than $29 million, and to cooperate fully. The remaining 96 criminal charges against him from a May 2003 indictment were to be dismissed if the government found he had cooperated fully and truthfully. Sentencing was then scheduled for April 19, 2004.",
+    "quote": "Under the terms of a plea agreement, Fastow will cooperate fully with the government's investigation, serve a 10-year prison sentence on the two counts to which he's pleading guilty, and forfeit more than $29 million.",
+    "source_id": "doj-fastow-plea-press-2004",
+    "file": "sources/candidates/doj-press-2004-01-14-fastow-pleads-guilty.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #019, para. 2; 'Andrew Fastow Pleads Guilty' section",
+      "lines": "27-32, 71-76, 91"
+    },
+    "source_type": "government press release",
+    "verb": "reported",
+    "people": [
+      "Andrew Fastow"
+    ],
+    "event_date": "2004-01-14",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-fastow-plea-press-2004.txt. Apostrophes in the quote appear as a replacement character in the text copy (encoding); the words are verbatim. The IRS Commissioner is quoted describing 'The forfeiture of more than $29 million in personal assets by the Fastows' (line 61), i.e. the $29M figure may cover both Fastows. The 10 years was the agreed term, not the sentence actually imposed: see G-004 (six years in 2006). The later release does not explain the difference; do not speculate."
+  },
+  {
+    "id": "G-003",
+    "topic": "Fastow: what he admitted",
+    "claim": "According to the Justice Department, as part of his plea Fastow admitted that he and other members of Enron's senior management conspired to manipulate Enron's reported financial results, that he caused Enron to enter improper transactions with the LJM entities he controlled, and that he engaged in self-dealing in the 'Southampton' transaction, Enron's $30 million buyout of LJM Swap Sub, LP.",
+    "quote": "Fastow admitted that he and other members of Enron's senior management conspired in wide-ranging schemes to fraudulently manipulate Enron's publicly reported financial results.",
+    "source_id": "doj-fastow-plea-press-2004",
+    "file": "sources/candidates/doj-press-2004-01-14-fastow-pleads-guilty.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #019, 'Andrew Fastow Pleads Guilty' section",
+      "lines": "78-89"
+    },
+    "source_type": "government press release",
+    "verb": "reported",
+    "people": [
+      "Andrew Fastow"
+    ],
+    "event_date": "2004-01-14",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-fastow-plea-press-2004.txt. These are admissions as described by DOJ, not the plea agreement text. The 2006 release (G-004) repeats the same admissions nearly word for word (lines 21-32)."
+  },
+  {
+    "id": "G-004",
+    "topic": "Fastow: sentence",
+    "claim": "The Justice Department announced that on September 26, 2006, Fastow was sentenced by Judge Kenneth Hoyt in Houston to six years in prison on the two conspiracy counts to which he had pleaded guilty on January 14, 2004. The release says his plea agreement required him to cooperate and to forfeit more than $20 million.",
+    "quote": "Andrew S. Fastow, the former chief financial officer (CFO) of Enron Corp., was sentenced to six years in prison for his role in the conspiracy",
+    "source_id": "doj-fastow-sentenced-press-2006",
+    "file": "sources/candidates/doj-press-2006-09-26-fastow-sentenced.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #06-647, Sept. 26, 2006, paras. 1-2",
+      "lines": "12-20"
+    },
+    "source_type": "government press release",
+    "verb": "reported",
+    "people": [
+      "Andrew Fastow"
+    ],
+    "event_date": "2006-09-26",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-fastow-sentenced-press-2006.txt. DISAGREEMENT: the 2004 release says forfeit 'more than $29 million' (G-002); the 2006 release says 'more than $20 million'. Report both or say 'millions of dollars'. Also, the 2004 release says he agreed to serve 10 years; the 2006 sentence was six years; the library does not explain why. The 2006 release says the conspiracy 'led to the collapse of Enron Corp. in 2002', but the same release gives the bankruptcy as Dec. 2, 2001; do not use '2002' for the collapse."
+  },
+  {
+    "id": "G-005",
+    "topic": "Lea Fastow: plea agreement",
+    "claim": "The Justice Department announced on January 14, 2004 that Lea Fastow, Enron's former assistant treasurer and Andrew Fastow's wife, had agreed to plead guilty to filing a false joint tax return for 2000 and was expected to enter the plea that day before Judge David Hittner. The parties agreed to recommend a sentence of five months in prison and five months of home confinement. She admitted, according to DOJ, failing to report $204,444.34 received from the Enron special purpose entity RADR from December 1997 through 2000.",
+    "quote": "former Enron Assistant Treasurer Lea W. Fastow, Andrew Fastow's wife, has agreed to plead guilty to filing a false joint tax return for 2000",
+    "source_id": "doj-fastow-plea-press-2004",
+    "file": "sources/candidates/doj-press-2004-01-14-fastow-pleads-guilty.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #019, para. 3 and 'Lea Fastow to Plead Guilty' section",
+      "lines": "34-38, 93-122"
+    },
+    "source_type": "government press release",
+    "verb": "reported",
+    "people": [
+      "Lea Fastow",
+      "Andrew Fastow"
+    ],
+    "event_date": "2004-01-14",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-fastow-plea-press-2004.txt. CAUTION: the release announces an agreement to plead and an 'expected' plea later that day; it does not confirm the plea was entered, and says 'Fastow faces sentencing at a date to be determined.' The five-month split sentence was a joint recommendation, not a sentence imposed. Her actual sentence is not in the library. The Glisan release (doj-glisan-plea-press-2003, lines 99-101) says she was charged in May 2003 with conspiracy to commit wire fraud, money laundering conspiracy and filing false tax returns."
+  },
+  {
+    "id": "G-006",
+    "topic": "Glisan: plea and sentence",
+    "claim": "The Justice Department announced that on September 10, 2003, Ben Glisan, Enron's former treasurer, pleaded guilty before Judge Kenneth Hoyt in Houston to conspiracy to commit wire and securities fraud. Under his plea agreement he was sentenced the same day to 60 months (five years) in prison and surrendered immediately. He also agreed to forfeit $938,000, not to seek a refund of about $412,000 in income taxes, and to three years of supervised release after prison.",
+    "quote": "Pursuant to his plea agreement, Glisan was sentenced by Judge Hoyt to serve 60 months in prison, and Glisan surrendered following the sentencing hearing to begin serving his prison sentence.",
+    "source_id": "doj-glisan-plea-press-2003",
+    "file": "sources/candidates/doj-press-2003-09-10-glisan-pleads-guilty.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #492, Sept. 10, 2003, paras. 1-2",
+      "lines": "16-29"
+    },
+    "source_type": "government press release",
+    "verb": "pleaded guilty",
+    "people": [
+      "Ben Glisan"
+    ],
+    "event_date": "2003-09-10",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-glisan-plea-press-2003.txt. He had been named in 26 counts of a superseding indictment returned May 1, 2003, which also named Fastow and Dan Boyle (lines 31-35). Plea and sentence on the same day. This answers the cast page's 'does not say what he was convicted of, whether by plea or at trial, or his sentence'."
+  },
+  {
+    "id": "G-007",
+    "topic": "Glisan: what he admitted (Talon/Raptor I)",
+    "claim": "According to the Justice Department, Glisan admitted that he and others deliberately structured the SPE Talon (Raptor I) to look as if it met the accounting rules while violating them: LJM's $30 million '3 percent' outside equity was not truly at risk because Enron agreed in advance to return it with a profit, $41 million in all, paid through a 'put' option that the release says had no business purpose.",
+    "quote": "Glisan admitted that he and others at Enron deliberately structured Talon in a way that appeared to comply with, but in fact violated, applicable accounting rules.",
+    "source_id": "doj-glisan-plea-press-2003",
+    "file": "sources/candidates/doj-press-2003-09-10-glisan-pleads-guilty.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #492, paras. 4-7",
+      "lines": "37-79"
+    },
+    "source_type": "government press release",
+    "verb": "reported",
+    "people": [
+      "Ben Glisan",
+      "Andrew Fastow",
+      "Michael Kopper"
+    ],
+    "event_date": "2000",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-glisan-plea-press-2003.txt. Admissions as described by DOJ. The release also calls Talon/Raptor 1 a 'prototype' for Raptors 2, 3 and 4 and says their insolvency in fall 2001 'played a substantial part' in Enron's collapse (lines 75-79). The $41 million matches the Powers Report's account of the Raptor put premium already used on the site (footnote.json, ~line 758)."
+  },
+  {
+    "id": "G-008",
+    "topic": "Kopper, Duncan, Andersen: DOJ summary in 2003",
+    "claim": "In its September 2003 Glisan release, the Justice Department stated that Michael Kopper pleaded guilty in August 2002 to conspiracy to commit wire fraud and money laundering; that Arthur Andersen partner David Duncan pleaded guilty in 2002 to obstructing an SEC investigation into Enron; and that Andersen was convicted of obstruction of justice in June 2002.",
+    "quote": "Arthur Andersen partner David Duncan, pleaded guilty in 2002 to obstructing an SEC investigation into Enron. Andersen itself was convicted of obstruction of justice in June 2002.",
+    "source_id": "doj-glisan-plea-press-2003",
+    "file": "sources/candidates/doj-press-2003-09-10-glisan-pleads-guilty.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #492, second-to-last section",
+      "lines": "110-122"
+    },
+    "source_type": "government press release",
+    "verb": "stated",
+    "people": [
+      "Michael Kopper",
+      "David Duncan"
+    ],
+    "event_date": "2002",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-glisan-plea-press-2003.txt. Background summary in a release about Glisan, not a primary record of those cases. Kopper's charges agree with the SEC's Fastow complaint (card B-039). Duncan: this is the only library statement of what he pleaded guilty to, and it differs in wording from the Supreme Court's 'pleaded guilty to witness tampering' (G-023). Neither gives the date, and nothing in the library covers what later happened to Duncan's plea; keep gap 3 partly open."
+  },
+  {
+    "id": "G-009",
+    "topic": "Causey: sentence",
+    "claim": "The Justice Department announced that on November 15, 2006, Richard Causey, Enron's former chief accounting officer, was sentenced by Judge Sim Lake in Houston to 66 months in prison on one count of securities fraud, to which he had pleaded guilty on December 28, 2005. As part of his plea agreement he agreed to forfeit $1.25 million, pay a $25,000 fine, and give up any deferred compensation claims against Enron.",
+    "quote": "Causey, of The Woodlands, Texas, pleaded guilty on Dec. 28, 2005, to one count of securities fraud. He was sentenced today before Judge Sim Lake",
+    "source_id": "doj-causey-sentenced-press-2006",
+    "file": "sources/candidates/doj-press-2006-11-15-causey-sentenced.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #06-763, Nov. 15, 2006, paras. 1-2",
+      "lines": "10-19"
+    },
+    "source_type": "government press release",
+    "verb": "reported",
+    "people": [
+      "Richard Causey"
+    ],
+    "event_date": "2006-11-15",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-causey-sentenced-press-2006.txt. The release also says Causey admitted conspiring with senior management to make false and misleading statements in SEC filings and analyst calls (lines 20-28). Note: he pleaded to one count of securities fraud but 'admitted to conspiring' per DOJ; quote rather than paraphrase if both are mentioned."
+  },
+  {
+    "id": "G-010",
+    "topic": "Delainey and Despain: sentences",
+    "claim": "In its Fastow sentencing release, the Justice Department stated that former Enron executive David Delainey was sentenced on September 18, 2006 to 30 months in prison on one count of insider trading, and Timothy Despain was sentenced on September 15, 2006 to four years of probation and a $10,000 fine on one count of conspiracy to commit securities fraud.",
+    "quote": "Delainey was sentenced on Sept. 18, 2006, to 30 months in prison on one count of insider trading.",
+    "source_id": "doj-fastow-sentenced-press-2006",
+    "file": "sources/candidates/doj-press-2006-09-26-fastow-sentenced.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #06-647, para. 5",
+      "lines": "37-41"
+    },
+    "source_type": "government press release",
+    "verb": "reported",
+    "people": [
+      "David Delainey",
+      "Timothy Despain"
+    ],
+    "event_date": "2006-09-18",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-fastow-sentenced-press-2006.txt. Not requested in the brief, but answers the cast page's statement that the library gives no details of Delainey's charge or sentence. Despain is not currently in the cast."
+  },
+  {
+    "id": "G-011",
+    "topic": "Kopper: plea announced (and the date problem)",
+    "claim": "At a Justice Department news conference, Deputy Attorney General Larry Thompson formally announced the guilty plea in Houston of former Enron managing director Michael Kopper. Thompson said Kopper pleaded guilty to a criminal information charging him with taking part in a conspiracy against Enron and its shareholders, and that he was cooperating with the investigation.",
+    "quote": "Former Enron executive Kopper pled guilty to an information charging him with participation in a conspiracy against the company and its shareholders.",
+    "source_id": "doj-dag-kopper-plea-transcript-2002",
+    "file": "sources/candidates/doj-dag-transcript-2002-08-21-kopper-plea.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "News conference transcript, Thompson opening remarks",
+      "lines": "3, 21-47"
+    },
+    "source_type": "government press release",
+    "verb": "stated",
+    "people": [
+      "Michael Kopper"
+    ],
+    "event_date": "2002-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-dag-kopper-plea-transcript-2002.txt. DATE: the document's own page title reads '08-22-02: Deputy Attorney General Transcript News Conference' (line 3; also the HTML <title>), while its web address says 082102. The spoken text never states a date; it refers only to 'today', 'this morning' and an information 'filed today in court' (line 279). So the document itself does not settle Aug 21 vs. Aug 22. The SEC's Fastow complaint (card B-039, already on the site) gives the plea date as Aug 21, 2002, and the SEC's final judgment against Kopper is dated Aug 22 (cast page). Safest wording: 'In August 2002 ... (the SEC gives the plea date as August 21)'. SPECIFIC CHARGES: this transcript does not name statutes; it says only 'a conspiracy'. The named charges (conspiracy to commit wire fraud and money laundering) come from the SEC complaint and DOJ's 2003 Glisan release (G-008). This is a transcript of spoken remarks (with '(sic)' and '(sp)' marks), not a formal release; treat source_type as a DOJ news conference transcript."
+  },
+  {
+    "id": "G-012",
+    "topic": "Kopper: the schemes charged",
+    "claim": "Thompson said the criminal information described a conspiracy from 1997 through July 2001 by Kopper and others inside and outside Enron, including Enron's chief financial officer, and charged three schemes, RADR, Chewco and Southampton, which shared the purpose of keeping Enron's investments off its balance sheet.",
+    "quote": "The information alleges that the conspirators created an array of companies designed to disguise Enron's vulnerability to risk, risk and losses, and to benefit the conspirators at the expense of Enron's shareholders.",
+    "source_id": "doj-dag-kopper-plea-transcript-2002",
+    "file": "sources/candidates/doj-dag-transcript-2002-08-21-kopper-plea.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "News conference transcript, Thompson opening remarks",
+      "lines": "47-68"
+    },
+    "source_type": "government press release",
+    "verb": "stated",
+    "people": [
+      "Michael Kopper",
+      "Andrew Fastow"
+    ],
+    "event_date": "2002-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-dag-kopper-plea-transcript-2002.txt. The transcript spells the schemes 'Radar' and 'South Hampton' (line 61); other library documents spell them RADR and Southampton. The CFO is not named in the transcript (Fastow held that post; do not put his name inside any quotation). 'The information alleges' - these are allegations in a charging document, although Kopper pleaded guilty to it."
+  },
+  {
+    "id": "G-013",
+    "topic": "Kopper: forfeiture and possible sentence",
+    "claim": "Thompson said Kopper agreed to forfeit $12 million to satisfy both the plea and a related SEC complaint, to be distributed by the SEC to injured investors, and that the information sought about $23 million more in forfeiture. Assistant Attorney General Michael Chertoff said the plea agreement exposed Kopper to a maximum of 15 years in prison; Thompson said sentencing would be delayed until the government had secured his cooperation.",
+    "quote": "Mr. Kopper has accepted responsibility for his role in these offenses and has agreed to forfeit $12 million to satisfy both this plea and a related SEC complaint",
+    "source_id": "doj-dag-kopper-plea-transcript-2002",
+    "file": "sources/candidates/doj-dag-transcript-2002-08-21-kopper-plea.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "News conference transcript, Thompson remarks and Q&A (Chertoff)",
+      "lines": "29-41, 197-199; Q&A lines 223, 277-289, 463-467"
+    },
+    "source_type": "government press release",
+    "verb": "stated",
+    "people": [
+      "Michael Kopper"
+    ],
+    "event_date": "2002-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-dag-kopper-plea-transcript-2002.txt. DISAGREEMENT: the site currently says (from the SEC's Fastow complaint, card B-039) that Kopper 'agreed to forfeit $4 million'. The DOJ transcript says $12 million covering both the criminal plea and the SEC case, plus about $23 million more sought ('it's in addition to the $12 million'). The figures may measure different things (criminal forfeiture only vs. combined forfeiture and disgorgement); the library does not reconcile them. Say so rather than choosing. His actual sentence is NOT in the library; gap 6 stays open for the sentence."
+  },
+  {
+    "id": "G-014",
+    "topic": "Kopper: SEC settlement announced",
+    "claim": "At the same news conference, SEC enforcement director Stephen Cutler said the SEC had filed a settled civil fraud suit against Kopper that day, under which, subject to court approval, he would be permanently enjoined from violating the antifraud laws, permanently barred from serving as an officer or director of a public company, and would disgorge and forfeit about $12 million.",
+    "quote": "Earlier today the Securities and Exchange Commission filed a settled civil lawsuit against Mr. Kopper charging him with fraud.",
+    "source_id": "doj-dag-kopper-plea-transcript-2002",
+    "file": "sources/candidates/doj-dag-transcript-2002-08-21-kopper-plea.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "News conference transcript, Cutler remarks",
+      "lines": "99-115"
+    },
+    "source_type": "government press release",
+    "verb": "stated",
+    "people": [
+      "Michael Kopper"
+    ],
+    "event_date": "2002-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-dag-kopper-plea-transcript-2002.txt. Consistent with the cast page (SEC final judgment Aug 22, 2002). The transcript also says the investigation 'has already produced the guilty plea of Arthur Andersen partner David Duncan, and the trial conviction of the Arthur Andersen partnership' (lines 71-74), confirming both happened before August 2002."
+  },
+  {
+    "id": "G-015",
+    "topic": "Andersen: indictment and charge",
+    "claim": "A federal grand jury in the Southern District of Texas indicted Arthur Andersen LLP on one charge, obstruction of justice under 18 U.S.C. § 1512(b)(2). The indictment, stamped as filed on March 7, 2002, charges that between about October 10 and November 9, 2001, Andersen, through its partners and others, corruptly persuaded its employees to withhold records from, and to destroy and conceal records for, regulatory and criminal proceedings and investigations.",
+    "quote": "ANDERSEN, through its partners and others, did knowingly, intentionally and corruptly persuade and attempt to persuade other persons, to wit: ANDERSEN employees, with intent to cause and induce such persons to (a) withhold records, documents and other objects from official proceedings",
+    "source_id": "doj-andersen-indictment-2002",
+    "file": "sources/candidates/doj-andersen-indictment-2002.pdf",
+    "locator": {
+      "pdf_page": "1, 6-7",
+      "printed_page": "pp. 1, 6-7",
+      "section": "Caption; filing stamp; 'The Charge: Obstruction of Justice', para. 13",
+      "lines": "1-20, 285-306"
+    },
+    "source_type": "indictment allegation",
+    "verb": "alleged",
+    "people": [],
+    "event_date": "2002-03-07",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-andersen-indictment-2002.txt. Filing stamp checked against the page image (PDF p. 1): 'CLERK. US. DISTRICT COURT Filed 3/7/02'. This DOJ web copy is a retyped version: the case number is blank and the foreperson line is unsigned. The manifest notes the indictment was unsealed at a DOJ news conference on Mar. 14, 2002 (not in library). Use 'the indictment charged/alleged'. The Supreme Court opinion (G-022) confirms 'In March 2002 ... indicted ... on one count'. Line numbers approximate."
+  },
+  {
+    "id": "G-016",
+    "topic": "Andersen indictment: the alleged shredding",
+    "claim": "The indictment alleged that, beginning October 23, 2001, Andersen partners on the Enron engagement launched a 'wholesale destruction' of documents in Houston, calling staff to urgent meetings and telling them to destroy Enron documents immediately, and that tons of paper were shredded and computer files purged over the following weeks. It alleged that Enron documents were also destroyed in Portland, Chicago and London.",
+    "quote": "Tons of paper relating to the Enron audit were promptly shredded as part of the orchestrated document destruction.",
+    "source_id": "doj-andersen-indictment-2002",
+    "file": "sources/candidates/doj-andersen-indictment-2002.pdf",
+    "locator": {
+      "pdf_page": "5-6",
+      "printed_page": "pp. 5-6",
+      "section": "III. The Wholesale Destruction of Documents by Andersen, paras. 10-11",
+      "lines": "220-270"
+    },
+    "source_type": "indictment allegation",
+    "verb": "alleged",
+    "people": [],
+    "event_date": "2001-10-23",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-andersen-indictment-2002.txt. Allegations only. Para. 12 (PDF p. 6) further alleges that after the SEC subpoena of about Nov. 8, 2001, the team was told there could be 'no more shredding'. The Supreme Court's opinion describes the same events as facts in its background, largely citing the government's brief (G-022). The indictment gives no count of documents destroyed (gap 20 stays open)."
+  },
+  {
+    "id": "G-017",
+    "topic": "Andersen indictment: what it alleged Andersen knew",
+    "claim": "The indictment alleged that by October 16, 2001 Andersen knew significant facts the public did not, including that the $1.2 billion equity reduction corrected earlier improper accounting by Andersen and Enron, that Andersen had been told of Sherron Watkins's concerns about possible fraud, and that on about October 9, 2001, anticipating litigation, it had hired an outside New York law firm.",
+    "quote": "ANDERSEN was aware by this time of additional significant facts unknown to the public.",
+    "source_id": "doj-andersen-indictment-2002",
+    "file": "sources/candidates/doj-andersen-indictment-2002.pdf",
+    "locator": {
+      "pdf_page": "3-4",
+      "printed_page": "pp. 3-4",
+      "section": "II. The Anticipation of Litigation, para. 8",
+      "lines": "110-190"
+    },
+    "source_type": "indictment allegation",
+    "verb": "alleged",
+    "people": [
+      "Sherron Watkins"
+    ],
+    "event_date": "2001-10",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-andersen-indictment-2002.txt. Allegations only. Para. 8 also alleges an internal Andersen review in 2000 rated the Enron audit team 'only a \"2\" on a scale of one to five', and that the engagement team had gone against its own Professional Standards Group on SPE accounting in spring 2001. Useful for the 'Who Knew What, When' lens (tag as allegation)."
+  },
+  {
+    "id": "G-018",
+    "topic": "Andersen v. U.S.: holding",
+    "claim": "In Arthur Andersen LLP v. United States, decided May 31, 2005, the Supreme Court held that the jury instructions failed to properly explain the elements of the 'corrupt persuasion' crime under § 1512(b), reversed the Fifth Circuit's judgment affirming Andersen's conviction, and sent the case back for further proceedings.",
+    "quote": "We hold that the jury instructions failed to convey properly the elements of a “corrup[t] persua[sion]” conviction under § 1512(b), and there-fore reverse.",
+    "source_id": "andersen-scotus-full-usreports",
+    "file": "sources/candidates/arthur-andersen-v-us-544-us-696-2005-usreports.pdf",
+    "locator": {
+      "pdf_page": 3,
+      "printed_page": "544 U.S. at 698",
+      "section": "Opinion of the Court (Rehnquist, C.J.)",
+      "lines": "129-135"
+    },
+    "source_type": "court holding",
+    "verb": "held",
+    "people": [],
+    "event_date": "2005-05-31",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. Quote the opinion, not the Syllabus. The printed text hyphenates 'there-fore' across a line break; write 'therefore'. Disposition at p. 708 (PDF 13): 'The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.' Decision date from the header, p. 696 (PDF 1). The Court did not find Andersen innocent. What happened after the remand is NOT in the library (gap 5 remains open for that part)."
+  },
+  {
+    "id": "G-019",
+    "topic": "Andersen v. U.S.: the vote",
+    "claim": "The decision was unanimous; Chief Justice Rehnquist wrote the opinion for the Court.",
+    "quote": "Rehnquist, C. J., delivered the opinion for a unanimous Court.",
+    "source_id": "andersen-scotus-full-usreports",
+    "file": "sources/candidates/arthur-andersen-v-us-544-us-696-2005-usreports.pdf",
+    "locator": {
+      "pdf_page": 2,
+      "printed_page": "544 U.S. at 697",
+      "section": "Reporter's line preceding the opinion",
+      "lines": "101"
+    },
+    "source_type": "court holding",
+    "verb": "held",
+    "people": [],
+    "event_date": "2005-05-31",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. This line is printed at the end of the Syllabus material in U.S. Reports; the opinion itself (pp. 698-708) has no concurrences or dissents. Citing '544 U.S. 696, 697' is acceptable for the vote."
+  },
+  {
+    "id": "G-020",
+    "topic": "Andersen v. U.S.: why the instructions were flawed (honest belief; 'impede')",
+    "claim": "The Court said the instructions required strikingly little blame: the jury was told it could convict even if Andersen honestly and sincerely believed its conduct was lawful. The trial court had also, at the government's urging, dropped the word 'dishonestly' from the definition of 'corruptly' and added 'impede', so that the definition reached innocent conduct.",
+    "quote": "Indeed, it is striking how little culpability the instructions required.",
+    "source_id": "andersen-scotus-full-usreports",
+    "file": "sources/candidates/arthur-andersen-v-us-544-us-696-2005-usreports.pdf",
+    "locator": {
+      "pdf_page": "11-12",
+      "printed_page": "544 U.S. at 706-707",
+      "section": "Opinion of the Court",
+      "lines": "515-555"
+    },
+    "source_type": "court holding",
+    "verb": "held",
+    "people": [],
+    "event_date": "2005-05-31",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. Other short verbatim options on the same pages: 'The instructions also diluted the meaning of “corruptly” so that it covered innocent conduct.' (p. 706); 'With regard to such innocent conduct, the “corruptly” instructions did no limiting work whatsoever.' (p. 707)."
+  },
+  {
+    "id": "G-021",
+    "topic": "Andersen v. U.S.: why the instructions were flawed (no link to a proceeding)",
+    "claim": "The Court also held the instructions were flawed because they let the jury convict without finding any link ('nexus') between persuading employees to destroy documents and a particular official proceeding that Andersen had in mind.",
+    "quote": "A “knowingly . . . corrup[t] persaude[r]” cannot be someone who persuades others to shred documents under a document retention policy when he does not have in contemplation any particular official proceeding in which those documents might be material.",
+    "source_id": "andersen-scotus-full-usreports",
+    "file": "sources/candidates/arthur-andersen-v-us-544-us-696-2005-usreports.pdf",
+    "locator": {
+      "pdf_page": "12-13",
+      "printed_page": "544 U.S. at 707-708",
+      "section": "Opinion of the Court",
+      "lines": "595-610"
+    },
+    "source_type": "court holding",
+    "verb": "held",
+    "people": [],
+    "event_date": "2005-05-31",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. 'persaude[r]' is the official U.S. Reports misspelling; keep it (or add [sic]) if quoting, or use the shorter paraphrase. p. 708: 'For these reasons, the jury instructions here were flawed in important respects.'"
+  },
+  {
+    "id": "G-022",
+    "topic": "Andersen v. U.S.: the trial, as the Court describes it",
+    "claim": "The Court's opinion states that Andersen was indicted in March 2002 on one count; that the jury deliberated for seven days, declared itself deadlocked, received an 'Allen charge' (an instruction urging jurors to try again to agree) and returned a guilty verdict after three more days; and that the Fifth Circuit affirmed.",
+    "quote": "When the case went to the jury, that body deliberated for seven days and then declared that it was deadlocked.",
+    "source_id": "andersen-scotus-full-usreports",
+    "file": "sources/candidates/arthur-andersen-v-us-544-us-696-2005-usreports.pdf",
+    "locator": {
+      "pdf_page": 7,
+      "printed_page": "544 U.S. at 702",
+      "section": "Opinion of the Court, background",
+      "lines": "328-345"
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "stated",
+    "people": [],
+    "event_date": "2002",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. The opinion does not give the verdict date; the site's June 15, 2002 comes from Batson (card C-038) and DOJ's Glisan release says 'June 2002' (G-008). 'Allen charge' needs a glossary entry or plain-language gloss."
+  },
+  {
+    "id": "G-023",
+    "topic": "Duncan: plea, per the Supreme Court",
+    "claim": "The Supreme Court's opinion states that David Duncan, who headed Andersen's Enron engagement team, was fired and later pleaded guilty to witness tampering.",
+    "quote": "Duncan was fired and later pleaded guilty to witness tampering.",
+    "source_id": "andersen-scotus-full-usreports",
+    "file": "sources/candidates/arthur-andersen-v-us-544-us-696-2005-usreports.pdf",
+    "locator": {
+      "pdf_page": 7,
+      "printed_page": "544 U.S. at 702",
+      "section": "Opinion of the Court, background",
+      "lines": "326-327"
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "stated",
+    "people": [
+      "David Duncan"
+    ],
+    "event_date": "2002",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. Background statement, not a holding about Duncan. Wording differs from DOJ 2003 ('pleaded guilty in 2002 to obstructing an SEC investigation', G-008); both describe the same plea under the obstruction/witness-tampering statute, but the library has no charging document or judgment for Duncan. Give neither a date beyond '2002' (DOJ). What happened to his plea afterwards is not in the library; say so."
+  },
+  {
+    "id": "G-024",
+    "topic": "Skilling: Fifth Circuit on remand (2011)",
+    "claim": "On April 6, 2011, on remand from the Supreme Court, the Fifth Circuit held that the error of letting the jury consider the invalid honest-services theory was harmless beyond a reasonable doubt, affirmed Skilling's convictions on all counts, and again vacated his sentence and sent the case back for resentencing, for the reasons in its 2009 opinion.",
+    "quote": "The alternative-instruction error in this case was harmless beyond a reasonable doubt. Accordingly, we AFFIRM the convictions on all counts, and, for the reasons set forth in our previous opinion, we VACATE the sentence and REMAND for resentencing.",
+    "source_id": "ca5-skilling-2011-remand",
+    "file": "sources/candidates/ca5-us-v-skilling-2011-remand.pdf",
+    "locator": {
+      "pdf_page": "1-2, 16",
+      "printed_page": "pp. 1-2, 16",
+      "section": "Opinion (Prado, J.), introduction and IV. Conclusion",
+      "lines": "1-60, 618-622"
+    },
+    "source_type": "court holding",
+    "verb": "held",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2011-04-06",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/ca5-skilling-2011-remand.txt. 'Harmless' means the court concluded beyond a reasonable doubt that the jury would have convicted him on a valid theory (conspiracy to commit securities fraud) anyway, because the evidence was 'overwhelming' (p. 16). The 2009 reason for resentencing: a wrongly applied 'financial institution' sentencing enhancement (p. 2, lines 75-79). Panel: Smith and Prado, Circuit Judges, and Moses, District Judge. Reported at 638 F.3d 480 (per the 2013 agreement, G-027)."
+  },
+  {
+    "id": "G-025",
+    "topic": "Skilling: which convictions stood",
+    "claim": "The Fifth Circuit said Skilling had been convicted in May 2006 of one count of conspiracy, twelve of securities fraud, five of making false representations to auditors and one of insider trading, and sentenced to 292 months, three years of supervised release and $45 million in restitution. It rejected his argument that the error also tainted the other convictions, so all of them stood.",
+    "quote": "Because we find that the alternative-instruction error in this case was harmless with respect to the conspiracy conviction, it follows that Skilling has no basis on which to challenge the remaining convictions.",
+    "source_id": "ca5-skilling-2011-remand",
+    "file": "sources/candidates/ca5-us-v-skilling-2011-remand.pdf",
+    "locator": {
+      "pdf_page": "2, 16",
+      "printed_page": "pp. 2, 16",
+      "section": "I. Background; III.B The Other Convictions",
+      "lines": "63-72, 606-617"
+    },
+    "source_type": "court holding",
+    "verb": "held",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2011-04-06",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/ca5-skilling-2011-remand.txt. Counts agree with the site's '19 counts'. Footnote 6 (p. 16) adds that even without the conspiracy finding, most other convictions rest on Skilling's own conduct."
+  },
+  {
+    "id": "G-026",
+    "topic": "Skilling: sentencing agreement (background facts)",
+    "claim": "A sentencing agreement between the Justice Department's Fraud Section and Skilling, filed in federal court in Houston on May 8, 2013, recites that the Supreme Court denied Skilling's petition for review of the 2011 ruling on April 16, 2012, that he had been in federal prison custody since December 13, 2006, and that no resentencing date had yet been set.",
+    "quote": "On April 16, 2012, the Supreme Court denied the defendant's petition for a writ of certiorari.",
+    "source_id": "doj-skilling-sentencing-agreement-2013",
+    "file": "sources/candidates/doj-us-v-skilling-sentencing-agreement-2013.pdf",
+    "locator": {
+      "pdf_page": "1-2",
+      "printed_page": "pp. 1-2",
+      "section": "Sentencing Agreement, 'Background', paras. 1-6 (Doc. 1316-1, Cr. No. 4:04-cr-25)",
+      "lines": "1-80"
+    },
+    "source_type": "court filing (agreement between the parties)",
+    "verb": "stated",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2013-05-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-skilling-sentencing-agreement-2013.txt. These are the parties' recitals, not court findings; they agree with the court opinions in the library (jury verdict May 25, 2006; sentence Oct 23, 2006; Fifth Circuit Jan 6, 2009; Supreme Court June 24, 2010; Fifth Circuit Apr 6, 2011). The defendant's signature page carries a fax stamp dated 05-05-2013 (PDF p. 7)."
+  },
+  {
+    "id": "G-027",
+    "topic": "Skilling: sentencing agreement (terms)",
+    "claim": "In the agreement, the government and Skilling agreed that the correct guidelines range was 188 to 235 months, and agreed to jointly recommend a one-step reduction giving a range of 168 to 210 months. The government would take no position on the sentence within that range, and neither side would appeal a sentence inside it. Skilling agreed to give up all further challenges to his convictions and sentence and not to contest the 2006 forfeiture order.",
+    "quote": "the Government and the defendant agree to recommend jointly that the District Court apply a one-level downward variance",
+    "source_id": "doj-skilling-sentencing-agreement-2013",
+    "file": "sources/candidates/doj-us-v-skilling-sentencing-agreement-2013.pdf",
+    "locator": {
+      "pdf_page": "2-3",
+      "printed_page": "pp. 2-3",
+      "section": "Sentencing Agreement, 'Terms and Conditions', paras. 7-12",
+      "lines": "84-147"
+    },
+    "source_type": "court filing (agreement between the parties)",
+    "verb": "stated",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2013-05-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-skilling-sentencing-agreement-2013.txt. VERB: 'agreed' / 'the agreement provides'. This is a recommendation to the judge, not the sentence. The sentence actually imposed at resentencing is NOT in the library (DOJ's 2013 resentencing release could not be downloaded; the judgment is on PACER) - gap 4 stays partly open. Para. 13: government will not oppose credit for about six weeks of home confinement."
+  },
+  {
+    "id": "G-028",
+    "topic": "Skilling: why the government agreed",
+    "claim": "Among the reasons the agreement lists, more than $40 million forfeited from Skilling's assets had been available for years for victims of the Enron crimes but could not legally be distributed while litigation continued; ending the appeals would speed restitution. The agreement also notes the prosecution had lasted more than ten years.",
+    "quote": "A recovery in excess of $40 million through forfeiture of the defendant's assets has been available for years for distribution to the victims of the Enron crimes through restitution",
+    "source_id": "doj-skilling-sentencing-agreement-2013",
+    "file": "sources/candidates/doj-us-v-skilling-sentencing-agreement-2013.pdf",
+    "locator": {
+      "pdf_page": "4-5",
+      "printed_page": "pp. 4-5",
+      "section": "Sentencing Agreement, 'Relevant Considerations', para. 15(a)-(e)",
+      "lines": "178-228"
+    },
+    "source_type": "court filing (agreement between the parties)",
+    "verb": "stated",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2013-05-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/doj-skilling-sentencing-agreement-2013.txt. These are the government's stated considerations in a negotiated filing. Useful for 'Follow the Money'. Attribute: 'the agreement says'."
+  },
+  {
+    "id": "G-029",
+    "topic": "Duncan: SEC civil case settled",
+    "claim": "On January 28, 2008, the SEC filed and simultaneously settled a civil case against David Duncan. Without admitting or denying the allegations, he consented to a permanent injunction against violating the antifraud provisions (Section 10(b) and Rule 10b-5) and to an order permanently suspending him from appearing or practicing before the SEC as an accountant. The settlement was subject to court approval.",
+    "quote": "Duncan settled without admitting or denying the allegations or findings in the Commission's Complaint and Order.",
+    "source_id": "sec-duncan-litrel-20441",
+    "file": "sources/candidates/sec-litrel-20441-duncan-2008.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "SEC Litigation Release No. 20441 / AAER No. 2777, Jan. 28, 2008, paras. 1-2, 4",
+      "lines": "282-298"
+    },
+    "source_type": "SEC allegation",
+    "verb": "reported",
+    "people": [
+      "David Duncan"
+    ],
+    "event_date": "2008-01-28",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/sec-duncan-litrel-20441.txt. Civil Action No. 4:08-CV-00314 (S.D. Tex.). The release lists no money penalty or disgorgement for Duncan. It says NOTHING about his criminal case (no mention of a plea). The allegations (reckless in not knowing his 1998-2000 audit reports were false; 'Prepays', 'Nahanni', 'Raptors') remain allegations; 'without admitting or denying' must accompany any mention. Answers ch6 and cast: 'its terms are not in the library'."
+  },
+  {
+    "id": "G-030",
+    "topic": "Other Andersen partners: SEC orders",
+    "claim": "The same SEC release states that three other Andersen partners, Thomas Bauer, Michael Lowther and Michael Odom, consented, without admitting or denying the findings, to administrative orders finding improper professional conduct in their Enron work, and each was denied the privilege of practicing before the SEC.",
+    "quote": "each was denied the privilege of appearing or practicing before the Commission.",
+    "source_id": "sec-duncan-litrel-20441",
+    "file": "sources/candidates/sec-litrel-20441-duncan-2008.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "SEC Litigation Release No. 20441, para. 5",
+      "lines": "300"
+    },
+    "source_type": "SEC allegation",
+    "verb": "reported",
+    "people": [
+      "Michael Odom"
+    ],
+    "event_date": "2008-01-28",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/sec-duncan-litrel-20441.txt. Odom appears in the Supreme Court's narrative (544 U.S. at 699-700) as the partner who urged compliance with the retention policy on Oct 10, 2001. The SEC orders are administrative findings entered by consent. The orders themselves are not in the library."
+  },
+  {
+    "id": "G-031",
+    "topic": "Dec 12, 2001 House hearing: the record",
+    "claim": "The record is titled 'The Enron Collapse: Impact on Investors and Financial Markets', a joint hearing of the House Financial Services Committee's Subcommittee on Capital Markets, Insurance, and Government Sponsored Enterprises and its Subcommittee on Oversight and Investigations, held December 12, 2001 (107th Congress, 1st session), Serial No. 107-51, Part 1. The witnesses were SEC Chief Accountant Robert Herdman, Andersen CEO Joseph Berardino, Charles Hill of Thomson Financial/First Call, and Richard Trumka of the AFL-CIO.",
+    "quote": "Serial No. 107–51, Part 1",
+    "source_id": "hrg-hfs-enron-investors-pt1",
+    "file": "sources/05-hearings-enron/hhrg-107-hfs-enron-collapse-2001-12-12.pdf",
+    "locator": {
+      "pdf_page": "1, 5, 7",
+      "printed_page": "cover; p. V; p. 1",
+      "section": "Cover page; contents and witness list; opening of hearing",
+      "lines": "1-40, 150-165, 198-215"
+    },
+    "source_type": "sworn testimony",
+    "verb": "stated",
+    "people": [
+      "Joseph Berardino",
+      "Robert Herdman"
+    ],
+    "event_date": "2001-12-12",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/hrg-hfs-enron-investors-pt1.txt. Chairs: Richard H. Baker (Capital Markets) and Sue W. Kelly (Oversight and Investigations). The witness list spells the firm 'Arthur Anderson, LLP' (typo). The transcript text (pages 1-71) contains no swearing-in; do not say 'under oath' for this hearing. PDF page = printed page + 6 for the hearing body. NOTE for coordinator: work/text copy has no text for PDF pages 72-168 (appendix scans); I read those pages as images."
+  },
+  {
+    "id": "G-032",
+    "topic": "A-048 confirmed: Berardino's words on the 3% test",
+    "claim": "The 'Andersen's CEO' quoted in the Powers Report is Joseph F. Berardino, Managing Partner and Chief Executive Officer of Andersen. The quoted sentences appear word for word in his written statement to the December 12, 2001 hearing, printed in the hearing record's appendix, in a passage on LJM1's subsidiary 'Swap Sub' (the Rhythms hedge).",
+    "quote": "When we reviewed this transaction again in October 2001, we determined that our team’s initial judgment that the 3 percent test was met was in error. We promptly told Enron to correct it.",
+    "source_id": "hrg-hfs-enron-investors-pt1",
+    "file": "sources/05-hearings-enron/hhrg-107-hfs-enron-collapse-2001-12-12.pdf",
+    "locator": {
+      "pdf_page": "119, 121-122",
+      "printed_page": "pp. 113, 115-116",
+      "section": "Appendix: 'Remarks of Joseph F. Berardino, Managing Partner – Chief Executive Officer, Andersen' (prepared statement)",
+      "lines": "no text layer; read from page images"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Joseph Berardino"
+    ],
+    "event_date": "2001-12-12",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Read directly from the page images (PDF 119-122); the text copy is blank for these pages. Quote transcribed from the image and checked twice. COMPARISON WITH POWERS (card A-048): wording identical; Powers omits nothing inside the quoted span. DIFFERENCE IN CONTEXT: the words come from Berardino's WRITTEN prepared statement (header 'Remarks of Joseph F. Berardino ... December 12, 2001'), which the hearing record prints in its appendix ('can be found on page 113 in the appendix', p. 49). In his spoken statement he said it differently (G-033). So the precise attribution is 'in written testimony submitted to a House hearing on December 12, 2001'. Title: the written statement says 'Managing Partner – Chief Executive Officer, Andersen'; the spoken-statement heading says 'Chief Executive Officer, Arthur Andersen, LLP' (p. 47). The next sentence in the statement: 'this appears to have been the result of a reasonable effort, made in good faith.' Not sworn per the transcript; use 'told Congress' or 'said in written testimony'. Berardino can now be named for A-048. (Not OCR: the PDF has a text layer for the hearing body but the appendix scan pages had no text in work/text.)"
+  },
+  {
+    "id": "G-033",
+    "topic": "Berardino's spoken statement: 'an honest error'",
+    "claim": "In his spoken statement, Berardino said that on the larger SPE (Chewco), responsible for 80 percent of the SPE-related restatement, important information appeared not to have been revealed to Andersen's team, and that on the smaller one, responsible for 20 percent, the team had made an error in judgment.",
+    "quote": "On the smaller of the SPEs responsible for 20 percent, we now believe, based on a second look, that our team has made an error in judgment. An honest error, but an error nonetheless.",
+    "source_id": "hrg-hfs-enron-investors-pt1",
+    "file": "sources/05-hearings-enron/hhrg-107-hfs-enron-collapse-2001-12-12.pdf",
+    "locator": {
+      "pdf_page": 54,
+      "printed_page": "p. 48",
+      "section": "Statement of Joseph F. Berardino (oral)",
+      "lines": "2899-2910"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Joseph Berardino"
+    ],
+    "event_date": "2001-12-12",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/hrg-hfs-enron-investors-pt1.txt. He added: 'I do believe we did a professional job overall and that this error did not cause Enron's collapse.' He also said Andersen had 'notified the audit committee of possible illegal acts within the company.' His own view; Andersen's later statements and the investigations are separate."
+  },
+  {
+    "id": "G-034",
+    "topic": "Berardino: Andersen's fees, and a correction",
+    "claim": "Berardino's written statement put Andersen's fees from Enron at $52 million. In his spoken statement he said $59 million, including $25 million for the audit and $13 million for consulting; the next day, in a December 13, 2001 letter printed in the record, he asked that the record reflect $52 million 'as the written testimony attests'.",
+    "quote": "please let the record reflect that Andersen received $52 million from Enron last year as the written testimony attests, rather than the $59 million referred to in oral testimony.",
+    "source_id": "hrg-hfs-enron-investors-pt1",
+    "file": "sources/05-hearings-enron/hhrg-107-hfs-enron-collapse-2001-12-12.pdf",
+    "locator": {
+      "pdf_page": "54, 119, 128",
+      "printed_page": "pp. 48, 113, 122",
+      "section": "Oral statement; prepared statement; letter of clarification to Rep. Baker, Dec. 13, 2001",
+      "lines": "2916-2922 (oral); letter read from page image"
+    },
+    "source_type": "sworn testimony",
+    "verb": "stated",
+    "people": [
+      "Joseph Berardino"
+    ],
+    "event_date": "2001-12-13",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Letter read from page image PDF 128 (printed p. 122). Use $52 million. The same letter corrects 'more than 500 million' EnronOnline transactions to 'more than 500,000'. Oral breakdown ($25M audit, remaining $27M, of which $13M consulting) is from the uncorrected oral statement; 25 + 27 = 52, consistent with the correction. (Not OCR: the PDF has a text layer for the hearing body but the appendix scan pages had no text in work/text.)"
+  },
+  {
+    "id": "G-035",
+    "topic": "Berardino: January 2002 letter correcting his Chewco testimony",
+    "claim": "In a January 21, 2002 letter to Chairman Oxley, printed in the hearing record, Berardino wrote that elements of his written and oral testimony about Chewco had been 'unintentionally imprecise'. He said Andersen had not been told in 1997 of a December 30, 1997 agreement under which JEDI put $6 million into a reserve account for Barclays' benefit, so only about half of Chewco's required 3% equity was really at risk; at the hearing he had described this as an agreement between Enron and the bank.",
+    "quote": "As a result, elements of my written and oral testimony were unintentionally imprecise in some respects.",
+    "source_id": "hrg-hfs-enron-investors-pt1",
+    "file": "sources/05-hearings-enron/hhrg-107-hfs-enron-collapse-2001-12-12.pdf",
+    "locator": {
+      "pdf_page": "129-130",
+      "printed_page": "pp. 123-124",
+      "section": "Letter of Joseph F. Berardino to Hon. Michael G. Oxley, Jan. 21, 2002 (written response)",
+      "lines": "no text layer; read from page images"
+    },
+    "source_type": "sworn testimony",
+    "verb": "stated",
+    "people": [
+      "Joseph Berardino"
+    ],
+    "event_date": "2002-01-21",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Read from page images PDF 129-130. The letter also says the $11.4 million Barclays 'equity' was in the form of yield certificates bought from two intermediaries (Big River Funding LLC and Little River Funding LLC) that Andersen learned of in early November 2001. Relevant to the Chewco chapter: it corrects the written statement's 'Enron had arranged a separate agreement with that institution' (p. 115). Andersen's own account, not an investigative finding. (Not OCR: the PDF has a text layer for the hearing body but the appendix scan pages had no text in work/text.)"
+  },
+  {
+    "id": "G-036",
+    "topic": "SEC Chief Accountant on the 3% rule",
+    "claim": "Testifying at the same hearing, SEC Chief Accountant Robert Herdman explained that under the accounting rules an SPE must have outside common equity of at least 3 percent of its total capital, owned by independent third parties, or else the sponsoring company must consolidate it (put it on its own balance sheet).",
+    "quote": "It has to be consolidated if the SPE doesn’t have at least 3 percent of its total capital owned by outsiders.",
+    "source_id": "hrg-hfs-enron-investors-pt1",
+    "file": "sources/05-hearings-enron/hhrg-107-hfs-enron-collapse-2001-12-12.pdf",
+    "locator": {
+      "pdf_page": 40,
+      "printed_page": "p. 34",
+      "section": "Questioning of Robert K. Herdman by Rep. Toomey",
+      "lines": "2090-2123"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Robert Herdman"
+    ],
+    "event_date": "2001-12-12",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/hrg-hfs-enron-investors-pt1.txt. A contemporary official explanation of the 3% test, good for the glossary entry on the 3% rule / SPE consolidation. Herdman's title from the witness list (p. V): 'Chief Accountant, U.S. Securities and Exchange Commission'. Not sworn per the transcript; 'told the subcommittees' is safest."
+  }
+]

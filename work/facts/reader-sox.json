@@ -1073,7 +1073,7 @@
   "aspect": "implementation",
   "notes": "DISAGREEMENT IN COUNTING: the statute lists nine items; the ninth is 'any other service that the Board determines, by regulation, is impermissible' (card C-074). The SEC counts the eight named services. Say 'eight named services, plus any the PCAOB adds'.",
   "checked": "OK",
-  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). SEC report: its list names eight services and omits the statute's ninth item ('any other service that the Board determines, by regulation, is impermissible', Sec. 201, line 1719). Site wording: 'The Act bans eight named services plus any other service the PCAOB bans by rule (the SEC's 2003 report counts eight categories).' Never write 'eight' or 'nine categories' without that explanation."
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). SEC report: its list names eight services and omits the statute's ninth item ('any other service that the Board determines, by regulation, is impermissible', Sec. 201, line 1719). Site wording: 'The Act bans eight named services plus any other service the PCAOB bans by rule (the SEC's 2003 report counts eight categories).' Never write 'eight' or 'nine categories' without that explanation. Revision 2 (T-034): the SEC's Jan 2003 rule release (33-8183, line 154) describes the Act as setting out 'nine categories' (the ninth is the PCAOB catch-all), and the rule text itself lists ten services. Site wording unchanged."
  },
  {
   "id": "S-043",
@@ -1151,7 +1151,7 @@
   "aspect": "implementation",
   "notes": "The release number is printed as '34-8124' in the SEC report; that may be a typographical variant, and the rule text itself is not in the library. Cite the date and title only, as given here (gap logged).",
   "checked": "OK",
-  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). SEC report fn. 103 confirmed; release number printed 'Rel. No. 34-8124' split across lines. Cite title and date only."
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator (script plus manual reading of the surrounding text). SEC report fn. 103 confirmed; release number printed 'Rel. No. 34-8124' split across lines. Cite title and date only. Revision 2 (T-002): the release itself confirms Rel. Nos. 33-8124 and 34-46427; the 704 report's '34-8124' is a misprint."
  },
  {
   "id": "S-046",

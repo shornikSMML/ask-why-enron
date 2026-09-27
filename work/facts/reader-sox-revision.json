@@ -20,7 +20,9 @@
   "ocr_checked_against_image": false,
   "provision": "302",
   "aspect": "implementation",
-  "notes": "Effective date August 29, 2002 (line 22), 30 days after enactment, as Sec. 302(c) required. The new rules are Exchange Act Rules 13a-14 and 15d-14."
+  "notes": "Effective date August 29, 2002 (line 22), 30 days after enactment, as Sec. 302(c) required. The new rules are Exchange Act Rules 13a-14 and 15d-14.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Summary (line 20) and effective date Aug 29, 2002 (line 22) verified; Rules 13a-14/15d-14 named at lines 29, 45."
  },
  {
   "id": "T-002",
@@ -43,7 +45,9 @@
   "ocr_checked_against_image": false,
   "provision": "302",
   "aspect": "implementation",
-  "notes": "Resolves the issue flagged on card S-045: the SEC 704 report printed the number as 'Rel. No. 34-8124'. The correct Securities Act number is 33-8124 (the Exchange Act number is 34-46427)."
+  "notes": "Resolves the issue flagged on card S-045: the SEC 704 report printed the number as 'Rel. No. 34-8124'. The correct Securities Act number is 33-8124 (the Exchange Act number is 34-46427).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Caption verified. Confirms 33-8124 (Exchange Act 34-46427); the 704 report's '34-8124' (S-045) is a misprint. S-045's checker note updated."
  },
  {
   "id": "T-003",
@@ -66,7 +70,9 @@
   "ocr_checked_against_image": false,
   "provision": "302",
   "aspect": "implementation",
-  "notes": "The rule adds 'cash flows'; the statute's Sec. 302(a)(3) says only 'financial condition and results of operations'."
+  "notes": "The rule adds 'cash flows'; the statute's Sec. 302(a)(3) says only 'financial condition and results of operations'.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified; 'cash flows' is the rule's addition, as noted."
  },
  {
   "id": "T-004",
@@ -89,7 +95,9 @@
   "ocr_checked_against_image": false,
   "provision": "302",
   "aspect": "implementation",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Lines 55-61 verified ('newly-defined term'; presentation of conclusions)."
  },
  {
   "id": "T-005",
@@ -112,7 +120,9 @@
   "ocr_checked_against_image": false,
   "provision": "302",
   "aspect": "implementation",
-  "notes": "Mirrors statute Sec. 302(a)(5) (card S-043)."
+  "notes": "Mirrors statute Sec. 302(a)(5) (card S-043).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Lines 63-67 verified."
  },
  {
   "id": "T-006",
@@ -135,7 +145,9 @@
   "ocr_checked_against_image": false,
   "provision": "302",
   "aspect": "implementation",
-  "notes": "The SEC notes Sec. 302 'does not directly address' this company-level duty (Introduction, lines 31-40). It had proposed a certification rule on June 14, 2002, before the Act, and received 102 comment letters."
+  "notes": "The SEC notes Sec. 302 'does not directly address' this company-level duty (Introduction, lines 31-40). It had proposed a certification rule on June 14, 2002, before the Act, and received 102 comment letters.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Summary and 'does not directly address' (lines 39, 154) verified; June Proposals dated June 14, 2002 and 102 comment letters (lines 35-37) verified."
  },
  {
   "id": "T-007",
@@ -158,12 +170,14 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "Release date June 5, 2003 per 33-8810 fn. 6; effective August 14, 2003 (Dates). The rule also requires the auditor's attestation report to be filed with the annual report."
+  "notes": "Release date June 5, 2003 per 33-8810 fn. 6; effective August 14, 2003 (Dates). The rule also requires the auditor's attestation report to be filed with the annual report.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Summary verified. Release dated June 5, 2003 (signature, line ~1681); effective Aug 14, 2003 (line 22)."
  },
  {
   "id": "T-008",
   "topic": "SEC 404 rule: compliance dates",
-  "claim": "Larger ('accelerated filer') companies had to include the internal-control report for their first fiscal year ending on or after June 15, 2004; all other companies for their first fiscal year ending on or after April 15, 2005.",
+  "claim": "Under the SEC's June 2003 rule, larger ('accelerated filer') companies were to include the internal-control report for their first fiscal year ending on or after June 15, 2004, and all other companies for their first fiscal year ending on or after April 15, 2005. On February 24, 2004 the SEC extended these dates to November 15, 2004 and July 15, 2005 (GAO-06-361), and it extended the smaller companies' dates several more times after that.",
   "quote": "A company that is an \"accelerated filer,\" as defined in Exchange Act Rule 12b-2, as of the end of its first fiscal year ending on or after June 15, 2004, must begin to comply",
   "source_id": "sec-33-8238-icfr-final-rule",
   "file": "sources/08-sox-law-pcaob-profession/sec-33-8238-final-rule-icfr-management-report-2003.htm",
@@ -181,7 +195,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "The SEC had originally proposed fiscal years ending on or after September 15, 2003 (V.B Costs). Later extensions for smaller companies: card on GAO-06-361."
+  "notes": "The SEC had originally proposed fiscal years ending on or after September 15, 2003 (V.B Costs). Later extensions for smaller companies: card on GAO-06-361.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. FIXED: the claim presented the original dates as the actual start. GAO-06-361 p. 27 (PDF 32, table) and GAO-08-163 p. 14 n. (PDF 19, lines 944-946, 985-986) say the SEC extended them on Feb 24, 2004 (Rel. 33-8392) to Nov 15, 2004 for accelerated filers and July 15, 2005 for others; accelerated filers were 'first required to comply ... for fiscal years ending on or after November 15, 2004'. Do not write that compliance began with years ending June 15, 2004 (revision2-gap-map suggestion 1 is wrong on this point)."
  },
  {
   "id": "T-009",
@@ -204,7 +220,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified."
  },
  {
   "id": "T-010",
@@ -227,12 +245,14 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "COSO = Committee of Sponsoring Organizations of the Treadway Commission (named in GAO-06-361 Highlights)."
+  "notes": "COSO = Committee of Sponsoring Organizations of the Treadway Commission (named in GAO-06-361 Highlights).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified; the rule does not mandate COSO (same paragraph)."
  },
  {
   "id": "T-011",
   "topic": "SEC 404 rule: the first attestation standard",
-  "claim": "The SEC reported that on April 16, 2003 the PCAOB designated the existing attestation standards (SSAE No. 10) as the interim standard for auditors' internal-control attestations, and the SEC approved this on April 25, 2003, pending new PCAOB standards.",
+  "claim": "The SEC's June 2003 rule release said that on April 16, 2003 the PCAOB designated the attestation standards (Statements on Standards for Attestation Engagements) as they existed on that date as the standard for auditors' attestations on internal control, pending further PCAOB standard-setting, and that the SEC approved this on April 25, 2003. The SEC said SSAE No. 10 was therefore the standard that applied 'on a transition basis'.",
   "quote": "SSAE No. 10 is thus the standard applicable on a transition basis for attestations required under Section 404 of the Act and the rules we are adopting today, again pending further PCAOB standard-setting (and our approval).",
   "source_id": "sec-33-8238-icfr-final-rule",
   "file": "sources/08-sox-law-pcaob-profession/sec-33-8238-final-rule-icfr-management-report-2003.htm",
@@ -250,7 +270,9 @@
   "ocr_checked_against_image": false,
   "provision": "103",
   "aspect": "implementation",
-  "notes": "Partly fills gap 1 in reader-sox-gaps.md: it confirms the April 25, 2003 SEC approval of PCAOB interim attestation standards, as they existed April 16, 2003. SSAE = Statements on Standards for Attestation Engagements. The text of the April 25 orders is still not in the library. The later replacement (AS No. 2) is not in the library; AS No. 5 is (as AS 2201)."
+  "notes": "Confirms the SEC's April 25, 2003 approval of the PCAOB's April 16 designation of the attestation standards (SSAEs as of April 16) for internal-control attestations. The text of the April 25 orders and the list of interim AUDITING standards are still not in the library. SSAE = Statements on Standards for Attestation Engagements. [Fact-Checker: unsupported 'later replacement (AS No. 2)' note removed; see checker_note.]",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. FIXED: the PCAOB designated the SSAEs 'as existed on April 16', not SSAE No. 10 by name; the SEC then said SSAE No. 10 'is thus the standard applicable on a transition basis'. The source does not use 'interim' and does not say which April 25 order carried the approval, so do not link it to Rel. 33-8222 or to the interim AUDITING standards (S-019 and gap 1 stand for those). Removed the unsupported 'later replacement' note; GAO-06-361 p. 20 (PDF 25) says AS No. 2 (final March 2004, SEC-approved June 17, 2004) 'governs both the auditor's assessment of controls and its attestation', and GAO-08-163 p. 14 says AS No. 5 replaced AS No. 2 on July 25, 2007."
  },
  {
   "id": "T-012",
@@ -273,7 +295,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "An SEC estimate made before anyone had complied, not a measured cost. GAO-06-361 describes what smaller companies reported after 2004."
+  "notes": "An SEC estimate made before anyone had complied, not a measured cost. GAO-06-361 describes what smaller companies reported after 2004.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified. A pre-compliance PRA estimate that excludes the auditor attestation (line 686). Present as the SEC's 2003 estimate, never as the actual cost."
  },
  {
   "id": "T-013",
@@ -296,7 +320,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified (line 686, 'indirect' costs)."
  },
  {
   "id": "T-014",
@@ -319,7 +345,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified (line 252)."
  },
  {
   "id": "T-015",
@@ -342,7 +370,9 @@
   "ocr_checked_against_image": false,
   "provision": "906",
   "aspect": "implementation",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified (line 690; 'furnish' rather than 'file')."
  },
  {
   "id": "T-016",
@@ -365,7 +395,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "Release Nos. 33-8810; 34-55929. Effective June 27, 2007. It is guidance, not a new requirement: an evaluation that follows it is 'one way' to comply."
+  "notes": "Release Nos. 33-8810; 34-55929. Effective June 27, 2007. It is guidance, not a new requirement: an evaluation that follows it is 'one way' to comply.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified (line may wrap: 'top-/down'). Dated June 20, 2007, effective June 27, 2007. Guidance, not a new requirement."
  },
  {
   "id": "T-017",
@@ -388,7 +420,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified."
  },
  {
   "id": "T-018",
@@ -411,7 +445,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "The first principle is on PDF p. 4."
+  "notes": "The first principle is on PDF p. 4.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified; first principle at PDF p. 4."
  },
  {
   "id": "T-019",
@@ -434,7 +470,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "ICFR = internal control over financial reporting."
+  "notes": "ICFR = internal control over financial reporting.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified."
  },
  {
   "id": "T-020",
@@ -457,7 +495,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified."
  },
  {
   "id": "T-021",
@@ -480,7 +520,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "Useful for an 'Ask Why' about what 404 cannot prevent. General statement; not about Enron."
+  "notes": "Useful for an 'Ask Why' about what 404 cannot prevent. General statement; not about Enron.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified. General statement, not about Enron."
  },
  {
   "id": "T-022",
@@ -503,7 +545,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "Current codified version. The page gives the adopting release as PCAOB Release No. 2007-005A (i.e. AS No. 5), and notes amendments to .09 and a new .99, effective December 15, 2026. Keep quotes short (PCAOB is not a federal agency)."
+  "notes": "Current codified version. The page gives the adopting release as PCAOB Release No. 2007-005A (i.e. AS No. 5), and notes amendments to .09 and a new .99, effective December 15, 2026. Keep quotes short (PCAOB is not a federal agency).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified. This is the CURRENT codified text as displayed by the PCAOB (the page notes amendments to .09/.99 effective Dec 15, 2026; cited paragraphs are not affected). The link to AS No. 5 is supported by GAO-08-163 p. 14 (PDF 19): the SEC approved 'Auditing Standard No. 5, An Audit of Internal Control Over Financial Reporting That is Integrated with an Audit of Financial Statements' on July 25, 2007, replacing AS No. 2. Do not present AS 2201 wording as the 2007 text. The standard says the auditor 'should'; quote that word rather than paraphrasing as 'must'."
  },
  {
   "id": "T-023",
@@ -526,7 +570,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified (current text)."
  },
  {
   "id": "T-024",
@@ -549,7 +595,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "Footnote 3 of the standard: if one or more material weaknesses exist, internal control cannot be considered effective (matches the SEC 2003 rule)."
+  "notes": "Footnote 3 of the standard: if one or more material weaknesses exist, internal control cannot be considered effective (matches the SEC 2003 rule).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified (current text); fn. 3 at line 203."
  },
  {
   "id": "T-025",
@@ -572,7 +620,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified (current text); see T-022 on 'should'."
  },
  {
   "id": "T-026",
@@ -595,7 +645,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "law",
-  "notes": "Added by Pub. L. 111-203 (the Dodd-Frank Act), title IX, Sec. 989G(a), July 21, 2010 (source credit, line 21; amendment note, line 27). The statute does not define the filer categories; GAO-06-361 (fn. 7) gives the SEC's 2005 definitions by public float ($75 million; $700 million), which may have changed since."
+  "notes": "Added by Pub. L. 111-203 (the Dodd-Frank Act), title IX, Sec. 989G(a), July 21, 2010 (source credit, line 21; amendment note, line 27). The statute does not define the filer categories; GAO-06-361 (fn. 7) gives the SEC's 2005 definitions by public float ($75 million; $700 million), which may have changed since.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified; source credit and 2010 amendment note confirm Pub. L. 111-203, Sec. 989G(a). Current text (2024 ed.)."
  },
  {
   "id": "T-027",
@@ -618,7 +670,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "law",
-  "notes": "Amended by Pub. L. 112-106, title I, Sec. 103, April 5, 2012. The library does not give that law's popular name or the definition of 'emerging growth company' (in 15 U.S.C. 78c, not in library)."
+  "notes": "Amended by Pub. L. 112-106, title I, Sec. 103, April 5, 2012. The library does not give that law's popular name or the definition of 'emerging growth company' (in 15 U.S.C. 78c, not in library).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified; 2012 amendment note (Pub. L. 112-106, Sec. 103)."
  },
  {
   "id": "T-028",
@@ -641,7 +695,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "implementation",
-  "notes": "Rel. No. 33-8183, dated 2003-01-28 per manifest; effective May 6, 2003 (line 23). The Act required the rules by January 26, 2003 (Introduction). A published correction to this release exists but is not in the library (gaps.md P2-5)."
+  "notes": "Rel. No. 33-8183, dated 2003-01-28 per manifest; effective May 6, 2003 (line 23). The Act required the rules by January 26, 2003 (Introduction). A published correction to this release exists but is not in the library (gaps.md P2-5).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Summary verified; dated Jan 28, 2003 (line 1541); Act deadline Jan 26, 2003 (line 57)."
  },
  {
   "id": "T-029",
@@ -664,7 +720,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "implementation",
-  "notes": "12-month completion window: section on audit committee pre-approval transition (line 452)."
+  "notes": "12-month completion window: section on audit committee pre-approval transition (line 452).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified; 12-month window at line 452."
  },
  {
   "id": "T-030",
@@ -687,7 +745,9 @@
   "ocr_checked_against_image": false,
   "provision": "203",
   "aspect": "implementation",
-  "notes": "The Act itself is silent on the time-out period, the SEC notes (line 336)."
+  "notes": "The Act itself is silent on the time-out period, the SEC notes (line 336).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified; Act silent on time-out (line 336)."
  },
  {
   "id": "T-031",
@@ -710,7 +770,9 @@
   "ocr_checked_against_image": false,
   "provision": "203",
   "aspect": "implementation",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified."
  },
  {
   "id": "T-032",
@@ -733,7 +795,9 @@
   "ocr_checked_against_image": false,
   "provision": "203",
   "aspect": "problem",
-  "notes": "The SEC attributes this to 'the current requirements of the profession' (membership requirements of the SECPS). Compare card C-036 on Andersen's own rotation."
+  "notes": "The SEC attributes this to 'the current requirements of the profession' (membership requirements of the SECPS). Compare card C-036 on Andersen's own rotation.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified; the SEC attributes the 7-year/2-year rule to the SECPS membership requirements (lines 334-336)."
  },
  {
   "id": "T-033",
@@ -756,7 +820,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "implementation",
-  "notes": "Same three principles as the Senate report (card S-028)."
+  "notes": "Same three principles as the Senate report (card S-028).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified."
  },
  {
   "id": "T-034",
@@ -779,7 +845,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "implementation",
-  "notes": "Resolves the counting difference on card S-042: the SEC's own rule counts nine, including the PCAOB catch-all; the 704 report's 'eight' counts only the named services."
+  "notes": "The SEC's rule release describes the Act as setting out nine categories: the eight named services plus the PCAOB catch-all. The 704 report's 'eight categories' counts only the named services. The SEC rule text itself (Rule 2-01(c)(4)) lists ten. [Fact-Checker: replaced 'Resolves ... the SEC's own rule counts nine'.]",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. FIXED (notes): claim verified (line 154; the release then lists nine items, the ninth being 'Any other service that the Board ... determines, by regulation, is impermissible'). But the note overstated: this is the release's description of the ACT, not the SEC rule. The rule text itself (Rule 2-01(c)(4)(i)-(x), lines 1107-1143) lists TEN prohibited services (management functions and human resources, and legal and expert services, split) and no catch-all. It does not 'settle' the count; it confirms the earlier ruling. Site wording stays: 'eight named kinds of non-audit services, plus any other service the PCAOB bans by rule'. Optional addition: 'the SEC's 2003 rule release counts these as nine categories.' Never write 'the SEC rule counts nine'."
  },
  {
   "id": "T-035",
@@ -802,7 +870,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "implementation",
-  "notes": "Court representation: line 314. Separate 'Tax Fees' disclosure category: line 620."
+  "notes": "Court representation: line 314. Separate 'Tax Fees' disclosure category: line 620.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified (lines 310, 314)."
  },
  {
   "id": "T-036",
@@ -825,12 +895,14 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "implementation",
-  "notes": "Small-firm exemption: line 480. This was the SEC's addition; it is not in the Act."
+  "notes": "Small-firm exemption: line 480. This was the SEC's addition; it is not in the Act.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified; small-firm exemption at line 480."
  },
  {
   "id": "T-037",
   "topic": "Cooling-off in the SEC rule",
-  "claim": "The SEC said the Act requires a one-year cooling-off period before a member of the audit engagement team can take certain key positions at the client, and that the Act makes it apply more broadly than just to partners.",
+  "claim": "The SEC said the Act requires a one-year cooling-off period before a member of the audit engagement team can begin working for the company in certain key positions.",
   "quote": "Thus, the Act requires a \"cooling off\" period of one year before a member of the audit engagement team can begin working for the registrant in certain key positions.",
   "source_id": "sec-33-8183-auditor-independence",
   "file": "sources/08-sox-law-pcaob-profession/sec-33-8183-final-rule-auditor-independence-2003.htm",
@@ -848,7 +920,9 @@
   "ocr_checked_against_image": false,
   "provision": "206",
   "aspect": "implementation",
-  "notes": "Applies to employment relationships starting after the effective date (line 150). The earlier Independence Standards Board had chosen an alternative to a cooling-off period."
+  "notes": "Applies to employment relationships starting after the effective date (line 150). The earlier Independence Standards Board had chosen an alternative to a cooling-off period.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. FIXED: removed 'and that the Act makes it apply more broadly than just to partners', which the SEC does not say at line 90. The SEC measures the year before the start of audit procedures ('within one year prior to the commencement of procedures for the current audit engagement', line 90; Summary line 19), consistent with the Final ruling on the page's cooling-off sentence."
  },
  {
   "id": "T-038",
@@ -871,7 +945,9 @@
   "ocr_checked_against_image": false,
   "provision": "201",
   "aspect": "problem",
-  "notes": "Matches Pitt's March 2002 point that the SEC's rules were less than 18 months old (card S-032)."
+  "notes": "Matches Pitt's March 2002 point that the SEC's rules were less than 18 months old (card S-032).",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified."
  },
  {
   "id": "T-039",
@@ -894,7 +970,9 @@
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "implementation",
-  "notes": "SYLLABUS, not opinion. The critical-inspection facts are also in the Syllabus (PDF p. 1). 561 U.S. 477."
+  "notes": "SYLLABUS, not opinion. The critical-inspection facts are also in the Syllabus (PDF p. 1). 561 U.S. 477.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. SYLLABUS (Reporter of Decisions, not the Court). Case caption and the inspection/critical report/investigation facts verified at PDF 1. Attribute as 'according to the Syllabus'."
  },
  {
   "id": "T-040",
@@ -917,7 +995,9 @@
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "implementation",
-  "notes": "5-4 is my count from the line-up; the document does not use the phrase '5-4'."
+  "notes": "5-4 is my count from the line-up; the document does not use the phrase '5-4'.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Syllabus line-up verified (PDF 6, 561 U.S. 482); '5-4' is a count, fine to state."
  },
  {
   "id": "T-041",
@@ -942,12 +1022,14 @@
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "implementation",
-  "notes": "OPINION text. The removal clauses struck are 15 U.S.C. 7211(e)(6) and 7217(d)(3) (SOX Secs. 101(e)(6) and 107(d)(3)), per the Syllabus."
+  "notes": "OPINION text. The removal clauses struck are 15 U.S.C. 7211(e)(6) and 7217(d)(3) (SOX Secs. 101(e)(6) and 107(d)(3)), per the Syllabus.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. OPINION, Part III (PDF 16, 561 U.S. 492). Holding verified; verb 'held' correct."
  },
  {
   "id": "T-042",
   "topic": "Free Enterprise Fund: severability (syllabus)",
-  "claim": "The Court held that the unconstitutional removal limits could be cut out of the Act; the Board may keep operating as before, but its members can now be removed by the SEC at will.",
+  "claim": "According to the Syllabus, the Court held the unconstitutional removal limits severable, so that 'the Board may continue to function as before, but its members may be removed at will by the Commission.' The opinion itself says that holding the removal restrictions invalid 'leaves the Board removable by the Commission at will' and that 'the existence of the Board does not violate the separation of powers' (561 U.S. at 508-509).",
   "quote": "The consequence is that the Board may continue to function as before, but its members may be removed at will by the Commission.",
   "source_id": "free-enterprise-fund-v-pcaob-usreports",
   "file": "sources/09-courts-doj/free-enterprise-fund-v-pcaob-561-us-477-2010-usreports.pdf",
@@ -958,14 +1040,16 @@
    "lines": "205-207 (work/text copy)"
   },
   "source_type": "court syllabus (prepared by the Reporter of Decisions, not part of the opinion)",
-  "verb": "held",
+  "verb": "summarized (Syllabus)",
   "people": [],
   "event_date": "2010-06-28",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "implementation",
-  "notes": "SYLLABUS. The Syllabus also says 'The Board's existence does not violate the separation of powers' (PDF p. 4)."
+  "notes": "SYLLABUS. The Syllabus also says 'The Board's existence does not violate the separation of powers' (PDF p. 4).",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. FIXED: the quote is from the SYLLABUS (Reporter of Decisions), so the card may not present it as the Court's words. Verb set to 'summarized (Syllabus)'. Added the opinion's own wording, verified at PDF 32-33 (561 U.S. 508-509), lines 1394-1405; cite the opinion for the holding."
  },
  {
   "id": "T-043",
@@ -981,7 +1065,7 @@
    "lines": "1427-1428 (work/text copy)"
   },
   "source_type": "court opinion (majority)",
-  "verb": "held",
+  "verb": "stated",
   "people": [
    "John G. Roberts, Jr."
   ],
@@ -990,12 +1074,14 @@
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "implementation",
-  "notes": "OPINION text."
+  "notes": "OPINION text.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. FIXED (verb only): the quoted sentence is the opinion's reasoning on severability, so verb set to 'stated'. Verified at PDF 33 (561 U.S. 509). OPINION text."
  },
  {
   "id": "T-044",
   "topic": "Free Enterprise Fund: appointments upheld (syllabus)",
-  "claim": "The Court also held the Board's appointment by the SEC valid: Board members are inferior officers, the SEC is a 'Department', and the Commissioners together are its head.",
+  "claim": "According to the Syllabus, the Court also held the Board's appointment by the SEC valid: Board members are inferior officers, the SEC is a 'Department', and the Commissioners together are its head. In the opinion, the Court rejected three Appointments Clause challenges: 'None has merit' (561 U.S. at 510).",
   "quote": "The Board's appointment is consistent with the Appointments Clause.",
   "source_id": "free-enterprise-fund-v-pcaob-usreports",
   "file": "sources/09-courts-doj/free-enterprise-fund-v-pcaob-561-us-477-2010-usreports.pdf",
@@ -1006,14 +1092,16 @@
    "lines": "208-209 (work/text copy)"
   },
   "source_type": "court syllabus (prepared by the Reporter of Decisions, not part of the opinion)",
-  "verb": "held",
+  "verb": "summarized (Syllabus)",
   "people": [],
   "event_date": "2010-06-28",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "101",
   "aspect": "implementation",
-  "notes": "SYLLABUS. Judgment: court of appeals affirmed in part, reversed in part, remanded."
+  "notes": "SYLLABUS. Judgment: court of appeals affirmed in part, reversed in part, remanded.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. FIXED: quote is SYLLABUS; verb set to 'summarized (Syllabus)'. Added the opinion's Part V wording ('Petitioners raise three more challenges to the Board under the Appointments Clause. None has merit.', lines 1450-1452). Cite the opinion for the holding."
  },
  {
   "id": "T-045",
@@ -1038,7 +1126,9 @@
   "ocr_checked_against_image": false,
   "provision": "general",
   "aspect": "implementation",
-  "notes": "OPINION text. The opinion does not name Enron in this passage."
+  "notes": "OPINION text. The opinion does not name Enron in this passage.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. OPINION, Part I.A (PDF 8, 561 U.S. 484). Verified; Enron not named."
  },
  {
   "id": "T-046",
@@ -1061,7 +1151,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "The 'positive and significant impact' finding and the Sec. 404 emphasis are on the Highlights page (PDF p. 2). GAO's definition of 'smaller' ($700 million or less in market capitalization) is its own for the report."
+  "notes": "The 'positive and significant impact' finding and the Sec. 404 emphasis are on the Highlights page (PDF p. 2). GAO's definition of 'smaller' ($700 million or less in market capitalization) is its own for the report.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Highlights (PDF 2) and Results in Brief (PDF 10, p. 5) verified; '$700 million or less' is GAO's own definition."
  },
  {
   "id": "T-047",
@@ -1084,7 +1176,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "GAO adds that most had been required by law since 1977 to have internal accounting controls, and that costs were generally expected to fall after the first year."
+  "notes": "GAO adds that most had been required by law since 1977 to have internal accounting controls, and that costs were generally expected to fall after the first year.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified (PDF 10, p. 5)."
  },
  {
   "id": "T-048",
@@ -1107,12 +1201,14 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "GAO says 'appeared to have been a factor', not the cause."
+  "notes": "GAO says 'appeared to have been a factor', not the cause.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified; GAO says 'appeared to have been a factor'."
  },
  {
   "id": "T-049",
   "topic": "GAO 2006: deadline extensions and proposed exemptions",
-  "claim": "GAO reported that the SEC repeatedly extended Sec. 404 deadlines for non-accelerated filers (latest to July 15, 2007), and that an SEC advisory committee's March 2006 draft would exempt up to 70 percent of public companies from all or part of Sec. 404.",
+  "claim": "GAO reported that, as of spring 2006, the SEC had repeatedly extended the Sec. 404 deadline for non-accelerated filers (the latest extension then ran to July 15, 2007), and that an SEC advisory committee's March 3, 2006 exposure draft contained recommendations that, if adopted by the SEC, would exempt up to 70 percent of public companies from all or some of Sec. 404.",
   "quote": "would exempt up to 70 percent of all public companies and 6 percent of U.S. equity market capitalization from all or some of the provisions of section 404,",
   "source_id": "gao-06-361",
   "file": "sources/08-sox-law-pcaob-profession/gao-06-361-sox-smaller-public-companies-2006.pdf",
@@ -1123,14 +1219,16 @@
    "lines": "500-502 (work/text copy)"
   },
   "source_type": "GAO report",
-  "verb": "reported",
+  "verb": "found",
   "people": [],
   "event_date": "2006-03-03",
   "from_ocr": false,
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "These were proposals in 2006, not law. The later statutory exemption is 15 U.S.C. 7262(c) (2010). GAO recommended that any relief be 'targeted and limited' (Highlights)."
+  "notes": "These were proposals in 2006, not law. The later statutory exemption is 15 U.S.C. 7262(c) (2010). GAO recommended that any relief be 'targeted and limited' (Highlights).",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. FIXED: added 'if adopted by the SEC' (the source's words) and 'as of spring 2006'. These were proposals, not law. Later dates in GAO-08-163 (PDF 19): non-accelerated filers to comply with 404(a) for years ending after Dec 15, 2007 and 404(b) after Dec 15, 2008 - also superseded for 404(b) by the 2010 statutory exemption (T-026). Verb set to 'found'."
  },
  {
   "id": "T-050",
@@ -1153,7 +1251,9 @@
   "ocr_checked_against_image": false,
   "provision": "404",
   "aspect": "implementation",
-  "notes": "Needed to explain Sec. 404(c) in plain language. These are the SEC's 2005 definitions as GAO described them; the current Rule 12b-2 text is not in the library."
+  "notes": "Needed to explain Sec. 404(c) in plain language. These are the SEC's 2005 definitions as GAO described them; the current Rule 12b-2 text is not in the library.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified (fn. 7, PDF 9, p. 4). Verb kept 'reported': GAO is describing SEC definitions, not making a finding. These are the Dec 2005 definitions; current Rule 12b-2 not in library."
  },
  {
   "id": "T-051",
@@ -1176,7 +1276,9 @@
   "ocr_checked_against_image": false,
   "provision": "general",
   "aspect": "implementation",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Highlights verified (two-column page), including 98 percent of 'sales or revenues'."
  },
  {
   "id": "T-052",
@@ -1199,7 +1301,9 @@
   "ocr_checked_against_image": false,
   "provision": "general",
   "aspect": "implementation",
-  "notes": "Two-column Highlights page."
+  "notes": "Two-column Highlights page.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Highlights verified (two-column page)."
  },
  {
   "id": "T-053",
@@ -1222,12 +1326,14 @@
   "ocr_checked_against_image": false,
   "provision": "general",
   "aspect": "implementation",
-  "notes": "Links to the Andersen story: GAO-03-864 (card S-023) described the drop from five to four."
+  "notes": "Links to the Andersen story: GAO-03-864 (card S-023) described the drop from five to four.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Highlights verified; 'no compelling need for immediate action appears to exist' (line 107)."
  },
  {
   "id": "T-054",
   "topic": "SEC whistleblower awards: 10 to 30 percent",
-  "claim": "Under 15 U.S.C. 78u-6, added by the Dodd-Frank Act in 2010, the SEC must pay a whistleblower whose original information leads to a successful enforcement action with sanctions over $1 million an award of 10 to 30 percent of the money collected.",
+  "claim": "Under 15 U.S.C. 78u-6, added by the Dodd-Frank Act in 2010, when a whistleblower voluntarily gives the SEC original information that leads to a successful SEC action with sanctions over $1 million, the SEC must pay an award totaling 10 to 30 percent of the money collected (shared if there is more than one whistleblower).",
   "quote": "not more than 30 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions.",
   "source_id": "usc-15-78u-6-2024",
   "file": "sources/08-sox-law-pcaob-profession/usc-15-78u-6-securities-whistleblower-2024ed.htm",
@@ -1245,7 +1351,9 @@
   "ocr_checked_against_image": false,
   "provision": "806",
   "aspect": "law",
-  "notes": "Minimum: 'not less than 10 percent' (78u-6(b)(1)(A)). 'Covered action' means sanctions exceeding $1,000,000 (78u-6(a)(1)). Added by Pub. L. 111-203, Sec. 922(a), July 21, 2010 (source credit). The amount within the range is at the SEC's discretion."
+  "notes": "Minimum: 'not less than 10 percent' (78u-6(b)(1)(A)). 'Covered action' means sanctions exceeding $1,000,000 (78u-6(a)(1)). Added by Pub. L. 111-203, Sec. 922(a), July 21, 2010 (source credit). The amount within the range is at the SEC's discretion.",
+  "checked": "FIXED",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. FIXED: the 10-30 percent is 'in total' across whistleblowers and requires information 'voluntarily provided' (78u-6(b)(1), lines 32-34); sanctions threshold 'exceeding $1,000,000' (line 14). Current codified text (2024 ed.); source credit line 167."
  },
  {
   "id": "T-055",
@@ -1268,7 +1376,9 @@
   "ocr_checked_against_image": false,
   "provision": "806",
   "aspect": "law",
-  "notes": "Outline only as the brief asks. Unlike SOX Sec. 806 (complaint first to the Secretary of Labor; single back pay), this lets the employee sue directly in federal district court, with a 6-year/3-year limit and a 10-year outer limit."
+  "notes": "Outline only as the brief asks. Unlike SOX Sec. 806 (complaint first to the Secretary of Labor; single back pay), this lets the employee sue directly in federal district court, with a 6-year/3-year limit and a 10-year outer limit.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified; (h)(1)(A)(i)-(iii) and limitation periods confirmed (lines 113-131)."
  },
  {
   "id": "T-056",
@@ -1291,6 +1401,8 @@
   "ocr_checked_against_image": false,
   "provision": "806",
   "aspect": "law",
-  "notes": ""
+  "notes": "",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator. Verified; (c)(2)(A)-(D)."
  }
 ]

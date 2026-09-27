@@ -99,3 +99,40 @@ Checked with no problems (examples):
 - The mechanical layer is clean: paragraph positions, lens tags, card status and source ids all pass.
 
 No web was used and no gaps were logged. Fingerprints for every source read this pass were verified in earlier rounds, and none has changed since.
+
+## Final
+
+Re-check of the Lens Writer's fixes (`work/facts/fixes-phase2-lenses.md`; regenerated `work/drafts/lenses.json`). Date: 2026-09-27.
+
+**Mechanical checks (re-run on all 333 citations).**
+- Every note's `para_index`, `para_start` and lens tag still matches `work/drafts/chN.html`.
+- Every card exists and is checked OK or FIXED, and every `source_id` is a manifest id matching its card.
+- **G-1 is resolved:** all `powers-report-sec` citations now have `page: null`, so their pages differ from the cards' old PDF numbers by design.
+- All 31 new wordings are present, and all 10 flagged phrases are gone.
+
+**Each finding.** Every must-fix and should-fix is **RESOLVED**, with two caveats: the new wording for 3-1 and 6-4 is correct, but each needs its card linked (below).
+- **3-1 (must-fix, ch3 Board note): the text is correct, but a citation is required.** The new wording ("no reserve at the end of 2000, and only a $36.6 million reserve in March 2001 instead of a charge of more than $500 million") matches Powers (lines 4394, 4553-4555). But neither cited card (A-056, A-057) holds the $36.6 million figure. I added **card F-023** to `work/facts/reader-followup.json`: checked, fingerprint OK, quote verbatim at lines 4553-4555. **Required:** add an `F-023` citation to this note.
+- **4-1, 4-2 (must-fix): RESOLVED.** Both now say "Watkins testified that she gave ...", which matches her testimony (PDF 16; lines 5594-5596). The strip keeps F-004 for the letter's wording.
+- **6-1 (must-fix): RESOLVED.** The text now says Temple "suggested ... that the Enron team be reminded", and "by Andersen's account ... stopped shortly after November 9". Summary 3 is fixed the same way (6-2).
+- **6-4 (should-fix): the text is correct, but a citation is required.** The quotation "about a 30 – 45 minute presentation" / "we necessarily have to stay at a certain level" is verbatim on the page image (Batson App. B p. 131, n. 472, PDF 29). No card held it, so I added **card F-022**: image-checked, fingerprint OK. **Required:** cite `F-022` on this note, instead of or alongside C-035.
+  - *Optional:* the examiner says the e-mail concerned information to the Audit Committee "regarding internal control issues". "Duncan wrote in December 2000, about what to tell the Audit Committee on internal-control issues, that it all had to fit ..." would give that context and avoid repeating "presentation".
+- **Should-fix items, all RESOLVED:** 1-1, 2-1, 2-2, 3-2 (note and summary; A-058 added for the $710M charge), 3-3, 3-4 (sentence dropped), 3-5 (summary and strip), 4-3, 4-4, 4-5, 4-6, 4-7, 4-8 (Watkins cites removed with the sentence), 4-9, 5-1, 5-2, 6-3, 7-1, 7-2 (note and summary).
+- **Notes applied:** 2-3, 2-4, 3-6, 5-3, 5-4, 6-5, 6-6.
+- **Notes left as they were, acceptably:** 1-2 and 6-7.
+- **Introduced errors:** I read every changed sentence against its source and found none. One cosmetic point: in ch4 Who Knew note (p14), the text after "Who Knew What, When:" begins with a capital "The", while every other note is lowercase after the colon.
+
+**Corrections log.**
+- Rows #139 to #143 record the lens corrections and the two new cards.
+- Earlier rows #106 to #109 were marked PENDING for the writer. I verified them as applied in `js/cast-data.js` and `js/timeline-data.js`, including all 46 G-card cite pages, and they are now marked DONE. No PENDING rows remain.
+
+### Final verdicts
+
+| chapter | verdict | remaining |
+|---|---|---|
+| ch1 | **PASS** | none |
+| ch2 | **PASS** | none |
+| ch3 | **PASS after one citation** | add `F-023` to the Board note (p20) |
+| ch4 | **PASS** | none (cosmetic capital "The", optional) |
+| ch5 | **PASS** | none |
+| ch6 | **PASS after one citation** | cite `F-022` on the Auditors note (p8); optional context wording |
+| ch7 | **PASS** | none |

@@ -1,16 +1,16 @@
 {
   "project": "Ask Why: The Rise and Fall of Enron",
-  "generated": "2026-09-26T11:53:43Z",
+  "generated": "2026-09-27T00:36:55Z",
   "generated_note": "Time of the newest coordinator note; the log is rebuilt from the notes by work/tools/build_log.py.",
   "summary": {
-    "agents": 15,
-    "runs": 28,
-    "runs_from_a_brief": 18,
-    "runs_resumed_by_message": 10,
+    "agents": 16,
+    "runs": 37,
+    "runs_from_a_brief": 23,
+    "runs_resumed_by_message": 14,
     "runs_still_open": 0,
-    "coordinator_decisions": 17,
-    "library_documents": 76,
-    "sources_read": 56,
+    "coordinator_decisions": 23,
+    "library_documents": 87,
+    "sources_read": 67,
     "sources_read_ids": [
       "powers-report",
       "powers-report-sec",
@@ -67,20 +67,32 @@
       "doj-lay-charged-press",
       "doj-skilling-charged-press",
       "ca5-skilling-2009",
-      "skilling-scotus-2010"
+      "skilling-scotus-2010",
+      "doj-fastow-plea-press-2004",
+      "doj-fastow-sentenced-press-2006",
+      "doj-glisan-plea-press-2003",
+      "sec-duncan-litrel-20441",
+      "ca5-skilling-2011-remand",
+      "doj-skilling-sentencing-agreement-2013",
+      "doj-andersen-indictment-2002",
+      "andersen-scotus-full-usreports",
+      "doj-dag-kopper-plea-transcript-2002",
+      "doj-causey-sentenced-press-2006",
+      "hrg-hfs-enron-investors-pt1"
     ],
-    "sources_cited": 47,
-    "fact_cards_written": 291,
-    "fact_cards_checked": 291,
+    "sources_cited": 58,
+    "fact_cards_written": 327,
+    "fact_cards_checked": 327,
     "fact_card_files": [
       "work/facts/reader-a.json",
       "work/facts/reader-b.json",
       "work/facts/reader-c.json",
-      "work/facts/reader-followup.json"
+      "work/facts/reader-followup.json",
+      "work/facts/reader-revision.json"
     ],
     "footnote_annotations": 33,
     "footnote_annotations_checked": 33,
-    "corrections": 86,
+    "corrections": 109,
     "web_sources": 9,
     "web_sites": [
       "ca5.uscourts.gov",
@@ -105,10 +117,10 @@
       "sources/candidates/candidates.csv"
     ],
     "text": [
-      "The coordinator ran 15 agents, in 28 runs: 18 started from a written brief and 10 resumed by a follow-up message.",
-      "The library holds 76 documents. The agents opened 56 of them, and the site cites 47.",
-      "The Readers wrote 291 fact cards: short, sourced notes of one fact each. The Fact-Checker checked 291 of them against the documents, plus 33 of the 33 annotations on the footnote.",
-      "The Fact-Checker logged 86 corrections.",
+      "The coordinator ran 16 agents, in 37 runs: 23 started from a written brief and 14 resumed by a follow-up message.",
+      "The library holds 87 documents. The agents opened 67 of them, and the site cites 58.",
+      "The Readers wrote 327 fact cards: short, sourced notes of one fact each. The Fact-Checker checked 327 of them against the documents, plus 33 of the 33 annotations on the footnote.",
+      "The Fact-Checker logged 109 corrections.",
       "Agents used 9 websites, only for images and for the Source Scout's search: ca5.uscourts.gov, commons.wikimedia.org, govinfo.gov, justice.gov, sec.gov, supremecourt.gov, tile.loc.gov, upload.wikimedia.org, www.loc.gov.",
       "The Source Scout found 10 candidate documents for missing sources. None of them may be used until the project owner approves it."
     ]
@@ -228,6 +240,42 @@
         "type": "decision",
         "title": "Phase 1 complete; checking in with the owner",
         "detail": "All pages fact-checked and passing; site tests pass (0 problems) at laptop, projector and phone widths in light and dark; nothing links to or cites candidate documents. Reporting gaps.md and the 10 candidates to the owner. Phase 2 not started, per instructions."
+      },
+      {
+        "time": "2026-09-26T23:23:53Z",
+        "type": "decision",
+        "title": "Owner approved all 10 candidates and added the Dec 12, 2001 House hearing",
+        "detail": "Plan approved: owner adds 11 rows to manifest.csv (prepared in sources/candidates/manifest-rows-to-add.csv) and runs the GitHub Action; coordinator then compares fingerprints with the Scout's copies and runs a revision pass (new cards, fact-check, update not-shown claims) before Phase 2."
+      },
+      {
+        "time": "2026-09-27T00:10:51Z",
+        "type": "decision",
+        "title": "Owner added 11 documents to the library",
+        "detail": "Owner pasted the 10 approved candidate rows (folder left as candidates) and the Dec 12, 2001 House hearing row into manifest.csv and ran the GitHub Action. Coordinator merged main into the working branch and re-checked all 85 fingerprints: all match. 9 of 10 fresh downloads match the Scout's copies exactly; the SEC Duncan release differs only in a randomly generated tracking script at the bottom of the page (text identical). Hearing cover confirms Serial No. 107-51, Part 1 (joint hearing, Dec 12, 2001). The folder name is cosmetic; left for the owner to decide, since agents do not edit the library."
+      },
+      {
+        "time": "2026-09-27T00:10:51Z",
+        "type": "decision",
+        "title": "Revision pass started",
+        "detail": "Reader B reads only the 11 new documents and maps which gaps they fill and where the site currently says a fact is not shown; then Fact-Checker; then writers update; then Fact-Checker re-checks; then Site Builder and Scribe."
+      },
+      {
+        "time": "2026-09-27T00:22:35Z",
+        "type": "decision",
+        "title": "Candidate approval confirmed by the owner",
+        "detail": "The Fact-Checker noted that the 10 rows in manifest.csv still carry status candidate-unapproved. The owner approved all 10 in writing in this session (\"I have reviewed the candidates and agree they all should be added to the sources library\") and added the rows and ran the download. Proceeding; the status and folder cells are cosmetic and left for the owner to tidy."
+      },
+      {
+        "time": "2026-09-27T00:33:39Z",
+        "type": "decision",
+        "title": "Duncan label and new critical gap",
+        "detail": "Coordinator added the label \"pleaded guilty (2002); later history not in library\" to js/cast.js and logged gap 29 (what later happened to Duncan's plea) as critical, with gaps 30-31, in build-log/gaps.md. The Fact-Checker's recollection that the plea may have been withdrawn is recorded as unverified and kept off the site."
+      },
+      {
+        "time": "2026-09-27T00:36:55Z",
+        "type": "decision",
+        "title": "Revision pass complete",
+        "detail": "The 11 new documents are used across the Cast, Timeline and chapters 6-7; both Fact-Checkers passed the content, with final mechanical fixes verified by the coordinator; site tests 0 problems. Remaining gaps (Duncan plea history, Kopper and Skilling sentences, Andersen after remand) are stated on the site and logged."
       }
     ]
   },
@@ -628,18 +676,18 @@
     {
       "id": "site",
       "name": "Site Builder",
-      "role": "Final assembly: How This Was Built page, gaps and candidates display, final tests",
+      "role": "Revision pass: tests and How This Was Built reflect approved candidates",
       "brief_file": "work/briefs/06-site.md",
       "brief_files": [
         "work/briefs/06-site.md",
         "work/briefs/17-site-final.md"
       ],
       "common_rules_file": "work/briefs/00-common-rules.md",
-      "brief": "=== Run 1 brief: work/briefs/06-site.md ===\n\n# Brief: Site Builder (first pass: design and skeleton)\n\n**Role:** Build the static website's structure, design, and shared code. Follow `00-common-rules.md` (especially \"Site markup conventions\") and the TECHNICAL section of `CLAUDE.md`. Content is not ready yet, so use clearly marked placeholder text (\"[Draft text coming]\"). **Do not write any factual content about Enron.**\n\n**Hard constraints**\n- Plain HTML, CSS, and JS only. No build step, no frameworks from CDNs, no outside services, fonts, or analytics. It must work by opening `index.html` directly from disk (file://) **and** from GitHub Pages. So: **no fetch() of local JSON.** Data comes in as `<script src=\"...js\">` files that set `window.X = ...`.\n- **Equal priority for computer and phone.** On a computer (and a classroom projector), a wide reading layout with **margin notes** beside the text, like an annotated edition. On a phone, the same notes open when tapped. Also:\n  - a **\"Presentation\" toggle** that enlarges text for projecting (remembered with localStorage, wrapped in try/catch);\n  - **keyboard navigation:** left and right arrows move between chapters; on the Footnote page, j/k or the arrows step through annotations;\n  - print styles for chapters (margin notes print as endnotes);\n  - light and dark themes (following the system setting, plus a manual toggle);\n  - accessible: semantic HTML, focus styles, alt text, good contrast, no horizontal scroll at 360px wide.\n- A tasteful, readable, \"annotated edition\" look: a serif body font from system fonts, generous line height, restrained colors. The title is \"Ask Why: The Rise and Fall of Enron.\"\n\n**Build**\n- `index.html` (home), `chapters/ch1.html` ... `chapters/ch7.html` (placeholder bodies, using the chapter titles in the plan below), `cast.html`, `timeline.html`, `glossary.html`, `footnote.html`, `how-built.html`, `sources.html`, `credits.html`.\n- `css/site.css`; `js/site.js`, which:\n  - numbers `a.cite` elements and builds the margin or tap notes from `data-src`, `data-page`, and `data-loc`, looking up `window.SOURCES` (title, file path) and linking to `../sources/<folder>/<file>` (+`#page=N` for PDFs);\n  - handles glossary pop-ups for `.term[data-term]`, using `window.GLOSSARY`;\n  - places `figure[data-image]` from `window.IMAGE_CREDITS`, showing the credit line (author, license, source link);\n  - builds the prev/next chapter navigation, the Presentation toggle, and the theme toggle;\n  - has a hook for Phase 2 lenses: elements with `data-lens` get no special styling yet, but put a stub function `applyLens(name)` in the code.\n- `js/sources-data.js`: generate it now **from `sources/manifest.csv` and `sources/download_log.csv`** with a small Python script, `work/tools/make_sources_js.py` (commit the script; the site itself has no build step). Include id, title, date, source_body, folder, filename, official URL, and sha256. `sources.html` lists them all, grouped by folder, with their fingerprints and a short plain-language explanation of what a fingerprint is.\n- `js/glossary-data.js`: a placeholder `window.GLOSSARY = {}` (the Reference Writer fills it later).\n- `js/footnote.js`: renders `window.FOOTNOTE` (format: see `work/briefs/04-footnote.md`, output section) into `footnote.html`. Make a tiny sample `js/footnote-data.js` with one fake paragraph clearly labeled SAMPLE so you can test it. On wide screens, the annotation panel sits beside the text; on phones, it's a bottom sheet. Each annotation shows \"What it said / What it left out / What investigators found,\" with citation links.\n- `how-built.html` + `js/how-built.js`: render `window.BUILD_LOG` (from `build-log/log.js`, which the Scribe produces; its format is in `work/briefs/07-scribe.md`). Sections: (1) \"Before the agents\" (placeholder heading; the coordinator will supply the text), (2) a team diagram (SVG generated from the agents list: the coordinator in the center, the agents around it), (3) a build timeline, (4) one expandable card per agent showing its role, brief, result, and decision, (5) websites used. Use a small sample `build-log/log.js` if the real one doesn't exist yet. **Don't overwrite it if it exists.**\n- `timeline.html` + `js/timeline.js`: render `window.TIMELINE` (array of `{date, title, text, cites:[...], tags:[...], epilogue:bool}`), with tag filters and year jumps. Use a small SAMPLE data file.\n- `cast.html` + `js/cast.js`: render `window.CAST` (array of `{id, name, role, summary, outcome_status, outcome_text, cites, image?}`), with outcome labels that are neutral in wording and color. Use SAMPLE data.\n\nChapter titles: 1 \"Origins\", 2 \"The Business Model and Mark-to-Market Accounting\", 3 \"The Special Purpose Entities\", 4 \"Warning Signs and the Whistleblower\", 5 \"The Collapse\", 6 \"Arthur Andersen\", 7 \"Aftermath and Reform\".\n\n**Test:** use Playwright with the pre-installed Chromium (`PLAYWRIGHT_BROWSERS_PATH=/opt/pw-browsers`; don't run `playwright install`; install the Python `playwright` package with pip if needed) to load the pages via file:// at 1440×900, 1920×1080 (projector), and 390×844 (phone). Check for console errors and horizontal overflow. Save screenshots to `work/screens/`.\n\n**Outputs:** the files above, plus `work/drafts/site-notes.md`, which explains to the writers exactly how to hand over content (the file names and `window.` variable names you expect).\n\n=== Run 2 brief: work/briefs/17-site-final.md ===\n\n# Brief: Site Builder, final assembly (Wave 4)\n\nFollow `00-common-rules.md`. **Don't change content wording** in chapters, the Cast, the Timeline, the Glossary, or the footnote (fact-checking is finishing in parallel; your integrate script will pick up their final text).\n\n1. **How This Was Built** (`js/how-built.js`, `how-built.html`). `build-log/log.json` now has several runs per agent, resumed runs, coordinator messages, and a computed `summary` block (see `work/tools/build_log.py`). For a non-technical workshop audience:\n   - Open with \"Before the agents\" (as the Scribe wrote it; it covers the SHA-256 explanation and the three lessons). Check that it reads clearly, and style it prominently.\n   - Then an \"At a glance\" band built from `summary.text` and its numbers.\n   - The team diagram (coordinator and agents). Show how many runs each agent had.\n   - The build timeline.\n   - Agent cards: each run shows its brief (or the coordinator's follow-up message summary for resumed runs), what the agent read, what it produced, and the coordinator's decision and reason. Use collapsible sections so it isn't overwhelming.\n   - \"How facts were checked\": a short explanation of fact cards → writers → fact-checker → fixes → re-check, with the corrections list (from the log).\n   - \"What the sources couldn't tell us\": render `build-log/gaps.md` (convert the markdown tables to a JS data file with a small script in `work/tools/`, run by `integrate.py`) and the candidate list from `sources/candidates/candidates.csv` (title, source, which gap it fills, \"awaiting the owner's approval, not used on this site\"). **Don't link to the candidate files.**\n   - The reader tips: how the two tips were handled (from the gaps file's Reader tips section).\n   - Websites used (from the log).\n2. Re-run `python3 work/tools/integrate.py` (full, including the log) at the end.\n3. Final tests: `work/tools/test_site.py` at 1440×900, 1920×1080, 390×844, and 360 wide, light and dark. Add a check that no page links into `sources/candidates/`. Save fresh screenshots of every page.\n4. Polish: consistent headings, no leftover placeholder text anywhere (search for \"coming\", \"SAMPLE\", \"TODO\", \"[Draft\"), footer on every page, a working 404-free set of links. Check `index.html` opens straight from disk.\n\nOutput: the updated files and a final report (test results; anything that looks wrong in the content, reported rather than fixed).\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
-      "wave": 4,
+      "brief": "=== Run 1 brief: work/briefs/06-site.md ===\n\n# Brief: Site Builder (first pass: design and skeleton)\n\n**Role:** Build the static website's structure, design, and shared code. Follow `00-common-rules.md` (especially \"Site markup conventions\") and the TECHNICAL section of `CLAUDE.md`. Content is not ready yet, so use clearly marked placeholder text (\"[Draft text coming]\"). **Do not write any factual content about Enron.**\n\n**Hard constraints**\n- Plain HTML, CSS, and JS only. No build step, no frameworks from CDNs, no outside services, fonts, or analytics. It must work by opening `index.html` directly from disk (file://) **and** from GitHub Pages. So: **no fetch() of local JSON.** Data comes in as `<script src=\"...js\">` files that set `window.X = ...`.\n- **Equal priority for computer and phone.** On a computer (and a classroom projector), a wide reading layout with **margin notes** beside the text, like an annotated edition. On a phone, the same notes open when tapped. Also:\n  - a **\"Presentation\" toggle** that enlarges text for projecting (remembered with localStorage, wrapped in try/catch);\n  - **keyboard navigation:** left and right arrows move between chapters; on the Footnote page, j/k or the arrows step through annotations;\n  - print styles for chapters (margin notes print as endnotes);\n  - light and dark themes (following the system setting, plus a manual toggle);\n  - accessible: semantic HTML, focus styles, alt text, good contrast, no horizontal scroll at 360px wide.\n- A tasteful, readable, \"annotated edition\" look: a serif body font from system fonts, generous line height, restrained colors. The title is \"Ask Why: The Rise and Fall of Enron.\"\n\n**Build**\n- `index.html` (home), `chapters/ch1.html` ... `chapters/ch7.html` (placeholder bodies, using the chapter titles in the plan below), `cast.html`, `timeline.html`, `glossary.html`, `footnote.html`, `how-built.html`, `sources.html`, `credits.html`.\n- `css/site.css`; `js/site.js`, which:\n  - numbers `a.cite` elements and builds the margin or tap notes from `data-src`, `data-page`, and `data-loc`, looking up `window.SOURCES` (title, file path) and linking to `../sources/<folder>/<file>` (+`#page=N` for PDFs);\n  - handles glossary pop-ups for `.term[data-term]`, using `window.GLOSSARY`;\n  - places `figure[data-image]` from `window.IMAGE_CREDITS`, showing the credit line (author, license, source link);\n  - builds the prev/next chapter navigation, the Presentation toggle, and the theme toggle;\n  - has a hook for Phase 2 lenses: elements with `data-lens` get no special styling yet, but put a stub function `applyLens(name)` in the code.\n- `js/sources-data.js`: generate it now **from `sources/manifest.csv` and `sources/download_log.csv`** with a small Python script, `work/tools/make_sources_js.py` (commit the script; the site itself has no build step). Include id, title, date, source_body, folder, filename, official URL, and sha256. `sources.html` lists them all, grouped by folder, with their fingerprints and a short plain-language explanation of what a fingerprint is.\n- `js/glossary-data.js`: a placeholder `window.GLOSSARY = {}` (the Reference Writer fills it later).\n- `js/footnote.js`: renders `window.FOOTNOTE` (format: see `work/briefs/04-footnote.md`, output section) into `footnote.html`. Make a tiny sample `js/footnote-data.js` with one fake paragraph clearly labeled SAMPLE so you can test it. On wide screens, the annotation panel sits beside the text; on phones, it's a bottom sheet. Each annotation shows \"What it said / What it left out / What investigators found,\" with citation links.\n- `how-built.html` + `js/how-built.js`: render `window.BUILD_LOG` (from `build-log/log.js`, which the Scribe produces; its format is in `work/briefs/07-scribe.md`). Sections: (1) \"Before the agents\" (placeholder heading; the coordinator will supply the text), (2) a team diagram (SVG generated from the agents list: the coordinator in the center, the agents around it), (3) a build timeline, (4) one expandable card per agent showing its role, brief, result, and decision, (5) websites used. Use a small sample `build-log/log.js` if the real one doesn't exist yet. **Don't overwrite it if it exists.**\n- `timeline.html` + `js/timeline.js`: render `window.TIMELINE` (array of `{date, title, text, cites:[...], tags:[...], epilogue:bool}`), with tag filters and year jumps. Use a small SAMPLE data file.\n- `cast.html` + `js/cast.js`: render `window.CAST` (array of `{id, name, role, summary, outcome_status, outcome_text, cites, image?}`), with outcome labels that are neutral in wording and color. Use SAMPLE data.\n\nChapter titles: 1 \"Origins\", 2 \"The Business Model and Mark-to-Market Accounting\", 3 \"The Special Purpose Entities\", 4 \"Warning Signs and the Whistleblower\", 5 \"The Collapse\", 6 \"Arthur Andersen\", 7 \"Aftermath and Reform\".\n\n**Test:** use Playwright with the pre-installed Chromium (`PLAYWRIGHT_BROWSERS_PATH=/opt/pw-browsers`; don't run `playwright install`; install the Python `playwright` package with pip if needed) to load the pages via file:// at 1440×900, 1920×1080 (projector), and 390×844 (phone). Check for console errors and horizontal overflow. Save screenshots to `work/screens/`.\n\n**Outputs:** the files above, plus `work/drafts/site-notes.md`, which explains to the writers exactly how to hand over content (the file names and `window.` variable names you expect).\n\n=== Run 2 brief: work/briefs/17-site-final.md ===\n\n# Brief: Site Builder, final assembly (Wave 4)\n\nFollow `00-common-rules.md`. **Don't change content wording** in chapters, the Cast, the Timeline, the Glossary, or the footnote (fact-checking is finishing in parallel; your integrate script will pick up their final text).\n\n1. **How This Was Built** (`js/how-built.js`, `how-built.html`). `build-log/log.json` now has several runs per agent, resumed runs, coordinator messages, and a computed `summary` block (see `work/tools/build_log.py`). For a non-technical workshop audience:\n   - Open with \"Before the agents\" (as the Scribe wrote it; it covers the SHA-256 explanation and the three lessons). Check that it reads clearly, and style it prominently.\n   - Then an \"At a glance\" band built from `summary.text` and its numbers.\n   - The team diagram (coordinator and agents). Show how many runs each agent had.\n   - The build timeline.\n   - Agent cards: each run shows its brief (or the coordinator's follow-up message summary for resumed runs), what the agent read, what it produced, and the coordinator's decision and reason. Use collapsible sections so it isn't overwhelming.\n   - \"How facts were checked\": a short explanation of fact cards → writers → fact-checker → fixes → re-check, with the corrections list (from the log).\n   - \"What the sources couldn't tell us\": render `build-log/gaps.md` (convert the markdown tables to a JS data file with a small script in `work/tools/`, run by `integrate.py`) and the candidate list from `sources/candidates/candidates.csv` (title, source, which gap it fills, \"awaiting the owner's approval, not used on this site\"). **Don't link to the candidate files.**\n   - The reader tips: how the two tips were handled (from the gaps file's Reader tips section).\n   - Websites used (from the log).\n2. Re-run `python3 work/tools/integrate.py` (full, including the log) at the end.\n3. Final tests: `work/tools/test_site.py` at 1440×900, 1920×1080, 390×844, and 360 wide, light and dark. Add a check that no page links into `sources/candidates/`. Save fresh screenshots of every page.\n4. Polish: consistent headings, no leftover placeholder text anywhere (search for \"coming\", \"SAMPLE\", \"TODO\", \"[Draft\"), footer on every page, a working 404-free set of links. Check `index.html` opens straight from disk.\n\nOutput: the updated files and a final report (test results; anything that looks wrong in the content, reported rather than fixed).\n\n=== Run 3 brief: work/briefs/17-site-final.md ===\n\n# Brief: Site Builder, final assembly (Wave 4)\n\nFollow `00-common-rules.md`. **Don't change content wording** in chapters, the Cast, the Timeline, the Glossary, or the footnote (fact-checking is finishing in parallel; your integrate script will pick up their final text).\n\n1. **How This Was Built** (`js/how-built.js`, `how-built.html`). `build-log/log.json` now has several runs per agent, resumed runs, coordinator messages, and a computed `summary` block (see `work/tools/build_log.py`). For a non-technical workshop audience:\n   - Open with \"Before the agents\" (as the Scribe wrote it; it covers the SHA-256 explanation and the three lessons). Check that it reads clearly, and style it prominently.\n   - Then an \"At a glance\" band built from `summary.text` and its numbers.\n   - The team diagram (coordinator and agents). Show how many runs each agent had.\n   - The build timeline.\n   - Agent cards: each run shows its brief (or the coordinator's follow-up message summary for resumed runs), what the agent read, what it produced, and the coordinator's decision and reason. Use collapsible sections so it isn't overwhelming.\n   - \"How facts were checked\": a short explanation of fact cards → writers → fact-checker → fixes → re-check, with the corrections list (from the log).\n   - \"What the sources couldn't tell us\": render `build-log/gaps.md` (convert the markdown tables to a JS data file with a small script in `work/tools/`, run by `integrate.py`) and the candidate list from `sources/candidates/candidates.csv` (title, source, which gap it fills, \"awaiting the owner's approval, not used on this site\"). **Don't link to the candidate files.**\n   - The reader tips: how the two tips were handled (from the gaps file's Reader tips section).\n   - Websites used (from the log).\n2. Re-run `python3 work/tools/integrate.py` (full, including the log) at the end.\n3. Final tests: `work/tools/test_site.py` at 1440×900, 1920×1080, 390×844, and 360 wide, light and dark. Add a check that no page links into `sources/candidates/`. Save fresh screenshots of every page.\n4. Polish: consistent headings, no leftover placeholder text anywhere (search for \"coming\", \"SAMPLE\", \"TODO\", \"[Draft\"), footer on every page, a working 404-free set of links. Check `index.html` opens straight from disk.\n\nOutput: the updated files and a final report (test results; anything that looks wrong in the content, reported rather than fixed).\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": "revision",
       "decision": "accepted",
-      "reason": "Final tests: 0 problems on 15 pages at four sizes in light and dark; nothing links to candidate files. Reported issues handled: footnote closing already cites Powers (stale report); candidate titles neutralised by coordinator; the two context annotations were checked in Round 1 (35 annotations checked).",
-      "decision_time": "2026-09-26T11:51:54Z",
+      "reason": "Tests 0 problems; fingerprint comparison independently confirmed from git history.",
+      "decision_time": "2026-09-27T00:27:48Z",
       "runs": [
         {
           "run": 1,
@@ -693,6 +741,31 @@
           "messages": [],
           "reviews": [],
           "wave": 4
+        },
+        {
+          "run": 3,
+          "kind": "brief",
+          "brief_file": "work/briefs/17-site-final.md",
+          "brief": "# Brief: Site Builder, final assembly (Wave 4)\n\nFollow `00-common-rules.md`. **Don't change content wording** in chapters, the Cast, the Timeline, the Glossary, or the footnote (fact-checking is finishing in parallel; your integrate script will pick up their final text).\n\n1. **How This Was Built** (`js/how-built.js`, `how-built.html`). `build-log/log.json` now has several runs per agent, resumed runs, coordinator messages, and a computed `summary` block (see `work/tools/build_log.py`). For a non-technical workshop audience:\n   - Open with \"Before the agents\" (as the Scribe wrote it; it covers the SHA-256 explanation and the three lessons). Check that it reads clearly, and style it prominently.\n   - Then an \"At a glance\" band built from `summary.text` and its numbers.\n   - The team diagram (coordinator and agents). Show how many runs each agent had.\n   - The build timeline.\n   - Agent cards: each run shows its brief (or the coordinator's follow-up message summary for resumed runs), what the agent read, what it produced, and the coordinator's decision and reason. Use collapsible sections so it isn't overwhelming.\n   - \"How facts were checked\": a short explanation of fact cards → writers → fact-checker → fixes → re-check, with the corrections list (from the log).\n   - \"What the sources couldn't tell us\": render `build-log/gaps.md` (convert the markdown tables to a JS data file with a small script in `work/tools/`, run by `integrate.py`) and the candidate list from `sources/candidates/candidates.csv` (title, source, which gap it fills, \"awaiting the owner's approval, not used on this site\"). **Don't link to the candidate files.**\n   - The reader tips: how the two tips were handled (from the gaps file's Reader tips section).\n   - Websites used (from the log).\n2. Re-run `python3 work/tools/integrate.py` (full, including the log) at the end.\n3. Final tests: `work/tools/test_site.py` at 1440×900, 1920×1080, 390×844, and 360 wide, light and dark. Add a check that no page links into `sources/candidates/`. Save fresh screenshots of every page.\n4. Polish: consistent headings, no leftover placeholder text anywhere (search for \"coming\", \"SAMPLE\", \"TODO\", \"[Draft\"), footer on every page, a working 404-free set of links. Check `index.html` opens straight from disk.\n\nOutput: the updated files and a final report (test results; anything that looks wrong in the content, reported rather than fixed).",
+          "brief_summary": null,
+          "started": "2026-09-27T00:22:48Z",
+          "finished": "2026-09-27T00:27:48Z",
+          "inputs": [
+            "sources/manifest.csv",
+            "sources/download_log.csv",
+            "candidates.csv"
+          ],
+          "outputs": [
+            "test_site.py: links into sources/ must be manifest-listed",
+            "gaps_to_js.py and how-built.js show the 10 as approved with fingerprint comparison",
+            "Sources page lists all 87 rows"
+          ],
+          "decision": "accepted",
+          "reason": "Tests 0 problems; fingerprint comparison independently confirmed from git history.",
+          "handoffs_in": [],
+          "messages": [],
+          "reviews": [],
+          "wave": "revision"
         }
       ],
       "handoffs": [],
@@ -921,17 +994,18 @@
     {
       "id": "story",
       "name": "Story Writer",
-      "role": "Writes the seven chapters from checked fact cards, each ending with an Ask Why question",
+      "role": "Revision pass updates",
       "brief_file": "work/briefs/09-story-writer.md",
       "brief_files": [
-        "work/briefs/09-story-writer.md"
+        "work/briefs/09-story-writer.md",
+        "work/briefs/19-writers-revision.md"
       ],
       "common_rules_file": "work/briefs/00-common-rules.md",
-      "brief": "# Brief: Story Writer\n\n**Role:** Write the seven chapters of \"The Story.\" Follow `00-common-rules.md` (markup conventions included) and the AUDIENCE AND TONE section of `CLAUDE.md`.\n\n**Audience and voice:** undergraduates from any major, no accounting background. Tell it as a story (scenes, people, stakes), but stay **neutral and factual**. No sensationalism, no adjectives that pass judgment (\"greedy,\" \"shocking\"), and no moralizing. Each chapter should take about 6–10 minutes to read: roughly 900–1,400 words. Short paragraphs.\n\n**Facts:** use **only** fact cards in `work/facts/*.json` whose `checked` is \"OK\" or \"FIXED\", or unchecked cards from a sample the checker passed. **Never use cards marked REJECTED.** Give each card's id in `data-card` on the citation. **Every sentence with a specific fact about a person, date, or amount carries a citation.** Use the card's verb. If you need a fact that has no card, don't look it up: add it to `work/drafts/story-requests.md` (the claim, and the kind of source that might have it) and write around it.\n\n**Concept explanations** (mark-to-market accounting, special purpose entities, hedging, restatement, auditor independence) may use general knowledge. Keep them simple, and use one worked illustration clearly labeled as an illustration.\n\n**Glossary terms:** wrap the first use of each accounting or legal term in `<span class=\"term\" data-term=\"ID\">`. List every term id you use, with a one-line plain definition, in `work/drafts/story-terms.md` (the Reference Writer builds the glossary from it).\n\n**Lenses (for Phase 2):** tag paragraphs with `data-lens` (money, auditors, board, knew) where they apply.\n\n**Images:** put one or more `<figure data-image=\"ID\"></figure>` placeholders in each chapter. Pick from `images/credits.json` (use its ids) or name a needed diagram in `work/drafts/story-requests.md`.\n\n**Chapters:**\n1. Origins\n2. The Business Model and Mark-to-Market Accounting\n3. The Special Purpose Entities\n4. Warning Signs and the Whistleblower\n5. The Collapse\n6. Arthur Andersen\n7. Aftermath and Reform\n\nChapter 7 covers the trials and how each case ended, employees' pensions, and SOX and the PCAOB **in brief**. (Phase 2 will add \"Why This Matters to You.\")\n\n**End each chapter** with `<aside class=\"ask-why\">`: one genuinely open question, the kind an instructor could use to start a class discussion, tied to the chapter. It's a question, not a verdict.\n\n**Reader tip rulings** are in `work/facts/factcheck-round1.md`. Follow them exactly.\n\n**Output:** `work/drafts/ch1.html` ... `ch7.html`. Each is an HTML fragment: `<h1>`, then an optional `<p class=\"dek\">` (a one-sentence summary), then the body. Also `work/drafts/story-requests.md` and `work/drafts/story-terms.md`.\n\n## Coordinator addendum (after Fact-Checker Round 1)\n- Read `work/facts/factcheck-round1.md` first. Its table of **26 source disagreements** says how each must be presented (for example, restatement figures: use the 10-Q; Q3 2001 loss: $618M announced vs. $644M filed; the bankruptcy date Dec 2 vs. Dec 3). Follow it. Where sources disagree, say so in plain words (\"Enron's filings and the board's investigation give different figures: ...\").\n- Read `work/drafts/site-notes.md` (from the Site Builder) for the exact file names and data formats.\n- Reader tips, as ruled: **Buffett is excluded. Don't mention it.** The ranking may appear only as: \"In 2001, *Fortune* magazine ranked Enron seventh on its list of the 500 largest U.S. companies, measured by revenue,\" citing `rpt-jct-vol1` p. 58 (PDF 86) and `batson-final` n. 27 (PDF 18). Never say \"at its peak\" or \"in the world.\"\n- Andersen's CEO quote from the Dec 12, 2001 hearing: attribute it to \"Andersen's CEO, as quoted in the Powers Report.\" Don't name him for that quote.\n- Every card now carries `checked` and `checker_note`. Read the `checker_note` before using a card.\n- Images: the Image Researcher is still working. Use ids from `images/credits.json` if it exists. Otherwise use descriptive placeholder ids (e.g. `diagram-raptor`, `photo-enron-hq`) and list them in your requests file.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
-      "wave": 2,
-      "decision": "accepted, pending Fact-Checker final check",
-      "reason": "All four Round 3 fixes applied; ch4 quotes the letter's own wording from the Senate report appendix and notes the report's misquote.",
-      "decision_time": "2026-09-26T11:44:07Z",
+      "brief": "=== Run 1 brief: work/briefs/09-story-writer.md ===\n\n# Brief: Story Writer\n\n**Role:** Write the seven chapters of \"The Story.\" Follow `00-common-rules.md` (markup conventions included) and the AUDIENCE AND TONE section of `CLAUDE.md`.\n\n**Audience and voice:** undergraduates from any major, no accounting background. Tell it as a story (scenes, people, stakes), but stay **neutral and factual**. No sensationalism, no adjectives that pass judgment (\"greedy,\" \"shocking\"), and no moralizing. Each chapter should take about 6–10 minutes to read: roughly 900–1,400 words. Short paragraphs.\n\n**Facts:** use **only** fact cards in `work/facts/*.json` whose `checked` is \"OK\" or \"FIXED\", or unchecked cards from a sample the checker passed. **Never use cards marked REJECTED.** Give each card's id in `data-card` on the citation. **Every sentence with a specific fact about a person, date, or amount carries a citation.** Use the card's verb. If you need a fact that has no card, don't look it up: add it to `work/drafts/story-requests.md` (the claim, and the kind of source that might have it) and write around it.\n\n**Concept explanations** (mark-to-market accounting, special purpose entities, hedging, restatement, auditor independence) may use general knowledge. Keep them simple, and use one worked illustration clearly labeled as an illustration.\n\n**Glossary terms:** wrap the first use of each accounting or legal term in `<span class=\"term\" data-term=\"ID\">`. List every term id you use, with a one-line plain definition, in `work/drafts/story-terms.md` (the Reference Writer builds the glossary from it).\n\n**Lenses (for Phase 2):** tag paragraphs with `data-lens` (money, auditors, board, knew) where they apply.\n\n**Images:** put one or more `<figure data-image=\"ID\"></figure>` placeholders in each chapter. Pick from `images/credits.json` (use its ids) or name a needed diagram in `work/drafts/story-requests.md`.\n\n**Chapters:**\n1. Origins\n2. The Business Model and Mark-to-Market Accounting\n3. The Special Purpose Entities\n4. Warning Signs and the Whistleblower\n5. The Collapse\n6. Arthur Andersen\n7. Aftermath and Reform\n\nChapter 7 covers the trials and how each case ended, employees' pensions, and SOX and the PCAOB **in brief**. (Phase 2 will add \"Why This Matters to You.\")\n\n**End each chapter** with `<aside class=\"ask-why\">`: one genuinely open question, the kind an instructor could use to start a class discussion, tied to the chapter. It's a question, not a verdict.\n\n**Reader tip rulings** are in `work/facts/factcheck-round1.md`. Follow them exactly.\n\n**Output:** `work/drafts/ch1.html` ... `ch7.html`. Each is an HTML fragment: `<h1>`, then an optional `<p class=\"dek\">` (a one-sentence summary), then the body. Also `work/drafts/story-requests.md` and `work/drafts/story-terms.md`.\n\n## Coordinator addendum (after Fact-Checker Round 1)\n- Read `work/facts/factcheck-round1.md` first. Its table of **26 source disagreements** says how each must be presented (for example, restatement figures: use the 10-Q; Q3 2001 loss: $618M announced vs. $644M filed; the bankruptcy date Dec 2 vs. Dec 3). Follow it. Where sources disagree, say so in plain words (\"Enron's filings and the board's investigation give different figures: ...\").\n- Read `work/drafts/site-notes.md` (from the Site Builder) for the exact file names and data formats.\n- Reader tips, as ruled: **Buffett is excluded. Don't mention it.** The ranking may appear only as: \"In 2001, *Fortune* magazine ranked Enron seventh on its list of the 500 largest U.S. companies, measured by revenue,\" citing `rpt-jct-vol1` p. 58 (PDF 86) and `batson-final` n. 27 (PDF 18). Never say \"at its peak\" or \"in the world.\"\n- Andersen's CEO quote from the Dec 12, 2001 hearing: attribute it to \"Andersen's CEO, as quoted in the Powers Report.\" Don't name him for that quote.\n- Every card now carries `checked` and `checker_note`. Read the `checker_note` before using a card.\n- Images: the Image Researcher is still working. Use ids from `images/credits.json` if it exists. Otherwise use descriptive placeholder ids (e.g. `diagram-raptor`, `photo-enron-hq`) and list them in your requests file.\n\n=== Run 4 brief: work/briefs/19-writers-revision.md ===\n\n# Brief: Writers, revision pass\n\n**Inputs:**\n- New checked cards `G-001`... in `work/facts/reader-revision.json`. Read every `checker_note`.\n- `work/facts/revision-gap-map.md`: the exact places the site says a fact is \"not shown\" or \"not in the library\".\n- The Fact-Checker's revision section at the end of `work/facts/factcheck-round3-partB.md`.\n\n**The 11 documents are approved library documents** (the owner approved them in writing). Ten are filed under the folder `candidates`; cite them normally by manifest id.\n\n**Rules:** as before (`00-common-rules.md`). Use only cards checked OK or FIXED. Use the card's verb: DOJ \"announced\"; an indictment \"alleged\"; an agreement \"agreed\"; the court \"held\".\n\nReplace each \"not shown / not in the library\" statement that the new cards answer. Keep every statement that is **still** open (Kopper's sentence; the sentence actually imposed on Skilling after the 2013 agreement; what happened to Andersen after the remand; Duncan's plea date and what happened to it). Say plainly what we still don't know.\n\n**Specific points:**\n- **Fastow forfeiture:** $29M (2004 release) vs. $20M (2006 release) is a **real disagreement**. Give both, attributed.\n- **Kopper $12M vs. $4M:** **not** a disagreement ($4M forfeiture + $8M to the SEC = $12M). Don't present it as a conflict.\n- **Berardino, Dec 12, 2001:** the quote in the Powers Report is from his **written statement** in the hearing record. That hearing shows no oath. Name him now where the site said \"Andersen's CEO\" (ch. 5 or wherever the map points), e.g. \"Andersen's chief executive, Joseph Berardino, in a written statement to a House hearing in December 2001, as quoted in the Powers Report\". Keep \"sworn witness\" only for the Feb. 5, 2002 hearing.\n- **Andersen's full Supreme Court opinion:** where the site cites only the Syllabus, cite the full opinion (`andersen-scotus-full-usreports`) instead or as well. Keep the text accurate: unanimous; reversed because the jury instructions were flawed; not a finding of innocence.\n\n**Story Writer:** chapters (edit `work/drafts/story-src/`, regenerate with `expand.py`; add G-card support to `expand.py` if needed). **Reference Writer:** `js/cast-data.js` (update `outcome_status` where the new cards justify it, e.g. Glisan \"pleaded guilty\"), `js/timeline-data.js` (add dated events such as pleas, sentences, the 2011 Fifth Circuit ruling, and the 2002 indictment; the 2010+ items are epilogue), and `js/glossary-data.js` if a new term is needed.\n\n**Both:** run `python3 work/tools/integrate.py --no-log` and `python3 work/tools/test_site.py`. If the test complains about links into `sources/candidates/`, report it to the coordinator; don't work around it. Append old and new text to `work/facts/fixes-revision.md` under your own heading. Report briefly.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": "revision",
+      "decision": "accepted",
+      "reason": "Three recommended precision tweaks applied; tests pass.",
+      "decision_time": "2026-09-27T00:35:16Z",
       "runs": [
         {
           "run": 1,
@@ -960,16 +1034,7 @@
               "what": "Checked fact cards (work/facts/*.json), factcheck-round1.md with disagreement table and tip rulings, footnote glossary terms, site-notes.md"
             }
           ],
-          "messages": [
-            {
-              "recorded": "2026-09-26T11:39:09Z",
-              "from": "Coordinator",
-              "to": "Story Writer",
-              "summary": "Image ids for each chapter and placeholder ids for the three Enron diagrams.",
-              "message_no": 2,
-              "matched": "sent while this run was in progress"
-            }
-          ],
+          "messages": [],
           "reviews": [],
           "wave": 2
         },
@@ -1040,6 +1105,59 @@
           ],
           "messages": [],
           "reviews": []
+        },
+        {
+          "run": 4,
+          "kind": "brief",
+          "brief_file": "work/briefs/19-writers-revision.md",
+          "brief": "# Brief: Writers, revision pass\n\n**Inputs:**\n- New checked cards `G-001`... in `work/facts/reader-revision.json`. Read every `checker_note`.\n- `work/facts/revision-gap-map.md`: the exact places the site says a fact is \"not shown\" or \"not in the library\".\n- The Fact-Checker's revision section at the end of `work/facts/factcheck-round3-partB.md`.\n\n**The 11 documents are approved library documents** (the owner approved them in writing). Ten are filed under the folder `candidates`; cite them normally by manifest id.\n\n**Rules:** as before (`00-common-rules.md`). Use only cards checked OK or FIXED. Use the card's verb: DOJ \"announced\"; an indictment \"alleged\"; an agreement \"agreed\"; the court \"held\".\n\nReplace each \"not shown / not in the library\" statement that the new cards answer. Keep every statement that is **still** open (Kopper's sentence; the sentence actually imposed on Skilling after the 2013 agreement; what happened to Andersen after the remand; Duncan's plea date and what happened to it). Say plainly what we still don't know.\n\n**Specific points:**\n- **Fastow forfeiture:** $29M (2004 release) vs. $20M (2006 release) is a **real disagreement**. Give both, attributed.\n- **Kopper $12M vs. $4M:** **not** a disagreement ($4M forfeiture + $8M to the SEC = $12M). Don't present it as a conflict.\n- **Berardino, Dec 12, 2001:** the quote in the Powers Report is from his **written statement** in the hearing record. That hearing shows no oath. Name him now where the site said \"Andersen's CEO\" (ch. 5 or wherever the map points), e.g. \"Andersen's chief executive, Joseph Berardino, in a written statement to a House hearing in December 2001, as quoted in the Powers Report\". Keep \"sworn witness\" only for the Feb. 5, 2002 hearing.\n- **Andersen's full Supreme Court opinion:** where the site cites only the Syllabus, cite the full opinion (`andersen-scotus-full-usreports`) instead or as well. Keep the text accurate: unanimous; reversed because the jury instructions were flawed; not a finding of innocence.\n\n**Story Writer:** chapters (edit `work/drafts/story-src/`, regenerate with `expand.py`; add G-card support to `expand.py` if needed). **Reference Writer:** `js/cast-data.js` (update `outcome_status` where the new cards justify it, e.g. Glisan \"pleaded guilty\"), `js/timeline-data.js` (add dated events such as pleas, sentences, the 2011 Fifth Circuit ruling, and the 2002 indictment; the 2010+ items are epilogue), and `js/glossary-data.js` if a new term is needed.\n\n**Both:** run `python3 work/tools/integrate.py --no-log` and `python3 work/tools/test_site.py`. If the test complains about links into `sources/candidates/`, report it to the coordinator; don't work around it. Append old and new text to `work/facts/fixes-revision.md` under your own heading. Report briefly.",
+          "brief_summary": null,
+          "started": "2026-09-27T00:22:35Z",
+          "finished": "2026-09-27T00:30:48Z",
+          "inputs": [
+            "G-cards",
+            "revision-gap-map.md"
+          ],
+          "outputs": [
+            "work/drafts/ch6.html, ch7.html updated",
+            "story-src/apply_revision.py",
+            "fixes-revision.md (chapters)"
+          ],
+          "decision": "accepted, pending Fact-Checker re-check",
+          "reason": "Berardino named with written-statement attribution; indictment and full opinion added; pleas and sentences added; open items stated.",
+          "handoffs_in": [],
+          "messages": [
+            {
+              "recorded": "2026-09-26T11:39:09Z",
+              "from": "Coordinator",
+              "to": "Story Writer",
+              "summary": "Image ids for each chapter and placeholder ids for the three Enron diagrams.",
+              "message_no": 2,
+              "matched": "sent while this run was in progress"
+            }
+          ],
+          "reviews": [],
+          "wave": "revision"
+        },
+        {
+          "run": 5,
+          "kind": "resumed",
+          "brief_file": null,
+          "brief": null,
+          "brief_summary": "Resumed by a message from the coordinator (no new brief file).",
+          "started": null,
+          "finished": "2026-09-27T00:35:16Z",
+          "inputs": [
+            "factcheck-round3-partA.md revision section"
+          ],
+          "outputs": [
+            "ch6, ch7 tweaks; single-page citations"
+          ],
+          "decision": "accepted",
+          "reason": "Three recommended precision tweaks applied; tests pass.",
+          "handoffs_in": [],
+          "messages": [],
+          "reviews": []
         }
       ],
       "handoffs": [
@@ -1072,6 +1190,12 @@
           "from": "Story Writer",
           "to": "Fact-Checker (Part A)",
           "what": "Final check of Round 3 chapter fixes and ch4 Watkins sentence"
+        },
+        {
+          "time": "2026-09-27T00:30:48Z",
+          "from": "Story Writer and Reference Writer",
+          "to": "Fact-Checker (Parts A and B)",
+          "what": "Revision-pass re-check of ch6, ch7, Cast, Timeline, Glossary"
         }
       ],
       "reviews": [],
@@ -1095,17 +1219,18 @@
     {
       "id": "reference",
       "name": "Reference Writer",
-      "role": "Writes the Cast of Characters, Timeline 1985-2006 and Glossary from checked fact cards",
+      "role": "Revision pass updates",
       "brief_file": "work/briefs/10-reference-writer.md",
       "brief_files": [
-        "work/briefs/10-reference-writer.md"
+        "work/briefs/10-reference-writer.md",
+        "work/briefs/19-writers-revision.md"
       ],
       "common_rules_file": "work/briefs/00-common-rules.md",
-      "brief": "# Brief: Reference Writer\n\n**Role:** Write the Cast of Characters, the Timeline (1985–2006), and the Glossary. Follow `00-common-rules.md` and `CLAUDE.md`. Same fact rules as the Story Writer: use only cards marked \"OK\" or \"FIXED\" in `work/facts/*.json` and `work/facts/people-outcomes.md`; never use REJECTED cards; and put what's missing in `work/drafts/reference-requests.md` instead of looking it up.\n\n**Cast of Characters:** `js/cast-data.js` → `window.CAST = [...]`, in the format in `work/drafts/site-notes.md` (from the Site Builder). For each person:\n- their role, with dates;\n- a 2–4 sentence neutral summary;\n- `outcome_status`, one of: \"convicted\", \"convicted — later narrowed on appeal\", \"conviction vacated (died before appeal)\", \"conviction reversed\", \"pleaded guilty\", \"SEC settlement\", \"charged — outcome not in library\", \"not charged (per source)\", \"no charges shown in library\", \"not accused of wrongdoing\";\n- `outcome_text`: exactly what happened, with the right verbs;\n- `cites`: an array of `{source_id, page, loc, card}`.\n\nPrecision matters most here. If the library doesn't document how a case ended, say that plainly, and log a gap in `work/drafts/reference-gaps.md`.\n\n**Timeline:** `js/timeline-data.js` → `window.TIMELINE = [...]`. Cover 1985–2006, 35–60 events, each with a date (as precise as the source allows), a title, 1–2 sentences, `cites`, and `tags` from: company, accounting, spe, people, markets, auditors, legal, government, reform. The 2010 *Skilling v. United States* decision appears as the last item, with `epilogue: true`.\n\n**Glossary:** `js/glossary-data.js` → `window.GLOSSARY = { \"term-id\": {\"term\", \"short\" (≤ 25 words, plain), \"long\" (2–4 plain sentences, one everyday example), \"see_also\": [...]} }`. Include every term id in `work/drafts/story-terms.md` and `work/drafts/footnote-glossary-terms.md`, plus: form 10-K, footnote, related-party transaction, special purpose entity, mark-to-market accounting, restatement, auditor, audit committee, Sarbanes-Oxley Act, PCAOB, SEC, indictment, plea agreement, vacated, honest-services fraud, obstruction of justice, Big Five / Big Four, 401(k). Definitions are general knowledge; give no Enron-specific facts without a card citation.\n\n**Outputs:** the three data files, plus `work/drafts/reference-requests.md` and `work/drafts/reference-gaps.md`.\n\n## Coordinator addendum (after Fact-Checker Round 1)\n- Read `work/facts/factcheck-round1.md` first. Its table of **26 source disagreements** says how each must be presented (for example, restatement figures: use the 10-Q; Q3 2001 loss: $618M announced vs. $644M filed; the bankruptcy date Dec 2 vs. Dec 3). Follow it. Where sources disagree, say so in plain words (\"Enron's filings and the board's investigation give different figures: ...\").\n- Read `work/drafts/site-notes.md` (from the Site Builder) for the exact file names and data formats.\n- Reader tips, as ruled: **Buffett is excluded. Don't mention it.** The ranking may appear only as: \"In 2001, *Fortune* magazine ranked Enron seventh on its list of the 500 largest U.S. companies, measured by revenue,\" citing `rpt-jct-vol1` p. 58 (PDF 86) and `batson-final` n. 27 (PDF 18). Never say \"at its peak\" or \"in the world.\"\n- Andersen's CEO quote from the Dec 12, 2001 hearing: attribute it to \"Andersen's CEO, as quoted in the Powers Report.\" Don't name him for that quote.\n- Every card now carries `checked` and `checker_note`. Read the `checker_note` before using a card.\n- Images: the Image Researcher is still working. Use ids from `images/credits.json` if it exists. Otherwise use descriptive placeholder ids (e.g. `diagram-raptor`, `photo-enron-hq`) and list them in your requests file.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
-      "wave": 2,
-      "decision": "accepted, pending Fact-Checker final check",
-      "reason": "Eight citation fixes made; text untouched.",
-      "decision_time": "2026-09-26T11:45:43Z",
+      "brief": "=== Run 1 brief: work/briefs/10-reference-writer.md ===\n\n# Brief: Reference Writer\n\n**Role:** Write the Cast of Characters, the Timeline (1985–2006), and the Glossary. Follow `00-common-rules.md` and `CLAUDE.md`. Same fact rules as the Story Writer: use only cards marked \"OK\" or \"FIXED\" in `work/facts/*.json` and `work/facts/people-outcomes.md`; never use REJECTED cards; and put what's missing in `work/drafts/reference-requests.md` instead of looking it up.\n\n**Cast of Characters:** `js/cast-data.js` → `window.CAST = [...]`, in the format in `work/drafts/site-notes.md` (from the Site Builder). For each person:\n- their role, with dates;\n- a 2–4 sentence neutral summary;\n- `outcome_status`, one of: \"convicted\", \"convicted — later narrowed on appeal\", \"conviction vacated (died before appeal)\", \"conviction reversed\", \"pleaded guilty\", \"SEC settlement\", \"charged — outcome not in library\", \"not charged (per source)\", \"no charges shown in library\", \"not accused of wrongdoing\";\n- `outcome_text`: exactly what happened, with the right verbs;\n- `cites`: an array of `{source_id, page, loc, card}`.\n\nPrecision matters most here. If the library doesn't document how a case ended, say that plainly, and log a gap in `work/drafts/reference-gaps.md`.\n\n**Timeline:** `js/timeline-data.js` → `window.TIMELINE = [...]`. Cover 1985–2006, 35–60 events, each with a date (as precise as the source allows), a title, 1–2 sentences, `cites`, and `tags` from: company, accounting, spe, people, markets, auditors, legal, government, reform. The 2010 *Skilling v. United States* decision appears as the last item, with `epilogue: true`.\n\n**Glossary:** `js/glossary-data.js` → `window.GLOSSARY = { \"term-id\": {\"term\", \"short\" (≤ 25 words, plain), \"long\" (2–4 plain sentences, one everyday example), \"see_also\": [...]} }`. Include every term id in `work/drafts/story-terms.md` and `work/drafts/footnote-glossary-terms.md`, plus: form 10-K, footnote, related-party transaction, special purpose entity, mark-to-market accounting, restatement, auditor, audit committee, Sarbanes-Oxley Act, PCAOB, SEC, indictment, plea agreement, vacated, honest-services fraud, obstruction of justice, Big Five / Big Four, 401(k). Definitions are general knowledge; give no Enron-specific facts without a card citation.\n\n**Outputs:** the three data files, plus `work/drafts/reference-requests.md` and `work/drafts/reference-gaps.md`.\n\n## Coordinator addendum (after Fact-Checker Round 1)\n- Read `work/facts/factcheck-round1.md` first. Its table of **26 source disagreements** says how each must be presented (for example, restatement figures: use the 10-Q; Q3 2001 loss: $618M announced vs. $644M filed; the bankruptcy date Dec 2 vs. Dec 3). Follow it. Where sources disagree, say so in plain words (\"Enron's filings and the board's investigation give different figures: ...\").\n- Read `work/drafts/site-notes.md` (from the Site Builder) for the exact file names and data formats.\n- Reader tips, as ruled: **Buffett is excluded. Don't mention it.** The ranking may appear only as: \"In 2001, *Fortune* magazine ranked Enron seventh on its list of the 500 largest U.S. companies, measured by revenue,\" citing `rpt-jct-vol1` p. 58 (PDF 86) and `batson-final` n. 27 (PDF 18). Never say \"at its peak\" or \"in the world.\"\n- Andersen's CEO quote from the Dec 12, 2001 hearing: attribute it to \"Andersen's CEO, as quoted in the Powers Report.\" Don't name him for that quote.\n- Every card now carries `checked` and `checker_note`. Read the `checker_note` before using a card.\n- Images: the Image Researcher is still working. Use ids from `images/credits.json` if it exists. Otherwise use descriptive placeholder ids (e.g. `diagram-raptor`, `photo-enron-hq`) and list them in your requests file.\n\n=== Run 4 brief: work/briefs/19-writers-revision.md ===\n\n# Brief: Writers, revision pass\n\n**Inputs:**\n- New checked cards `G-001`... in `work/facts/reader-revision.json`. Read every `checker_note`.\n- `work/facts/revision-gap-map.md`: the exact places the site says a fact is \"not shown\" or \"not in the library\".\n- The Fact-Checker's revision section at the end of `work/facts/factcheck-round3-partB.md`.\n\n**The 11 documents are approved library documents** (the owner approved them in writing). Ten are filed under the folder `candidates`; cite them normally by manifest id.\n\n**Rules:** as before (`00-common-rules.md`). Use only cards checked OK or FIXED. Use the card's verb: DOJ \"announced\"; an indictment \"alleged\"; an agreement \"agreed\"; the court \"held\".\n\nReplace each \"not shown / not in the library\" statement that the new cards answer. Keep every statement that is **still** open (Kopper's sentence; the sentence actually imposed on Skilling after the 2013 agreement; what happened to Andersen after the remand; Duncan's plea date and what happened to it). Say plainly what we still don't know.\n\n**Specific points:**\n- **Fastow forfeiture:** $29M (2004 release) vs. $20M (2006 release) is a **real disagreement**. Give both, attributed.\n- **Kopper $12M vs. $4M:** **not** a disagreement ($4M forfeiture + $8M to the SEC = $12M). Don't present it as a conflict.\n- **Berardino, Dec 12, 2001:** the quote in the Powers Report is from his **written statement** in the hearing record. That hearing shows no oath. Name him now where the site said \"Andersen's CEO\" (ch. 5 or wherever the map points), e.g. \"Andersen's chief executive, Joseph Berardino, in a written statement to a House hearing in December 2001, as quoted in the Powers Report\". Keep \"sworn witness\" only for the Feb. 5, 2002 hearing.\n- **Andersen's full Supreme Court opinion:** where the site cites only the Syllabus, cite the full opinion (`andersen-scotus-full-usreports`) instead or as well. Keep the text accurate: unanimous; reversed because the jury instructions were flawed; not a finding of innocence.\n\n**Story Writer:** chapters (edit `work/drafts/story-src/`, regenerate with `expand.py`; add G-card support to `expand.py` if needed). **Reference Writer:** `js/cast-data.js` (update `outcome_status` where the new cards justify it, e.g. Glisan \"pleaded guilty\"), `js/timeline-data.js` (add dated events such as pleas, sentences, the 2011 Fifth Circuit ruling, and the 2002 indictment; the 2010+ items are epilogue), and `js/glossary-data.js` if a new term is needed.\n\n**Both:** run `python3 work/tools/integrate.py --no-log` and `python3 work/tools/test_site.py`. If the test complains about links into `sources/candidates/`, report it to the coordinator; don't work around it. Append old and new text to `work/facts/fixes-revision.md` under your own heading. Report briefly.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": "revision",
+      "decision": "accepted",
+      "reason": "Mechanical fixes verified by coordinator script (no page ranges left in any citation; Duncan label present); tests pass.",
+      "decision_time": "2026-09-27T00:36:55Z",
       "runs": [
         {
           "run": 1,
@@ -1215,6 +1340,49 @@
           ],
           "messages": [],
           "reviews": []
+        },
+        {
+          "run": 4,
+          "kind": "brief",
+          "brief_file": "work/briefs/19-writers-revision.md",
+          "brief": "# Brief: Writers, revision pass\n\n**Inputs:**\n- New checked cards `G-001`... in `work/facts/reader-revision.json`. Read every `checker_note`.\n- `work/facts/revision-gap-map.md`: the exact places the site says a fact is \"not shown\" or \"not in the library\".\n- The Fact-Checker's revision section at the end of `work/facts/factcheck-round3-partB.md`.\n\n**The 11 documents are approved library documents** (the owner approved them in writing). Ten are filed under the folder `candidates`; cite them normally by manifest id.\n\n**Rules:** as before (`00-common-rules.md`). Use only cards checked OK or FIXED. Use the card's verb: DOJ \"announced\"; an indictment \"alleged\"; an agreement \"agreed\"; the court \"held\".\n\nReplace each \"not shown / not in the library\" statement that the new cards answer. Keep every statement that is **still** open (Kopper's sentence; the sentence actually imposed on Skilling after the 2013 agreement; what happened to Andersen after the remand; Duncan's plea date and what happened to it). Say plainly what we still don't know.\n\n**Specific points:**\n- **Fastow forfeiture:** $29M (2004 release) vs. $20M (2006 release) is a **real disagreement**. Give both, attributed.\n- **Kopper $12M vs. $4M:** **not** a disagreement ($4M forfeiture + $8M to the SEC = $12M). Don't present it as a conflict.\n- **Berardino, Dec 12, 2001:** the quote in the Powers Report is from his **written statement** in the hearing record. That hearing shows no oath. Name him now where the site said \"Andersen's CEO\" (ch. 5 or wherever the map points), e.g. \"Andersen's chief executive, Joseph Berardino, in a written statement to a House hearing in December 2001, as quoted in the Powers Report\". Keep \"sworn witness\" only for the Feb. 5, 2002 hearing.\n- **Andersen's full Supreme Court opinion:** where the site cites only the Syllabus, cite the full opinion (`andersen-scotus-full-usreports`) instead or as well. Keep the text accurate: unanimous; reversed because the jury instructions were flawed; not a finding of innocence.\n\n**Story Writer:** chapters (edit `work/drafts/story-src/`, regenerate with `expand.py`; add G-card support to `expand.py` if needed). **Reference Writer:** `js/cast-data.js` (update `outcome_status` where the new cards justify it, e.g. Glisan \"pleaded guilty\"), `js/timeline-data.js` (add dated events such as pleas, sentences, the 2011 Fifth Circuit ruling, and the 2002 indictment; the 2010+ items are epilogue), and `js/glossary-data.js` if a new term is needed.\n\n**Both:** run `python3 work/tools/integrate.py --no-log` and `python3 work/tools/test_site.py`. If the test complains about links into `sources/candidates/`, report it to the coordinator; don't work around it. Append old and new text to `work/facts/fixes-revision.md` under your own heading. Report briefly.",
+          "brief_summary": null,
+          "started": "2026-09-27T00:22:35Z",
+          "finished": "2026-09-27T00:28:41Z",
+          "inputs": [
+            "work/facts/reader-revision.json (checked)",
+            "revision-gap-map.md"
+          ],
+          "outputs": [
+            "js/cast-data.js, js/timeline-data.js (58 + 3 epilogue), js/glossary-data.js (128)",
+            "work/facts/fixes-revision.md (64 entries)"
+          ],
+          "decision": "accepted, pending Fact-Checker re-check",
+          "reason": "Gaps filled where the new documents answer them; open items stated plainly. Two items for the Fact-Checker to rule on: Skilling label changed to convicted (all convictions affirmed on remand in 2011); Duncan labelled pleaded guilty, so the entry must say the library does not show what later happened to the plea.",
+          "handoffs_in": [],
+          "messages": [],
+          "reviews": [],
+          "wave": "revision"
+        },
+        {
+          "run": 5,
+          "kind": "resumed",
+          "brief_file": null,
+          "brief": null,
+          "brief_summary": "Resumed by a message from the coordinator (no new brief file).",
+          "started": null,
+          "finished": "2026-09-27T00:36:55Z",
+          "inputs": [
+            "factcheck-round3-partB.md revision final"
+          ],
+          "outputs": [
+            "page fixes, Duncan label, three wording fixes"
+          ],
+          "decision": "accepted",
+          "reason": "Mechanical fixes verified by coordinator script (no page ranges left in any citation; Duncan label present); tests pass.",
+          "handoffs_in": [],
+          "messages": [],
+          "reviews": []
         }
       ],
       "handoffs": [
@@ -1256,6 +1424,12 @@
           "from": "Reference Writer",
           "to": "Fact-Checker (Part B)",
           "what": "Final check of Cast citations and full reference sweep"
+        },
+        {
+          "time": "2026-09-27T00:30:48Z",
+          "from": "Story Writer and Reference Writer",
+          "to": "Fact-Checker (Parts A and B)",
+          "what": "Revision-pass re-check of ch6, ch7, Cast, Timeline, Glossary"
         }
       ],
       "reviews": [],
@@ -1375,6 +1549,30 @@
               "result": "All seven chapters PASS. 255 citations: every card checked, sources match, no candidate files cited, Buffett absent. Watkins quote verified on page image."
             }
           ]
+        },
+        {
+          "run": 4,
+          "kind": "resumed",
+          "brief_file": null,
+          "brief": null,
+          "brief_summary": "Resumed by a message from the coordinator (no new brief file).",
+          "started": null,
+          "finished": "2026-09-27T00:33:07Z",
+          "inputs": [],
+          "outputs": [],
+          "decision": "done (closed by a review note)",
+          "reason": "PASS, no required fixes; 123 citations swept; corrections rows 96-105; three optional precision tweaks recommended (Berardino page link 122; Duncan plea year attributed to DOJ; Skilling range wording).",
+          "handoffs_in": [],
+          "messages": [],
+          "reviews": [
+            {
+              "time": "2026-09-27T00:33:07Z",
+              "type": "review",
+              "agent_id": "factcheck-a",
+              "reviewed": "Revision pass: ch6 and ch7",
+              "result": "PASS, no required fixes; 123 citations swept; corrections rows 96-105; three optional precision tweaks recommended (Berardino page link 122; Duncan plea year attributed to DOJ; Skilling range wording)."
+            }
+          ]
         }
       ],
       "handoffs": [
@@ -1417,6 +1615,13 @@
           "agent_id": "factcheck-a",
           "reviewed": "Final check of chapters 1-7",
           "result": "All seven chapters PASS. 255 citations: every card checked, sources match, no candidate files cited, Buffett absent. Watkins quote verified on page image."
+        },
+        {
+          "time": "2026-09-27T00:33:07Z",
+          "type": "review",
+          "agent_id": "factcheck-a",
+          "reviewed": "Revision pass: ch6 and ch7",
+          "result": "PASS, no required fixes; 123 citations swept; corrections rows 96-105; three optional precision tweaks recommended (Berardino page link 122; Duncan plea year attributed to DOJ; Skilling range wording)."
         }
       ],
       "messages": [
@@ -1431,18 +1636,19 @@
     },
     {
       "id": "factcheck-b",
-      "name": "Fact-Checker (Part B: cast, timeline, glossary, diagrams)",
-      "role": "Wave 3",
+      "name": "Fact-Checker (Part B)",
+      "role": "Checks revision-pass cards",
       "brief_file": "work/briefs/13-factcheck-pages.md",
       "brief_files": [
-        "work/briefs/13-factcheck-pages.md"
+        "work/briefs/13-factcheck-pages.md",
+        "work/briefs/08-factcheck-cards.md"
       ],
       "common_rules_file": "work/briefs/00-common-rules.md",
-      "brief": "# Brief: Fact-Checker, Round 2 (every page)\n\n**Role:** The independent review of everything a reader will see, before Phase 1 counts as done. Follow `00-common-rules.md` and `sources/README.md` \"Rules for the agents\". Two Fact-Checker instances run at the same time, each with its own part (below). **Don't edit the drafts or data files yourself.** Report findings; the writer fixes them; then you re-check (Round 3).\n\n**Part A (instance A):** `work/drafts/ch1.html` ... `ch7.html`, including figure captions.\n**Part B (instance B):**\n- `js/cast-data.js`, `js/timeline-data.js`;\n- `js/glossary-data.js` (only entries containing Enron-specific facts, and any definition that is wrong as general knowledge);\n- the three Enron diagrams `images/diagram-raptor.svg`, `diagram-chewco-ljm.svg`, `chart-restatement.svg` (and their `-narrow` versions: same facts);\n- `work/drafts/footnote.json`: its intro and closing, plus a 25% spot re-check of the annotations fixed in Round 1.\n\n**For every citation or factual sentence:**\n1. **Does the cited card support the sentence exactly?** No added detail, no stronger verb, no merged facts that the cards don't join. Where the text relies on a card's notes rather than its quote, check the source itself at the locator.\n2. **Does the card's source say it at that locator?** For every claim about a named person, and every date or dollar amount, open the source. For other claims, a 30% sample.\n3. **Verbs and outcomes:** alleged / found / testified / concluded / held / pleaded guilty / convicted. No one is called guilty whose conviction was reversed or vacated, or who was only charged. \"No charges shown in the library\" never becomes \"never charged\". Taking the Fifth is not presented as guilt.\n4. **Quotes:** verbatim, short, correctly attributed.\n5. **Disagreements:** handled as the table in `work/facts/factcheck-round1.md` rules.\n6. **Reader tips:** Buffett absent; the Fortune ranking only in the ruled wording.\n7. **Tone:** neutral and factual; no sensational or judging words (flag them).\n8. **Concept explanations** drawn from general knowledge must be correct and must not smuggle in Enron-specific claims.\n9. **Citations:** `data-src` is a manifest id; `data-page` points to the right PDF page; no candidate document (`sources/candidates/`) is cited anywhere.\n\n**Output:** `work/facts/factcheck-round2-partA.md` or `-partB.md`. Each is a table: # | file | location (paragraph or entry id) | problem | what the source says (with locator) | required fix | severity (**must-fix** = factually wrong or unsupported; **should-fix** = wording, verb, tone; **note**). End with a one-line verdict per file: PASS / PASS AFTER FIXES / FAIL.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
-      "wave": 3,
+      "brief": "=== Run 1 brief: work/briefs/13-factcheck-pages.md ===\n\n# Brief: Fact-Checker, Round 2 (every page)\n\n**Role:** The independent review of everything a reader will see, before Phase 1 counts as done. Follow `00-common-rules.md` and `sources/README.md` \"Rules for the agents\". Two Fact-Checker instances run at the same time, each with its own part (below). **Don't edit the drafts or data files yourself.** Report findings; the writer fixes them; then you re-check (Round 3).\n\n**Part A (instance A):** `work/drafts/ch1.html` ... `ch7.html`, including figure captions.\n**Part B (instance B):**\n- `js/cast-data.js`, `js/timeline-data.js`;\n- `js/glossary-data.js` (only entries containing Enron-specific facts, and any definition that is wrong as general knowledge);\n- the three Enron diagrams `images/diagram-raptor.svg`, `diagram-chewco-ljm.svg`, `chart-restatement.svg` (and their `-narrow` versions: same facts);\n- `work/drafts/footnote.json`: its intro and closing, plus a 25% spot re-check of the annotations fixed in Round 1.\n\n**For every citation or factual sentence:**\n1. **Does the cited card support the sentence exactly?** No added detail, no stronger verb, no merged facts that the cards don't join. Where the text relies on a card's notes rather than its quote, check the source itself at the locator.\n2. **Does the card's source say it at that locator?** For every claim about a named person, and every date or dollar amount, open the source. For other claims, a 30% sample.\n3. **Verbs and outcomes:** alleged / found / testified / concluded / held / pleaded guilty / convicted. No one is called guilty whose conviction was reversed or vacated, or who was only charged. \"No charges shown in the library\" never becomes \"never charged\". Taking the Fifth is not presented as guilt.\n4. **Quotes:** verbatim, short, correctly attributed.\n5. **Disagreements:** handled as the table in `work/facts/factcheck-round1.md` rules.\n6. **Reader tips:** Buffett absent; the Fortune ranking only in the ruled wording.\n7. **Tone:** neutral and factual; no sensational or judging words (flag them).\n8. **Concept explanations** drawn from general knowledge must be correct and must not smuggle in Enron-specific claims.\n9. **Citations:** `data-src` is a manifest id; `data-page` points to the right PDF page; no candidate document (`sources/candidates/`) is cited anywhere.\n\n**Output:** `work/facts/factcheck-round2-partA.md` or `-partB.md`. Each is a table: # | file | location (paragraph or entry id) | problem | what the source says (with locator) | required fix | severity (**must-fix** = factually wrong or unsupported; **should-fix** = wording, verb, tone; **note**). End with a one-line verdict per file: PASS / PASS AFTER FIXES / FAIL.\n\n=== Run 5 brief: work/briefs/08-factcheck-cards.md ===\n\n# Brief: Fact-Checker, Round 1 (fact cards)\n\n**Role:** You are the team's independent fact-checker. Nothing reaches the site until you've checked it. In this round you check the **fact cards** before any writer uses them. Follow `00-common-rules.md` and the \"Rules for the agents\" in `sources/README.md`. You enforce them.\n\n**Inputs:** `work/facts/reader-a.json`, `reader-b.json`, `reader-c.json`, `work/facts/people-outcomes.md`, and `work/drafts/footnote.json` (the annotations are checked in the same way as cards).\n\n**What to check, against the source itself (open the file at the cited page or lines; never trust the card's quote):**\n1. **Every card that names a real person, and every footnote annotation:** check all of them.\n2. **Every card with a date or a dollar amount:** check all of them.\n3. **Other cards:** a random sample of at least 25%.\nFor each card:\n- Does the file's fingerprint match `download_log.csv`? (Check each file once.)\n- Is the quote verbatim at that locator? For OCR cards, check against the page image (Read the PDF with `pages`).\n- Does the claim say no more than the quote and its context support?\n- Is the verb right for the kind of source (alleged / found / testified / held / pleaded guilty / convicted)?\n- For outcomes: is anyone called guilty whose conviction was reversed or vacated, or who was never charged? Is anything asserted that no library document states?\n- Do sources disagree? Note it.\n\n**The reader tips (give a ruling on each, with reasons):**\n1. \"Warren Buffett read Enron's footnote, didn't understand it, and threw the 10-K away.\" Search `work/text/` and the `.txt` sources for \"Buffett\" yourself. If there's no library support, the ruling is \"exclude; log as gap.\" Say what kind of document would be needed.\n2. \"At its peak, Enron was America's seventh-largest company.\" Rule on whether and how it may be stated (exact wording, attribution, hedging), based on the cards and your own check of `sec-kopper-complaint` and any other library support.\n\n**Outputs:**\n- `work/facts/factcheck-round1.md`: a summary; a table of every card or annotation checked (id | verdict: OK / FIXED / REJECTED / NEEDS-SOURCE | note); the rulings on the reader tips.\n- Apply fixes directly in the card files. Add `\"checked\": \"OK\" | \"FIXED\" | \"REJECTED\"` and `\"checker_note\"` fields to each checked card. **Don't delete rejected cards**: mark them `REJECTED` so writers skip them.\n- **Append every correction** (anything you changed or rejected) as a row in `build-log/corrections.md`, using the table columns already there.\n- `work/facts/factcheck-gaps.md`: any gaps you find.\n\n## Coordinator addendum (added before launch, after Wave 1 reports)\n- **Buffett:** Reader A's search found \"Buffett\" in five library texts: `hrg-hec-auditing`, `hrg-sga-analysts`, `sox-hrg-banking-v1`, `-v2`, `-v3`. Open each mention and judge whether any of them supports the tip (that Buffett read Enron's footnote, didn't understand it, and discarded the 10-K), or anything close to it. Record what each mention actually says. Rule strictly: a mention of Buffett on some other subject does not support the tip.\n- **\"Seventh-largest\":** Reader A reports that Batson (Final Report n. 27; First Interim n. 1) says the ranking was \"based upon revenues\" on Fortune's 2001 list, and that the JCT report (p. 58) says \"seventh on the Fortune 500 ... for 2001.\" Check these against the page images and give the exact wording the site may use.\n- **Source disagreements** are flagged in the readers' reports and card notes: the restatement figures (8-K vs. 10-Q vs. Powers), the Q3 2001 loss, the Raptor charge, LJM2's start date, the bankruptcy date (Dec 2 vs. 3), Andersen's fees, and others. Check that each card states the disagreement accurately. For each, write a one-line \"how the site should present it\" in `factcheck-round1.md`. Default: present the primary figure with attribution and note the difference; don't pick a winner unless one source is clearly the correction of another.\n- Reader A flagged a card quoting Andersen's CEO's Dec 12, 2001 testimony as reported in Powers, which doesn't name him. Name him only if you confirm it from a hearing transcript in the library.\n- Scale: about 260 cards plus 33 annotations. Work efficiently: batch-check verbatim quotes against the text files with a script first, then spend your reading time on meaning, verbs, outcomes, and OCR image checks.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": "revision",
       "decision": "accepted",
-      "reason": "2 must-fix (McMahon role and timing; Koenig statement date Jan 22 not April 2001, also in card B-051), 18 should-fix. Cast outcomes otherwise verified; diagrams Raptor and restatement pass.",
-      "decision_time": "2026-09-26T11:30:52Z",
+      "reason": "11 OK, 25 fixed (verbs and source types), 0 rejected. Kopper $12M vs $4M reconciled; Fastow forfeiture a real disagreement; Dec 12 hearing shows no oath.",
+      "decision_time": "2026-09-27T00:22:35Z",
       "runs": [
         {
           "run": 1,
@@ -1575,6 +1781,53 @@
               "result": "All PASS. 301 citations swept; no candidate files cited; Buffett absent. Corrections log complete (86 rows)."
             }
           ]
+        },
+        {
+          "run": 5,
+          "kind": "brief",
+          "brief_file": "work/briefs/08-factcheck-cards.md",
+          "brief": "# Brief: Fact-Checker, Round 1 (fact cards)\n\n**Role:** You are the team's independent fact-checker. Nothing reaches the site until you've checked it. In this round you check the **fact cards** before any writer uses them. Follow `00-common-rules.md` and the \"Rules for the agents\" in `sources/README.md`. You enforce them.\n\n**Inputs:** `work/facts/reader-a.json`, `reader-b.json`, `reader-c.json`, `work/facts/people-outcomes.md`, and `work/drafts/footnote.json` (the annotations are checked in the same way as cards).\n\n**What to check, against the source itself (open the file at the cited page or lines; never trust the card's quote):**\n1. **Every card that names a real person, and every footnote annotation:** check all of them.\n2. **Every card with a date or a dollar amount:** check all of them.\n3. **Other cards:** a random sample of at least 25%.\nFor each card:\n- Does the file's fingerprint match `download_log.csv`? (Check each file once.)\n- Is the quote verbatim at that locator? For OCR cards, check against the page image (Read the PDF with `pages`).\n- Does the claim say no more than the quote and its context support?\n- Is the verb right for the kind of source (alleged / found / testified / held / pleaded guilty / convicted)?\n- For outcomes: is anyone called guilty whose conviction was reversed or vacated, or who was never charged? Is anything asserted that no library document states?\n- Do sources disagree? Note it.\n\n**The reader tips (give a ruling on each, with reasons):**\n1. \"Warren Buffett read Enron's footnote, didn't understand it, and threw the 10-K away.\" Search `work/text/` and the `.txt` sources for \"Buffett\" yourself. If there's no library support, the ruling is \"exclude; log as gap.\" Say what kind of document would be needed.\n2. \"At its peak, Enron was America's seventh-largest company.\" Rule on whether and how it may be stated (exact wording, attribution, hedging), based on the cards and your own check of `sec-kopper-complaint` and any other library support.\n\n**Outputs:**\n- `work/facts/factcheck-round1.md`: a summary; a table of every card or annotation checked (id | verdict: OK / FIXED / REJECTED / NEEDS-SOURCE | note); the rulings on the reader tips.\n- Apply fixes directly in the card files. Add `\"checked\": \"OK\" | \"FIXED\" | \"REJECTED\"` and `\"checker_note\"` fields to each checked card. **Don't delete rejected cards**: mark them `REJECTED` so writers skip them.\n- **Append every correction** (anything you changed or rejected) as a row in `build-log/corrections.md`, using the table columns already there.\n- `work/facts/factcheck-gaps.md`: any gaps you find.\n\n## Coordinator addendum (added before launch, after Wave 1 reports)\n- **Buffett:** Reader A's search found \"Buffett\" in five library texts: `hrg-hec-auditing`, `hrg-sga-analysts`, `sox-hrg-banking-v1`, `-v2`, `-v3`. Open each mention and judge whether any of them supports the tip (that Buffett read Enron's footnote, didn't understand it, and discarded the 10-K), or anything close to it. Record what each mention actually says. Rule strictly: a mention of Buffett on some other subject does not support the tip.\n- **\"Seventh-largest\":** Reader A reports that Batson (Final Report n. 27; First Interim n. 1) says the ranking was \"based upon revenues\" on Fortune's 2001 list, and that the JCT report (p. 58) says \"seventh on the Fortune 500 ... for 2001.\" Check these against the page images and give the exact wording the site may use.\n- **Source disagreements** are flagged in the readers' reports and card notes: the restatement figures (8-K vs. 10-Q vs. Powers), the Q3 2001 loss, the Raptor charge, LJM2's start date, the bankruptcy date (Dec 2 vs. 3), Andersen's fees, and others. Check that each card states the disagreement accurately. For each, write a one-line \"how the site should present it\" in `factcheck-round1.md`. Default: present the primary figure with attribution and note the difference; don't pick a winner unless one source is clearly the correction of another.\n- Reader A flagged a card quoting Andersen's CEO's Dec 12, 2001 testimony as reported in Powers, which doesn't name him. Name him only if you confirm it from a hearing transcript in the library.\n- Scale: about 260 cards plus 33 annotations. Work efficiently: batch-check verbatim quotes against the text files with a script first, then spend your reading time on meaning, verbs, outcomes, and OCR image checks.",
+          "brief_summary": null,
+          "started": "2026-09-27T00:17:43Z",
+          "finished": "2026-09-27T00:22:35Z",
+          "inputs": [
+            "all 11 new documents; hearing page images PDF 119-122, 128-130"
+          ],
+          "outputs": [
+            "checked/checker_note on G-001..G-036",
+            "corrections rows 87-95",
+            "revision section in factcheck-round3-partB.md"
+          ],
+          "decision": "accepted",
+          "reason": "11 OK, 25 fixed (verbs and source types), 0 rejected. Kopper $12M vs $4M reconciled; Fastow forfeiture a real disagreement; Dec 12 hearing shows no oath.",
+          "handoffs_in": [],
+          "messages": [],
+          "reviews": [],
+          "wave": "revision"
+        },
+        {
+          "run": 6,
+          "kind": "resumed",
+          "brief_file": null,
+          "brief": null,
+          "brief_summary": "Resumed by a message from the coordinator (no new brief file).",
+          "started": null,
+          "finished": "2026-09-27T00:33:39Z",
+          "inputs": [],
+          "outputs": [],
+          "decision": "done (closed by a review note)",
+          "reason": "Wording verified (341 citations swept). Must-fix: single page numbers for 7 G-cards; Duncan label must not imply a final outcome. Skilling label convicted upheld. Critical new gap: later history of Duncan plea.",
+          "handoffs_in": [],
+          "messages": [],
+          "reviews": [
+            {
+              "time": "2026-09-27T00:33:39Z",
+              "type": "review",
+              "agent_id": "factcheck-b",
+              "reviewed": "Revision pass: Cast, Timeline, Glossary",
+              "result": "Wording verified (341 citations swept). Must-fix: single page numbers for 7 G-cards; Duncan label must not imply a final outcome. Skilling label convicted upheld. Critical new gap: later history of Duncan plea."
+            }
+          ]
         }
       ],
       "handoffs": [
@@ -1639,6 +1892,13 @@
           "agent_id": "factcheck-b",
           "reviewed": "Final check of Cast, Timeline, Glossary, footnote framing, three diagrams",
           "result": "All PASS. 301 citations swept; no candidate files cited; Buffett absent. Corrections log complete (86 rows)."
+        },
+        {
+          "time": "2026-09-27T00:33:39Z",
+          "type": "review",
+          "agent_id": "factcheck-b",
+          "reviewed": "Revision pass: Cast, Timeline, Glossary",
+          "result": "Wording verified (341 citations swept). Must-fix: single page numbers for 7 G-cards; Duncan label must not imply a final outcome. Skilling label convicted upheld. Critical new gap: later history of Duncan plea."
         }
       ],
       "messages": [
@@ -1745,6 +2005,49 @@
       "handoffs": [],
       "reviews": [],
       "messages": []
+    },
+    {
+      "id": "reader-b-revision",
+      "name": "Reader B (revision pass)",
+      "role": "Fact cards from the 11 newly approved documents; gap map",
+      "brief_file": "work/briefs/18-reader-revision.md",
+      "brief_files": [
+        "work/briefs/18-reader-revision.md"
+      ],
+      "common_rules_file": "work/briefs/00-common-rules.md",
+      "brief": "# Brief: Reader B, revision pass (11 newly approved documents)\n\n**Background:** The owner approved the Source Scout's 10 candidates and added one hearing. All 11 are now in `sources/manifest.csv`. Note that 10 of them are listed with folder `candidates`: **they are approved library documents now**, so cite them normally by manifest id. Fingerprints: all 85 files match `download_log.csv` (checked by the coordinator). Text copies are in `work/text/<id>.txt`.\n\n**Follow `00-common-rules.md`.** Card ids `G-001`... in `work/facts/reader-revision.json`. No web.\n\n**New documents (manifest ids):** `doj-fastow-plea-press-2004`, `doj-fastow-sentenced-press-2006`, `doj-glisan-plea-press-2003`, `doj-causey-sentenced-press-2006`, `doj-dag-kopper-plea-transcript-2002`, `doj-andersen-indictment-2002`, `doj-skilling-sentencing-agreement-2013`, `ca5-skilling-2011-remand`, `andersen-scotus-full-usreports`, `sec-duncan-litrel-20441`, `hrg-hfs-enron-investors-pt1`.\n\n**What we need** (these fill gaps listed in `build-log/gaps.md`):\n1. **Fastow:** the date and charge(s) of his guilty plea; the date and length of his sentence; anything else the releases state as fact (for example forfeiture). Use \"DOJ announced\" for statements made in the releases.\n2. **Glisan:** the date and charge of his plea; his sentence, if stated.\n3. **Kopper:** the date and charges of his plea, from the Deputy Attorney General's transcript. The date is unclear: the page title says 08-22-02 and the URL 082102. Say what the document itself shows.\n4. **Causey:** his sentencing date and sentence.\n5. **Skilling after 2010:** what the Fifth Circuit held on remand in 2011 (the harmless-error question; which convictions stood; resentencing). Then what the 2013 sentencing agreement provides (its terms). **Careful with verbs:** an agreement filed in court is not the same as the court's judgment, so say \"agreed\" or \"the agreement provides\".\n6. **Andersen:**\n   - From the indictment: the date, the charge, and 1–2 key allegation paragraphs. Remember that an indictment **alleges**.\n   - From the full Supreme Court opinion: the holding, the vote, and 1–3 short verbatim sentences explaining why the jury instructions were flawed. Cite the opinion itself, not the Syllabus.\n7. **Duncan:** what SEC Litigation Release 20441 says about how the SEC case was resolved (settlement terms; \"without admitting or denying\", if stated). Also anything it says about his criminal case.\n8. **The Dec 12, 2001 House hearing:**\n   - Find the testimony by Andersen's CEO that the Powers Report quotes: \"Andersen's CEO\" (see card A-048 and its checker note). Confirm the speaker's name and title and the exact wording as printed in the hearing record. Note any differences from the Powers quotation.\n   - Record the hearing's official title, the subcommittees, and the serial number (Serial No. 107-51, Part 1).\n   - Only 2–4 more cards from this hearing, and only if they're clearly useful.\n\n**Also produce** `work/facts/revision-gap-map.md`: a table of gap number (from `gaps.md`) | resolved / partly resolved / still open | card ids | the exact site locations that currently say the fact is \"not shown\" or \"not in the library\". Search `work/drafts/ch*.html` and `js/cast-data.js`, `js/timeline-data.js`, `js/glossary-data.js`, and `work/drafts/footnote.json` for such phrases (e.g. \"library does not\", \"not in library\", \"not shown\", \"Syllabus\"). The writers will use this map.\n\n**Output:** `work/facts/reader-revision.json`, `work/facts/revision-gap-map.md`, `work/facts/reader-revision-readlog.md`; final report.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
+      "wave": "revision",
+      "decision": "accepted, pending Fact-Checker",
+      "reason": "Resolves Fastow, Glisan, Causey, Andersen CEO name; partly resolves Kopper, Skilling after 2010, Duncan, Andersen. Flags disagreements (Fastow forfeiture $29M vs $20M; Kopper $12M DOJ vs $4M SEC) and that the Berardino quote is from his written statement.",
+      "decision_time": "2026-09-27T00:17:43Z",
+      "runs": [
+        {
+          "run": 1,
+          "kind": "brief",
+          "brief_file": "work/briefs/18-reader-revision.md",
+          "brief": "# Brief: Reader B, revision pass (11 newly approved documents)\n\n**Background:** The owner approved the Source Scout's 10 candidates and added one hearing. All 11 are now in `sources/manifest.csv`. Note that 10 of them are listed with folder `candidates`: **they are approved library documents now**, so cite them normally by manifest id. Fingerprints: all 85 files match `download_log.csv` (checked by the coordinator). Text copies are in `work/text/<id>.txt`.\n\n**Follow `00-common-rules.md`.** Card ids `G-001`... in `work/facts/reader-revision.json`. No web.\n\n**New documents (manifest ids):** `doj-fastow-plea-press-2004`, `doj-fastow-sentenced-press-2006`, `doj-glisan-plea-press-2003`, `doj-causey-sentenced-press-2006`, `doj-dag-kopper-plea-transcript-2002`, `doj-andersen-indictment-2002`, `doj-skilling-sentencing-agreement-2013`, `ca5-skilling-2011-remand`, `andersen-scotus-full-usreports`, `sec-duncan-litrel-20441`, `hrg-hfs-enron-investors-pt1`.\n\n**What we need** (these fill gaps listed in `build-log/gaps.md`):\n1. **Fastow:** the date and charge(s) of his guilty plea; the date and length of his sentence; anything else the releases state as fact (for example forfeiture). Use \"DOJ announced\" for statements made in the releases.\n2. **Glisan:** the date and charge of his plea; his sentence, if stated.\n3. **Kopper:** the date and charges of his plea, from the Deputy Attorney General's transcript. The date is unclear: the page title says 08-22-02 and the URL 082102. Say what the document itself shows.\n4. **Causey:** his sentencing date and sentence.\n5. **Skilling after 2010:** what the Fifth Circuit held on remand in 2011 (the harmless-error question; which convictions stood; resentencing). Then what the 2013 sentencing agreement provides (its terms). **Careful with verbs:** an agreement filed in court is not the same as the court's judgment, so say \"agreed\" or \"the agreement provides\".\n6. **Andersen:**\n   - From the indictment: the date, the charge, and 1–2 key allegation paragraphs. Remember that an indictment **alleges**.\n   - From the full Supreme Court opinion: the holding, the vote, and 1–3 short verbatim sentences explaining why the jury instructions were flawed. Cite the opinion itself, not the Syllabus.\n7. **Duncan:** what SEC Litigation Release 20441 says about how the SEC case was resolved (settlement terms; \"without admitting or denying\", if stated). Also anything it says about his criminal case.\n8. **The Dec 12, 2001 House hearing:**\n   - Find the testimony by Andersen's CEO that the Powers Report quotes: \"Andersen's CEO\" (see card A-048 and its checker note). Confirm the speaker's name and title and the exact wording as printed in the hearing record. Note any differences from the Powers quotation.\n   - Record the hearing's official title, the subcommittees, and the serial number (Serial No. 107-51, Part 1).\n   - Only 2–4 more cards from this hearing, and only if they're clearly useful.\n\n**Also produce** `work/facts/revision-gap-map.md`: a table of gap number (from `gaps.md`) | resolved / partly resolved / still open | card ids | the exact site locations that currently say the fact is \"not shown\" or \"not in the library\". Search `work/drafts/ch*.html` and `js/cast-data.js`, `js/timeline-data.js`, `js/glossary-data.js`, and `work/drafts/footnote.json` for such phrases (e.g. \"library does not\", \"not in library\", \"not shown\", \"Syllabus\"). The writers will use this map.\n\n**Output:** `work/facts/reader-revision.json`, `work/facts/revision-gap-map.md`, `work/facts/reader-revision-readlog.md`; final report.",
+          "brief_summary": null,
+          "started": "2026-09-27T00:10:51Z",
+          "finished": "2026-09-27T00:17:43Z",
+          "inputs": [
+            "all 11 new documents; hearing PDF pp. 1-7, 40, 53-55 (text) and 119-122, 128-130 (images)"
+          ],
+          "outputs": [
+            "work/facts/reader-revision.json (G-001 to G-036)",
+            "work/facts/revision-gap-map.md",
+            "work/facts/reader-revision-readlog.md"
+          ],
+          "decision": "accepted, pending Fact-Checker",
+          "reason": "Resolves Fastow, Glisan, Causey, Andersen CEO name; partly resolves Kopper, Skilling after 2010, Duncan, Andersen. Flags disagreements (Fastow forfeiture $29M vs $20M; Kopper $12M DOJ vs $4M SEC) and that the Berardino quote is from his written statement.",
+          "handoffs_in": [],
+          "messages": [],
+          "reviews": [],
+          "wave": "revision"
+        }
+      ],
+      "handoffs": [],
+      "reviews": [],
+      "messages": []
     }
   ],
   "handoffs": [
@@ -1828,6 +2131,12 @@
       "from": "Reference Writer",
       "to": "Fact-Checker (Part B)",
       "what": "Final check of Cast citations and full reference sweep"
+    },
+    {
+      "time": "2026-09-27T00:30:48Z",
+      "from": "Story Writer and Reference Writer",
+      "to": "Fact-Checker (Parts A and B)",
+      "what": "Revision-pass re-check of ch6, ch7, Cast, Timeline, Glossary"
     }
   ],
   "messages": [
@@ -1916,6 +2225,20 @@
       "agent_id": "factcheck-b",
       "reviewed": "Final check of Cast, Timeline, Glossary, footnote framing, three diagrams",
       "result": "All PASS. 301 citations swept; no candidate files cited; Buffett absent. Corrections log complete (86 rows)."
+    },
+    {
+      "time": "2026-09-27T00:33:07Z",
+      "type": "review",
+      "agent_id": "factcheck-a",
+      "reviewed": "Revision pass: ch6 and ch7",
+      "result": "PASS, no required fixes; 123 citations swept; corrections rows 96-105; three optional precision tweaks recommended (Berardino page link 122; Duncan plea year attributed to DOJ; Skilling range wording)."
+    },
+    {
+      "time": "2026-09-27T00:33:39Z",
+      "type": "review",
+      "agent_id": "factcheck-b",
+      "reviewed": "Revision pass: Cast, Timeline, Glossary",
+      "result": "Wording verified (341 citations swept). Must-fix: single page numbers for 7 G-cards; Duncan label must not imply a final outcome. Skilling label convicted upheld. Critical new gap: later history of Duncan plea."
     }
   ],
   "corrections": [
@@ -2778,6 +3101,236 @@
       "source": "hrg-psi-board PDF 100 (printed p. 90)",
       "date": "2026-09-26",
       "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "87",
+      "page_item": "Card G-013 (Kopper forfeiture) notes",
+      "what_it_said": "The DOJ $12 million and SEC $4 million figures 'may measure different things ... the library does not reconcile them.'",
+      "what_the_source_says": "SEC Fastow complaint para. 9: Kopper agreed to forfeit $4 million in the criminal case, and the SEC judgment ordered disgorgement 'including a direct payment of $8 million, and additional disgorgement in the amount of $4 million forfeited in the criminal case'. $4M + $8M = $12M, the DOJ's figure 'to satisfy both this plea and a related SEC complaint'.",
+      "fix": "Note rewritten: not a disagreement. $4M was the criminal forfeiture; $12M the total for the plea and SEC case. The separate ~$23M sought in the information is additional and its outcome is not in the library.",
+      "source": "sec-fastow-complaint line 49 (para. 9); doj-dag-kopper-plea-transcript-2002 (Thompson, Cutler); batson-1st-interim PDF 5 n. 8",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "88",
+      "page_item": "Card G-004 (Fastow sentence)",
+      "what_it_said": "'on September 26, 2006, Fastow was sentenced'",
+      "what_the_source_says": "The release is dated Sept. 26, 2006 and says he 'was sentenced ... [the Assistant Attorney General] announced today'; it does not give the sentencing date itself.",
+      "fix": "'The Justice Department announced on September 26, 2006 that Fastow had been sentenced ...'. The $29M (2004) vs $20M (2006) forfeiture disagreement is confirmed and kept.",
+      "source": "doj-fastow-sentenced-press-2006, para. 1-2",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "89",
+      "page_item": "Cards G-001 to G-010 (DOJ releases) verb",
+      "what_it_said": "Verbs 'pleaded guilty', 'reported', 'stated'.",
+      "what_the_source_says": "Source type is a DOJ press release.",
+      "fix": "Verb set to 'announced' on all ten.",
+      "source": "doj-fastow-plea-press-2004; doj-fastow-sentenced-press-2006; doj-glisan-plea-press-2003; doj-causey-sentenced-press-2006",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "90",
+      "page_item": "Cards G-011 to G-014 (Kopper news conference) source type and verb",
+      "what_it_said": "Source type 'government press release'; verb 'stated'.",
+      "what_the_source_says": "The document is a transcript of a Deputy Attorney General's news conference (spoken remarks).",
+      "fix": "Source type 'DOJ news conference transcript'; verb 'announced'.",
+      "source": "doj-dag-kopper-plea-transcript-2002",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "91",
+      "page_item": "Card G-018 (Andersen holding) quote",
+      "what_it_said": "'... and there-fore reverse.'",
+      "what_the_source_says": "The hyphen is a line break in the printed opinion.",
+      "fix": "Quote now reads 'therefore'.",
+      "source": "andersen-scotus-full-usreports, 544 U.S. at 698 (PDF 3)",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "92",
+      "page_item": "Card G-019 (unanimous Court)",
+      "what_it_said": "Verb 'held'; source type 'court holding'.",
+      "what_the_source_says": "The vote line is the reporter's line in U.S. Reports, not a holding.",
+      "fix": "Verb 'stated'; source type 'reporter's line in U.S. Reports'.",
+      "source": "andersen-scotus-full-usreports, 544 U.S. at 697 (PDF 2)",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "93",
+      "page_item": "Card G-027 (Skilling sentencing agreement terms)",
+      "what_it_said": "Verb 'stated'.",
+      "what_the_source_says": "These are the agreement's terms.",
+      "fix": "Verb 'agreed'.",
+      "source": "doj-skilling-sentencing-agreement-2013, paras. 7-12 (PDF 2-3)",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "94",
+      "page_item": "Cards G-029, G-030 (SEC v. Duncan release)",
+      "what_it_said": "Source type 'SEC allegation'; verb 'reported'.",
+      "what_the_source_says": "The release announces a filed-and-settled action; the settlement terms are facts, only the complaint's claims are allegations.",
+      "fix": "Source type 'SEC litigation release (settled action)'; verb 'announced'.",
+      "source": "sec-duncan-litrel-20441",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "95",
+      "page_item": "Cards G-031 to G-036 (Dec. 12, 2001 hearing) source type and verbs",
+      "what_it_said": "Source type 'sworn testimony'; verbs 'testified'.",
+      "what_the_source_says": "No oath appears anywhere in the Dec. 12, 2001 record (searched for sworn/oath/swear/raise your right).",
+      "fix": "Source type 'hearing testimony and record (no oath shown)'; G-032 'stated (written statement submitted to the hearing)'; G-033, G-036 'told the subcommittees (not shown under oath)'. G-033 notes: 'Chewco' is named only in the written statement.",
+      "source": "hrg-hfs-enron-investors-pt1 (whole text layer; PDF 54, 119-122, 128-130 images)",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "96",
+      "page_item": "ch6 Berardino quote (gap 24; revision pass)",
+      "what_it_said": "'Andersen's chief executive told Congress in December 2001, as quoted in the Powers Report: ...' (speaker unnamed)",
+      "what_the_source_says": "Written statement 'Remarks of Joseph F. Berardino, Managing Partner – Chief Executive Officer, Andersen', Dec. 12, 2001, p. 116: quote verbatim; hearing record shows no oath",
+      "fix": "Speaker named; described as a written statement submitted to the hearing (not sworn testimony); card G-032 added. Verified on page image. Note: quote is on PDF 122 (cite points to PDF 119, start of statement)",
+      "source": "hrg-hfs-enron-investors-pt1 pp. 113-116 (PDF 119-122, image); powers-report-sec pp. 83-84",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "97",
+      "page_item": "ch6 shredding: indictment allegation added (revision pass)",
+      "what_it_said": "Only the Syllabus (C-042) supported the destruction sentence",
+      "what_the_source_says": "Indictment para. 11: 'Tons of paper relating to the Enron audit were promptly shredded ...'",
+      "fix": "Added as an allegation, verb 'alleged', card G-016",
+      "source": "doj-andersen-indictment-2002 p. 5 (line 240)",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "98",
+      "page_item": "ch6 indictment and jury deliberations (revision pass)",
+      "what_it_said": "'a federal grand jury indicted Andersen for obstruction of justice'",
+      "what_the_source_says": "Indictment: one charge, Oct 10-Nov 9, 2001, corrupt persuasion to withhold/alter/destroy records; Opinion p. 702: seven days' deliberation, deadlock, Allen charge, verdict after three more days",
+      "fix": "Added, with 'alleged' for the indictment and 'recounted' for the Court's background; cards G-015, G-022",
+      "source": "doj-andersen-indictment-2002 pp. 1, 6-7; andersen-scotus-full-usreports 544 U.S. at 702 (PDF 7)",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "99",
+      "page_item": "ch6 and ch7 Supreme Court reversal (gap 9; revision pass)",
+      "what_it_said": "Holding quoted from the Syllabus (C-043, C-044)",
+      "what_the_source_says": "Opinion p. 698: 'We hold that the jury instructions failed to convey properly the elements ... and therefore reverse.'; pp. 706-708 (culpability; nexus); p. 697 unanimous; decided May 31, 2005",
+      "fix": "Syllabus cites replaced by the full opinion (G-018 to G-021); quotes verified verbatim ('there-fore' line break normalized)",
+      "source": "andersen-scotus-full-usreports 544 U.S. at 697-698, 706-708 (PDF 2-3, 11-13)",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "100",
+      "page_item": "ch6 Duncan outcome (gap 3; revision pass)",
+      "what_it_said": "'The SEC's Enron index describes that case as a \"settled action\"; its terms are not in the library.' No mention of a criminal plea",
+      "what_the_source_says": "DOJ (2003): pleaded guilty in 2002 to obstructing an SEC investigation; Opinion p. 702: 'later pleaded guilty to witness tampering'; SEC Lit. Rel. 20441: filed and simultaneously settled, without admitting or denying, injunction + permanent suspension, subject to court approval; Bauer, Lowther, Odom administrative orders",
+      "fix": "Added with attribution; text says plainly the library does not show the plea date, charging document, or what later happened to the plea; cards G-008, G-023, G-029, G-030",
+      "source": "doj-glisan-plea-press-2003 lines 118-121; andersen-scotus-full-usreports p. 702; sec-duncan-litrel-20441 lines 282-300",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "101",
+      "page_item": "ch7 Kopper $12M (gaps 1-2; revision pass)",
+      "what_it_said": "Only the SEC's $4M forfeiture figure",
+      "what_the_source_says": "DAG Thompson: 'agreed to forfeit $12 million to satisfy both this plea and a related SEC complaint'; SEC: $4M forfeited + $8M paid",
+      "fix": "$12M explained as $4M + $8M (consistent, not a conflict); sentence still not in library; card G-013",
+      "source": "doj-dag-kopper-plea-transcript-2002 lines 36-38; sec-fastow-complaint para. 9",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "102",
+      "page_item": "ch7 Fastow plea and sentence (gap 1; revision pass)",
+      "what_it_said": "'The library's documents do not say what he was convicted of or what sentence he received.'",
+      "what_the_source_says": "DOJ Jan 14, 2004: pleaded guilty to two counts of conspiracy; agreed to 10 years and to forfeit >$29M. DOJ Sept 26, 2006: sentenced to six years; plea agreement required forfeiture of >$20M",
+      "fix": "Added with 'announced'; both forfeiture figures given and the unexplained differences stated; cards G-001, G-002, G-004",
+      "source": "doj-fastow-plea-press-2004 lines 19-32, 71-76; doj-fastow-sentenced-press-2006 lines 12-20",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "103",
+      "page_item": "ch7 Glisan plea and sentence (gap 2; revision pass)",
+      "what_it_said": "'Ben Glisan, was also listed as convicted.'",
+      "what_the_source_says": "DOJ Sept 10, 2003: pleaded guilty to conspiracy to commit wire and securities fraud; sentenced the same day to 60 months under the plea agreement",
+      "fix": "Added with 'the Justice Department announced'; card G-006",
+      "source": "doj-glisan-plea-press-2003 lines 16-26",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "104",
+      "page_item": "ch7 Causey sentence (gap 7; revision pass)",
+      "what_it_said": "Sentence not given",
+      "what_the_source_says": "DOJ Nov 15, 2006: sentenced to 66 months",
+      "fix": "Added with 'announced'; card G-009",
+      "source": "doj-causey-sentenced-press-2006 lines 10-15",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "105",
+      "page_item": "ch7 Skilling after 2010 (gap 4; revision pass)",
+      "what_it_said": "'What happened after that is not covered by the library's documents.'",
+      "what_the_source_says": "CA5 Apr. 6, 2011: error harmless beyond a reasonable doubt; convictions affirmed on all counts; sentence vacated. 2013 agreement: cert. denied Apr 16, 2012; joint recommendation of a 168-210 month guidelines range; waiver of all challenges",
+      "fix": "Added with 'held' / 'according to the agreement' / 'agreed'; text says the sentence actually imposed is not in the library; cards G-024, G-026, G-027",
+      "source": "ca5-skilling-2011-remand pp. 1-2, 16; doj-skilling-sentencing-agreement-2013 pp. 1-3 (lines 66-147)",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "106",
+      "page_item": "Cards G-015 to G-017, G-020, G-021, G-024 to G-028, G-031, G-032, G-034, G-035: pdf_page",
+      "what_it_said": "pdf_page held range strings (e.g. '1-2, 16', '119, 121-122'); the Cast and Timeline cites copied them into data-page.",
+      "what_the_source_says": "A '#page=' link needs one PDF page number.",
+      "fix": "Set pdf_page to the single PDF page where each quote appears (G-015 6, G-016 5, G-017 3, G-020 11, G-021 13, G-024 16, G-025 16, G-026 2, G-027 2, G-028 4, G-031 1, G-032 122, G-034 128, G-035 129); ranges kept in 'section'. PENDING: writer must update the matching cite pages in the Cast, Timeline and Glossary.",
+      "source": "each card's source, pages as listed",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "107",
+      "page_item": "Cast `david-duncan` outcome_status (revision pass)",
+      "what_it_said": "'pleaded guilty' shown as his outcome label.",
+      "what_the_source_says": "The library shows a 2002 plea (G-008 DOJ; G-023 Supreme Court) but not its date, any sentence, or what later happened to it; the entry text says so.",
+      "fix": "PENDING (writer): label must carry the limit, e.g. 'pleaded guilty (2002); later history not in library'. Gap to be logged for the plea's later history (critical).",
+      "source": "doj-glisan-plea-press-2003; andersen-scotus-full-usreports 544 U.S. at 702",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "108",
+      "page_item": "Cast `david-duncan` outcome_text (revision pass)",
+      "what_it_said": "'he consented, subject to court approval, to a permanent injunction ... and to a permanent suspension from practicing before the SEC'",
+      "what_the_source_says": "Only the civil injunctive action was 'subject to court approval'; the suspension is an administrative order 'based on the anticipated entry of an injunction'.",
+      "fix": "PENDING (writer): '... he consented to a permanent injunction against violating the antifraud laws (subject to court approval) and to an order permanently suspending him from practicing before the SEC as an accountant.'",
+      "source": "sec-duncan-litrel-20441 paras. 1-4",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
+    },
+    {
+      "number": "109",
+      "page_item": "Timeline 2013-05-08 (revision pass)",
+      "what_it_said": "'agreed to jointly recommend a sentence of 168 to 210 months'",
+      "what_the_source_says": "The agreement recommends a guidelines range ('a jointly recommended guidelines range of 168 to 210 months'), not a sentence.",
+      "fix": "PENDING (writer): 'agreed to jointly recommend a sentencing range of 168 to 210 months'.",
+      "source": "doj-skilling-sentencing-agreement-2013 paras. 8-9 (PDF 2-3)",
+      "date": "2026-09-27",
+      "recorded_in": "build-log/corrections.md"
     }
   ],
   "web_sources": [
@@ -3131,7 +3684,7 @@
     {
       "time": "2026-09-26T11:19:18Z",
       "type": "agent_start",
-      "label": "Started: Fact-Checker (Part B: cast, timeline, glossary, diagrams) (brief 13-factcheck-pages.md)",
+      "label": "Started: Fact-Checker (Part B) (brief 13-factcheck-pages.md)",
       "agent_id": "factcheck-b"
     },
     {
@@ -3161,7 +3714,7 @@
     {
       "time": "2026-09-26T11:30:52Z",
       "type": "agent_finish",
-      "label": "Finished: Fact-Checker (Part B: cast, timeline, glossary, diagrams) (accepted)",
+      "label": "Finished: Fact-Checker (Part B) (accepted)",
       "agent_id": "factcheck-b"
     },
     {
@@ -3188,7 +3741,7 @@
     {
       "time": "2026-09-26T11:34:36Z",
       "type": "review",
-      "label": "Review by Fact-Checker (Part B: cast, timeline, glossary, diagrams): 9 OK, 6 fixed, 0 rejected; B-051 date corrected; corrections rows 16-22",
+      "label": "Review by Fact-Checker (Part B): 9 OK, 6 fixed, 0 rejected; B-051 date corrected; corrections rows 16-22",
       "agent_id": "factcheck-b"
     },
     {
@@ -3255,7 +3808,7 @@
     {
       "time": "2026-09-26T11:43:53Z",
       "type": "review",
-      "label": "Review by Fact-Checker (Part B: cast, timeline, glossary, diagrams): Timeline, Glossary, footnote, three diagrams PASS. Cast FAIL until eight citation fixes (C1-C8) are made; no factual errors in text. New checked cards F-051..F-056; B-065 fixed; corrections rows 58-85 logged. Both Fastow pleaded-guilty labels upheld with attribution.",
+      "label": "Review by Fact-Checker (Part B): Timeline, Glossary, footnote, three diagrams PASS. Cast FAIL until eight citation fixes (C1-C8) are made; no factual errors in text. New checked cards F-051..F-056; B-065 fixed; corrections rows 58-85 logged. Both Fastow pleaded-guilty labels upheld with attribution.",
       "agent_id": "factcheck-b"
     },
     {
@@ -3300,7 +3853,7 @@
     {
       "time": "2026-09-26T11:47:03Z",
       "type": "review",
-      "label": "Review by Fact-Checker (Part B: cast, timeline, glossary, diagrams): All PASS. 301 citations swept; no candidate files cited; Buffett absent. Corrections log complete (86 rows).",
+      "label": "Review by Fact-Checker (Part B): All PASS. 301 citations swept; no candidate files cited; Buffett absent. Corrections log complete (86 rows).",
       "agent_id": "factcheck-b"
     },
     {
@@ -3323,6 +3876,125 @@
       "time": "2026-09-26T11:53:43Z",
       "type": "decision",
       "label": "Coordinator decision: Phase 1 complete; checking in with the owner"
+    },
+    {
+      "time": "2026-09-26T23:23:53Z",
+      "type": "decision",
+      "label": "Coordinator decision: Owner approved all 10 candidates and added the Dec 12, 2001 House hearing"
+    },
+    {
+      "time": "2026-09-27T00:10:51Z",
+      "type": "decision",
+      "label": "Coordinator decision: Owner added 11 documents to the library"
+    },
+    {
+      "time": "2026-09-27T00:10:51Z",
+      "type": "decision",
+      "label": "Coordinator decision: Revision pass started"
+    },
+    {
+      "time": "2026-09-27T00:10:51Z",
+      "type": "agent_start",
+      "label": "Started: Reader B (revision pass) (brief 18-reader-revision.md)",
+      "agent_id": "reader-b-revision"
+    },
+    {
+      "time": "2026-09-27T00:17:43Z",
+      "type": "agent_finish",
+      "label": "Finished: Reader B (revision pass) (accepted, pending Fact-Checker)",
+      "agent_id": "reader-b-revision"
+    },
+    {
+      "time": "2026-09-27T00:17:43Z",
+      "type": "agent_start",
+      "label": "Started: Fact-Checker (Part B) (brief 08-factcheck-cards.md)",
+      "agent_id": "factcheck-b"
+    },
+    {
+      "time": "2026-09-27T00:22:35Z",
+      "type": "agent_finish",
+      "label": "Finished: Fact-Checker (Part B) (accepted)",
+      "agent_id": "factcheck-b"
+    },
+    {
+      "time": "2026-09-27T00:22:35Z",
+      "type": "decision",
+      "label": "Coordinator decision: Candidate approval confirmed by the owner"
+    },
+    {
+      "time": "2026-09-27T00:22:35Z",
+      "type": "agent_start",
+      "label": "Started: Story Writer (brief 19-writers-revision.md)",
+      "agent_id": "story"
+    },
+    {
+      "time": "2026-09-27T00:22:35Z",
+      "type": "agent_start",
+      "label": "Started: Reference Writer (brief 19-writers-revision.md)",
+      "agent_id": "reference"
+    },
+    {
+      "time": "2026-09-27T00:22:48Z",
+      "type": "agent_start",
+      "label": "Started: Site Builder (brief 17-site-final.md)",
+      "agent_id": "site"
+    },
+    {
+      "time": "2026-09-27T00:27:48Z",
+      "type": "agent_finish",
+      "label": "Finished: Site Builder (accepted)",
+      "agent_id": "site"
+    },
+    {
+      "time": "2026-09-27T00:28:41Z",
+      "type": "agent_finish",
+      "label": "Finished: Reference Writer (accepted, pending Fact-Checker re-check)",
+      "agent_id": "reference"
+    },
+    {
+      "time": "2026-09-27T00:30:48Z",
+      "type": "agent_finish",
+      "label": "Finished: Story Writer (accepted, pending Fact-Checker re-check)",
+      "agent_id": "story"
+    },
+    {
+      "time": "2026-09-27T00:30:48Z",
+      "type": "handoff",
+      "label": "Handoff: Story Writer and Reference Writer to Fact-Checker (Parts A and B)"
+    },
+    {
+      "time": "2026-09-27T00:33:07Z",
+      "type": "review",
+      "label": "Review by Fact-Checker (Part A: chapters): PASS, no required fixes; 123 citations swept; corrections rows 96-105; three optional precision tweaks recommended (Berardino page link 122; Duncan plea year attributed to DOJ; Skilling range wording).",
+      "agent_id": "factcheck-a"
+    },
+    {
+      "time": "2026-09-27T00:33:39Z",
+      "type": "review",
+      "label": "Review by Fact-Checker (Part B): Wording verified (341 citations swept). Must-fix: single page numbers for 7 G-cards; Duncan label must not imply a final outcome. Skilling label convicted upheld. Critical new gap: later history of Duncan plea.",
+      "agent_id": "factcheck-b"
+    },
+    {
+      "time": "2026-09-27T00:33:39Z",
+      "type": "decision",
+      "label": "Coordinator decision: Duncan label and new critical gap"
+    },
+    {
+      "time": "2026-09-27T00:35:16Z",
+      "type": "agent_finish",
+      "label": "Finished: Story Writer (accepted)",
+      "agent_id": "story"
+    },
+    {
+      "time": "2026-09-27T00:36:55Z",
+      "type": "agent_finish",
+      "label": "Finished: Reference Writer (accepted)",
+      "agent_id": "reference"
+    },
+    {
+      "time": "2026-09-27T00:36:55Z",
+      "type": "decision",
+      "label": "Coordinator decision: Revision pass complete"
     }
   ]
 }

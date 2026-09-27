@@ -50,3 +50,10 @@ Other changes:
 - 3-4: I dropped the sentence rather than cite `enron-8k-nov-2001` without a card.
 - 6-4: the second quotation is verified by the Fact-Checker (batson-final-app-b-part2 p. 131, n. 472) and cited to C-035, whose locator is the same page. It is whitelisted in the build's quote check.
 - The build now sorts each strip by date.
+
+## Follow-up (coordinator request)
+| # | old | new |
+|---|---|---|
+| 6-4 cites | C-035, C-031 | C-035, F-022, C-031 (F-022 holds the Duncan e-mail quotation; the build's quote whitelist is now empty) |
+| 3-1 cites | A-056, A-057 | A-056, A-057, F-023 ($504 million and $36.6 million credit reserve) |
+| ch4 knew note (p14) | "Who Knew What, When: The SEC alleged" | "Who Knew What, When: the SEC alleged" |

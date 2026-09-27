@@ -218,7 +218,7 @@ L['ch3'] = {
    note(3, 6, 'board', "The Board: the Executive Committee approved the guarantee by conference call, based on a description of Chewco as \"an SPE not affiliated with either Enron or CalPERS.\" What the directors approved depended on what they were told.", 'A-033'),
    note(3, 9, 'board', "The Board: the directors did not simply learn of Fastow's role; they voted on it. The Senate subcommittee staff found that Lay approved waiving the code-of-conduct rule for Fastow and asked the board to ratify that decision, though company rules did not explicitly require it. Directors Winokur and Jaedicke later argued that the board had applied the code, not waived it.", 'F-006', 'F-007'),
    note(3, 10, 'board', "The Board: the controls rested on two officers and a yearly Audit Committee review. The special committee also saw no evidence that the board was told that Kopper and Glisan would help manage LJM2.", 'A-041', 'A-042'),
-   note(3, 20, 'board', "The Board: twice the Raptors' credit problem was fixed so that Enron avoided a large charge: no reserve at the end of 2000, and only a $36.6 million reserve in March 2001 instead of a charge of more than $500 million. The committee saw no evidence the board was told of the December 2000 fix, and found that the March 2001 restructuring was apparently not disclosed to or authorized by the board.", 'A-056', 'A-057'),
+   note(3, 20, 'board', "The Board: twice the Raptors' credit problem was fixed so that Enron avoided a large charge: no reserve at the end of 2000, and only a $36.6 million reserve in March 2001 instead of a charge of more than $500 million. The committee saw no evidence the board was told of the December 2000 fix, and found that the March 2001 restructuring was apparently not disclosed to or authorized by the board.", 'A-056', 'A-057', 'F-023'),
    note(3, 22, 'board', "The Board: this is where the board's safeguards met practice. The committee found that neither Causey nor Buy ignored his responsibilities, but that they did not give the deals \"the degree of review the Board believed was occurring.\"", 'F-011', 'A-062'),
   ],
   'summary': [
@@ -303,7 +303,7 @@ L['ch4'] = {
    note(4, 8, 'knew', "Who Knew What, When: this is Skilling's own sworn account of what he believed when he left. The SEC later alleged that he took part in a scheme to defraud from at least 1999; Chapter 7 explains how his criminal case ended.", 'B-023', 'B-019'),
    note(4, 10, 'knew', "Who Knew What, When: Watkins testified that she gave Lay her anonymous letter on August 15, 2001. The letter said, as the Senate subcommittee staff quoted it, that \"Skilling's abrupt departure will raise suspicions of accounting improprieties and valuation issues.\"", 'B-055', 'F-001', 'F-004'),
    note(4, 11, 'knew', "Who Knew What, When: by August 22, Watkins testified, Lay had heard from her in person that the Raptors owed Enron more than $700 million. Lay did not answer questions about this before Congress; declining to testify is a legal right and is not evidence of guilt.", 'B-056', 'B-008'),
-   note(4, 14, 'knew', "Who Knew What, When: The SEC alleged these September 26 statements were false and misleading. Lay was later convicted, but his conviction was vacated after his death (Chapter 7).", 'B-004', 'B-011'),
+   note(4, 14, 'knew', "Who Knew What, When: the SEC alleged these September 26 statements were false and misleading. Lay was later convicted, but his conviction was vacated after his death (Chapter 7).", 'B-004', 'B-011'),
    note(4, 16, 'knew', "Who Knew What, When: the SEC is the public's regulator, but its staff had not reviewed Enron's annual reports after 1997. The Senate staff concluded a review of the 2000 report would likely have prompted questions.", 'C-053', 'C-054'),
   ],
   'summary': [
@@ -413,7 +413,7 @@ L['ch6'] = {
    note(6, 4, 'auditors', "The Auditors: the disagreement is over labels. The Senate staff counted $27 million as consulting; Andersen said much of it was audit-type work. Either way, the examiner found Enron was one of Andersen's \"most significant clients in terms of fees.\"", 'C-019', 'C-020', 'C-022'),
    note(6, 5, 'auditors', "The Auditors: Sarbanes-Oxley later made it unlawful for an audit firm to provide certain non-audit services to a company it audits, and required the audit committee to approve other non-audit services in advance.", 'C-074'),
    note(6, 6, 'auditors', "The Auditors: in his spoken statement to the same December 2001 hearing, Berardino said that on the smaller of the two SPEs behind the restatement, Andersen's team had made \"an error in judgment. An honest error, but an error nonetheless.\" He said important information about the larger one appeared not to have been revealed to Andersen.", 'G-033'),
-   note(6, 8, 'auditors', "The Auditors: Duncan wrote in December 2000 that the presentation had to fit \"about a 30 – 45 minute presentation,\" so \"we necessarily have to stay at a certain level.\" The examiner's conclusion is about what a fact-finder could find, not a court finding.", 'C-035', 'C-031'),
+   note(6, 8, 'auditors', "The Auditors: Duncan wrote in December 2000 that the presentation had to fit \"about a 30 – 45 minute presentation,\" so \"we necessarily have to stay at a certain level.\" The examiner's conclusion is about what a fact-finder could find, not a court finding.", 'C-035', 'F-022', 'C-031'),
    note(6, 9, 'auditors', "The Auditors: telling employees to follow a retention policy is not wrong in itself. The Supreme Court's Syllabus notes that \"under ordinary circumstances, it is not wrongful for a manager to instruct his employees to comply with a valid document retention policy.\" The questions in this case were about intent and timing.", 'C-044'),
    note(6, 12, 'auditors', "The Auditors: two accounts conflict here. Andersen's witness said Duncan acted without consulting others or, so far as Andersen knew, its lawyers; Duncan, as the chairman summarized his interview, said he acted on the lawyer's e-mail. Duncan declined to answer questions at the hearing.", 'C-011', 'C-002', 'C-007'),
    note(6, 15, 'auditors', "The Auditors: the charge was against the firm itself, and it concerned persuading employees to withhold and destroy records, not the quality of the Enron audits.", 'G-015'),
@@ -538,7 +538,7 @@ def norm(s):
              .replace("''", '"').replace('—', '-').replace('–', '-').replace('--', '-').lower())
 
 problems = []
-CHECKER_VERIFIED = ['we necessarily have to stay at a certain level']
+CHECKER_VERIFIED = []  # F-022 now carries the Duncan quotation
 def check_quotes(text, cs, where):
     src = ' '.join(norm(cards[c['card']]['quote'] + ' ' + cards[c['card']]['claim'] + ' ' + (cards[c['card']]['notes'] or '')) for c in cs)
     for q in re.findall(r'"([^"]+)"', text):

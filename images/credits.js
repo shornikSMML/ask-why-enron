@@ -284,8 +284,8 @@ window.IMAGE_CREDITS = [
     "id": "diagram-prepay",
     "file": "images/diagram-prepay.svg",
     "narrow_file": "images/diagram-prepay-narrow.svg",
-    "title": "How a bank \"prepay\" worked",
-    "description": "Original diagram of a simplified JPMorgan Chase prepay, from checked bank cards. The bank sends cash to an offshore entity (Mahonia), which pays Enron now as a 'prepayment'; Enron makes commodity deliveries later, which pass back to the bank; an offsetting swap sends the price risk back to Enron. Net effect: cash now, repaid later with interest set in advance (the SEC alleged the prepays were 'in substance loans'). Panels show how Enron could record it (cash flow from operations, not debt; loans on its tax returns) and the Senate staff's estimate for end-2000 if booked as debt. A footnote records the dispute over who controlled Mahonia.",
+    "title": "How a bank \"prepay\" worked, as Senate investigators and the SEC described it",
+    "description": "Original diagram of a simplified JPMorgan Chase prepay, from checked bank cards. The bank sends cash to an offshore entity (Mahonia), which pays Enron now as a 'prepayment'; Enron makes commodity deliveries later, which pass back to the bank; an offsetting swap sends the price risk back to Enron. Net effect, as Roach and the SEC described it: cash now, repaid later with interest set in advance (the SEC alleged the prepays were 'in substance loans'). Panels show how Enron could record it (cash flow from operations, not debt; loans on its tax returns) and the Senate staff's estimate for end-2000 if booked as debt. A footnote records the dispute over who controlled Mahonia.",
     "alt": "Triangle diagram: the bank sends cash to an offshore entity, Mahonia, which sends cash to Enron; Enron's commodity deliveries go back through Mahonia to the bank; an offsetting swap arrow runs from the bank to Enron. Below: panels on how Enron could record the deal and what the numbers would have looked like as debt, two short quotes, and a footnote on the disputed control of Mahonia.",
     "source_url": null,
     "author": "Ask Why site team (Image Researcher & Diagrammer agent)",
@@ -296,8 +296,8 @@ window.IMAGE_CREDITS = [
     "suggested_chapter": "Phase 2: The Banks page (alt: Ch. 5 or Follow the Money lens)",
     "credit_line": "Diagram: Ask Why site team. Sources: Senate PSI hearing (July 23, 2002); SEC; bankruptcy examiner",
     "retrieved": "2026-09-27",
-    "sha256": "097e0d6dc0c22aa3239532234ca5fb6b07f39e0c40857d9bef063654d0f9263a",
-    "narrow_sha256": "4111be3826aad894f547993f15cdc1e41e7513506740dd204338622eb6ec053c",
+    "sha256": "29459ac0d379d0fed483db483ba93aa8f8905aee022151bdb36d3c384e37e754",
+    "narrow_sha256": "7e25c1e16d5791888fe365c89b4b99100d03933b1359f36d9bdb5e0d2bb44338",
     "fact_cards": [
       "K-001",
       "K-002",
@@ -309,9 +309,10 @@ window.IMAGE_CREDITS = [
       "K-010",
       "K-014",
       "K-016",
-      "K-045"
+      "K-045",
+      "K-061"
     ],
-    "notes": "Flow (steps 1-4) from Roach's sworn 'simplified version' (K-002); swap and 'in substance loans' from the SEC's allegations against JPMorgan Chase (K-014: risk passed from Enron to a Chase-sponsored entity, to Chase, and back to Enron). Recording: cash flow from operations (K-001), 'price risk management liabilities,' 'minority interest,' or otherwise (K-016, SEC alleged), loans on tax returns (K-005). End-2000 estimate labeled as Senate staff estimate (K-006). Citigroup total shown as $4.7-4.8B per fact-check point 4 (K-004). Quotes verbatim: 'what remains is a loan to Enron' (K-001, re-read at hrg-psi-banks-v1 text lines 2019-2021, printed p. 14); 'prepaid forwards are fundamentally different than funded debt' (K-009 notes, verified by checker, PDF 81). Mahonia labeled neutrally as 'Offshore entity (Mahonia)' per brief; footnote gives all three positions with attribution (K-002 Roach, K-010 Dellapina, K-045 examiner). Levin's Exhibit 118 reading (names East Moss, not Mahonia) not shown. Wide 800 px, narrow 520 px; same theming as other diagrams. Four tests (K-003) support the 'dressed up as trades' framing in the title/desc only."
+    "notes": "Flow (steps 1-4) from Roach's sworn 'simplified version' (K-002); swap and 'in substance loans' from the SEC's allegations against JPMorgan Chase (K-014: risk passed from Enron to a Chase-sponsored entity, to Chase, and back to Enron). Recording: cash flow from operations (K-001), 'price risk management liabilities,' 'minority interest,' or otherwise (K-016, SEC alleged), loans on tax returns (K-005). End-2000 estimate labeled as Senate staff estimate (K-006). Citigroup total shown as $4.7-4.8B per fact-check point 4 (K-004). Quotes verbatim: 'what remains is a loan to Enron' (K-001, re-read at hrg-psi-banks-v1 text lines 2019-2021, printed p. 14); 'prepaid forwards are fundamentally different than funded debt' (K-009 notes, verified by checker, PDF 81). Mahonia labeled neutrally as 'Offshore entity (Mahonia)' per brief; footnote gives all three positions with attribution (K-002 Roach, K-010 Dellapina, K-045 examiner). Levin's Exhibit 118 reading (names East Moss, not Mahonia) not shown. Wide 800 px, narrow 520 px; same theming as other diagrams. Four tests (K-003) support the 'dressed up as trades' framing in the title/desc only. Revised 2026-09-27 per factcheck-phase2-banks-page.md #11-#13: neutral accessible title; 'Net effect' attributed to Roach and the SEC; source line now 'printed pp. 14–16, 60–63' (Dellapina's words are on p. 63). #14 pending: K-061 added."
   },
   {
     "id": "diagram-sox-map",

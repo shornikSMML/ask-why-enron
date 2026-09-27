@@ -1105,6 +1105,12 @@ window.LENSES = {
        "source_id": "powers-report-sec",
        "page": null,
        "loc": "pp. 14-15 (details pp. 121-125), Executive Summary; V.D.2 The Restructuring Transaction"
+      },
+      {
+       "card": "F-023",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 122, 124, V.D.2 First Quarter 2001 Restructuring (b. The Restructuring Transaction; conclusion)"
       }
      ]
     },
@@ -1776,7 +1782,7 @@ window.LENSES = {
      "para_index": 14,
      "para_key": "ch4-p14",
      "para_start": "On September 26, 2001, Lay answered questions from",
-     "text": "Who Knew What, When: The SEC alleged these September 26 statements were false and misleading. Lay was later convicted, but his conviction was vacated after his death (Chapter 7).",
+     "text": "Who Knew What, When: the SEC alleged these September 26 statements were false and misleading. Lay was later convicted, but his conviction was vacated after his death (Chapter 7).",
      "cites": [
       {
        "card": "B-004",
@@ -2655,6 +2661,12 @@ window.LENSES = {
        "source_id": "batson-final-app-b-part2",
        "page": 29,
        "loc": "p. 131, IV.I Andersen's Interaction with Enron's Audit Committee"
+      },
+      {
+       "card": "F-022",
+       "source_id": "batson-final-app-b-part2",
+       "page": 29,
+       "loc": "p. 131, n. 472, IV.I Andersen's Interaction with Enron's Audit Committee, footnote 472"
       },
       {
        "card": "C-031",

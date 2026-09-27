@@ -218,3 +218,87 @@ The Dec. 12, 2001 record shows no oath.
 ### Corrections log
 
 Rows 87-95 in `build-log/corrections.md`.
+
+## Revision pass: final
+
+Date: 2026-09-27. I checked all 64 entries under "Reference Writer" in `work/facts/fixes-revision.md`:
+- **In the data files.** Every "New" text is present in `js/cast-data.js`, `js/timeline-data.js` and `js/glossary-data.js`.
+- **Against the cards and sources.** Every change was checked against its G-card and against the source. The DOJ releases, the Kopper transcript and the SEC release were checked in the original HTML. The court opinions, indictment and agreement were checked in the PDF text, and the Dec. 12 appendix on the page images.
+- **Sweep of all 341 citations:**
+  - Every card exists and is OK or FIXED.
+  - Every `source_id` matches its card, and every page matches its card.
+  - No path to `sources/candidates/` appears in the data.
+  - Buffett is absent.
+  - The 17 quote-not-found-on-page flags are the same text-copy artifacts ruled on in the Round 3 "Final" section.
+
+### Still open: approval status of the 10 documents
+
+`sources/manifest.csv` still lists the 10 documents in `sources/candidates/` with status **"candidate-unapproved"**. Nothing has changed since my last report. The owner must confirm, or change the status, before publication. This is not a content error.
+
+### Ruling (a): Skilling's label "convicted"
+
+**Accurate and fair; keep it.**
+- On April 6, 2011 the Fifth Circuit held that the honest-services error was harmless beyond a reasonable doubt and "AFFIRM[ED] the convictions on all counts" (G-024, PDF 16).
+- The 2013 agreement recites that the Supreme Court denied review on April 16, 2012 (G-026).
+- All 19 convictions therefore stand. "Later narrowed on appeal" now describes an intermediate step, not the outcome.
+- The entry's text still explains the 2010 Supreme Court ruling, including that it affirmed in part and vacated in part, and the 2011 harmless-error ruling. The Timeline has both items.
+- Optional: "convicted (upheld 2011)". Not required.
+
+### Ruling (b): Duncan "pleaded guilty"
+
+- **The text passes.** It says plainly: "The library has no charging document or judgment for him, and does not show the date of the plea, any sentence, or what later happened to the plea." Both sources are attributed: the DOJ's "obstructing an SEC investigation" and the Supreme Court's "later pleaded guilty to witness tampering", quoted verbatim.
+- **The label fails.** The outcome badge "pleaded guilty" alone presents a 2002 event as how his case ended, and the library cannot show how it ended. The rules say to check how each case ended before calling anyone guilty. There is a specific reason for care here. His plea concerned the same document destruction for which Andersen's conviction was reversed in 2005. From general knowledge, not from the library, I believe his plea may later have been withdrawn. That must not appear on the site unless a library document supports it. It is the reason the label must not read as final.
+- **Required fix (writer):** set Duncan's `outcome_status` to **"pleaded guilty (2002); later history not in library"**, and add that key to `OUTCOME_LABELS` in `js/cast.js`.
+- **Gap:** logged as **critical** (#6 in `work/facts/factcheck-gaps.md`) for the Source Scout: court or DOJ records of what happened to the plea.
+
+### Item 3: the four merged Timeline items
+
+**Pass. No citation or accuracy was lost.**
+
+| Merged item | Now in | Citation kept | Check |
+|---|---|---|---|
+| 1985 Andersen | 1985-07-01 | C-026 | Wording matches C-026. |
+| 2001-10-12 Temple e-mail | 2001-10-23 | C-001 | The Oct. 12 date and content are preserved. |
+| 2002-05-24 Batson appointed | 2003-11-04 | A-095 | "approved ... in May 2002" matches A-095. |
+| 2002-05-07 directors | 2002-07-08 | B-073, B-074 | "testified under oath" (PSI p. 2) and "the subcommittee reported" are preserved. |
+
+The Timeline has 58 items from 1985 to 2006, which is under 60, plus 3 epilogue items (2010, 2011, 2013).
+
+### Other findings and required fixes
+
+| # | Where | Problem | Fix | Severity |
+|---|---|---|---|---|
+| R-1 | Cast (`jeffrey-skilling`, `arthur-andersen`, `joseph-berardino`), Timeline (2002-03-07, 2006-05-25, 2011-04-06, 2013-05-08), Glossary (`harmless-error`) | G-card cites carry range strings as `page` (e.g. "1-2, 16", "119, 121-122"). These cannot form a `#page=` link. My fault in the revision check: I did not catch it on the cards. | Cards corrected (single PDF page; range kept in `section`). Writer: set each cite's `page` to its card's new `pdf_page`: G-015 → 6, G-024 → 16, G-025 → 16, G-026 → 2, G-027 → 2, G-031 → 1, G-032 → 122. Re-run the cite check. | **must-fix** |
+| R-2 | Cast `david-duncan` `outcome_status` | See ruling (b). | "pleaded guilty (2002); later history not in library" | **must-fix** |
+| R-3 | Cast `david-duncan` `outcome_text` | "consented, subject to court approval, to a permanent injunction ... and to a permanent suspension". Only the injunction was subject to court approval; the suspension is an SEC administrative order. | "... he consented to a permanent injunction against violating the antifraud laws (subject to court approval) and to an order permanently suspending him from practicing before the SEC as an accountant." | should-fix |
+| R-4 | Timeline 2013-05-08 | "agreed to jointly recommend a sentence of 168 to 210 months". The agreement recommends a guidelines range. | "agreed to jointly recommend a sentencing range of 168 to 210 months". | should-fix |
+| R-5 | Cast `michael-kopper` | "He added that the charging document ..." comes after a sentence about the SEC's figures, so "He" is unclear. | "The Deputy Attorney General added that ..." | should-fix |
+
+**Checked and correct, no change needed:**
+- **Skilling:** R1-R4; Oct. 23, 2006 sentence date and the 2011 and 2013 facts.
+- **Fastow:** R5-R7; both forfeiture figures attributed; 10 vs 6 years unexplained, as the library leaves it.
+- **Lea Fastow:** R8-R10.
+- **Glisan:** R11-R13.
+- **Causey:** R14-R15.
+- **Delainey:** R16-R17; "does not show whether he pleaded guilty or was tried" is correct.
+- **Kopper:** R18-R19; $12M = $4M + $8M explained correctly.
+- **Andersen:** R23-R24.
+- **Berardino:** R25-R27; "sworn" only for Feb. 5, 2002, and the Powers words tied to the written statement, verbatim "was in error".
+- **Timeline:** R28-R58, apart from R-4. The 2004-01-14 SEC settlement is cited to B-032 (SEC list, Jan. 14, 2004).
+- **Glossary:** R59-R64. The four new definitions are correct as general knowledge.
+
+### Corrections log and gaps
+
+- **Corrections log:** rows 106-109 in `build-log/corrections.md`. Row 106 is made (cards); rows 107-109 are pending the writer.
+- **Gaps:** #6 in `work/facts/factcheck-gaps.md` (critical).
+
+### Verdicts
+
+| File | Verdict | Remaining |
+|---|---|---|
+| `js/cast-data.js` | **FAIL until fixed** | R-1 and R-2 are must-fix; R-3 and R-5 are should-fix. |
+| `js/timeline-data.js` | **FAIL until fixed** | R-1 (page fields) is must-fix; R-4 is should-fix. Text accuracy passes. |
+| `js/glossary-data.js` | **FAIL until fixed** | R-1 (`harmless-error` cite page → 16). Definitions pass. |
+| Cards G-001 to G-036 | **PASS** | After the page fix made today. |
+
+All three files pass once R-1 and R-2 are made. Both are mechanical changes. Publication also waits on the owner confirming the approval status of the 10 documents.

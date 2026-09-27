@@ -10,7 +10,7 @@ window.BUILD_LOG = {
     "runs_resumed_by_message": 30,
     "runs_still_open": 2,
     "coordinator_decisions": 27,
-    "owner_decisions": 4,
+    "owner_decisions": 6,
     "library_documents": 87,
     "sources_read": 80,
     "sources_read_ids": [
@@ -568,6 +568,20 @@ window.BUILD_LOG = {
       "title": "Owner added 11 documents to the library",
       "detail": "Owner pasted the 10 approved candidate rows (folder left as candidates) and the Dec 12, 2001 House hearing row into manifest.csv and ran the GitHub Action. Coordinator merged main into the working branch and re-checked all 85 fingerprints: all match. 9 of 10 fresh downloads match the Scout's copies exactly; the SEC Duncan release differs only in a randomly generated tracking script at the bottom of the page (text identical). Hearing cover confirms Serial No. 107-51, Part 1 (joint hearing, Dec 12, 2001). The folder name is cosmetic; left for the owner to decide, since agents do not edit the library.",
       "phase": "revision"
+    },
+    {
+      "time": "2026-09-27T00:22:35Z",
+      "type": "decision",
+      "title": "Candidate approval confirmed by the owner",
+      "detail": "The Fact-Checker noted that the 10 rows in manifest.csv still carry status candidate-unapproved. The owner approved all 10 in writing in this session (\"I have reviewed the candidates and agree they all should be added to the sources library\") and added the rows and ran the download. Proceeding; the status and folder cells are cosmetic and left for the owner to tidy.",
+      "phase": "revision"
+    },
+    {
+      "time": "2026-09-27T00:54:22Z",
+      "type": "decision",
+      "title": "Phase 2 approved by the owner",
+      "detail": "Owner decisions: seven pathways (added Reading the Footnotes, plural, to avoid fixating on Note 16, and The Banks, exceeding the original 4-6); the Source Scout may collect up to 10 current (post-2003) official documents for approval; one lens at a time. Plan in work/phase2-plan.md.",
+      "phase": "phase2"
     }
   ],
   "coordinator": {

@@ -393,7 +393,8 @@ def candidate_ids(path):
 
 # Decisions made by the project owner (not the coordinator's own decisions that mention the owner):
 # the title starts with "Owner" or contains one of these phrases.
-OWNER_TITLE_PHRASES = ['owner approved', 'Owner decisions', 'Plan change requested by the project owner']
+OWNER_TITLE_PHRASES = ['owner approved', 'Owner decisions', 'Plan change requested by the project owner',
+                       'approved by the owner', 'confirmed by the owner']
 
 
 def is_owner_decision(d):

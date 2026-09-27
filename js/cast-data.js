@@ -142,25 +142,25 @@ window.CAST = [
    },
    {
     "source_id": "ca5-skilling-2011-remand",
-    "page": "1-2, 16",
+    "page": 16,
     "loc": "pp. 1-2, 16, Opinion (Prado, J.), introduction and IV. Conclusion",
     "card": "G-024"
    },
    {
     "source_id": "ca5-skilling-2011-remand",
-    "page": "2, 16",
+    "page": 16,
     "loc": "pp. 2, 16, I. Background; III.B The Other Convictions",
     "card": "G-025"
    },
    {
     "source_id": "doj-skilling-sentencing-agreement-2013",
-    "page": "1-2",
+    "page": 2,
     "loc": "pp. 1-2, Sentencing Agreement, 'Background', paras. 1-6 (Doc. 1316-1, Cr. No. 4:04-cr-25)",
     "card": "G-026"
    },
    {
     "source_id": "doj-skilling-sentencing-agreement-2013",
-    "page": "2-3",
+    "page": 2,
     "loc": "pp. 2-3, Sentencing Agreement, 'Terms and Conditions', paras. 7-12",
     "card": "G-027"
    }
@@ -288,7 +288,7 @@ window.CAST = [
   "role": "Enron employee from about 1994 to July 2001, mostly reporting to the CFO; managing director of LJM2's management company from January 2000 (per the SEC).",
   "summary": "When Fastow's own role in the Chewco partnership would have had to be disclosed to shareholders, Kopper, who reported to Fastow, was put in his place. The board's special committee found no evidence that Kopper's role was disclosed to or approved by Lay or the board. It found that Kopper and a partner, who had invested $125,000 in Chewco, received about $10.5 million when Enron bought Chewco out in 2001, and that Kopper was enriched by at least $10 million overall. In late July 2001 he left Enron to run LJM2.",
   "outcome_status": "pleaded guilty",
-  "outcome_text": "According to the SEC's later complaint against Fastow, Kopper pleaded guilty on August 21, 2002 to conspiracy to commit wire fraud and money laundering, and agreed to forfeit $4 million. The same day the SEC filed a civil case alleging he took part in a scheme to defraud Enron's security holders; he settled it, and a final judgment of August 22, 2002 ordered him to give up profits (including an $8 million payment), barred future violations, and barred him from serving as an officer or director of a public company. At a Justice Department news conference announcing the plea, the Deputy Attorney General said Kopper had agreed to forfeit $12 million to satisfy both the plea and the related SEC case. That matches the SEC's figures: $4 million forfeited in the criminal case plus $8 million paid in the SEC case. He added that the charging document sought about $23 million more in forfeiture; the library does not show what became of that. Sentencing was to wait until the government had secured Kopper's cooperation. His sentence is not in the library.",
+  "outcome_text": "According to the SEC's later complaint against Fastow, Kopper pleaded guilty on August 21, 2002 to conspiracy to commit wire fraud and money laundering, and agreed to forfeit $4 million. The same day the SEC filed a civil case alleging he took part in a scheme to defraud Enron's security holders; he settled it, and a final judgment of August 22, 2002 ordered him to give up profits (including an $8 million payment), barred future violations, and barred him from serving as an officer or director of a public company. At a Justice Department news conference announcing the plea, the Deputy Attorney General said Kopper had agreed to forfeit $12 million to satisfy both the plea and the related SEC case. That matches the SEC's figures: $4 million forfeited in the criminal case plus $8 million paid in the SEC case. The Deputy Attorney General added that the charging document sought about $23 million more in forfeiture; the library does not show what became of that. Sentencing was to wait until the government had secured Kopper's cooperation. His sentence is not in the library.",
   "cites": [
    {
     "source_id": "sec-kopper-complaint",
@@ -699,8 +699,8 @@ window.CAST = [
   "name": "David Duncan",
   "role": "Arthur Andersen's global engagement partner for the Enron audit (the senior partner in charge), from 1997 until December 2001.",
   "summary": "Duncan took over as lead partner on Enron in February 1997. The Senate subcommittee reported that his handwritten notes for a February 1999 audit committee meeting said Enron's accounting practices \"push limits.\" Andersen executive C.E. Andrews testified that on October 23, 2001 Duncan organized a rushed effort to shred Enron documents without consulting others in the firm; Duncan's own account, as summarized by the House subcommittee chairman, was that he acted on an October 12 e-mail from an Andersen lawyer about the firm's document-retention policy. The two accounts conflict. Andersen dismissed him on January 15, 2002.",
-  "outcome_status": "pleaded guilty",
-  "outcome_text": "On January 24, 2002, sworn before a House subcommittee, Duncan declined on his lawyer's advice to answer questions, invoking his constitutional protection against self-incrimination; that is not evidence of guilt. He testified at Andersen's criminal trial in 2002, as cited by the bankruptcy examiner. The Justice Department stated in 2003 that Duncan pleaded guilty in 2002 to obstructing an SEC investigation into Enron; the Supreme Court's 2005 Andersen opinion says he \"later pleaded guilty to witness tampering.\" The library has no charging document or judgment for him, and does not show the date of the plea, any sentence, or what later happened to the plea. On January 28, 2008 the SEC filed and settled a civil case alleging he was reckless in not knowing that the audit reports he signed on Enron's 1998-2000 financial statements were materially false. Without admitting or denying the allegations, he consented, subject to court approval, to a permanent injunction against violating the antifraud laws and to a permanent suspension from practicing before the SEC as an accountant.",
+  "outcome_status": "pleaded guilty (2002); later history not in library",
+  "outcome_text": "On January 24, 2002, sworn before a House subcommittee, Duncan declined on his lawyer's advice to answer questions, invoking his constitutional protection against self-incrimination; that is not evidence of guilt. He testified at Andersen's criminal trial in 2002, as cited by the bankruptcy examiner. The Justice Department stated in 2003 that Duncan pleaded guilty in 2002 to obstructing an SEC investigation into Enron; the Supreme Court's 2005 Andersen opinion says he \"later pleaded guilty to witness tampering.\" The library has no charging document or judgment for him, and does not show the date of the plea, any sentence, or what later happened to the plea. On January 28, 2008 the SEC filed and settled a civil case alleging he was reckless in not knowing that the audit reports he signed on Enron's 1998-2000 financial statements were materially false. Without admitting or denying the allegations, he consented to a permanent injunction against violating the antifraud laws (subject to court approval) and to an order permanently suspending him from practicing before the SEC as an accountant.",
   "cites": [
    {
     "source_id": "sec-duncan-complaint",
@@ -880,7 +880,7 @@ window.CAST = [
    },
    {
     "source_id": "doj-andersen-indictment-2002",
-    "page": "1, 6-7",
+    "page": 6,
     "loc": "pp. 1, 6-7, Caption; filing stamp; 'The Charge: Obstruction of Justice', para. 13",
     "card": "G-015"
    },
@@ -926,13 +926,13 @@ window.CAST = [
    },
    {
     "source_id": "hrg-hfs-enron-investors-pt1",
-    "page": "1, 5, 7",
+    "page": 1,
     "loc": "cover; p. V; p. 1, Cover page; contents and witness list; opening of hearing",
     "card": "G-031"
    },
    {
     "source_id": "hrg-hfs-enron-investors-pt1",
-    "page": "119, 121-122",
+    "page": 122,
     "loc": "pp. 113, 115-116, Appendix: 'Remarks of Joseph F. Berardino, Managing Partner – Chief Executive Officer, Andersen' (prepared statement)",
     "card": "G-032"
    }

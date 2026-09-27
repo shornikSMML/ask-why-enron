@@ -277,6 +277,44 @@ window.GAPS = {
      "Status": "not searched (10-candidate limit reached)"
     }
    ]
+  },
+  {
+   "title": "Added during the revision pass",
+   "intro": [],
+   "columns": [
+    "#",
+    "Claim we wanted to make",
+    "Kind of document that would support it",
+    "Importance",
+    "Raised by",
+    "Status"
+   ],
+   "rows": [
+    {
+     "#": "29",
+     "Claim we wanted to make": "What later happened to David Duncan's 2002 guilty plea (the library shows the plea but not its date, any sentence, or any later development). The Fact-Checker notes, from memory only, that the plea may have been withdrawn after the 2005 reversal of Andersen's conviction. This must not appear on the site without a source.",
+     "Kind of document that would support it": "Court order or DOJ statement in U.S. v. Duncan (S.D. Tex.); likely PACER",
+     "Importance": "critical",
+     "Raised by": "Fact-Checker",
+     "Status": "open"
+    },
+    {
+     "#": "30",
+     "Claim we wanted to make": "Kopper's sentence",
+     "Kind of document that would support it": "DOJ press release or judgment, U.S. v. Kopper",
+     "Importance": "useful",
+     "Raised by": "Reader B",
+     "Status": "open"
+    },
+    {
+     "#": "31",
+     "Claim we wanted to make": "The sentence actually imposed on Skilling after the 2013 agreement",
+     "Kind of document that would support it": "Judgment or DOJ press release (2013)",
+     "Importance": "useful",
+     "Raised by": "Reader B",
+     "Status": "open (DOJ page blocked by a bot check; owner may save it from a browser)"
+    }
+   ]
   }
  ],
  "candidates": [

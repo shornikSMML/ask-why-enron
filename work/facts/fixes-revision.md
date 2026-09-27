@@ -521,3 +521,38 @@ Agent: Reference Writer. Date: 2026-09-27. Sources: cards G-001 to G-036 (`work/
 - Why: term needed for new plea and sentence facts
 
 After the changes: `integrate.py --no-log` reported 0 problems and `test_site.py` reported 0 problems. The test raised no complaint about links into `sources/candidates/`.
+
+# Story Writer: revision-pass tweaks
+
+Fact-Checker recommendations under "## Revision pass" in `work/facts/factcheck-round3-partA.md`. Citation pages: chapters regenerated from `work/drafts/story-src/`, so every citation to G-015, G-024 to G-027, G-031 and G-032 now uses the single PDF page on the card (6, 16, 16, 2, 2, 1, 122). Berardino (G-032) now points to PDF 122 (old: 119).
+
+## Duncan wording (Fact-Checker optional) (ch6)
+
+**Old:**
+
+> Duncan faced cases of his own. He pleaded guilty in 2002. The Justice Department described the charge
+
+**New:**
+
+> Duncan faced cases of his own. According to the Justice Department, he pleaded guilty in 2002. The department described the charge
+
+## Duncan wording (Fact-Checker optional) (ch6)
+
+**Old:**
+
+> The library does not give the date of his plea,
+
+**New:**
+
+> The library does not give the exact date of his plea,
+
+## Skilling wording (Fact-Checker optional) (ch7)
+
+**Old:**
+
+> agreed to recommend a sentence of 168 to 210 months
+
+**New:**
+
+> agreed to recommend a guidelines range of 168 to 210 months
+

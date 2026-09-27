@@ -964,7 +964,7 @@ window.TIMELINE = [
    },
    {
     "source_id": "doj-andersen-indictment-2002",
-    "page": "1, 6-7",
+    "page": 6,
     "loc": "pp. 1, 6-7, Caption; filing stamp; 'The Charge: Obstruction of Justice', para. 13",
     "card": "G-015"
    }
@@ -1363,7 +1363,7 @@ window.TIMELINE = [
    },
    {
     "source_id": "doj-skilling-sentencing-agreement-2013",
-    "page": "1-2",
+    "page": 2,
     "loc": "pp. 1-2, Sentencing Agreement, 'Background', paras. 1-6 (Doc. 1316-1, Cr. No. 4:04-cr-25)",
     "card": "G-026"
    }
@@ -1450,19 +1450,19 @@ window.TIMELINE = [
   "cites": [
    {
     "source_id": "ca5-skilling-2011-remand",
-    "page": "1-2, 16",
+    "page": 16,
     "loc": "pp. 1-2, 16, Opinion (Prado, J.), introduction and IV. Conclusion",
     "card": "G-024"
    },
    {
     "source_id": "ca5-skilling-2011-remand",
-    "page": "2, 16",
+    "page": 16,
     "loc": "pp. 2, 16, I. Background; III.B The Other Convictions",
     "card": "G-025"
    },
    {
     "source_id": "doj-skilling-sentencing-agreement-2013",
-    "page": "1-2",
+    "page": 2,
     "loc": "pp. 1-2, Sentencing Agreement, 'Background', paras. 1-6 (Doc. 1316-1, Cr. No. 4:04-cr-25)",
     "card": "G-026"
    }
@@ -1475,11 +1475,11 @@ window.TIMELINE = [
  {
   "date": "2013-05-08",
   "title": "Epilogue: a sentencing agreement",
-  "text": "Skilling and the government agreed to jointly recommend a sentence of 168 to 210 months, and he agreed to give up further challenges to his convictions. The sentence actually imposed at resentencing is not in the library.",
+  "text": "Skilling and the government agreed to jointly recommend a sentencing range of 168 to 210 months, and he agreed to give up further challenges to his convictions. The sentence actually imposed at resentencing is not in the library.",
   "cites": [
    {
     "source_id": "doj-skilling-sentencing-agreement-2013",
-    "page": "2-3",
+    "page": 2,
     "loc": "pp. 2-3, Sentencing Agreement, 'Terms and Conditions', paras. 7-12",
     "card": "G-027"
    }

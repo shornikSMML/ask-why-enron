@@ -1464,7 +1464,7 @@ window.GLOSSARY = {
   "cites": [
    {
     "source_id": "ca5-skilling-2011-remand",
-    "page": "1-2, 16",
+    "page": 16,
     "loc": "pp. 1-2, 16, Opinion (Prado, J.), introduction and IV. Conclusion",
     "card": "G-024"
    }

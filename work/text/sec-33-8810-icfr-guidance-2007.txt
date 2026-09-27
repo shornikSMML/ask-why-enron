@@ -1,0 +1,3963 @@
+
+=== PAGE 1 ===
+SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR PART 241
+
+[RELEASE NOS. 33-8810; 34-55929; FR-77; File No. S7-24-06]
+
+Commission Guidance Regarding Management’s Report on Internal Control Over
+Financial Reporting Under Section 13(a) or 15(d) of the Securities Exchange Act of
+1934
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Interpretation.
+
+SUMMARY: The SEC is publishing this interpretive release to provide guidance for
+
+management regarding its evaluation and assessment of internal control over financial
+
+reporting. The guidance sets forth an approach by which management can conduct a top-
+
+down, risk-based evaluation of internal control over financial reporting. An evaluation
+
+that complies with this interpretive guidance is one way to satisfy the evaluation
+
+requirements of Rules 13a-15(c) and 15d-15(c) under the Securities Exchange Act of
+
+1934.
+
+EFFECTIVE DATE: June 27, 2007.
+
+FOR FURTHER INFORMATION CONTACT: Josh K. Jones, Professional
+
+Accounting Fellow, Office of the Chief Accountant, at (202) 551-5300, or N. Sean
+
+Harrison, Special Counsel, Division of Corporation Finance, at (202) 551-3430, U.S.
+
+Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549.
+
+SUPPLEMENTARY INFORMATION: The amendments to Rules 13a-15(c) 1 and
+
+15d-15(c) 2 under the Securities Exchange Act of 1934 3 (the “Exchange Act”), which
+
+1
+    17 CFR 240.13a-15(c).
+2
+    17 CFR 240.15d-15(c).
+3
+    15 U.S.C. 78a et seq.
+
+=== PAGE 2 ===
+clarify that an evaluation of internal control over financial reporting that complies with
+
+this interpretive guidance is one way to satisfy those rules, are being made in a separate
+
+release. 4
+
+I. Introduction
+
+          Management is responsible for maintaining a system of internal control over
+
+financial reporting (“ICFR”) that provides reasonable assurance regarding the reliability
+
+of financial reporting and the preparation of financial statements for external purposes in
+
+accordance with generally accepted accounting principles. The rules we adopted in June
+
+2003 to implement Section 404 of the Sarbanes-Oxley Act of 2002 5 (“Sarbanes-Oxley”)
+
+require management to annually evaluate whether ICFR is effective at providing
+
+reasonable assurance and to disclose its assessment to investors. 6 Management is
+
+responsible for maintaining evidential matter, including documentation, to provide
+
+reasonable support for its assessment. This evidence will also allow a third party, such as
+
+the company’s external auditor, to consider the work performed by management.
+
+          ICFR cannot provide absolute assurance due to its inherent limitations; it is a
+
+process that involves human diligence and compliance and is subject to lapses in
+
+judgment and breakdowns resulting from human failures. ICFR also can be
+
+circumvented by collusion or improper management override. Because of such
+
+limitations, ICFR cannot prevent or detect all misstatements, whether unintentional errors
+
+or fraud. However, these inherent limitations are known features of the financial
+
+
+
+
+4
+    Release No. 34-55928 (Jun. 20, 2007).
+5
+    15 U.S.C. 7262.
+6
+    Release No. 33-8238 (Jun. 5, 2003) [68 FR 36636] (hereinafter “Adopting Release”).
+
+
+                                              Page 2
+
+=== PAGE 3 ===
+reporting process, therefore, it is possible to design into the process safeguards to reduce,
+
+though not eliminate, this risk.
+
+          The “reasonable assurance” referred to in the Commission’s implementing rules
+
+relates to similar language in the Foreign Corrupt Practices Act of 1977 (“FCPA”). 7
+
+Exchange Act Section 13(b)(7) defines “reasonable assurance” and “reasonable detail” as
+
+“such level of detail and degree of assurance as would satisfy prudent officials in the
+
+conduct of their own affairs.” 8 The Commission has long held that “reasonableness” is
+
+not an “absolute standard of exactitude for corporate records.” 9 In addition, the
+
+Commission recognizes that while “reasonableness” is an objective standard, there is a
+
+range of judgments that an issuer might make as to what is “reasonable” in implementing
+
+Section 404 and the Commission’s rules. Thus, the terms “reasonable,” “reasonably,”
+
+and “reasonableness” in the context of Section 404 implementation do not imply a single
+
+conclusion or methodology, but encompass the full range of appropriate potential
+
+conduct, conclusions or methodologies upon which an issuer may reasonably base its
+
+decisions.
+
+          Since companies first began complying in 2004, the Commission has received
+
+significant feedback on our rules implementing Section 404. 10 This feedback included
+
+requests for further guidance to assist company management in complying with our ICFR
+7
+    Title 1 of Pub. L. 95-213 (1977).
+8
+  15 U.S.C. 78m(b)(7). The conference committee report on the 1988 amendments to the FCPA
+also noted that the standard “does not connote an unrealistic degree of exactitude or precision.
+The concept of reasonableness of necessity contemplates the weighing of a number of relevant
+factors, including the costs of compliance.” Cong. Rec. H2116 (daily ed. Apr. 20, 1988).
+9
+    Release No. 34-17500 (Jan. 29, 1981) [46 FR 11544].
+10
+  Release Nos. 33-8762; 34-54976 (Dec. 20, 2006) [71 FR 77635] (hereinafter “Proposing
+Release”). For a detailed history of the implementation of Section 404 of Sarbanes-Oxley, see
+Section I., Background, of the Proposing Release. An analysis of the comments we received on
+the Proposing Release is included in Section III of this release.
+
+
+                                             Page 3
+
+=== PAGE 4 ===
+evaluation and disclosure requirements. This guidance is in response to those requests
+
+and reflects the significant feedback we have received, including comments on the
+
+interpretive guidance we proposed on December 20, 2006. In addressing a number of the
+
+commonly identified areas of concerns, the interpretive guidance:
+
+   •   Explains how to vary evaluation approaches for gathering evidence based on risk
+
+       assessments;
+
+   •   Explains the use of “daily interaction,” self-assessment, and other on-going
+
+       monitoring activities as evidence in the evaluation;
+
+   •   Explains the purpose of documentation and how management has flexibility in
+
+       approaches to documenting support for its assessment;
+
+   •   Provides management significant flexibility in making judgments regarding what
+
+       constitutes adequate evidence in low-risk areas; and
+
+   •   Allows for management and the auditor to have different testing approaches.
+
+       The Interpretive Guidance is organized around two broad principles. The first
+
+principle is that management should evaluate whether it has implemented controls that
+
+adequately address the risk that a material misstatement of the financial statements would
+
+not be prevented or detected in a timely manner. The guidance describes a top-down,
+
+risk-based approach to this principle, including the role of entity-level controls in
+
+assessing financial reporting risks and the adequacy of controls. The guidance promotes
+
+efficiency by allowing management to focus on those controls that are needed to
+
+adequately address the risk of a material misstatement of its financial statements. The
+
+guidance does not require management to identify every control in a process or document
+
+the business processes impacting ICFR. Rather, management can focus its evaluation
+
+
+
+                                           Page 4
+
+=== PAGE 5 ===
+process and the documentation supporting the assessment on those controls that it
+
+determines adequately address the risk of a material misstatement of the financial
+
+statements. For example, if management determines that a risk of a material
+
+misstatement is adequately addressed by an entity-level control, no further evaluation of
+
+other controls is required.
+
+       The second principle is that management’s evaluation of evidence about the
+
+operation of its controls should be based on its assessment of risk. The guidance provides
+
+an approach for making risk-based judgments about the evidence needed for the
+
+evaluation. This allows management to align the nature and extent of its evaluation
+
+procedures with those areas of financial reporting that pose the highest risks to reliable
+
+financial reporting (that is, whether the financial statements are materially accurate). As
+
+a result, management may be able to use more efficient approaches to gathering evidence,
+
+such as self-assessments, in low-risk areas and perform more extensive testing in high-
+
+risk areas. By following these two principles, we believe companies of all sizes and
+
+complexities will be able to implement our rules effectively and efficiently.
+
+         The Interpretive Guidance reiterates the Commission’s position that
+
+management should bring its own experience and informed judgment to bear in order to
+
+design an evaluation process that meets the needs of its company and that provides a
+
+reasonable basis for its annual assessment of whether ICFR is effective. This allows
+
+management sufficient and appropriate flexibility to design such an evaluation process. 11
+
+
+11
+  Exchange Act Rules 13a-15 and 15d-15 [17 CFR 240.13a-15 and 15d-15] require management
+to evaluate the effectiveness of ICFR as of the end of the fiscal year. For purposes of this
+document, the term “evaluation” or “evaluation process” refers to the methods and procedures
+that management implements to comply with these rules. The term “assessment” is used in this
+document to describe the disclosure required by Item 308 of Regulations S-B and S-K [17 CFR
+228.308 and 229.308]. This disclosure must include discussion of any material weaknesses
+
+
+                                           Page 5
+
+=== PAGE 6 ===
+Smaller public companies, which generally have less complex internal control systems
+
+than larger public companies, can use this guidance to scale and tailor their evaluation
+
+methods and procedures to fit their own facts and circumstances. We encourage smaller
+
+public companies 12 to take advantage of the flexibility and scalability to conduct an
+
+evaluation of ICFR that is both efficient and effective at identifying material weaknesses.
+
+        The effort necessary to conduct an initial evaluation of ICFR will vary among
+
+companies, partly because this effort will depend on management’s existing financial
+
+reporting risk assessment and control monitoring activities. After the first year of
+
+compliance, management’s effort to identify financial reporting risks and controls should
+
+ordinarily be less, because subsequent evaluations should be more focused on changes in
+
+risks and controls rather than identification of all financial reporting risks and the related
+
+controls. Further, in each subsequent year, the documentation of risks and controls will
+
+only need to be updated from the prior year(s), not recreated anew. Through the risk and
+
+control identification process, management will have identified for testing only those
+
+controls that are needed to meet the objective of ICFR (that is, to provide reasonable
+
+assurance regarding the reliability of financial reporting) and for which evidence about
+
+their operation can be obtained most efficiently. The nature and extent of procedures
+
+
+which exist as of the end of the most recent fiscal year and management’s assessment of the
+effectiveness of ICFR, including a statement as to whether or not ICFR is effective. Management
+is not permitted to conclude that ICFR is effective if there are one or more material weaknesses in
+ICFR.
+12
+    While a company’s individual facts and circumstances should be considered in determining
+whether a company is a smaller public company and the resulting implications to management’s
+evaluation, a company’s public market capitalization and annual revenues are useful indicators of
+its size and complexity. The Final Report of the Advisory Committee on Smaller Public
+Companies to the United States Securities and Exchange Commission (Apr. 23, 2006), available
+at http://www.sec.gov/info/smallbus/acspc/acspc-finalreport.pdf, defined smaller companies,
+which included microcap companies, and the SEC’s rules include size characteristics for
+“accelerated filers” and “non-accelerated filers” which approximately fit the same definitions.
+
+
+                                             Page 6
+
+=== PAGE 7 ===
+implemented to evaluate whether those controls continue to operate effectively can be
+
+tailored to the company’s unique circumstances, thereby avoiding unnecessary
+
+compliance costs.
+
+          The guidance assumes management has established and maintains a system of
+
+internal accounting controls as required by the FCPA. Further, it is not intended to
+
+explain how management should design its ICFR to comply with the control framework
+
+management has chosen. To allow appropriate flexibility, the guidance does not provide
+
+a checklist of steps management should perform in completing its evaluation.
+
+          The guidance in this release shall be effective immediately upon its publication in
+
+the Federal Register. 13
+
+          As a companion 14 to this interpretive release, we are adopting amendments to
+
+Exchange Act Rules 13a-15(c) and 15d-15(c) and revisions to Regulation S-X. 15 The
+
+amendments to Rules 13a-15(c) and 15d-15(c) will make it clear that an evaluation that is
+
+conducted in accordance with this interpretive guidance is one way to satisfy the annual
+
+management evaluation requirement in those rules. We are also amending our rules to
+
+define the term “material weakness” and to revise the requirements regarding the
+
+auditor’s attestation report on ICFR. Additionally, we are seeking additional comment on
+
+the definition of the term “significant deficiency.” 16
+
+13
+  The Commission finds good cause under 5 U.S.C. 808(2) for this interpretation to take effect on
+the date of Federal Register publication. Further delay would be unnecessary and contrary to the
+public interest because following the guidance is voluntary. Additionally, delay may deter
+companies from realizing all the efficiencies intended by this guidance, and immediate
+effectiveness will assist in preparing for 2007 evaluations and assessments of internal control
+over financial reporting.
+14
+     Release No. 34-55928.
+15
+     17 CFR 210.1-01 et seq.
+16
+     Release No. 34-55930 (Jun. 20, 2007).
+
+
+                                             Page 7
+
+=== PAGE 8 ===
+II. Interpretive Guidance – Evaluation and Assessment of Internal Control Over
+Financial Reporting
+
+   The interpretive guidance addresses the following topics:
+
+   A. The Evaluation Process
+
+      1. Identifying Financial Reporting Risks and Controls
+
+              a.     Identifying Financial Reporting Risks
+
+              b.     Identifying Controls that Adequately Address Financial Reporting
+                     Risks
+
+              c.     Consideration of Entity-Level Controls
+
+              d.     Role of Information Technology General Controls
+
+              e.     Evidential Matter to Support the Assessment
+
+      2. Evaluating Evidence of the Operating Effectiveness of ICFR
+
+              a.     Determining the Evidence Needed to Support the Assessment
+
+              b.     Implementing Procedures to Evaluate Evidence of the Operation of
+                     ICFR
+
+              c.     Evidential Matter to Support the Assessment
+
+      3. Multiple Location Considerations
+
+   B. Reporting Considerations
+
+          1. Evaluation of Control Deficiencies
+
+          2. Expression of Assessment of Effectiveness of ICFR by Management
+
+          3. Disclosures about Material Weaknesses
+
+          4. Impact of a Restatement of Previously Issued Financial Statements on
+              Management’s Report on ICFR
+
+          5. Inability to Assess Certain Aspects of ICFR
+
+
+
+
+                                        Page 8
+
+=== PAGE 9 ===
+A. The Evaluation Process
+
+         The objective of internal control over financial reporting 17 (“ICFR”) is to provide
+
+reasonable assurance regarding the reliability of financial reporting and the preparation of
+
+financial statements for external purposes in accordance with generally accepted
+
+accounting principles (“GAAP”). The purpose of the evaluation of ICFR is to provide
+
+management with a reasonable basis for its annual assessment as to whether any material
+
+weaknesses 18 in ICFR exist as of the end of the fiscal year. 19 To accomplish this,
+
+management identifies the risks to reliable financial reporting, evaluates whether controls
+
+exist to address those risks, and evaluates evidence about the operation of the controls
+
+
+17
+  Exchange Act Rules 13a-15(f) and 15d-15(f) [17 CFR 240.13a-15(f) and 15d-15(b)] define
+internal control over financial reporting as:
+     A process designed by, or under the supervision of, the issuer’s principal executive and
+     principal financial officers, or persons performing similar functions, and effected by the
+     issuer’s board of directors, management and other personnel, to provide reasonable
+     assurance regarding the reliability of financial reporting and the preparation of financial
+     statements for external purposes in accordance with generally accepted accounting
+     principles and includes those policies and procedures that:
+         (1) Pertain to the maintenance of records that in reasonable detail accurately and
+             fairly reflect the transactions and dispositions of the assets of the issuer;
+         (2) Provide reasonable assurance that transactions are recorded as necessary to
+             permit preparation of financial statements in accordance with generally accepted
+             accounting principles, and that receipts and expenditures of the issuer are being
+             made only in accordance with authorizations of management and directors of the
+             registrant; and
+         (3) Provide reasonable assurance regarding prevention or timely detection of
+             unauthorized acquisition, use or disposition of the issuer’s assets that could have a
+             material effect on the financial statements.
+18
+  As defined in Exchange Act Rule 12b-2 [17 CFR 240.12b-2] and Rule 1-02 of Regulation S-X
+[17 CFR 210.1-02], a material weakness is a deficiency, or a combination of deficiencies, in
+ICFR such that there is a reasonable possibility that a material misstatement of the registrant’s
+annual or interim financial statements will not be prevented or detected on a timely basis. See
+Release No. 34-55928.
+19
+  This focus on material weaknesses will lead to a better understanding by investors about the
+company’s ICFR, as well as its inherent limitations. Further, the Commission’s rules
+implementing Section 404, by providing for public disclosure of material weaknesses,
+concentrate attention on the most important internal control issues.
+
+
+                                               Page 9
+
+=== PAGE 10 ===
+included in the evaluation based on its assessment of risk. 20 The evaluation process will
+
+vary from company to company; however, the top-down, risk-based approach which is
+
+described in this guidance will typically be the most efficient and effective way to
+
+conduct the evaluation.
+
+        The evaluation process guidance is described in two sections. The first section
+
+explains the identification of financial reporting risks and the evaluation of whether the
+
+controls management has implemented adequately address those risks. The second
+
+section explains an approach for making judgments about the methods and procedures for
+
+evaluating whether the operation of ICFR is effective. Both sections explain how entity-
+
+level controls 21 impact the evaluation process, as well as how management should focus
+
+its evaluation efforts on the highest risks to reliable financial reporting. 22
+
+
+
+
+20
+  If management’s evaluation process identifies material weaknesses, but all material weaknesses
+are remediated by the end of the fiscal year, management may conclude that ICFR is effective as
+of the end of the fiscal year. However, management should consider whether disclosure of such
+remediated material weaknesses is appropriate or required under Item 307 or Item 308 of
+Regulations S-K or S-B or other Commission disclosure rules.
+21
+   The term “entity-level controls” as used in this document describes aspects of a system of
+internal control that have a pervasive effect on the entity’s system of internal control such as
+controls related to the control environment (for example, management’s philosophy and operating
+style, integrity and ethical values; board or audit committee oversight; and assignment of
+authority and responsibility); controls over management override; the company's risk assessment
+process; centralized processing and controls, including shared service environments; controls to
+monitor results of operations; controls to monitor other controls, including activities of the
+internal audit function, the audit committee, and self-assessment programs; controls over the
+period-end financial reporting process; and policies that address significant business control and
+risk management practices. The terms “company-level” and “entity-wide” are also commonly
+used to describe these controls.
+22
+  Because management is responsible for maintaining effective ICFR, this interpretive guidance
+does not specifically address the role of the board of directors or audit committee in a company’s
+evaluation and assessment of ICFR. However, we would ordinarily expect a board of directors or
+audit committee, as part of its oversight responsibilities for the company’s financial reporting, to
+be reasonably knowledgeable and informed about the evaluation process and management’s
+assessment, as necessary in the circumstances.
+
+
+                                             Page 10
+
+=== PAGE 11 ===
+        Under the Commission’s rules, management’s annual assessment of the
+
+effectiveness of ICFR must be made in accordance with a suitable control framework’s 23
+
+definition of effective internal control. 24 These control frameworks define elements of
+
+internal control that are expected to be present and functioning in an effective internal
+
+control system. In assessing effectiveness, management evaluates whether its ICFR
+
+includes policies, procedures and activities that address the elements of internal control
+
+that the applicable control framework describes as necessary for an internal control
+
+system to be effective. The framework elements describe the characteristics of an
+
+internal control system that may be relevant to individual areas of the company’s ICFR,
+
+pervasive to many areas, or entity-wide. Therefore, management’s evaluation process
+
+includes not only controls involving particular areas of financial reporting, but also the
+
+entity-wide and other pervasive elements of internal control defined by its selected
+
+control framework. This guidance is not intended to replace the elements of an effective
+
+system of internal control as defined within a control framework.
+
+
+23
+   In the Adopting Release, the Commission specified characteristics of a suitable control
+framework and identified the Internal Control—Integrated Framework (1992) created by the
+Committee of Sponsoring Organizations of the Treadway Commission (“COSO”) as an example
+of a suitable framework. We also cited the Guidance on Assessing Control published by the
+Canadian Institute of Chartered Accountants (“CoCo”) and the report published by the Institute of
+Chartered Accountants in England & Wales Internal Control: Guidance for Directors on the
+Combined Code (known as the Turnbull Report) as examples of other suitable frameworks that
+issuers could choose in evaluating the effectiveness of their ICFR. We encourage companies to
+examine and select a framework that may be useful in their own circumstances; we also
+encourage the further development of existing and alternative frameworks.
+24
+   For example, both the COSO framework and the Turnbull Report state that determining
+whether a system of internal control is effective is a subjective judgment resulting from an
+assessment of whether the five components (that is, control environment, risk assessment, control
+activities, monitoring, and information and communication) are present and functioning
+effectively. Although CoCo states that an assessment of effectiveness should be made against
+twenty specific criteria, it acknowledges that the criteria can be regrouped into different
+structures, and includes a table showing how the criteria can be regrouped into the five-
+component structure of COSO.
+
+
+                                            Page 11
+
+=== PAGE 12 ===
+1. Identifying Financial Reporting Risks and Controls
+
+       Management should evaluate whether it has implemented controls that will
+
+achieve the objective of ICFR (that is, to provide reasonable assurance regarding the
+
+reliability of financial reporting). The evaluation begins with the identification and
+
+assessment of the risks to reliable financial reporting (that is, materially accurate financial
+
+statements), including changes in those risks. Management then evaluates whether it has
+
+controls placed in operation (that is, in use) that are designed to adequately address those
+
+risks. Management ordinarily would consider the company’s entity-level controls in both
+
+its assessment of risks and in identifying which controls adequately address the risks.
+
+       The evaluation approach described herein allows management to identify controls
+
+and maintain supporting evidential matter for its controls in a manner that is tailored to
+
+the company’s financial reporting risks (as defined below). Thus, the controls that
+
+management identifies and documents are those that are important to achieving the
+
+objective of ICFR. These controls are then subject to procedures to evaluate evidence of
+
+their operating effectiveness, as determined pursuant to Section II.A.2.
+
+a. Identifying Financial Reporting Risks
+
+       Management should identify those risks of misstatement that could, individually
+
+or in combination with others, result in a material misstatement of the financial
+
+statements (“financial reporting risks”). Ordinarily, the identification of financial
+
+reporting risks begins with evaluating how the requirements of GAAP apply to the
+
+company’s business, operations and transactions. Management must provide investors
+
+with financial statements that fairly present the company’s financial position, results of
+
+operations and cash flows in accordance with GAAP. A lack of fair presentation arises
+
+
+
+
+                                           Page 12
+
+=== PAGE 13 ===
+when one or more financial statement amounts or disclosures (“financial reporting
+
+elements”) contain misstatements (including omissions) that are material.
+
+       Management uses its knowledge and understanding of the business, and its
+
+organization, operations, and processes, to consider the sources and potential likelihood
+
+of misstatements in financial reporting elements. Internal and external risk factors that
+
+impact the business, including the nature and extent of any changes in those risks, may
+
+give rise to a risk of misstatement. Risks of misstatement may also arise from sources
+
+such as the initiation, authorization, processing and recording of transactions and other
+
+adjustments that are reflected in financial reporting elements. Management may find it
+
+useful to consider “what could go wrong” within a financial reporting element in order to
+
+identify the sources and the potential likelihood of misstatements and identify those that
+
+could result in a material misstatement of the financial statements.
+
+       The methods and procedures for identifying financial reporting risks will vary
+
+based on the characteristics of the company. These characteristics include, among others,
+
+the size, complexity, and organizational structure of the company and its processes and
+
+financial reporting environment, as well as the control framework used by management.
+
+For example, to identify financial reporting risks in a larger business or a complex
+
+business process, management’s methods and procedures may involve a variety of
+
+company personnel, including those with specialized knowledge. These individuals,
+
+collectively, may be necessary to have a sufficient understanding of GAAP, the
+
+underlying business transactions and the process activities, including the role of computer
+
+technology, that are required to initiate, authorize, record and process transactions. In
+
+contrast, in a small company that operates on a centralized basis with less complex
+
+
+
+
+                                          Page 13
+
+=== PAGE 14 ===
+business processes and with little change in the risks or processes, management’s daily
+
+involvement with the business may provide it with adequate knowledge to appropriately
+
+identify financial reporting risks.
+
+        Management’s evaluation of the risk of misstatement should include
+
+consideration of the vulnerability of the entity to fraudulent activity (for example,
+
+fraudulent financial reporting, misappropriation of assets and corruption), and whether
+
+any such exposure could result in a material misstatement of the financial statements. 25
+
+The extent of activities required for the evaluation of fraud risks is commensurate with
+
+the size and complexity of the company’s operations and financial reporting
+
+environment. 26
+
+        Management should recognize that the risk of material misstatement due to fraud
+
+ordinarily exists in any organization, regardless of size or type, and it may vary by
+
+specific location or segment and by individual financial reporting element. For example,
+
+one type of fraud risk that has resulted in fraudulent financial reporting in companies of
+
+all sizes and types is the risk of improper override of internal controls in the financial
+
+reporting process. While the identification of a fraud risk is not necessarily an indication
+
+that a fraud has occurred, the absence of an identified fraud is not an indication that no
+
+
+
+25
+   For example, COSO’s Internal Control Over Financial Reporting – Guidance for Smaller
+Public Companies (2006), Volume 1: Executive Summary, Principle 10: Fraud Risk (page 10)
+states, “The potential for material misstatement due to fraud is explicitly considered in assessing
+risks to the achievement of financial reporting objectives.”
+26
+  Management may find resources such as “Management Antifraud Programs and Controls –
+Guidance to Help Prevent, Deter, and Detect Fraud,” which was issued jointly by seven
+professional organizations and is included as an exhibit to AU Sec. 316, Consideration of Fraud
+in a Financial Statement Audit (as adopted on an interim basis by the PCAOB in PCAOB Rule
+3200T) helpful in assessing fraud risks. Other resources also exist (for example, the American
+Institute of Certified Public Accountants’ (AICPA) Management Override of Internal Controls:
+The Achilles’ Heel of Fraud Prevention (2005)), and more may be developed in the future.
+
+
+                                             Page 14
+
+=== PAGE 15 ===
+fraud risks exist. Rather, these risk assessments are used in evaluating whether adequate
+
+controls have been implemented.
+
+b. Identifying Controls that Adequately Address Financial Reporting Risks
+
+        Management should evaluate whether it has controls 27 placed in operation (that is,
+
+in use) that adequately address the company’s financial reporting risks. The
+
+determination of whether an individual control, or a combination of controls, adequately
+
+addresses a financial reporting risk involves judgments about whether the controls, if
+
+operating properly, can effectively prevent or detect misstatements that could result in
+
+material misstatements in the financial statements. 28 If management determines that a
+
+deficiency in ICFR exists, it must be evaluated to determine whether a material
+
+weakness exists. 29 The guidance in Section II.B.1. is designed to assist management
+
+with that evaluation.
+
+        Management may identify preventive controls, detective controls, or a
+
+combination of both, as adequately addressing financial reporting risks. 30 There might
+
+
+
+27
+  A control consists of a specific set of policies, procedures, and activities designed to meet an
+objective. A control may exist within a designated function or activity in a process. A control’s
+impact on ICFR may be entity-wide or specific to an account balance, class of transactions or
+application. Controls have unique characteristics – for example, they can be: automated or
+manual; reconciliations; segregation of duties; review and approval authorizations; safeguarding
+and accountability of assets; preventing or detecting error or fraud. Controls within a process
+may consist of financial reporting controls and operational controls (that is, those designed to
+achieve operational objectives).
+28
+  Companies may use “control objectives,” which provide specific criteria against which to
+evaluate the effectiveness of controls, to assist in evaluating whether controls can prevent or
+detect misstatements.
+29
+   A deficiency in the design of ICFR exists when (a) necessary controls are missing or (b)
+existing controls are not properly designed so that, even if the control operates as designed, the
+financial reporting risks would not be addressed.
+30
+  Preventive controls have the objective of preventing the occurrence of errors or fraud that could
+result in a misstatement of the financial statements. Detective controls have the objective of
+detecting errors or fraud that has already occurred that could result in a misstatement of the
+
+
+                                              Page 15
+
+=== PAGE 16 ===
+be more than one control that addresses the financial reporting risks for a financial
+
+reporting element; conversely, one control might address the risks of more than one
+
+financial reporting element. It is not necessary to identify all controls that may exist or
+
+identify redundant controls, unless redundancy itself is required to address the financial
+
+reporting risks. To illustrate, management may determine that the risk of a misstatement
+
+in interest expense, which could result in a material misstatement of the financial
+
+statements, is adequately addressed by a control within the company’s period-end
+
+financial reporting process (that is, an entity-level control). In such a case, management
+
+may not need to identify, for purposes of the ICFR evaluation, any additional controls
+
+related to the risk of misstatement in interest expense.
+
+       Management may also consider the efficiency with which evidence of the
+
+operation of a control can be evaluated when identifying the controls that adequately
+
+address the financial reporting risks. When more than one control exists and each
+
+adequately addresses a financial reporting risk, management may decide to select the
+
+control for which evidence of operating effectiveness can be obtained more efficiently.
+
+Moreover, when adequate information technology (“IT”) general controls exist and
+
+management has determined that the operation of such controls is effective, management
+
+may determine that automated controls are more efficient to evaluate than manual
+
+controls. Considering the efficiency with which the operation of a control can be
+
+evaluated will often enhance the overall efficiency of the evaluation process.
+
+       In addition to identifying controls that address the financial reporting risks of
+
+individual financial reporting elements, management also evaluates whether it has
+
+
+financial statements. Preventive and detective controls may be completely manual, involve some
+degree of computer automation, or be completely automated.
+
+
+                                           Page 16
+
+=== PAGE 17 ===
+controls in place to address the entity-level and other pervasive elements of ICFR that its
+
+chosen control framework prescribes as necessary for an effective system of internal
+
+control. This would ordinarily include, for example, considering how and whether
+
+controls related to the control environment, controls over management override, the
+
+entity-level risk assessment process and monitoring activities, 31 controls over the period-
+
+end financial reporting process, 32 and the policies that address significant business
+
+control and risk management practices are adequate for purposes of an effective system
+
+of internal control. The control frameworks and related guidance may be useful tools for
+
+evaluating the adequacy of these elements of ICFR.
+
+        When identifying the controls that address financial reporting risks, management
+
+learns information about the characteristics of the controls that should inform its
+
+judgments about the risk that a control will fail to operate as designed. This includes, for
+
+example, information about the judgment required in its operation and information about
+
+the complexity of the controls. Section II.A.2. discusses how these characteristics are
+
+considered in determining the nature and extent of evidence of the operation of the
+
+controls that management evaluates.
+
+        At the end of this identification process, management has identified for evaluation
+
+those controls that are needed to meet the objective of ICFR (that is, to provide
+
+31
+  Monitoring activities may include controls to monitor results of operations and controls to
+monitor other controls, including activities of the internal audit function, the audit committee, and
+self-assessment programs.
+32
+  The nature of controls within the period-end financial reporting process will vary based on a
+company’s facts and circumstances. The period-end financial reporting process may include
+matters such as: procedures to enter transaction totals into the general ledger; the initiation,
+authorization, recording and processing of journal entries in the general ledger; procedures for the
+selection and application of accounting policies; procedures used to record recurring and non-
+recurring adjustments to the annual and quarterly financial statements; and procedures for
+preparing annual and quarterly financial statements and related disclosures.
+
+
+                                              Page 17
+
+=== PAGE 18 ===
+reasonable assurance regarding the reliability of financial reporting) and for which
+
+evidence about their operation can be obtained most efficiently.
+
+c. Consideration of Entity-Level Controls
+
+        Management considers entity-level controls when identifying financial reporting
+
+risks and related controls for a financial reporting element. In doing so, it is important
+
+for management to consider the nature of the entity-level controls and how those
+
+controls relate to the financial reporting element. The more indirect the relationship to a
+
+financial reporting element, the less effective a control may be in preventing or detecting
+
+a misstatement. 33
+
+        Some entity-level controls, such as certain control environment controls, have an
+
+important, but indirect, effect on the likelihood that a misstatement will be prevented or
+
+detected on a timely basis. These controls might affect the other controls management
+
+determines are necessary to adequately address financial reporting risks for a financial
+
+reporting element. However, it is unlikely that management will identify only this type
+
+of entity-level control as adequately addressing a financial reporting risk identified for a
+
+financial reporting element.
+
+        Other entity-level controls may be designed to identify possible breakdowns in
+
+lower-level controls, but not in a manner that would, by themselves, adequately address
+
+financial reporting risks. For example, an entity-level control that monitors the results of
+
+operations may be designed to detect potential misstatements and investigate whether a
+
+breakdown in lower-level controls occurred. However, if the amount of potential
+
+33
+  Controls can be either directly or indirectly related to a financial reporting element. Controls
+that are designed to have a specific effect on a financial reporting element are considered directly
+related. For example, controls established to ensure that personnel are properly counting and
+recording the annual physical inventory relate directly to the existence of the inventory.
+
+
+                                             Page 18
+
+=== PAGE 19 ===
+misstatement that could exist before being detected by the monitoring control is too high,
+
+then the control may not adequately address the financial reporting risks of a financial
+
+reporting element.
+
+        Entity-level controls may be designed to operate at the process, application,
+
+transaction or account-level and at a level of precision that would adequately prevent or
+
+detect on a timely basis misstatements in one or more financial reporting elements that
+
+could result in a material misstatement of the financial statements. In these cases,
+
+management may not need to identify or evaluate additional controls relating to that
+
+financial reporting risk.
+
+d. Role of Information Technology General Controls
+
+        Controls that management identifies as addressing financial reporting risks may
+
+be automated, 34 dependent upon IT functionality, 35 or a combination of both manual and
+
+automated procedures. 36 In these situations, management’s evaluation process generally
+
+considers the design and operation of the automated or IT dependent application controls
+
+and the relevant IT general controls over the applications providing the IT functionality.
+
+While IT general controls alone ordinarily do not adequately address financial reporting
+
+risks, the proper and consistent operation of automated controls or IT functionality often
+
+depends upon effective IT general controls. The identification of risks and controls
+
+within IT should not be a separate evaluation. Instead, it should be an integral part of
+
+
+
+34
+  For example, application controls that perform automated matching, error checking or edit
+checking functions.
+35
+  For example, consistent application of a formula or performance of a calculation and posting
+correct balances to appropriate accounts or ledgers.
+36
+  For example, a control that manually investigates items contained in a computer generated
+exception report.
+
+
+                                            Page 19
+
+=== PAGE 20 ===
+management’s top-down, risk-based approach to identifying risks and controls and in
+
+determining evidential matter necessary to support the assessment.
+
+          Aspects of IT general controls that may be relevant to the evaluation of ICFR will
+
+vary depending upon a company’s facts and circumstances. For purposes of the
+
+evaluation of ICFR, management only needs to evaluate those IT general controls that are
+
+necessary for the proper and consistent operation of other controls designed to adequately
+
+address financial reporting risks. For example, management might consider whether
+
+certain aspects of IT general control areas, such as program development, program
+
+changes, computer operations, and access to programs and data, apply to its facts and
+
+circumstances. 37 Specifically, it is unnecessary to evaluate IT general controls that
+
+primarily pertain to efficiency or effectiveness of a company’s operations, but which are
+
+not relevant to addressing financial reporting risks.
+
+e. Evidential Matter to Support the Assessment
+
+          As part of its evaluation of ICFR, management must maintain reasonable support
+
+for its assessment. 38 Documentation of the design of the controls management has
+
+placed in operation to adequately address the financial reporting risks, including the
+
+entity-level and other pervasive elements necessary for effective ICFR, is an integral part
+
+of the reasonable support. The form and extent of the documentation will vary
+
+depending on the size, nature, and complexity of the company. It can take many forms
+
+(for example, paper documents, electronic, or other media). Also, the documentation
+
+
+37
+   However, the reference to these specific IT general control areas as examples within this
+guidance does not imply that these areas, either partially or in their entirety, are applicable to all
+facts and circumstances. As indicated, companies need to take their particular facts and
+circumstances into consideration in determining which aspects of IT general controls are relevant.
+38
+     See instructions to Item 308 of Regulations S-K and S-B.
+
+
+                                              Page 20
+
+=== PAGE 21 ===
+can be presented in a number of ways (for example, policy manuals, process models,
+
+flowcharts, job descriptions, documents, internal memorandums, forms, etc). The
+
+documentation does not need to include all controls that exist within a process that
+
+impacts financial reporting. Rather, the documentation should be focused on those
+
+controls that management concludes are adequate to address the financial reporting
+
+risks. 39
+
+            In addition to providing support for the assessment of ICFR, documentation of
+
+the design of controls also supports other objectives of an effective system of internal
+
+control. For example, it serves as evidence that controls within ICFR, including changes
+
+to those controls, have been identified, are capable of being communicated to those
+
+responsible for their performance, and are capable of being monitored by the company.
+
+2. Evaluating Evidence of the Operating Effectiveness of ICFR
+
+        Management should evaluate evidence of the operating effectiveness of ICFR.
+
+The evaluation of the operating effectiveness of a control considers whether the control is
+
+operating as designed and whether the person performing the control possesses the
+
+necessary authority and competence to perform the control effectively. The evaluation
+
+procedures that management uses to gather evidence about the operation of the controls it
+
+identifies as adequately addressing the financial reporting risks for financial reporting
+
+elements (pursuant to Section II.A.1.b) should be tailored to management’s assessment of
+
+the risk characteristics of both the individual financial reporting elements and the related
+
+controls (collectively, ICFR risk). Management should ordinarily focus its evaluation of
+
+the operation of controls on areas posing the highest ICFR risk. Management’s
+
+39
+ Section II.A.2.c also provides guidance with regard to the documentation required to support
+management’s evaluation of operating effectiveness.
+
+
+                                            Page 21
+
+=== PAGE 22 ===
+assessment of ICFR risk also considers the impact of entity-level controls, such as the
+
+relative strengths and weaknesses of the control environment, which may influence
+
+management’s judgments about the risks of failure for particular controls.
+
+        Evidence about the effective operation of controls may be obtained from direct
+
+testing of controls and on-going monitoring activities. The nature, timing and extent of
+
+evaluation procedures necessary for management to obtain sufficient evidence of the
+
+effective operation of a control depend on the assessed ICFR risk. In determining
+
+whether the evidence obtained is sufficient to provide a reasonable basis for its evaluation
+
+of the operation of ICFR, management should consider not only the quantity of evidence
+
+(for example, sample size), but also the qualitative characteristics of the evidence. The
+
+qualitative characteristics of the evidence include the nature of the evaluation procedures
+
+performed, the period of time to which the evidence relates, the objectivity 40 of those
+
+evaluating the controls, and, in the case of on-going monitoring activities, the extent of
+
+validation through direct testing of underlying controls. For any individual control,
+
+different combinations of the nature, timing, and extent of evaluation procedures may
+
+provide sufficient evidence. The sufficiency of evidence is not necessarily determined by
+
+any of these attributes individually.
+
+
+
+
+40
+  In determining the objectivity of those evaluating controls, management is not required to make
+an absolute conclusion regarding objectivity, but rather should recognize that personnel will have
+varying degrees of objectivity based on, among other things, their job function, their relationship
+to the control being evaluated, and their level of authority and responsibility within the
+organization. Personnel whose core function involves permanently serving as a testing or
+compliance authority at the company, such as internal auditors, normally are expected to be the
+most objective. However, the degree of objectivity of other company personnel may be such that
+the evaluation of controls performed by them would provide sufficient evidence. Management’s
+judgments about whether the degree of objectivity is adequate to provide sufficient evidence
+should take into account the ICFR risk.
+
+
+                                             Page 22
+
+=== PAGE 23 ===
+a. Determining the Evidence Needed to Support the Assessment
+
+       Management should evaluate the ICFR risk of the controls identified Section
+
+II.A.1.b as adequately addressing the financial reporting risks for financial reporting
+
+elements to determine the evidence needed to support the assessment. This evaluation
+
+should consider the characteristics of the financial reporting elements to which the
+
+controls relate and the characteristics of the controls themselves. This concept is
+
+illustrated in the following diagram.
+
+
+
+
+                                          Page 23
+
+=== PAGE 24 ===
+  Determining the Sufficiency of Evidence Based on ICFR Risk
+
+
+          High
+Misstatement                                 More
+Risk of                                      Evidence*
+Financial
+Reporting
+Element Medium
+
+                   Less
+                   Evidence*
+
+
+           Low                      Medium                     High
+                      Risk of Control Failure
+
+
+
+             * The references to “more” or “less” include both the quantitative and
+             qualitative characteristics of the evidence (that is, its sufficiency).
+
+
+
+
+                                     Page 24
+
+=== PAGE 25 ===
+       Management’s consideration of the misstatement risk of a financial reporting
+
+element includes both the materiality of the financial reporting element and the
+
+susceptibility of the underlying account balances, transactions or other supporting
+
+information to a misstatement that could be material to the financial statements. As the
+
+materiality of a financial reporting element increases in relation to the amount of
+
+misstatement that would be considered material to the financial statements,
+
+management’s assessment of misstatement risk for the financial reporting element
+
+generally would correspondingly increase. In addition, management considers the extent
+
+to which the financial reporting elements include transactions, account balances or other
+
+supporting information that are prone to material misstatement. For example, the extent
+
+to which a financial reporting element: (1) involves judgment in determining the recorded
+
+amounts; (2) is susceptible to fraud; (3) has complex accounting requirements; (4)
+
+experiences change in the nature or volume of the underlying transactions; or (5) is
+
+sensitive to changes in environmental factors, such as technological and/or economic
+
+developments, would generally affect management’s judgment of whether a misstatement
+
+risk is higher or lower.
+
+       Management’s consideration of the likelihood that a control might fail to operate
+
+effectively includes, among other things:
+
+   •   The type of control (that is, manual or automated) and the frequency with which it
+
+       operates;
+
+   •   The complexity of the control;
+
+   •   The risk of management override;
+
+   •   The judgment required to operate the control;
+
+
+
+                                            Page 25
+
+=== PAGE 26 ===
+     •   The competence of the personnel who perform the control or monitor its
+
+         performance;
+
+     •   Whether there have been changes in key personnel who either perform the control
+
+         or monitor its performance;
+
+     •   The nature and materiality of misstatements that the control is intended to prevent
+
+         or detect;
+
+     •   The degree to which the control relies on the effectiveness of other controls (for
+
+         example, IT general controls); and
+
+     •   The evidence of the operation of the control from prior year(s).
+
+For example, management’s judgment of the risk of control failure would be higher for
+
+controls whose operation requires significant judgment than for non-complex controls
+
+requiring less judgment.
+
+         Financial reporting elements that involve related party transactions, critical
+
+accounting policies, 41 and related critical accounting estimates 42 generally would be
+
+assessed as having a higher misstatement risk. Further, when the controls related to these
+
+financial reporting elements are subject to the risk of management override, involve
+
+
+
+
+41
+   “Critical accounting policies” are defined as those policies that are most important to the
+financial statement presentation, and require management’s most difficult, subjective, or complex
+judgments, often as the result of a need to make estimates about the effect of matters that are
+inherently uncertain. See Release No. 33-8040 (Dec. 12, 2001) [66 FR 65013].
+42
+  “Critical accounting estimates” relate to estimates or assumptions involved in the application of
+generally accepted accounting principles where the nature of the estimates or assumptions is
+material due to the levels of subjectivity and judgment necessary to account for highly uncertain
+matters or the susceptibility of such matters to change and the impact of the estimates and
+assumptions on financial condition or operating performance is material. See Release No. 33-
+8350 (Dec. 19, 2003) [68 FR 75056]. For additional information, see, for example, Release No.
+33-8098 (May 10, 2002) [67 FR 35620].
+
+
+                                             Page 26
+
+=== PAGE 27 ===
+significant judgment, or are complex, they should generally be assessed as having higher
+
+ICFR risk.
+
+       When a combination of controls is required to adequately address the risks related
+
+to a financial reporting element, management should analyze the risk characteristics of
+
+the controls. This is because the controls associated with a given financial reporting
+
+element may not necessarily share the same risk characteristics. For example, a financial
+
+reporting element involving significant estimation may require a combination of
+
+automated controls that accumulate source data and manual controls that require highly
+
+judgmental determinations of assumptions. In this case, the automated controls may be
+
+subject to a system that is stable (that is, has not undergone significant change) and is
+
+supported by effective IT general controls and are therefore assessed as lower risk,
+
+whereas the manual controls would be assessed as higher risk.
+
+       The consideration of entity-level controls (for example, controls within the
+
+control environment) may influence management’s determination of the evidence needed
+
+to sufficiently support its assessment of ICFR. For example, management’s judgment
+
+about the likelihood that a control fails to operate effectively may be influenced by a
+
+highly effective control environment and thereby impact the evidence evaluated for that
+
+control. However, a strong control environment would not eliminate the need to evaluate
+
+the operation of the control in some manner.
+
+b. Implementing Procedures to Evaluate Evidence of the Operation of ICFR
+
+       Management should evaluate evidence that provides a reasonable basis for its
+
+assessment of the operating effectiveness of the controls identified in Section II.A.1.
+
+Management uses its assessment of ICFR risk, as determined in Section II.A.2 to
+
+
+
+
+                                          Page 27
+
+=== PAGE 28 ===
+determine the evaluation methods and procedures necessary to obtain sufficient evidence.
+
+The evaluation methods and procedures may be integrated with the daily responsibilities
+
+of its employees or implemented specifically for purposes of the ICFR evaluation.
+
+Activities that are performed for other reasons (for example, day-to-day activities to
+
+manage the operations of the business) may also provide relevant evidence. Further,
+
+activities performed to meet the monitoring objectives of the control framework may
+
+provide evidence to support the assessment of the operating effectiveness of ICFR.
+
+        The evidence management evaluates comes from direct tests of controls, on-going
+
+monitoring, or a combination of both. Direct tests of controls are tests ordinarily
+
+performed on a periodic basis by individuals with a high degree of objectivity relative to
+
+the controls being tested. Direct tests provide evidence as of a point in time and may
+
+provide information about the reliability of on-going monitoring activities. On-going
+
+monitoring includes management’s normal, recurring activities that provide information
+
+about the operation of controls. These activities include, for example, self-assessment 43
+
+procedures and procedures to analyze performance measures designed to track the
+
+operation of controls. 44 Self-assessment is a broad term that can refer to different types
+
+of procedures performed by individuals with varying degrees of objectivity. It includes
+
+assessments made by the personnel who operate the control as well as members of
+
+management who are not responsible for operating the control. The evidence provided
+
+43
+  For example, COSO’s 1992 framework defines self-assessments as “evaluations where persons
+responsible for a particular unit or function will determine the effectiveness of controls for their
+activities.”
+44
+  Management’s evaluation process may also consider the results of key performance indicators
+(“KPIs”) in which management reconciles operating and financial information with its knowledge
+of the business. The procedures that management implements pursuant to this section should
+evaluate the effective operation of these KPI-type controls when they are identified pursuant to
+Section II.A.1.b. as addressing financial reporting risk.
+
+
+                                             Page 28
+
+=== PAGE 29 ===
+by self-assessment activities depends on the personnel involved and the manner in which
+
+the activities are conducted. For example, evidence from self-assessments performed by
+
+personnel responsible for operating the control generally provides less evidence due to
+
+the evaluator’s lower degree of objectivity.
+
+       As the ICFR risk increases, management will ordinarily adjust the nature of the
+
+evidence that is obtained. For example, management can increase the evidence from on-
+
+going monitoring activities by utilizing personnel who are more objective and/or
+
+increasing the extent of validation through periodic direct testing of the underlying
+
+controls. Management can also vary the evidence obtained by adjusting the period of
+
+time covered by direct testing. When ICFR risk is assessed as high, the evidence
+
+management obtains would ordinarily consist of direct testing or on-going monitoring
+
+activities performed by individuals who have a higher degree of objectivity. In situations
+
+where a company’s on-going monitoring activities utilize personnel who are not
+
+adequately objective, the evidence obtained would normally be supplemented with direct
+
+testing by those who are independent from the operation of the control. In these
+
+situations, direct testing of controls corroborates evidence from on-going monitoring
+
+activities as well as evaluates the operation of the underlying controls and whether they
+
+continue to adequately address financial reporting risks. When ICFR risk is assessed as
+
+low, management may conclude that evidence from on-going monitoring is sufficient and
+
+that no direct testing is required. Further, management’s evaluation would ordinarily
+
+consider evidence from a reasonable period of time during the year, including the fiscal
+
+year-end.
+
+
+
+
+                                          Page 29
+
+=== PAGE 30 ===
+       In smaller companies, management’s daily interaction with its controls may
+
+provide it with sufficient knowledge about their operation to evaluate the operation of
+
+ICFR. Knowledge from daily interaction includes information obtained by on-going
+
+direct involvement with and direct supervision of the execution of the control by those
+
+responsible for the assessment of the effectiveness of ICFR. Management should
+
+consider its particular facts and circumstances when determining whether its daily
+
+interaction with controls provides sufficient evidence to evaluate the operating
+
+effectiveness of ICFR. For example, daily interaction may be sufficient when the
+
+operation of controls is centralized and the number of personnel involved is limited.
+
+Conversely, daily interaction in companies with multiple management reporting layers or
+
+operating segments would generally not provide sufficient evidence because those
+
+responsible for assessing the effectiveness of ICFR would not ordinarily be sufficiently
+
+knowledgeable about the operation of the controls. In these situations, management
+
+would ordinarily utilize direct testing or on-going monitoring-type evaluation procedures
+
+to obtain reasonable support for the assessment.
+
+       Management evaluates the evidence it gathers to determine whether the operation
+
+of a control is effective. This evaluation considers whether the control operated as
+
+designed. It also considers matters such as how the control was applied, the consistency
+
+with which it was applied, and whether the person performing the control possesses the
+
+necessary authority and competence to perform the control effectively. If management
+
+determines that the operation of the control is not effective, a deficiency exists that must
+
+be evaluated to determine whether it is a material weakness.
+
+
+
+
+                                          Page 30
+
+=== PAGE 31 ===
+c. Evidential Matter to Support the Assessment
+
+       Management’s assessment must be supported by evidential matter that provides
+
+reasonable support for its assessment. The nature of the evidential matter may vary based
+
+on the assessed level of ICFR risk of the underlying controls and other circumstances.
+
+Reasonable support for an assessment would include the basis for management’s
+
+assessment, including documentation of the methods and procedures it utilizes to gather
+
+and evaluate evidence.
+
+       The evidential matter may take many forms and will vary depending on the
+
+assessed level of ICFR risk for controls over each of its financial reporting elements. For
+
+example, management may document its overall strategy in a comprehensive
+
+memorandum that establishes the evaluation approach, the evaluation procedures, the
+
+basis for management’s conclusion about the effectiveness of controls related to the
+
+financial reporting elements and the entity-level and other pervasive elements that are
+
+important to management’s assessment of ICFR.
+
+       If management determines that the evidential matter within the company’s books
+
+and records is sufficient to provide reasonable support for its assessment, it may
+
+determine that it is not necessary to separately maintain copies of the evidence it
+
+evaluates. For example, in smaller companies, where management’s daily interaction
+
+with its controls provides the basis for its assessment, management may have limited
+
+documentation created specifically for the evaluation of ICFR. However, in these
+
+instances, management should consider whether reasonable support for its assessment
+
+would include documentation of how its interaction provided it with sufficient evidence.
+
+
+
+
+                                          Page 31
+
+=== PAGE 32 ===
+This documentation might include memoranda, e-mails, and instructions or directions to
+
+and from management to company employees.
+
+       Further, in determining the nature of supporting evidential matter, management
+
+should also consider the degree of complexity of the control, the level of judgment
+
+required to operate the control, and the risk of misstatement in the financial reporting
+
+element that could result in a material misstatement of the financial statements. As these
+
+factors increase, management may determine that evidential matter supporting the
+
+assessment should be separately maintained. For example, management may decide that
+
+separately maintained documentation in certain areas will assist the audit committee in
+
+exercising its oversight of the company’s financial reporting.
+
+       The evidential matter constituting reasonable support for management’s
+
+assessment would ordinarily include documentation of how management formed its
+
+conclusion about the effectiveness of the company’s entity-level and other pervasive
+
+elements of ICFR that its applicable framework describes as necessary for an effective
+
+system of internal control.
+
+3. Multiple Location Considerations
+
+       Management’s consideration of financial reporting risks generally includes all of
+
+its locations or business units. 45 Management may determine that financial reporting
+
+risks are adequately addressed by controls which operate centrally, in which case the
+
+evaluation approach is similar to that of a business with a single location or business unit.
+
+When the controls necessary to address financial reporting risks operate at more than one
+
+
+45
+   Consistent with the guidance in Section II.A.1., management may determine when identifying
+financial reporting risks that some locations are so insignificant that no further evaluation
+procedures are needed.
+
+
+                                           Page 32
+
+=== PAGE 33 ===
+location or business unit, management would generally evaluate evidence of the
+
+operation of the controls at the individual locations or business units.
+
+        Management may determine that the ICFR risk of the controls (as determined
+
+through Section II.A.2.a) that operate at individual locations or business units is low. In
+
+such situations, management may determine that evidence gathered through self-
+
+assessment routines or other on-going monitoring activities, when combined with the
+
+evidence derived from a centralized control that monitors the results of operations at
+
+individual locations, constitutes sufficient evidence for the evaluation. In other
+
+situations, management may determine that, because of the complexity or judgment in the
+
+operation of the controls at the individual location, the risk that controls will fail to
+
+operate is high, and therefore more evidence is needed about the effective operation of
+
+the controls at the location.
+
+        Management should generally consider the risk characteristics of the controls for
+
+each financial reporting element, rather than making a single judgment for all controls at
+
+that location when deciding whether the nature and extent of evidence is sufficient.
+
+When performing its evaluation of the risk characteristics of the controls identified,
+
+management should consider whether there are location-specific risks that might impact
+
+the risk that a control might fail to operate effectively. Additionally, there may be
+
+pervasive risk factors that exist at a location that cause all controls, or a majority of
+
+controls, at that location to be considered higher risk.
+
+
+
+
+                                            Page 33
+
+=== PAGE 34 ===
+B. Reporting Considerations
+
+1. Evaluation of Control Deficiencies
+
+        In order to determine whether a control deficiency, or combination of control
+
+deficiencies, is a material weakness, management evaluates the severity of each control
+
+deficiency that comes to its attention. Control deficiencies that are determined to be a
+
+material weakness must be disclosed in management’s annual report on its assessment of
+
+the effectiveness of ICFR. Control deficiencies that are considered to be significant
+
+deficiencies are reported to the company’s audit committee and the external auditor
+
+pursuant to management’s compliance with the certification requirements in Exchange
+
+Act Rule 13a-14. 46
+
+        Management may not disclose that it has assessed ICFR as effective if one or
+
+more deficiencies in ICFR are determined to be a material weakness. As part of the
+
+evaluation of ICFR, management considers whether each deficiency, individually or in
+
+combination, is a material weakness as of the end of the fiscal year. Multiple control
+
+deficiencies that affect the same financial statement amount or disclosure increase the
+
+likelihood of misstatement and may, in combination, constitute a material weakness if
+
+there is a reasonable possibility 47 that a material misstatement of the financial statements
+
+
+46
+   Pursuant to Exchange Act Rules 13a-14 and 15d-14 [17 CFR 240.13a-14 and 240.15d-14],
+management discloses to the auditors and to the audit committee of the board of directors (or
+persons fulfilling the equivalent function) all material weaknesses and significant deficiencies in
+the design or operation of internal controls which could adversely affect the issuer's ability to
+record, process, summarize and report financial data. The term “material weakness” is defined in
+the Commission’s rules in Exchange Act Rule 12b-2 and Rule 1-02 of Regulation S-X. See
+Release No. 34-55928. The Commission is seeking additional comment on the definition of the
+term “significant deficiency” in the Commission’s rules in Exchange Act Rule 12b-2 and Rule 1-
+02 of Regulation S-X. See Release No. 34-55930.
+47
+  There is a reasonable possibility of an event when the likelihood of the event is either
+“reasonably possible” or “probable” as those terms are used in Financial Accounting Standards
+Board Statement No. 5, Accounting for Contingencies. The use of the phrase “reasonable
+
+
+                                             Page 34
+
+=== PAGE 35 ===
+would not be prevented or detected in a timely manner, even though such deficiencies
+
+may be individually less severe than a material weakness. Therefore, management
+
+should evaluate individual control deficiencies that affect the same financial statement
+
+amount or disclosure, or component of internal control, to determine whether they
+
+collectively result in a material weakness.
+
+         The evaluation of the severity of a control deficiency should include both
+
+quantitative and qualitative factors. Management evaluates the severity of a deficiency in
+
+ICFR by considering whether there is a reasonable possibility that the company's ICFR
+
+will fail to prevent or detect a misstatement of a financial statement amount or disclosure;
+
+and the magnitude of the potential misstatement resulting from the deficiency or
+
+deficiencies. The severity of a deficiency in ICFR does not depend on whether a
+
+misstatement actually has occurred but rather on whether there is a reasonable possibility
+
+that the company’s ICFR will fail to prevent or detect a misstatement on a timely basis.
+
+         Risk factors affect whether there is a reasonable possibility 48 that a deficiency, or
+
+a combination of deficiencies, will result in a misstatement of a financial statement
+
+amount or disclosure. These factors include, but are not limited to, the following:
+
+     •   The nature of the financial reporting elements involved (for example, suspense
+
+         accounts and related party transactions involve greater risk);
+
+
+
+
+possibility that a material misstatement of the financial statements would not be prevented or
+detected in a timely manner” is intended solely to assist management in identifying matters for
+disclosure under Item 308 of Regulation S-K. It is not intended to interpret or describe
+management’s responsibility under the FCPA or modify a control framework’s definition of what
+constitutes an effective system of internal control.
+48
+  The evaluation of whether a deficiency in ICFR presents a reasonable possibility of
+misstatement can be made without quantifying the probability of occurrence as a specific
+percentage or range.
+
+
+                                            Page 35
+
+=== PAGE 36 ===
+   •   The susceptibility of the related asset or liability to loss or fraud (that is, greater
+
+       susceptibility increases risk);
+
+   •   The subjectivity, complexity, or extent of judgment required to determine the
+
+       amount involved (that is, greater subjectivity, complexity, or judgment, like that
+
+       related to an accounting estimate, increases risk);
+
+   •   The interaction or relationship of the control with other controls, including
+
+       whether they are interdependent or redundant;
+
+   •   The interaction of the deficiencies (that is, when evaluating a combination of two
+
+       or more deficiencies, whether the deficiencies could affect the same financial
+
+       statement amounts or disclosures); and
+
+   •   The possible future consequences of the deficiency.
+
+       Factors that affect the magnitude of the misstatement that might result from a
+
+deficiency or deficiencies in ICFR include, but are not limited to, the following:
+
+   •   The financial statement amounts or total of transactions exposed to the deficiency;
+
+       and
+
+   •   The volume of activity in the account balance or class of transactions exposed to
+
+       the deficiency that has occurred in the current period or that is expected in future
+
+       periods.
+
+       In evaluating the magnitude of the potential misstatement, the maximum amount
+
+that an account balance or total of transactions can be overstated is generally the recorded
+
+amount, while understatements could be larger. Also, in many cases, the probability of a
+
+small misstatement will be greater than the probability of a large misstatement.
+
+
+
+
+                                           Page 36
+
+=== PAGE 37 ===
+         Management should evaluate the effect of compensating controls 49 when
+
+determining whether a control deficiency or combination of deficiencies is a material
+
+weakness. To have a mitigating effect, the compensating control should operate at a level
+
+of precision that would prevent or detect a misstatement that could be material.
+
+         In determining whether a deficiency or a combination of deficiencies represents a
+
+material weakness, management considers all relevant information. Management should
+
+evaluate whether the following situations indicate a deficiency in ICFR exists and, if so,
+
+whether it represents a material weakness:
+
+     •   Identification of fraud, whether or not material, on the part of senior
+
+         management; 50
+
+     •   Restatement of previously issued financial statements to reflect the correction of a
+
+         material misstatement; 51
+
+     •   Identification of a material misstatement of the financial statements in the current
+
+         period in circumstances that indicate the misstatement would not have been
+
+         detected by the company's ICFR; and
+
+     •   Ineffective oversight of the company’s external financial reporting and internal
+
+         control over financial reporting by the company’s audit committee.
+
+         When evaluating the severity of a deficiency, or combination of deficiencies, in
+
+ICFR, management also should determine the level of detail and degree of assurance that
+49
+  Compensating controls are controls that serve to accomplish the objective of another control
+that did not function properly, helping to reduce risk to an acceptable level.
+50
+  For purposes of this indicator, the term “senior management” includes the principal executive
+and financial officers signing the company’s certifications as required under Section 302 of
+Sarbanes Oxley as well as any other members of senior management who play a significant role
+in the company’s financial reporting process.
+51
+ See FAS 154, Accounting Changes and Error Corrections, regarding correction of a
+misstatement.
+
+
+                                            Page 37
+
+=== PAGE 38 ===
+would satisfy prudent officials in the conduct of their own affairs that they have
+
+reasonable assurance that transactions are recorded as necessary to permit the preparation
+
+of financial statements in conformity with GAAP. If management determines that the
+
+deficiency, or combination of deficiencies, might prevent prudent officials in the conduct
+
+of their own affairs from concluding that they have reasonable assurance that transactions
+
+are recorded as necessary to permit the preparation of financial statements in conformity
+
+with GAAP, then management should treat the deficiency, or combination of
+
+deficiencies, as an indicator of a material weakness.
+
+2. Expression of Assessment of Effectiveness of ICFR by Management
+
+        Management should clearly disclose its assessment of the effectiveness of ICFR
+
+and, therefore, should not qualify its assessment by stating that the company’s ICFR is
+
+effective subject to certain qualifications or exceptions. For example, management
+
+should not state that the company’s controls and procedures are effective except to the
+
+extent that certain material weakness(es) have been identified. In addition, if a material
+
+weakness exists, management may not state that the company’s ICFR is effective.
+
+However, management may state that controls are ineffective for specific reasons.
+
+3. Disclosures about Material Weaknesses
+
+        The Commission’s rule implementing Section 404 was intended to bring
+
+information about material weaknesses in ICFR into public view. Because of the
+
+significance of the disclosure requirements surrounding material weaknesses beyond
+
+specifically stating that the material weaknesses exist, companies should also consider
+
+including the following in their disclosures: 52
+
+52
+  Significant deficiencies in ICFR are not required to be disclosed in management’s annual report
+on its evaluation of ICFR required by Item 308(a).
+
+
+                                            Page 38
+
+=== PAGE 39 ===
+      •   The nature of any material weakness,
+
+      •   Its impact on the company’s financial reporting and its ICFR, and
+
+      •   Management’s current plans, if any, or actions already undertaken, for
+
+          remediating the material weakness.
+
+          Disclosure of the existence of a material weakness is important, but there is other
+
+information that also may be material and necessary to form an overall picture that is not
+
+misleading. 53 The goal underlying all disclosure in this area is to provide an investor
+
+with disclosure and analysis that goes beyond describing the mere existence of a material
+
+weakness. There are many different types of material weaknesses and many different
+
+factors that may be important to the assessment of the potential effect of any particular
+
+material weakness. While management is required to conclude and state in its report that
+
+ICFR is ineffective when there are one or more material weaknesses, companies should
+
+also consider providing disclosure that allows investors to understand the cause of the
+
+control deficiency and to assess the potential impact of each particular material weakness.
+
+This disclosure will be more useful to investors if management differentiates the potential
+
+impact and importance to the financial statements of the identified material weaknesses,
+
+including distinguishing those material weaknesses that may have a pervasive impact on
+
+ICFR from those material weaknesses that do not.
+
+4. Impact of a Restatement of Previously Issued Financial Statements on
+    Management’s Report on ICFR
+
+          Item 308 of Regulation S-K requires disclosure of management’s assessment of
+
+the effectiveness of the company’s ICFR as of the end of the company’s most recent
+
+fiscal year. When a material misstatement of previously issued financial statements is
+
+53
+     See Exchange Act Rule 12b-20 [17 CFR 240.12b-20].
+
+
+                                            Page 39
+
+=== PAGE 40 ===
+discovered, a company is required to restate those financial statements. However, the
+
+restatement of financial statements does not, by itself, necessitate that management
+
+consider the effect of the restatement on the company’s prior conclusion related to the
+
+effectiveness of ICFR.
+
+       While there is no requirement for management to reassess or revise its conclusion
+
+related to the effectiveness of ICFR, management should consider whether its original
+
+disclosures are still appropriate and should modify or supplement its original disclosure
+
+to include any other material information that is necessary for such disclosures not to be
+
+misleading in light of the restatement. The company should also disclose any material
+
+changes to ICFR, as required by Item 308(c) of Regulation S-K.
+
+       Similarly, while there is no requirement that management reassess or revise its
+
+conclusion related to the effectiveness of its disclosure controls and procedures,
+
+management should consider whether its original disclosures regarding effectiveness of
+
+disclosure controls and procedures need to be modified or supplemented to include any
+
+other material information that is necessary for such disclosures not to be misleading.
+
+With respect to the disclosures concerning ICFR and disclosure controls and procedures,
+
+the company may need to disclose in this context what impact, if any, the restatement has
+
+on its original conclusions regarding effectiveness of ICFR and disclosure controls and
+
+procedures.
+
+5.     Inability to Assess Certain Aspects of ICFR
+
+       In certain circumstances, management may encounter difficulty in assessing
+
+certain aspects of its ICFR. For example, management may outsource a significant
+
+process to a service organization and determine that evidence of the operating
+
+
+
+
+                                          Page 40
+
+=== PAGE 41 ===
+effectiveness of the controls over that process is necessary. However, the service
+
+organization may be unwilling to provide either a Type 2 SAS 70 report or to provide
+
+management access to the controls in place at the service organization so that
+
+management could assess effectiveness. 54 Finally, management may not have
+
+compensating controls in place that allow a determination of the effectiveness of the
+
+controls over the process in an alternative manner. The Commission’s disclosure
+
+requirements state that management’s annual report on ICFR must include a statement as
+
+to whether or not ICFR is effective and do not permit management to issue a report on
+
+ICFR with a scope limitation. 55 Therefore, management must determine whether the
+
+inability to assess controls over a particular process is significant enough to conclude in
+
+its report that ICFR is not effective.
+
+
+
+
+54
+   AU Sec. 324, Service Organizations (as adopted on an interim basis by the Public Company
+Accounting Oversight Board (“PCAOB”) in PCAOB Rule 3200T), defines a report on controls
+placed in operation and test of operating effectiveness, commonly referred to as a “Type 2 SAS
+70 report.” This report is a service auditor's report on a service organization's description of the
+controls that may be relevant to a user organization's internal control as it relates to an audit of
+financial statements, on whether such controls were suitably designed to achieve specified control
+objectives, on whether they had been placed in operation as of a specific date, and on whether the
+controls that were tested were operating with sufficient effectiveness to provide reasonable, but
+not absolute, assurance that the related control objectives were achieved during the period
+specified.
+55
+     See Item 308(a)(3) of Regulations S-K and S-B [17 CFR 229.308(a)(3) and 228.308(a)(3)].
+
+
+                                             Page 41
+
+=== PAGE 42 ===
+III. Discussion of Comments on the Proposing Release
+
+        The Proposing Release proposed for public comment interpretive guidance for
+
+management regarding the annual evaluation of ICFR required by Rules 13a-15(c) and
+
+15d-15(c) under the Exchange Act. We received letters from 211 commenters in
+
+response to the Proposing Release. 56 The majority of commenters were supportive of the
+
+Commission’s efforts in developing this Interpretive Guidance. We have reviewed and
+
+considered all of the comments received on the proposal, and we discuss our conclusions
+
+with respect to the comments in more detail in the following sections.
+
+A. Alignment between Management’s Evaluation and Assessment and the External
+   Audit
+
+        Commenters expressed concern that confusion and inefficiencies may arise from
+
+differences between the proposed guidance for management’s evaluation of ICFR and the
+
+PCAOB’s proposed auditing standard for ICFR. 57 Commenters cited a lack of alignment
+
+between the two with regard to the terminology and definitions used 58 as well as
+
+
+56
+  Of the 211 commenters, 43 were issuers, 33 professional associations and business groups, 19
+foreign private issuers and foreign professional associations, 10 investor advocacy and other
+similar groups, 8 major accounting firms, 11 smaller accounting firms and Section 404 service
+providers, 8 banks and banking associations, 4 law firms and law associations, and 75 other
+interested parties including students, academics, and other individuals. The comment letters are
+available for inspection in the Commission’s Public Reference Room at 100 F Street, NE,
+Washington DC 20549 in File No. S7-24-06, or may be viewed at
+http://www.sec.gov/comments/s7-24-06/s72406.shtml.
+57
+  In PCAOB Release No. 2006-007 the PCAOB proposed for public comment An Audit of
+Internal Control Over Financial Reporting That Is Integrated With An Audit of Financial
+Statements and Considering and Using the Work of Others in an Audit. See
+http://www.pcaobus.org/Rules/Docket_021/2006-12-19_Release_No._2006-007.pdf (hereinafter
+“Proposed Auditing Standard”).
+58
+  See, for example, letters from American Bar Association’s Committees on Federal Regulation
+of Securities and Law and Accounting of the Section of Business Law (ABA), Association of
+Chartered Certified Accountants (ACCA), Edison Electric Institute (EEI), European Federation of
+Accountants (FEE), Financial Executives International Committee on Corporate Reporting (FEI
+CCR), Frank Gorrell (F. Gorrell), Society of Corporate Secretaries and Governance Professionals,
+and The Institute of Chartered Accountants in England and Wales (ICAEW).
+
+
+                                            Page 42
+
+=== PAGE 43 ===
+differences in the overall approach. Some commenters that were supportive of the
+
+principles-based approach to the proposed interpretive guidance expressed concern that
+
+improvements in the efficiency of management’s evaluation of ICFR would be limited by
+
+what they viewed as comparatively more prescriptive guidance for external auditors in
+
+the Proposed Auditing Standard. 59 Other commenters suggested that maximizing their
+
+auditor’s ability to rely on the work performed in management’s evaluation would require
+
+aligning the evaluation approach for management with the Proposed Auditing Standard. 60
+
+Even so, some of these commenters still viewed the interpretive guidance as an
+
+improvement because it provides management the ability to choose whether, and to what
+
+extent, it should align its evaluation with the auditing standard; whereas commenters said
+
+that management feels compelled to align with the auditing standard under the current
+
+rules. Other commenters suggested that the proposed interpretive guidance was
+
+compatible with the Proposed Auditing Standard and that improvements in
+
+implementation could be attained with close coordination between management and
+
+auditors. 61
+
+          In response to the comment letters, we have revised our proposal to more closely
+
+align it with how we anticipate the PCAOB will revise its proposed auditing standard.
+
+For example, the definition of a material weakness and the related guidance for
+
+
+
+
+59
+  See, for example, letters from Eli Lilly and Company (Eli Lilly), FEI CCR, Hutchinson
+Technology Inc. (Hutchinson), Independent Community Bankers of America (ICBA), MetLife
+Inc. (MetLife), Procter & Gamble Company (P&G), and Supervalu Inc. (Supervalu).
+60
+     See, for example, letters from Heritage Financial Corporation and Southern Company.
+61
+  See, for example, letters from BDO Seidman LLP (BDO), McGladrey & Pullen LLP (M&P),
+and PricewaterhouseCoopers LLP (PwC).
+
+
+                                             Page 43
+
+=== PAGE 44 ===
+evaluating deficiencies, including indicators of a material weakness, have been revised. 62
+
+In addition, alignment revisions were made to the guidance for evaluating whether
+
+controls adequately address financial reporting risks, including entity-level controls, the
+
+factors to consider when identifying financial reporting risks and the factors for assessing
+
+the risk associated with individual financial reporting elements and controls.
+
+        However, some differences between our final interpretive guidance for
+
+management and the PCAOB’s audit standard remain. These differences are not
+
+necessarily contradictions or misalignment; rather they reflect the fact that management
+
+and the auditor have different roles and responsibilities with respect to evaluating and
+
+auditing ICFR. Management is responsible for designing and maintaining ICFR and
+
+performing an evaluation annually that provides it with a reasonable basis for its
+
+assessment as to whether ICFR is effective as of fiscal year-end. Management's daily
+
+involvement with its internal control system provides it with knowledge and information
+
+that may influence its judgments about how best to conduct the evaluation and the
+
+sufficiency of evidence it needs to assess the effectiveness of ICFR. In contrast, the
+
+auditor is responsible for conducting an independent audit that includes appropriate
+
+professional skepticism. Moreover, the audit of ICFR is integrated with the audit of the
+
+company’s financial statements. While there is a close relationship between the work
+
+performed by management and its auditor, the ICFR audit will not necessarily be limited
+
+to the nature and extent of procedures management has already performed as part of its
+
+evaluation of ICFR. There will be differences in the approaches used by management
+
+and the auditor because the auditor does not have the same information and
+
+62
+  The revisions made to the proposed definition of material weakness and the related guidance,
+including the strong indicators, are discussed in Section III.F. of this document.
+
+
+                                            Page 44
+
+=== PAGE 45 ===
+understanding as management and because the auditor will need to integrate its tests of
+
+ICFR with the financial statement audit. We agree with those commenters that suggested
+
+coordination between management and auditors on their respective efforts will ensure
+
+that both the evaluation by management and the independent audit are completed in an
+
+efficient and effective manner.
+
+B. Principles-based Nature of Guidance for Conducting the Evaluation
+
+          The guidance is intended to assist management in complying with two broad
+
+principles: (1) evaluate whether controls have been implemented to adequately address
+
+the risk that a material misstatement of the financial statements would not be prevented or
+
+detected in a timely manner and (2) evaluate evidence about the operation of controls
+
+based on an assessment of risk. We believe the guidance will enable companies of all
+
+sizes and complexities to comply with our rules effectively and efficiently.
+
+          Commenters expressed support for the proposed guidance’s principles-based
+
+approach. 63 However, some requested that the proposal be revised to include additional
+
+guidance and illustrative examples in the following areas: 64
+
+               •   the identification of controls that address financial reporting risks; 65
+
+               •   the assessment of ICFR risk, including how evidence gained over prior
+
+                   periods should impact management’s assessment of risks associated with
+
+
+
+63
+  See, for example, letters from ACE Limited (ACE), American Electric Power Company, Inc.
+(AEP), Business Roundtable (BR), Canadian Bankers Association, Center for Audit Quality
+(Center), Ernst & Young LLP (EY), Grant Thornton LLP (GT), ING Groep N.V. (ING),
+Manulife Financial (Manulife), PwC, P&G, and Reznick Group, P.C. (Reznick).
+64
+  See, for example, letters from Brown-Forman, Ford Motor Company, MasterCard Incorporated
+(MasterCard), Northrop Grumman Corporation, Supervalu, UFP Technologies (UFP), and
+UnumProvident Corporation (UnumProvident).
+65
+     See, for example, letter from Nina Stofberg (N. Stofberg).
+
+
+                                               Page 45
+
+=== PAGE 46 ===
+                  controls identified and therefore, the evidence needed to support its
+
+                  assessment; 66
+
+              •   how varying levels of risk impact the nature of the evidence necessary to
+
+                  support its assessment; 67
+
+              •   when on-going monitoring activities, including self-assessments, could be
+
+                  used to support management’s assessment and reduce direct testing; 68
+
+              •   sampling techniques, sample sizes, and testing methods; 69
+
+              •   the type and manner in which supporting evidence should be
+
+                  maintained; 70 including specific guidelines regarding the amount, form
+
+                  and medium of evidence; 71 and
+
+              •   how management should document the effectiveness of monitoring
+
+                  activities utilized to support its assessment, as well as how management
+
+                  should support the evidence obtained from its daily interaction with
+
+                  controls as part of its assessment. 72
+
+
+66
+ See, for example, letters from ISACA and IT Governance Institute (ISACA), Manulife, and
+Ohio Society of Certified Public Accountants (Ohio).
+67
+ See, for example, letters from Cardinal Health, Inc. (Cardinal), Cleary Gottlieb Steen &
+Hamilton LLP (Cleary), and ISACA.
+68
+  See, for example, letters from BASF Aktiengesellschaft (BASF), Cardinal, Computer Sciences
+Corporation (CSC), ING, ISACA, Ohio, PPL Corporation (PPL), R. Malcolm Schwartz, N.
+Stofberg, and UnumProvident.
+69
+  See, for example, letters from BDO, National Association of Real Estate Investment Trusts,
+Reznick, and UFP.
+70
+  See, for example, letters from AEP, BDO, Center, EEI, Frank Consulting, PLLP (Frank), The
+Hundred Group of Finance Directors (100 Group), Institut Der Wirtschaftsprufer [Institute of
+Public Auditors in Germany] (IDW), Managed Funds Association (MFA), Nasdaq Stock Market,
+Inc. (Nasdaq), Ohio, N. Stofberg, and UFP.
+71
+     See, for example, letter from Nasdaq.
+72
+     See, for example, letters from BDO and Center.
+
+
+                                               Page 46
+
+=== PAGE 47 ===
+        We have considered the requests for additional guidance and decided to retain the
+
+principles-based nature of the proposed guidance. We believe an evaluation of ICFR will
+
+be most effective and efficient when management makes use of all available facts and
+
+information to make reasonable judgments about the evaluation methods and procedures
+
+that are necessary to have a reasonable basis for the assessment of the effectiveness of
+
+ICFR and the evidential matter maintained in support of the assessment. Additional
+
+guidance and examples in the areas requested would likely have the negative
+
+consequence of establishing “bright line” or “one-size fits all” evaluation approaches.
+
+Such an outcome would be contrary to our view that the evaluations must be tailored to a
+
+company’s individual facts and circumstances to be both effective and efficient.
+
+Moreover, an evaluation by management that is focused on compliance with detailed
+
+guidance, rather than the risks to the reliability of its financial reporting, would likely
+
+lead to evaluations that are inefficient, ineffective or both.
+
+        Detailed guidance and examples from the Commission may also limit or hinder
+
+the natural evolution and further development of control frameworks and evaluation
+
+methodologies as technology, control systems, and financial reporting evolve. As we
+
+have previously stated, the Commission supports and encourages the further development
+
+of control frameworks and related implementation guidance. For example, the July 2006
+
+small business guidance issued by COSO addresses the identification of financial
+
+reporting risks and the related controls. Additionally, we note that COSO is currently
+
+working on a project to further define how the effectiveness of control systems can be
+
+
+
+
+                                           Page 47
+
+=== PAGE 48 ===
+monitored. 73 As such, companies may find that there are other sources for the additional
+
+guidance in the areas they are seeking.
+
+          Commenters also expressed the view that companies may abuse the flexibility
+
+afforded by the proposed principles-based guidance to perform inadequate evaluations,
+
+thereby undermining the intended investor protection benefits. 74 Other commenters have
+
+observed that material weakness disclosures to investors are too often simultaneous with,
+
+rather than in advance of, the restatement of financial statements, which undermines the
+
+usefulness of the disclosures. 75 In response to these comments, we note that this
+
+principles-based guidance enables management to tailor its evaluation so that it focuses
+
+on those areas of financial reporting that pose the highest risk to reliable financial
+
+reporting. We believe that a tailored evaluation approach that focuses resources on areas
+
+of highest risk will improve, rather than degrade, the effectiveness of many company’s
+
+evaluations and improve the timeliness of material weakness disclosures to investors.
+
+C. Scalability and Small Business Considerations
+
+          Commenters believed that the proposed interpretive guidance can be scaled to
+
+companies of all sizes and will benefit smaller public companies in completing their
+
+
+
+
+73
+   In a press release on January 8, 2007, COSO announced that Grant Thornton LLP had been
+commissioned to develop guidance to help organizations monitor the quality of their internal
+control systems. According to that press release, the guidance will serve as a tool for effectively
+monitoring internal controls while complying with Sarbanes-Oxley. The press release is
+available at
+http://www.coso.org/Publications/COSO%20Monitoring%20GT%20Final%20Release_1.8.07.pd
+f.
+74
+ See, for example, letters from Joseph V. Carcello, Consumer Federation of America, Consumer
+Action, U.S. Public Interest Research Group (CFA), and Moody’s Investors Service (Moody’s).
+75
+     See, for example, letters from CFA and Moody’s.
+
+
+                                             Page 48
+
+=== PAGE 49 ===
+assessments. 76 However, some commenters requested more guidance to enable them to
+
+conduct the evaluation in an effective and efficient manner. For example, commenters
+
+requested more guidance on how some of the unique characteristics of smaller
+
+companies, including a lack of segregation of duties, should be considered in the
+
+evaluation. 77
+
+        Other commenters, mostly comprised of investor groups, requested that the
+
+guidance emphasize that scaled or tailored evaluation methods and procedures for smaller
+
+public companies should be based on both the size and complexity of the business and do
+
+not imply less rigorous evaluation methods and procedures. 78
+
+        Some commenters indicated that smaller public companies should continue to be
+
+exempt at least until a thorough examination is conducted of both the Interpretive
+
+Guidance and the new Auditing Standard to ensure that smaller companies are not
+
+disproportionately burdened. 79 Some commenters requested that the SEC further delay
+
+
+
+76
+ See, for example, letters from American Bankers Association (American Bankers), Anthony S.
+Chan, Chandler (U.S.A.), Inc. (Chandler), CNB Corporation & Citizens National Bank of
+Cheboygan (CNB), Financial Services Forum, GT, Greater Boston Chamber of Commerce,
+Minn-Dak Farmers Cooperative (MDFC), RAM Energy Resources, Inc., and San Jose Water
+Company.
+77
+  See, for example, letters from American Electronics Association (AeA), EY, Financial
+Executives International Small Public Company Task Force (FEI SPCTF), Frank, Institute of
+Management Accountants (IMA), MFA, U.S. Chamber of Commerce (Chamber), and U.S. Small
+Business Administration’s Office of Advocacy (SBA).
+78
+  See, for example, letters from California Public Employees’ Retirement System (CalPERS),
+CFA, Council of Institutional Investors, Ethics Resource Center, International Brotherhood of
+Teamsters, and Pension Reserves Investment Management Board (PRIMB).
+79
+  See, for example, letters from AeA, Biotechnology Industry Organization, Committee on
+Capital Markets Regulation (CCMR), Financial Reporting Committee of the Association of the
+Bar of the City of New York (NYC Bar), International Association of Small Broker Dealers and
+Advisers, National Venture Capital Association, SBA, Silicon Valley Leadership Group (SVLG),
+Small Business Entrepreneurship Council, TechNet, and Telecommunications Industry
+Association.
+
+
+                                            Page 49
+
+=== PAGE 50 ===
+the implementation for one additional year80 or continued to call for a complete
+
+exemption from Section 404 for smaller public companies. 81 Other commenters
+
+requested that smaller public companies not be exempted. 82
+
+          We believe the principles-based guidance permits flexible and scalable evaluation
+
+approaches that will enable management of smaller public companies to evaluate and
+
+assess the effectiveness of ICFR without undue cost burdens. The guidance recognizes
+
+that internal control systems and the methods and procedures necessary to evaluate their
+
+effectiveness may be different in smaller public companies than in larger companies.
+
+However, the flexibility provided in the guidance is not meant to imply that evaluations
+
+for smaller public companies be conducted with less rigor, or to provide anything less
+
+than reasonable assurance as to the effectiveness of ICFR at such companies. Rather,
+
+smaller public companies should utilize the flexibility provided in the guidance to cost-
+
+effectively tailor and scale their methods and approaches for identifying and documenting
+
+financial reporting risks and the related controls and for evaluating whether operation of
+
+controls is effective (for example, by utilizing evidence gathered through management’s
+
+daily interaction with its controls), so that they provide the evidence needed to assess
+
+whether ICFR is effective.
+
+          In addition, as previously mentioned, companies may find that there are other
+
+sources for guidance, such as the July 2006 guidance for applying the COSO framework
+
+to smaller public companies. We believe our guidance, when used in conjunction with
+80
+ See, for example, letters from American Bankers, America’s Community Bankers, Chandler,
+CNB, FEI SPCTF, F. Gorrell, ICBA, MFA, and Washington Legal Foundation (WLF).
+81
+     See, for example, letters from American Stock Exchange, ICBA, UFP, and WLF.
+82
+  See, for example, letters from American Federation of Labor and Congress of Industrial
+Organizations (AFL-CIO), CalPERS, Frank, F. Gorrell, PRIMB, and WithumSmith+Brown
+Global Assurance, LLC.
+
+
+                                            Page 50
+
+=== PAGE 51 ===
+other such guidance, will enable smaller public companies to have a better understanding
+
+of the requirements of a control framework, its role in effective internal control systems
+
+and the relationship to our evaluation and disclosure requirements. This should enable
+
+management to plan and conduct its evaluation in an effective and efficient manner.
+
+       The Commission believes that compliance with the ICFR evaluation and
+
+assessment requirements by smaller public companies will further the primary goal of
+
+Sarbanes-Oxley which is to enhance the quality of financial reporting and increase
+
+investor confidence in the fairness and integrity of the securities markets. We note that
+
+all financial statements filed with the Commission, even those by smaller public
+
+companies, result from a system of internal controls. Such systems are required by the
+
+FCPA to operate at a level that provides “reasonable assurance” about the reliability of
+
+financial reporting. Our rules implementing Section 404 direct management of all
+
+companies to evaluate and assess whether the company’s system of internal controls is
+
+effective at achieving reasonable assurance. Our guidance is intended to help them do so
+
+in a cost-effective manner. Given the principles-based nature of our guidance and the
+
+flexibility it provides, we do not believe further postponement of the evaluation
+
+requirements are needed for smaller companies. We believe that the timing of the
+
+issuance of the Interpretive Guidance is adequate to allow for its effective
+
+implementation in 2007 evaluations.
+
+D. Identifying Financial Reporting Risks and Controls
+
+       1. Summary of the Proposal
+
+       The proposal directed management to consider the sources and potential
+
+likelihood of misstatements, including those arising from fraudulent activity, and identify
+
+
+
+
+                                          Page 51
+
+=== PAGE 52 ===
+those that could result in a material misstatement of the financial statements (that is,
+
+financial reporting risks). The proposal indicated that management’s consideration of the
+
+risk of misstatement generally includes all of its locations or business units and that the
+
+methods and procedures for identifying financial reporting risks will vary based on the
+
+characteristics of the individual company. The proposal discussed factors for
+
+management to consider in selecting methods and procedures for evaluating financial
+
+reporting risks and in identifying the sources and potential likelihood of misstatement.
+
+       The proposal directed management to evaluate whether controls were placed in
+
+operation to adequately address the financial reporting risks it identifies. The proposal
+
+indicated that controls were not adequate when their design was such that there was a
+
+reasonable possibility that a misstatement in a financial reporting element that could
+
+result in a material misstatement of the financial statements would not be prevented or
+
+detected in a timely manner. The proposal discussed the fact that some controls may be
+
+automated or may depend upon IT functionality. In these situations, the proposal stated
+
+that management’s evaluation should consider not only the design and operation of the
+
+automated or IT dependent controls, but also the aspects of IT general controls necessary
+
+to adequately address financial reporting risks.
+
+       The proposal also indicated that entity-level controls should be considered when
+
+identifying financial reporting risks and related controls for a financial reporting element.
+
+The proposal discussed the nature of entity-level controls, how they relate to a financial
+
+reporting element and the need to consider whether they would prevent or detect material
+
+misstatements. If a financial reporting risk for a financial reporting element is adequately
+
+addressed by an entity-level control, the proposal indicated that no further controls
+
+
+
+
+                                          Page 52
+
+=== PAGE 53 ===
+needed to be identified and tested by management for purposes of the evaluation of
+
+ICFR.
+
+          2. Comments on the Proposal and Revisions Made
+
+          The Commission received a number of comments on the proposed guidance for
+
+identifying financial reporting risks and controls. As discussed in Section III.B above,
+
+many of these commenters requested more examples or more detailed guidance. Other
+
+comments received related to the identification of fraud risks and related controls; entity-
+
+level controls; and IT general controls.
+
+          Identification of fraud risks and related controls
+
+          Commenters suggested the guidance be revised to more strongly emphasize
+
+management’s responsibility to identify and evaluate fraud risks and the related controls
+
+that address those risks. 83 Commenters also discussed the nature of fraud risks that most
+
+often lead to materially misstated financial statements and requested additional guidance
+
+regarding which fraud related controls are within the scope of the evaluation; 84 whether
+
+management can consider the risk of fraud through the overall risk assessment or if a
+
+specific fraud threat analysis is required; 85 and examples of the types of fraud that should
+
+be considered. 86 Other commenters noted that there is existing guidance for
+
+management, beyond what was referenced in the proposal, for assessing fraud risks and
+
+
+
+
+83
+  See, for example, letters from ACE, ACCA, BDO, Center, CSC, Deloitte & Touche LLP
+(Deloitte), GT, IMA, KPMG LLP (KPMG), M&P, Moody’s, and PwC.
+84
+     See, for example, letters from BASF, BDO, and GT.
+85
+     See, for example, letter from Tatum LLC (Tatum).
+86
+     See, for example, letters from FEI CCR, P&G, and N. Stofberg.
+
+
+                                             Page 53
+
+=== PAGE 54 ===
+the related controls. These commenters suggested that the proposal be revised to directly
+
+incorporate the most relevant elements of such guidance. 87
+
+          In response to the comments, the proposal was revised to clarify that fraud risks
+
+are expected to exist at every company and that the nature and extent of the fraud risk
+
+assessment activities should be commensurate with the size and complexity of the
+
+company. Additionally, we expanded the references to existing guidance to include the
+
+AICPA’s 2005 Management Override of Internal Controls: The Achilles’ Heel of Fraud
+
+Prevention and COSO’s July 2006 Guidance for Smaller Public Companies. Given the
+
+availability of existing information and guidance on fraud and consistent with the
+
+principles-based nature of the interpretive guidance, we determined that it was
+
+unnecessary to provide a list of fraud risks expected to be present at every company or a
+
+list of the areas of financial reporting expected to have a risk of material misstatement
+
+due to fraud. Moreover, providing such a list may result in a “checklist” type approach to
+
+fraud risk assessments that would likely be ineffective as financial reporting changes over
+
+time, or given the wide variety of facts and circumstances that exist in different
+
+companies and industries. While management may find such checklists a useful starting
+
+point, effective fraud risk assessments will require sound and thoughtful judgments that
+
+reflect a company’s individual facts and circumstances.
+
+          Entity-Level Controls
+
+          Commenters requested further clarification of how entity-level controls can
+
+address financial reporting risks in a top-down, risk based approach. 88 Commenters also
+
+
+
+87
+     See, for example, letters from Center, GT, KPMG, and M&P.
+88
+     See, for example, letters from EY, Frank, MetLife, and UnumProvident.
+
+
+                                             Page 54
+
+=== PAGE 55 ===
+suggested that the guidance place more emphasis on entity-level controls given their
+
+pervasive impact on all other aspects of ICFR. 89
+
+       In response to the comments received, we expanded the discussion of entity-level
+
+controls and how they relate to financial reporting elements. This discussion further
+
+clarifies that some entity-level controls, such as controls within the control environment,
+
+have an important, but indirect, effect on the likelihood that a misstatement will be
+
+prevented or detected on a timely basis. While these controls might affect the other
+
+controls management determines are necessary to address financial reporting risks for a
+
+financial reporting element, it is unlikely management will identify only this type of
+
+entity-level control as adequately addressing a financial reporting risk. Further, the
+
+guidance clarifies that some entity-level controls may be designed to identify possible
+
+breakdowns in lower-level controls, but not in a manner that would, by themselves,
+
+adequately address financial reporting risks. In these cases, management would identify
+
+the additional controls needed to adequately address financial reporting risks, which may
+
+include those that operate at the transaction or account balance level. Consistent with
+
+the proposal, management does not need to identify or evaluate additional controls
+
+relating to a financial reporting risk if it determines that the risk is being adequately
+
+addressed by an entity-level control.
+
+          We have also revised the proposed guidance to further clarify that the controls
+
+management identifies in Section II.A.1 should include the entity-level and pervasive
+
+elements of its ICFR that are necessary to have a system of internal control that provides
+
+reasonable assurance as to the reliability of financial reporting. Management can use the
+
+89
+ See, for example, letters from ACCA, ACE, Eli Lilly, European Association of Listed
+Companies (EALIC), and PwC.
+
+
+                                          Page 55
+
+=== PAGE 56 ===
+existing control frameworks and related guidance to assist them in evaluating the
+
+adequacy of these aspects of their ICFR.
+
+          Information Technology General Controls
+
+          Commenters expressed concern that the proposal’s guidance on IT general
+
+controls was too vague or that it lacked sufficient clarity 90 and requested further guidance
+
+and illustrative examples 91 to clarify the extent to which IT general controls are within
+
+the scope of the ICFR evaluation. 92 Commenters also suggested that the Commission
+
+directly incorporate the May 16, 2005 Staff Guidance 93 on IT general controls 94 and that
+
+we clarify that IT general controls alone, without consideration of application controls,
+
+will not sufficiently address the risk of material misstatement. 95 One commenter noted
+
+that providing such guidance could have the unintended consequence of setting a
+
+precedent for providing more detailed guidance in other areas of the evaluation. 96
+
+          Commenters also suggested that we revise the proposal to clarify how a top-down
+
+approach considers IT general controls, 97 that we encourage a “benchmarking” approach
+
+for evaluating automated controls, 98 and that we permit companies who implement IT
+
+
+
+90
+     See, for example, letters from Aerospace Industries Association, MasterCard, and Nasdaq.
+91
+     See, for example, letter from Microsoft Corporation (MSFT).
+92
+ See, for example, letters from Faisal Danka, ISACA, MSFT, Rod Scott, and The Travelers
+Companies, Inc. (Travelers).
+93
+  Division of Corporation Finance and Office of the Chief Accountant: Staff Statement on
+Management’s Report on Internal Control Financial Reporting (May 16, 2005), available at
+http://www.sec.gov/spotlight/soxcom/.htm.
+94
+     See, for example, letters from FEI CCR and P&G.
+95
+     See, for example, letter from IDW.
+96
+     See, for example, letter from ICAEW.
+97
+     See, for example, letters from Cardinal and ISACA.
+98
+     See, for example, letter from CSC.
+
+
+                                              Page 56
+
+=== PAGE 57 ===
+systems late in the year to do so while still being able to satisfy their ICFR
+
+responsibilities. 99
+
+          We made several revisions to the proposed guidance based on the comment
+
+letters. We revised the proposal to explain that the identification of risks and controls
+
+within IT should be integral to, and not separate from, management’s top-down, risk-
+
+based approach to evaluating ICFR and in determining the necessary supporting
+
+evidential matter. We clarified that controls which address financial reporting risks may
+
+be automated, dependent upon IT functionality, or require a combination of both manual
+
+and automated procedures and that IT general controls alone, without consideration of
+
+application controls, ordinarily do not adequately address financial reporting risks. We
+
+also incorporated guidance from the May 16, 2005 Staff Statement which explains that it
+
+is unnecessary to evaluate IT general controls that primarily pertain to efficiency or
+
+effectiveness of operations, but which are not relevant to addressing financial reporting
+
+risks.
+
+          We have declined to further specify categories or areas of IT general controls that
+
+will be relevant to the ICFR evaluation for all companies. We continue to believe that
+
+such determinations require consideration of each company’s individual facts and
+
+circumstances. Moreover, we have concluded it is not necessary to include a discussion
+
+of a “benchmarking” approach to evaluating automated controls. The lack of such
+
+discussion in our guidance does not preclude management from taking such an approach
+
+if they believe it to be both efficient and effective.
+
+
+
+
+99
+     See, for example, letter from Chamber.
+
+
+                                              Page 57
+
+=== PAGE 58 ===
+       Additionally, we did not revise the proposed guidance to discuss implementation
+
+of IT systems, or changes thereto, late in the year because we do not believe such
+
+decisions should be impacted by the requirement to evaluate and assess the effectiveness
+
+of ICFR. Even without the evaluation and assessment requirements, the implementation
+
+of an IT system late in the year does not change management’s responsibility to maintain
+
+a system of internal control that provides reasonable assurance regarding the reliability of
+
+financial reporting. Allowing an exclusion from the evaluation for controls placed in
+
+operation late in the year could have the unintended consequence of negatively impacting
+
+the reliability of financial reporting. Management has the ability to mitigate the risk of
+
+material misstatement that arises from ineffective controls in a new IT system. For
+
+example, management may perform pre-implementation testing of the IT controls needed
+
+to adequately address financial reporting risks. Additionally, management may
+
+implement compensating controls, such as manual reconciliations and verification, until
+
+such time that management has concluded that the IT controls within the system are
+
+adequate. Accordingly, we do not believe it is necessary or appropriate to exclude new
+
+IT systems or changes to existing systems from the scope of the evaluation of ICFR.
+
+E. Evaluating Evidence of the Operating Effectiveness of ICFR
+
+       1. Summary of the Proposal
+
+       Our proposal indicated that management should consider both the risk
+
+characteristics of the financial reporting elements to which the controls relate and the risk
+
+characteristics of the controls themselves (collectively, ICFR risk) in making judgments
+
+about the nature and extent of evidence necessary to provide a reasonable basis for the
+
+assessment of whether the operation of controls is effective. The proposal identified
+
+
+
+
+                                          Page 58
+
+=== PAGE 59 ===
+significant accounting estimates, related party transactions and critical accounting
+
+policies as examples of financial reporting areas that generally would be assessed as
+
+having a higher risk of misstatement and control failure. However, the proposed
+
+guidance recognizes that since not all controls have the same risk characteristics, when a
+
+combination of controls is required to adequately address the risks to a financial reporting
+
+element, management should analyze the risk characteristics of each control separately.
+
+Further, under the proposed guidance, when evaluating risks in multi-location
+
+environments, management should generally consider the risk characteristics of the
+
+controls related to each financial reporting element, rather than making a single judgment
+
+for all controls at a particular location when determining the sufficiency of evidence to
+
+support its assessment.
+
+       Our proposal indicated that the evidence of the operation of controls that
+
+management evaluates may come from a combination of on-going monitoring and direct
+
+testing and that management should vary the nature, timing and extent of these based on
+
+its assessment of the ICFR risk. Our proposal stated that this evidence would ordinarily
+
+cover a reasonable period of time during the year and include the fiscal year-end. The
+
+proposal also acknowledged that, in smaller companies, those responsible for assessing
+
+the effectiveness of ICFR may, through their on-going direct knowledge and supervision
+
+of the operation of controls (that is, daily interaction) have a reasonable basis to evaluate
+
+the effectiveness of some controls without performing direct tests specifically for
+
+purposes of the evaluation.
+
+       The proposal explained that the evidential matter constituting reasonable support
+
+for the assessment would generally include the basis for management’s assessment and
+
+
+
+
+                                           Page 59
+
+=== PAGE 60 ===
+documentation of the evaluation methods and procedures for gathering and evaluating
+
+evidence. Additionally, the proposal indicated that the nature of the supporting evidential
+
+matter, including documentation, may take many forms and may vary based on
+
+management’s assessment of ICFR risk. For example, management may determine that it
+
+is not necessary to maintain separate copies of the evidence evaluated if such evidence
+
+already exists in the company’s books and records. The proposal also indicates that as
+
+the degree of complexity of the control, the level of judgment required to operate the
+
+control, and the risk of misstatement in the financial reporting element increase,
+
+management may determine that separate evidential matter supporting a control’s
+
+operation should be maintained.
+
+       2. Comments on the Proposal and Revisions Made
+
+       The Commission received a number of comments on the proposed guidance for
+
+evaluating whether the operation of controls was effective. As discussed in Section III.B
+
+above, many of these commenters requested more examples or more detailed guidance.
+
+Other comments received related to the appropriateness of various “rotational”
+
+approaches to evaluating evidence of whether the operation of controls was effective; the
+
+nature of on-going monitoring activities, including self-assessments and daily interaction;
+
+the time period to be covered by evaluation procedures; and supporting evidential matter.
+
+       Rotational Approaches to Evaluating Evidence
+
+       Commenters requested that the guidance explicitly allow management to rotate its
+
+evaluation of evidence of the operation of controls and a variety of different approaches
+
+for doing so were suggested. These approaches included, for example, a rotational
+
+
+
+
+                                          Page 60
+
+=== PAGE 61 ===
+approach for lower risk controls, 100 a rotational approach in areas where management
+
+determines there are no changes in the controls since the previous assessment, 101 or a
+
+rotational approach where there is both lower risk and no changes in controls. 102 In
+
+addition, some suggested a “benchmarking” approach, similar to that used for IT
+
+controls, be allowed for non-IT controls. 103 Other commenters agreed with the
+
+proposal’s requirement that management consider evidence of the operation of controls
+
+each year. 104 Others noted that while they believed it is appropriate for management to
+
+consider the results of its prior year assessments, the guidance should make it clear that
+
+the evaluation of operating effectiveness is an annual requirement. 105
+
+           Other commenters raised the issue of a rotational approach specific to multi-
+
+location considerations. For example, commenters suggested that the guidance allow for
+
+rotation of locations based upon risk (for example, once every three years). 106 However,
+
+some commenters suggested that the risk-based approach provided in the proposed
+
+guidance would appropriately allow companies to vary testing in locations based more on
+
+risk than coverage, which would improve the efficiency of their assessment. 107
+
+           After considering the comments, the Commission has retained the guidance
+
+substantially as proposed. We did not introduce a concept that allows management to
+
+
+100
+      See, for example, letters from CSC, EALIC, ING, MasterCard, and NYC Bar.
+101
+      See, for example, letters from P&G and Travelers.
+102
+      See, for example, letters from EEI and Supervalu.
+103
+      See, for example, letters from Eli Lilly and FEI CCR.
+104
+      See, for example, letters from CCMR, Deloitte, and KPMG.
+105
+      See, for example, letters from AFL-CIO, Center, CFA, Deloitte, and PwC.
+106
+      See, for example, letter from CSC.
+107
+  See, for example, letters from MSFT, New York State Society of Certified Public
+Accountants, and Plains Exploration & Production Company.
+
+
+                                               Page 61
+
+=== PAGE 62 ===
+eliminate from its annual evaluation those controls that are necessary to adequately
+
+address financial reporting risks. For example, management cannot decide to include
+
+controls for a particular location or process within the scope of its evaluation only once
+
+every three years or exclude controls from the scope of its evaluation based on prior year
+
+evaluation results. To have a reasonable basis for its assessment of the effectiveness of
+
+ICFR, management must have sufficient evidence supporting the operating effectiveness
+
+of all aspects of its ICFR as of the date of its assessment. The guidance provides a
+
+framework to assist management in making judgments regarding the nature, timing and
+
+extent of evidence needed to support its assessment. Management can use this
+
+framework to scale its evaluation methods and procedures in response to the risks
+
+associated with both the financial reporting elements and related controls in its particular
+
+facts and circumstances.
+
+       However, the guidance has been clarified to reflect that management’s experience
+
+with a control’s operation both during the year and as part of its prior year assessment(s)
+
+may influence its decisions regarding the risk that controls will fail to operate as
+
+designed. This, in turn, may have a corresponding impact on the evidence needed to
+
+support management’s conclusion that controls operated effectively as of the date of
+
+management’s assessment.
+
+        Nature of On-Going Monitoring Activities
+
+       Commenters expressed concern that, as defined in the proposal, some on-going
+
+monitoring activities would not be deemed to provide sufficient evidence. 108 Other
+
+commenters were concerned that the guidance placed too much emphasis on the amount
+
+108
+  See, for example, letters from BASF and Cees Klumper & Matthew Shepherd (C. Klumper &
+M. Shepherd).
+
+
+                                          Page 62
+
+=== PAGE 63 ===
+of evidence that could be obtained from on-going monitoring activities and called for
+
+further examples of when they may provide sufficient evidence and when direct testing
+
+would be required. 109 With regard to self-assessments, commenters suggested that self-
+
+assessments can be an integral source of evidence when their effective operation is
+
+verified by direct testing over varying periods of time based on the manner in which the
+
+self-assessments were conducted and on the level of risk associated with the controls. 110
+
+Other commenters requested the proposed guidance be revised to clarify how, based on
+
+the definitions provided, self-assessments differed from direct testing. 111
+
+           Some commenters questioned the sufficiency of evidence that would result from
+
+management’s daily interaction with controls and requested more specifics on when it
+
+would be appropriate as a source of evidence 112 and how management should
+
+demonstrate that its daily interaction with controls provided it with sufficient evidence to
+
+have a reasonable basis to assess whether the operation of controls was effective. 113
+
+           Based on the feedback received, we modified the discussion of on-going
+
+monitoring activities, including self-assessments, and direct testing to clarify how the
+
+evidence obtained from each of the activities can vary. As commenters in this area noted,
+
+on-going monitoring, including self-assessments, encompasses a wide array of activities
+
+that can be performed by a variety of individuals within an organization. These
+
+individuals have varying degrees of objectivity, ranging from internal auditors to the
+
+personnel involved in business processes, and can include both those responsible for
+
+109
+      See, for example, letters from Center and EY.
+110
+      See, for example, letters from GT and C. Klumper & M. Shepherd.
+111
+      See, for example, letter from Cardinal.
+112
+      See, for example, letters from BDO, EY, Ohio, and Tatum.
+113
+      See, for example, letter from Ohio.
+
+
+                                                Page 63
+
+=== PAGE 64 ===
+executing a control as well as those responsible for overseeing its effective operation.
+
+Because of the varying degrees of objectivity, the sufficiency of the evidence
+
+management obtains from on-going monitoring activities is determined by the nature of
+
+the activities (that is, what they entail and how they are performed).
+
+       We clarified the proposed guidance to indicate that when evaluating the
+
+objectivity of personnel, management is not required to make an absolute conclusion
+
+regarding objectivity, but rather should recognize that personnel will have varying
+
+degrees of objectivity based on, among other things, their job function, their relationship
+
+to the control being evaluated, and their level of authority and responsibility within the
+
+organization. Management should consider the ICFR risk of the controls when
+
+determining whether the objectivity of the personnel involved in the monitoring activities
+
+results in sufficient evidence. For example, for areas of high ICFR risk, management’s
+
+on-going monitoring activities may provide sufficient evidence when the monitoring
+
+activities are carried out by individuals with a high degree of objectivity. However, when
+
+management’s support includes evidence obtained from activities performed by
+
+individuals who are not highly objective, management would ordinarily supplement the
+
+evidence with some degree of direct testing by individuals who are independent from the
+
+operation of the control to corroborate the information from the monitoring activity.
+
+       With regard to requests for more guidance related to management’s daily
+
+interaction, we have adopted the guidance substantially as proposed. We believe that in
+
+smaller companies, management’s daily interaction with the operation of controls may
+
+provide it with sufficient evidence to assess whether controls are operating effectively.
+
+The guidance is not intended to limit management’s flexibility with regard to the areas of
+
+
+
+
+                                          Page 64
+
+=== PAGE 65 ===
+ICFR where its interaction can provide it with sufficient evidence or the manner by which
+
+management obtains knowledge of the operation of the controls. However, as noted in
+
+the guidance, daily interaction as a source of evidence for the operation of controls
+
+applies to management who are responsible for assessing the effectiveness of ICFR and
+
+whose knowledge about the effective operation is gained from its on-going direct
+
+knowledge and direct supervision of controls. In addition, the evidence management
+
+maintains in support of its assessment should include the design of the controls that
+
+adequately address the financial reporting risks as well as how its interaction provides an
+
+adequate basis for its assessment of the effectiveness of ICFR.
+
+        Time Period Covered by Evaluation Procedures
+
+        Commenters requested that the guidance allow for, and encourage, management
+
+to gather evidence throughout the year to support its assessment in lieu of having to
+
+gather some evidence close to or as-of year-end. 114 These commenters believed that such
+
+guidance would encourage companies to better integrate their evaluation procedures into
+
+the normal activities of their daily operations, spread the effort more evenly throughout
+
+the year, and help reduce the strain on resources at year-end when company personnel are
+
+preparing the annual financial statements and complying with other financial reporting
+
+activities.
+
+        We agree with the comments received in this area with respect to allowing
+
+management the flexibility to gather evidence in support of its assessment during the
+
+year. Since management’s assessment is performed as of the end of its fiscal year-end,
+
+the evidence management utilizes to support its assessment would ordinarily include a
+
+114
+   See, for example, letters from Eli Lilly, The Financial Services Roundtable, and Neenah Paper,
+Inc.
+
+
+                                            Page 65
+
+=== PAGE 66 ===
+reasonable period of time during the year, including some evidence as of the date of its
+
+assessment. However, the proposal was not intended to limit management’s flexibility to
+
+conduct its evaluation activities during the year. Rather, the proposed guidance was
+
+intended to provide management with the ability to perform a variety of activities
+
+covering periods of time that vary based on its assessment of risk in order to provide it
+
+with a sufficient basis for its evaluation. This could include, for example, a strategy that
+
+employs direct testing over a control during the year (but prior to year-end), that is
+
+supplemented with a self-assessment activity at year-end. As a result, we have adopted
+
+the guidance related to the period of time for which management should obtain evidence
+
+of the operation of controls substantially as proposed.
+
+          Supporting Evidential Matter
+
+          Commenters expressed support for the guidance in the proposal related to the
+
+supporting evidential matter and believed it would allow management to make better
+
+judgments and allow for sufficient flexibility to vary the nature and extent of evidence
+
+based on the company’s particular facts and circumstances. 115 Other commenters
+
+observed that a certain level of documentation was required in order to facilitate an
+
+efficient and effective audit and suggested the guidance explicitly state this fact and/or
+
+clarify how the guidance for management was intended to interact with the requirements
+
+provided to auditors. 116 One commenter requested that we clarify our intention related to
+
+
+
+
+115
+      See, for example, letters from BR, EY, Hudson Financial Solutions (HFS), and MSFT.
+116
+   See, for example, letters from Center, Deloitte, EY, GT, M&P, MetLife, MDFC, PwC, and N.
+Stofberg.
+
+
+                                             Page 66
+
+=== PAGE 67 ===
+the audit committee’s involvement in the review of evidential matter prepared by
+
+management in support of its assessment. 117
+
+          After consideration of the comments, we are adopting the guidance substantially
+
+as proposed. We continue to believe that management should have considerable
+
+flexibility as to the nature and extent of the documentation it maintains to support its
+
+assessment, while at the same time maintaining sufficient evidence to provide reasonable
+
+support for its assessment. Providing specific guidelines and detailed examples of
+
+various types of documentation would potentially limit the flexibility we intended to
+
+afford management.
+
+          With respect to the concerns raised regarding the interaction of the proposed
+
+guidance and the audit requirements, we determined that no changes were necessary.
+
+Similar to an audit of the financial statements, the nature and extent of evidential matter
+
+maintained by management may impact how an auditor conducts the audit and the
+
+efficiency of the audit. We believe that the most efficient implementation by
+
+management and the auditor is achieved when flexibility exists to determine the
+
+appropriate manner by which to complete their respective tasks. However, we also
+
+believe that the Proposed Auditing Standard allows auditors sufficient flexibility to
+
+consider various types of evidence utilized by management. The audit standard allows
+
+auditors to adjust their approach in certain circumstances, if necessary, so that audit
+
+procedures should not place any undue burden or expense on management’s evaluation
+
+process.
+
+
+
+
+117
+      See, for example, letter from ABA.
+
+
+                                           Page 67
+
+=== PAGE 68 ===
+F. Evaluation of Control Deficiencies
+
+       1. Summary of the Proposal
+
+       The proposal directed management to evaluate each control deficiency that comes
+
+to its attention in order to determine whether the deficiency, or combination of control
+
+deficiencies, is a material weakness. The proposal defined a material weakness as a
+
+deficiency, or combination of deficiencies, in ICFR such that there is a reasonable
+
+possibility that a material misstatement of the company’s annual or interim financial
+
+statements will not be prevented or detected on a timely basis by the company’s ICFR.
+
+The proposal contained guidance on the aggregation of deficiencies by indicating that
+
+multiple control deficiencies that affect the same financial reporting element increase the
+
+likelihood of misstatement and may, in combination, constitute a material weakness, even
+
+though such deficiencies may be individually insignificant. The proposal also
+
+highlighted four circumstances that were strong indicators that a material weakness in
+
+ICFR existed. In summary, the following four items were listed:
+
+             •   An ineffective control environment, including identification of fraud of
+
+                 any magnitude on the part of senior management; significant
+
+                 deficiencies that remain unaddressed after some reasonable period of
+
+                 time; and ineffective oversight by the audit committee (or entire board of
+
+                 directors if no audit committee exists).
+
+             •   Restatement of previously issued financial statements to reflect the
+
+                 correction of a material misstatement.
+
+
+
+
+                                         Page 68
+
+=== PAGE 69 ===
+                •   Identification by the auditor of a material misstatement of financial
+
+                    statements in the current period under circumstances that indicate the
+
+                    misstatement would not have been discovered by the company’s ICFR.
+
+                •   For complex entities in highly regulated industries, an ineffective
+
+                    regulatory compliance function.
+
+          2. Comments on the Proposal and Revisions Made
+
+          Definition of Material Weakness
+
+          Commenters expressed concern about differences between our proposed
+
+definition of material weakness and that proposed by the PCAOB in its Proposed
+
+Auditing Standard and requested that the two definitions be aligned. 118 Commenters
+
+provided feedback on the reasonably possible threshold for determining the likelihood of
+
+a potential material misstatement as well as the reference to interim financial statements
+
+for determining whether a potential misstatement could be material. Commenters also
+
+suggested that a single definition of material weakness be established for use by both
+
+auditors and management and that definition be established by the SEC in its rules. 119
+
+Based on comments on the proposal, we are amending Exchange Act Rule 12b-2 and
+
+Rule 1-02 of Regulation S-X to define the term material weakness. Further discussion
+
+and analysis of the definition of material weakness and commenter feedback can be
+
+found in that rule release. 120
+
+
+
+
+118
+      See, for example, letters from EEI, FEI CCR, FEI SPCTF, ICAEW, N. Stofberg, and SVLG.
+119
+      See, for example, letters from FEE and ICAEW.
+120
+      Release No. 34-55928.
+
+
+                                            Page 69
+
+=== PAGE 70 ===
+           Strong Indicators of a Material Weakness
+
+           Commenters noted there were differences in the list of strong indicators included
+
+in the proposal and the list of strong indicators included in the Proposed Auditing
+
+Standard, raising concern that the failure of the two proposals to provide similar guidance
+
+would cause unnecessary confusion between management and auditors. 121 Commenters
+
+also provided suggested changes, additions or deletions to circumstances that were
+
+included on the list of strong indicators. For example, commenters raised questions about
+
+the “identification of fraud of any magnitude on the part of senior management,”
+
+questioning the appropriateness of the term “of any magnitude” or which individuals
+
+were encompassed in the term “senior management.” 122 Commenters also felt the
+
+Commission’s proposed list of indicators should be expanded to include the indicator
+
+relating to an ineffective internal audit function or risk assessment function that was
+
+included in the Proposed Auditing Standard. 123 One commenter felt that the list of strong
+
+indicators needed to be made more specific, and should include more illustrative
+
+examples. 124 Another commenter stated that the indicator of “significant deficiencies
+
+that have been identified and remain unaddressed after some reasonable period of time”
+
+should be clarified to mean unremediated deficiencies.125 Other commenters suggested
+
+that the list of strong indicators be eliminated completely, stating that designating these
+
+items as strong indicators creates a presumption that such items are, in fact, material
+
+121
+  See, for example, letters from BDO, BR, Center, Cleary, CSC, Deloitte, KPMG, M&P, and
+Schneider Downs & Co., Inc. (Schneider).
+122
+      See, for example, letters from 100 Group, Eli Lilly, FEI CCR, and P&G.
+123
+ See, for example, letters from BR, Crowe Chizek & Company LLC (Crowe), Deloitte, and
+M&P.
+124
+      See, for example, letter from Chamber.
+125
+      See, for example, letter from EEI.
+
+
+                                               Page 70
+
+=== PAGE 71 ===
+weaknesses, and may impede the use of judgment to properly evaluate the identified
+
+control deficiency in light of the individual facts and circumstances. 126 Commenters also
+
+felt the Commission should clearly indicate that a company may determine that no
+
+deficiency exists despite the fact that one of the identified strong indicators was
+
+present. 127
+
+           After consideration of the comments, we have decided to modify the proposed
+
+guidance. We believe judgment is imperative in determining whether a deficiency is a
+
+material weakness and that the guidance should encourage management to use that
+
+judgment. As a result, we have modified the guidance to emphasize that the evaluation
+
+of control deficiencies requires the consideration of all of the relevant facts and
+
+circumstances. We agreed with the concerns that an overly detailed list may create a list
+
+of de facto material weaknesses or inappropriately suggest that identified control
+
+deficiencies not included in the list are of lesser importance. At the same time, however,
+
+we continue to believe that highlighting certain circumstances that are indicative of a
+
+material weakness provides practical information for management. As a result, rather
+
+than referring to “strong indicators,” the final guidance refers simply to “indicators.”
+
+This change should further emphasize that the presence of one of the indicators does not
+
+mandate a conclusion that a material weakness exists. Rather management should apply
+
+professional judgment in this area. These examples include indicators related to the
+
+results of the financial statement audit, such as material audit adjustments and
+
+restatements, and indicators related to the overall evaluation of the company’s oversight
+
+of financial reporting, such as the effectiveness of the audit committee and incidences of
+
+126
+      See, for example, letters from Cleary, Institute of Internal Auditors (IIA), and NYC Bar.
+127
+      See, for example, letters from Chamber, Cleary, CSC, PPL, and Schneider.
+
+
+                                                Page 71
+
+=== PAGE 72 ===
+fraud among senior management. These examples are by no means an exhaustive list.
+
+For example, under COSO, risk assessment and monitoring are two of the five
+
+components of an effective system of internal control. If management concludes that an
+
+internal control component is not effective, or if required entity-level or pervasive
+
+elements of ICFR are not effective, it is likely that internal control is not effective.
+
+           Lastly, we agreed with commenters that it is appropriate for the Commission’s
+
+guidance in this area to mirror the PCAOB’s auditing standard. As a result, we have
+
+worked with the PCAOB in reaching conclusions regarding the guidance in this area, and
+
+we anticipate the PCAOB’s auditing standard will align with our final management
+
+guidance.
+
+G. Management Reporting and Disclosure
+
+           Comment letters expressed various viewpoints regarding the information
+
+management provides as part of its report on the effectiveness of ICFR. For example,
+
+commenters raised concerns regarding the “point in time” assessment and suggested
+
+various alternative approaches. 128 Commenters also made suggestions regarding the
+
+disclosures management provides when a material weakness has occurred. Certain
+
+commenters felt the suggested disclosures indicated in the proposing release should be
+
+mandatory, 129 while other commenters wanted the Commission to specify where in the
+
+Form 10-K management must provide its disclosures. 130 Commenters also requested that
+
+
+
+
+128
+      See, for example, letters from BHP Billiton Limited, Eli Lilly, and IIA.
+129
+      See, for example, letters from HFS, IDW, and Tatum.
+130
+      See, for example, letters from Crowe and KPMG.
+
+
+                                                Page 72
+
+=== PAGE 73 ===
+the Commission include in its release additional possible disclosures for consideration by
+
+management to include in its report. 131
+
+           In addition, commenters expressed concerns regarding the language in the
+
+Proposing Release with respect to management’s ability to determine that ICFR is
+
+ineffective due solely to, and only to the extent of, the identified material weakness(es).
+
+Some commenters felt that this language was essentially the same as a qualified opinion,
+
+which is prohibited by the guidance,132 while two others stated that the Commission
+
+needed to provide additional guidance around the circumstances under which this
+
+approach would be appropriate. 133
+
+           Based on the feedback we received, we have eliminated this from the final
+
+interpretive guidance and revised the proposed guidance to simply state that management
+
+may not state that the company’s ICFR is effective. However, management may state
+
+that controls are ineffective for specific reasons.
+
+           Additionally, certain of the requests received seemed inconsistent with the
+
+statutory obligation. For example, Section 404(a)(2) of Sarbanes-Oxley requires that
+
+management perform the assessment as of the end of its most recent fiscal year. As a
+
+result, we do not believe any further changes to the proposed guidance around
+
+management’s expression of its assessment of the effectiveness of ICFR are necessary.
+
+
+
+
+131
+      See, for example, letters from PCG Worldwide Limited and PepsiCo, Inc. (Pepsi).
+132
+      See, for example, letters from BDO and CFA.
+133
+      See, for example, letters from Crowe and Deloitte.
+
+
+                                               Page 73
+
+=== PAGE 74 ===
+H. Previous Staff Guidance and Staff Frequently Asked Questions
+
+           Commenters raised questions regarding the status of guidance previously issued
+
+by the Commission and its staff, on May 16, 2005, 134 as well as the Frequently Asked
+
+Questions (“FAQs”). 135 Some commenters requested the FAQs be retained in their
+
+entirety, 136 while others requested that some particular FAQs be retained. 137 As we
+
+indicated in the proposed guidance, the May 2005 guidance remains relevant.
+
+Additionally, we have instructed the staff to review the FAQs and, as a result of the final
+
+issuance of this guidance, update them as appropriate.
+
+I. Foreign Private Issuers
+
+           The Commission received comments directed towards the information included in
+
+the proposed guidance related to foreign private issuers. While three commenters noted
+
+that no additional guidance for foreign private issuers was necessary,138 other
+
+commenters suggested changes. Commenters raised concerns regarding potential
+
+duplicative efforts and costs foreign registrants are subject to, as a result of similar
+
+regulations in their local jurisdictions. 139 These commenters requested that the
+
+Commission attempt to minimize or remove any duplicative requirements, with some
+
+134
+  Commission Statement on Implementation of Internal Control Reporting Requirements, Press
+Release No. 2005-74 (May 16, 2005); Division of Corporation Finance and Office of the Chief
+Accountant: Staff Statement on Management’s Report on Internal Control Financial Reporting
+(May 16, 2005), available at http://www.sec.gov/spotlight/soxcom/.htm.
+135
+   Office of the Chief Accountant and Division of Corporation Finance: Management’s Report
+on Internal Control Over Financial Reporting and Certification of Disclosure in Exchange Act
+Periodic Reports Frequently Asked Questions (revised Oct. 6, 2004), available at
+http://www.sec.gov/info/accountants/controlfaq1004.htm.
+136
+      See, for example, letters from BP p.l.c. (BP), GT, IIA, ISACA, MSFT, and Tatum.
+137
+      See, for example, letters from BDO, EY, KPMG, and Stantec Inc.
+138
+      See, for example, letters from BP, Manulife, and Pepsi.
+139
+  See, for example, letters from 100 Group, Banco Itaú Holding Financeira SA, CCMR, Eric
+Fandrich, and FEI CCR.
+
+
+                                               Page 74
+
+=== PAGE 75 ===
+requesting the Commission exempt foreign registrants entirely from the ICFR reporting
+
+requirements if the registrant was subject to similar regulations in their home country.
+
+Other commenters raised concerns relating to the unique challenges that foreign
+
+registrants face in evaluating their ICFR, including language and cultural differences and
+
+international legal differences. 140
+
+           Commenters also made suggestions regarding how the reconciliation to U.S.
+
+GAAP should be handled in the evaluation of ICFR. Certain commenters expressed
+
+support for the Commission’s position that foreign private issuers should scope their
+
+evaluation effort based on the financial statements prepared in accordance with home
+
+country GAAP, rather than based on the reconciliation to U.S. GAAP. 141 However, other
+
+commenters requested that the Commission exempt the reconciliation to U.S. GAAP
+
+from the scope of the evaluation altogether,142 while others sought further clarification as
+
+to whether and how the reconciliation was included in the evaluation of ICFR, 143 with
+
+one commenter suggesting the Commission staff publish additional Frequently Asked
+
+Questions to address any implementation issues. 144 One commenter requested the
+
+Commission exclude from the evaluation process those financial statement disclosures
+
+that are required by home country GAAP but not under U.S. GAAP to minimize the
+
+differences in the ICFR evaluation efforts between U.S. registrants and foreign filers as
+
+much as possible. 145
+
+140
+      See, for example, letters from IIA and GT.
+141
+      See, for example, letters from 100 Group, BDO, and ICAEW.
+142
+      See, for example, letters from CCMR, Cleary, EALIC, and NYC Bar.
+143
+      See, for example, letters from Deloitte, EY, KPMG, and N. Stofberg.
+144
+      See, for example, letter from Ohio.
+145
+      See, for example, letter from ING.
+
+
+                                               Page 75
+
+=== PAGE 76 ===
+        After considering the comments received, the Commission has determined not to
+
+exempt foreign registrants from the ICFR reporting requirements, regardless of whether
+
+they are subject to similar home country requirements. The Commission’s requirement
+
+for all issuers to complete an evaluation of ICFR is not derived from the Commission’s
+
+Interpretive Guidance for Management; this requirement has been established by
+
+Congress. Further, the Commission does not believe it is appropriate to exclude the U.S.
+
+GAAP reconciliation from the scope of the evaluation as long as it is a required element
+
+of the financial statements. Currently, however, the Commission is evaluating, as part of
+
+another project, the acceptance of International Financial Reporting Standards (“IFRS”)
+
+as published by the International Accounting Standards Board (“IASB”) without
+
+reconciliation to U.S. GAAP. 146
+
+        In light of the comment letters, the Commission realizes that there are certain
+
+implementation concerns and issues that are unique to foreign private issuers. As a
+
+result, the Commission has instructed the staff to consider whether these items should be
+
+addressed in a Frequently Asked Questions document.
+
+
+
+
+146
+   In a press release on April 24, 2007, the Commission announced its next steps pertaining to
+acceptance of IFRS without reconciliation to U.S. GAAP. In that press release, the Commission
+stated that it anticipates issuing a Proposing Release in summer 2007 that will request comments
+on proposed changes to the Commission’s rules which would allow the use of IFRS, as published
+by the IASB, without reconciliation to U.S. GAAP in financial reports filed by foreign private
+issuers that are registered with the Commission. The press release is available at
+http://www.sec.gov/news/press/2007/2007-72.htm.
+
+
+                                            Page 76
+
+=== PAGE 77 ===
+List of Subjects
+
+17 CFR Part 241
+
+        Securities.
+
+TEXT OF AMENDMENTS
+
+        For the reasons set out in the preamble, the Commission is amending Title 17,
+
+chapter II, of the Code of Federal Regulations as follows:
+
+
+
+PART 241 – INTERPRETATIVE RELEASES RELATING TO THE SECURITIES
+
+EXCHANGE ACT OF 1934 AND GENERAL RULES AND REGULATIONS
+
+THEREUNDER
+
+        Part 241 is amended by adding Release No. 34-55929 and the release date of June
+
+20, 2007 to the list of interpretative releases.
+
+
+
+        By the Commission.
+
+
+
+                                                             Nancy M. Morris
+                                                             Secretary
+
+Dated: June 20, 2007
+
+
+
+
+                                            Page 77

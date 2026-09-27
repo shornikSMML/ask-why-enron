@@ -173,3 +173,33 @@ The verbs are right throughout: "alleged", "pleaded guilty", "concluded … fact
 | q3-10q | PASS (F-12 to F-14 minor) |
 
 **Totals:** 7 should-fix (P-1, F-1, F-2, F-4, F-6, F-9, F-10), 12 minor, 1 information-only. There are no critical errors: every excerpt is verbatim, and no uncited accusation appears.
+
+## Final
+
+Re-check of `fixes-phase2-pathways.md` (P-1 to P-5) and `fixes-phase2-footnote-others.md` (F-1 to F-14), Fact-Checker A, 2026-09-27.
+
+**How I checked.** I read each changed field in `work/drafts/pathways.json` and `work/drafts/footnote-others.json`. I also confirmed that the regenerated files `js/pathways-data.js` and `js/footnote-others-data.js` carry the new wording.
+
+**Pathways.**
+- All five fixes are applied as written, in both the bridge and the handout where the text appears in both.
+- None of the old wording remains anywhere in pathways.json.
+
+**Other notes.**
+- All 14 fixes are applied as written.
+- The script re-check passes:
+  - All 18 excerpts are verbatim at their lines, including note-1 excerpt 3, which now covers lines 4170-4174 and is the full sentence.
+  - All quotes in the .txt sources appear at their stated lines. This includes the new A-032 Kopper quote (Powers lines 1702-1727) and the new 10-K signing-date quote (lines 6327-6331).
+  - The new SGA "None of these items ..." quote appears on PDF page 34.
+  - The remaining PDF quotes match once punctuation and OCR noise are ignored, as before.
+- The note-4 buy-back cite now points to A-044, and A-046 has been replaced in its `cards` list.
+- note-9 now lists A-032, and cites it.
+
+No new problems found.
+
+**Logged.** The applied corrections are rows 168-186 in `build-log/corrections.md`.
+
+| Item | Final verdict |
+|---|---|
+| Pathways: first-reading, mark-to-market, spes, andersen, sox, footnotes, banks | PASS |
+| Footnote intro | PASS |
+| note-1, note-3, note-4, note-9, note-15, q3-10q | PASS |

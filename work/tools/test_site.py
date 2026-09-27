@@ -287,8 +287,10 @@ def phase2_tests(browser, problems, notes):
             m = _re.search(r"[?&]tag=([a-z-]+)", here)
             if m and page.locator('#tl-filters button[aria-pressed="true"]').get_attribute("data-tag") != m.group(1):
                 problems.append(f"[pathway] {pw_['id']} stop {i}: timeline tag {m.group(1)} not applied")
-            if shots < 5 and file_part in ("cast.html", "timeline.html", "footnote.html", "banks.html", "why-it-matters.html", "glossary.html"):
-                page.screenshot(path=str(SHOTS / f"desktop-light-pathway-{pw_['id']}-stop{i}.png")); shots += 1
+            if i == 1 or (shots < 5 and file_part in ("cast.html", "timeline.html", "footnote.html", "banks.html", "why-it-matters.html", "glossary.html")):
+                page.screenshot(path=str(SHOTS / f"desktop-light-pathway-{pw_['id']}-stop{i}.png"))
+                if i != 1:
+                    shots += 1
     # anchors promised in work/drafts/pathway-anchor-requests.md, even if no pathway uses them yet
     page.goto(url("timeline.html")); page.wait_for_timeout(150)
     for tid in ("tl-2001-10-lockdown", "tl-2001-10-special-committee", "tl-1992"):
@@ -357,7 +359,10 @@ def main():
                         for b in ref["bad"]:
                             problems.append(f"[refs] {p}: {b}")
                         if ref["pending"]:
-                            notes.append(f"pending (expected until content arrives) {p}: {len(ref['pending'])}x " + "; ".join(sorted(set(ref["pending"]))))
+                            # page shells and SAMPLE Phase 2 data: a note while content is being
+                            # written (ASKWHY_ALLOW_PENDING=1), otherwise a problem.
+                            msg = f"{p}: {len(ref['pending'])}x placeholder/sample: " + "; ".join(sorted(set(ref["pending"])))
+                            (notes if os.environ.get("ASKWHY_ALLOW_PENDING") else problems).append(msg)
                         for f in ref["files"]:
                             if not Path(f).exists():
                                 problems.append(f"[refs] {p}: link target missing on disk: {f}")

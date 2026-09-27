@@ -52,6 +52,25 @@
   }
   function plural(n, one, many) { return n + " " + (n === 1 ? one : (many || one + "s")); }
 
+  function human(k) { return String(k).replace(/_/g, " ").replace(/^n /, "").replace(/^./, function (c) { return c.toUpperCase(); }); }
+  // L.phases may be an array or an object keyed by phase; field names vary, so read them loosely.
+  function phaseList() {
+    var P = L.phases || [];
+    if (!Array.isArray(P)) P = P.phases || Object.keys(P).map(function (k) { var v = P[k]; if (v && typeof v === "object" && !v.name && !v.title) v.name = k; return v; });
+    return P.filter(Boolean).map(function (p) {
+      var counts = {};
+      var src = p.counts || p.totals || p.stats || p;
+      Object.keys(src).forEach(function (k) { if (typeof src[k] === "number" && !/^(order|index|n|number)$/.test(k)) counts[k] = src[k]; });
+      var text = p.summary || p.description || p.text || [];
+      if (!Array.isArray(text)) text = [text];
+      if (p.counts_text) text = text.concat([p.counts_text]);
+      var ag = (p.agents || []).map(function (a) { return typeof a === "string" ? a : (a.name || a.id || ""); });
+      var dec = (p.decisions || []).map(function (d) { return typeof d === "string" ? d : (d.title || d.decision || "") + (d.detail ? ": " + d.detail : ""); });
+      return { status: p.status || "", name: p.name || p.title || p.label || p.id || "Phase", start: p.started || p.start || p.from || "", end: p.finished || p.end || p.to || "",
+        text: text.filter(Boolean).map(String), counts: counts, agents: ag.filter(Boolean), decisions: dec.filter(Boolean) };
+    });
+  }
+
   var agents = (L.agents || []).slice();
   var S = L.summary || {};
 
@@ -71,20 +90,77 @@
   }
 
   /* ---------- 2. At a glance ---------- */
+  function awaiting() {
+    if (S.candidates_awaiting_approval != null) return S.candidates_awaiting_approval;
+    if (S.candidates_phase1 != null || S.candidates_phase2 != null)
+      return (S.candidates_phase1 || 0) - (S.candidates_phase1_approved || 0) + (S.candidates_phase2 || 0) - (S.candidates_phase2_approved || 0);
+    return S.candidates_found;
+  }
   var gHost = $("at-a-glance");
   if (gHost) {
     var stats = [
       [S.agents, "agents"], [S.runs, "agent runs"], [S.library_documents, "documents in the library"],
       [S.sources_cited, "documents cited on the site"], [S.fact_cards_checked, "fact cards checked"],
-      [S.corrections, "corrections logged"], [S.candidates_found, "candidate sources awaiting approval"]
+      [S.corrections, "corrections logged"], [awaiting(), "candidate sources awaiting the owner&rsquo;s approval"]
     ].filter(function (s) { return s[0] != null; });
     var texts = Array.isArray(S.text) ? S.text : (S.text ? [S.text] : []);
     gHost.innerHTML = stats.length || texts.length ?
       '<div class="glance"><ul class="stat-grid">' + stats.map(function (s) {
-        return '<li><span class="stat-n">' + esc(s[0]) + '</span><span class="stat-l">' + esc(s[1]) + "</span></li>";
+        return '<li><span class="stat-n">' + esc(s[0]) + '</span><span class="stat-l">' + s[1] + "</span></li>";
       }).join("") + "</ul>" + (texts.length ? '<ul class="glance-text">' + texts.map(function (t) { return "<li>" + esc(t) + "</li>"; }).join("") + "</ul>" : "") + "</div>"
       : '<p class="none">No summary in the build log yet.</p>';
+    var ph = phaseList();
+    var numCols = [];
+    var KEY_COLS = ["agents", "runs", "fact_cards_checked", "corrections", "candidates_found"];
+    ph.forEach(function (x) { Object.keys(x.counts).forEach(function (k) { if (numCols.indexOf(k) === -1 && KEY_COLS.indexOf(k) !== -1) numCols.push(k); }); });
+    numCols.sort(function (a, b) { return KEY_COLS.indexOf(a) - KEY_COLS.indexOf(b); });
+    if (ph.length && numCols.length) {
+      gHost.innerHTML += '<h3>By phase</h3><div class="table-wrap"><table class="phase-table"><thead><tr><th>Phase</th>' +
+        numCols.map(function (k) { return '<th class="num">' + esc(human(k)) + "</th>"; }).join("") + "</tr></thead><tbody>" +
+        ph.map(function (x) {
+          return "<tr><td>" + esc(x.name) + "</td>" + numCols.map(function (k) { return '<td class="num">' + (x.counts[k] != null ? esc(x.counts[k]) : "") + "</td>"; }).join("") + "</tr>";
+        }).join("") + "</tbody></table></div>";
+    }
   }
+
+  /* ---------- 2b. Owner's decisions ---------- */
+  (function ownerDecisions(host) {
+    if (!host) return;
+    var od = L.owner_decisions || [];
+    if (!Array.isArray(od)) od = od.decisions || Object.keys(od).map(function (k) { var v = od[k]; return typeof v === "object" ? v : { title: k, detail: v }; });
+    if (!od.length) { host.innerHTML = '<p class="none">No owner decisions are recorded in the build log yet.</p>'; return; }
+    host.innerHTML = '<ol class="owner-list">' + od.map(function (d) {
+      if (typeof d === "string") d = { title: d };
+      var when = d.date || d.time || d.when || "";
+      var title = d.title || d.decision || d.what || "";
+      var detail = d.detail || d.text || d.why || d.reason || d.summary || "";
+      var phName = d.phase;
+      (L.phases || []).forEach && (L.phases || []).forEach(function (x) { if (x && x.id === d.phase) phName = x.name || d.phase; });
+      var phase = d.phase ? '<span class="chip">' + esc(phName) + "</span> " : "";
+      return '<li class="owner-item"><p class="owner-title">' + phase + "<strong>" + esc(title) + "</strong>" +
+        (when ? ' <span class="when">' + (/T\d\d:/.test(when) ? fmtTime(when) : esc(when)) + "</span>" : "") + "</p>" +
+        (detail ? "<p>" + esc(detail) + "</p>" : "") +
+        (d.source || d.recorded_in ? '<p class="ui small when">Recorded in ' + esc(d.source || d.recorded_in) + "</p>" : "") + "</li>";
+    }).join("") + "</ol>";
+  })($("owner-decisions"));
+
+  /* ---------- 2c. Phases ---------- */
+  (function phases(host) {
+    if (!host) return;
+    var ph = phaseList();
+    if (!ph.length) { host.innerHTML = '<p class="none">The phase breakdown is not in the build log yet.</p>'; return; }
+    host.innerHTML = '<ol class="phase-list">' + ph.map(function (x, i) {
+      return '<li class="phase-item"><p class="eyebrow">Step ' + (i + 1) + (x.start ? " · " + fmtTime(x.start) + (x.end ? " to " + fmtTime(x.end) : " (still running)") : "") + "</p>" +
+        "<h3>" + esc(x.name) + (x.status ? ' <span class="chip">' + esc(x.status) + "</span>" : "") + "</h3>" +
+        x.text.map(function (t) { return "<p>" + esc(t) + "</p>"; }).join("") +
+        (Object.keys(x.counts).length ? '<ul class="phase-counts">' + Object.keys(x.counts).map(function (k) {
+          return '<li><span class="stat-n">' + esc(x.counts[k]) + '</span><span class="stat-l">' + esc(human(k)) + "</span></li>";
+        }).join("") + "</ul>" : "") +
+        (x.agents.length ? '<p class="ui small"><strong>Agents:</strong> ' + x.agents.map(esc).join(", ") + "</p>" : "") +
+        (x.decisions.length ? "<details><summary>Coordinator decisions in this phase (" + x.decisions.length + ")</summary><ul>" + x.decisions.map(function (d) { return "<li>" + esc(d) + "</li>"; }).join("") + "</ul></details>" : "") +
+        "</li>";
+    }).join("") + "</ol>";
+  })($("phases"));
 
   /* ---------- 3. Team diagram ---------- */
   var planned = (L.briefs_not_yet_assigned || []).map(function (b) {
@@ -286,15 +362,16 @@
     }
     if (candHost) {
       var cands = G.candidates || [];
-      var approved = cands.filter(function (c) { return c.approved; });
+      var approved = cands.filter(function (c) { return c.approved && (c.batch || "phase1") === "phase1"; });
+      var approvedLater = cands.filter(function (c) { return c.approved && (c.batch || "phase1") !== "phase1"; });
       var pending = cands.filter(function (c) { return !c.approved; });
       var same = approved.filter(function (c) { return c.same_fingerprint; });
       var differ = approved.filter(function (c) { return !c.same_fingerprint; });
       function item(c) {
         return '<li class="cand-item' + (c.approved ? " approved" : "") + '"><p class="cand-title">' +
-          (c.approved ? '<a href="sources.html#src-' + esc(c.id) + '">' + esc(c.title) + "</a>" : esc(c.title)) + "</p>" +
-          '<p class="ui small">' + esc(c.source_body || "") + (c.date ? " · " + esc(c.date) : "") +
-          (c.official_or_mirror ? " · " + esc(c.official_or_mirror) + " copy" : "") +
+          (c.approved && c.title ? '<a href="sources.html#src-' + esc(c.id) + '">' + esc(c.title) + "</a>" : esc(c.description || "A candidate document")) + "</p>" +
+          '<p class="ui small">' + (c.approved ? esc(c.source_body || "") + (c.date ? " · " + esc(c.date) : "") + " · " : "") +
+          (c.official_or_mirror ? esc(c.official_or_mirror) + " copy" : "") +
           (c.fills_gap ? " · for gap " + esc(c.fills_gap) : "") + "</p>" +
           (c.approved
             ? '<p class="cand-status is-approved">Approved by the owner and added to the library on 2026-09-26.' +
@@ -303,7 +380,8 @@
       }
       var h2 = "";
       if (approved.length) {
-        h2 += "<p>The project owner reviewed the documents the Source Scout found. <strong>" + approved.length + " of " + cands.length +
+        var p1 = cands.filter(function (c) { return (c.batch || "phase1") === "phase1"; }).length;
+        h2 += "<h4>Found during Phase 1</h4><p>The project owner reviewed the documents the Source Scout found. <strong>" + approved.length + " of " + p1 +
           " were approved by the owner and added to the library on 2026-09-26</strong>. The owner then downloaded each one again from its official website, " +
           "so the library copy did not depend on the agent&rsquo;s download.</p>";
         h2 += '<p class="fp-note"><strong>Fingerprint check.</strong> ' + same.length + " of the " + approved.length +
@@ -312,9 +390,21 @@
           "</p>";
         h2 += '<ol class="cand-list">' + approved.map(item).join("") + "</ol>";
       }
+      if (approvedLater.length) {
+        h2 += "<h4>Found during Phase 2</h4><p>" + approvedLater.length + " of these were approved by the owner and added to the library.</p>" +
+          '<ol class="cand-list">' + approvedLater.map(function (c) {
+            return item(c).replace(/Approved by the owner and added to the library on 2026-09-26\./, "Approved by the owner and added to the library.");
+          }).join("") + "</ol>";
+      }
       if (pending.length) {
-        h2 += "<p>These documents are <strong>awaiting the project owner&rsquo;s approval and are not used anywhere on this site</strong>.</p>" +
-          '<ol class="cand-list">' + pending.map(item).join("") + "</ol>";
+        var batches = {};
+        pending.forEach(function (c) { (batches[c.batch || ""] = batches[c.batch || ""] || []).push(c); });
+        Object.keys(batches).forEach(function (b) {
+          h2 += "<h4>" + (b === "phase2" ? "Found during Phase 2" : b === "phase1" ? "Found during Phase 1" : "Other candidates") + "</h4>" +
+            "<p>These " + batches[b].length + " documents are <strong>awaiting the owner&rsquo;s approval and are not used on this site</strong>. " +
+            "Until they are approved, only a neutral description is shown here, not their titles.</p>" +
+            '<ol class="cand-list">' + batches[b].map(item).join("") + "</ol>";
+        });
       }
       candHost.innerHTML = cands.length ? h2 : '<p class="none">No candidates recorded.</p>';
     }

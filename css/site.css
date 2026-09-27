@@ -705,3 +705,14 @@ mark.anno.pw-target { outline-offset: 2px; }
 @media print { .pw-mini { display: none !important; } }
 /* Anchored targets clear the sticky header on wide screens. */
 @media (min-width: 901px) { main [id] { scroll-margin-top: 5rem; } }
+.owner-decisions { background: var(--bg-raised); border: 1px solid var(--rule); border-left: 5px solid var(--accent); border-radius: 8px; padding: .3rem 1.3rem 1rem; }
+.owner-list { padding-left: 1.3rem; margin: 0; }
+.owner-item { margin-bottom: .8rem; }
+.owner-item p { margin: 0 0 .2rem; }
+.phase-list { list-style: none; padding: 0; margin: 0; counter-reset: none; }
+.phase-item { border-left: 3px solid var(--accent); padding: .1rem 0 .6rem 1rem; margin-bottom: 1.2rem; }
+.phase-item h3 { margin: .2rem 0 .4rem; }
+.phase-counts { list-style: none; padding: 0; margin: .5rem 0; display: grid; gap: .5rem; grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr)); }
+.phase-counts li { background: var(--bg-sunk); border-radius: 6px; padding: .4rem .6rem; }
+.phase-counts .stat-n { font-size: 1.25rem; }
+.phase-table .num { text-align: right; font-variant-numeric: tabular-nums; }

@@ -35,7 +35,8 @@ OUT_JS = os.path.join(ROOT, 'build-log', 'log.js')
 MESSAGES = os.path.join(ROOT, 'build-log', 'messages.jsonl')
 MANIFEST = os.path.join(ROOT, 'sources', 'manifest.csv')
 DOWNLOAD_LOG = os.path.join(ROOT, 'sources', 'download_log.csv')
-CANDIDATES = os.path.join(ROOT, 'sources', 'candidates', 'candidates.csv')
+CANDIDATES = os.path.join(ROOT, 'sources', 'candidates', 'candidates.csv')              # Phase 1 Scout
+CANDIDATES_P2 = os.path.join(ROOT, 'sources', 'candidates', 'phase2', 'candidates.csv')  # Phase 2 Scout
 FACTS_DIR = os.path.join(ROOT, 'work', 'facts')
 DRAFTS_DIR = os.path.join(ROOT, 'work', 'drafts')
 FOOTNOTE = os.path.join(DRAFTS_DIR, 'footnote.json')
@@ -113,6 +114,37 @@ BEFORE_THE_AGENTS = {
 }
 
 
+# ---------------------------------------------------------------------------
+# Phases. A brief run belongs to the phase of its agent_start `wave`; every other
+# record belongs to the phase whose time window contains it. Windows come from
+# the coordinator's decision notes:
+#   Phase 1 ends at the decision titled "Phase 1 complete..."
+#   the Revision pass starts with the first note after that and ends at "Revision pass complete"
+#   Phase 2 starts at "Phase 2 approved..." (or its first phase2 agent_start) and runs to the newest note.
+# ---------------------------------------------------------------------------
+PHASES = [
+    {'id': 'phase1', 'name': 'Phase 1',
+     'waves': ['1', '1-review', '2', '3', '4'],
+     'plain': ('The agents read the source library, wrote and fact-checked fact cards, and built the Story, '
+               'the Cast of Characters, the Timeline, the Glossary, the annotated Footnote and this page; '
+               'the phase ended with a check-in with the project owner.')},
+    {'id': 'revision', 'name': 'Revision pass',
+     'waves': ['revision'],
+     'plain': ('The project owner approved the Source Scout\'s 10 candidate documents and added them, plus one more '
+               'hearing, to the library (11 documents in all); the agents then used them to fill in claims that '
+               'Phase 1 had left out or marked as not yet verified.')},
+    {'id': 'phase2', 'name': 'Phase 2',
+     'waves': ['phase2-A', 'phase2'],
+     'plain': ('The agents added the reading lenses, the pathways, a page on the banks, notes on other footnotes '
+               'in the same report, and "Why This Matters to You", each checked by a Fact-Checker.')},
+]
+WAVE_PHASE = {w: ph['id'] for ph in PHASES for w in ph['waves']}
+
+# Fact-card series (the letter before the number in a card id) and the phase that wrote them.
+CARD_SERIES_PHASE = {'A': 'phase1', 'B': 'phase1', 'C': 'phase1', 'F': 'phase1',
+                     'G': 'revision', 'N': 'phase2', 'K': 'phase2', 'S': 'phase2'}
+
+
 def rel(path):
     return os.path.relpath(path, ROOT).replace(os.sep, '/')
 
@@ -179,6 +211,10 @@ def load_corrections():
             continue
         keys = [slug(h) for h in header]
         row = {k: (cells[i] if i < len(cells) else '') for i, k in enumerate(keys)}
+        # Two Fact-Checkers sometimes appended at the same time, so the file's own '#' repeats.
+        # log_no is a unique number in file order; row_label keeps the file's '#' unchanged.
+        label = row.pop('number', '')
+        row = dict({'log_no': len(rows) + 1, 'row_label': label}, **row)
         row['recorded_in'] = 'build-log/corrections.md'
         rows.append(row)
     return rows
@@ -232,6 +268,10 @@ def load_messages():
 
 def split_targets(text):
     """'Reference Writer, Image Researcher and X' -> ['Reference Writer', 'Image Researcher', 'X']"""
+    text = re.sub(r'^(.*?)\s*\(Parts ([A-Z])((?:,\s*[A-Z])*)\s+and\s+([A-Z])\)$',
+                  lambda m: ', '.join('%s (Part %s)' % (m.group(1), x)
+                                      for x in [m.group(2)] + re.findall(r'[A-Z]', m.group(3)) + [m.group(4)]),
+                  str(text or '').strip())
     parts = re.split(r',\s*|\s+and\s+|\s*&\s+(?=[A-Z][a-z]+ [A-Z])', str(text or ''))
     return [p.strip() for p in parts if p.strip()]
 
@@ -293,6 +333,7 @@ def count_csv_rows(path):
 def fact_card_counts():
     written = checked = 0
     files = []
+    series = {}
     for path in sorted(glob.glob(os.path.join(FACTS_DIR, '*.json'))):
         try:
             data = json.load(open(path, encoding='utf-8'))
@@ -303,7 +344,13 @@ def fact_card_counts():
         files.append(rel(path))
         written += len(data)
         checked += sum(1 for c in data if str(c.get('checked') or '').strip())
-    return written, checked, files
+        for c in data:
+            m = re.match(r'([A-Z]+)-', str(c.get('id', '')))
+            k = m.group(1) if m else '?'
+            s = series.setdefault(k, {'series': k, 'file': rel(path), 'written': 0, 'checked': 0})
+            s['written'] += 1
+            s['checked'] += 1 if str(c.get('checked') or '').strip() else 0
+    return written, checked, files, [series[k] for k in sorted(series)]
 
 
 def annotation_counts():
@@ -337,6 +384,23 @@ def sources_cited(ids):
     return [i for i in ids if i in cited]
 
 
+def candidate_ids(path):
+    if not os.path.exists(path):
+        return []
+    with open(path, encoding='utf-8', newline='') as f:
+        return [r.get('id', '') for r in csv.DictReader(f) if any((v or '').strip() for v in r.values())]
+
+
+# Decisions made by the project owner (not the coordinator's own decisions that mention the owner):
+# the title starts with "Owner" or contains one of these phrases.
+OWNER_TITLE_PHRASES = ['owner approved', 'Owner decisions', 'Plan change requested by the project owner']
+
+
+def is_owner_decision(d):
+    t = str(d.get('title', ''))
+    return t.startswith('Owner') or any(ph.lower() in t.lower() for ph in OWNER_TITLE_PHRASES)
+
+
 def plural(n, one, many=None):
     return '%d %s' % (n, one if n == 1 else (many or one + 's'))
 
@@ -366,7 +430,7 @@ def main():
         return a
 
     def open_run(a):
-        runs = [r for r in a['runs'] if r['finished'] is None]
+        runs = [r for r in a['runs'] if r['finished'] is None and not r.get('_orphan')]
         return runs[-1] if runs else None
 
     for rec in records:
@@ -376,6 +440,11 @@ def main():
             decisions.append(c)
         elif t == 'agent_start':
             a = agent(rec.get('agent_id', rec.get('name', 'unknown')), rec)
+            # A resumed run that a handoff opened but no finish note ever closed is not
+            # continued by a new brief: set it aside (resolved after the loop).
+            for r in a['runs']:
+                if r['finished'] is None and r['kind'] == 'resumed':
+                    r['_orphan'] = True
             bf = rec.get('brief_file', '')
             text = briefs.get(bf)
             a['runs'].append(new_run(
@@ -467,6 +536,9 @@ def main():
                     if agents[handler]['name'] not in h['handled_by']:
                         h['handled_by'].append(agents[handler]['name'])
                     continue
+                if run.get('_orphan'):
+                    run['decision'] = 'no finish note'
+                    run['reason'] = 'No finish note was recorded before this agent started its next brief.'
             keep.append(run)
         a['runs'] = keep
 
@@ -546,18 +618,135 @@ def main():
                  **({'agent_id': r['agent_id']} if r.get('agent_id') else {})}
                 for r in records]
 
+    # ---- Phases ----
+    def first_time(pred):
+        return next((r.get('time') for r in records if pred(r)), None)
+
+    def dec_time(prefix):
+        return first_time(lambda r: r.get('type') == 'decision' and str(r.get('title', '')).startswith(prefix))
+
+    last_time = records[-1]['time'] if records else None
+    p1_end = dec_time('Phase 1 complete') or first_time(
+        lambda r: r.get('type') == 'agent_start' and WAVE_PHASE.get(str(r.get('wave'))) != 'phase1')
+    rev_start = first_time(lambda r: p1_end and r.get('time', '') > p1_end)
+    rev_end = dec_time('Revision pass complete')
+    p2_start = dec_time('Phase 2 approved') or first_time(
+        lambda r: r.get('type') == 'agent_start' and WAVE_PHASE.get(str(r.get('wave'))) == 'phase2')
+
+    def phase_of_time(t):
+        if not t or not p1_end or t <= p1_end:
+            return 'phase1'
+        if p2_start and t >= p2_start:
+            return 'phase2'
+        return 'revision'
+
+    for aid in order:
+        for run in agents[aid]['runs']:
+            w = run.get('wave')
+            run['phase'] = WAVE_PHASE.get(str(w)) if w is not None and str(w) in WAVE_PHASE \
+                else phase_of_time(run['started'] or run['finished'])
+    for item in timeline:
+        item['phase'] = phase_of_time(item['time'])
+    for d in decisions:
+        d['phase'] = phase_of_time(d.get('time'))
+    for w in web_sources:
+        w['phase'] = phase_of_time(w.get('time'))
+    for r in reviews:
+        r['phase'] = phase_of_time(r.get('time'))
+
+    # Corrections carry a date, not a time. Rows dated on or before the day Phase 1 ended are Phase 1.
+    # Later rows are appended in order. The Revision pass's rows come first: the unbroken run of rows
+    # that mention the revision pass or a G-card (the revision pass's card series). Everything after
+    # that run is Phase 2.
+    p1_day = (p1_end or '')[:10]
+    later = [c for c in corrections if 'log_no' in c and p1_day and str(c.get('date', ''))[:10] > p1_day]
+    rev_last = 0
+    for c in later:
+        if re.search(r'revision pass|\bG-\d', ' '.join(str(v) for v in c.values()), re.I):
+            rev_last = c['log_no']
+        else:
+            break
+    for c in corrections:
+        if c.get('recorded_in') != 'build-log/corrections.md':
+            c['phase'] = phase_of_time(c.get('time'))
+        elif not p1_day or str(c.get('date', ''))[:10] <= p1_day:
+            c['phase'] = 'phase1'
+        else:
+            c['phase'] = 'revision' if c['log_no'] <= rev_last else 'phase2'
+
     # ---- Summary block (all counts computed from files) ----
     ids = manifest_ids()
     read = sources_read(records, ids)
     cited = sources_cited(ids)
-    cards_written, cards_checked, card_files = fact_card_counts()
+    cards_written, cards_checked, card_files, card_series = fact_card_counts()
     anns, anns_checked = annotation_counts()
-    n_runs = sum(len(a['runs']) for a in agents.values())
-    n_resumed = sum(1 for a in agents.values() for r in a['runs'] if r['kind'] == 'resumed')
-    n_open = sum(1 for a in agents.values() for r in a['runs'] if r['finished'] is None)
+    all_runs = [r for a in agents.values() for r in a['runs']]
+    n_runs = len(all_runs)
+    n_resumed = sum(1 for r in all_runs if r['kind'] == 'resumed')
+    n_open = sum(1 for r in all_runs if r['finished'] is None)
     sites = sorted({w['site'] for w in web_sources if w['site']})
-    n_candidates = count_csv_rows(CANDIDATES)
-    n_files = count_csv_rows(DOWNLOAD_LOG)
+    cand1, cand2 = candidate_ids(CANDIDATES), candidate_ids(CANDIDATES_P2)
+    idset = set(ids)
+    cand1_ok = [c for c in cand1 if c in idset]
+    cand2_ok = [c for c in cand2 if c in idset]
+    n_candidates = len(cand1) + len(cand2)
+    n_corr = len(corrections)  # every row counted once, by log_no
+    dup_labels = sorted({c['row_label'] for c in corrections if c.get('row_label')
+                         and sum(1 for d in corrections if d.get('row_label') == c['row_label']) > 1},
+                        key=lambda x: (len(x), x))
+
+    windows = {'phase1': (records[0]['time'] if records else None, p1_end),
+               'revision': (rev_start, rev_end),
+               'phase2': (p2_start, last_time)}
+    phases = []
+    for ph in PHASES:
+        pid = ph['id']
+        pruns = [(aid, r) for aid in order for r in agents[aid]['runs'] if r['phase'] == pid]
+        p_agents = []
+        for aid, _ in pruns:
+            if aid not in p_agents:
+                p_agents.append(aid)
+        p_open = sum(1 for _, r in pruns if r['finished'] is None)
+        p_series = [s for s in card_series if CARD_SERIES_PHASE.get(s['series']) == pid]
+        p_sites = sorted({w['site'] for w in web_sources if w['phase'] == pid and w['site']})
+        p_cands = cand1 if pid == 'phase1' else (cand2 if pid == 'phase2' else [])
+        st, en = windows[pid]
+        status = 'in progress' if (pid == 'phase2' and p_open) else ('complete' if en else 'not started')
+        if pid == 'phase2' and not p_open and pruns:
+            status = 'complete (as of the newest note)'
+        phases.append({
+            'id': pid, 'name': ph['name'], 'start': st,
+            'end': None if status == 'in progress' else en,
+            'last_note': en if status == 'in progress' else None,
+            'status': status, 'waves': ph['waves'],
+            'summary': ph['plain'],
+            'agents': [{'id': a, 'name': agents[a]['name']} for a in p_agents],
+            'counts': {
+                'agents': len(p_agents),
+                'runs': len(pruns),
+                'runs_resumed_by_message': sum(1 for _, r in pruns if r['kind'] == 'resumed'),
+                'runs_still_open': p_open,
+                'coordinator_decisions': sum(1 for d in decisions if d['phase'] == pid),
+                'fact_card_series': [s['series'] for s in p_series],
+                'fact_cards_written': sum(s['written'] for s in p_series),
+                'fact_cards_checked': sum(s['checked'] for s in p_series),
+                'corrections': sum(1 for c in corrections if c.get('phase') == pid),
+                'web_sites': p_sites,
+                'candidates_found': len(p_cands),
+            },
+        })
+    for ph in phases:
+        c = ph['counts']
+        c_text = '%s ran %s in %s' % (ph['name'], plural(c['agents'], 'agent'), plural(c['runs'], 'run'))
+        c_text += (' (%d still working)' % c['runs_still_open']) if c['runs_still_open'] else ''
+        extras = []
+        if c['fact_cards_written']:
+            extras.append('%s written (%d checked)' % (plural(c['fact_cards_written'], 'fact card'), c['fact_cards_checked']))
+        extras.append(plural(c['corrections'], 'correction'))
+        if c['candidates_found']:
+            extras.append(plural(c['candidates_found'], 'candidate source'))
+        ph['counts_text'] = c_text + ': ' + ', '.join(extras) + '.'
+
     summary = {
         'agents': len(order),
         'runs': n_runs,
@@ -565,6 +754,7 @@ def main():
         'runs_resumed_by_message': n_resumed,
         'runs_still_open': n_open,
         'coordinator_decisions': len(decisions),
+        'owner_decisions': len([d for d in decisions if is_owner_decision(d)]),
         'library_documents': len(ids),
         'sources_read': len(read),
         'sources_read_ids': read,
@@ -572,30 +762,46 @@ def main():
         'fact_cards_written': cards_written,
         'fact_cards_checked': cards_checked,
         'fact_card_files': card_files,
+        'fact_card_series': card_series,
         'footnote_annotations': anns,
         'footnote_annotations_checked': anns_checked,
-        'corrections': len(corrections),
+        'corrections': n_corr,
+        'corrections_note': ('Counted by log_no. The file\'s own row numbers repeat (%s) because two '
+                             'Fact-Checkers appended rows at the same time.' % ', '.join(dup_labels))
+                            if dup_labels else 'Counted by log_no.',
         'web_sources': len(sites),
         'web_sites': sites,
         'candidates_found': n_candidates,
+        'candidates_phase1': len(cand1),
+        'candidates_phase1_approved': len(cand1_ok),
+        'candidates_phase2': len(cand2),
+        'candidates_phase2_approved': len(cand2_ok),
+        'candidates_awaiting_approval': (len(cand1) - len(cand1_ok)) + (len(cand2) - len(cand2_ok)),
+        'phases': [{'id': ph['id'], 'name': ph['name'], **ph['counts']} for ph in phases],
+        'phases_note': ('Fact cards are assigned to a phase by their series letter (A, B, C, F: Phase 1; '
+                        'G: Revision pass; K, N, S: Phase 2); a few later F-cards were added in follow-ups. '
+                        'Corrections are assigned by date and order in corrections.md.'),
         'counted_from': ['build-log/inbox.jsonl', 'sources/manifest.csv', 'work/facts/*.json',
                          'work/facts/*readlog*.md', 'work/facts/factcheck-*.md', 'work/drafts/*',
-                         'build-log/corrections.md', 'sources/candidates/candidates.csv'],
+                         'build-log/corrections.md', 'sources/candidates/candidates.csv',
+                         'sources/candidates/phase2/candidates.csv'],
     }
     summary['text'] = [
         'The coordinator ran %s, in %s: %d started from a written brief and %d resumed by a follow-up message%s.'
         % (plural(len(order), 'agent'), plural(n_runs, 'run'), n_runs - n_resumed, n_resumed,
            ' (%d still working)' % n_open if n_open else ''),
-        'The library holds %s. The agents opened %d of them, and the site cites %d.'
+        'The library now holds %s. The agents opened %d of them, and the site cites %d.'
         % (plural(len(ids), 'document'), len(read), len(cited)),
-        'The Readers wrote %s: short, sourced notes of one fact each. The Fact-Checker checked %s of them against the documents, plus %d of the %s on the footnote.'
+        'The Readers wrote %s: short, sourced notes of one fact each. The Fact-Checkers checked %d of them against the documents, plus %d of the %s on Note 16.'
         % (plural(cards_written, 'fact card'), cards_checked, anns_checked, plural(anns, 'annotation')),
-        'The Fact-Checker logged %s.' % plural(len(corrections), 'correction'),
-        'Agents used %s, only for images and for the Source Scout\'s search: %s.'
+        'The Fact-Checkers logged %s.' % plural(n_corr, 'correction'),
+        'Agents used %s, only for images and for the Source Scout\'s searches: %s.'
         % (plural(len(sites), 'website'), ', '.join(sites) if sites else 'none'),
-        'The Source Scout found %s for missing sources. None of them may be used until the project owner approves it.'
-        % plural(n_candidates, 'candidate document'),
-    ]
+        'The Source Scout found %s in Phase 1 (the project owner approved %d and added them to the library) and %s in Phase 2 (%d approved so far). No agent may use a candidate until the owner approves it.'
+        % (plural(len(cand1), 'candidate document'), len(cand1_ok), plural(len(cand2), 'candidate document'), len(cand2_ok)),
+    ] + [ph['counts_text'] for ph in phases]
+
+    owner_decisions = [dict(d) for d in decisions if is_owner_decision(d)]
 
     generated = records[-1]['time'] if records else None
 
@@ -604,6 +810,8 @@ def main():
         'generated': generated,
         'generated_note': 'Time of the newest coordinator note; the log is rebuilt from the notes by work/tools/build_log.py.',
         'summary': summary,
+        'phases': phases,
+        'owner_decisions': owner_decisions,
         'coordinator': {
             'name': 'Coordinator',
             'role': COORDINATOR_ROLE,
@@ -628,10 +836,10 @@ def main():
     with open(OUT_JS, 'w', encoding='utf-8', newline='\n') as f:
         f.write('// Generated by work/tools/build_log.py from build-log/inbox.jsonl. Do not edit by hand.\n')
         f.write('window.BUILD_LOG = ' + body + ';\n')
-    print('wrote %s and %s: %d notes, %d agents, %d runs (%d resumed, %d open), %d decisions, '
-          '%d corrections, %d messages, %d web sites, %d candidates'
+    print('wrote %s and %s: %d notes, %d agents, %d runs (%d resumed, %d open), %d decisions '
+          '(%d owner), %d corrections, %d messages, %d web sites, %d+%d candidates'
           % (rel(OUT_JSON), rel(OUT_JS), len(records), len(order), n_runs, n_resumed, n_open,
-             len(decisions), len(corrections), len(messages), len(sites), n_candidates))
+             len(decisions), len(owner_decisions), n_corr, len(messages), len(sites), len(cand1), len(cand2)))
 
 
 if __name__ == '__main__':

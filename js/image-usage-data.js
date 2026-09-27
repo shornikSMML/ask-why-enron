@@ -28,6 +28,10 @@ window.IMAGE_USAGE = {
   {
    "href": "chapters/ch3.html",
    "label": "Chapter 3"
+  },
+  {
+   "href": "banks.html",
+   "label": "The Banks"
   }
  ],
  "diagram-chewco-ljm": [
@@ -70,6 +74,18 @@ window.IMAGE_USAGE = {
   {
    "href": "chapters/ch7.html",
    "label": "Chapter 7"
+  }
+ ],
+ "diagram-prepay": [
+  {
+   "href": "banks.html",
+   "label": "The Banks"
+  }
+ ],
+ "diagram-sox-map": [
+  {
+   "href": "why-it-matters.html",
+   "label": "Why This Matters to You"
   }
  ]
 };

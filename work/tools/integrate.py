@@ -112,6 +112,16 @@ def fill_home(deks):
     print("Home page")
     p = ROOT / "index.html"
     page = read(p)
+    deks = dict(deks)
+    for name in ("banks", "why-it-matters"):   # Phase 2 pages: dek from the page's own draft
+        d = DRAFTS / f"{name}.html"
+        m = DEK_RE.search(read(d)) if d.exists() else None
+        if m:   # the home card takes the dek's first sentence
+            dek = strip_tags(m.group(1))
+            first = re.match(r"(.+?[.?!])(\s|$)", dek)
+            deks[name] = first.group(1) if first else dek
+        else:
+            print(f"  note: no dek for {name} yet")
     for n, dek in deks.items():
         page, k = re.subn(r'(<p[^>]*data-dek="' + str(n) + r'"[^>]*>).*?(</p>)',
                           lambda m: m.group(1) + html.escape(dek, quote=False) + m.group(2), page, count=1, flags=re.S)
@@ -257,10 +267,10 @@ def wrap_phase2():
 def image_usage():
     print("Image usage")
     usage = {}
-    for n in range(1, 8):
-        p = ROOT / "chapters" / f"ch{n}.html"
-        for img in re.findall(r'<figure[^>]*data-image="([^"]+)"', read(p)):
-            usage.setdefault(img, []).append({"href": f"chapters/ch{n}.html", "label": f"Chapter {n}"})
+    pages = [(f"chapters/ch{n}.html", f"Chapter {n}") for n in range(1, 8)] + [("banks.html", "The Banks"), ("why-it-matters.html", "Why This Matters to You")]
+    for rel, label in pages:
+        for img in re.findall(r'<figure[^>]*data-image="([^"]+)"', read(ROOT / rel)):
+            usage.setdefault(img, []).append({"href": rel, "label": label})
     for page, label, var in (("cast.html", "Cast of Characters", "CAST"),):
         data = load_js_var(ROOT / "js" / "cast-data.js", var) or []
         for person in data:

@@ -59,3 +59,11 @@ The coordinator merged the agents' own gap files (`work/facts/*-gaps.md`, which 
 | 26 | Why the Kopper complaint gives Dec 3, 2001 for the bankruptcy when other sources say Dec 2 | Bankruptcy docket / petition (likely PACER) | minor | Fact-Checker | not searched (10-candidate limit reached) |
 | 27 | Board minutes approving LJM2 (Oct 11 vs. Oct 12, 1999) | Enron board minutes (hearing exhibit) | minor | Fact-Checker | not searched (10-candidate limit reached) |
 | 28 | Ratio of Enron's 1999 stock split (explains 6.8M vs. 3.4M Rhythms shares) | Enron 10-K for 1999 or an 8-K (sec.gov) | minor | Fact-Checker | not searched (10-candidate limit reached) |
+
+## Added during the revision pass
+
+| # | Claim we wanted to make | Kind of document that would support it | Importance | Raised by | Status |
+|---|---|---|---|---|---|
+| 29 | What later happened to David Duncan's 2002 guilty plea (the library shows the plea but not its date, any sentence, or any later development). The Fact-Checker notes, from memory only, that the plea may have been withdrawn after the 2005 reversal of Andersen's conviction. This must not appear on the site without a source. | Court order or DOJ statement in U.S. v. Duncan (S.D. Tex.); likely PACER | critical | Fact-Checker | open |
+| 30 | Kopper's sentence | DOJ press release or judgment, U.S. v. Kopper | useful | Reader B | open |
+| 31 | The sentence actually imposed on Skilling after the 2013 agreement | Judgment or DOJ press release (2013) | useful | Reader B | open (DOJ page blocked by a bot check; owner may save it from a browser) |

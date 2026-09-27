@@ -22,6 +22,7 @@
     "convicted \u2014 later narrowed on appeal": "Convicted; later narrowed on appeal",
     "conviction vacated (died before appeal)": "Conviction vacated (died before appeal)",
     "conviction vacated after his death": "Conviction vacated after his death",
+    "pleaded guilty (2002); later history not in library": "Pleaded guilty (2002); later history not in our sources",
     "conviction reversed": "Conviction reversed",
     "pleaded guilty": "Pleaded guilty",
     "SEC settlement": "SEC settlement",

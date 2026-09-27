@@ -1,6 +1,6 @@
 # Source Scout (Phase 2): websites and URLs visited
 
-Agent: Source Scout (Phase 2). Date: 2026-09-27. All requests used curl through the configured proxy with the User-Agent "AskWhy-Enron-Dryrun research contact steven.hornik@icloud.com". No web search engine was used; all URLs were requested directly. No site showed a bot check, CAPTCHA, or refusal.
+Agent: Source Scout (Phase 2). Date: 2026-09-27. All requests used curl through the configured proxy with the User-Agent "AskWhy-Enron-Dryrun research contact [owner's contact email]". No web search engine was used; all URLs were requested directly. No site showed a bot check, CAPTCHA, or refusal.
 Candidates are NOT part of the library and may not be cited until the owner approves them. Contents are not summarized here.
 
 | URL | Result | What it was / what I found |

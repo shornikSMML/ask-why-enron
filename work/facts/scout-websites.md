@@ -1,6 +1,6 @@
 # Source Scout: websites and URLs visited
 
-Agent: Source Scout. Date: 2026-09-26. All downloads used the User-Agent "AskWhy-Enron-Dryrun research contact steven.hornik@icloud.com".
+Agent: Source Scout. Date: 2026-09-26. All downloads used the User-Agent "AskWhy-Enron-Dryrun research contact [owner's contact email]".
 Candidates are NOT part of the library and may not be cited until the owner approves them. Contents are not summarized here.
 
 ## Web searches (search engine, to locate official URLs)

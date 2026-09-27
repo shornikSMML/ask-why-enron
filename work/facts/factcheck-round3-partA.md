@@ -178,7 +178,7 @@ No required fixes remain for chapters 1-7.
 Date: 2026-09-27. Scope: the ch6 and ch7 sentences changed under "Story Writer (chapters)" in `work/facts/fixes-revision.md`, followed by a whole-chapter sweep of ch6 and ch7.
 
 **The new documents are approved library documents.**
-- The 11 new ids are in `sources/manifest.csv`. They were added by the owner's own commit (44168d9, "Add files via upload", steven.hornik@icloud.com), and the download action logged them as `OK` with fingerprints.
+- The 11 new ids are in `sources/manifest.csv`. They were added by the owner's own commit (44168d9, "Add files via upload", [owner's contact email]), and the download action logged them as `OK` with fingerprints.
 - I recomputed SHA-256 for all 11, and **all match `download_log.csv`**. Ten are filed in the folder `sources/candidates/`; the eleventh (`hrg-hfs-enron-investors-pt1`) is in `05-hearings-enron`.
 - Citing them is allowed: they are in the manifest, not only in `candidates.csv`.
 - Note for the coordinator: the site's links will point into a folder named "candidates". That may confuse readers, but it is not a sourcing problem.

@@ -9,20 +9,6 @@
     "money": {
       "notes": [
         {
-          "para_index": 4,
-          "para_key": "ch1-p4",
-          "para_start": "On July 1, 1985, InterNorth bought HNG. It",
-          "text": "Follow the money: Enron began as the result of a large cash purchase. InterNorth paid HNG's shareholders $2.4 billion in cash for all of their stock.",
-          "cites": [
-            {
-              "card": "A-002",
-              "source_id": "rpt-jct-vol1",
-              "page": 88,
-              "loc": "p. 60, Part Two, II.B.1"
-            }
-          ]
-        },
-        {
           "para_index": 13,
           "para_key": "ch1-p13",
           "para_start": "In 1996, Enron introduced a plan it called",
@@ -442,20 +428,6 @@
           ]
         },
         {
-          "para_index": 17,
-          "para_key": "ch2-p17",
-          "para_start": "The committee found that Enron's management therefore preferred",
-          "text": "Follow the money: keeping debt off the balance sheet does not make it disappear; it changes where, and whether, it is reported. The committee found management preferred this treatment because of how Enron would look on the ratios used by analysts and rating agencies.",
-          "cites": [
-            {
-              "card": "A-029",
-              "source_id": "powers-report-sec",
-              "page": 43,
-              "loc": "p. 37, I. Background: Enron and Special Purpose Entities"
-            }
-          ]
-        },
-        {
           "para_index": 19,
           "para_key": "ch2-p19",
           "para_start": "Years later, the court-appointed bankruptcy examiner, in an",
@@ -556,7 +528,7 @@
           "para_index": 18,
           "para_key": "ch2-p18",
           "para_start": "At the end of 2000, Enron reported total",
-          "text": "The Auditors: this is Andersen's standard \"clean\" opinion. On November 8, 2001, Enron said that the audit reports for 1997 through 2000 \"should not be relied upon\" (Chapter 5).",
+          "text": "The Auditors: this is Andersen's standard clean, or unqualified, opinion. On November 8, 2001, Enron said that the audit reports for 1997 through 2000 \"should not be relied upon\" (Chapter 5).",
           "cites": [
             {
               "card": "A-027",
@@ -874,20 +846,6 @@
           ]
         },
         {
-          "para_index": 16,
-          "para_key": "ch3-p16",
-          "para_start": "When the Rhythms deal was unwound in 2000,",
-          "text": "Follow the money: in about two months, $25,000 became $4.5 million for Fastow's family foundation, and $5,800 became $1 million for each of two employees, the special committee found.",
-          "cites": [
-            {
-              "card": "A-050",
-              "source_id": "powers-report-sec",
-              "page": 22,
-              "loc": "p. 16 (details pp. 92-93), Executive Summary - Self-Dealing Issues; IV.F"
-            }
-          ]
-        },
-        {
           "para_index": 19,
           "para_key": "ch3-p19",
           "para_start": "In the last two quarters of 2000, $532",
@@ -1012,7 +970,7 @@
           ]
         },
         {
-          "text": "The committee found that Chewco's cash collateral was \"fatal\" to its compliance with the 3% requirement. In a January 2002 letter to Congress, Andersen's chief executive, Joseph Berardino, wrote that Andersen had not been told in 1997 of the reserve agreement behind that collateral.",
+          "text": "The committee found that Chewco's cash collateral was \"fatal\" to its compliance with the 3% requirement. In a January 2002 letter to Congress, Andersen's chief executive, Joseph Berardino, wrote that Andersen had not been told in 1997 of an agreement to put $6 million into a reserve account for Barclays' benefit, which left only about half of the required equity at risk. That is Andersen's own account.",
           "cites": [
             {
               "card": "A-035",
@@ -1029,7 +987,7 @@
           ]
         },
         {
-          "text": "Andersen's CEO said in a written statement to a House hearing in December 2001 that the firm's judgment that the Rhythms entity met the 3 percent test \"was in error.\"",
+          "text": "Andersen's chief executive, Joseph Berardino, said in a written statement to a House hearing in December 2001 that the firm's judgment that the Rhythms entity met the 3 percent test \"was in error.\"",
           "cites": [
             {
               "card": "G-032",
@@ -1722,20 +1680,6 @@
     "knew": {
       "notes": [
         {
-          "para_index": 3,
-          "para_key": "ch4-p3",
-          "para_start": "What the directors took from such discussions is",
-          "text": "Who Knew What, When: Jaedicke drew a line between knowing the company took risks and hearing the auditor's specific warnings. He testified that he never heard phrases like \"form over substance\" used.",
-          "cites": [
-            {
-              "card": "B-078",
-              "source_id": "hrg-psi-board",
-              "page": 41,
-              "loc": "p. 31, Questioning by Senator Levin"
-            }
-          ]
-        },
-        {
           "para_index": 5,
           "para_key": "ch4-p5",
           "para_start": "On February 5, 2001, senior Andersen partners held",
@@ -2098,20 +2042,6 @@
           ]
         },
         {
-          "para_index": 7,
-          "para_key": "ch5-p7",
-          "para_start": "Enron's credit was now in danger. Enron said",
-          "text": "Follow the money: Enron's 10-Q stated that a downgrade below investment grade could require much more cash collateral for its trading. For a trader, the credit rating was a direct link to cash.",
-          "cites": [
-            {
-              "card": "A-079",
-              "source_id": "enron-10q-q3-2001",
-              "page": null,
-              "loc": "pp. 9-10, Note 2 Recent Events - Financial Condition; Liquidity Actions"
-            }
-          ]
-        },
-        {
           "para_index": 9,
           "para_key": "ch5-p9",
           "para_start": "Enron's quarterly report, filed November 19, gave refined",
@@ -2129,7 +2059,7 @@
           "para_index": 12,
           "para_key": "ch5-p12",
           "para_start": "The quarterly report Enron filed on November 19",
-          "text": "Follow the money: these were debt \"triggers\": terms making loans come due early if Enron's credit rating or stock price fell. One downgrade made a $690 million note payable, and about $3.9 billion more could follow.",
+          "text": "Follow the money: these were debt triggers: terms making loans come due early if Enron's credit rating or stock price fell. One downgrade made a $690 million note payable, and about $3.9 billion more could follow.",
           "cites": [
             {
               "card": "A-080",
@@ -2156,20 +2086,6 @@
               "source_id": "batson-1st-interim",
               "page": 9,
               "loc": "p. 7, I.B Enron's November 19, 2001 Bank Presentation"
-            }
-          ]
-        },
-        {
-          "para_index": 15,
-          "para_key": "ch5-p15",
-          "para_start": "On November 28, all three major credit rating",
-          "text": "Follow the money: the stock fell from $4.11 to $0.61 in a day. On October 16 it had been $34.30, according to the congressional tax staff.",
-          "cites": [
-            {
-              "card": "A-091",
-              "source_id": "rpt-jct-vol1",
-              "page": 112,
-              "loc": "p. 84, Part Two, II.C.4 Illiquidity and failed merger attempts during November 2001"
             }
           ]
         },
@@ -2599,20 +2515,6 @@
               "source_id": "batson-final-app-b-part1",
               "page": 32,
               "loc": "p. 30, II.B Fees; n. 86"
-            }
-          ]
-        },
-        {
-          "para_index": 5,
-          "para_key": "ch6-p5",
-          "para_start": "Some of that other work concerned the very",
-          "text": "Follow the money: the $5.7 million was paid by Enron for Andersen's advice on the very partnerships the special committee later examined, on top of the regular audit fees.",
-          "cites": [
-            {
-              "card": "A-061",
-              "source_id": "powers-report-sec",
-              "page": 11,
-              "loc": "p. 5 (Raptors p. 132), Executive Summary; V.F Conclusions on the Raptors"
             }
           ]
         }
@@ -3658,7 +3560,7 @@
           ]
         },
         {
-          "text": "Skilling testified that he did not believe Enron was in financial peril when he left. A jury later convicted him on nineteen counts, and in 2011 the appeals court affirmed his convictions on all counts.",
+          "text": "Skilling testified that he did not believe Enron was in financial peril when he left. A jury later convicted him on nineteen counts. After the Supreme Court's 2010 ruling limiting one legal theory used against him, the appeals court in 2011 found the error harmless and affirmed his convictions on all counts.",
           "cites": [
             {
               "card": "B-023",
@@ -3671,6 +3573,12 @@
               "source_id": "ca5-skilling-2009",
               "page": 15,
               "loc": "p. 15, II. Trial and Sentence"
+            },
+            {
+              "card": "B-028",
+              "source_id": "skilling-scotus-2010",
+              "page": 9,
+              "loc": "p. 366, Syllabus, Held 1 and (c)"
             },
             {
               "card": "G-024",

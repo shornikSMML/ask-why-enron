@@ -1,0 +1,1912 @@
+[
+ {
+  "id": "S-001",
+  "topic": "SOX Sec. 101(d): SEC must certify the Board is ready",
+  "claim": "Section 101(d) told the new Board to organize itself (hire staff, propose rules, adopt starting standards) so that the SEC could decide, within 270 days of the law's enactment, that the Board was ready to operate.",
+  "quote": "not later than 270 days after the date of enactment of this Act, that the Board is so organized and has the capacity to carry out the requirements of this title",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 101(d)",
+   "lines": "430-432 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "101",
+  "aspect": "law",
+  "notes": "The SEC made this determination on April 25, 2003 (cards C-081 and S-019). 270 days after July 30, 2002 is April 26, 2003 (my arithmetic, not stated in a source)."
+ },
+ {
+  "id": "S-002",
+  "topic": "SOX Sec. 101(e): who sits on the PCAOB",
+  "claim": "Board members are appointed by the SEC (after consulting the Federal Reserve chairman and the Treasury Secretary) within 90 days of enactment, serve five-year staggered terms, and may serve no more than two terms.",
+  "quote": "No person may serve as a member of the Board, or as chairperson of the Board, for more than 2 terms, whether or not such terms of service are consecutive.",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 101(e)(4)-(5)",
+   "lines": "491-494 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "101",
+  "aspect": "law",
+  "notes": "Appointment deadline and consultation: Sec. 101(e)(4)(A), lines 463-473. Five-year terms: 101(e)(5)(A). Two-CPA limit is card C-073."
+ },
+ {
+  "id": "S-003",
+  "topic": "SOX Sec. 101(e)(3): Board members cut ties with accounting firms",
+  "claim": "PCAOB members must work full time for the Board, may hold no other job, and may not share in the profits of, or take payments from, an accounting firm, except fixed retirement payments.",
+  "quote": "No member of the Board may share in any of the profits of, or receive payments from, a public accounting firm",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 101(e)(3)",
+   "lines": "455-457 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "101",
+  "aspect": "law",
+  "notes": ""
+ },
+ {
+  "id": "S-004",
+  "topic": "SOX Sec. 102: auditors must register",
+  "claim": "Starting 180 days after the SEC declares the Board ready, it is illegal for any accounting firm that is not registered with the PCAOB to prepare or help prepare an audit report on a public company.",
+  "quote": "it shall be unlawful for any person that is not a registered public accounting firm to prepare or issue, or to participate in the preparation or issuance of, any audit report with respect to any issuer.",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 102(a)",
+   "lines": "575-578 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "102",
+  "aspect": "law",
+  "notes": "With the April 25, 2003 SEC determination, the 180 days would end in late October 2003; no library document states the actual deadline date or when firms registered (gap logged)."
+ },
+ {
+  "id": "S-005",
+  "topic": "SOX Sec. 102(b): firms must report fees for audit vs. non-audit work",
+  "claim": "A firm's registration application must list every public company it audits and the fees it received from each one, split into audit services, other accounting services, and non-audit services.",
+  "quote": "the annual fees received by the firm from each such issuer for audit services, other accounting services, and non-audit services, respectively;",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 102(b)(2)(A)-(B)",
+   "lines": "594-596 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "102",
+  "aspect": "law",
+  "notes": "Useful link to the Andersen fee cards (C-019 to C-022): the Board now sees the audit/consulting split for every client."
+ },
+ {
+  "id": "S-006",
+  "topic": "SOX Sec. 103: what the Board's auditing standards must require",
+  "claim": "Section 103 requires the PCAOB's auditing standards to make firms keep audit work papers for at least seven years, have a second partner review and approve each audit report, and describe in each audit report their testing of the company's internal controls.",
+  "quote": "prepare, and maintain for a period of not less than 7 years, audit work papers, and other information related to any audit report, in sufficient detail to support the conclusions reached in such report;",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 103(a)(2)(A)(i)-(iii)",
+   "lines": "697-701 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "103",
+  "aspect": "law",
+  "notes": "Seven years here (a Board standard) differs from the five-year criminal retention rule for auditors in Sec. 802 (18 U.S.C. 1520; card C-079). Both are in the Act; do not conflate them."
+ },
+ {
+  "id": "S-007",
+  "topic": "SOX Sec. 103(a)(3)(B): borrowing the old standards to start",
+  "claim": "To get started, the Board could adopt existing professional standards as 'initial or transitional' standards, which the SEC would approve at the same time it declared the Board ready.",
+  "quote": "shall adopt standards described in subparagraph (A)(i) as initial or transitional standards, to the extent the Board determines necessary, prior to a determination of the",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 103(a)(3)(B)",
+   "lines": "782-785 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "103",
+  "aspect": "law",
+  "notes": "Pairs with the SEC's April 25, 2003 order under Sec. 103(a)(3)(B) (card S-019). The library copy of that order is only the SEC landing page, so what the interim standards were is not documented (gap logged)."
+ },
+ {
+  "id": "S-008",
+  "topic": "SOX Sec. 104: inspections",
+  "claim": "The PCAOB must inspect every registered firm: every year for firms that regularly audit more than 100 public companies, and at least every three years for firms that audit 100 or fewer.",
+  "quote": "annually with respect to each registered public accounting firm that regularly provides audit reports for more than 100 issuers; and",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 104(a)-(b)",
+   "lines": "844-846 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "104",
+  "aspect": "law",
+  "notes": "Three-year rule: Sec. 104(b)(1)(B), lines 850-853. The Board may adjust these schedules by rule."
+ },
+ {
+  "id": "S-009",
+  "topic": "SOX Sec. 104(g): what inspection reports make public",
+  "claim": "Inspection reports go to the SEC and state regulators and are made public in appropriate detail, but criticisms of a firm's quality-control system stay private if the firm fixes them to the Board's satisfaction within 12 months.",
+  "quote": "no portions of the inspection report that deal with criticisms of or potential defects in the quality control systems of the firm under inspection shall be made public if those criticisms or defects are addressed by the firm",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 104(g)",
+   "lines": "921-924 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "104",
+  "aspect": "law",
+  "notes": ""
+ },
+ {
+  "id": "S-010",
+  "topic": "SOX Sec. 105: Board penalties",
+  "claim": "If the PCAOB finds violations it can suspend or revoke a firm's registration, bar individuals, censure, require training, or fine up to $100,000 per person or $2 million per firm; for intentional, knowing or reckless conduct (or repeated negligence) fines can reach $750,000 per person or $15 million per firm.",
+  "quote": "not more than $750,000 for a natural person or $15,000,000 for any other person;",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 105(c)(4)-(5)",
+   "lines": "1152-1153 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "105",
+  "aspect": "law",
+  "notes": "The higher penalties, suspensions and bars apply only to intentional or knowing conduct, including reckless conduct, or repeated negligence (Sec. 105(c)(5), lines 1161-1170). Sec. 105(c)(6) adds liability for failure to supervise."
+ },
+ {
+  "id": "S-011",
+  "topic": "SOX Sec. 107: the SEC oversees the Board",
+  "claim": "The SEC has oversight and enforcement authority over the PCAOB; no Board rule takes effect without SEC approval (except the initial transitional standards).",
+  "quote": "No rule of the Board shall become effective without prior approval of the Commission in accordance with this section",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 107(a)-(b)",
+   "lines": "1346-1348 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "107",
+  "aspect": "law",
+  "notes": ""
+ },
+ {
+  "id": "S-012",
+  "topic": "SOX Sec. 108: who writes accounting rules",
+  "claim": "Section 108 lets the SEC recognize as 'generally accepted' the accounting principles set by a private standard-setter whose board majority has not been tied to an audit firm in the prior two years and which is funded under Sec. 109.",
+  "quote": "is organized as a private entity;",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 108(a), adding Securities Act Sec. 19(b)",
+   "lines": "1503 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "108",
+  "aspect": "law",
+  "notes": "The statute does not name FASB; the Senate report (S. Rept. 107-205, PDF p. 16-17) and CRS (CRS-5) identify it as the Financial Accounting Standards Board. Quote is short because the clause is a list; the claim summarizes 19(b)(1)(A)(i)-(v)."
+ },
+ {
+  "id": "S-013",
+  "topic": "SOX Sec. 109: who pays for the PCAOB and FASB",
+  "claim": "The PCAOB's and the accounting standard-setter's budgets are paid by 'accounting support fees' charged to public companies in proportion to their stock-market value; the Board's budget needs SEC approval, and penalty money funds accounting scholarships.",
+  "quote": "shall be used to fund a merit scholarship program for undergraduate and graduate students enrolled in accredited accounting degree programs",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 109(b)-(d), (g)",
+   "lines": "1611-1613 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "109",
+  "aspect": "law",
+  "notes": "Fee allocation by average monthly equity market capitalization: Sec. 109(g), lines 1650-1665. Fees 'shall not be considered public monies' (109(c)(1)). The scholarship use is subject to appropriations."
+ },
+ {
+  "id": "S-014",
+  "topic": "Why a PCAOB: self-regulation judged a failure",
+  "claim": "The Senate Banking Committee report quoted Shaun O'Malley, chairman of the 2000 Panel on Audit Effectiveness, calling the profession's mix of public oversight and voluntary self-regulation inadequate; the committee said twenty witnesses stressed the need for a strong board.",
+  "quote": "The profession's combination of public oversight and voluntary self-regulation is extensive, Byzantine, and insufficient.",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 9,
+   "printed_page": "p. 5",
+   "section": "Title I, Public Company Accounting Oversight Board",
+   "lines": "463-465 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [
+   "Shaun O'Malley"
+  ],
+  "event_date": "2002-03-06",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "101",
+  "aspect": "problem",
+  "notes": "O'Malley testified March 6, 2002 (report fn. 3). The report is the Senate Banking Committee's own explanation (filed July 3, 2002; ordered reported June 18)."
+ },
+ {
+  "id": "S-015",
+  "topic": "Why a PCAOB: Volcker on self-regulation",
+  "claim": "Former Federal Reserve chairman Paul Volcker told the Senate Banking Committee that repeated industry self-regulation efforts had been unsatisfactory and that government oversight with investigative and enforcement powers was needed.",
+  "quote": "those efforts at self-regulation have been unsatisfactory. Thus, experience strongly suggests that governmental oversight, with investigation and enforcement powers, is necessary to assure discipline.",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 9,
+   "printed_page": "p. 5",
+   "section": "Title I (quoting Volcker testimony, Feb 14, 2002)",
+   "lines": "480-483 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [
+   "Paul Volcker"
+  ],
+  "event_date": "2002-02-14",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "101",
+  "aspect": "problem",
+  "notes": "Volcker's words as quoted in the committee report (fn. 4). Attribute as 'Volcker told the committee', citing the report."
+ },
+ {
+  "id": "S-016",
+  "topic": "The Public Oversight Board disbanded",
+  "claim": "The profession's old watchdog, the Public Oversight Board, created in 1977, voted unanimously in January 2002 to disband, the Senate committee report noted.",
+  "quote": "In January 2002, the P.O.B. voted unanimously to disband",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 9,
+   "printed_page": "p. 5",
+   "section": "Title I, fn. 5",
+   "lines": "505 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-01",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "101",
+  "aspect": "problem",
+  "notes": "The footnote quotes a POB resolution dated January 20, 2002, citing the SEC's plan to reorganize self-regulation 'without input from the Public Oversight Board'."
+ },
+ {
+  "id": "S-017",
+  "topic": "Why inspections: end of peer review",
+  "claim": "The Senate committee said witnesses wanted inspections no longer left to 'peer reviews' in which one accounting firm checks another, and that regular independent inspection could catch problems before they cause audit failures.",
+  "quote": "inspections must no longer be left to \"peer reviews\" of one accounting firm by another.",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 11,
+   "printed_page": "p. 7",
+   "section": "Title I, A. Appointment and operation of board",
+   "lines": "596-598 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [],
+  "event_date": null,
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "104",
+  "aspect": "problem",
+  "notes": "Inspection rationale continues on PDF p. 13 [p. 9], section D."
+ },
+ {
+  "id": "S-018",
+  "topic": "Senate hearings framed around Enron",
+  "claim": "The Senate Banking Committee's hearings that built the PCAOB were published under the title 'Accounting Reform and Investor Protection Issues Raised by Enron and Other Public Companies'; Volume I covers Feb 12, 14, 26 and 27, 2002. The committee report says it held ten hearings.",
+  "quote": "ACCOUNTING REFORM AND INVESTOR PROTECTION ISSUES RAISED BY ENRON AND OTHER PUBLIC COMPANIES",
+  "source_id": "sox-hrg-banking-v1",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v1-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 3,
+   "printed_page": null,
+   "section": "Title page, S. Hrg. 107-948 Vol. I",
+   "lines": "36-37 (work/text copy)"
+  },
+  "source_type": "hearing record (title page)",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-02-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "general",
+  "aspect": "problem",
+  "notes": "Ten hearings: S. Rept. 107-205, PDF p. 6 [p. 2]. Title page has no printed page number."
+ },
+ {
+  "id": "S-019",
+  "topic": "PCAOB: SEC orders of April 25, 2003",
+  "claim": "On April 25, 2003 the SEC issued two orders: Release No. 33-8223 under Section 101(d) (the Board is ready) and Release No. 33-8222 under Section 103(a)(3)(B) (approving the Board's initial standards).",
+  "quote": "Release Number 33-8223 SEC Issue Date April 25, 2003",
+  "source_id": "sec-pcaob-101d-order",
+  "file": "sources/08-sox-law-pcaob-profession/sec-33-8223-pcaob-101d-order-2003-04-25.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "SEC web page for Release 33-8223",
+   "lines": "214-219 (work/text copy)"
+  },
+  "source_type": "SEC order (landing page only)",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2003-04-25",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "101",
+  "aspect": "implementation",
+  "notes": "IMPORTANT: both library files (sec-pcaob-101d-order, sec-pcaob-103-order) are only SEC landing pages with the title, release number and date; the text of the orders is not in them. Release 33-8222 page: same date and title 'Order Regarding Section 103(a)(3)(B)'. The manifest note that the interim standards were the existing AICPA standards is not supported by any library document text. Gap logged."
+ },
+ {
+  "id": "S-020",
+  "topic": "The SEC steps back to let the Board work",
+  "claim": "In its January 2003 Section 704 report, the SEC said it was not recommending more reforms to auditing for now, choosing to focus on putting the Act into effect and supporting the new Board.",
+  "quote": "At this point, the Commission is not recommending additional reforms to the accounting and auditing process, choosing instead to focus on the implementation of the provisions of the Sarbanes-Oxley Act, and to support the efforts of the Board to meet its statutory mandate.",
+  "source_id": "sec-sox704-report",
+  "file": "sources/08-sox-law-pcaob-profession/sec-sox-704-report-2003.pdf",
+  "locator": {
+   "pdf_page": 47,
+   "printed_page": "p. 43",
+   "section": "VII.C Proposals",
+   "lines": "2391-2394 (work/text copy)"
+  },
+  "source_type": "SEC report to Congress",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2003-01",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "101",
+  "aspect": "implementation",
+  "notes": ""
+ },
+ {
+  "id": "S-021",
+  "topic": "Pitt: \"private sector\" not \"self\" regulation",
+  "claim": "SEC Chairman Harvey Pitt told the House Financial Services Committee in March 2002 that the SEC wanted a new private-sector body, independent of the profession's AICPA, to review firms' quality controls and discipline auditors, and supported the House bill's 'public regulatory organization'.",
+  "quote": "We are proposing \"private sector\" regulation, not \"self\" regulation.",
+  "source_id": "sox-pitt-testimony",
+  "file": "sources/07-sox-legislative-history/sec-pitt-testimony-carta-2002-03-20.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "A. Creation, Authority and Funding of Accounting \"PRO\"",
+   "lines": "246 (work/text copy)"
+  },
+  "source_type": "written congressional testimony (posted by the SEC)",
+  "verb": "testified",
+  "people": [
+   "Harvey Pitt"
+  ],
+  "event_date": "2002-03-20",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "101",
+  "aspect": "problem",
+  "notes": "Pitt said the SEC announced this approach January 17 [2002]. He also said legislation was not required for it, though the SEC would help if Congress legislated."
+ },
+ {
+  "id": "S-022",
+  "topic": "House report: why reform",
+  "claim": "The House Financial Services Committee report on Oxley's bill said that after the Enron and Global Crossing bankruptcies, regulators and investors questioned the disclosure system and auditors' independence, and the SEC proposed a new oversight body for auditors.",
+  "quote": "Following the bankruptcies of Enron Corporation and Global Crossing LLC, and restatements of earnings by several prominent market participants, regulators, investors and others expressed concern about the adequacy of the current disclosure regime for public companies.",
+  "source_id": "sox-hrpt-107-414",
+  "file": "sources/07-sox-legislative-history/hrpt-107-414-carta-house-report.pdf",
+  "locator": {
+   "pdf_page": 18,
+   "printed_page": "p. 18",
+   "section": "Background and Need for Legislation",
+   "lines": "1283-1287 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-04",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "general",
+  "aspect": "problem",
+  "notes": ""
+ },
+ {
+  "id": "S-023",
+  "topic": "Big Four concentration after Andersen",
+  "claim": "GAO reported in July 2003 that mergers and Andersen's 2002 dissolution left four firms auditing over 78 percent of U.S. public companies and 99 percent of public company sales, though it found no evidence so far that competition had been impaired.",
+  "quote": "These four firms currently audit over 78 percent of all U.S. public companies and 99 percent of all public company sales.",
+  "source_id": "gao-03-864",
+  "file": "sources/08-sox-law-pcaob-profession/gao-03-864-accounting-firm-consolidation.pdf",
+  "locator": {
+   "pdf_page": 2,
+   "printed_page": "Highlights page",
+   "section": "Highlights",
+   "lines": "50-54 (work/text copy)"
+  },
+  "source_type": "GAO report",
+  "verb": "reported",
+  "people": [],
+  "event_date": "2003-07",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "general",
+  "aspect": "implementation",
+  "notes": "Two-column Highlights page; the quote runs down the left column. GAO did this study because SOX Sec. 701 required it. 'No evidence of impaired competition to date' is in the right column of the same page."
+ },
+ {
+  "id": "S-024",
+  "topic": "Fewer choices for big companies",
+  "claim": "GAO found that the largest companies' choice of auditor fell from eight firms in 1988 to four in 2003; of 1,085 former Andersen clients that changed auditors, only one large company (assets over $5 billion) moved to a smaller firm.",
+  "quote": "For most large public companies, the maximum number of choices has gone from eight in 1988 to four in 2003.",
+  "source_id": "gao-03-864",
+  "file": "sources/08-sox-law-pcaob-profession/gao-03-864-accounting-firm-consolidation.pdf",
+  "locator": {
+   "pdf_page": 32,
+   "printed_page": "p. 26",
+   "section": "Large Public Companies Have Limited Number of Accounting Firm Choices",
+   "lines": "1681-1682 (work/text copy)"
+  },
+  "source_type": "GAO report",
+  "verb": "reported",
+  "people": [],
+  "event_date": "2003-07",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "203",
+  "aspect": "implementation",
+  "notes": "GAO notes limited choice matters if firms had to switch auditors, 'such as through mandatory firm rotation' (same page). The mandatory-rotation study itself (Sec. 207) is not in the library (gap logged). Survey figures were preliminary ('to date')."
+ },
+ {
+  "id": "S-025",
+  "topic": "Bush: the profession gets an independent regulator",
+  "claim": "At the signing, President Bush said that for the first time the accounting profession would be regulated by an independent board that could set standards, investigate and discipline.",
+  "quote": "For the first time, the accounting profession will be regulated by an independent board.",
+  "source_id": "sox-bush-remarks",
+  "file": "sources/07-sox-legislative-history/wcpd-2002-bush-remarks-signing-sox-2002-07-30.pdf",
+  "locator": {
+   "pdf_page": 3,
+   "printed_page": "p. 1285",
+   "section": "Remarks on Signing the Sarbanes-Oxley Act of 2002",
+   "lines": "148-150 (work/text copy)"
+  },
+  "source_type": "presidential remarks (official record)",
+  "verb": "stated",
+  "people": [
+   "George W. Bush"
+  ],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "101",
+  "aspect": "law",
+  "notes": "Two-column page; quote is in the left column of p. 1285. Bush's remarks do not mention Enron by name."
+ },
+ {
+  "id": "S-026",
+  "topic": "Why Title II: consulting outgrew auditing",
+  "claim": "The Senate committee cited SEC figures: in 1988 the Big Five earned 55 percent of revenue from accounting and auditing and 22 percent from consulting; by 1999 it was 31 percent and 50 percent. Recent data showed non-audit fees were 73 percent of total fees.",
+  "quote": "Recent data reported to the SEC showed on average public accounting firms' non-audit fees comprised 73 percent of their total fees, or $2.69 in non-audit fees for every $1.00 in audit fees.",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 19,
+   "printed_page": "p. 15",
+   "section": "Title II, Auditor Independence (introduction)",
+   "lines": "1090-1093 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [],
+  "event_date": null,
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "201",
+  "aspect": "problem",
+  "notes": "Same passage: restatements averaged 49 a year in 1990-97 and 150 a year in 1999 and 2000. The report places these side by side but does not claim one caused the other."
+ },
+ {
+  "id": "S-027",
+  "topic": "Why Title II: a \"second, more substantial conflict\"",
+  "claim": "The Senate committee said an auditor paid by the company it audits already faces an inherent conflict, and that fast-growing consulting work had created a second, larger conflict that eroded independence.",
+  "quote": "the rapid growth in management consulting services offered by the major accounting firms has created a second, more substantial conflict that has eroded the independence that the auditor must bring to the audit function.",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 18,
+   "printed_page": "p. 14",
+   "section": "Title II, Auditor Independence (introduction)",
+   "lines": "1069-1073 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [],
+  "event_date": null,
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "201",
+  "aspect": "problem",
+  "notes": ""
+ },
+ {
+  "id": "S-028",
+  "topic": "The three principles behind the banned list",
+  "claim": "The Senate committee said the Sec. 201 list rests on simple principles: an auditor should not audit its own work, act as part of the client's management, or act as the client's advocate.",
+  "quote": "An accounting firm, in order to be independent of its audit client, should not audit its own work,",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 22,
+   "printed_page": "p. 18",
+   "section": "Title II, A. Services outside the scope of practice",
+   "lines": "1292-1293 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [],
+  "event_date": null,
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "201",
+  "aspect": "problem",
+  "notes": "The committee's own example of an auditor auditing its own valuation work is Superior Bank, not Enron. It also notes the industry had already announced it would stop providing internal audit and systems design to audit clients."
+ },
+ {
+  "id": "S-029",
+  "topic": "A full ban considered and rejected",
+  "claim": "Pension-fund leaders and some former regulators urged a complete ban on consulting for audit clients; the Senate committee considered it but chose a more flexible approach: a list of banned services, with others allowed if the audit committee approves.",
+  "quote": "The Committee considered adopting a complete prohibition on non-audit services by accounting firms for their audit clients, but instead decided on a somewhat more flexible approach.",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 20,
+   "printed_page": "p. 16",
+   "section": "Title II, A. Services outside the scope of practice",
+   "lines": "1191-1193 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [],
+  "event_date": null,
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "201",
+  "aspect": "problem",
+  "notes": "Supporters of a full ban quoted include CalPERS CEO James Burton, TIAA-CREF's John Biggs, John Whitehead and Walter Schuetze (PDF pp. 19-20 [pp. 15-16])."
+ },
+ {
+  "id": "S-030",
+  "topic": "Breeden: consulting ban is not a magic bullet",
+  "claim": "Former SEC Chairman Richard Breeden told the Senate committee that he had not yet seen evidence that Andersen's handling of Enron was driven by its consulting work, though it was likely part of the picture, and that dependence on a large audit fee alone could pressure an auditor.",
+  "quote": "We have not yet seen evidence that Andersen's acquiescence to Enron's accounting decisions or its frenzy to destroy documents were driven by the consulting business Andersen performed for Enron, though this was most likely an element of the picture.",
+  "source_id": "sox-hrg-banking-v1",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v1-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 79,
+   "printed_page": "p. 65",
+   "section": "Prepared statement of Richard C. Breeden (Feb 12, 2002)",
+   "lines": "4797-4800 (work/text copy)"
+  },
+  "source_type": "prepared statement submitted for a Senate hearing record",
+  "verb": "testified",
+  "people": [
+   "Richard C. Breeden"
+  ],
+  "event_date": "2002-02-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "201",
+  "aspect": "problem",
+  "notes": "Breeden's characterization, not a finding. The same page says Andersen's Enron audit fees were about '$25 million each year' as an estimate-style statement; use Andersen fee figures from the Powers Report or C-cards instead. Prepared statements were submitted to the hearing record; Breeden also testified orally that day."
+ },
+ {
+  "id": "S-031",
+  "topic": "House minority: Enron's auditor and non-audit fees",
+  "claim": "Ranking Member John LaFalce wrote in the House report that Enron's failure raised concerns about non-audit services, since Enron's auditor received a very significant portion of its fees from Enron for non-audit work, and that the House bill should have required auditor rotation.",
+  "quote": "Enron's auditor, for instance, received a very significant portion of its fees from Enron for services that were not related to its audit responsibilities.",
+  "source_id": "sox-hrpt-107-414",
+  "file": "sources/07-sox-legislative-history/hrpt-107-414-carta-house-report.pdf",
+  "locator": {
+   "pdf_page": 55,
+   "printed_page": "p. 55",
+   "section": "Additional Views of Mr. LaFalce",
+   "lines": "3505-3507 (work/text copy)"
+  },
+  "source_type": "congressional committee report (additional views of a member)",
+  "verb": "stated",
+  "people": [
+   "John J. LaFalce"
+  ],
+  "event_date": "2002-04",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "203",
+  "aspect": "problem",
+  "notes": "These are one member's views, not the committee's findings. The House bill as reported had no partner rotation or cooling-off rule; both were added in the final law."
+ },
+ {
+  "id": "S-032",
+  "topic": "Pitt urged caution on new independence rules",
+  "claim": "In March 2002 SEC Chairman Pitt told the House committee that the SEC's auditor-independence rules were less than 18 months old and should be tested in practice, and that limiting services with an inherent conflict and punishing poor audit performance were better tools.",
+  "quote": "The Commission's rules on auditor independence were adopted less than 18 months ago, and were targeted to address problems about which there had been considerable study, discussion and debate.",
+  "source_id": "sox-pitt-testimony",
+  "file": "sources/07-sox-legislative-history/sec-pitt-testimony-carta-2002-03-20.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "B. Auditor Independence",
+   "lines": "246 (work/text copy)"
+  },
+  "source_type": "written congressional testimony (posted by the SEC)",
+  "verb": "testified",
+  "people": [
+   "Harvey Pitt"
+  ],
+  "event_date": "2002-03-20",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "201",
+  "aspect": "problem",
+  "notes": "Shows the SEC chairman did not initially seek a statutory list of banned services; the final law went further than the House bill he was discussing."
+ },
+ {
+  "id": "S-033",
+  "topic": "SOX Sec. 202: audit committee must pre-approve",
+  "claim": "Section 202 requires the company's audit committee to approve in advance all audit and non-audit services its auditor provides, with a small exception for overlooked services under 5 percent of fees; approvals of non-audit services must be disclosed to investors.",
+  "quote": "Approval by an audit committee of an issuer under this subsection of a non-audit service to be performed by the auditor of the issuer shall be disclosed to investors in periodic reports",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 202, adding Exchange Act Sec. 10A(i)",
+   "lines": "1782-1785 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "202",
+  "aspect": "law",
+  "notes": ""
+ },
+ {
+  "id": "S-034",
+  "topic": "Partner vs. firm rotation debate",
+  "claim": "Witnesses split on forcing companies to change audit firms: Arthur Levitt urged considering a change every 5 to 7 years for 'fresh and skeptical eyes', while Roderick Hills and Shaun O'Malley warned it would hurt audit quality. The committee chose partner rotation plus a GAO study of firm rotation.",
+  "quote": "The Committee determined that the possibility of requiring audit firm rotation merits further study.",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 25,
+   "printed_page": "p. 21",
+   "section": "Title II, C. Audit partner rotation",
+   "lines": "1487-1488 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [
+   "Arthur Levitt",
+   "Roderick M. Hills",
+   "Shaun O'Malley"
+  ],
+  "event_date": null,
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "203",
+  "aspect": "problem",
+  "notes": "Partner rotation text is card C-075. The 'lead' and 'review' partners are defined in report fn. 39."
+ },
+ {
+  "id": "S-035",
+  "topic": "SOX Sec. 207: study of forced firm rotation",
+  "claim": "Section 207 ordered the Comptroller General (GAO) to study the effects of requiring companies to rotate audit firms, and to report within one year.",
+  "quote": "shall conduct a study and review of the potential effects of requiring the mandatory rotation of registered public accounting firms.",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 207(a)-(b)",
+   "lines": "1917-1919 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "203",
+  "aspect": "law",
+  "notes": "Sec. 207 was not in my brief's list but is the other half of the Sec. 203 compromise. GAO's rotation report is not in the library (gap logged)."
+ },
+ {
+  "id": "S-036",
+  "topic": "SOX Sec. 204: auditors report to the audit committee",
+  "claim": "Section 204 requires the auditor to tell the audit committee in a timely way about critical accounting policies, alternative accounting treatments discussed with management (and which one the auditor prefers), and other material written communications with management.",
+  "quote": "all alternative treatments of financial information within generally accepted accounting principles that have been discussed with management officials of the issuer",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 204, adding Exchange Act Sec. 10A(k)",
+   "lines": "1824-1826 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "204",
+  "aspect": "law",
+  "notes": ""
+ },
+ {
+  "id": "S-037",
+  "topic": "SOX Sec. 206: one-year cooling-off",
+  "claim": "Section 206 makes it illegal for a firm to audit a company whose CEO, controller, CFO or chief accounting officer worked for that firm and took part in the company's audit during the year before the audit began.",
+  "quote": "was employed by that registered independent public accounting firm and participated in",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 206, adding Exchange Act Sec. 10A(l)",
+   "lines": "1905-1906 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "206",
+  "aspect": "law",
+  "notes": "Quote is short because the key clause breaks across a statute page; the claim follows lines 1896-1911."
+ },
+ {
+  "id": "S-038",
+  "topic": "Why Sec. 206: the revolving door",
+  "claim": "Former SEC Chairman Breeden told the Senate committee that both Lincoln Savings and Enron had hired senior people from their audit teams into top finance jobs, and proposed a cooling-off period.",
+  "quote": "Both Lincoln Savings and Enron hired senior personnel from the audit team in senior financial position.",
+  "source_id": "sox-hrg-banking-v1",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v1-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 79,
+   "printed_page": "p. 65",
+   "section": "Prepared statement of Richard C. Breeden (Feb 12, 2002), \"Cooling Off Periods\"",
+   "lines": "4820-4821 (work/text copy)"
+  },
+  "source_type": "prepared statement submitted for a Senate hearing record",
+  "verb": "testified",
+  "people": [
+   "Richard C. Breeden"
+  ],
+  "event_date": "2002-02-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "206",
+  "aspect": "problem",
+  "notes": "Breeden names no individuals. Any named Enron hire from Andersen must come from another library source."
+ },
+ {
+  "id": "S-039",
+  "topic": "Walker: \"Enron has resurfaced the issue\"",
+  "claim": "Comptroller General Walker said clients hiring their former auditors was a long-standing problem also present at Enron; the AICPA asked the SEC in 1993 to bar hiring the audit partner for a year, and the SEC rejected it as too hard to enforce.",
+  "quote": "The AICPA asked the SEC in 1993 to prohibit public companies from hiring their audit partner for a year after an audit. The SEC rejected the proposal as too difficult to enforce. However, Enron has resurfaced the issue.",
+  "source_id": "sox-hrg-banking-v2",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v2-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 69,
+   "printed_page": "p. 559",
+   "section": "Prepared statement of David M. Walker (Mar 5, 2002)",
+   "lines": "4182-4184 (work/text copy)"
+  },
+  "source_type": "prepared statement submitted for a Senate hearing record",
+  "verb": "testified",
+  "people": [
+   "David M. Walker"
+  ],
+  "event_date": "2002-03-05",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "206",
+  "aspect": "problem",
+  "notes": ""
+ },
+ {
+  "id": "S-040",
+  "topic": "Cooling-off: one year, not two",
+  "claim": "Bowsher and Lynn Turner urged a two-year cooling-off period and Deloitte's CEO opposed any; the Senate committee chose one year, applying only to audit-team members hired into top finance posts. If a company hires its audit engagement's accountant as CEO, it must change auditors.",
+  "quote": "The Committee decided to impose a one-year cooling off period that would apply to an employee of the accounting firm who worked on the issuer's audit and subsequently seeks to be employed by that issuer in a senior management capacity.",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 26,
+   "printed_page": "p. 22",
+   "section": "Title II, E. Cooling off period",
+   "lines": "1561-1564 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [
+   "Charles A. Bowsher",
+   "Lynn E. Turner",
+   "James E. Copeland, Jr."
+  ],
+  "event_date": null,
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "206",
+  "aspect": "problem",
+  "notes": ""
+ },
+ {
+  "id": "S-041",
+  "topic": "Title II implementation: SEC deadline",
+  "claim": "Section 208 gave the SEC 180 days from enactment to issue final regulations carrying out the new auditor-independence rules (Exchange Act Sec. 10A(g) through (l)).",
+  "quote": "the Commission shall issue final regulations to carry out each of subsections (g) through (l) of section 10A of the Securities Exchange Act of 1934, as added by this title.",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 208(a)",
+   "lines": "1935-1938 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "201",
+  "aspect": "implementation",
+  "notes": "The SEC's actual independence rules (early 2003) are not in the library (gap logged). Only the deadline can be stated."
+ },
+ {
+  "id": "S-042",
+  "topic": "SEC 704 report: eight categories",
+  "claim": "The SEC's Section 704 report summarized Sec. 201 as listing eight categories of services an auditor may not provide to an audit client at the same time as the audit.",
+  "quote": "Section 201 specifies eight categories of services that an auditor may not provide to an issuer that is its audit client, contemporaneously with the audit:",
+  "source_id": "sec-sox704-report",
+  "file": "sources/08-sox-law-pcaob-profession/sec-sox-704-report-2003.pdf",
+  "locator": {
+   "pdf_page": 45,
+   "printed_page": "p. 41",
+   "section": "VI.G Provisions of the Sarbanes-Oxley Act Applying to Auditors",
+   "lines": "2286-2287 (work/text copy)"
+  },
+  "source_type": "SEC report to Congress",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2003-01",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "201",
+  "aspect": "implementation",
+  "notes": "DISAGREEMENT IN COUNTING: the statute lists nine items; the ninth is 'any other service that the Board determines, by regulation, is impermissible' (card C-074). The SEC counts the eight named services. Say 'eight named services, plus any the PCAOB adds'."
+ },
+ {
+  "id": "S-043",
+  "topic": "SOX Sec. 302: internal controls and fraud disclosure",
+  "claim": "Beyond vouching for the report, Sec. 302 makes the signing officers state they are responsible for internal controls, have evaluated them within 90 days, and have told the auditors and audit committee about significant control weaknesses and any fraud involving management.",
+  "quote": "any fraud, whether or not material, that involves management or other employees who have a significant role in the issuer's internal controls;",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 302(a)(4)-(5)",
+   "lines": "2084-2086 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "302",
+  "aspect": "law",
+  "notes": "Basic certification is card C-076. Sec. 302(c): the SEC rules had to be effective within 30 days of enactment (line 2104)."
+ },
+ {
+  "id": "S-044",
+  "topic": "Why Sec. 302: the President's proposal",
+  "claim": "The Senate committee said Sec. 302 in effect adopted President Bush's March 7, 2002 proposal that CEOs personally attest to their financial statements, and quoted Breeden on 'growing doubt about whether audited financial statements are believable.'",
+  "quote": "growing doubt about whether audited financial statements are believable.",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 29,
+   "printed_page": "p. 25",
+   "section": "Title III, B. Corporate responsibility for financial reports",
+   "lines": "1763-1764 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [
+   "George W. Bush",
+   "Richard C. Breeden"
+  ],
+  "event_date": "2002-03-07",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "302",
+  "aspect": "problem",
+  "notes": ""
+ },
+ {
+  "id": "S-045",
+  "topic": "SEC certification rule, August 2002",
+  "claim": "The SEC's Section 704 report cited its final rule on 'Certification of Disclosure in Companies' Quarterly and Annual Reports', dated August 29, 2002 (release number printed as 'Rel. No. 34-8124'), as carrying out Sec. 302.",
+  "quote": "See Final Rule: Certification of Disclosure in Companies' Quarterly and Annual Reports,",
+  "source_id": "sec-sox704-report",
+  "file": "sources/08-sox-law-pcaob-profession/sec-sox-704-report-2003.pdf",
+  "locator": {
+   "pdf_page": 46,
+   "printed_page": "p. 42",
+   "section": "VII.B, fn. 103",
+   "lines": "2370 (work/text copy)"
+  },
+  "source_type": "SEC report to Congress",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-08-29",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "302",
+  "aspect": "implementation",
+  "notes": "The release number is printed as '34-8124' in the SEC report; that may be a typographical variant, and the rule text itself is not in the library. Cite the date and title only, as given here (gap logged)."
+ },
+ {
+  "id": "S-046",
+  "topic": "Bush: officers must personally vouch",
+  "claim": "At the signing, Bush said CEOs and CFOs would have to personally vouch for the truth and fairness of their companies' disclosures.",
+  "quote": "Under this law, CEOs and chief financial officers must personally vouch for the truth and fairness of their companies' disclosures.",
+  "source_id": "sox-bush-remarks",
+  "file": "sources/07-sox-legislative-history/wcpd-2002-bush-remarks-signing-sox-2002-07-30.pdf",
+  "locator": {
+   "pdf_page": 2,
+   "printed_page": "p. 1284",
+   "section": "Remarks on Signing the Sarbanes-Oxley Act of 2002",
+   "lines": "112-114 (work/text copy)"
+  },
+  "source_type": "presidential remarks (official record)",
+  "verb": "stated",
+  "people": [
+   "George W. Bush"
+  ],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "302",
+  "aspect": "law",
+  "notes": "C-071 notes this sentence in passing; this card gives it its own locator. Right-hand column of p. 1284; the text copy splits 'of-/ficers' across lines."
+ },
+ {
+  "id": "S-047",
+  "topic": "Bush signing statement on Secs. 302, 401, 906",
+  "claim": "In his written signing statement, Bush said the purpose of Secs. 302, 401 and 906 was to strengthen the existing reporting system, and that the executive branch would read the Act as not affecting national-security authority in Exchange Act Sec. 13(b).",
+  "quote": "The legislative purpose of sections 302, 401, and 906 of the Act, relating to certification and accuracy of reports, is to strengthen the existing corporate reporting system under section 13(a) and 15(d) of the Securities Exchange Act of 1934.",
+  "source_id": "sox-bush-signing-statement",
+  "file": "sources/07-sox-legislative-history/wcpd-2002-bush-signing-statement-sox-2002-07-30.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Statement on Signing the Sarbanes-Oxley Act of 2002",
+   "lines": "22-25 (work/text copy)"
+  },
+  "source_type": "presidential signing statement (official record)",
+  "verb": "stated",
+  "people": [
+   "George W. Bush"
+  ],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "302",
+  "aspect": "law",
+  "notes": "A signing statement is the President's reading of the law, not law itself."
+ },
+ {
+  "id": "S-048",
+  "topic": "SOX Sec. 906: the criminal certification",
+  "claim": "Section 906 separately requires every periodic report with financial statements to carry a written statement by the CEO and CFO that the report fully complies with the securities laws and fairly presents the company's financial condition.",
+  "quote": "shall be accompanied by a written statement by the chief executive officer and chief financial officer (or equivalent thereof) of the issuer.",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 906(a), adding 18 U.S.C. 1350(a)-(b)",
+   "lines": "3891-3893 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "906",
+  "aspect": "law",
+  "notes": "Penalties ($1M/10 years knowing; $5M/20 years willful) are card C-077 (CRS) and lines 3903-3915 of the statute. Sec. 906 was a Senate floor addition; its origin is not documented in my reading."
+ },
+ {
+  "id": "S-049",
+  "topic": "SOX Sec. 404(b): auditor attestation, no separate engagement",
+  "claim": "The auditor's attestation on management's internal-control assessment must follow PCAOB standards and may not be a separate engagement.",
+  "quote": "An attestation made under this subsection shall be made in accordance with standards for attestation engagements issued or adopted by the Board. Any such attestation shall not be the subject of a separate engagement.",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 404(b)",
+   "lines": "2812-2815 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "404",
+  "aspect": "law",
+  "notes": "Core requirement is card C-078. Sec. 103(a)(2)(A)(iii) separately requires each audit report to describe the auditor's internal-control testing (card S-006)."
+ },
+ {
+  "id": "S-050",
+  "topic": "Why Sec. 404: Bowsher and a 1996 GAO recommendation",
+  "claim": "Former Comptroller General Charles Bowsher recommended that management file an annual internal-control statement reviewed by the auditor, noting a 1996 GAO recommendation the SEC had not adopted; the committee noted banks had faced a similar rule since 1991.",
+  "quote": "Both the POB and the AICPA supported the recommendation when the GAO made it, but the SEC did not adopt it.",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 35,
+   "printed_page": "p. 31",
+   "section": "Title IV, F. Management assessment of internal controls",
+   "lines": "2117-2119 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [
+   "Charles A. Bowsher"
+  ],
+  "event_date": "2002-03-19",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "404",
+  "aspect": "problem",
+  "notes": "The 1991 rule for banks is Sec. 36 of the Federal Deposit Insurance Act, per the report."
+ },
+ {
+  "id": "S-051",
+  "topic": "Congress expected no extra audit fee",
+  "claim": "The Senate committee said it did not intend the internal-control attestation to be a separate engagement or a reason for higher fees, calling it a core part of the audit.",
+  "quote": "the Committee does not intend that the auditor's evaluation be the subject of a separate engagement or the basis for increased charges or fees.",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 35,
+   "printed_page": "p. 31",
+   "section": "Title IV, F. Management assessment of internal controls",
+   "lines": "2132-2134 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [],
+  "event_date": null,
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "404",
+  "aspect": "problem",
+  "notes": "What Sec. 404 actually cost companies after 2003 is not covered by any library document (gap logged). Do not state later cost figures."
+ },
+ {
+  "id": "S-052",
+  "topic": "SOX Sec. 401(a): off-balance-sheet disclosure",
+  "claim": "Section 401(a) required the SEC, within 180 days, to issue rules making every annual and quarterly report disclose all material off-balance-sheet transactions, arrangements and obligations with unconsolidated entities that could materially affect the company.",
+  "quote": "shall disclose all material off-balance sheet transactions, arrangements, obligations (including contingent obligations), and other relationships of the issuer with unconsolidated entities or other persons",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 401(a), adding Exchange Act Sec. 13(j)",
+   "lines": "2602-2605 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "401",
+  "aspect": "law",
+  "notes": "Same section adds 13(i): financial reports must reflect all material correcting adjustments the auditor identified."
+ },
+ {
+  "id": "S-053",
+  "topic": "SOX Sec. 401(c): SEC study of special purpose entities",
+  "claim": "Section 401(c) ordered the SEC to study off-balance-sheet transactions and special purpose entities, including whether accounting rules make companies consolidate SPEs when they bear most of the risks and rewards, and to report with recommendations.",
+  "quote": "whether generally accepted accounting principles specifically result in the consolidation of special purpose entities sponsored by an issuer in cases in which the issuer has the majority of the risks and rewards of the special purpose entity;",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 401(c)",
+   "lines": "2662-2666 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "401",
+  "aspect": "law",
+  "notes": "The SEC's resulting study (due after the off-balance-sheet rules took effect) is not in the library (gap logged)."
+ },
+ {
+  "id": "S-054",
+  "topic": "Why Sec. 401(a): Breeden after Enron",
+  "claim": "The Senate committee said former SEC Chairman Breeden testified, after the problems of Enron and its special purpose entities, on the need to enhance disclosure of off-balance-sheet transactions and debt.",
+  "quote": "Former SEC Chairman Richard Breeden testified, after the problems of Enron Corp. and its special purpose entities, on the need for",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 32,
+   "printed_page": "p. 28",
+   "section": "Title IV, B. Off-balance sheet transactions",
+   "lines": "1915-1917 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [
+   "Richard C. Breeden"
+  ],
+  "event_date": "2002-02-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "401",
+  "aspect": "problem",
+  "notes": "The quoted Breeden phrase that follows is 'enhance[d] disclosure of \"off-balance sheet\" transactions and debt.'"
+ },
+ {
+  "id": "S-055",
+  "topic": "Breeden: Enron shows a double weakness",
+  "claim": "Breeden's prepared statement said Enron showed weaknesses both in accounting rules for off-balance-sheet transactions and in disclosure policy, and that such financings should be shown on the balance sheet or disclosed.",
+  "quote": "Enron shows a weakness both in our accounting principles for off balance sheet transactions, and also in our disclosure policies.",
+  "source_id": "sox-hrg-banking-v1",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v1-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 80,
+   "printed_page": "p. 66",
+   "section": "Prepared statement of Richard C. Breeden (Feb 12, 2002), \"Accounting Principles and Disclosure Requirements\"",
+   "lines": "4870-4871 (work/text copy)"
+  },
+  "source_type": "prepared statement submitted for a Senate hearing record",
+  "verb": "testified",
+  "people": [
+   "Richard C. Breeden"
+  ],
+  "event_date": "2002-02-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "401",
+  "aspect": "problem",
+  "notes": "Breeden also said off-balance-sheet financing 'does not mean that such activity violates GAAP or is wrong' - keep that balance."
+ },
+ {
+  "id": "S-056",
+  "topic": "Senate floor: the SPE study amendment",
+  "claim": "On the Senate floor on July 12, 2002, Senator Schumer offered, with Senator Shelby, an amendment requiring an SEC study of special purpose entities, saying Enron had used such entities to take losses off its books; it was agreed to. Its text matches enacted Sec. 401(c).",
+  "quote": "We have seen, particularly most egregiously in the case of Enron, these have been entities that have been used to take losses off the books,",
+  "source_id": "sox-hrg-banking-v3",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v3-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 283,
+   "printed_page": "p. 1439",
+   "section": "Senate floor debate on S. 2673, Amendment No. 4296",
+   "lines": "17208-17210 (work/text copy)"
+  },
+  "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
+  "verb": "stated",
+  "people": [
+   "Charles E. Schumer",
+   "Richard C. Shelby"
+  ],
+  "event_date": "2002-07-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "401",
+  "aspect": "problem",
+  "notes": "Floor remarks, not sworn testimony. Schumer's further statements about Fastow's fees and Raptor on the same page are his characterizations; take Enron SPE facts from the Powers Report cards, not from this speech."
+ },
+ {
+  "id": "S-057",
+  "topic": "SEC off-balance-sheet rules, January 2003",
+  "claim": "The SEC reported that on January 22, 2003 it adopted rules, as the Act required, making companies explain their off-balance-sheet arrangements in a separately captioned section of the MD&A (management's discussion and analysis).",
+  "quote": "On January 22, 2003, the Commission adopted amendments to its rules, as required by the Sarbanes-Oxley Act, to require that registrants provide disclosures that explain their off-balance sheet arrangements in a separately-captioned section of MD&A.",
+  "source_id": "sec-sox704-report",
+  "file": "sources/08-sox-law-pcaob-profession/sec-sox-704-report-2003.pdf",
+  "locator": {
+   "pdf_page": 48,
+   "printed_page": "p. 44",
+   "section": "VII.C.2 MD&A",
+   "lines": "2473-2476 (work/text copy)"
+  },
+  "source_type": "SEC report to Congress",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2003-01-22",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "401",
+  "aspect": "implementation",
+  "notes": "The proposal was Release Nos. 33-8144; 34-46767 (Nov. 4, 2002), per fn. 73 (PDF p. 33 [p. 29]). The rule text is not in the library."
+ },
+ {
+  "id": "S-058",
+  "topic": "SEC: Enron outside its study but on point",
+  "claim": "The SEC's 704 study said improper off-balance-sheet arrangements were a relatively new enforcement area; Enron and Dynegy fell outside its July 1997-July 2002 study period but involved these issues.",
+  "quote": "the Dynegy Inc. and Enron Corporation matters did not fall within the Study period, but involved these issues.",
+  "source_id": "sec-sox704-report",
+  "file": "sources/08-sox-law-pcaob-profession/sec-sox-704-report-2003.pdf",
+  "locator": {
+   "pdf_page": 27,
+   "printed_page": "p. 23",
+   "section": "IV, off-balance sheet arrangements, fn. 58",
+   "lines": "1342-1343 (work/text copy)"
+  },
+  "source_type": "SEC report to Congress",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2003-01",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "401",
+  "aspect": "implementation",
+  "notes": "On PDF p. 34 [p. 30] the report says the SEC 'alleged' that Enron's former CFO and another official used entities they controlled to move items off the balance sheet (SEC charges filed Oct. 2, 2002). Use 'alleged'; outcomes must come from other library documents."
+ },
+ {
+  "id": "S-059",
+  "topic": "Pitt supported off-balance-sheet disclosure",
+  "claim": "Pitt told the House committee the SEC strongly supported the House bill's provisions on disclosure of off-balance-sheet transactions and critical accounting principles and was already working on them.",
+  "quote": "We strongly support these provisions and are already actively working on them using our regulatory authority.",
+  "source_id": "sox-pitt-testimony",
+  "file": "sources/07-sox-legislative-history/sec-pitt-testimony-carta-2002-03-20.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "F. Improved Transparency of Corporate Disclosures",
+   "lines": "246 (work/text copy)"
+  },
+  "source_type": "written congressional testimony (posted by the SEC)",
+  "verb": "testified",
+  "people": [
+   "Harvey Pitt"
+  ],
+  "event_date": "2002-03-20",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "401",
+  "aspect": "problem",
+  "notes": ""
+ },
+ {
+  "id": "S-060",
+  "topic": "SOX Sec. 402: no personal loans to executives",
+  "claim": "Section 402 makes it illegal for a public company, directly or through a subsidiary, to make, arrange or renew a personal loan to a director or executive officer. Loans already outstanding at enactment are allowed if not materially changed; ordinary consumer credit offered to the public on market terms is exempt.",
+  "quote": "to extend or maintain credit, to arrange for the extension of credit, or to renew an extension of credit, in the form of a personal loan to or for any director or executive officer (or equivalent thereof) of that issuer.",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 402(a), adding Exchange Act Sec. 13(k)",
+   "lines": "2681-2685 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "402",
+  "aspect": "law",
+  "notes": "CRS (CRS-8) says Sec. 402 'prohibits personal loans of any kind'; that overstates it, because the statute has exceptions (13(k)(2)-(3)). Follow the statute."
+ },
+ {
+  "id": "S-061",
+  "topic": "Why Sec. 402: Enron loans to Lay and Skilling",
+  "claim": "The Senate committee report said Enron and other companies had lent directors and officers many millions, and, citing the Wall Street Journal, that Lay and Skilling received personal loans and Lay received more than $70 million in cash in one 12-month period, repaid with Enron stock.",
+  "quote": "Mr. Lay received more than $70 million in cash during one 12-month period and repaid the loan with his own Enron stock.",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 33,
+   "printed_page": "p. 29",
+   "section": "Title IV, D. Enhanced disclosures of loans, fn. 59",
+   "lines": "2006-2007 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [
+   "Kenneth Lay",
+   "Jeffrey Skilling"
+  ],
+  "event_date": "2002",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "402",
+  "aspect": "problem",
+  "notes": "The report's source is a newspaper (Wall Street Journal, May 3, 2002), not an investigation. Check against Powers/PSI/Batson cards before stating the $70 million as fact; otherwise attribute to the committee report. The report spells the name 'Jeffery'."
+ },
+ {
+  "id": "S-062",
+  "topic": "Senate committee bill: disclose loans, not ban them",
+  "claim": "The Senate committee's bill (June 2002) did not ban insider loans; it required disclosure of loans to directors and officers within seven days. The outright ban came later, on the Senate floor.",
+  "quote": "The bill requires an issuer in its current reports to disclose within seven days, or such other time period determined to be appropriate by the SEC, all loans, except credit card loans,",
+  "source_id": "sox-srpt-107-205",
+  "file": "sources/07-sox-legislative-history/srpt-107-205-senate-banking-report.pdf",
+  "locator": {
+   "pdf_page": 34,
+   "printed_page": "p. 30",
+   "section": "Title IV, D. Enhanced disclosures of loans",
+   "lines": "2035-2037 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [],
+  "event_date": null,
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "402",
+  "aspect": "problem",
+  "notes": "See S-063 for the floor amendment."
+ },
+ {
+  "id": "S-063",
+  "topic": "Senate floor: the loan ban amendment",
+  "claim": "On July 12, 2002 Senator Schumer offered an amendment making it unlawful for public companies to lend to their executive officers, citing loans at Enron, WorldCom and Adelphia; it was agreed to (Amendment No. 4295).",
+  "quote": "it makes it unlawful for any publicly traded company to make loans to its executive officers.",
+  "source_id": "sox-hrg-banking-v3",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v3-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 281,
+   "printed_page": "p. 1437",
+   "section": "Senate floor debate on S. 2673, Amendment No. 4295",
+   "lines": "17104-17105 (work/text copy)"
+  },
+  "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
+  "verb": "stated",
+  "people": [
+   "Charles E. Schumer"
+  ],
+  "event_date": "2002-07-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "402",
+  "aspect": "problem",
+  "notes": "Schumer said executives at Enron, WorldCom and Adelphia together received more than $5 billion in personal loans - his figure, not verified; it lumps the three companies together. He also cited President Bush's call the day before to end company loans to officers. Adoption: PDF p. 282 [p. 1438]."
+ },
+ {
+  "id": "S-064",
+  "topic": "Leahy bill joined to Sarbanes bill",
+  "claim": "On July 9, 2002, Majority Leader Daschle offered, for Senator Leahy, the Corporate and Criminal Fraud Accountability Act (S. 2010) as an amendment to the Sarbanes bill, calling the two 'parts of a vital whole'. It became the basis of the Act's criminal provisions (Title VIII).",
+  "quote": "I view the Leahy amendment as a necessary complement to the Sarbanes bill.",
+  "source_id": "sox-hrg-banking-v3",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v3-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 69,
+   "printed_page": "p. 1225",
+   "section": "Senate floor debate, Amendment No. 4174",
+   "lines": "4010-4011 (work/text copy)"
+  },
+  "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
+  "verb": "stated",
+  "people": [
+   "Tom Daschle",
+   "Patrick J. Leahy"
+  ],
+  "event_date": "2002-07-09",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "802",
+  "aspect": "problem",
+  "notes": "Title VIII of the Act carries the same short title ('Corporate and Criminal Fraud Accountability Act of 2002', CRS-10). Amendment offered on PDF p. 69 [p. 1225]."
+ },
+ {
+  "id": "S-065",
+  "topic": "Why Sec. 802: Andersen and anti-shredding",
+  "claim": "Daschle said the Leahy amendment created two new criminal anti-shredding laws, pointing to the Arthur Andersen case as showing that even straightforward obstruction cases were hard to prove under existing law.",
+  "quote": "It creates two new criminal anti-shredding provisions in Federal law.",
+  "source_id": "sox-hrg-banking-v3",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v3-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 70,
+   "printed_page": "p. 1226",
+   "section": "Senate floor debate, Amendment No. 4174",
+   "lines": "4056-4057 (work/text copy)"
+  },
+  "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
+  "verb": "stated",
+  "people": [
+   "Tom Daschle"
+  ],
+  "event_date": "2002-07-09",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "802",
+  "aspect": "problem",
+  "notes": "The two provisions are 18 U.S.C. 1519 and 1520 (Sec. 802; card C-079). The text copy's next sentence reads 'As we say in the Arthur Andersen case' (likely a printing error for 'saw'); do not quote it. Andersen's conviction was later reversed (2005)."
+ },
+ {
+  "id": "S-066",
+  "topic": "Breeden on Andersen shredding",
+  "claim": "Breeden's prepared statement described the collapse of Enron and 'the parallel shredding of documents and audit failures at Andersen' as exposing weaknesses in governance, accounting, auditing, disclosure, pensions and bankruptcy law.",
+  "quote": "The collapse of Enron and the parallel shredding of documents and audit failures at Andersen have highlighted weaknesses in our corporate governance, accounting principles, auditing practices, disclosure standards, pension systems and bankruptcy laws,",
+  "source_id": "sox-hrg-banking-v1",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v1-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 73,
+   "printed_page": "p. 59",
+   "section": "Prepared statement of Richard C. Breeden (Feb 12, 2002)",
+   "lines": "4360-4363 (work/text copy)"
+  },
+  "source_type": "prepared statement submitted for a Senate hearing record",
+  "verb": "testified",
+  "people": [
+   "Richard C. Breeden"
+  ],
+  "event_date": "2002-02-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "802",
+  "aspect": "problem",
+  "notes": "Breeden's characterization (Feb 2002), before Andersen's trial. Pair with the Andersen outcome cards."
+ },
+ {
+  "id": "S-067",
+  "topic": "SOX Sec. 1102: new obstruction crime",
+  "claim": "Section 1102 added a crime to 18 U.S.C. 1512: corruptly altering, destroying or concealing a record to impair its use in an official proceeding, or otherwise obstructing one, punishable by up to 20 years.",
+  "quote": "alters, destroys, mutilates, or conceals a record, document, or other object, or attempts to do so, with the intent to impair the object's integrity or availability for use in an official proceeding; or",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 1102, adding 18 U.S.C. 1512(c)",
+   "lines": "3950-3953 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "1102",
+  "aspect": "law",
+  "notes": "Unlike 1519 (Sec. 802), this covers only 'official proceedings'. The Supreme Court's 2005 Andersen reversal concerned the older persuasion clause of 1512(b) (see C-044); do not link 1512(c) to that case without a source."
+ },
+ {
+  "id": "S-068",
+  "topic": "Bush: \"corruptly\" requires criminal intent",
+  "claim": "Bush's signing statement said the executive branch would read 'corruptly' in new Sec. 1512(c)(2) as requiring proof of a criminal state of mind, to protect the right to petition the government.",
+  "quote": "the executive branch shall construe the term \"corruptly\" in section 1512(c)(2) as requiring proof of a criminal state of mind on the part of the defendant.",
+  "source_id": "sox-bush-signing-statement",
+  "file": "sources/07-sox-legislative-history/wcpd-2002-bush-signing-statement-sox-2002-07-30.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Statement on Signing the Sarbanes-Oxley Act of 2002",
+   "lines": "33-35 (work/text copy)"
+  },
+  "source_type": "presidential signing statement (official record)",
+  "verb": "stated",
+  "people": [
+   "George W. Bush"
+  ],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "1102",
+  "aspect": "law",
+  "notes": ""
+ },
+ {
+  "id": "S-069",
+  "topic": "SOX Sec. 806: how a whistleblower seeks relief",
+  "claim": "A worker who believes she was punished for reporting fraud can file a complaint with the Secretary of Labor within 90 days, and may go to federal court if Labor has not decided within 180 days; winners get reinstatement, back pay with interest, and special damages including legal fees.",
+  "quote": "reinstatement with the same seniority status that the employee would have had, but for the discrimination;",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 806, 18 U.S.C. 1514A(b)-(c)",
+   "lines": "3741-3743 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "806",
+  "aspect": "law",
+  "notes": "The protection itself is card C-080. The 90-day limit (lines 3727-3730) is short; CRS-11/12 confirms. Who enforced it at Labor (OSHA) is not stated in the library."
+ },
+ {
+  "id": "S-070",
+  "topic": "Why Sec. 806: Leahy on Enron",
+  "claim": "Senator Leahy told the Senate that the Enron case showed how exposed corporate whistleblowers were under existing law, and read from a memo by outside counsel to Enron management on the risks of firing employees who report improper accounting.",
+  "quote": "the Enron case also demonstrates the vulnerability of corporate whistleblowers to retaliation under current law.",
+  "source_id": "sox-hrg-banking-v3",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v3-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 77,
+   "printed_page": "p. 1233",
+   "section": "Senate floor debate, Amendment No. 4174",
+   "lines": "4487-4488 (work/text copy)"
+  },
+  "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
+  "verb": "stated",
+  "people": [
+   "Patrick J. Leahy"
+  ],
+  "event_date": "2002-07-09",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "806",
+  "aspect": "problem",
+  "notes": "Leahy does not name the law firm or the employee in this passage. His next remarks ('they wanted to fire the whistleblower') are his characterization; do not present as fact. Date: floor proceedings printed under July 9, 2002."
+ },
+ {
+  "id": "S-071",
+  "topic": "Daschle names Sherron Watkins",
+  "claim": "Introducing the Leahy amendment, Daschle said it would, for the first time, give federal protection to whistleblowers such as Enron's Sherron Watkins.",
+  "quote": "People like Sherron Watkins of Enron will be protected from reprisal for the first time under Federal law.",
+  "source_id": "sox-hrg-banking-v3",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v3-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 70,
+   "printed_page": "p. 1226",
+   "section": "Senate floor debate, Amendment No. 4174",
+   "lines": "4065-4067 (work/text copy)"
+  },
+  "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
+  "verb": "stated",
+  "people": [
+   "Tom Daschle",
+   "Sherron Watkins"
+  ],
+  "event_date": "2002-07-09",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "806",
+  "aspect": "problem",
+  "notes": "Daschle's statement about the bill's effect; it does not say Watkins was retaliated against. Facts about Watkins come from other cards."
+ },
+ {
+  "id": "S-072",
+  "topic": "Stabenow asks about whistleblowers",
+  "claim": "At the first Senate Banking hearing (Feb 12, 2002), Senator Stabenow asked for whistleblower protections, saying many people at Enron appeared to know something was wrong but were held back by the corporate culture. She later wrote the audit committee anonymous-complaint rule (Sec. 301).",
+  "quote": "In the case of Enron, it appears that many people in the company knew what was going on was wrong, but were stuck in the corporate culture that prevented them from coming forward.",
+  "source_id": "sox-hrg-banking-v1",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v1-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 21,
+   "pdf_page_end": 22,
+   "printed_page": "p. 7-8",
+   "section": "Statement of Senator Debbie Stabenow (Feb 12, 2002)",
+   "lines": "1110-1121 (work/text copy)"
+  },
+  "source_type": "senator's statement at a Senate hearing",
+  "verb": "stated",
+  "people": [
+   "Debbie Stabenow"
+  ],
+  "event_date": "2002-02-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "806",
+  "aspect": "problem",
+  "notes": "Stabenow's amendment on anonymous employee submissions to audit committees: S. Rept. 107-205, PDF p. 29 [p. 25]; statute Sec. 301 (10A(m)(4)). 'It appears' - her impression, not a finding."
+ },
+ {
+  "id": "S-073",
+  "topic": "Bush limits Sec. 806 congressional-investigation clause",
+  "claim": "Bush's signing statement said the executive branch would read the whistleblower provision's protection for reports to Congress as covering only investigations authorized by House or Senate rules for a proper legislative purpose.",
+  "quote": "the executive branch shall construe section 1514A(a)(1)(B) as referring to investigations authorized by the rules of the Senate or the House of Representatives and conducted for a proper legislative purpose.",
+  "source_id": "sox-bush-signing-statement",
+  "file": "sources/07-sox-legislative-history/wcpd-2002-bush-signing-statement-sox-2002-07-30.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Statement on Signing the Sarbanes-Oxley Act of 2002",
+   "lines": "40-43 (work/text copy)"
+  },
+  "source_type": "presidential signing statement (official record)",
+  "verb": "stated",
+  "people": [
+   "George W. Bush"
+  ],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "806",
+  "aspect": "law",
+  "notes": "The statute text itself protects information given to 'any Member of Congress or any committee of Congress' (1514A(a)(1)(B)). The signing statement is a narrower reading, not an amendment."
+ },
+ {
+  "id": "S-074",
+  "topic": "SOX Sec. 1107: retaliation against informants",
+  "claim": "Section 1107 made it a federal crime, punishable by up to 10 years, to knowingly retaliate against anyone (including by interfering with their job) for giving truthful information about a possible federal offense to a law enforcement officer.",
+  "quote": "Whoever knowingly, with the intent to retaliate, takes any action harmful to any person, including interference with the lawful employment or livelihood of any person, for providing to a law enforcement officer any truthful information",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 1107, adding 18 U.S.C. 1513(e)",
+   "lines": "4142-4145 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "1107",
+  "aspect": "law",
+  "notes": "Unlike Sec. 806 (civil, public-company employees only), Sec. 1107 is criminal and covers any person and any employer."
+ },
+ {
+  "id": "S-075",
+  "topic": "SOX Sec. 807: new securities fraud crime",
+  "claim": "Section 807 created a new federal crime of securities fraud: knowingly carrying out a scheme to defraud in connection with a public company's securities, punishable by up to 25 years.",
+  "quote": "shall be fined under this title, or imprisoned not more than 25 years, or both.",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Sec. 807, adding 18 U.S.C. 1348",
+   "lines": "3783-3784 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "807",
+  "aspect": "law",
+  "notes": ""
+ },
+ {
+  "id": "S-076",
+  "topic": "10 years proposed, 25 enacted",
+  "claim": "When the Leahy amendment was offered on July 9, 2002, Daschle described its securities-fraud crime as a 10-year felony; the enacted Sec. 807 sets a maximum of 25 years.",
+  "quote": "The Leahy amendment punishes criminals by creating a tough new 10-year felony for securities fraud.",
+  "source_id": "sox-hrg-banking-v3",
+  "file": "sources/07-sox-legislative-history/shrg-107-948-v3-accounting-reform-investor-protection.pdf",
+  "locator": {
+   "pdf_page": 70,
+   "printed_page": "p. 1226",
+   "section": "Senate floor debate, Amendment No. 4174",
+   "lines": "4050-4051 (work/text copy)"
+  },
+  "source_type": "Senate floor statement (Congressional Record, reprinted in S. Hrg. 107-948)",
+  "verb": "stated",
+  "people": [
+   "Tom Daschle"
+  ],
+  "event_date": "2002-07-09",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "807",
+  "aspect": "problem",
+  "notes": "The library does not show where the penalty rose to 25 years (the conference report has no section-by-section explanation). Report both figures; do not explain the change."
+ },
+ {
+  "id": "S-077",
+  "topic": "Enron started it, WorldCom finished it",
+  "claim": "CRS wrote that the Act began early in 2002 after Enron's bankruptcy, that momentum seemed to slow, and that the WorldCom scandal in late June renewed Congress's interest so the bill quickly became law.",
+  "quote": "Sarbanes-Oxley had its genesis early in 2002 after the declared bankruptcy of the Enron Corporation, but for some time it appeared as though its impetus had slowed.",
+  "source_id": "sox-crs-summary",
+  "file": "sources/07-sox-legislative-history/crs-rl31554-sox-summary.pdf",
+  "locator": {
+   "pdf_page": 4,
+   "printed_page": "CRS-1",
+   "section": "Introduction",
+   "lines": "92-94 (work/text copy)"
+  },
+  "source_type": "Congressional Research Service report",
+  "verb": "reported",
+  "people": [],
+  "event_date": "2002",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "general",
+  "aspect": "problem",
+  "notes": ""
+ },
+ {
+  "id": "S-078",
+  "topic": "How the bill passed",
+  "claim": "The law's legislative history shows the House passed H.R. 3763 on April 24, 2002, the Senate passed its version on July 15, both chambers agreed to the conference report on July 25, and the President signed it July 30, 2002.",
+  "quote": "July 25, House and Senate agreed to conference report.",
+  "source_id": "sox-plaw-html",
+  "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Legislative history note at end of Public Law 107-204",
+   "lines": "4163 (work/text copy)"
+  },
+  "source_type": "statute",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-25",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "general",
+  "aspect": "law",
+  "notes": "The Senate Banking Committee voted 17-4 to report its bill on June 18, 2002 (S. Rept. 107-205, PDF p. 6 [p. 2])."
+ },
+ {
+  "id": "S-079",
+  "topic": "The conference report explains little",
+  "claim": "In conference, the Senate's text replaced the whole House bill; conferees met July 19 and 24, 2002. The joint explanatory statement only records this, with no section-by-section explanation.",
+  "quote": "The Managers on the part of the House and the Senate met on July 19 and July 24, 2002 (the House chairing), and reconciled the differences between the House bill and the Senate amendment.",
+  "source_id": "sox-hrpt-107-610",
+  "file": "sources/07-sox-legislative-history/hrpt-107-610-sox-conference-report.pdf",
+  "locator": {
+   "pdf_page": 69,
+   "printed_page": "p. 69",
+   "section": "Joint Explanatory Statement of the Committee of Conference",
+   "lines": "4266-4268 (work/text copy)"
+  },
+  "source_type": "congressional committee report",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2002-07-24",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "general",
+  "aspect": "problem",
+  "notes": "Because the conference report gives no reasons for individual sections, the Senate report (S. Rept. 107-205) and floor debate are the best library sources for congressional purpose. Provisions added on the Senate floor (e.g. Sec. 402's ban, Title VIII) have no committee report explanation."
+ },
+ {
+  "id": "S-080",
+  "topic": "SEC 704 study: where fraud happens",
+  "claim": "Studying 515 enforcement actions (227 investigations) from July 1997 to July 2002, the SEC found improper revenue recognition was the most common problem (126 matters), and 157 matters involved charges against at least one senior manager.",
+  "quote": "The Study found that 157 of the 227 enforcement matters involved charges against at least one senior manager.",
+  "source_id": "sec-sox704-report",
+  "file": "sources/08-sox-law-pcaob-profession/sec-sox-704-report-2003.pdf",
+  "locator": {
+   "pdf_page": 6,
+   "printed_page": "p. 2",
+   "section": "I. Executive Summary",
+   "lines": "215-216 (work/text copy)"
+  },
+  "source_type": "SEC report to Congress",
+  "verb": "reported",
+  "people": [],
+  "event_date": "2003-01",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "provision": "general",
+  "aspect": "implementation",
+  "notes": "Same summary: the SEC charged 18 audit firms and 89 individual auditors in the period (PDF p. 7 [p. 3]). The study was required by SOX Sec. 704. Enron is not counted in these statistics."
+ }
+]

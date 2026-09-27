@@ -1,0 +1,1329 @@
+[
+ {
+  "id": "K-001",
+  "topic": "Prepays: what a real prepay is, and what Enron's were",
+  "claim": "The Senate subcommittee's chief investigator, Robert Roach, testified under oath that a prepay is normally payment in advance for something delivered later, but that once Enron's multi-party 'prepays' were stripped down, what remained was a bank loan that Enron had to repay with interest, so the money should have been booked as debt, not as cash from operations.",
+  "quote": "But when all the bells and whistles are stripped away, the basic transaction fails as a prepay, and what remains is a loan to Enron using an investment bank and an obligation on Enron’s part to repay the principal plus interest.",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 32,
+   "printed_page": "p. 14",
+   "section": "July 23, 2002 hearing: Testimony of Robert L. Roach",
+   "lines": "2012-2024 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "sworn testimony",
+  "verb": "testified",
+  "people": [
+   "Robert L. Roach"
+  ],
+  "event_date": "2002-07-23",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Roach and Gary Brown were sworn at PDF p. 31 (lines 1961-1968). Roach was subcommittee staff, so his testimony presents the staff's investigation, not a court finding. Existing card A-072 already gives the PSI report's '$8 billion' summary. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-002",
+  "topic": "Prepays: the triangle with a bank's offshore entity",
+  "claim": "Roach testified that because two offsetting trades between Enron and a bank would be obvious to auditors, Chase inserted its offshore entity Mahonia so the deal looked like trades among three independent parties: Chase sent cash to Mahonia, Mahonia sent it to Enron, and Enron 'repaid' with commodity deliveries that flowed back to Chase, with interest built in.",
+  "quote": "So to help Enron out with its problems, Chase inserted into the trade one of its shell corporations, Mahonia, to engage in a series of trades between three supposedly independent parties.",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 33,
+   "printed_page": "p. 15",
+   "section": "July 23, 2002 hearing: Testimony of Robert L. Roach",
+   "lines": "2057-2085 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "sworn testimony",
+  "verb": "testified",
+  "people": [
+   "Robert L. Roach"
+  ],
+  "event_date": "2002-07-23",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "JPMorgan Chase's witness disputed that Chase controlled Mahonia (see the Dellapina card). Good basis for a diagram: Chase -> Mahonia -> Enron -> (deliveries) -> Mahonia -> Chase. Roach called this a 'simplified version'. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-003",
+  "topic": "Prepays: four tests they failed",
+  "claim": "Roach testified that to count as trading rather than debt, the parties had to be independent, the trades could not be linked, the trades had to carry price risk, and there had to be a real business reason. He said the Enron prepays the staff examined failed all four.",
+  "quote": "The Enron-type prepays we examined failed on all accounts",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 34,
+   "printed_page": "p. 16",
+   "section": "July 23, 2002 hearing: Testimony of Robert L. Roach",
+   "lines": "2097-2122 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "sworn testimony",
+  "verb": "testified",
+  "people": [
+   "Robert L. Roach"
+  ],
+  "event_date": "2002-07-23",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Four elements listed at lines 2097-2112 (PDF pp. 33-34). Plain-language explanation for the Mark-to-Market / Banks pathway. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-004",
+  "topic": "Prepays: how much, and from whom",
+  "claim": "Roach testified that Enron used prepays to obtain more than $8 billion over about six years, including $3.7 billion from 12 deals with Chase and $4.8 billion from 14 deals with Citigroup, and called $8 billion a conservative estimate.",
+  "quote": "including $3.7 billion from 12 transactions with Chase and $4.8 billion from 14 transactions with Citigroup.",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 34,
+   "printed_page": "p. 16",
+   "section": "July 23, 2002 hearing: Testimony of Robert L. Roach",
+   "lines": "2123-2129 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "sworn testimony",
+  "verb": "testified",
+  "people": [
+   "Robert L. Roach"
+  ],
+  "event_date": "1992/2001",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "SOURCES DIFFER SLIGHTLY: the bankruptcy examiner's Final Report, Appendix G (Toronto Dominion), p. 62 (PDF 64), gives Citigroup's prepay volume as $4.7 billion and JPMorgan Chase's as $3.7 billion. Say 'about $4.7-4.8 billion' or cite both. Roach said prepays began 'around 1992' and the full amount 'may be much larger'. event_date is a range, not a single date."
+ },
+ {
+  "id": "K-005",
+  "topic": "Prepays: loans for the IRS, trades for investors",
+  "claim": "Roach testified that the subcommittee learned Enron treated the same prepay deals as loans on its tax returns, so it could deduct the interest, while reporting the proceeds to investors as cash from operations.",
+  "quote": "Enron was simultaneously treating the prepay transactions as loans on its tax returns in order to claim the interest expense as a business deduction.",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 34,
+   "printed_page": "p. 16",
+   "section": "July 23, 2002 hearing: Testimony of Robert L. Roach",
+   "lines": "2130-2136 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "sworn testimony",
+  "verb": "testified",
+  "people": [
+   "Robert L. Roach"
+  ],
+  "event_date": null,
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Striking 'Ask Why' detail. Only one source in the library for it; attribute to Roach's testimony. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-006",
+  "topic": "Prepays: what honest accounting would have shown (2000)",
+  "claim": "Roach testified that Enron had about $4 billion of prepay financing outstanding at the end of 2000; had it been booked as debt, Enron's total debt would have risen about 40 percent to $14 billion and its funds flow from operations would have fallen almost 50 percent to $1.7 billion.",
+  "quote": "its total debt would have increased by about 40 percent to $14 billion, and its fund flows from operation would have dropped by almost 50 percent to $1.7 billion.",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 34,
+   "printed_page": "p. 16",
+   "section": "July 23, 2002 hearing: Testimony of Robert L. Roach (Exhibit 104)",
+   "lines": "2142-2157 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "sworn testimony",
+  "verb": "testified",
+  "people": [
+   "Robert L. Roach"
+  ],
+  "event_date": "2000-12-31",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Staff's own restatement estimate, not an audited figure. Reported 2000 figures he used: total debt about $10 billion, funds flow from operations about $3.2 billion. Good chart for the Follow the Money lens (label it 'Senate staff estimate')."
+ },
+ {
+  "id": "K-007",
+  "topic": "Prepays: size at the bankruptcy (senator's statement)",
+  "claim": "In his opening statement at the July 23, 2002 hearing, subcommittee chairman Carl Levin said that when Enron went bankrupt it had about $5 billion in prepays outstanding that were virtually unknown to its creditors and investors.",
+  "quote": "it had about $5 billion in outstanding so-called prepays that were virtually unknown to the company’s creditors, investors, and business associates.",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 21,
+   "printed_page": "p. 3",
+   "section": "July 23, 2002 hearing: Opening Statement of Senator Levin",
+   "lines": "1304-1307 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "congressional hearing statement (senator; not sworn testimony)",
+  "verb": "stated",
+  "people": [
+   "Carl Levin"
+  ],
+  "event_date": "2001-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "A senator's opening statement is advocacy by a committee member, not testimony or a finding. Attribute as 'Senator Levin said'. Compare Enron's Nov. 19, 2001 bank presentation: $4.822 billion of 'Commodity Transactions with Financial Institutions' at 9/30/01 (see Batson card). Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-008",
+  "topic": "Prepays: the Chase email ('Enron loves these deals')",
+  "claim": "At the hearing Senator Levin read an internal 1998 Chase email saying Enron liked prepays because they let it hide debt from equity analysts by booking it as deferred revenue or trading liabilities.",
+  "quote": "Enron loves these deals as they are able to hide funded debt from their equity analysts because they (at the very least) book it as deferred rev[enue] or (better yet) bury it in their trading liabilities.",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 21,
+   "printed_page": "p. 3",
+   "section": "July 23, 2002 hearing: Opening Statement of Senator Levin (quoting a Chase email)",
+   "lines": "1283-1287 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "congressional hearing statement (senator quoting a bank document)",
+  "verb": "stated",
+  "people": [
+   "Carl Levin"
+  ],
+  "event_date": "1998-11",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "The quote is Levin's reading of the email (brackets are his). Later in the hearing (PDF p. 80, lines 4995-5002) Levin identified it as Exhibit 123, from Chase investment banker 'George Serice' (spelling as Levin gave it), November 1998. The same opening statement quotes a Citigroup email and an Andersen email. See next card for how Chase's witnesses answered. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-009",
+  "topic": "Chase's witnesses answer the email",
+  "claim": "Under oath, Chase managing director Donald McCree called the email an unfortunate statement by an employee who was not fully informed, and Jeffrey Dellapina said he believed its reference to 'funded debt' was inaccurate because prepaid forwards are different from funded debt.",
+  "quote": "I think it is an unfortunate statement. I don’t think it bears resemblance to how we as an institution view the transactions that were undertaken here.",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 80,
+   "printed_page": "p. 62",
+   "section": "July 23, 2002 hearing: Chase panel, questioning by Senator Levin",
+   "lines": "5020-5058 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "sworn testimony",
+  "verb": "testified",
+  "people": [
+   "Donald H. McCree",
+   "Jeffrey Dellapina"
+  ],
+  "event_date": "2002-07-23",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Oath for McCree, Traband and Dellapina at PDF p. 76 (lines 4758-4765). Dellapina's words (PDF p. 81, lines 5048-5051): 'I believe that prepaid forwards are fundamentally different than funded debt.' Present both sides; the banks' view differs from the staff's."
+ },
+ {
+  "id": "K-010",
+  "topic": "Chase's view: Mahonia was independent",
+  "claim": "Chase's witness Jeffrey Dellapina testified that Mahonia was beneficially owned by a charitable trust, that neither Chase nor Enron owned any part of it or appointed its officers, and that using such entities is standard in structured finance. He also said prepaid forwards are a long-used, proper financing tool and that Chase does not provide accounting services to clients.",
+  "quote": "Mahonia is beneficially owned by a charitable trust. Neither Chase nor Enron has any ownership interest in Mahonia.",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 78,
+   "printed_page": "p. 60",
+   "section": "July 23, 2002 hearing: Testimony of Jeffrey Dellapina (JPMorgan Chase)",
+   "lines": "4815-4823, 4877-4904 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "sworn testimony",
+  "verb": "testified",
+  "people": [
+   "Jeffrey Dellapina"
+  ],
+  "event_date": "2002-07-23",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "SOURCES DISAGREE: Levin and Roach described Mahonia as a Chase shell/offshore entity controlled by the bank; the bankruptcy examiner (Final Report p. 95, PDF 98) called Mahonia and Delta 'shell entities set up by JPMorgan Chase and Citigroup'. Dellapina also said Chase's first Enron prepay was in 1992 (a Jersey SPE) and that from 1993 to 2001 Enron did 11 more with Chase, ten with Mahonia Limited and one with Mahonia Natural Gas Limited (lines 4877-4891)."
+ },
+ {
+  "id": "K-011",
+  "topic": "Citigroup's view: we relied on Andersen",
+  "claim": "Citigroup's head of risk management for its investment bank, David Bushnell, testified that Citigroup believed it was dealing with honest managers, relied heavily on assurances that Arthur Andersen had reviewed the prepays, and acted in good faith, while regretting its relationship with Enron.",
+  "quote": "While we regret our relationship with Enron, we acted in good faith at all times.",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 110,
+   "printed_page": "p. 92",
+   "section": "July 23, 2002 hearing: Testimony of David C. Bushnell (Citigroup)",
+   "lines": "6873-6892, 6951-6957 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "sworn testimony",
+  "verb": "testified",
+  "people": [
+   "David C. Bushnell"
+  ],
+  "event_date": "2002-07-23",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Oath for Hendricks, Bushnell, Reilly and Caplan at PDF p. 109 (lines 6820-6829). Second quote available (PDF p. 111): 'we relied heavily on the assurances that its outside auditor, Arthur Andersen, had reviewed these transactions.' Useful for The Auditors lens: the banks pointed to the auditor."
+ },
+ {
+  "id": "K-012",
+  "topic": "Rating agencies did not know about the prepays",
+  "claim": "Moody's chief credit officer Pamela Stumpp testified that Moody's did not know about Enron's prepaid forward and related swap deals before the bankruptcy, and that treating them as loans would have lowered Enron's operating cash flow, raised its debt, and put downward pressure on its credit rating.",
+  "quote": "Moody’s did not have any knowledge, prior to Enron’s bankruptcy, of the existence of Enron’s prepaid forward and related swap transactions.",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 47,
+   "printed_page": "pp. 29-30",
+   "section": "July 23, 2002 hearing: Testimony of Pamela M. Stumpp (Moody's)",
+   "lines": "2969-2992 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "sworn testimony",
+  "verb": "testified",
+  "people": [
+   "Pamela M. Stumpp"
+  ],
+  "event_date": "2002-07-23",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Quote spans PDF pp. 47-48 (printed pp. 29-30). Stumpp was sworn with the rating-agency panel (see swearing-in near line 2722). Links to Who Knew What, When: the banks knew; the rating agencies say they did not. See also existing card C-059 on rating agencies. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim. Quote runs across a page break (PDF pp. 47-48) with a footnote between 'prepaid for-' and 'ward'; checked by reading both pages."
+ },
+ {
+  "id": "K-013",
+  "topic": "Merrill bankers invoke the Fifth",
+  "claim": "At the July 30, 2002 hearing, former Merrill Lynch managing director Robert Furst and Merrill managing director Schuyler Tilney were sworn in, said they had met voluntarily with subcommittee staff, and then declined to answer any questions, invoking their Fifth Amendment right because the Justice Department was investigating one of the transactions.",
+  "quote": "I, therefore, respectfully advise the Subcommittee that I intend to assert my constitutional privilege under the Fifth Amendment in response to the Subcommittee’s questions today.",
+  "source_id": "hrg-psi-banks-v1",
+  "file": "sources/05-hearings-enron/shrg-107-618-v1-role-of-financial-institutions.pdf",
+  "locator": {
+   "pdf_page": 190,
+   "printed_page": "p. 172",
+   "section": "July 30, 2002 hearing: Testimony of Robert Furst and Schuyler Tilney",
+   "lines": "11712-11808 (work/text/hrg-psi-banks-v1.txt)"
+  },
+  "source_type": "sworn testimony",
+  "verb": "stated under oath",
+  "people": [
+   "Robert Furst",
+   "Schuyler Tilney"
+  ],
+  "event_date": "2002-07-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Quote is Furst's. Furst himself noted that 'even innocent witnesses' may assert the privilege; the site must say that invoking the Fifth is not evidence of guilt. Levin said Merrill's Dan Bayly would be deposed by staff after the hearing (lines 11811-11830). Existing card B-084 notes Furst and Tilney also asserted the Fifth in SEC testimony. For how any criminal case against these men ended, see gaps file."
+ },
+ {
+  "id": "K-014",
+  "topic": "SEC: why JPMorgan Chase's prepays were loans",
+  "claim": "The SEC alleged that JPMorgan Chase's prepays with Enron were loans disguised as commodity trades: the commodity price risk passed from Enron to a Chase-sponsored entity, to Chase, and back to Enron, so all that was left was Enron's promise to repay cash with interest set in advance.",
+  "quote": "These prepays were in substance loans because their structure eliminated all commodity price risk that would normally exist in commodity trades.",
+  "source_id": "sec-jpm-citi-press",
+  "file": "sources/04-sec-enforcement/sec-press-2003-87-jpmorgan-citigroup.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "SEC Press Release 2003-87 (July 28, 2003)",
+   "lines": "248 (work/text/sec-jpm-citi-press.txt)"
+  },
+  "source_type": "SEC allegation",
+  "verb": "alleged",
+  "people": [],
+  "event_date": "2003-07-28",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "JPMorgan Chase consented to a final judgment in a civil injunctive action without admitting or denying the allegations. The release adds that the interest was 'calculated with reference to LIBOR' and that 'The only risk in the transactions was J.P. Morgan Chase's risk that Enron would not make its payments when due'. Settlement amounts are already in card B-086. The whole release body is one long line in the text copy."
+ },
+ {
+  "id": "K-015",
+  "topic": "SEC: Citigroup's findings also covered Bacchus and Nahanni",
+  "claim": "The SEC's order against Citigroup covered its Enron prepays and two more deals, Project Nahanni and Project Bacchus. According to the SEC, Bacchus was in substance a $200 million Citigroup financing, because Citigroup was not at risk for its equity investment. Citigroup consented without admitting or denying the findings.",
+  "quote": "According to the Commission, however, in substance, Project Bacchus was a $200 million financing from Citigroup, because Citigroup was not at risk for its equity investment in the project.",
+  "source_id": "sec-jpm-citi-press",
+  "file": "sources/04-sec-enforcement/sec-press-2003-87-jpmorgan-citigroup.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "SEC Press Release 2003-87 (July 28, 2003)",
+   "lines": "248 (work/text/sec-jpm-citi-press.txt)"
+  },
+  "source_type": "SEC administrative order findings (settled; neither admitted nor denied)",
+  "verb": "found (settled)",
+  "people": [],
+  "event_date": "2003-07-28",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Citigroup's case was an administrative proceeding with 'findings'; JPMorgan Chase's was a court action with 'allegations'. Use 'the SEC found, and Citigroup neither admitted nor denied' for Citigroup. Nahanni: per the SEC, Citigroup helped Enron generate operating cash by selling Treasury bills bought with loan proceeds. The same order resolved a Dynegy matter (Project Alpha). Bacchus matches the Senate staff report's account (see Bacchus cards)."
+ },
+ {
+  "id": "K-016",
+  "topic": "SEC: what the banks allegedly knew",
+  "claim": "The SEC alleged that both banks knew Enron did these deals to make its mark-to-market 'paper' earnings look backed by operating cash, and to keep the borrowings off the balance sheet, where they showed up as 'price risk management liabilities', 'minority interest', or otherwise.",
+  "quote": "Instead they appeared as “price risk management liabilities,” “minority interest,” or otherwise.",
+  "source_id": "sec-jpm-citi-press",
+  "file": "sources/04-sec-enforcement/sec-press-2003-87-jpmorgan-citigroup.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "SEC Press Release 2003-87 (July 28, 2003)",
+   "lines": "248 (work/text/sec-jpm-citi-press.txt)"
+  },
+  "source_type": "SEC allegation",
+  "verb": "alleged",
+  "people": [],
+  "event_date": "2003-07-28",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Also: 'Enron sought to convince analysts and credit rating agencies that its reported mark-to-market earnings were real'. Ties the Banks page to the mark-to-market chapter. Links to glossary terms mark-to-market, cash flow from operations, off-balance-sheet."
+ },
+ {
+  "id": "K-017",
+  "topic": "SEC: where the settlement money went; parallel settlements",
+  "claim": "The SEC said it intended to send the banks' payments to fraud victims under the Sarbanes-Oxley 'Fair Fund' provision: $236 million to Enron fraud victims and $19 million to Dynegy fraud victims. The same day, the Manhattan District Attorney's office settled with both banks, and bank regulators signed written agreements requiring them to strengthen risk controls.",
+  "quote": "($236 million to Enron fraud victims and $19 million to Dynegy fraud victims)",
+  "source_id": "sec-jpm-citi-press",
+  "file": "sources/04-sec-enforcement/sec-press-2003-87-jpmorgan-citigroup.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "SEC Press Release 2003-87 (July 28, 2003)",
+   "lines": "248 (work/text/sec-jpm-citi-press.txt)"
+  },
+  "source_type": "government press release",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2003-07-28",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Links Enron to Sarbanes-Oxley Sec. 308(a) (Fair Funds) for the 'Why This Matters' page. The release does not give the terms of the District Attorney settlements (gap). Regulators named: Federal Reserve Bank of New York, OCC, New York State Banking Department. $236M = $135M (JPMorgan Chase) + $101M (Citigroup's Enron share). MERGED: Also in the release: Enforcement Director Stephen M. Cutler said 'you can’t turn a blind eye to the consequences of your actions' (verbatim, curly apostrophe). The SEC's 'know or have reason to know' standard is looser than the examiner's 'actual knowledge' test."
+ },
+ {
+  "id": "K-018",
+  "topic": "CIBC settles with the SEC",
+  "claim": "The SEC's Enron enforcement index lists a December 22, 2003 action in which the SEC charged Canadian Imperial Bank of Commerce (CIBC) and three executives with aiding and abetting Enron's accounting fraud, and CIBC settled at the same time by consenting to an anti-fraud injunction and paying $80 million.",
+  "quote": "CIBC Simultaneously Settles Charges, Consenting to a Permanent Anti-Fraud Injunction and Payment of $80 Million in Disgorgement, Penalties and Interest",
+  "source_id": "sec-enron-spotlight",
+  "file": "sources/04-sec-enforcement/sec-enron-spotlight-index.html",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "SEC Spotlight on Enron: enforcement actions list (Litigation Release No. 18517, Dec. 22, 2003)",
+   "lines": "83 (work/text/sec-enron-spotlight.txt)"
+  },
+  "source_type": "government press release",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2003-12-22",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Source is only an index title; the complaint and release are not in the library, so the transactions CIBC was charged over, the three executives' names and how their cases ended are unknown (logged as gap). The title does not say whether CIBC admitted or denied the charges; do not add that."
+ },
+ {
+  "id": "K-019",
+  "topic": "Merrill barge deal: the promised exit",
+  "claim": "The SEC alleged that an internal Merrill document on the barge deal said Enron had promised Merrill would be taken out of the investment within six months, with Enron finding third-party buyers, and that Merrill's Daniel Bayly would call Enron's senior management to confirm the commitment.",
+  "quote": "assured us that we will be taken out of our investment within six months",
+  "source_id": "sec-merrill-complaint",
+  "file": "sources/04-sec-enforcement/sec-v-merrill-lynch-complaint-2003.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Complaint, para. 19 (the 'Appropriation Request')",
+   "lines": "78 (work/text/sec-merrill-complaint.txt)"
+  },
+  "source_type": "SEC allegation",
+  "verb": "alleged",
+  "people": [
+   "Daniel H. Bayly"
+  ],
+  "event_date": "1999-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Words in quotation marks are the Merrill document as quoted in the complaint. Same paragraph: Enron had paid Merrill about $40 million in fees in 1999. The Senate staff report (p. 2) describes the same promise as a secret resale within six months with a guaranteed 15 percent return; the SEC complaint gives 22.5% per year or '$250,000 plus 15% per annum'. The figures differ; cite each source for its own number. MERGED: Structure (para. 16, line 72): a Merrill entity bought stock in Enron Nigeria Barge Limited for $28 million; Enron lent $21 million non-recourse, 'Thus, Merrill Lynch was asked to provide only $7 million in cash for the deal.' Para. 28: Merrill 'never paid any interest on the loan'."
+ },
+ {
+  "id": "K-020",
+  "topic": "Merrill barge deal: the call with Fastow",
+  "claim": "The SEC alleged that on or about December 23, 1999, Bayly, Tilney and Furst spoke with Enron CFO Andrew Fastow, who assured Merrill it would not lose money and would be taken out within six months, and said the guarantee could not be put in writing.",
+  "quote": "Fastow stated that this guarantee could not be in writing as it would defeat Enron's ability to recognize a gain on the sale.",
+  "source_id": "sec-merrill-complaint",
+  "file": "sources/04-sec-enforcement/sec-v-merrill-lynch-complaint-2003.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Complaint, para. 27",
+   "lines": "96 (work/text/sec-merrill-complaint.txt)"
+  },
+  "source_type": "SEC allegation",
+  "verb": "alleged",
+  "people": [
+   "Andrew Fastow",
+   "Daniel H. Bayly",
+   "Schuyler M. Tilney",
+   "Robert S. Furst"
+  ],
+  "event_date": "1999-12-23",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Allegation only. Para. 26 alleges Thomas Davis approved the deal knowing it was 'a sham sale'. The same 'unwritten guarantee' pattern appears in the Senate staff's Bacchus findings and the examiner's RBS findings."
+ },
+ {
+  "id": "K-021",
+  "topic": "Merrill barge deal: the buyout by LJM2",
+  "claim": "The SEC alleged that on June 29, 2000, Fastow's partnership LJM2 bought Merrill's barge interest for $7,525,000, a price not negotiated but set to give Merrill its promised return of about 22 percent a year, and that Enron had booked about $12 million of earnings from the 'sale'.",
+  "quote": "On June 29, 2000, LJM2 bought Merrill Lynch's interest for $7,525,000. The price was not the product of negotiation.",
+  "source_id": "sec-merrill-complaint",
+  "file": "sources/04-sec-enforcement/sec-v-merrill-lynch-complaint-2003.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Complaint, paras. 29, 35",
+   "lines": "102, 116 (work/text/sec-merrill-complaint.txt)"
+  },
+  "source_type": "SEC allegation",
+  "verb": "alleged",
+  "people": [
+   "Andrew Fastow"
+  ],
+  "event_date": "2000-06-29",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Para. 35 also alleges 'LJM2 documents confirm that it made the purchase to fulfill Fastow's guarantee.' Connects to the LJM chapter."
+ },
+ {
+  "id": "K-022",
+  "topic": "Merrill energy trade: '17 million reasons'",
+  "claim": "The SEC alleged that in December 1999 Merrill also agreed to two nearly mirror-image electricity options with Enron for a $17 million fee, a nearly risk-free deal that let Enron report about $50 million of income, and that when an employee raised concerns a senior Merrill executive said Merrill had '17 million reasons' to approve it.",
+  "quote": "another high level Merrill Lynch executive stated that Merrill Lynch had \"17 million reasons\" for getting the transaction approved.",
+  "source_id": "sec-merrill-complaint",
+  "file": "sources/04-sec-enforcement/sec-v-merrill-lynch-complaint-2003.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Complaint, paras. 36-42",
+   "lines": "120-136 (work/text/sec-merrill-complaint.txt)"
+  },
+  "source_type": "SEC allegation",
+  "verb": "alleged",
+  "people": [],
+  "event_date": "1999-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "The executive is unnamed in the complaint. The trade was unwound June 30, 2000; Merrill received $8.5 million, half its fee (para. 50)."
+ },
+ {
+  "id": "K-023",
+  "topic": "Merrill energy trade: the 'warranty letter'",
+  "claim": "The SEC alleged that Merrill's review committee asked to hear from Enron and its auditors; Enron's chief accounting officer told the committee Andersen had approved the accounting and signed a 'warranty letter' Merrill drafted, but Merrill, Furst and Tilney never actually spoke with Andersen.",
+  "quote": "Merrill Lynch, Furst, and Tilney never talked to Andersen, and had no engagement or retainer with Andersen.",
+  "source_id": "sec-merrill-complaint",
+  "file": "sources/04-sec-enforcement/sec-v-merrill-lynch-complaint-2003.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Complaint, paras. 43-45",
+   "lines": "138-142 (work/text/sec-merrill-complaint.txt)"
+  },
+  "source_type": "SEC allegation",
+  "verb": "alleged",
+  "people": [
+   "Robert S. Furst",
+   "Schuyler M. Tilney"
+  ],
+  "event_date": "1999-12-31",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "The complaint does not name Enron's CAO; do not add a name from other sources in this card. Good for The Auditors lens (auditor approval used as cover)."
+ },
+ {
+  "id": "K-024",
+  "topic": "Merrill: effect on Enron's 1999 results and Merrill's fees",
+  "claim": "The SEC alleged that the two deals added about $60 million to Enron's fourth-quarter 1999 income, raising it from $199 million to $259 million and lifting 1999 earnings per share from $1.09 to $1.17, and that Merrill earned $9.275 million in fees from them.",
+  "quote": "Merrill Lynch earned $9.275 million in fees from the barge and energy trade transactions.",
+  "source_id": "sec-merrill-complaint",
+  "file": "sources/04-sec-enforcement/sec-v-merrill-lynch-complaint-2003.htm",
+  "locator": {
+   "pdf_page": null,
+   "printed_page": null,
+   "section": "Complaint, paras. 51-52",
+   "lines": "160-162 (work/text/sec-merrill-complaint.txt)"
+  },
+  "source_type": "SEC allegation",
+  "verb": "alleged",
+  "people": [],
+  "event_date": "1999",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "The $60 million and '30% improvement' also appear in para. 1 (card B-083). The added numbers here are the before/after net income and EPS and the fee total. How the SEC case against Merrill Lynch the company ended is not in the library (gap)."
+ },
+ {
+  "id": "K-025",
+  "topic": "Merrill and CIBC agreements with the government (as the appeals court described them)",
+  "claim": "In Skilling's appeal, the Fifth Circuit described 'the government's plea agreements with Merrill Lynch and Canadian Imperial Bank of Commerce' and rejected Skilling's argument that they stopped witnesses from helping his defense; the court said employees of those banks were free to testify for him.",
+  "quote": "Skilling asserts that the government’s plea agreements with Merrill Lynch and Canadian Imperial Bank of Commerce (“CIBC”) improperly forbade witnesses from cooperating with his defense.",
+  "source_id": "ca5-skilling-2009",
+  "file": "sources/09-courts-doj/ca5-us-v-skilling-2009.pdf",
+  "locator": {
+   "pdf_page": 60,
+   "printed_page": "p. 60",
+   "section": "Part (Plea Agreements) of the Fifth Circuit's opinion",
+   "lines": "2346-2380 (work/text/ca5-skilling-2009.txt)"
+  },
+  "source_type": "court's description of procedural history",
+  "verb": "stated",
+  "people": [
+   "Jeffrey Skilling"
+  ],
+  "event_date": "2009-01-06",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "CAUTION: the library has no copy of these agreements. CA5 calls them 'plea agreements' but does not describe their terms, dates or charges; do not say the banks 'pleaded guilty' or were 'convicted' on this basis. Logged as gap. Existing card B-085 covers the Nigerian barge criminal trial of four unnamed Merrill employees and its reversal."
+ },
+ {
+  "id": "K-026",
+  "topic": "Four deals: the staff's overall finding",
+  "claim": "The Senate subcommittee staff found that four 2000-2001 deals, Fishtail, Bacchus, Sundance and Slapshot, all tied to Enron's new pulp-and-paper trading business and financed mainly by Citigroup's Salomon Smith Barney unit or by Chase, showed the two banks actively helped Enron despite knowing the deals used deceptive accounting or tax strategies.",
+  "quote": "The evidence associated with the four transactions demonstrates that Citigroup and Chase actively aided Enron in executing them, despite knowing the transactions utilized deceptive accounting or tax strategies, in return for substantial fees or favorable consideration in other business dealings.",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 6,
+   "printed_page": "p. 2",
+   "section": "Introduction",
+   "lines": "204-219 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [],
+  "event_date": "2000-12/2001-06",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "S. Prt. 107-82, Jan. 2, 2003. The staff also found Enron could not have completed any of the four without a major bank. Existing card A-073 summarizes the Fishtail-Bacchus-Sundance 'round trip'; this card is the overall finding. Printed page = PDF page minus 4 in this report. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-027",
+  "topic": "Fishtail: a joint venture with no real second investor",
+  "claim": "The staff found that in Fishtail (December 2000) Enron put its pulp-and-paper trading business into a joint venture valued at $200 million. The other side's stake was $8 million cash from Fastow's LJM2 plus a $42 million Chase 'commitment' that was never funded. Chase was paid $500,000 without ever contributing money.",
+  "quote": "Chase never actually invested any funds in Fishtail or took any active role in the business, yet was paid half a million dollars for pretending to provide the bulk of financing for this so-called joint venture.",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 14,
+   "printed_page": "p. 10",
+   "section": "Fishtail: The Facts and Analysis",
+   "lines": "520-535, 596-598, 693-698 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [
+   "Andrew Fastow"
+  ],
+  "event_date": "2000-12-19",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Chase's internal name was 'Project Grinch' (fn. 4, line 414). A finance expert quoted by the staff: 'Chase never really had any skin in the game.' (line 675). LJM2 earned an overall 15 percent return (lines 599-605). Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim. MERGED: Valuation (PDF p. 11, lines 458-471): 'The Chase Securities analysis had concluded that the pulp and paper trading business was worth $200 million.' Enron carried the trading book at about $85 million; $115 million was 'soft' value; Enron's own Nov. 2001 inventory valued the business at $50 million as of Sept. 30, 2001 (fn. 13, PDF p. 12)."
+ },
+ {
+  "id": "K-028",
+  "topic": "Bacchus: the 'sale' that was really a loan",
+  "claim": "The staff found that in Bacchus (about December 26, 2000) Enron 'sold' its Fishtail interest for $200 million to the Caymus Trust, funded by a $194 million Citigroup loan and $6 million of 'equity' from FleetBoston whose risk was passed back to Citigroup. Enron guaranteed the loan through a total return swap, which kept the guarantee out of its footnotes.",
+  "quote": "The Caymus Trust was capitalized with a $194 million loan from Citigroup and a $6 million equity ‘‘investment’’ from FleetBoston Financial",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 17,
+   "printed_page": "p. 13",
+   "section": "Bacchus: The Facts",
+   "lines": "700-704, 804-833, 860-861 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [],
+  "event_date": "2000-12-26",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "The $6 million was the minimum 3 percent outside equity required to keep the buyer off Enron's books under the SPE rules (plain-language glossary: '3 percent rule'). Fn. 36 (line 860): by using a total return swap instead of a guarantee, 'Enron avoided having to disclose the guarantee in its financial statement footnotes.' The GPO text uses double single-quotes (‘‘ ’’) for quotation marks; render as normal quotes on the site. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-029",
+  "topic": "Bacchus: the unwritten guarantee from Fastow",
+  "claim": "The staff found that Enron also secretly guaranteed the $6 million 'equity' through an oral promise from CFO Andrew Fastow to Citigroup banker William Fox, which accounting rules did not allow. A Citigroup credit report listed the support for that equity as 'verbal guarantees' covering 100 percent, provided by Enron Corp.",
+  "quote": "‘‘Type: VERBAL GUARANTEES Percentage: 100.00’’",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 19,
+   "printed_page": "p. 15",
+   "section": "Bacchus: The Facts",
+   "lines": "873-899, 942-945 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [
+   "Andrew Fastow",
+   "William T. Fox III"
+  ],
+  "event_date": "2000-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Fox denied in a staff interview that Enron had 'verbally guaranteed' the equity, but confirmed he met Fastow to obtain Enron's 'verbal support' and was told Enron would take 'whatever steps necessary' (lines 887-895). At the Dec. 11, 2002 hearing Fox testified Fastow promised to take 'all steps necessary' (fn. 42, line 920). Present Fox's denial alongside the staff's conclusion. The examiner's Final Report (PDF p. 105-106) quotes the same Citigroup emails."
+ },
+ {
+  "id": "K-030",
+  "topic": "Bacchus: what it did to Enron's 2000 results",
+  "claim": "The staff found the Bacchus 'sale' let Enron report $200 million of operating cash flow and a $112 million gain in 2000: more than 11 percent of its $979 million net income and about 6 percent of its cash flow from operations. The staff said Enron would likely have missed Wall Street's earnings forecasts without it.",
+  "quote": "The $112 million gain represented more than 11 percent of Enron’s total net income for the fiscal year",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 21,
+   "printed_page": "p. 17",
+   "section": "Bacchus: The Facts (and fn. 58)",
+   "lines": "1079-1087, 1119-1124 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [],
+  "event_date": "2000",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "The 'would likely have failed to meet' point is the staff's inference ('These figures suggest'). Citigroup personnel agreed in interviews that $112 million was material but denied knowing at the time that Enron had booked it as earnings (lines 1031-1037). A-073 already gives the $112M; this card adds the percentages and the forecast point. MERGED: Citigroup's Bacchus earnings (PDF p. 21, lines 1088-1091): 'Citigroup was paid a $500,000 fee for its participation in Bacchus, earned about $5 million in interest payments related to the $200 million debt', plus a $450,000 yield on the $6 million 'equity investment'."
+ },
+ {
+  "id": "K-031",
+  "topic": "Bacchus: 'mission critical' and 'collect this iou'",
+  "claim": "The staff quoted Citigroup emails showing the bank took part partly to accommodate Enron: one said the deal was 'mission critical' for Enron's year-end and a 'must' for Citigroup; another, a week after closing, spoke of bending over backwards for Enron and collecting 'this iou when it really counts.'",
+  "quote": "I am sure we have gone out of our way to let them know that we are bending over backwards for them. . . let’s remember to collect this iou when it really counts.",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 19,
+   "printed_page": "p. 15",
+   "section": "Bacchus: The Facts",
+   "lines": "963-981 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [],
+  "event_date": "2000-12-27",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "The 'iou' email is from Citigroup employee Steve Wagman to Amanda Angelini, Dec. 27, 2000 (fn. 49). The examiner's Final Report (PDF p. 106, printed p. 103) quotes the same email, image-checked. Another email noted Enron generated about $50 million of revenue for the unit in 2000 (line 978). Use for Follow the Money lens. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-032",
+  "topic": "Sundance: 'more like debt rather than equity'",
+  "claim": "The staff found that Sundance (June 1, 2001), a joint venture of Enron and Citigroup, was built so none of Citigroup's money was really at risk: Citigroup could dissolve it at will, its $28.5 million was kept in reserved liquid assets, and its $160 million 'unfunded' commitment could be drawn only after about $750 million of losses. Citigroup's own committee said the deal was structured 'to act like debt.'",
+  "quote": "The investment has been structured to act like debt in form and substance.",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 26,
+   "printed_page": "p. 22",
+   "section": "Sundance: The Facts",
+   "lines": "1263-1293, 1337-1344 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [],
+  "event_date": "2001-06-01",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Quote is the final Citigroup Capital Markets Approval Committee memo as quoted by the staff (fn. 74). Another Citigroup email: 'our invest[ment] is so subordinated and controlled that it is ‘unimaginable’ how our principal is not returned.' Sundance used $208 million of Enron's cash to repay Citigroup's Bacchus loan (lines 1203-1262)."
+ },
+ {
+  "id": "K-033",
+  "topic": "Sundance: warnings overruled, approvals missing",
+  "claim": "The staff found that just before Sundance closed, three senior Citigroup officials warned against it, including the investment bank's risk-management head, who wrote he had refused to sign off. The deal closed anyway on June 1, 2001, and Citigroup could not tell the subcommittee who gave final approval or find the normal signed approvals.",
+  "quote": "Citigroup has been unable to tell the Subcommittee who provided the final approval of the Sundance transaction.",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 28,
+   "printed_page": "p. 24",
+   "section": "Sundance: The Facts",
+   "lines": "1395-1425, 1454-1477 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [
+   "David C. Bushnell",
+   "Michael Carpenter",
+   "Alan MacDonald"
+  ],
+  "event_date": "2001-06-01",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "The risk memo (by David Bushnell, fn. 77) contains 'The GAAP accounting is aggressive and a franchise risk to us if there is publicity (a la Xerox).' That line is already in A-073's notes. At the Dec. 11, 2002 hearing Bushnell testified he recalled giving his approval and 'may have provided the final oral approval' (lines 1470-1477, 2129-2132). Carpenter (head of the investment bank) and MacDonald (head of the Global Relationship Bank) are named in fn. 77-78 as recipient and sender; the report does not say either did anything improper. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-034",
+  "topic": "Sundance: Citigroup gets out two days before bankruptcy",
+  "claim": "The staff found that as doubts about Enron grew, Citigroup used its protections to end Sundance on or about November 30, 2001, two days before Enron's bankruptcy, recovering its full $28.5 million plus a return. It had been paid $725,000 in upfront fees and a $1.1 million return, plus $1.5 million of 'breakage costs' when Sundance repaid the Bacchus loan early.",
+  "quote": "Citigroup invoked the Sundance agreement provisions protecting it from loss and actually terminated the Sundance partnership on or about November 30, 2001, five months after it was established and two days before Enron filed for bankruptcy.",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 28,
+   "printed_page": "pp. 24-25",
+   "section": "Sundance: The Facts",
+   "lines": "1478-1520 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [],
+  "event_date": "2001-11-30",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Staff concluded the three deals together were a disguised six-month, $200 million Citigroup loan (lines 1560-1588); A-073 covers that. Good timeline item for 'Who Knew What, When'. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-035",
+  "topic": "Slapshot: a $1 billion 'loan' that lasted one day",
+  "claim": "The staff found that in Slapshot (June 22, 2001) Chase wrapped a real $375 million bank loan for a Canadian paper mill inside a $1.4 billion sham loan, using a $1 billion same-day 'daylight overdraft' that circled through U.S. and Canadian accounts and was repaid by day's end, so Enron's Canadian affiliate could treat its payments as interest and claim Canadian tax deductions.",
+  "quote": "In essence, the Slapshot transaction cloaked a legitimate $375 million loan to Enron issued by a consortium of banks inside a $1.4 billion sham loan to Enron issued by a Chase-controlled SPE.",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 8,
+   "printed_page": "p. 4",
+   "section": "Summary of Transactions: Sham Loan",
+   "lines": "304-363 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [],
+  "event_date": "2001-06-22",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Enron's own analysis projected tax savings with a net present value of US$60 million and $65 million of financial-statement benefit (fn. 88). Chase required Enron to put $1 billion in a Chase escrow account first; Enron got that money through a separate $1 billion Citigroup overdraft. Candidate for an original diagram. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-036",
+  "topic": "Slapshot: fees, warnings and what Enron claimed",
+  "claim": "The staff reported that Chase was paid about $5.6 million in fees and other payments for Slapshot, that a Canadian law firm warned Enron it was very likely Canada's tax authority would find out and challenge the deal, and that Enron later said its Canadian affiliates had claimed $124.9 million of gross interest deductions in Canada.",
+  "quote": "We would further caution that in our opinion, it is very likely that Revenue Canada will become aware of the proposed transactions . . . [and] will challenge them.",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 8,
+   "printed_page": "p. 4",
+   "section": "Summary of Transactions: Sham Loan (and fn. 3)",
+   "lines": "350-371 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [],
+  "event_date": "2001-06-22",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "The quote is the Canadian law firm's tax opinion as quoted by the staff. Enron told the subcommittee (Dec. 10, 2002 letter) it took no U.S. federal tax deductions for Slapshot and reported no related tax benefits in its SEC filings. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-037",
+  "topic": "Slapshot: other banks, other clients",
+  "claim": "The staff reported that the $375 million loan came from a consortium of Chase, Royal Bank of Scotland, Industrial Bank of Japan and Bank of Tokyo-Mitsubishi, and that a Chase employee said Chase had marketed the Slapshot structure to at least 15 to 20 other companies.",
+  "quote": "one Chase employee informed the Subcommittee that it has marketed the Slapshot structure to at least 15 to 20 other companies in addition to Enron.",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 38,
+   "printed_page": "p. 34 (fn. 118); p. 27 (fn. 94)",
+   "section": "Slapshot: Analysis (fn. 118); The Facts (fn. 94)",
+   "lines": "1688-1690, 2109-2110 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [],
+  "event_date": "2001",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Fn. 94 is on PDF p. 31. Nothing in the report says the other consortium banks knew of the sham loan; do not imply it. Chase's witnesses testified on Dec. 11, 2002 that Chase would no longer market Slapshot (see hearing card)."
+ },
+ {
+  "id": "K-038",
+  "topic": "Dec. 11, 2002 hearing: what the banks promised",
+  "claim": "The staff report says that at the December 11, 2002 hearing, Citigroup's Charles Prince described a new policy against deals whose net effect is not accurately disclosed to investors, and Chase's witnesses described a new transaction review committee and testified Chase would no longer market Slapshot or take part in similar deals. Federal regulators acknowledged a gap: the SEC does not generally regulate banks, and bank regulators do not generally oversee accounting.",
+  "quote": "The Chase witnesses also testified at the hearing that Chase would no longer market the Slapshot tax structure or participate in transactions similar to Slapshot.",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 39,
+   "printed_page": "pp. 34-36",
+   "section": "Subcommittee Hearing",
+   "lines": "2087-2204 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [
+   "Charles O. Prince III",
+   "Michael E. Patterson",
+   "Andrew T. Feldstein"
+  ],
+  "event_date": "2002-12-11",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "The Dec. 11, 2002 hearing transcript is not in the library; this is the staff report's summary of it (logged as gap). Regulators testifying: Richard Spillenkothen (Federal Reserve), Annette Nazareth (SEC), Douglas Roeder (OCC). They said fewer than ten OCC-supervised national banks do these complex deals (lines 2187-2194). Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-039",
+  "topic": "Senate staff recommendations on the banks",
+  "claim": "The subcommittee recommended that the Federal Reserve, OCC and SEC jointly review banks' structured-finance products and issue guidance by June 2003; that the SEC state it will take enforcement action against financial institutions that help public companies put misleading information in their financial statements; and that bank examiners treat such activity as an unsafe and unsound banking practice.",
+  "quote": "The SEC should issue a regulation, guidance, or other policy document stating that it is the SEC’s policy to take enforcement action against a financial institution that offers a deceptive financial product to, or participates in a deceptive financial transaction with, a U.S. publicly traded company",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 41,
+   "printed_page": "pp. 36-37",
+   "section": "Subcommittee Recommendations",
+   "lines": "2205-2279 (work/text/rpt-psi-fishtail.txt)"
+  },
+  "source_type": "congressional staff report (recommendation)",
+  "verb": "recommended",
+  "people": [],
+  "event_date": "2003-01-02",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "Whether regulators adopted these recommendations is not shown in the library (gap). Links to 'Why This Matters to You'. Quote joins words split by end-of-line hyphens in the printed text; otherwise verbatim."
+ },
+ {
+  "id": "K-040",
+  "topic": "Examiner's legal test for the banks",
+  "claim": "The bankruptcy examiner explained that a bank could be liable for aiding and abetting only if a fact-finder found an Enron officer breached a duty, the bank had actual knowledge of the wrongdoing, gave substantial assistance, and the harm was foreseeable. Suspicion or 'should have known' is not enough, and routine banking services do not count.",
+  "quote": "the actual knowledge standard is strict – “should have known” or “suspicion” will not suffice.",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 66,
+   "printed_page": "p. 63",
+   "section": "VII.A Theories of Potential Liability",
+   "lines": "2481-2512 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "concluded",
+  "people": [],
+  "event_date": "2003-11-04",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Defines two legal ideas for the glossary: aiding and abetting a breach of fiduciary duty; equitable subordination (a court pushing a creditor's claim to the back of the line behind other creditors). The examiner is 'not the ultimate decision maker' (PDF p. 16). Image-checked PDF p. 66. OCR rendered the dash as an em dash; the image shows an en dash. OCR text shows an em dash where the image shows an en dash; quote follows the image."
+ },
+ {
+  "id": "K-041",
+  "topic": "Examiner: the Third Interim Report's bank conclusions (summary)",
+  "claim": "In his Final Report the examiner summarized his Third Interim Report: there was enough evidence for a fact-finder to conclude that certain financial institutions aided and abetted Enron officers (Fastow, Causey, Glisan and McMahon among them) in breaching their duties, and that the banks' claims, totaling more than $5 billion, could be equitably subordinated.",
+  "quote": "certain financial institutions involved in Enron’s SPE transactions: (i) aided and abetted these officers in breaching their fiduciary duties",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 7,
+   "printed_page": "p. 4",
+   "section": "Introduction (summary of the Third Interim Report)",
+   "lines": "225-247 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "concluded that a fact-finder could find",
+  "people": [],
+  "event_date": "2003-11-04",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "The Third Interim Report and its bank appendices (Citigroup = Third Interim App. D; JPMorgan Chase = Third Interim App. E) are NOT in the library (known gap). This summary does not name the banks; do not name them from this card. The examiner notes the $5 billion 'could be significantly greater' (fn. 6). Image-checked PDF p. 7. Officer conclusions already in A-071."
+ },
+ {
+  "id": "K-042",
+  "topic": "Enron sues its banks (Sept. 2003)",
+  "claim": "The examiner reported that on September 24, 2003, Enron and Enron North America sued certain of these financial institutions (Enron Corp. v. Citigroup Inc.), seeking to subordinate their claims, recover more than $3 billion as avoidable transfers, and recover damages for aiding and abetting.",
+  "quote": "recover in excess of $3 billion from these financial institutions as alleged avoidable transfers or obligations",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 8,
+   "printed_page": "p. 5 (fn. 7)",
+   "section": "Introduction, fn. 7",
+   "lines": "280-287 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "reported",
+  "people": [],
+  "event_date": "2003-09-24",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "This is the examiner describing a lawsuit, not a finding. How that lawsuit ended is not in the library (gap). Image-checked PDF p. 8. Use 'Enron's bankruptcy estate sued', 'alleged'."
+ },
+ {
+  "id": "K-043",
+  "topic": "Examiner: three more banks (Final Report)",
+  "claim": "In his Final Report the examiner added three banks not covered earlier: Royal Bank of Scotland (RBS), Credit Suisse First Boston (CSFB) and Toronto Dominion. He concluded a fact-finder could find they aided and abetted Enron officers and that their claims, totaling more than $1 billion, could be equitably subordinated, while noting the banks could argue Enron's own officers' conduct defeats Enron's claims.",
+  "quote": "the claims of such Financial Institutions, totaling in excess of $1 billion, may be equitably subordinated to the claims of other creditors.",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 16,
+   "printed_page": "p. 13",
+   "section": "Introduction: Additional Financial Institutions",
+   "lines": "579-640 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "concluded that a fact-finder could find",
+  "people": [],
+  "event_date": "2003-11-04",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Quote omits a footnote marker after 'billion' (fn. 24: the amount 'could be significantly greater'). The defense noted is 'in pari delicto' (both parties at fault) and standing (PDF p. 15). Image-checked PDF pp. 15-16. Always name the report and letter: Final Report App. E = RBS, App. F = CSFB, App. G = Toronto Dominion."
+ },
+ {
+  "id": "K-044",
+  "topic": "Enron's own count: $4.8 billion owed through bank 'commodity' deals",
+  "claim": "The examiner reported that at a November 19, 2001 presentation to its bankers, Enron listed $25.116 billion of additional 'debt' not on its balance sheet, including $4.822 billion of 'Commodity Transactions with Financial Institutions' and $2.087 billion of 'FAS 140 Transactions' as of September 30, 2001.",
+  "quote": "Commodity Transactions with Financial Institutions $4.822",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 20,
+   "printed_page": "p. 17",
+   "section": "II.A (table of additional 'debt' from Enron's Nov. 19, 2001 bank presentation)",
+   "lines": "787-800 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "reported",
+  "people": [],
+  "event_date": "2001-09-30",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Figures are in billions, from Enron's own presentation as reproduced by the examiner. The $25.116B total is in card A-087; this card adds the bank-related categories. 'Commodity transactions with financial institutions' appears to correspond to prepays, but the table does not say so explicitly; say 'a category Enron called...'. Image-checked PDF p. 20."
+ },
+ {
+  "id": "K-045",
+  "topic": "Examiner: Mahonia and Delta, set up by the banks",
+  "claim": "The examiner found that because Andersen required three substantive parties in a prepay, Enron used Mahonia and Delta, which he called shell entities set up by JPMorgan Chase and Citigroup, or a second bank as a go-between, and that Andersen accepted representation letters from Delta and Mahonia even though the facts did not support treating them as real businesses.",
+  "quote": "Enron employed Mahonia and Delta, shell entities set up by JPMorgan Chase and Citigroup for use in these transactions, or sometimes used a second bank as the accommodation party.",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 98,
+   "printed_page": "p. 95",
+   "section": "IX.C Methods Used by Officers: Search for Plausible Accounting Support",
+   "lines": "3680-3712 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "concluded",
+  "people": [],
+  "event_date": "2003-11-04",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Disagrees with Chase's sworn testimony that Mahonia was owned by a charitable trust and not controlled by Chase (Dellapina card). The examiner adds (PDF p. 99) that Andersen suggested disclosing the prepays and dropped it when management refused. Image-checked PDF p. 98."
+ },
+ {
+  "id": "K-046",
+  "topic": "Examiner: Enron's economic power over its banks",
+  "claim": "The examiner concluded that the evidence suggests Enron officers used Enron's economic power to pressure third parties, including banks and professionals, to go along with its financial-statement goals, and that this pressure often seemed to overcome their worries about reputational risk.",
+  "quote": "In many instances, this economic pressure appears responsible for overcoming concerns about reputational risk or other reservations by these third parties.",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 97,
+   "printed_page": "p. 94",
+   "section": "IX.C Methods Used by Officers to Implement Strategy",
+   "lines": "3630-3645 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "concluded",
+  "people": [],
+  "event_date": "2003-11-04",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Examples follow at PDF pp. 104-107 (Citigroup Bacchus/Sundance, Merrill barge, RBS, CSFB, Barclays). Image-checked PDF p. 97."
+ },
+ {
+  "id": "K-047",
+  "topic": "Examiner: bank analysts under pressure",
+  "claim": "The examiner reported that in April 1998 Enron dropped Merrill Lynch as a manager of a $750 million stock offering because senior management disliked analyst John Olson's comments; after Merrill's CEO called Lay, Merrill was added back, and a month later Merrill fired Olson. Merrill's revenue from Enron rose from $3 million in 1998 to $40 million in 1999.",
+  "quote": "One month later, Merrill Lynch fired Olson and replaced him with an analyst with a better opinion of Enron’s stock.",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 104,
+   "printed_page": "p. 101 (fn. 192)",
+   "section": "IX.C Economic Leverage on Third Parties, fn. 192",
+   "lines": "3985-4000 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "reported",
+  "people": [
+   "John Olson",
+   "Herb Allison",
+   "Kenneth Lay"
+  ],
+  "event_date": "1998-04",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "The footnote cites the Third Interim Report, Appendix I (Role of Merrill Lynch), which is not in the library; the Final Report's summary is the library source. The same footnote says CSFB fixed-income analyst Jill Sakol testified she felt pressure not to publish negative comments on Enron (see CSFB analysts card). Image-checked PDF p. 104."
+ },
+ {
+  "id": "K-048",
+  "topic": "Examiner: a Merrill employee's note on 'reputational risk'",
+  "claim": "The examiner reported that a Merrill Lynch employee's notes on the Nigerian barge deal described it as a 'reputational risk', and that another Merrill employee testified to the examiner that he had raised accounting concerns and asked whether Merrill's name could end up in the press if Enron failed.",
+  "quote": "reputational risk, i.e., aid/abet Enron income stmt. manipulation.",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 106,
+   "printed_page": "p. 103",
+   "section": "IX.C Economic Leverage on Third Parties",
+   "lines": "4065-4080 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "reported",
+  "people": [],
+  "event_date": "1999-12-21",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Footnote 200 identifies the note as a fax from Rob Furst to Jim Brown, Dec. 21, 1999; the testimony is a sworn statement of James A. Brown to the examiner's counsel (fn. 201). The SEC complaint (para. 24) mentions an internal document with a similar concern. Image-checked PDF p. 106."
+ },
+ {
+  "id": "K-049",
+  "topic": "RBS: examiner's conclusion (Final Report, Appendix E)",
+  "claim": "In Appendix E (Role of RBS and its Affiliates) to his Final Report, the examiner concluded there was enough evidence for a fact-finder to conclude that RBS (including NatWest, which RBS took over in March 2000) aided and abetted certain Enron officers in breaching their duties, and that RBS's claims of about $537 million could be equitably subordinated.",
+  "quote": "RBS’s claims in the Bankruptcy Case totaling approximately $537 million are susceptible of being equitably subordinated to the claims of other creditors.",
+  "source_id": "batson-final-app-e",
+  "file": "sources/02-bankruptcy-examiner/batson-final-appendix-e-rbs-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 102,
+   "printed_page": "p. 100",
+   "section": "Appendix E, IV.C Conclusions",
+   "lines": "4186-4222 (work/text/batson-final-app-e.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "concluded that a fact-finder could find",
+  "people": [],
+  "event_date": "2003-11-04",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Always say 'Batson Final Report, Appendix E (RBS)': the Second Interim App. E (prepays) and Third Interim App. E (JPMorgan Chase) are different documents. Deals: LJM1/Rhythms, Sutton Bridge and ETOL I-III (FAS 140), Nixon prepay. Also stated in Final Report p. 67 (PDF 70). Image-checked App. E PDF pp. 101-102 and Final PDF 70. Outcome of any claim against RBS not in library (gap). MERGED: RBS's return on LJM1 (Final Report PDF p. 74, printed p. 71, image-checked): RBS calculated 'a total return on our $7.5m investment of approx [sic] $22.7m or in excess of 1200% IRR. This is a most satisfactory result and underlines the way Enron supports its Tier 1 banks.' (Aug. 31, 2001 email)."
+ },
+ {
+  "id": "K-050",
+  "topic": "RBS: what its deals did to Enron's numbers",
+  "claim": "The examiner found that RBS's FAS 140 deals and the Nixon prepay let Enron record about $191 million of gains it should not have recorded, receive about $444 million mostly booked wrongly as operating cash flow, and understate debt by $177 million at the end of 1999 and $273 million at the end of 2000.",
+  "quote": "understate debt by $177 million and $273 million in its December 31, 1999 and 2000 balance sheets, respectively.",
+  "source_id": "batson-final-app-e",
+  "file": "sources/02-bankruptcy-examiner/batson-final-appendix-e-rbs-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 6,
+   "printed_page": "pp. 3-4",
+   "section": "Appendix E, I.A Introduction and Overview",
+   "lines": "140-170 (work/text/batson-final-app-e.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "concluded",
+  "people": [],
+  "event_date": "1999/2000",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Batson Final Report, Appendix E (RBS). Same page: through LJM1, 'Fastow and his colleagues, several of whom were Enron officers, received over $40 million.' Image-checked PDF pp. 5-6."
+ },
+ {
+  "id": "K-051",
+  "topic": "RBS: unwritten promises and '21st Century Alchemy'",
+  "claim": "The examiner found that in its FAS 140 deals RBS repeatedly got verbal assurances from top Enron officials, including Fastow, that its 'at risk' equity would be repaid; RBS understood these could not be written down or disclosed if Enron was to get its accounting result. Internally, RBS officials called the structure '21st Century Alchemy.'",
+  "quote": "We are therefore looking to verbal undertakings (they cannot be formally documented for accounting reasons) from Enron that they will ensure that RBS is kept whole through the exit strategy.",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 74,
+   "printed_page": "pp. 71-72",
+   "section": "VIII.A RBS: The FAS 140 Transactions (fn. 118)",
+   "lines": "2780-2815 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "found",
+  "people": [
+   "Andrew Fastow"
+  ],
+  "event_date": "2000-09-19",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Quote is an RBS credit recommendation (Sept. 19, 2000) as quoted in fn. 118 of the Final Report. OCR rendered '21st' as '21 Century'; the image shows '21st Century Alchemy' (superscript st). Same pattern as Bacchus and the Merrill barge. Image-checked PDF pp. 74-75."
+ },
+ {
+  "id": "K-052",
+  "topic": "RBS: the Nixon prepay, 'effectively a window dressing request'",
+  "claim": "The examiner found that in the Nixon prepay (December 1999), which also involved Citigroup, Barclays and Toronto Dominion, RBS provided $110 million that Enron improperly recorded as operating cash flow; an RBS analyst told its credit committees the deal was 'effectively a window dressing request' to reduce Enron's year-end debt.",
+  "quote": "“effectively a window dressing request” that Enron would employ “to reduce [its] reported year-end net debt position.”",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 75,
+   "printed_page": "p. 72",
+   "section": "VIII.A RBS: Nixon Prepay",
+   "lines": "2811-2822 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "found",
+  "people": [],
+  "event_date": "1999-12",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "An RBS credit analysis at the time of a later extension called 'the scale of financial period manipulation [by Enron] ... exceedingly worrying' (PDF p. 76). Nixon total was $324 million: Barclays $110M, RBS $110M, Citigroup $104M (App. G, PDF p. 4, fn. 3). Barclays is not a subject of a Final Report appendix. Image-checked PDF pp. 75-76. OCR text inserts footnote numbers ('99123') inside the quote; quote follows the page image."
+ },
+ {
+  "id": "K-053",
+  "topic": "RBS bankers: alleged $19 million diversion and indictment",
+  "claim": "The examiner reported that in March 2000 RBS sold an interest in an LJM1 subsidiary to Enron insiders in a sale allegedly planned by Fastow, Kopper and three RBS bankers; RBS got $1 million of a represented $20 million price because the three bankers allegedly diverted the rest to themselves and the insiders. One banker, David Bermingham, was indicted for wire fraud in June 2002.",
+  "quote": "RBS received $1 million because its three key bankers on the transaction allegedly siphoned off the remaining $19 million of the represented purchase price",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 73,
+   "printed_page": "pp. 69-70 (fn. 112)",
+   "section": "VIII.A RBS (and fn. 112, 115)",
+   "lines": "2700-2745 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "reported (allegation in an indictment)",
+  "people": [
+   "David Bermingham",
+   "Andrew Fastow",
+   "Michael Kopper"
+  ],
+  "event_date": "2000-03",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Everything here rests on an indictment (United States v. Bermingham, Cr. No. H-02-0597, S.D. Tex., filed June 27, 2002): use 'alleged/charged'. Fn. 112 says the docket then called Bermingham a 'fugitive' and that he 'allegedly is evading authorities'; the other two bankers are not named in the Final Report. How the case ended is not in the library (gap). Card B-040 (SEC Kopper complaint) covers Southampton and the three NatWest bankers. OCR missed a line ('What am I missing???????') in the quoted 1999 email on PDF p. 72; do not use the OCR text of that email without the image. Image-checked PDF pp. 72-73."
+ },
+ {
+  "id": "K-054",
+  "topic": "CSFB: examiner's conclusion (Final Report, Appendix F)",
+  "claim": "In Appendix F (Role of CSFB and its Affiliates), the examiner concluded that, despite CSFB's defenses, the evidence was enough for a fact-finder to conclude CSFB aided and abetted certain Enron officers through LJM1 and other deals, and that CSFB's claims of at least $417 million could be equitably subordinated.",
+  "quote": "CSFB’s claims in the Bankruptcy Case totaling at least $417 million are susceptible of being equitably subordinated to the claims of other creditors.",
+  "source_id": "batson-final-app-f",
+  "file": "sources/02-bankruptcy-examiner/batson-final-appendix-f-csfb-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 95,
+   "printed_page": "p. 93",
+   "section": "Appendix F, IV.C Conclusions",
+   "lines": "4094-4120 (work/text/batson-final-app-f.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "concluded that a fact-finder could find",
+  "people": [],
+  "event_date": "2003-11-04",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Deals: LJM1/Rhythms (incl. 'SAILS'), CSFB Prepay ($150M), Nile FAS 140 ($25M). CSFB was a Tier 1 bank; Enron paid it over $23 million in fees in 1999, more than any other Tier 1 bank (Final Report PDF p. 77). The examiner also concluded about $3.9 million of a Sept. 27, 2001 payment to a CSFB affiliate was likely recoverable as a preference (App. F PDF pp. 97-100). Image-checked App. F PDF pp. 95-96 and Final PDF 78."
+ },
+ {
+  "id": "K-055",
+  "topic": "CSFB: 'an obvious loan transaction' and '100% Enron via put'",
+  "claim": "The examiner found that CSFB's $150 million prepay was a loan that Enron booked as a commodity trade, letting it record $150 million of operating cash flow and understate debt at the end of 2000; a CSFB employee called it 'an obvious loan transaction.' In the $25 million Nile FAS 140 deal, Enron's promise to buy back CSFB's 3 percent equity made CSFB's risk '100% Enron via put.'",
+  "quote": "“100% Enron via put.”",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 80,
+   "printed_page": "p. 77",
+   "section": "VIII.B CSFB: CSFB Prepay; FAS 140 Transactions",
+   "lines": "2989-3015 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "found",
+  "people": [],
+  "event_date": "2000-12",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Fn. 133 gives the employee's full question (Dec. 12, 2000 email): 'Is it ok for us to be entering into such an ‘obvious’ loan transaction?' App. F (PDF p. 5) totals: about $18.9M of improper gain (Nile), about $175M proceeds, debt understated $150M at Dec. 31, 2000; the examiner could not confirm, but found no evidence against, operating-cash-flow treatment of the CSFB Prepay (App. F fn. 11). Image-checked Final PDF p. 80 and App. F PDF p. 5."
+ },
+ {
+  "id": "K-056",
+  "topic": "CSFB: positive research out, negative research held back",
+  "claim": "In Appendix F the examiner concluded a fact-finder could find that CSFB published analyst Launer's positive view of Enron while discouraging fixed-income analyst Jill Sakol from publishing her more negative view, even as CSFB bond traders sold Enron-related securities based on her views.",
+  "quote": "A fact-finder could conclude that CSFB published Launer’s positive portrayal of Enron while discouraging Sakol from publishing her more negative assessment.",
+  "source_id": "batson-final-app-f",
+  "file": "sources/02-bankruptcy-examiner/batson-final-appendix-f-csfb-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 35,
+   "printed_page": "p. 33",
+   "section": "Appendix F, II.C Conclusions regarding CSFB's Securities Analysts",
+   "lines": "1621-1640 (work/text/batson-final-app-f.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "concluded that a fact-finder could find",
+  "people": [
+   "Jill Sakol"
+  ],
+  "event_date": "2001",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Sakol also testified she did not feel pressured to publish research more positive than she thought it should be (App. F fn. 118). Launer's first name is not on this page; do not add it. Relevant to the analyst conflicts that Sarbanes-Oxley Title V addressed (check SOX cards before linking). Image-checked App. F PDF p. 35."
+ },
+ {
+  "id": "K-057",
+  "topic": "Toronto Dominion: examiner's conclusion (Final Report, Appendix G)",
+  "claim": "In Appendix G (Role of Toronto Dominion and its Affiliates), the examiner concluded the evidence was enough for a fact-finder to conclude that Toronto Dominion aided and abetted certain Enron officers through six prepay deals, and that its claims of about $57.8 million could be equitably subordinated.",
+  "quote": "Toronto Dominion’s claims in the Bankruptcy Case totaling approximately $57.8 million are susceptible of being equitably subordinated to the claims of other creditors.",
+  "source_id": "batson-final-app-g",
+  "file": "sources/02-bankruptcy-examiner/batson-final-appendix-g-toronto-dominion-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 65,
+   "printed_page": "p. 63",
+   "section": "Appendix G, IV.C Conclusions",
+   "lines": "2660-2680 (work/text/batson-final-app-g.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "concluded that a fact-finder could find",
+  "people": [],
+  "event_date": "2003-11-04",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Toronto Dominion argued it did not structure the prepays or create an SPE and was a 'mere participant'; the examiner said this was a question of fact but could not conclude its role was not substantial assistance (App. G PDF p. 64). The examiner also concluded a $2.5 million Sept. 19, 2001 payment could likely be recovered as a preference (PDF p. 68). Image-checked App. G PDF pp. 64-65."
+ },
+ {
+  "id": "K-058",
+  "topic": "Toronto Dominion: six prepays, about $2 billion",
+  "claim": "The examiner found that Toronto Dominion's six prepays (December 1998 to December 2000) let Enron complete about $2 billion of financing, improperly record about $1.5 billion of operating cash flow, and understate debt by amounts ranging from about $250 million to $500 million at various dates.",
+  "quote": "As a result of these financings, Enron improperly recorded approximately $1.5 billion of cash flow from operating activities",
+  "source_id": "batson-final-app-g",
+  "file": "sources/02-bankruptcy-examiner/batson-final-appendix-g-toronto-dominion-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 4,
+   "printed_page": "p. 2",
+   "section": "Appendix G, I.A Introduction and Overview",
+   "lines": "100-106 (work/text/batson-final-app-g.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "found",
+  "people": [],
+  "event_date": "1998-12/2000-12",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Debt understated: ~$250M (12/31/98), $500M (6/30/99), $324M (12/31/99), $270M (12/31/00). The $2B is gross and includes deals partly funded by Citigroup, Barclays and RBS (Truman $500M, Jethro $675M, Nixon $324M), where Toronto Dominion acted as a conduit (fn. 3). Toronto Dominion itself lent over $1.1 billion. Image-checked App. G PDF p. 4."
+ },
+ {
+  "id": "K-059",
+  "topic": "Toronto Dominion: 'balance-sheet games' and a 39% return",
+  "claim": "The examiner found Toronto Dominion knew the prepays were effectively debt that Enron did not report as debt, and was worried about balance-sheet manipulation, yet went ahead, likely because the deals were highly profitable: its risk-adjusted return on the Enron relationship was 39 percent, nearly twice its 20 percent target.",
+  "quote": "[W]e’ve been warned about the balance-sheet games at least twice in the last few months . . . .",
+  "source_id": "batson-final",
+  "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 83,
+   "printed_page": "p. 80",
+   "section": "VIII.C Toronto Dominion",
+   "lines": "3057-3120 (work/text/batson-final.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "found",
+  "people": [],
+  "event_date": "2000-11-07",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Quote is a Nov. 7, 2000 Toronto Dominion email (fn. 136). A Dec. 1998 credit request said the 'sole purpose' of that prepay was to satisfy promises Enron made to the rating agencies about reducing leverage. The relationship returned 12% in 1997 (PDF p. 84). Image-checked Final PDF pp. 81-83. OCR text garbles the footnote marker after the quote; quote follows the page image."
+ },
+ {
+  "id": "K-060",
+  "topic": "Toronto Dominion and the SEC's Citigroup order",
+  "claim": "The examiner noted that the SEC's July 28, 2003 order against Citigroup criticized three prepays in which Toronto Dominion took part, but Toronto Dominion was not a party to that proceeding and no allegations were made against it; he also noted the SEC used a looser 'should have known' standard than his 'actual knowledge' test.",
+  "quote": "Also, Toronto Dominion was not named as a party to the proceeding and no allegations were asserted against it.",
+  "source_id": "batson-final-app-g",
+  "file": "sources/02-bankruptcy-examiner/batson-final-appendix-g-toronto-dominion-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 6,
+   "printed_page": "p. 4 (fn. 5)",
+   "section": "Appendix G, I.A, fn. 5",
+   "lines": "195-205 (work/text/batson-final-app-g.txt)"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "stated",
+  "people": [],
+  "event_date": "2003-07-28",
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Important for fairness: the library shows no SEC or criminal action against Toronto Dominion, RBS or CSFB. Absence in the library is not proof none occurred (gap). The SEC's Citigroup order itself is not in the library, only the press release. Image-checked App. G PDF p. 6."
+ }
+]

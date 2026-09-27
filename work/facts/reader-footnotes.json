@@ -18,7 +18,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The policy statement is standard. The problem was in applying it: on Nov 8, 2001 Enron itself concluded that Chewco, JEDI and an LJM1 subsidiary should have been consolidated (see N-032 and A-085). The same note warns that 'Actual results could differ from those estimates' (line 4107), a routine sentence that matters more for a company using mark-to-market. Related existing cards: A-030, A-085, A-083."
+    "notes": "The policy statement is standard. The problem was in applying it: on Nov 8, 2001 Enron itself concluded that Chewco, JEDI and an LJM1 subsidiary should have been consolidated (see N-032 and A-085). The same note warns that 'Actual results could differ from those estimates' (line 4107), a routine sentence that matters more for a company using mark-to-market. Related existing cards: A-030, A-085, A-083.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at 10-K lines 4096-4099. Claim OK: a text search of the whole 10-K finds no mention of special purpose entities or non-consolidation rules. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-002",
@@ -39,7 +41,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Boilerplate found in almost every 10-K; useful for teaching because Enron's mark-to-market values were largely estimates (see Note 1 price risk management policy, A-020). Related existing cards: A-020."
+    "notes": "Boilerplate found in almost every 10-K; useful for teaching because Enron's mark-to-market values were largely estimates (see Note 1 price risk management policy, A-020). Related existing cards: A-020.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 4101-4104; 'Actual results could differ from those estimates' at line 4107. Claim OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-003",
@@ -60,7 +64,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Pointer card: the full analysis is in A-020 (do not duplicate). Later view: the Senate PSI staff found the board was told in 1999 about expanding fair value accounting and in May 2000 did not object to 'the more aggressive valuation model' (N-009). Related existing cards: A-020, A-022, A-023."
+    "notes": "Pointer card: the full analysis is in A-020 (do not duplicate). Later view: the Senate PSI staff found the board was told in 1999 about expanding fair value accounting and in May 2000 did not object to 'the more aggressive valuation model' (N-009). Related existing cards: A-020, A-022, A-023.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 4155-4156; 'management's best estimate' at line 4172. Pointer card; claim OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-004",
@@ -81,7 +87,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Plain language: 'equity method' = Enron records its share of the affiliate's profit or loss as one line, without putting the affiliate's debts on Enron's balance sheet. This is the bridge from Note 1 to Notes 4 and 9."
+    "notes": "Plain language: 'equity method' = Enron records its share of the affiliate's profit or loss as one line, without putting the affiliate's debts on Enron's balance sheet. This is the bridge from Note 1 to Notes 4 and 9.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 4233-4237 (the note continues 'See Notes 4 and 9'). Claim OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-005",
@@ -102,7 +110,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The fair-value table (lines 4435-4449) gives Total assets $21,458M, liabilities $19,918M. Average during the year was far lower ($11,860M assets), i.e., the book roughly doubled during 2000. Note 3 does not say how much of the fair value came from management models rather than quoted prices."
+    "notes": "The fair-value table (lines 4435-4449) gives Total assets $21,458M, liabilities $19,918M. Average fair value during 2000 (average of month-end values) was $11,860M assets. The credit-risk table (line 4502) gives total price risk management assets of $21,458M at end-2000 vs $5,471M at end-1999 (before reserves). Note 3 does not say how much of the fair value came from management models rather than quoted prices.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 4450-4452; fair-value table (lines 4435-4449) gives $21,458M / $19,918M. FIXED: the notes said 'the book roughly doubled during 2000'. The source does not say that: $11,860M is an average of month-end values, not a starting figure. Replaced it with the year-end comparison the 10-K gives. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-006",
@@ -123,7 +133,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Contracts ran up to 23-29 years (table, lines 4376-4406). Long-dated contracts matter because mark-to-market booked their estimated value up front."
+    "notes": "Contracts ran up to 23-29 years (table, lines 4376-4406). Long-dated contracts matter because mark-to-market booked their estimated value up front. Balance: the same note says the maximum terms 'are not indicative of likely future cash flows' and that the volumetric weighted average maturity of the fixed-price portfolio was approximately 1.5 years (lines 4418-4424).",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 4416-4417. FIXED (notes): added the 10-K's own counterweight: the volumetric weighted average maturity of the fixed-price portfolio was about 1.5 years, and maximum terms 'are not indicative of likely future cash flows' (lines 4418-4424). Max terms verified: gas 23, electricity 24, interest rate 29 years. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-007",
@@ -144,12 +156,14 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Whitewing was a 50%-owned Enron affiliate (Note 9). The bankruptcy examiner later concluded that Enron's 'FAS 140 Transactions' (its securitizations) were 'essentially bridge financings of illiquid assets' in which Enron kept the risk (A-067, A-068). The note also says Enron 'concurrently enters into swaps ... which limits the risks assumed by the purchaser' (lines 4458-4460): a hint that risk stayed with Enron. Related existing cards: A-067, A-068, A-074."
+    "notes": "Whitewing was a 50%-owned Enron affiliate (Note 9). The bankruptcy examiner later concluded that Enron's 'FAS 140 Transactions' (its securitizations) were 'essentially bridge financings of illiquid assets' in which Enron kept the risk (A-067, A-068). The note also says Enron 'concurrently enters into swaps ... which limits the risks assumed by the purchaser' (lines 4458-4460): a hint that risk stayed with Enron. Related existing cards: A-067, A-068, A-074.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 4463-4466; swap wording at lines 4458-4460. Claim OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-008",
     "topic": "Note 3: credit risk and collateral",
-    "claim": "Note 3 said Enron held credit reserves of $452 million against its trading assets, that about $16.7 billion of $21.5 billion was with investment-grade counterparties, and that Enron held about $5.5 billion of collateral, mostly customer cash deposits.",
+    "claim": "Note 3 said Enron held 'credit and other reserves' of $452 million against its trading assets, that about $16.7 billion of $21.5 billion was with investment-grade counterparties, and that Enron held about $5.5 billion of collateral, mostly customer cash deposits.",
     "quote": "At December 31, 2000, Enron held collateral of approximately $5.5 billion, which consists substantially of cash deposits shown as \"Customers' Deposits\" on the balance sheet.",
     "source_id": "enron-10k-2000",
     "file": "sources/03-sec-filings/enron-10k-fy2000.txt",
@@ -165,7 +179,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The reverse also applied: Enron had to post collateral to its counterparties if its own rating fell. The Q3 2001 10-Q warned that a downgrade 'could lead to a substantial increase in the level of cash required for collateral' (A-079). Note 3 describes others' credit risk to Enron, not Enron's own. Related existing cards: A-079."
+    "notes": "The reverse also applied: Enron had to post collateral to its counterparties if its own rating fell. The Q3 2001 10-Q warned that a downgrade 'could lead to a substantial increase in the level of cash required for collateral' (A-079). Note 3 describes others' credit risk to Enron, not Enron's own. Related existing cards: A-079.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 4518-4520. FIXED: the table line is 'Credit and other reserves' (452), not credit reserves alone (line 4503). Claim reworded. $16,715M investment grade of $21,458M verified. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-009",
@@ -186,7 +202,9 @@
     "event_date": "2000-05",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Same page: Enron's April 2002 8-K (not in library) announced intent to write down $14 billion of asset values and another $10 billion of 'downward adjustments on certain price risk management assets and collateral' (PSI p. 20, citing that 8-K). JCT (A-094 area, p. 86 n. 141) also reports these figures. Cite PSI, not the 8-K."
+    "notes": "Same page: Enron's April 2002 8-K (not in library) announced intent to write down $14 billion of asset values and another $10 billion of 'downward adjustments on certain price risk management assets and collateral' (PSI p. 20, citing that 8-K). JCT (p. 87 n. 141, PDF 115) reports the $14 billion writedown but puts the price-risk adjustment at '$8 billion to $10 billion' (citing Enron's April 22, 2002 monthly operating statement): a small DISAGREEMENT with PSI's '$10 billion'. Cite PSI, not the 8-K; if a figure is used, say 'up to $10 billion' or give both.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. Quote verbatim at rpt-psi-board p. 20 (PDF 24), text lines ~1343-1347. The May 2000 item cites Finance Committee minutes (n. 43). FIXED (notes): the JCT reference was wrong. It is p. 87 n. 141 (PDF 115), not p. 86, and JCT gives '$8 billion to $10 billion' for the price-risk adjustment (citing Enron's April 22, 2002 monthly operating statement), where PSI says $10 billion. Disagreement recorded. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-010",
@@ -207,7 +225,9 @@
     "event_date": "1999-02-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Finding (2) heading, p. 3: 'The Enron Board of Directors knowingly allowed Enron to engage in high risk accounting practices.' The Board-lens writer may already use this; it belongs here because Note 1's policies are exactly what was 'high risk.'"
+    "notes": "Finding (2) heading, p. 3: 'The Enron Board of Directors knowingly allowed Enron to engage in high risk accounting practices.' The Board-lens writer may already use this; it belongs here because Note 1's policies are exactly what was 'high risk.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim (typesetting hyphens removed) at rpt-psi-board p. 15, PDF 19, text lines ~1040-1048. The 'knowingly allowed' wording is the PSI Finding (2) heading (p. 3, PDF 7). Verb 'found' OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-011",
@@ -228,7 +248,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Note 4 does not mention that many of these investments were 'hedged' with the Raptor SPEs; that appears only obliquely in Note 16. The Powers Report found the Raptors let Enron avoid reporting almost $1 billion of losses on merchant investments (A-058). Related existing cards: A-021, A-051, A-058, A-059."
+    "notes": "Note 4 does not mention that many of these investments were 'hedged' with the Raptor SPEs; that appears only obliquely in Note 16. The Powers Report found the Raptors let Enron avoid reporting almost $1 billion of losses on merchant investments (A-058). Related existing cards: A-021, A-051, A-058, A-059.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 4671-4673; $601M vs $1,086M and 'Other Revenues' in table note (a) (lines 4646-4661). Claim OK. Powers 'almost $1 billion in losses' verified (lines 3657-3658). (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-012",
@@ -249,7 +271,9 @@
     "event_date": "1998/2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Later view: the Powers Report found that near the end of 1999 Enron sold interests in seven assets to LJM1 and LJM2, bought back five, and that LJM profited on every deal (A-046). Note 4 does not say which buyers were related parties. Related existing cards: A-046."
+    "notes": "Later view: the Powers Report found that near the end of 1999 Enron sold interests in seven assets to LJM1 and LJM2, bought back five, and that LJM profited on every deal (A-046). Note 4 does not say which buyers were related parties. Related existing cards: A-046.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 4683-4685. Claim OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-013",
@@ -270,7 +294,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Not a numbered note, but cross-referenced to Note 4. Later view: N-028 (Senate Governmental Affairs staff) quotes a witness calling this a 'flashing red light.'"
+    "notes": "Not a numbered note, but cross-referenced to Note 4. Later view: N-028 (Senate Governmental Affairs staff) quotes a witness calling this a 'flashing red light.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 3115-3118 (Item 7A table note (c)). Claim OK. The 'flashing red light' words are a witness's, as reported by the SGA staff (N-028). (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-014",
@@ -291,7 +317,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Note 9 never names Chewco, JEDI's other partner, nor that it was run by an Enron employee (Kopper). Later: Enron concluded on Nov 8, 2001 that Chewco and JEDI should have been consolidated from Nov 1997 (N-032). The Powers Report found JEDI held 12 million Enron shares and that Enron recorded income from their appreciation; Andersen workpapers show $126 million in Q1 2000 alone (N-017). Neither source ties the $126M to the $197M figure; do not add them up. Related existing cards: A-031, A-032, A-035, A-038."
+    "notes": "Note 9 never names Chewco, JEDI's other partner, nor that it was run by an Enron employee (Kopper). Later: Enron concluded on Nov 8, 2001 that Chewco and JEDI should have been consolidated from Nov 1997 (N-032). The Powers Report found JEDI held 12 million Enron shares and that Enron recorded income from their appreciation; Andersen workpapers show $126 million in Q1 2000 alone (N-017). Neither source ties the $126M to the $197M figure; do not add them up. Related existing cards: A-031, A-032, A-035, A-038. The 50% figures are 'Net Voting Interest'; Note 9 warns that 'Certain investments have income sharing ratios which differ from Enron's voting interests' (line 5042). Do not describe them as 50% ownership of profits.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. Quoted table row verbatim at line 5066; $399M, $220M, $558M and $5,294M verified (lines 5024-5035). FIXED (notes): added that '50%' is the NET VOTING interest and that income-sharing ratios can differ (table note (a), line 5042). The existing caution not to add Powers's $126M to the $197M is correct and kept. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-015",
@@ -312,7 +340,9 @@
     "event_date": "1999/2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Note 9 also says: 'These entities are separate legal entities from Enron and have separate assets and liabilities' (lines 5133-5134), and that management believed affiliate transactions were 'reasonable compared to those which could have been obtained from third parties' (lines 5147-5150). Whitewing's debt (through Osprey, $2.4 billion) and Enron's stock-price obligation to it are not stated in Note 9; see N-018, N-020. Related existing cards: A-067."
+    "notes": "Note 9 also says: 'These entities are separate legal entities from Enron and have separate assets and liabilities' (lines 5133-5134), and that management believed affiliate transactions were 'reasonable compared to those which could have been obtained from third parties' (lines 5147-5150). Whitewing's debt (through Osprey, $2.4 billion) and Enron's stock-price obligation to it are not stated in Note 9; see N-018, N-020. Related existing cards: A-067.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 5122-5124. The $33M (2000) and $15M (1999) Related Party equity contributions are at lines 5134-5136; the 'separate legal entities' and 'reasonable compared to' quotes in the notes are verbatim (lines 5133-5134, 5147-5150). Claim OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-016",
@@ -333,7 +363,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "These warrants became the core asset of Raptor III (Powers pp. 114-117; see Footnote Annotator cards fn-09, fn-10). An example of the story being split across notes: Note 9 has the warrant sale, Note 16 the hedging vehicle. Related existing cards: fn-09, fn-10."
+    "notes": "These warrants became the core asset of Raptor III (Powers pp. 114-117; see Footnote Annotator cards fn-09, fn-10). An example of the story being split across notes: Note 9 has the warrant sale, Note 16 the hedging vehicle. Related existing cards: fn-09, fn-10.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 5141-5143 (locator says 5142-5144; trivial). Claim OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-017",
@@ -343,7 +375,7 @@
     "source_id": "powers-report-sec",
     "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
     "locator": {
-      "pdf_page": 64,
+      "pdf_page": null,
       "printed_page": "pp. 58-60",
       "section": "II.F.3 Recognition of Revenue from Enron Stock",
       "lines": "2255-2290"
@@ -354,12 +386,14 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Enron's Nov 8, 2001 8-K Restatement No. 1 also said net income was reduced 'for specific JEDI revenues previously allocated to Chewco, relating to the appreciation in value of Enron stock' (N-032). Enron could not quantify the total for the committee. Related existing cards: A-031."
+    "notes": "Enron's Nov 8, 2001 8-K Restatement No. 1 also said net income was reduced 'for specific JEDI revenues previously allocated to Chewco, relating to the appreciation in value of Enron stock' (N-032). Enron could not quantify the total for the committee. Related existing cards: A-031.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. Quote verbatim at Powers lines 2284-2286 (printed p. 59); the ~$90M Q1 2001 unrecorded loss is at lines 2292-2294; 'generally precluded' is correctly rendered as 'generally forbid'. FIXED: locator pdf_page 64 removed. powers-report-sec is a .txt file, and PDF page numbers belong to the separate manifest id powers-report. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-018",
     "topic": "Later view: Whitewing and Osprey (Q3 2001 10-Q)",
-    "claim": "The Q3 2001 10-Q explained that Whitewing invested through an entity named Osprey, which had about $2.4 billion of debt supported by Whitewing's assets, including Enron preferred stock convertible into 50 million Enron shares and Enron's contingent obligation to issue more shares; if the stock sale fell short, Enron owed the difference.",
+    "claim": "The Q3 2001 10-Q explained that Whitewing was formed by Enron and outside investors who invested through an entity named Osprey; Osprey had about $2.4 billion of debt supported by Whitewing's assets, including Enron preferred stock convertible into 50 million Enron shares and Enron's contingent obligation to issue more shares; if the stock sale fell short, Enron owed the difference.",
     "quote": "In the event that the sale of equity is not sufficient to retire such obligations, Enron is liable for the shortfall.",
     "source_id": "enron-10q-q3-2001",
     "file": "sources/03-sec-filings/enron-10q-2001-09-30.txt",
@@ -375,7 +409,9 @@
     "event_date": "2001-11-19",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The words 'Osprey' and 'Marlin' do not appear anywhere in the 2000 10-K (text search). The 10-Q adds that the amount due Whitewing under the stock-price derivative was about $1.0 billion at Sept 30, 2001, rose about $600 million by Nov 16, and that there 'would currently exist an approximate $700 million pre-tax charge' (lines 2151-2162). Related existing cards: A-080."
+    "notes": "The words 'Osprey' and 'Marlin' do not appear anywhere in the 2000 10-K (text search). The 10-Q adds that the amount due Whitewing under the stock-price derivative was about $1.0 billion at Sept 30, 2001, rose about $600 million by Nov 16, and that there 'would currently exist an approximate $700 million pre-tax charge' (lines 2151-2162). Related existing cards: A-080.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. Quote verbatim at 10-Q lines 2131-2133 (p. 32). FIXED: the claim said 'Whitewing invested through an entity named Osprey'. The 10-Q says Whitewing was 'formed by Enron and various investors, investing through an entity named Osprey' (lines 2124-2125), so the outside investors invested through Osprey. Reworded. $2.4B debt, $220M equity, Series B convertible into 50M shares, and the shortfall liability verified. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-019",
@@ -396,7 +432,9 @@
     "event_date": "2002-10-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Staff report 'Financial Oversight of Enron: The SEC and Private-Sector Watchdogs' (Oct 2002). Footnote 132 cites Bratton: of $23.4B of balance-sheet assets, $5.3B (22.6%) were investments in these affiliates (secondary). CAUTION: for SPEs the test was the 3% outside-equity rule, not 50% ownership (A-030); the 50% point applies to ordinary equity-method affiliates. Writers should not merge the two rules. Related existing cards: A-030."
+    "notes": "Staff report 'Financial Oversight of Enron: The SEC and Private-Sector Watchdogs' (Oct 2002). Footnote 132 cites Bratton: of $23.4B of balance-sheet assets, $5.3B (22.6%) were investments in these affiliates (secondary). CAUTION: for SPEs the test was the 3% outside-equity rule, not 50% ownership (A-030); the 50% point applies to ordinary equity-method affiliates. Writers should not merge the two rules. Related existing cards: A-030. WARNING: Bratton's '$23.4 billion of assets' (as cited in SGA n. 132) does not match Enron's reported total assets of $65.5 billion at end-2000 (10-K Selected Financial Data, line 1944); the library does not show what Bratton measured. Do not use the 22.6% figure.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. Quote verbatim (dash normalized) at rpt-sga-watchdogs p. 29 (PDF 33). The claim correctly attributes the point to experts consulted by the staff. The 50% vs 3% caution is correct and kept. FIXED (notes): the secondary Bratton figure '$23.4 billion of assets' does not match the 10-K's reported total assets of $65,503M for 2000 (line 1944). Added a warning. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-020",
@@ -417,7 +455,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Brief asked for stock-price obligations in Notes 14-15; they are not there. They are in Note 10 (Whitewing; also an Azurix-related commitment triggered if Enron's credit ratings fall, lines 5197-5207) and Note 11 (N-021). Note 10 gives a trigger price but no dollar exposure; the 10-Q (N-018) shows the obligation stood at about $1.0 billion by Sept 30, 2001. Related existing cards: A-080."
+    "notes": "Brief asked for stock-price obligations in Notes 14-15; they are not there. They are in Note 10 (Whitewing; also an Azurix-related commitment triggered if Enron's credit ratings fall, lines 5197-5207) and Note 11 (N-021). Note 10 gives a trigger price but no dollar exposure; the 10-Q (N-018) shows the obligation stood at about $1.0 billion by Sept 30, 2001. Related existing cards: A-080.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 5179-5181. Original $28 strike (line 5179); $1.0B liquidation value (line 5191). Azurix commitment at lines 5197-5207 verified. The 10-Q's ~$1.0B due Whitewing at Sept 30, 2001 verified (10-Q lines 2153-2154). Claim OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-021",
@@ -438,7 +478,9 @@
     "event_date": "2000-12-31",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "This is where the Enron-stock plumbing of JEDI and the Raptors surfaces, without explanation. Later view: Powers found the Raptors' ability to pay rested on Enron stock ('Enron was hedging risk with itself', A-051). Related existing cards: A-051, fn-08, fn-15."
+    "notes": "This is where the Enron-stock plumbing of JEDI and the Raptors surfaces, without explanation. Later view: Powers found the Raptors' ability to pay rested on Enron stock ('Enron was hedging risk with itself', A-051). Related existing cards: A-051, fn-08, fn-15. CAUTION: Note 11's derivatives on ~12 million shares 'with JEDI' and the 12 million Enron shares Powers says JEDI held (N-017) may be related, but no library document says they are the same shares; do not equate them.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 5326-5330; $67.92 at line 5331. FIXED (notes): the ~12 million shares under derivatives 'with JEDI' (Note 11) and the 12 million Enron shares JEDI held (Powers, N-017) are separately sourced, and no library document says they are the same shares. Added a caution. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-022",
@@ -459,7 +501,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The Senate Governmental Affairs staff (N-028) called the omitted magnitude 'a whopping $4 billion.' The Q3 10-Q put potential repayments at $3.9 billion (A-080) and gave Osprey/Marlin trigger prices of $59.78 and $34.13 with the stock at $9.00 on Nov 16, 2001 (N-025). Related existing cards: A-080."
+    "notes": "The Senate Governmental Affairs staff (N-028) called the omitted magnitude 'a whopping $4 billion.' The Q3 10-Q put potential repayments at $3.9 billion (A-080) and gave Osprey/Marlin trigger prices of $59.78 and $34.13 with the stock at $9.00 on Nov 16, 2001 (N-025). Related existing cards: A-080.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 2950-2953. Claim OK. Note that the 10-K triggers are stock price OR rating ('or'), while the 10-Q Osprey/Marlin triggers need BOTH a downgrade and a low price ('concurrent', N-025); writers should not merge them. The $4B vs $3.9B disagreement is noted. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-023",
@@ -480,7 +524,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Note 14 deals with ordinary gas-contract and similar lawsuits and contains no SPE- or stock-price-related contingency (read lines 5678-5700; searched the rest for 'guarantee', 'stock price', 'trigger'). Useful to show what a contingencies note normally looks like, and that Enron's biggest contingencies were elsewhere (Notes 10-11, MD&A)."
+    "notes": "Note 14 deals with ordinary gas-contract and similar lawsuits and contains no SPE- or stock-price-related contingency (read lines 5678-5700; searched the rest for 'guarantee', 'stock price', 'trigger'). Useful to show what a contingencies note normally looks like, and that Enron's biggest contingencies were elsewhere (Notes 10-11, MD&A).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 5684-5688. Claim OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-024",
@@ -501,7 +547,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Note 15 does not mention Osprey, Marlin or the stock-price triggers. The bankruptcy examiner concluded Enron's SPE borrowing was on 'essentially a recourse basis' (A-070), i.e., Enron was on the hook. Enron's Nov 19, 2001 bank presentation listed $25.1 billion of debt not shown as debt on the balance sheet (A-087). Related existing cards: A-070, A-087."
+    "notes": "Note 15 does not mention Osprey, Marlin or the stock-price triggers. The bankruptcy examiner concluded Enron's SPE borrowing was on 'essentially a recourse basis' (A-070), i.e., Enron was on the hook. Enron's Nov 19, 2001 bank presentation listed $25.1 billion of debt not shown as debt on the balance sheet (A-087). Related existing cards: A-070, A-087.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at lines 5850-5852. $264M (line 5841), $1,863M (line 5845) and $556M (line 5815) verified. Note 15 also lists $386M of lease guarantees indemnified by an 'Investment Grade' company (lines 5848-5849). Claim OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-025",
@@ -522,7 +570,9 @@
     "event_date": "2001-11-16",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Marlin: about $915 million of debt tied to Azurix (Atlantic Water Trust); Osprey: about $2.4 billion (lines 2124-2127, 2177-2189). Compare the 2000 10-K MD&A ($28.20-$55.00 range, no amounts: N-022). Related existing cards: A-080."
+    "notes": "Marlin: about $915 million of debt tied to Azurix (Atlantic Water Trust); Osprey: about $2.4 billion (lines 2124-2127, 2177-2189). Compare the 2000 10-K MD&A ($28.20-$55.00 range, no amounts: N-022). Related existing cards: A-080.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at 10-Q lines 2199-2200. Trigger conditions (downgrade 'concurrent with' a closing price at or below $59.78/$34.13) at lines 2190-2195; Marlin $915M at line 2183. Claim OK. The triggers also include cross-default and pre-maturity deposit conditions, which the card omits; acceptable. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-026",
@@ -543,7 +593,9 @@
     "event_date": "2001-11-19",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Note 4 of the 10-Q repeats the Nov 8 8-K ('Following is the information that was provided', line 1188). Compare Note 16 of the 2000 10-K, which called them only 'the Entities' (fn-07). The Senate PSI staff contrasted the two (N-029). Related existing cards: fn-07, fn-09, fn-16, A-081."
+    "notes": "Note 4 of the 10-Q repeats the Nov 8 8-K ('Following is the information that was provided', line 1188). Compare Note 16 of the 2000 10-K, which called them only 'the Entities' (fn-07). The Senate PSI staff contrasted the two (N-029). Related existing cards: fn-07, fn-09, fn-16, A-081.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at 10-Q lines 1560-1562; $191M/$127M/$64M and ~$1.9B notional at lines 1546-1556 (pp. 22-23). Claim OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-027",
@@ -564,7 +616,9 @@
     "event_date": "2002-10-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Staff also found the SEC's 3-year cycle meant Enron was not 'due' for review until 2002 and that the 2000 10-K would not have been flagged under the other screening criteria (p. 28, PDF 32). Lens: The Auditors / Who Knew."
+    "notes": "Staff also found the SEC's 3-year cycle meant Enron was not 'due' for review until 2002 and that the 2000 10-K would not have been flagged under the other screening criteria (p. 28, PDF 32). Lens: The Auditors / Who Knew.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at rpt-sga-watchdogs p. 26 (PDF 30). The 1991/1995/1996/1997 reviews are at p. 25 (PDF 29). Verb OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-028",
@@ -585,7 +639,9 @@
     "event_date": "2002-10-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "The staff report adds: 'None of these items ... in and of itself, is necessarily an indication of fraud, but each might well lead a reviewer to probe further.' The 'flashing red light' quote is a witness's testimony as reported by staff. The $4 billion figure cites the 10-Q and an interview (n. 133); the 10-Q itself says $3.9 billion (A-080). Related existing cards: A-080."
+    "notes": "The staff report adds: 'None of these items ... in and of itself, is necessarily an indication of fraud, but each might well lead a reviewer to probe further.' The 'flashing red light' quote is a witness's testimony as reported by staff. The $4 billion figure cites the 10-Q and an interview (n. 133); the 10-Q itself says $3.9 billion (A-080). Related existing cards: A-080.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at rpt-sga-watchdogs p. 30 (PDF 34). DISAGREEMENT is stated in the notes: staff '$4 billion' vs the 10-Q's $3.9 billion (A-080). 'Flashing red light' is attributed to a witness by the staff; the claim does not present it as a staff finding. OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-029",
@@ -606,7 +662,9 @@
     "event_date": "2002-07-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Same section (p. 47): disclosures about 'JEDI, Whitewing, LJM, and the Raptor SPEs are nearly impossible to understand.' Watkins's 'footnotes don't adequately explain the transactions' letter is quoted there too; already used by the Footnote Annotator (fn-12). Finding (4), p. 3: the board 'knowingly allowed Enron to conduct billions of dollars in off-the-books activity.' p. 36 (PDF 40): 'at least $27 billion or almost 50 percent of its assets off-balance-sheet.' Related existing cards: fn-12, A-064."
+    "notes": "Same section (p. 47): disclosures about 'JEDI, Whitewing, LJM, and the Raptor SPEs are nearly impossible to understand.' Watkins's 'footnotes don't adequately explain the transactions' letter is quoted there too; already used by the Footnote Annotator (fn-12). Finding (4), p. 3: the board 'knowingly allowed Enron to conduct billions of dollars in off-the-books activity.' p. 36 (PDF 40): 'at least $27 billion or almost 50 percent of its assets off-balance-sheet.' Related existing cards: fn-12, A-064. Do not combine or equate PSI's '$27 billion ... off-balance-sheet' (of about $60 billion of assets) with the $25.116 billion of additional 'debt' in Enron's Nov 19, 2001 bank presentation (A-087): different measures, different sources.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. Quote verbatim at rpt-psi-board p. 48 (PDF 52). 'Nearly impossible to understand' at p. 47 (PDF 51) and '$27 billion or almost 50 percent' at p. 36 (PDF 40) verified. FIXED (notes): PSI's '$27 billion ... off-balance-sheet' and the examiner's '$25.116 billion' of additional 'debt' (A-087) are different measures from different sources; added a warning not to equate them. (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-030",
@@ -616,7 +674,7 @@
     "source_id": "powers-report-sec",
     "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
     "locator": {
-      "pdf_page": 184,
+      "pdf_page": null,
       "printed_page": "p. 178",
       "section": "VIII. Related-Party Disclosure Issues (introduction)",
       "lines": "6372-6391"
@@ -627,7 +685,9 @@
     "event_date": "2002-02-01",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Process (pp. 181-182): footnote drafts were prepared by the Financial Reporting Group, but accountants and lawyers 'generally deferred to' Fastow's Enron Global Finance group; Causey was 'the final arbiter'; all directors and Fastow signed the 10-K. fn-01 already cites p. 178 for Note 16; this card is the general statement. Related existing cards: A-064, fn-01."
+    "notes": "Process (pp. 181-182): footnote drafts were prepared by the Financial Reporting Group, but accountants and lawyers 'generally deferred to' Fastow's Enron Global Finance group; Causey was 'the final arbiter'; all directors and Fastow signed the 10-K. fn-01 already cites p. 178 for Note 16; this card is the general statement. Related existing cards: A-064, fn-01.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK. Quote verbatim at Powers lines 6381-6382 (printed p. 178); the claim matches lines 6381-6391, including the list of shared responsibility. FIXED: locator pdf_page 184 removed (powers-report-sec is a .txt file). (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-031",
@@ -648,7 +708,9 @@
     "event_date": "2003-11-04",
     "from_ocr": true,
     "ocr_checked_against_image": true,
-    "notes": "Verified on page image PDF p. 24 (same page as A-070). The pathway's closing lesson: a note can be accurate line by line and still hide the story. Related existing cards: A-070."
+    "notes": "Verified on page image PDF p. 24 (same page as A-070). The pathway's closing lesson: a note can be accurate line by line and still hide the story. Related existing cards: A-070.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. OCR source; quote checked against page image Batson Final PDF 24 (p. 21): verbatim. Verb 'the bankruptcy examiner concluded' OK. This is a direct conclusion, not a 'fact-finder could conclude' statement, so no civil hedge is needed. It refers to transactions 'discussed in the Reports' (all the examiner's reports). (Phase 2 Fact-Checker A, 2026-09-27)"
   },
   {
     "id": "N-032",
@@ -669,6 +731,8 @@
     "event_date": "2001-11-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "Existing cards on this 8-K to reuse, not duplicate: A-083 and A-084 (press release, restatement amounts), A-060 notes (Fastow 'in excess of $30 million', p. 9), fn-02 (p. 10, 24 LJM relationships), fn-28 (p. 11, dark fiber), fn-29 and fn-30 (p. 12, Enron-sponsored SPEs), fn-32 (p. 13, investment in affiliates), fn-09 and fn-16 (p. 14, Portfolio SPEs/Raptors). Restatement No. 2 (p. 5, lines 285-296) says the LJM1 subsidiary 'did not qualify for nonconsolidation treatment because of inadequate capitalization.' Related existing cards: A-083, A-084, A-085, A-060, fn-02, fn-09, fn-16, fn-28, fn-29, fn-30, fn-32."
+    "notes": "Existing cards on this 8-K to reuse, not duplicate: A-083 and A-084 (press release, restatement amounts), A-060 notes (Fastow 'in excess of $30 million', p. 9), fn-02 (p. 10, 24 LJM relationships), fn-28 (p. 11, dark fiber), fn-29 and fn-30 (p. 12, Enron-sponsored SPEs), fn-32 (p. 13, investment in affiliates), fn-09 and fn-16 (p. 14, Portfolio SPEs/Raptors). Restatement No. 2 (p. 5, lines 285-296) says the LJM1 subsidiary 'did not qualify for nonconsolidation treatment because of inadequate capitalization.' Related existing cards: A-083, A-084, A-085, A-060, fn-02, fn-09, fn-16, fn-28, fn-29, fn-30, fn-32.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verbatim at 8-K (enron-8k-nov-2001) lines 280-283. 'information made available from further review of certain related-party transactions' (lines 60-62) and 'should not be relied upon' (following lines) verified. Restatement No. 2 quote in the notes verified (lines 288-290). Claim OK. (Phase 2 Fact-Checker A, 2026-09-27)"
   }
 ]

@@ -1,7 +1,7 @@
 # Fact-check, Phase 2: lens notes, summaries, Ask Why questions and "Who Knew What, When" strips
 
 Agent: Fact-Checker (instance A). Date: 2026-09-27.
-Scope: `work/drafts/lenses.json` (Lens Writer), all seven chapters. I checked 81 notes, 106 summary bullets, 44 strip entries and 28 Ask Why questions, with 334 citations in all. I did not edit the file.
+Scope: `work/drafts/lenses.json` (Lens Writer), all seven chapters. I checked 81 notes, 108 summary bullets, 44 strip entries and 28 Ask Why questions, with 334 citations in all. I did not edit the file.
 
 ## How I checked
 
@@ -85,11 +85,11 @@ Checked with no problems (examples):
 | ch1 | 0 | 1 (+ G-1) | 1 | PASS AFTER FIXES |
 | ch2 | 0 | 2 (+ G-1) | 2 | PASS AFTER FIXES |
 | ch3 | 1 | 4 (+ G-1) | 1 | PASS AFTER FIXES |
-| ch4 | 2 | 6 (+ G-1) | 0 | PASS AFTER FIXES |
+| ch4 | 2 | 7 (+ G-1) | 0 | PASS AFTER FIXES |
 | ch5 | 0 | 2 (+ G-1) | 2 | PASS AFTER FIXES |
 | ch6 | 1 | 3 (+ G-1) | 3 | PASS AFTER FIXES |
 | ch7 | 0 | 2 (+ G-1) | 0 | PASS AFTER FIXES |
-| **Total** | **4** | **20 + G-1** | **9** | |
+| **Total** | **4** | **21 + G-1** | **9** | |
 
 - **Must-fix items:**
   - 3-1: the March 2001 Raptor fix did record a $36.6M reserve.

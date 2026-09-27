@@ -137,3 +137,15 @@ Agent: Fact-Checker (instance B). Date: 2026-09-27. I checked each card as in Ro
 ## Verdict
 
 **`work/facts/reader-banks.json`: PASS.** All 60 cards are usable after today's six fixes, with the site rules above on the Merrill/CIBC agreements and the Fifth Amendment.
+
+## Addendum (2026-09-27): cards K-061 and K-062
+
+I wrote these two cards at the coordinator's request, to fix findings #1 and #2 in `factcheck-phase2-banks-page.md`. Both are fully checked. Correction log row 138.
+
+**K-061 (OK): the examiner's Citigroup prepay figure.**
+- Source: Batson Final Report, Appendix G (Toronto Dominion), printed p. 62, PDF 64. I checked it against the page image.
+- The figures: Citigroup $4.7 billion; JPMorgan Chase $3.7 billion.
+
+**K-062 (OK): the Senate staff's Merrill return.**
+- Source: Senate staff report, printed p. 2, PDF 6. Wording: "guaranteeing a 15 percent return". Footnote 21 ties it to the Nigerian barge deal.
+- **Watch the date.** The same sentence dates the sale "just before the end of the year 2000". The SEC complaint, the examiner and LJM2's June 2000 buy-back all place it in December 1999. Use December 1999, and never take the year from this report.

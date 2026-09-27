@@ -75,3 +75,28 @@ From `work/facts/factcheck-phase2-banks-page.md`. Edited `work/drafts/story-src/
 
 > Toronto Dominion
 
+
+# Story Writer: citation repoints
+
+From `work/facts/factcheck-phase2-banks-page.md`. Edited `work/drafts/story-src/banks.src.html` (script `apply_banks_fixes.py`), regenerated `work/drafts/banks.html`. `[cite CARD]` = citation built from that card. Diagram items #11-#14 belong to the diagram owner and were not touched.
+
+## #1 (must-fix): $4.7 billion cited to its own card K-061
+
+**Old:**
+
+> [cite K-004!batson-final-app-g@p. 62#64]
+
+**New:**
+
+> [cite K-061]
+
+## #2 (must-fix): Senate staff's 15 percent cited to its own card K-062
+
+**Old:**
+
+> [cite K-019!rpt-psi-fishtail@p. 2, Introduction#6]
+
+**New:**
+
+> [cite K-062]
+

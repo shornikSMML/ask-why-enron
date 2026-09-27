@@ -149,3 +149,4 @@
 {"time": "2026-09-27T01:16:49Z", "type": "handoff", "from": "Lens Writer", "to": "Fact-Checker (Part A)", "what": "Final re-check of lens fixes; card for quote 6-4"}
 {"time": "2026-09-27T01:17:52Z", "type": "review", "agent_id": "factcheck-b", "reviewed": "Banks page and prepay diagram", "result": "Page FAIL pending 2 must-fix (two figures cited to card notes; Ask Why misstated the SEC allegation) and 3 should-fix; diagram passes after 4 small fixes."}
 {"time": "2026-09-27T01:17:52Z", "type": "handoff", "from": "Fact-Checker (Part B)", "to": "Story Writer, Image Researcher", "what": "Banks page and prepay diagram fixes; new cards K-061, K-062"}
+{"time": "2026-09-27T01:18:41Z", "type": "review", "agent_id": "factcheck-b", "reviewed": "new cards K-061, K-062", "result": "Both checked; also found the Senate staff report misdates the barge sale (says end of 2000; other sources say December 1999)."}

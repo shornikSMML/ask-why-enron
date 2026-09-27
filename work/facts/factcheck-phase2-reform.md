@@ -67,3 +67,46 @@ Method:
 - **Diagram footer and credits:** these match the sources used. `fact_cards` in `credits.json` covers every row.
 - **Page placement of §§401 and 402:** they sit under the §404 heading. The text introduces them as "Two related rules", which is acceptable. The editor may prefer a separate subsection.
 - **C-021:** the examiner also uses $47.9 million for 2000 fees (Final Report p. 39). The page says "Sources give different figures" and links to Chapter 6, which is sufficient.
+
+## Final
+
+I re-checked the fixes against `work/facts/fixes-phase2-reform.md`, the rebuilt page and both SVGs.
+- Rebuilding the page from its source reproduces `why-it-matters.html` exactly: 72 citations to 70 cards, all checked OK or FIXED.
+- The SVG fingerprints match the updated `credits.json` (27290af... and 855e5dc...).
+- The applied corrections are logged in `build-log/corrections.md`, rows 151-166.
+
+| # | Verdict | Note |
+|---|---|---|
+| 1 | OK | "the ultimate responsibility" is verbatim (Powers lines 907-908). The scope matches: his officers' oversight of the partnerships. |
+| 2 | OK | Now attributed to the committee's report. |
+| 3 | OK | Now attributed to Bowsher, as the report quotes him. |
+| 4 | **FAIL** | See the required fix below. |
+| 5 | **FAIL (minor)** | The second citation works: data-page 54, p. 50, where the "$77 million ... October 2000 to October 2001 ... exclusively with Enron stock" figure appears (text lines 3281-3284). But its label, "Board oversight of Lay's credit line", is not a heading in the report. The passage falls under Finding (5), which starts on p. 49 (PDF 53). |
+| 6 | OK | "can involve" is a general statement and makes no claim about current practice. |
+| 7 | OK | Matches §102(a). No calendar date is given. |
+| 8 | OK | Matches §103(a)(2)(A)(iii). |
+| 9 | OK | Matches §401(a). |
+| 10, 11, 11b, 12 | OK | These are now framed as possibilities or as "under the 2002 law". The funding condition matches §109(c)(2). The §806 scope (public companies, named channels) is correct. |
+| 13, 14a, 14b | OK | Attributions and "on average" now match C-020, C-036 and S-026. |
+| 15-18 (diagram) | OK | All four fixes appear in the visible text and the description of both the wide and narrow SVGs. Checked against §§404/S-050, 806(b)(1)(B), 202 (10A(i)(1)(B)) and 802 (18 U.S.C. 1519, 1520). |
+| 19 | OK | Caption fixed. |
+
+### Required fixes
+
+**Item 4 (cooling-off, §206).** The applied sentence was my own suggested wording. Checked against the law, it is inaccurate:
+- §206 bars the firm from performing an audit if one of these officers "was employed by that registered independent public accounting firm and participated in any capacity in the audit of that issuer during the 1-year period preceding the date of the initiation of the audit" (sox-plaw-html lines 1898-1906).
+- "May not keep auditing that company" suggests a permanent bar. The bar actually lasts only until more than a year separates the person's audit work from the start of the next audit.
+- "Within a year" attaches the one-year window to the hiring. The law attaches it to the person's audit work.
+
+Replace:
+> Under the 2002 law, if someone who worked on the audit becomes the company's CEO, CFO, controller or chief accounting officer within a year, the firm may not keep auditing that company.
+
+with:
+> Under the 2002 law, if someone from the audit firm who worked on a company's audit becomes that company's CEO, CFO, controller or chief accounting officer, the firm may not audit the company again until more than a year has passed since that person last worked on its audit.
+
+**Item 5 (citation label).** In `reform-src/why-it-matters.src.html`, replace `{{B-016@p. 50, Board oversight of Lay's credit line#54}}` with `{{B-016@p. 50, Finding (5), Excessive Compensation#54}}`, then rebuild.
+
+### Overall
+
+- **`why-it-matters.html`: PASS once the two fixes above are applied.** Nothing else is outstanding. A re-check needs only those two sentences.
+- **`diagram-sox-map.svg` / `-narrow.svg`: PASS.**

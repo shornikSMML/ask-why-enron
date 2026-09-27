@@ -26,6 +26,29 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 GAPS = ROOT / "build-log" / "gaps.md"
 CANDS = ROOT / "sources" / "candidates" / "candidates.csv"
+CAND_BATCHES = [("phase1", ROOT / "sources" / "candidates" / "candidates.csv"),
+                ("phase2", ROOT / "sources" / "candidates" / "phase2" / "candidates.csv")]
+
+# Unapproved candidates are shown with a neutral description only (kind of document,
+# publisher, date, gap), never their title: a title can state a fact the library
+# does not yet support.
+KINDS = [(r"interpretive release", "guidance release"), (r"final rule", "rule"), (r"\bGAO-\d", "report"),
+         (r"U\.S\.C\.|U\.S\. Code", "section of the U.S. Code"), (r"U\.S\. Reports|\d+ U\.S\. \d+|opinion", "court opinion"),
+         (r"press release", "press release"), (r"indictment", "court filing"), (r"agreement", "court filing"),
+         (r"transcript", "transcript"), (r"auditing standard|\bAS \d{3,4}\b", "auditing standard"),
+         (r"litigation release", "litigation release"), (r"hearing", "hearing record"), (r"report", "report")]
+
+
+def neutral_description(r):
+    kind = "document"
+    for rx, k in KINDS:
+        if re.search(rx, r.get("title", ""), re.I):
+            kind = k
+            break
+    date = re.match(r"\s*(\d{4}(?:-\d{2}(?:-\d{2})?)?)", r.get("date", "") or "")
+    body = (r.get("source_body") or "an official source").strip()
+    art = "An" if kind[0] in "aeiou" else "A"
+    return f"{art} {kind} from {body}" + (f", dated {date.group(1)}" if date else "")
 MANIFEST = ROOT / "sources" / "manifest.csv"
 DLOG = ROOT / "sources" / "download_log.csv"
 
@@ -103,24 +126,29 @@ def read_csv(path, key="id"):
 
 
 def parse_candidates():
-    if not CANDS.exists():
-        return []
     manifest, dlog = read_csv(MANIFEST), read_csv(DLOG)
     out = []
-    with CANDS.open(newline="", encoding="utf-8") as f:
-        for r in csv.DictReader(f):
-            c = {k: r.get(k, "") for k in ("id", "title", "date", "source_body", "fills_gap", "official_or_mirror")}
-            m, d = manifest.get(c["id"]), dlog.get(c["id"], {})
-            lib_sha = d.get("sha256", "")
-            c["in_manifest"] = bool(m)
-            c["approved"] = bool(m) and bool(lib_sha)
-            if m:  # the library's own title wins once approved
-                c["title"] = m.get("title") or c["title"]
-            c["scout_sha256"] = r.get("sha256", "")
-            c["library_sha256"] = lib_sha
-            c["same_fingerprint"] = bool(lib_sha) and lib_sha == c["scout_sha256"]
-            c["fingerprint_note"] = FINGERPRINT_NOTES.get(c["id"], "") if lib_sha and not c["same_fingerprint"] else ""
-            out.append(c)
+    for batch, path in CAND_BATCHES:
+        if not path.exists():
+            continue
+        with path.open(newline="", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                if not r.get("id"):
+                    continue
+                c = {k: r.get(k, "") for k in ("id", "date", "source_body", "fills_gap", "official_or_mirror")}
+                c["batch"] = batch
+                m, d = manifest.get(c["id"]), dlog.get(c["id"], {})
+                lib_sha = d.get("sha256", "")
+                c["in_manifest"] = bool(m)
+                c["approved"] = bool(m) and bool(lib_sha)
+                # the title is carried only once the document is in the library (the manifest's title)
+                c["title"] = (m.get("title") or r.get("title", "")) if c["approved"] else ""
+                c["description"] = neutral_description(r)
+                c["scout_sha256"] = r.get("sha256", "")
+                c["library_sha256"] = lib_sha
+                c["same_fingerprint"] = bool(lib_sha) and lib_sha == c["scout_sha256"]
+                c["fingerprint_note"] = FINGERPRINT_NOTES.get(c["id"], "") if lib_sha and not c["same_fingerprint"] else ""
+                out.append(c)
     return out
 
 

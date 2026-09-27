@@ -21,3 +21,10 @@ By the Reform Writer, following `work/facts/factcheck-phase2-reform.md`. Items 1
 | 14a | Andersen's own policy rotated the lead partner after seven years, not five.{{C-036}} | According to the bankruptcy examiner's report, Andersen's own policy rotated the lead partner after seven years, not five.{{C-036}} |
 | 14b | non-audit fees made up 73 percent of accounting firms' total fees. | non-audit fees made up, on average, 73 percent of accounting firms' total fees. |
 | 19 | <figcaption>The parts of Sarbanes-Oxley on this page, and the Enron problems each one answers.</figcaption> | <figcaption>Five parts of Sarbanes-Oxley covered on this page, and the problems lawmakers and witnesses linked to each.</figcaption> |
+
+## Final fixes (from "## Final" in factcheck-phase2-reform.md)
+
+| # | Old wording | New wording |
+|---|---|---|
+| 4 (final) | Under the 2002 law, if someone who worked on the audit becomes the company's CEO, CFO, controller or chief accounting officer within a year, the firm may not keep auditing that company. | Under the 2002 law, if someone from the audit firm who worked on a company's audit becomes that company's CEO, CFO, controller or chief accounting officer, the firm may not audit the company again until more than a year has passed since that person last worked on its audit. |
+| 5 (final) | {{B-016@p. 50, Board oversight of Lay's credit line#54}} | {{B-016@p. 50, Finding (5), Excessive Compensation#54}} |

@@ -1,14 +1,14 @@
 {
   "project": "Ask Why: The Rise and Fall of Enron",
-  "generated": "2026-09-27T01:27:46Z",
+  "generated": "2026-09-27T01:30:47Z",
   "generated_note": "Time of the newest coordinator note; the log is rebuilt from the notes by work/tools/build_log.py.",
   "summary": {
     "agents": 22,
-    "runs": 68,
+    "runs": 69,
     "runs_from_a_brief": 38,
-    "runs_resumed_by_message": 30,
-    "runs_still_open": 2,
-    "coordinator_decisions": 27,
+    "runs_resumed_by_message": 31,
+    "runs_still_open": 1,
+    "coordinator_decisions": 29,
     "owner_decisions": 6,
     "library_documents": 87,
     "sources_read": 80,
@@ -233,10 +233,10 @@
         "id": "phase2",
         "name": "Phase 2",
         "agents": 16,
-        "runs": 31,
-        "runs_resumed_by_message": 16,
-        "runs_still_open": 2,
-        "coordinator_decisions": 4,
+        "runs": 32,
+        "runs_resumed_by_message": 17,
+        "runs_still_open": 1,
+        "coordinator_decisions": 6,
         "fact_card_series": [
           "K",
           "N",
@@ -265,7 +265,7 @@
       "sources/candidates/phase2/candidates.csv"
     ],
     "text": [
-      "The coordinator ran 22 agents, in 68 runs: 38 started from a written brief and 30 resumed by a follow-up message (2 still working).",
+      "The coordinator ran 22 agents, in 69 runs: 38 started from a written brief and 31 resumed by a follow-up message (1 still working).",
       "The library now holds 87 documents. The agents opened 80 of them, and the site cites 72.",
       "The Readers wrote 503 fact cards: short, sourced notes of one fact each. The Fact-Checkers checked 503 of them against the documents, plus 33 of the 33 annotations on Note 16.",
       "The Fact-Checkers logged 172 corrections.",
@@ -273,7 +273,7 @@
       "The Source Scout found 10 candidate documents in Phase 1 (the project owner approved 10 and added them to the library) and 10 candidate documents in Phase 2 (0 approved so far). No agent may use a candidate until the owner approves it.",
       "Phase 1 ran 15 agents in 28 runs: 293 fact cards written (293 checked), 86 corrections, 10 candidate sources.",
       "Revision pass ran 6 agents in 9 runs: 36 fact cards written (36 checked), 23 corrections.",
-      "Phase 2 ran 16 agents in 31 runs (2 still working): 174 fact cards written (174 checked), 63 corrections, 10 candidate sources."
+      "Phase 2 ran 16 agents in 32 runs (1 still working): 174 fact cards written (174 checked), 63 corrections, 10 candidate sources."
     ]
   },
   "phases": [
@@ -443,7 +443,7 @@
       "name": "Phase 2",
       "start": "2026-09-27T00:54:22Z",
       "end": null,
-      "last_note": "2026-09-27T01:27:46Z",
+      "last_note": "2026-09-27T01:30:47Z",
       "status": "in progress",
       "waves": [
         "phase2-A",
@@ -518,10 +518,10 @@
       ],
       "counts": {
         "agents": 16,
-        "runs": 31,
-        "runs_resumed_by_message": 16,
-        "runs_still_open": 2,
-        "coordinator_decisions": 4,
+        "runs": 32,
+        "runs_resumed_by_message": 17,
+        "runs_still_open": 1,
+        "coordinator_decisions": 6,
         "fact_card_series": [
           "K",
           "N",
@@ -536,7 +536,7 @@
         ],
         "candidates_found": 10
       },
-      "counts_text": "Phase 2 ran 16 agents in 31 runs (2 still working): 174 fact cards written (174 checked), 63 corrections, 10 candidate sources."
+      "counts_text": "Phase 2 ran 16 agents in 32 runs (1 still working): 174 fact cards written (174 checked), 63 corrections, 10 candidate sources."
     }
   ],
   "owner_decisions": [
@@ -785,6 +785,20 @@
         "type": "decision",
         "title": "Third Fact-Checker instance for the Sarbanes-Oxley cards",
         "detail": "Both Fact-Checker instances are busy (lenses; bank cards), so a third instance of the same role checks S-001..S-080 in parallel.",
+        "phase": "phase2"
+      },
+      {
+        "time": "2026-09-27T01:30:38Z",
+        "type": "decision",
+        "title": "Phase 2 content fact-check complete",
+        "detail": "All Phase 2 content passed: lenses (7 chapters), pathways stops, Reading the Footnotes cards and Other notes section, The Banks page and prepay diagram, Why This Matters to You and SOX map, glossary additions. Waiting only on Site Builder final assembly and tests.",
+        "phase": "phase2"
+      },
+      {
+        "time": "2026-09-27T01:30:47Z",
+        "type": "decision",
+        "title": "Correction to previous decision: two items still need a page-level fact-check",
+        "detail": "Coordinator caught its own error: the pathway bridges (pathways.json) and the Footnote page section Other notes in the same report (footnote-others.json) rest on checked cards but their written text had not been fact-checked as pages. Sent both to the Fact-Checker before Phase 2 is called complete.",
         "phase": "phase2"
       }
     ]
@@ -1526,8 +1540,8 @@
       "brief": "=== Run 1 brief: work/briefs/07-scribe.md ===\n\n# Brief: Scribe (first run)\n\n**Role:** Keep the build log. The coordinator appends timestamped notes to `build-log/inbox.jsonl` (one JSON object per line, with `type` one of decision | agent_start | agent_finish | handoff | review | web_source | correction). The exact briefs sent to agents are the files in `work/briefs/`. Your job is to turn these into the official log.\n\n**Do this:**\n1. Write `work/tools/build_log.py`, a deterministic script that reads `build-log/inbox.jsonl`, the brief files in `work/briefs/`, and `build-log/corrections.md`, and writes:\n   - `build-log/log.json` with this structure:\n     ```json\n     {\"project\": \"Ask Why: The Rise and Fall of Enron\",\n      \"generated\": \"ISO time\",\n      \"coordinator\": {\"name\": \"Coordinator\", \"role\": \"...\", \"plan\": [...decisions whose title starts with 'Original plan'...], \"decisions\": [...all decision records, in order...]},\n      \"before_the_agents\": {\"summary\": \"...\", \"fingerprint_check\": \"...\"},\n      \"agents\": [{\"id\", \"name\", \"role\", \"brief_file\", \"brief\" (full text of the brief file, plus common rules referenced by file name), \"runs\": [{\"started\", \"finished\", \"inputs\" (manifest ids and page ranges), \"outputs\" (files), \"decision\": \"accepted|sent back|pending\", \"reason\"}], \"handoffs\": [{\"time\", \"from\", \"to\", \"what\"}]}],\n      \"reviews\": [...], \"corrections\": [...parsed rows of corrections.md...], \"web_sources\": [{\"site\", \"url\", \"used_by\", \"purpose\"}],\n      \"timeline\": [...every record in time order, with a short label...]}\n     ```\n     Agent records come from `agent_start` and `agent_finish` notes (fields: `agent_id`, `name`, `role`, `brief_file`, `inputs`, `outputs`, `decision`, `reason`). Handoffs come from `handoff` notes (fields: `from`, `to`, `what`).\n   - `build-log/log.js`, which contains `window.BUILD_LOG = <the same JSON>;` so the website can load it from file://.\n   The script must be idempotent: re-running it regenerates both files from the inbox. Don't hand-edit `log.json`.\n2. Fill in `before_the_agents` from `sources/README.md` and `CLAUDE.md`: the owner assembled and verified the library before any agent ran; the three lessons (the annotated advocacy copy of the Batson Final Report nearly used in place of the clean court copy; three different documents each labeled Batson \"Appendix E\"; fingerprints confirmed the downloaded files matched the originals). Put this text in a constant in the script. Plain language.\n3. Run the script, and check the output is valid JSON and that `log.js` parses (`node -e` if node exists, otherwise Python).\n4. Also write `build-log/README.md` (replace the existing short one), explaining in two short paragraphs what each file is.\n\n**Outputs:** `work/tools/build_log.py`, `build-log/log.json`, `build-log/log.js`, `build-log/README.md`.\n\n=== Run 2 brief: work/briefs/16-scribe-update.md ===\n\n# Brief: Scribe, second run (fix and complete the log)\n\nUpdate `work/tools/build_log.py` (keep it deterministic) so that:\n1. **An agent can have several runs, each with its own brief.** For example, \"images\" ran with `05-images.md` and then `12-images-pass2.md`; \"footnote\" ran once, then again for fixes. Each run stores its own `brief_file` and brief text. A brief counts as \"assigned\" if any `agent_start` note uses it. `briefs_not_yet_assigned` must be correct (right now it wrongly lists `05-images.md`).\n2. **Runs started by message rather than a new brief** (resumed agents: an `agent_finish` or `review` with no new `agent_start`) are shown as a separate run, with the `handoff` note text as their brief summary. Check `inbox.jsonl` for such cases (e.g. the Fact-Checker's follow-up checks; the Story and Reference Writers' Round 2 fixes; the Round 3 re-checks). Also include the exact follow-up messages the coordinator sent, stored in `build-log/messages.jsonl`, if that file exists.\n3. **Every agent's decision and reason come from its latest finish note.**\n4. **`corrections.md` rows are parsed**, including any rows added later.\n5. **There's a plain-language `summary` block** for the How This Was Built page: the number of agents, the number of runs, sources read, fact cards written and checked, the number of corrections, web sources used, and candidates found (count the rows in `sources/candidates/candidates.csv`). Compute these from files; don't type them by hand.\n\nThen run the script and validate the output as before. Report what changed, briefly.\n\n=== Run 3 brief: work/briefs/31-scribe-phase2.md ===\n\n# Brief: Scribe, Phase 2 update\n\nUpdate `work/tools/build_log.py` (keep it deterministic):\n1. **Phases.** Group the log into **Phase 1**, **Revision pass** (owner added 11 documents), and **Phase 2**. Use the `wave` values in the `agent_start` notes (`1`, `1-review`, `2`, `3`, `4`, `revision`, `phase2-A`, `phase2`) and the decision titles. Add a `phases` list with each phase's start and end times, its agents, and a one-sentence plain summary.\n2. **Corrections numbering.** `build-log/corrections.md` has overlapping row numbers, because two Fact-Checkers appended at the same time (for example, two sets of rows numbered 122+). Don't edit the file's history. In the log, give each correction a unique sequential `log_no` in file order, and keep the original `#` as `row_label`. Count corrections by `log_no`.\n3. **Summary.** Recompute the summary block for all phases: agents, runs, fact cards written and checked (across **all** `work/facts/*.json` card files, including the S, K, N, F, and G series), corrections, websites, candidates (Phase 1 and Phase 2 separately), and library size (manifest rows). Add a per-phase breakdown.\n4. **Owner decisions.** Add an `owner_decisions` list, taken from decision notes whose title starts with \"Owner\" or contains \"owner\", so the page can show the human's choices clearly.\n5. Run the script, validate the output, and report briefly.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
       "wave": "phase2",
       "decision": "accepted",
-      "reason": "Log now shows every run and follow-up message; totals computed from files. Coordinator confirms the Round 2 diagram fixes were made by the same agent run that fixed the footnote, so the special case is correct.",
-      "decision_time": "2026-09-26T11:43:01Z",
+      "reason": "Owner decisions list now contains only the owner's own choices.",
+      "decision_time": "2026-09-27T01:30:26Z",
       "runs": [
         {
           "run": 1,
@@ -1592,11 +1606,15 @@
           "brief": "# Brief: Scribe, Phase 2 update\n\nUpdate `work/tools/build_log.py` (keep it deterministic):\n1. **Phases.** Group the log into **Phase 1**, **Revision pass** (owner added 11 documents), and **Phase 2**. Use the `wave` values in the `agent_start` notes (`1`, `1-review`, `2`, `3`, `4`, `revision`, `phase2-A`, `phase2`) and the decision titles. Add a `phases` list with each phase's start and end times, its agents, and a one-sentence plain summary.\n2. **Corrections numbering.** `build-log/corrections.md` has overlapping row numbers, because two Fact-Checkers appended at the same time (for example, two sets of rows numbered 122+). Don't edit the file's history. In the log, give each correction a unique sequential `log_no` in file order, and keep the original `#` as `row_label`. Count corrections by `log_no`.\n3. **Summary.** Recompute the summary block for all phases: agents, runs, fact cards written and checked (across **all** `work/facts/*.json` card files, including the S, K, N, F, and G series), corrections, websites, candidates (Phase 1 and Phase 2 separately), and library size (manifest rows). Add a per-phase breakdown.\n4. **Owner decisions.** Add an `owner_decisions` list, taken from decision notes whose title starts with \"Owner\" or contains \"owner\", so the page can show the human's choices clearly.\n5. Run the script, validate the output, and report briefly.",
           "brief_summary": null,
           "started": "2026-09-27T01:26:45Z",
-          "finished": null,
-          "inputs": [],
-          "outputs": [],
-          "decision": "pending",
-          "reason": "Still working: no finish note yet.",
+          "finished": "2026-09-27T01:30:26Z",
+          "inputs": [
+            "inbox.jsonl, corrections.md, all card files, manifest"
+          ],
+          "outputs": [
+            "build_log.py: phases, unique correction numbers, per-phase summary, owner_decisions (6)"
+          ],
+          "decision": "accepted",
+          "reason": "Owner decisions list now contains only the owner's own choices.",
           "handoffs_in": [],
           "messages": [],
           "reviews": [],
@@ -3780,9 +3798,9 @@
       "common_rules_file": "work/briefs/00-common-rules.md",
       "brief": "# Brief: Reform Writer, \"Why This Matters to You\" (Phase 2)\n\nFollow `00-common-rules.md` and the AUDIENCE AND TONE section of `CLAUDE.md`. Use only checked cards (OK or FIXED): `work/facts/reader-sox.json` (S-cards; **read every `checker_note`** and the rulings in `work/facts/factcheck-phase2-sox.md`), plus existing cards (the C-070–081 SOX cards; the A, B, C, and G cards for the Enron links). Write in the same fragment format as the chapters, into `work/drafts/why-it-matters.html`, about 1,800–2,400 words.\n\n**Sections (required ids):**\n- `#s302`: CEO/CFO certification (§§302, 906)\n- `#s404`: internal control reports (§404)\n- `#pcaob`: the PCAOB (§§101–109)\n- `#independence`: auditor independence (§§201–203, 206)\n- `#whistleblowers`: document destruction, whistleblowers, criminal penalties (§§802, 806, 807, 1102, 1107)\n- `#today`: \"What this means for you\"\n\n**For each provision:**\n1. **What the law requires**, cited to the statute (\"requires\").\n2. **The Enron problem Congress had in mind.** Link to the relevant chapter with a normal `<a href=\"chapters/chN.html#…\">` and cite the committee report, testimony or Enron cards. Floor statements and prepared testimony are characterizations: use \"said\".\n3. **\"What it means for you\"**, one short paragraph addressed to a student about to enter business or accounting (an accountant, auditor, analyst, manager or employee). General-knowledge explanations are allowed, but make **no specific claims about how the rules work today**. The library covers the law and its first year only.\n\n**`#today` section:** explain plainly that the library covers 2002–2003, and that later developments (how §404 has been applied, PCAOB standards and inspections, later amendments) aren't covered yet. The owner may add official documents on these later. **Don't state post-2003 facts.** End with the page's **Ask Why** question.\n\n**Rulings to follow exactly:**\n- **§201:** \"eight named services, plus any the PCAOB bans by rule\".\n- **§402:** follow the statute's exceptions, not the CRS phrase \"of any kind\".\n- **§807:** give both 10 (Daschle, floor) and 25 (the law), without explaining the change. Don't confuse it with the Bush \"5 to 20 years\" figure, which is a different penalty.\n- **Lay's pay/loans:** only with attribution, and never combine the periods (SEC 2001 stock sales; JCT 2001 withdrawals; the examiner's 1999–2001 figure). The \"$70 million\" figure is only the Senate report's, citing the WSJ. Prefer to leave it out.\n- **The April 2003 SEC orders:** the library holds landing pages only. Use the SEC press release for \"the Board was ready\", and say nothing about the orders' content.\n\nTag paragraphs `data-lens` where apt (`auditors`, `board`, `money`). Wrap first uses of terms in `span.term` and list new term ids with plain definitions in `work/drafts/reform-terms.md`. Put at least one `<figure data-image=\"diagram-sox-map\">` placeholder (a diagram will be drawn). Build the citations the way the Story Writer does. You can use or copy `work/drafts/story-src/expand.py`, extended for S-cards, and keep your source file in `work/drafts/reform-src/`. Run `integrate.py --no-log` and the tests. Report briefly.\n\n---\nThis agent was also bound by the common rules for every agent, in work/briefs/00-common-rules.md.",
       "wave": "phase2",
-      "decision": "accepted, pending Fact-Checker final",
-      "reason": "All 15 page fixes applied; tests 0 problems.",
-      "decision_time": "2026-09-27T01:26:25Z",
+      "decision": "accepted",
+      "reason": "Coordinator verified both lines match the Fact-Checker's exact replacement text and citation label (the Fact-Checker said re-check required only these two lines).",
+      "decision_time": "2026-09-27T01:30:38Z",
       "runs": [
         {
           "run": 1,
@@ -3832,6 +3850,27 @@
               "what": "Apply reform page and SOX map fixes"
             }
           ],
+          "messages": [],
+          "reviews": [],
+          "phase": "phase2"
+        },
+        {
+          "run": 3,
+          "kind": "resumed",
+          "brief_file": null,
+          "brief": null,
+          "brief_summary": "Resumed by a message from the coordinator (no new brief file).",
+          "started": null,
+          "finished": "2026-09-27T01:30:38Z",
+          "inputs": [
+            "factcheck-phase2-reform.md Final"
+          ],
+          "outputs": [
+            "why-it-matters.html final two fixes"
+          ],
+          "decision": "accepted",
+          "reason": "Coordinator verified both lines match the Fact-Checker's exact replacement text and citation label (the Fact-Checker said re-check required only these two lines).",
+          "handoffs_in": [],
           "messages": [],
           "reviews": [],
           "phase": "phase2"
@@ -7500,6 +7539,32 @@
       "type": "review",
       "label": "Review by Fact-Checker (Part C): Diagram PASS. Page passes except two items: the cooling-off sentence (the Fact-Checker's own earlier suggested wording) misstates section 206; one citation label. Corrections rows 151-166.",
       "agent_id": "factcheck-c",
+      "phase": "phase2"
+    },
+    {
+      "time": "2026-09-27T01:30:26Z",
+      "type": "agent_finish",
+      "label": "Finished: Scribe (accepted)",
+      "agent_id": "scribe",
+      "phase": "phase2"
+    },
+    {
+      "time": "2026-09-27T01:30:38Z",
+      "type": "agent_finish",
+      "label": "Finished: Reform Writer (accepted)",
+      "agent_id": "reform",
+      "phase": "phase2"
+    },
+    {
+      "time": "2026-09-27T01:30:38Z",
+      "type": "decision",
+      "label": "Coordinator decision: Phase 2 content fact-check complete",
+      "phase": "phase2"
+    },
+    {
+      "time": "2026-09-27T01:30:47Z",
+      "type": "decision",
+      "label": "Coordinator decision: Correction to previous decision: two items still need a page-level fact-check",
       "phase": "phase2"
     }
   ]

@@ -319,13 +319,14 @@
   (function corrections(rows, host) {
     if (!host) return;
     if (!rows || !rows.length) { host.innerHTML = '<p class="none">No corrections recorded yet.</p>'; return; }
-    var LABELS = { what_it_said: "What the draft said", what_the_source_says: "What the source says", fix: "The fix", source: "Source checked", date: "Date", recorded_in: "Recorded in" };
+    var LABELS = { what_it_said: "What the draft said", what_the_source_says: "What the source says", fix: "The fix", source: "Source checked", date: "Date", recorded_in: "Recorded in", row_label: "Row in the fact-checker's list" };
     host.innerHTML = '<details class="corr-wrap"><summary>Show all ' + rows.length + " corrections</summary>" +
       '<ol class="corr-list">' + rows.map(function (r, i) {
-        var keys = Object.keys(r).filter(function (k) { return k !== "number" && k !== "page_item" && r[k] != null && r[k] !== ""; });
-        return '<li class="corr-item"><h3>' + esc((r.number || i + 1) + ". " + (r.page_item || "")) + "</h3><dl>" +
+        var keys = Object.keys(r).filter(function (k) { return k !== "number" && k !== "log_no" && k !== "page_item" && r[k] != null && r[k] !== ""; });
+        return '<li class="corr-item" id="correction-' + esc(r.log_no || r.number || i + 1) + '"><h3>' + esc((r.log_no || r.number || i + 1) + ". " + (r.page_item || "")) + "</h3><dl>" +
           keys.map(function (k) {
             var v = r[k];
+            if (k === "phase") (L.phases || []).forEach(function (x) { if (x && x.id === v) v = x.name || v; });
             return "<dt>" + esc(LABELS[k] || k.replace(/_/g, " ")) + "</dt><dd>" + esc(typeof v === "object" ? JSON.stringify(v) : v) + "</dd>";
           }).join("") + "</dl></li>";
       }).join("") + "</ol></details>";

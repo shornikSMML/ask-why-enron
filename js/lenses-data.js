@@ -2648,7 +2648,7 @@ window.LENSES = {
      "para_index": 8,
      "para_key": "ch6-p8",
      "para_start": "The examiner also concluded that a fact-finder could",
-     "text": "The Auditors: Duncan wrote in December 2000 that the presentation had to fit \"about a 30 - 45 minute presentation,\" so \"we necessarily have to stay at a certain level.\" The examiner's conclusion is about what a fact-finder could find, not a court finding.",
+     "text": "The Auditors: Duncan wrote in December 2000 that the presentation had to fit \"about a 30 – 45 minute presentation,\" so \"we necessarily have to stay at a certain level.\" The examiner's conclusion is about what a fact-finder could find, not a court finding.",
      "cites": [
       {
        "card": "C-035",

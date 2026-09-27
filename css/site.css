@@ -138,7 +138,8 @@ h3 { font-size: 1.15rem; margin: 1.6em 0 .4em; }
 .tool-btn[aria-pressed="true"] { background: var(--text); color: var(--bg); border-color: var(--text); }
 .menu-toggle { display: none; }
 
-@media (max-width: 900px) {
+/* Ten links fit on one line only on wide screens; below that the nav folds into the Menu button. */
+@media (max-width: 1360px) {
   .js .menu-toggle { display: inline-block; }
   .js .site-nav { display: none; width: 100%; order: 5; }
   .js .site-nav.open { display: block; }

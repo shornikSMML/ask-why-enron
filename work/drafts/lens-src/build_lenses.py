@@ -413,7 +413,7 @@ L['ch6'] = {
    note(6, 4, 'auditors', "The Auditors: the disagreement is over labels. The Senate staff counted $27 million as consulting; Andersen said much of it was audit-type work. Either way, the examiner found Enron was one of Andersen's \"most significant clients in terms of fees.\"", 'C-019', 'C-020', 'C-022'),
    note(6, 5, 'auditors', "The Auditors: Sarbanes-Oxley later made it unlawful for an audit firm to provide certain non-audit services to a company it audits, and required the audit committee to approve other non-audit services in advance.", 'C-074'),
    note(6, 6, 'auditors', "The Auditors: in his spoken statement to the same December 2001 hearing, Berardino said that on the smaller of the two SPEs behind the restatement, Andersen's team had made \"an error in judgment. An honest error, but an error nonetheless.\" He said important information about the larger one appeared not to have been revealed to Andersen.", 'G-033'),
-   note(6, 8, 'auditors', "The Auditors: Duncan wrote in December 2000 that the presentation had to fit \"about a 30 - 45 minute presentation,\" so \"we necessarily have to stay at a certain level.\" The examiner's conclusion is about what a fact-finder could find, not a court finding.", 'C-035', 'C-031'),
+   note(6, 8, 'auditors', "The Auditors: Duncan wrote in December 2000 that the presentation had to fit \"about a 30 – 45 minute presentation,\" so \"we necessarily have to stay at a certain level.\" The examiner's conclusion is about what a fact-finder could find, not a court finding.", 'C-035', 'C-031'),
    note(6, 9, 'auditors', "The Auditors: telling employees to follow a retention policy is not wrong in itself. The Supreme Court's Syllabus notes that \"under ordinary circumstances, it is not wrongful for a manager to instruct his employees to comply with a valid document retention policy.\" The questions in this case were about intent and timing.", 'C-044'),
    note(6, 12, 'auditors', "The Auditors: two accounts conflict here. Andersen's witness said Duncan acted without consulting others or, so far as Andersen knew, its lawyers; Duncan, as the chairman summarized his interview, said he acted on the lawyer's e-mail. Duncan declined to answer questions at the hearing.", 'C-011', 'C-002', 'C-007'),
    note(6, 15, 'auditors', "The Auditors: the charge was against the firm itself, and it concerned persuading employees to withhold and destroy records, not the quality of the Enron audits.", 'G-015'),
@@ -535,7 +535,7 @@ L['ch7'] = {
 # ---------------- checks ----------------
 def norm(s):
     return (s.replace('’', "'").replace('‘', "'").replace('“', '"').replace('”', '"')
-             .replace("''", '"').replace('—', '-').replace('--', '-').lower())
+             .replace("''", '"').replace('—', '-').replace('–', '-').replace('--', '-').lower())
 
 problems = []
 CHECKER_VERIFIED = ['we necessarily have to stay at a certain level']

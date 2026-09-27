@@ -1,5 +1,4 @@
-// Generated from work/drafts/pathways.json by work/tools/integrate.py. Edit the JSON, then re-run.
-window.PATHWAYS = {
+{
  "_note": "Pathways Designer draft. Stop = {page, anchor, label, bridge, cites?}. 'anchor' is an element id on 'page' ('' = top of page). 'page' may carry ?lens= or ?tag=. Bridges add no new facts; any fact carries card cites (checked chapter citations). See work/drafts/pathway-anchor-requests.md for anchors the site must add.",
  "pathways": [
   {
@@ -897,4 +896,4 @@ window.PATHWAYS = {
    }
   }
  ]
-};
+}

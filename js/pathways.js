@@ -37,6 +37,14 @@
     var a = anchorOf(s) || hash;
     return ROOT + page + (page.indexOf("?") === -1 ? "?" : "&") + "path=" + encodeURIComponent(p.id) + "&stop=" + n + (a ? "#" + encodeURIComponent(a) : "");
   }
+  // Bridges that state a fact carry card citations: show them as a small source line.
+  function citeLine(cites) {
+    if (!cites || !cites.length) return "";
+    return '<span class="pw-src">Source' + (cites.length > 1 ? "s" : "") + ": " + cites.map(function (c) {
+      return A.sourceRefHTML({ source_id: c.source_id, pdf_page: c.pdf_page != null ? c.pdf_page : c.page, loc: c.loc, card: c.card })
+        .replace('<span class="loc">', ' <span class="loc">');
+    }).join("; ") + "</span>";
+  }
   function minutes(p) { return p.minutes ? "about " + esc(p.minutes) + " minutes" : ""; }
   function isSample() { return !!window.PATHWAYS_SAMPLE; }
   var SAMPLE_FLAG = '<span class="sample-flag phase2-sample">Sample pathway data</span>';
@@ -60,7 +68,7 @@
     bar.innerHTML = '<div class="pw-inner">' +
       '<p class="pw-where"><a href="' + ROOT + "pathways.html#" + esc(p.id) + '">Pathway: ' + esc(p.title) + "</a>" +
       ' <span class="pw-count">Stop ' + n + " of " + N + "</span>" + (s.label ? ' <span class="pw-label">' + esc(s.label) + "</span>" : "") + "</p>" +
-      (s.bridge ? '<p class="pw-bridge">' + esc(s.bridge) + "</p>" : "") +
+      (s.bridge ? '<p class="pw-bridge">' + esc(s.bridge) + (s.cites && s.cites.length ? " " + citeLine(s.cites) : "") + "</p>" : "") +
       (n === N && p.closing_question ? '<p class="pw-closing"><strong>To finish:</strong> ' + esc(p.closing_question) + "</p>" : "") +
       '<p class="pw-nav">' +
       (n > 1 ? '<a class="pw-prev" rel="prev" href="' + esc(stopHref(p, n - 1)) + '">&larr; Previous stop</a>' : '<span class="pw-prev is-off">&larr; Previous stop</span>') +
@@ -74,9 +82,11 @@
     // the query string stays. Scroll to and highlight the stop's target.
     var a = anchorOf(s) || location.hash.slice(1);
     if (a) {
-      var t = document.getElementById(a);
+      var r = A.resolveAnchor(a), t = r.el;
       if (!t) { console.warn("Pathway " + p.id + " stop " + n + ": anchor #" + a + " not found on this page"); return; }
-      t.classList.add("pw-target");
+      if (!r.exact) console.info("Pathway " + p.id + " stop " + n + ": #" + a + " matched #" + t.id);
+      A.pathwayStop = { id: p.id, stop: n, anchor: a, resolved: t.id, exact: r.exact };
+      if (!/^(chapter|main)$/.test(t.id) && t.tagName !== "ARTICLE") t.classList.add("pw-target");
       if (t.tagName === "DETAILS") t.open = true;
       var go = function () { t.scrollIntoView({ block: "start" }); };
       go();
@@ -100,7 +110,7 @@
           '<p class="pw-actions">' + (stops.length ? '<a class="btn" href="' + esc(stopHref(p, 1)) + '">Start the pathway &rarr;</a> ' : "") +
           '<a class="pw-handout-link" href="' + ROOT + "pathway-handout.html?path=" + encodeURIComponent(p.id) + '">Printable handout</a></p>' +
           (stops.length ? '<details class="pw-stops"><summary>See the ' + stops.length + " stops</summary><ol>" + stops.map(function (s, i) {
-            return '<li><a href="' + esc(stopHref(p, i + 1)) + '">' + esc(s.label || s.page) + "</a>" + (s.bridge ? '<span class="pw-stop-bridge">' + esc(s.bridge) + "</span>" : "") + "</li>";
+            return '<li><a href="' + esc(stopHref(p, i + 1)) + '">' + esc(s.label || s.page) + "</a>" + (s.bridge ? '<span class="pw-stop-bridge">' + esc(s.bridge) + (s.cites && s.cites.length ? " " + citeLine(s.cites) : "") + "</span>" : "") + "</li>";
           }).join("") + "</ol></details>" : "") +
           "</li>";
       }).join("") + "</ol>";
@@ -119,23 +129,25 @@
     document.title = p.title + " · Handout · Ask Why";
     var h = p.handout || {};
     if (typeof h === "string") h = { text: h };
-    var stops = h.stops || p.stops || [];
-    var qs = h.questions || h.discussion_questions || [];
+    var hstops = h.stops || [];
+    var qs = h.discussion_questions || h.questions || [];
+    var closing = h.closing_question || p.closing_question;
     host.innerHTML = (isSample() ? "<p>" + SAMPLE_FLAG + "</p>" : "") +
       '<p class="eyebrow">Ask Why: The Rise and Fall of Enron · Pathway handout</p>' +
       "<h1>" + esc(h.title || p.title) + "</h1>" +
-      '<p class="pw-meta">' + (p.for_whom ? "For " + esc(String(p.for_whom).replace(/^for\s+/i, "")) : "") + (p.minutes ? " · " + minutes(p) : "") + "</p>" +
+      '<p class="pw-meta">' + (h.subtitle ? esc(h.subtitle) : (p.for_whom ? "For " + esc(String(p.for_whom).replace(/^for\s+/i, "")) : "") + (p.minutes ? " · " + minutes(p) : "")) + "</p>" +
       (h.intro || p.intro ? "<p>" + esc(h.intro || p.intro) + "</p>" : "") +
       (h.text ? String(h.text).split(/\n{2,}/).map(function (t) { return "<p>" + esc(t) + "</p>"; }).join("") : "") +
-      "<h2>Stops</h2><ol class=\"handout-stops\">" + stops.map(function (s, i) {
-        if (typeof s === "string") return "<li>" + esc(s) + "</li>";
-        var ps = p.stops && p.stops[i] ? p.stops[i] : s;
-        return "<li><strong>" + esc(s.label || ps.label || "") + "</strong>" +
+      "<h2>Stops</h2><ol class=\"handout-stops\">" + (p.stops || []).map(function (ps, i) {
+        var txt = hstops[i];
+        var line = typeof txt === "string" ? esc(txt) : "<strong>" + esc(ps.label || "") + "</strong>" + (ps.bridge ? ": " + esc(ps.bridge) : "");
+        return "<li>" + line +
           '<span class="handout-where">' + esc((ps.page || "").replace(/\?.*$/, "") + (anchorOf(ps) ? "#" + anchorOf(ps) : "")) + "</span>" +
-          (s.bridge || s.text ? "<br>" + esc(s.bridge || s.text) : "") + "</li>";
+          (ps.cites && ps.cites.length ? '<span class="handout-src">' + citeLine(ps.cites) + "</span>" : "") + "</li>";
       }).join("") + "</ol>" +
+      (hstops.length && p.stops && hstops.length !== p.stops.length ? '<p class="none">(The handout lists ' + hstops.length + " stops; the pathway has " + p.stops.length + ".)</p>" : "") +
       (qs.length ? "<h2>Questions for discussion</h2><ol>" + qs.map(function (q) { return "<li>" + esc(q) + "</li>"; }).join("") + "</ol>" : "") +
-      (p.closing_question ? '<aside class="ask-why"><h2>Ask Why</h2><p>' + esc(p.closing_question) + "</p></aside>" : "") +
+      (closing ? '<aside class="ask-why"><h2>Ask Why</h2><p>' + esc(closing) + "</p></aside>" : "") +
       '<p class="handout-actions"><button type="button" class="btn" onclick="window.print()">Print this handout</button> ' +
       '<a href="pathways.html#' + esc(p.id) + '">Back to pathways</a></p>' +
       '<p class="handout-foot">Online: open the Ask Why site and choose Pathways, then &ldquo;' + esc(p.title) + "&rdquo;.</p>";

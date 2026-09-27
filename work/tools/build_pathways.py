@@ -21,7 +21,10 @@ C = {
     "A-032": cite("powers-report-sec", None, "pp. 43-44, II.A Formation of Chewco, lines 1702-1727", "A-032"),
     "A-083": cite("enron-8k-nov-2001-ex99-1", None, "p. 1, Press release, Nov 8, 2001 (Exhibit 99.1), lines 44-47", "A-083"),
     "B-063": cite("rpt-psi-board", 21, "p. 17, Factual Basis for Findings (High Risk Accounting)", "B-063"),
-    "C-012": cite("hrg-hec-andersen-shredding", 39, "p. 35, Prepared statement of C.E. Andrews", "C-012"),
+    "C-011": cite("hrg-hec-andersen-shredding", 36, "p. 32, Testimony of C.E. Andrews, Andersen (oral)", "C-011"),
+    "B-059": cite("sec-duncan-complaint", 2, "p. 2, Complaint, para. 5 (Defendant)", "B-059"),
+    "G-032": cite("hrg-hfs-enron-investors-pt1", 122, "pp. 113, 115-116, Appendix: 'Remarks of Joseph F. Berardino, Managing Partner - Chief Executive Officer, Andersen' (prepared statement) (PDF pages covered: 119, 121-122)", "G-032"),
+    "C-001": cite("hrg-hec-andersen-shredding", 49, "p. 45, Hearing record exhibit (e-mail dated 10/12/2001 from Nancy A. Temple to Michael C. Odom)", "C-001"),
     "B-055": cite("hrg-commerce-skilling-watkins", 16, "p. 12, Statement of Sherron Watkins", "B-055"),
     "C-076": cite("sox-plaw-html", None, "Sec. 302(a)", "C-076"),
     "G-019": cite("andersen-scotus-full-usreports", 2, "p. 544 U.S. at 697, Reporter's line preceding the opinion", "G-019"),
@@ -63,7 +66,7 @@ p = {
              "Skip ahead to the chapter's summary. Notice what the investigators said about how clearly Enron's public filings described these deals."),
         stop("cast.html", "andrew-fastow", "Cast: Andrew Fastow",
              "The board approved Fastow, Enron's chief financial officer, as the general partner of the LJM partnerships you just read about. Read his outcome closely: the Cast uses exact legal words such as alleged, pleaded guilty, and sentenced.",
-             ["A-040"]),
+             ["A-040", "A-041"]),
         stop("chapters/ch5.html", "november-8-restatement", "Chapter 5: November 8, the restatement",
              "Here Enron told investors not to rely on four years of its audited financial statements. As you read, connect the corrections to the entities from Chapter 3.",
              ["A-083"]),
@@ -179,13 +182,16 @@ p = {
         stop("chapters/ch6.html", "the-fees", "Chapter 6: The fees",
              "Notice that the sources give different fee totals, and that Andersen disputed calling some of the work consulting. Why would that label matter?"),
         stop("cast.html", "joseph-berardino", "Cast: Joseph Berardino",
-             "Andersen's chief executive. Before reading his entry, look back at \"Errors and what the examiner concluded\" in Chapter 6. Then read what the library records about him, and what it does not show."),
+             "Andersen's chief executive. Before reading his entry, look back at \"Errors and what the examiner concluded\" in Chapter 6. Then read what the library records about him, and what it does not show.",
+             ["G-032"]),
         stop("chapters/ch6.html", "the-shredding", "Chapter 6: The shredding",
              "The witnesses did not all agree about what happened. As you read, keep track of who said what, and in what setting."),
         stop("cast.html", "david-duncan", "Cast: David Duncan",
-             "Andersen's lead partner on Enron. Read his outcome carefully, including what the library does not yet show."),
+             "Andersen's lead partner on Enron. Read his outcome carefully, including what the library does not yet show.",
+             ["B-059"]),
         stop("cast.html", "nancy-temple", "Cast: Nancy Temple",
-             "The Andersen lawyer whose e-mail about the document policy is quoted in Chapter 6. Notice what the Cast says about charges."),
+             "The Andersen lawyer whose e-mail about the document policy is quoted in Chapter 6. Notice what the Cast says about charges.",
+             ["C-001"]),
         stop("chapters/ch6.html", "conviction-collapse-reversal", "Chapter 6: Conviction, collapse, reversal",
              "The Supreme Court reversed Andersen's conviction in 2005. Read exactly why, and what the reversal did and did not decide. The numbered notes link to the Court's opinion in the source library.",
              ["G-019"]),
@@ -229,7 +235,7 @@ p = {
              "Chapter 6 described Andersen's fees for audit work and for other work. Read which services the law now limits, and why."),
         stop("why-it-matters.html", "whistleblowers", "Why This Matters: document destruction and whistleblowers",
              "Two earlier stories meet here: the shredding at Andersen, and the letter Sherron Watkins testified she sent to Lay. Ask how each might have gone differently under the new rules.",
-             ["C-012", "B-055"]),
+             ["C-011", "B-055"]),
         stop("why-it-matters.html", "today", "Why This Matters: what it means for you",
              "Finish with the part written for you. Notice where the page says the library's documents stop."),
     ],
@@ -281,18 +287,74 @@ p["handout"] = handout(p, [
 ])
 P.append(p)
 
-# 6. Reading the Footnotes: drafted last (see footnotes_pathway() below).
-FOOTNOTES = None
-fp = os.path.join(ROOT, "work", "drafts", "pathway-footnotes.json")
-if os.path.exists(fp):
-    FOOTNOTES = json.load(open(fp))
-    for c in FOOTNOTES.pop("_cites", {}).items():
-        C[c[0]] = c[1]
-    for s in FOOTNOTES["stops"]:
-        if s.get("cites") and isinstance(s["cites"][0], str):
-            s["cites"] = [C[c] for c in s["cites"]]
-    FOOTNOTES["handout"] = handout(FOOTNOTES, FOOTNOTES.pop("discussion_questions"))
-    P.insert(5, FOOTNOTES)
+# 6. Reading the Footnotes (drafted last, from work/facts/footnotes-map.md) --
+# Stops on Notes 1, 3, 4, 9, 15 and the Q3 2001 10-Q need NEW sections on
+# footnote.html (see anchor requests). Each such stop carries a `fallback`
+# stop on an existing page, so the pathway works before those sections exist.
+C.update({
+    "N-001": cite("enron-10k-2000", None, "Form 10-K 2000, Note 1 Summary of Significant Accounting Policies, lines 4091-4099", "N-001"),
+    "N-005": cite("enron-10k-2000", None, "Form 10-K 2000, Note 3 Price Risk Management Activities, Fair Value, lines 4431-4452", "N-005"),
+    "N-006": cite("enron-10k-2000", None, "Form 10-K 2000, Note 3, Notional Amounts and Terms, lines 4415-4421", "N-006"),
+    "N-011": cite("enron-10k-2000", None, "Form 10-K 2000, Note 4 Merchant Activities, lines 4634-4674", "N-011"),
+    "N-014": cite("enron-10k-2000", None, "Form 10-K 2000, Note 9 Unconsolidated Equity Affiliates (tables), lines 5014-5078", "N-014"),
+    "A-051": cite("powers-report-sec", None, "p. 97, V. The Raptors (introduction), lines 3592-3612", "A-051"),
+    "N-015": cite("enron-10k-2000", None, "Form 10-K 2000, Note 9 Unconsolidated Equity Affiliates, lines 5122-5140", "N-015"),
+    "N-019": cite("rpt-sga-watchdogs", 33, "p. 29, SEC's review of Enron's filings", "N-019"),
+    "N-024": cite("enron-10k-2000", None, "Form 10-K 2000, Note 15 Commitments, lines 5811-5856", "N-024"),
+    "N-026": cite("enron-10q-q3-2001", None, "pp. 22-23, Note 4 Related Party Transactions - Portfolio SPEs, lines 1543-1563", "N-026"),
+    "N-029": cite("rpt-psi-board", 52, "p. 48, Finding (4) - Inadequate Public Disclosure", "N-029"),
+    "N-032": cite("enron-8k-nov-2001", None, "pp. 1, 4-5, Item 5; 2.A Restatement Number 1, lines 51-72, 263-284", "N-032"),
+    "C-054": cite("rpt-sga-watchdogs", 32, "p. 28, Part One II (SEC review of Enron filings)", "C-054"),
+})
+
+def fb(page, anchor):
+    return {"page": page, "anchor": anchor}
+
+p = {
+    "id": "footnotes",
+    "title": "Reading the Footnotes",
+    "for_whom": "Anyone learning to read an annual report",
+    "minutes": 40,
+    "intro": "The notes at the back of an annual report explain the numbers in front. The famous Note 16 was only one piece of the story: other notes in Enron's 2000 annual report held other pieces, and later filings and investigations showed what they left out. This pathway reads several notes together, then compares them with what came later.",
+    "stops": [
+        stop("glossary.html", "notes-to-financial-statements", "Glossary: notes to the financial statements",
+             "Start with what notes are for. As you go, ask of each note two questions: what could a careful reader learn here, and what could no reader learn?"),
+        dict(stop("footnote.html", "note-1", "Note 1: accounting policies",
+             "Note 1 said Enron's statements included \"all subsidiaries controlled by Enron Corp.\" Keep the word \"controlled\" in mind: whether Enron had to consolidate an entity depended on rules about who controlled it and who bore its risk.",
+             ["N-001"]), fallback=fb("chapters/ch2.html", "what-mark-to-market-means")),
+        dict(stop("footnote.html", "note-3", "Note 3: the trading book",
+             "Note 3 reported about $21.5 billion of trading assets at fair value, and cautioned that the face amounts of its contracts did not measure its real exposure to risk. Ask how a reader could tell how much of that value came from Enron's own estimates.",
+             ["N-005", "N-006"]), fallback=fb("glossary.html", "price-risk-management")),
+        dict(stop("footnote.html", "note-4", "Note 4: merchant investments",
+             "Note 4 said these investments were valued using market prices, independent appraisals and cash flow analyses. Compare it with what Chapter 3 says about the Raptors, which were set up to offset losses on the same kind of investment.",
+             ["N-011", "A-051"]), fallback=fb("chapters/ch2.html", "marking-investments")),
+        dict(stop("footnote.html", "note-9", "Note 9: affiliates kept off the books",
+             "Note 9 listed JEDI and Whitewing, each 50% owned and not consolidated. The Senate Governmental Affairs Committee staff later reported that experts pointed to this pattern, just below the level that requires consolidation, as a reason to look closer.",
+             ["N-014", "N-019"]), fallback=fb("chapters/ch3.html", "chewco")),
+        stop("footnote.html", "fn-p0", "Note 16: related party transactions",
+             "Now read the famous note phrase by phrase. Note 9 had already mentioned \"the Related Party\" and pointed ahead to this note; here is what that label covered.",
+             ["N-015"]),
+        dict(stop("footnote.html", "note-15", "Note 15: commitments and guarantees",
+             "Note 15 listed Enron's guarantees and said management did not consider it likely that Enron would have to pay. Ask what a reader would need to know to judge that for themselves.",
+             ["N-024"]), fallback=fb("chapters/ch5.html", "rescue-attempt")),
+        dict(stop("footnote.html", "q3-10q", "The third-quarter 2001 report",
+             "In November 2001, Enron's quarterly report named the Raptors and set out their terms. The Senate subcommittee staff contrasted its nine-page account with the one-page notes of earlier years.",
+             ["N-026", "N-029"]), fallback=fb("chapters/ch5.html", "rescue-attempt")),
+        stop("chapters/ch5.html", "november-8-restatement", "Chapter 5: November 8, the restatement",
+             "Here Enron itself said that three entities should have been consolidated, and that its financial statements for 1997 through 2000 should not be relied upon. Compare that with the wording of Note 1.",
+             ["N-032", "A-083"]),
+        stop("chapters/ch4.html", "watchdogs-outside", "Chapter 4: The watchdogs outside",
+             "Finally, who was supposed to read these notes closely? The Senate staff report said that if the SEC had reviewed Enron's 2000 annual report, items such as Note 16 were likely to have prompted questions.",
+             ["C-054"]),
+    ],
+    "closing_question": "Enron's notes disclosed many facts, yet investigators later found that readers could not see what was going on. Is a disclosure honest if it is accurate but impossible to understand? Who should decide whether a note is clear enough?",
+}
+p["handout"] = handout(p, [
+    "Pick one note from this pathway. List one thing a careful reader could learn from it, and one thing the reader could not learn.",
+    "Several notes pointed to each other (Note 9 to Note 16, for example). Does spreading information across notes help or hinder a reader?",
+    "Compare the one-page Note 16 with the nine-page account in the November 2001 quarterly report. Why might Enron have written more clearly the second time?",
+])
+P.insert(5, p)
 
 out = {
     "_note": "Pathways Designer draft. Stop = {page, anchor, label, bridge, cites?}. 'anchor' is an element id on 'page' ('' = top of page). 'page' may carry ?lens= or ?tag=. Bridges add no new facts; any fact carries card cites (checked chapter citations). See work/drafts/pathway-anchor-requests.md for anchors the site must add.",

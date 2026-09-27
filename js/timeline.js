@@ -71,5 +71,11 @@
         sec.hidden = !sec.querySelector(".tl-item:not([hidden])");
       });
     });
+    // ?tag=legal (e.g. from a pathway) starts with that filter on.
+    var m = /[?&]tag=([a-z-]+)/.exec(location.search);
+    if (m) {
+      var btn = filterHost.querySelector('button[data-tag="' + m[1] + '"]');
+      if (btn) btn.click(); else console.warn("Timeline: unknown tag in URL:", m[1]);
+    }
   }
 })();

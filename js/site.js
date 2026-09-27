@@ -294,6 +294,7 @@
     Array.prototype.forEach.call((root || document).querySelectorAll("figure[data-image]:not([data-ready])"), function (fig) {
       fig.setAttribute("data-ready", "1");
       var id = fig.getAttribute("data-image");
+      if (!fig.id && !document.getElementById("fig-" + id)) fig.id = "fig-" + id; // anchor: #fig-IMAGE_ID
       var img = findImage(id);
       var existing = fig.querySelector("figcaption");
       if (!img) {
@@ -417,6 +418,30 @@
     });
   }
 
+  // Find the element for an anchor. Exact id first; otherwise a chapter heading or
+  // figure whose id contains the anchor's words in order ("ljm" -> "the-ljm-partnerships",
+  // "november-8-restatement" -> "november-8-the-restatement"). Returns {el, exact}.
+  function resolveAnchor(id) {
+    id = String(id || "").replace(/^#/, "");
+    if (!id) return { el: null, exact: false };
+    var el = document.getElementById(id);
+    if (el) return { el: el, exact: true };
+    var want = slug(id).split("-");
+    var cands = document.querySelectorAll("main h2[id], main h3[id], main figure[id], main section[id]");
+    for (var i = 0; i < cands.length; i++) {
+      var have = cands[i].id.split("-"), k = 0;
+      for (var j = 0; j < have.length && k < want.length; j++) if (have[j] === want[k]) k++;
+      if (k === want.length) return { el: cands[i], exact: false };
+    }
+    return { el: null, exact: false };
+  }
+  function scrollToHashFallback() {
+    var h = decodeURIComponent((location.hash || "").slice(1));
+    if (!h || document.getElementById(h) || /[?&]path=/.test(location.search)) return;
+    var r = resolveAnchor(h);
+    if (r.el) { r.el.scrollIntoView({ block: "start" }); console.info("Anchor #" + h + " resolved to #" + r.el.id); }
+  }
+
   /* ---------- init ---------- */
   function enhance(root) {
     processTerms(root);
@@ -430,6 +455,7 @@
     headingIds();
     if (/[?&]cards\b/.test(location.search)) body.classList.add("show-cards");
     enhance(document);
+    scrollToHashFallback();
 
     document.addEventListener("keydown", function (e) {
       if (e.key === "Escape") { closePopover(true); return; }
@@ -469,7 +495,8 @@
     openPopover: openPopover,
     closePopover: closePopover,
     applyLens: applyLens,
-    slug: slug
+    slug: slug,
+    resolveAnchor: resolveAnchor
   };
   window.applyLens = applyLens;
 

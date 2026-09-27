@@ -131,8 +131,6 @@ def wrap_footnote():
 
 
 # ---------- 3b: Phase 2 (lenses, pathways, new pages) ----------
-P_RE = re.compile(r"<p[\s>][^>]*>|<p>", re.S)
-PARA_RE = re.compile(r"<p(?:\s[^>]*)?>(.*?)</p>", re.S)
 LENS_IDS = ["money", "auditors", "board", "knew"]
 
 
@@ -283,8 +281,7 @@ def static_checks(footnote, usage):
         if not f.exists():
             problems.append(f"{where}: file for '{sid}' missing on disk ({f.relative_to(ROOT)})")
 
-    for n in range(1, 8):
-        rel = f"chapters/ch{n}.html"
+    for rel in [f"chapters/ch{n}.html" for n in range(1, 8)] + ["why-it-matters.html", "banks.html"]:
         page = read(ROOT / rel)
         for sid in re.findall(r'<a class="cite"[^>]*data-src="([^"]*)"', page):
             check_src(rel, sid)

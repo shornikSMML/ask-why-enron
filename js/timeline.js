@@ -18,18 +18,25 @@
     return p.length === 2 ? m + " " + p[0] : m + " " + parseInt(p[2], 10) + ", " + p[0];
   }
   items.sort(function (a, b) { return String(a.date).localeCompare(String(b.date)); });
-  // Stable anchors for pathways: an item's own id if it has one, else "tl-" + date,
-  // with -2, -3... for a second or third item on the same date (in date order).
+  // Stable anchors for pathways: an item's own id if it has one, else "tl-" + date.
+  // Items that share a date get a word from their title (agreed in
+  // work/drafts/pathway-anchor-requests.md), else -2, -3...
+  var SAME_DATE_WORDS = [[/lock ?down|401\(k\)/i, "lockdown"], [/special committee/i, "special-committee"]];
+  var dateCount = {};
+  items.forEach(function (it) { dateCount[it.date] = (dateCount[it.date] || 0) + 1; });
   var usedIds = {};
   function itemId(it) {
     if (it._id) return it._id;
-    var base = it.id ? String(it.id) : "tl-" + String(it.date || "undated"), id = base, k = 2;
+    var base = it.id ? String(it.id) : "tl-" + String(it.date || "undated");
+    if (!it.id && dateCount[it.date] > 1) {
+      for (var i = 0; i < SAME_DATE_WORDS.length; i++) if (SAME_DATE_WORDS[i][0].test(it.title + " " + it.text)) { base += "-" + SAME_DATE_WORDS[i][1]; break; }
+    }
+    var id = base, k = 2;
     while (usedIds[id]) id = base + "-" + k++;
     usedIds[id] = true;
     it._id = id;
     return id;
   }
-
   var years = [], byYear = {}, tags = {};
   items.forEach(function (it) {
     var y = String(it.date).slice(0, 4);

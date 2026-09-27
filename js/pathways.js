@@ -29,13 +29,15 @@
   }
   function anchorOf(stop) { return String(stop.anchor || "").replace(/^#/, ""); }
   // URL for stop n (1-based) of pathway p, relative to the current page.
-  function stopHref(p, n) {
+  function stopHref(p, n, useFallback) {
     var s = p.stops[n - 1];
+    if (useFallback && s.fallback) s = s.fallback;
     var page = String(s.page || "index.html"), hash = "";
     var hi = page.indexOf("#");
     if (hi !== -1) { hash = page.slice(hi + 1); page = page.slice(0, hi); }
     var a = anchorOf(s) || hash;
-    return ROOT + page + (page.indexOf("?") === -1 ? "?" : "&") + "path=" + encodeURIComponent(p.id) + "&stop=" + n + (a ? "#" + encodeURIComponent(a) : "");
+    return ROOT + page + (page.indexOf("?") === -1 ? "?" : "&") + "path=" + encodeURIComponent(p.id) + "&stop=" + n +
+      (useFallback ? "&via=fallback" : "") + (a ? "#" + encodeURIComponent(a) : "");
   }
   // Bridges that state a fact carry card citations: show them as a small source line.
   function citeLine(cites) {
@@ -80,12 +82,19 @@
 
     // Keep the pathway when the reader switches lens or uses in-page links: nothing to do,
     // the query string stays. Scroll to and highlight the stop's target.
-    var a = anchorOf(s) || location.hash.slice(1);
+    var viaFallback = param("via") === "fallback" && s.fallback;
+    var a = anchorOf(viaFallback ? s.fallback : s) || location.hash.slice(1);
     if (a) {
       var r = A.resolveAnchor(a), t = r.el;
-      if (!t) { console.warn("Pathway " + p.id + " stop " + n + ": anchor #" + a + " not found on this page"); return; }
+      if (!t && s.fallback && !viaFallback) {
+        // The stop's section doesn't exist yet: go to the stop's fallback instead.
+        console.info("Pathway " + p.id + " stop " + n + ": #" + a + " not on this page; using the stop's fallback");
+        location.replace(stopHref(p, n, true));
+        return;
+      }
+      if (!t) { console.warn("Pathway " + p.id + " stop " + n + ": anchor #" + a + " not found on this page"); A.pathwayStop = { id: p.id, stop: n, anchor: a, resolved: null }; return; }
       if (!r.exact) console.info("Pathway " + p.id + " stop " + n + ": #" + a + " matched #" + t.id);
-      A.pathwayStop = { id: p.id, stop: n, anchor: a, resolved: t.id, exact: r.exact };
+      A.pathwayStop = { id: p.id, stop: n, anchor: a, resolved: t.id, exact: r.exact, fallback: !!viaFallback };
       if (!/^(chapter|main)$/.test(t.id) && t.tagName !== "ARTICLE") t.classList.add("pw-target");
       if (t.tagName === "DETAILS") t.open = true;
       var go = function () { t.scrollIntoView({ block: "start" }); };

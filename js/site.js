@@ -158,12 +158,12 @@
       a.setAttribute("data-n", n);
       a.id = a.id || "cite-" + n;
       a.textContent = n;
-      a.href = "#note-" + n;
+      a.href = "#endnote-" + n;
       a.setAttribute("aria-label", "Source note " + n);
       a.setAttribute("aria-haspopup", "dialog");
 
       var li = document.createElement("li");
-      li.id = "note-" + n;
+      li.id = "endnote-" + n;
       li.innerHTML = ref + ' <a href="#' + a.id + '" aria-label="Back to text">↩</a>';
       endList.appendChild(li);
 
@@ -403,16 +403,82 @@
     return document.querySelectorAll(name ? '[data-lens~="' + name + '"]' : "[data-lens]").length;
   }
 
-  /* ---------- heading anchors (for pathways and sharing) ---------- */
-  // Every chapter heading without an id gets one from its text:
-  // "The Raptors" -> #the-raptors, "\"Many push limits\"" -> #many-push-limits.
+  /* ---------- anchors (for pathways and sharing) ---------- */
+  // Fixed ids for chapter headings, agreed with the Pathways Designer
+  // (work/drafts/pathway-anchor-requests.md). Keyed by the heading's text; pathways
+  // depend on these exact ids. A heading not in the table gets an id from its text
+  // ("The Raptors" -> #the-raptors) and a console note.
+  var HEADING_IDS = {
+   "ch1": {
+    "Two pipeline companies": "two-pipeline-companies",
+    "Kenneth Lay takes charge": "lay-takes-charge",
+    "\"From the reservoir to the burner tip\"": "reservoir-to-burner-tip",
+    "Growing fast": "growing-fast"
+   },
+   "ch2": {
+    "A trader, not just a pipeline": "a-trader",
+    "Revenue and profit": "revenue-and-profit",
+    "What mark-to-market accounting means": "what-mark-to-market-means",
+    "Marking investments to market": "marking-investments",
+    "Why the balance sheet mattered": "balance-sheet"
+   },
+   "ch3": {
+    "Chewco": "chewco",
+    "The LJM partnerships": "ljm",
+    "Rhythms: a hedge with Enron's own stock": "rhythms",
+    "The Raptors": "raptors",
+    "What it added up to": "what-it-added-up-to"
+   },
+   "ch4": {
+    "\"Many push limits\"": "many-push-limits",
+    "Andersen weighs its client": "andersen-weighs-its-client",
+    "A sudden resignation": "a-sudden-resignation",
+    "Sherron Watkins": "sherron-watkins",
+    "An error comes to light": "an-error-comes-to-light",
+    "The watchdogs outside": "watchdogs-outside"
+   },
+   "ch5": {
+    "October 16: the third quarter": "october-16",
+    "Questions multiply": "questions-multiply",
+    "November 8: the restatement": "november-8-restatement",
+    "A rescue attempt": "rescue-attempt",
+    "The watchdogs": "the-watchdogs",
+    "November 28 to December 2": "november-28-to-december-2",
+    "The tip of the iceberg": "tip-of-the-iceberg"
+   },
+   "ch6": {
+    "Enron's auditor": "enrons-auditor",
+    "The fees": "the-fees",
+    "Errors and what the examiner concluded": "errors-and-examiner",
+    "The shredding": "the-shredding",
+    "Conviction, collapse, reversal": "conviction-collapse-reversal",
+    "The Big Four": "big-four"
+   },
+   "ch7": {
+    "The investigations": "the-investigations",
+    "The trials": "the-trials",
+    "The employees' savings": "employees-savings",
+    "A new law": "a-new-law"
+   }
+  };
   function slug(text) {
     return String(text || "").toLowerCase().replace(/[\u2018\u2019'"\u201c\u201d]/g, "")
       .replace(/&/g, " and ").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 60) || "section";
   }
+  function normHeading(t) { return String(t || "").replace(/[\u201c\u201d]/g, '"').replace(/[\u2018\u2019]/g, "'").replace(/\s+/g, " ").trim(); }
   function headingIds() {
+    var n = parseInt(body.getAttribute("data-chapter"), 10);
+    var table = {};
+    Object.keys(HEADING_IDS["ch" + n] || {}).forEach(function (k) { table[normHeading(k)] = HEADING_IDS["ch" + n][k]; });
+    // the chapter's closing question
+    Array.prototype.forEach.call(document.querySelectorAll("#chapter aside.ask-why:not([id])"), function (a) {
+      if (!document.getElementById("ask-why")) a.id = "ask-why";
+    });
     Array.prototype.forEach.call(document.querySelectorAll("#chapter h2:not([id]), #chapter h3:not([id])"), function (h) {
-      var base = slug(h.textContent), id = base, k = 2;
+      if (h.closest("aside.ask-why")) return;
+      var fixed = table[normHeading(h.textContent)];
+      var base = fixed || slug(h.textContent), id = base, k = 2;
+      if (!fixed && n) console.info("Heading without a fixed id, using #" + base + ": " + h.textContent);
       while (document.getElementById(id)) id = base + "-" + k++;
       h.id = id;
     });

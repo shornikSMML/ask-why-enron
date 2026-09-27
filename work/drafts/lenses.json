@@ -1493,7 +1493,7 @@
           "para_index": 2,
           "para_key": "ch4-p2",
           "para_start": "In February 1999, Arthur Andersen's lead partner on",
-          "text": "The Auditors: \"push limits\" and \"others could have a different view\" describe accounting that Andersen accepted but saw as open to challenge. According to the Senate subcommittee staff, the annotated copy was not given to the Audit Committee, but the risk profile was discussed with it.",
+          "text": "The Auditors: \"push limits\" and \"others could have a different view\" describe accounting that Andersen accepted but saw as open to challenge. According to the Senate subcommittee staff, the annotated copy was not given to the Audit Committee during the meeting, but the risk profile was discussed with it.",
           "cites": [
             {
               "card": "B-063",
@@ -1880,7 +1880,7 @@
         {
           "date": "1999-02-07",
           "who": "Enron's Audit Committee",
-          "what": "Andersen's risk profile was discussed with the committee, according to the Senate subcommittee staff; Duncan's handwritten \"push limits\" note was not given to it.",
+          "what": "Andersen's risk profile was discussed with the committee, according to the Senate subcommittee staff; Duncan's handwritten \"push limits\" note was not given to it during the meeting.",
           "cites": [
             {
               "card": "B-063",

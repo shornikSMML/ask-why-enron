@@ -23,3 +23,11 @@ By the Reform Writer, under brief 34 (`work/briefs/34-reform-revision.md`), usin
 | today (trim) | "the Board may continue to function as before."{{T-042}} | "the Board may continue to function as before."{{T-042@561 U.S. 481, Syllabus, Held 3}} |
 | today (trim) | In GAO's 2006 account of the SEC's definitions, an accelerated filer had at least $75 million in public float, the value of shares held by outside investors; the definitions may have changed since.{{T-050}} | (removed; the accelerated-filer definition goes in the glossary entry instead) |
 | today (label) | {{T-008!gao-06-361@p. 27, table of Section 404 compliance dates#32}} | {{T-008!gao-06-361@p. 27, table#32}} |
+
+## Revision 2 fixes (from "## Revision 2" in factcheck-phase2-reform.md)
+
+| # | Old text | New text |
+|---|---|---|
+| R2-1 | Under the SEC's 2002 rule, those executives also certify that they have evaluated the company's <span class="term" data-term="disclosure-controls">disclosure controls and procedures</span> within 90 days before filing.{{T-004}} | Under the SEC's rules, those executives also certify that they have evaluated the company's <span class="term" data-term="disclosure-controls">disclosure controls and procedures</span>.{{T-004}} |
+| R2-2 | Since 2010, companies that are not accelerated filers no longer need the auditor's attestation, but management's own report is still required.{{T-026}} | Since 2010, companies that are neither accelerated filers nor large accelerated filers no longer need the auditor's attestation, and since 2012 neither do emerging growth companies,{{T-026}}{{T-027}} but management's own report is still required. |
+| R2-3 | other audit partners rotate after seven years with a two-year break,{{T-031}} | other audit partners covered by the rule rotate after no more than seven years, with a two-year break,{{T-031}} |

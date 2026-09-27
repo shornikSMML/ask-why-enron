@@ -110,3 +110,42 @@ with:
 
 - **`why-it-matters.html`: PASS once the two fixes above are applied.** Nothing else is outstanding. A re-check needs only those two sentences.
 - **`diagram-sox-map.svg` / `-narrow.svg`: PASS.**
+
+## Revision 2
+
+This section checks the revision-2 update to "Why This Matters to You", against `work/facts/fixes-revision2-reform.md` and the current source.
+- I read every changed or added sentence against its T-card, and against the source where the card was not enough: 33-8238 lines 24, 316-330; GAO-06-361 PDF 11 and 32; GAO-08-163 PDF 19; *Free Enterprise Fund* PDF 1, 5, 6, 16, 32-33 (Part IV heading at line 1375); 15 U.S.C. 78u-6 lines 14, 32-34.
+- Rebuilding the page from its source reproduces `why-it-matters.html` exactly: 104 citations to 95 cards, all checked OK or FIXED. The new citations with an override source or locator resolve to the right file and PDF page: T-008 to gao-06-361 PDF 32; T-022 to gao-08-163 PDF 19; T-039 to PDF 1; T-040 to PDF 6; T-041 to PDF 16; T-042 to PDF 32 (opinion) and PDF 5 (Syllabus).
+- As instructed, I ignored the four new glossary terms.
+- The two earlier Final fixes have now been applied: the cooling-off sentence and the B-016 label (item 5 in the Final section). Both re-check OK and are logged as corrections rows 196-197.
+
+### How the page follows the revision-2 rulings
+
+| Ruling | Verdict |
+|---|---|
+| 404 compliance dates | **OK.** The page says the 2003 rule "first set" June 15, 2004, that the SEC "moved the dates" in February 2004 to November 15, 2004 and July 15, 2005 (GAO-06-361 p. 27), and that more extensions followed by spring 2006. |
+| Syllabus and opinion labels | **OK.** The facts behind the suit and the 5-4 line-up are labeled "According to the Syllabus" and cited to the Syllabus pages. The holding is quoted from the opinion (p. 492, Part III). Removal at will and the Board's validity are cited to the opinion, pp. 508-509, Part IV. "Continue to function as before" is given "In the Syllabus's words". The Syllabus is also explained correctly. |
+| Proposals kept as proposals | **OK.** The page says "if adopted by the SEC ... in 2006 these were proposals, not law." |
+| "10 to 30 percent, in total" | **OK.** It includes "voluntarily" and "sanctions over $1 million". |
+| "Nine categories" wording | **OK.** The page says: "its 2003 rule release counts the Act's list, including the catch-all, as 'nine categories'", next to the 704 report's "eight". The main sentence keeps "eight named ... plus any other service the PCAOB bans by rule". |
+| Nothing about the orders' contents | **OK.** Nothing on the page describes what the April 2003 orders contained or names SSAE No. 10. |
+
+The quotes are verbatim: T-022, T-023, T-026, T-041, the T-042 Syllabus quote, T-046 and T-053. AS 2201 is presented as the "current version" of AS No. 5, as ruled.
+
+### Findings
+
+| # | Location | Problem | Source | Required fix | Severity |
+|---|---|---|---|---|---|
+| R2-1 | `#s302` "What it means for you": "Under the SEC's 2002 rule, those executives also certify that they have evaluated the company's disclosure controls and procedures within 90 days before filing.{{T-004}}" | Out of date in a "for you" paragraph. The SEC's June 2003 rule changed the evaluation date for disclosure controls to "as of the end of the period" covered by the report. The 90-day window no longer applied after 2003. | sec-33-8238 III, "Final Disclosure Requirements", line 330: "We are adopting as proposed the change of the evaluation date for disclosure controls to 'as of the end of the period' covered by the quarterly or annual report." | Replace with: "Under the SEC's rules, those executives also certify that they have evaluated the company's <span class="term" data-term="disclosure-controls">disclosure controls and procedures</span>.{{T-004}}" If the writer wants to mention the timing, Reader D must first make a card for 33-8238 line 330; don't cite T-004 for it. | medium |
+| R2-2 | `#s404` "What it means for you": "Since 2010, companies that are not accelerated filers no longer need the auditor's attestation{{T-026}}" | Can be misread. In SEC terms a "large accelerated filer" is a separate category from an "accelerated filer" (T-050), so "not accelerated filers" could seem to include the largest companies. The statute says "neither a 'large accelerated filer' nor an 'accelerated filer'". The sentence also leaves out the 2012 emerging-growth-company exemption. | usc-15-7262-2024 (c), line 19; (b), line 17 | Write: "Since 2010, companies that are neither accelerated filers nor large accelerated filers no longer need the auditor's attestation, and since 2012 neither do emerging growth companies,{{T-026}}{{T-027}} but management's own report is still required." | medium |
+| R2-3 | `#independence` "What it means for you": "other audit partners rotate after seven years with a two-year break,{{T-031}}" | Slightly broader than the rule. It covers only "partners subject to the rotation requirements", who rotate "after no more than seven years". | sec-33-8183 line 370 | Write: "other audit partners covered by the rule rotate after no more than seven years, with a two-year break," | low |
+
+### Notes (no fix required)
+
+- **The `accelerated-filer` glossary entry** (which replaces the removed T-050 sentence): it must present the $75 million / $700 million public-float thresholds as the SEC's December 2005 definitions as GAO described them (T-050), not as today's rule.
+- **"By spring 2006, GAO reported, the SEC had extended the smaller companies' deadline several more times"** is supported by GAO-06-361 p. 6 ("subsequently extended the deadline several times, with the latest extension to July 15, 2007"). GAO is describing SEC actions here, so "reported" is acceptable.
+- **`#pcaob` "for you":** dropping the "under the 2002 law" hedge is acceptable now. The *Free Enterprise Fund* opinion (pp. 508-509) confirms the Board continues to operate, and the sentence says only that work "could be inspected".
+
+### Verdict (Revision 2)
+
+**`why-it-matters.html`: PASS once R2-1 and R2-2 are fixed (medium). R2-3 is a low fix.** Nothing else is outstanding. A re-check needs only those three sentences.

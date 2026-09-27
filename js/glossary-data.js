@@ -1623,5 +1623,77 @@ window.GLOSSARY = {
    "credit-rating",
    "investment-grade"
   ]
+ },
+ "disclosure-controls": {
+  "term": "Disclosure controls and procedures",
+  "short": "A company's routines for making sure the information it must report to investors is gathered, checked and reported on time.",
+  "long": "Disclosure controls cover everything a company must tell investors, not just the accounting numbers. The SEC defined the term in its 2002 rule on CEO and CFO certification, which requires those officers to say they are responsible for these controls and have evaluated them. It is like a newsroom's fact-checking routine before a story goes out.",
+  "see_also": [
+   "internal-control",
+   "chief-executive-officer",
+   "sarbanes-oxley"
+  ],
+  "cites": [
+   {
+    "source_id": "sec-33-8124-certification-final-rule",
+    "page": null,
+    "loc": "II.A Rule Requirements",
+    "card": "T-004"
+   }
+  ]
+ },
+ "material-weakness": {
+  "term": "Material weakness",
+  "short": "A flaw in a company's internal controls serious enough that a material error in its financial statements might not be prevented or caught in time.",
+  "long": "A material weakness is the most serious kind of control problem. Under the SEC's 2003 rule on internal control reports, management may not call its controls effective if even one exists, and must disclose any it finds. It is like a smoke detector with a dead battery: nothing may be burning, but a fire would go unnoticed.",
+  "see_also": [
+   "internal-control",
+   "material",
+   "attestation"
+  ],
+  "cites": [
+   {
+    "source_id": "sec-33-8238-icfr-final-rule",
+    "page": null,
+    "loc": "II.B.3 Final Rules",
+    "card": "T-009"
+   }
+  ]
+ },
+ "accelerated-filer": {
+  "term": "Accelerated filer",
+  "short": "An SEC category for larger public companies, based on the market value of shares held by outside investors (the \"public float\").",
+  "long": "Larger companies must file reports faster and meet some requirements sooner. As GAO described the SEC's definitions in 2006, an accelerated filer had at least $75 million in public float and a \"large accelerated filer\" $700 million or more; these amounts may have changed since. The idea is like a tax bracket: the bigger you are, the more rules apply.",
+  "see_also": [
+   "sec",
+   "internal-control",
+   "emerging-growth-company"
+  ],
+  "cites": [
+   {
+    "source_id": "gao-06-361",
+    "page": 9,
+    "loc": "p. 4, Results in Brief, fn. 7",
+    "card": "T-050"
+   }
+  ]
+ },
+ "emerging-growth-company": {
+  "term": "Emerging growth company",
+  "short": "A category of newer, smaller public companies that the law gives lighter requirements for a time.",
+  "long": "The category lets younger companies grow into the full set of rules. Since a 2012 amendment, the auditor's attestation on internal controls under Section 404(b) of the Sarbanes-Oxley Act does not apply to them. The library does not include the legal definition of the category.",
+  "see_also": [
+   "attestation",
+   "sarbanes-oxley",
+   "accelerated-filer"
+  ],
+  "cites": [
+   {
+    "source_id": "usc-15-7262-2024",
+    "page": null,
+    "loc": "15 U.S.C. 7262(b); 2012 amendment note",
+    "card": "T-027"
+   }
+  ]
  }
 };

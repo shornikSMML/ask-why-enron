@@ -329,8 +329,8 @@
     "suggested_chapter": "Phase 2: Why This Matters to You",
     "credit_line": "Chart: Ask Why site team. Sources: Sarbanes-Oxley Act of 2002; congressional reports",
     "retrieved": "2026-09-27",
-    "sha256": "25828264816292e66af1d133bc312c56e7f41da8ebdc0c6f8eb7009c3587d11b",
-    "narrow_sha256": "a1aa660c1b8c7d4fe6b9e1b7aca049362f171d52bcc3dc1ef6014918a5a494bc",
+    "sha256": "27290af245520b3289daf4a927aa96c6d02245787fd4cdd7b662ed1dca7a2fa1",
+    "narrow_sha256": "855e5dc9078d5b3259f7699cd57520c9e349a74acafd523f15f7577a91f12c18",
     "fact_cards": [
       "S-003",
       "S-004",
@@ -361,8 +361,9 @@
       "S-070",
       "S-074",
       "S-075",
-      "S-076"
+      "S-076",
+      "C-079"
     ],
-    "notes": "Row 1: problem S-044 (committee quoting Breeden: 'growing doubt ... believable'); §906 statement S-048; §302 S-043; §906 penalties ($1M/10 yrs knowing, $5M/20 yrs willful) from S-048 notes, re-read in the statute text (sox-plaw-html lines 3900-3915); fines not shown, only prison terms. Row 2: problem S-050; requirements S-049, S-051. Row 3: problem S-014, S-017; requirements S-004, S-006, S-008, S-010 (higher fines only for intentional/knowing/reckless conduct or repeated negligence, per the checker's fix), S-011. Row 4: problem S-026, S-027, S-031 (LaFalce's views), S-038 (Breeden); §201 wording follows ruling 1 ('eight named ... plus any other service the PCAOB bans by rule'), card S-042; §202 S-033; §203 rotation per S-034 (the committee chose partner rotation) and §207 study S-035, with no rotation period shown because no S-card gives it; §206 S-037. Row 5: problem S-065, S-066, S-070; §802 'two new criminal anti-shredding provisions' S-065, 5-year work-paper rule from S-006 notes, re-read in the statute (line 3512); §806 S-069; §807 25 years S-075, with the 10-year Senate description S-076, both shown and the change not explained, per ruling 3; §1107 S-074. The problem column is kept generic and names no person. The Lay loan figure (ruling 4) and §402 are not used."
+    "notes": "Row 1: problem S-044 (committee quoting Breeden: 'growing doubt ... believable'); §906 statement S-048; §302 S-043; §906 penalties ($1M/10 yrs knowing, $5M/20 yrs willful) from S-048 notes, re-read in the statute text (sox-plaw-html lines 3900-3915); fines not shown, only prison terms. Row 2: problem S-050; requirements S-049, S-051. Row 3: problem S-014, S-017; requirements S-004, S-006, S-008, S-010 (higher fines only for intentional/knowing/reckless conduct or repeated negligence, per the checker's fix), S-011. Row 4: problem S-026, S-027, S-031 (LaFalce's views), S-038 (Breeden); §201 wording follows ruling 1 ('eight named ... plus any other service the PCAOB bans by rule'), card S-042; §202 S-033; §203 rotation per S-034 (the committee chose partner rotation) and §207 study S-035, with no rotation period shown because no S-card gives it; §206 S-037. Row 5: problem S-065, S-066, S-070; §802 'two new criminal anti-shredding provisions' S-065, 5-year work-paper rule from S-006 notes, re-read in the statute (line 3512); §806 S-069; §807 25 years S-075, with the 10-year Senate description S-076, both shown and the change not explained, per ruling 3; §1107 S-074. The problem column is kept generic and names no person. The Lay loan figure (ruling 4) and §402 are not used. Revised 2026-09-27 per factcheck-phase2-reform.md items 15-18: row 2 now says 'a public company's' (banks had a similar rule since 1991, S-050); §806 now says court only if no Labor decision in 180 days (S-069; statute 1514A(b)(1)(B)); §202 adds 'with a small exception' (S-033); §802 now separates its two crimes: destroying or falsifying records, up to 20 years, and auditors failing to keep work papers for 5 years (C-079; statute lines 3495-3515). Item 19, the page figcaption, is the Site Builder's to fix, not this diagram's."
   }
 ]

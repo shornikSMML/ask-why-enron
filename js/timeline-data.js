@@ -5,7 +5,7 @@ window.TIMELINE = [
  {
   "date": "1985-07-01",
   "title": "InterNorth buys Houston Natural Gas",
-  "text": "InterNorth, an Omaha pipeline company, bought Houston Natural Gas for $2.4 billion in cash. The combined pipeline system, about 37,000 miles long, was the largest in the United States.",
+  "text": "InterNorth, an Omaha pipeline company, bought Houston Natural Gas for $2.4 billion in cash, creating the largest natural gas pipeline system in the United States, about 37,000 miles long. Arthur Andersen, which had audited InterNorth, became the combined company's auditor.",
   "cites": [
    {
     "source_id": "rpt-jct-vol1",
@@ -18,18 +18,7 @@ window.TIMELINE = [
     "page": 88,
     "loc": "p. 60, Part Two, II.B.1",
     "card": "A-004"
-   }
-  ],
-  "tags": [
-   "company"
-  ],
-  "epilogue": false
- },
- {
-  "date": "1985",
-  "title": "Arthur Andersen becomes the auditor",
-  "text": "Arthur Andersen, which had audited InterNorth, became the auditor of the combined company.",
-  "cites": [
+   },
    {
     "source_id": "batson-final-app-b-part1",
     "page": 3,
@@ -38,6 +27,7 @@ window.TIMELINE = [
    }
   ],
   "tags": [
+   "company",
    "auditors"
   ],
   "epilogue": false
@@ -633,19 +623,25 @@ window.TIMELINE = [
   "epilogue": false
  },
  {
-  "date": "2001-10-12",
-  "title": "An e-mail about document retention",
-  "text": "Andersen in-house lawyer Nancy Temple e-mailed a partner suggesting the Enron team be reminded of the firm's document-retention policy.",
+  "date": "2001-10",
+  "title": "The board forms a special committee",
+  "text": "The board formed a special committee, chaired by law school dean William Powers Jr., to investigate. Its report is dated February 1, 2002.",
   "cites": [
    {
-    "source_id": "hrg-hec-andersen-shredding",
-    "page": 49,
-    "loc": "p. 45, Hearing record exhibit (e-mail dated 10/12/2001 from Nancy A. Temple to Michael C. Odom)",
-    "card": "C-001"
+    "source_id": "powers-report-sec",
+    "page": 39,
+    "loc": "pp. 31-34, Introduction - Formation of the Committee; The Committee's Investigation",
+    "card": "A-066"
+   },
+   {
+    "source_id": "hrg-commerce-lay-powers",
+    "page": 31,
+    "loc": "p. 27, Statement of William C. Powers, Jr.",
+    "card": "B-067"
    }
   ],
   "tags": [
-   "auditors"
+   "company"
   ],
   "epilogue": false
  },
@@ -705,7 +701,7 @@ window.TIMELINE = [
  {
   "date": "2001-10-23",
   "title": "Shredding at Andersen",
-  "text": "Andersen testified that David Duncan called an urgent meeting of the Enron audit team and organized a rushed effort to shred or otherwise dispose of Enron documents. Duncan's account, as summarized by a House subcommittee chairman, was that he was following the retention policy.",
+  "text": "Andersen testified that David Duncan called an urgent meeting of the Enron audit team and organized a rushed effort to shred or otherwise dispose of Enron documents. Duncan's account, as summarized by a House subcommittee chairman, was that he was following the firm's retention policy, which Andersen lawyer Nancy Temple had suggested in an October 12 e-mail that the team be reminded of.",
   "cites": [
    {
     "source_id": "hrg-hec-andersen-shredding",
@@ -718,33 +714,16 @@ window.TIMELINE = [
     "page": 33,
     "loc": "p. 29, Rep. Greenwood's summary of staff interview with Duncan",
     "card": "C-005"
+   },
+   {
+    "source_id": "hrg-hec-andersen-shredding",
+    "page": 49,
+    "loc": "p. 45, Hearing record exhibit (e-mail dated 10/12/2001 from Nancy A. Temple to Michael C. Odom)",
+    "card": "C-001"
    }
   ],
   "tags": [
    "auditors"
-  ],
-  "epilogue": false
- },
- {
-  "date": "2001-10",
-  "title": "The board forms a special committee",
-  "text": "The board formed a special committee, chaired by law school dean William Powers Jr., to investigate. Its report is dated February 1, 2002.",
-  "cites": [
-   {
-    "source_id": "powers-report-sec",
-    "page": 39,
-    "loc": "pp. 31-34, Introduction - Formation of the Committee; The Committee's Investigation",
-    "card": "A-066"
-   },
-   {
-    "source_id": "hrg-commerce-lay-powers",
-    "page": 31,
-    "loc": "p. 27, Statement of William C. Powers, Jr.",
-    "card": "B-067"
-   }
-  ],
-  "tags": [
-   "company"
   ],
   "epilogue": false
  },
@@ -969,7 +948,7 @@ window.TIMELINE = [
  {
   "date": "2002-03-07",
   "title": "Andersen is indicted",
-  "text": "A federal grand jury indicted Andersen for obstruction of justice over the destruction of documents. It was then the fourth-largest U.S. accounting firm, auditing about 2,400 public companies.",
+  "text": "A federal grand jury indicted Andersen on one count of obstruction of justice, alleging it had persuaded its employees to withhold and destroy records. It was then the fourth-largest U.S. accounting firm, auditing about 2,400 public companies.",
   "cites": [
    {
     "source_id": "gao-03-864",
@@ -982,6 +961,12 @@ window.TIMELINE = [
     "page": 61,
     "loc": "p. 59, III.B Andersen's Conviction and Current Status",
     "card": "C-038"
+   },
+   {
+    "source_id": "doj-andersen-indictment-2002",
+    "page": "1, 6-7",
+    "loc": "pp. 1, 6-7, Caption; filing stamp; 'The Charge: Obstruction of Justice', para. 13",
+    "card": "G-015"
    }
   ],
   "tags": [
@@ -991,49 +976,9 @@ window.TIMELINE = [
   "epilogue": false
  },
  {
-  "date": "2002-05-07",
-  "title": "Directors testify to the Senate",
-  "text": "Five Enron directors testified under oath to the Senate Permanent Subcommittee on Investigations. The subcommittee reported that all five rejected any share of responsibility for Enron's collapse.",
-  "cites": [
-   {
-    "source_id": "rpt-psi-board",
-    "page": 5,
-    "loc": "p. 1, Subcommittee Investigation",
-    "card": "B-073"
-   },
-   {
-    "source_id": "rpt-psi-board",
-    "page": 18,
-    "loc": "p. 14, Factual Basis for Findings",
-    "card": "B-074"
-   }
-  ],
-  "tags": [
-   "government"
-  ],
-  "epilogue": false
- },
- {
-  "date": "2002-05-24",
-  "title": "A bankruptcy examiner is appointed",
-  "text": "The bankruptcy court approved Neal Batson as examiner, to investigate Enron's special purpose entity deals and the people and institutions involved.",
-  "cites": [
-   {
-    "source_id": "batson-final",
-    "page": 4,
-    "loc": "p. 1, I.A Introduction - Background",
-    "card": "A-095"
-   }
-  ],
-  "tags": [
-   "legal"
-  ],
-  "epilogue": false
- },
- {
   "date": "2002-06-15",
   "title": "Andersen is convicted",
-  "text": "A jury convicted Andersen of obstruction of justice. Andersen told the SEC it would stop practicing before the agency, which meant it could no longer audit public companies, by August 31, 2002. (The conviction was reversed in 2005.)",
+  "text": "After deliberating for seven days, declaring itself deadlocked and deliberating three more, according to the Supreme Court, a jury convicted Andersen of obstruction of justice. Andersen told the SEC it would stop practicing before the agency, which meant it could no longer audit public companies, by August 31, 2002. (The conviction was reversed in 2005.)",
   "cites": [
    {
     "source_id": "batson-final-app-b-part1",
@@ -1046,6 +991,12 @@ window.TIMELINE = [
     "page": 62,
     "loc": "p. 60, III.B Current Status of Andersen",
     "card": "C-040"
+   },
+   {
+    "source_id": "andersen-scotus-full-usreports",
+    "page": 7,
+    "loc": "544 U.S. at 702, Opinion of the Court, background",
+    "card": "G-022"
    }
   ],
   "tags": [
@@ -1056,14 +1007,26 @@ window.TIMELINE = [
  },
  {
   "date": "2002-07-08",
-  "title": "Senate report on the board",
-  "text": "The Senate Permanent Subcommittee on Investigations found that Enron's board failed to safeguard shareholders and contributed to the collapse.",
+  "title": "Senate hearing and report on the board",
+  "text": "On May 7, five Enron directors testified under oath to the Senate Permanent Subcommittee on Investigations, and the subcommittee reported that all five rejected any share of responsibility. Its July report found that Enron's board failed to safeguard shareholders and contributed to the collapse.",
   "cites": [
    {
     "source_id": "rpt-psi-board",
     "page": 7,
     "loc": "p. 3, Subcommittee Findings (1) Fiduciary Failure",
     "card": "B-071"
+   },
+   {
+    "source_id": "rpt-psi-board",
+    "page": 5,
+    "loc": "p. 1, Subcommittee Investigation",
+    "card": "B-073"
+   },
+   {
+    "source_id": "rpt-psi-board",
+    "page": 18,
+    "loc": "p. 14, Factual Basis for Findings",
+    "card": "B-074"
    }
   ],
   "tags": [
@@ -1110,13 +1073,25 @@ window.TIMELINE = [
  {
   "date": "2002-08-21",
   "title": "Kopper pleads guilty",
-  "text": "Michael Kopper pleaded guilty to conspiracy to commit wire fraud and money laundering, according to the SEC, and settled the SEC's civil case.",
+  "text": "Michael Kopper pleaded guilty to conspiracy to commit wire fraud and money laundering, according to the SEC, and settled the SEC's civil case. The Justice Department said he agreed to forfeit $12 million to cover both cases.",
   "cites": [
    {
     "source_id": "sec-fastow-complaint",
     "page": null,
     "loc": "SEC v. Fastow Complaint, para. 9",
     "card": "B-039"
+   },
+   {
+    "source_id": "doj-dag-kopper-plea-transcript-2002",
+    "page": null,
+    "loc": "News conference transcript, Thompson opening remarks",
+    "card": "G-011"
+   },
+   {
+    "source_id": "doj-dag-kopper-plea-transcript-2002",
+    "page": null,
+    "loc": "News conference transcript, Thompson remarks and Q&A (Chertoff)",
+    "card": "G-013"
    }
   ],
   "tags": [
@@ -1177,9 +1152,32 @@ window.TIMELINE = [
   "epilogue": false
  },
  {
+  "date": "2003-09-10",
+  "title": "Glisan pleads guilty and goes to prison",
+  "text": "The Justice Department announced that former Enron treasurer Ben Glisan pleaded guilty to conspiracy to commit wire and securities fraud and was sentenced the same day to five years in prison. According to the Justice Department, he admitted that the first Raptor entity was structured to look as if it followed the accounting rules while violating them.",
+  "cites": [
+   {
+    "source_id": "doj-glisan-plea-press-2003",
+    "page": null,
+    "loc": "DOJ press release #492, Sept. 10, 2003, paras. 1-2",
+    "card": "G-006"
+   },
+   {
+    "source_id": "doj-glisan-plea-press-2003",
+    "page": null,
+    "loc": "DOJ press release #492, paras. 4-7",
+    "card": "G-007"
+   }
+  ],
+  "tags": [
+   "legal"
+  ],
+  "epilogue": false
+ },
+ {
   "date": "2003-11-04",
   "title": "The examiner's Final Report",
-  "text": "Batson's Final Report concluded, under a civil standard, that there was sufficient evidence for a fact-finder to conclude that Lay and Skilling breached their duties to Enron.",
+  "text": "Neal Batson, approved by the bankruptcy court as examiner in May 2002, issued his Final Report, concluding under a civil standard that there was sufficient evidence for a fact-finder to conclude that Lay and Skilling breached their duties to Enron.",
   "cites": [
    {
     "source_id": "batson-final-app-d",
@@ -1192,10 +1190,46 @@ window.TIMELINE = [
     "page": 12,
     "loc": "pp. 9-11, I.C Summary of Conclusions",
     "card": "A-097"
+   },
+   {
+    "source_id": "batson-final",
+    "page": 4,
+    "loc": "p. 1, I.A Introduction - Background",
+    "card": "A-095"
    }
   ],
   "tags": [
    "legal"
+  ],
+  "epilogue": false
+ },
+ {
+  "date": "2004-01-14",
+  "title": "Andrew Fastow pleads guilty",
+  "text": "The Justice Department announced that Fastow pleaded guilty to two counts of conspiracy to commit securities and wire fraud and agreed to cooperate, and that his wife, Lea Fastow, had agreed to plead guilty to filing a false tax return. The SEC announced the same day that it had settled its civil case against him.",
+  "cites": [
+   {
+    "source_id": "doj-fastow-plea-press-2004",
+    "page": null,
+    "loc": "DOJ press release #019, Jan. 14, 2004, paras. 1-2 and 'Andrew Fastow Pleads Guilty' section",
+    "card": "G-001"
+   },
+   {
+    "source_id": "doj-fastow-plea-press-2004",
+    "page": null,
+    "loc": "DOJ press release #019, para. 3 and 'Lea Fastow to Plead Guilty' section",
+    "card": "G-005"
+   },
+   {
+    "source_id": "sec-enron-spotlight",
+    "page": null,
+    "loc": "Enron-Related Enforcement Actions list",
+    "card": "B-032"
+   }
+  ],
+  "tags": [
+   "legal",
+   "people"
   ],
   "epilogue": false
  },
@@ -1257,16 +1291,22 @@ window.TIMELINE = [
   "text": "The Court unanimously held that the jury had not been properly instructed on what the crime requires, and reversed. By then Andersen had already stopped auditing public companies.",
   "cites": [
    {
-    "source_id": "andersen-scotus",
-    "page": null,
-    "loc": "Syllabus, Syllabus; header 'Argued April 27, 2005-Decided May 31, 2005'",
-    "card": "C-043"
-   },
-   {
     "source_id": "batson-final-app-b-part1",
     "page": 62,
     "loc": "p. 60, III.B Current Status of Andersen",
     "card": "C-040"
+   },
+   {
+    "source_id": "andersen-scotus-full-usreports",
+    "page": 3,
+    "loc": "544 U.S. at 698, Opinion of the Court (Rehnquist, C.J.)",
+    "card": "G-018"
+   },
+   {
+    "source_id": "andersen-scotus-full-usreports",
+    "page": 2,
+    "loc": "544 U.S. at 697, Reporter's line preceding the opinion",
+    "card": "G-019"
    }
   ],
   "tags": [
@@ -1278,13 +1318,19 @@ window.TIMELINE = [
  {
   "date": "2005-12-28",
   "title": "Causey pleads guilty",
-  "text": "Three weeks before trial, former chief accounting officer Richard Causey pleaded guilty to one count of securities fraud.",
+  "text": "Three weeks before trial, former chief accounting officer Richard Causey pleaded guilty to one count of securities fraud. The Justice Department announced that on November 15, 2006 he was sentenced to 66 months in prison.",
   "cites": [
    {
     "source_id": "skilling-scotus-2010",
     "page": 15,
     "loc": "p. 372, Opinion of the Court, Part I",
     "card": "B-044"
+   },
+   {
+    "source_id": "doj-causey-sentenced-press-2006",
+    "page": null,
+    "loc": "DOJ press release #06-763, Nov. 15, 2006, paras. 1-2",
+    "card": "G-009"
    }
   ],
   "tags": [
@@ -1293,9 +1339,9 @@ window.TIMELINE = [
   "epilogue": false
  },
  {
-  "date": "2006-05",
+  "date": "2006-05-25",
   "title": "Lay and Skilling are convicted",
-  "text": "After a four-month trial, a jury convicted Lay of every count against him at that trial, and Skilling on 19 counts while acquitting him on nine insider-trading counts. Skilling was later sentenced to 292 months in prison.",
+  "text": "After a four-month trial, a jury convicted Lay of every count against him at that trial, and Skilling on 19 counts while acquitting him on nine insider-trading counts. On October 23, 2006 Skilling was sentenced to 292 months in prison.",
   "cites": [
    {
     "source_id": "ca5-skilling-2009",
@@ -1314,6 +1360,12 @@ window.TIMELINE = [
     "page": 16,
     "loc": "p. 16, II. Trial and Sentence",
     "card": "B-026"
+   },
+   {
+    "source_id": "doj-skilling-sentencing-agreement-2013",
+    "page": "1-2",
+    "loc": "pp. 1-2, Sentencing Agreement, 'Background', paras. 1-6 (Doc. 1316-1, Cr. No. 4:04-cr-25)",
+    "card": "G-026"
    }
   ],
   "tags": [
@@ -1340,9 +1392,38 @@ window.TIMELINE = [
   "epilogue": false
  },
  {
+  "date": "2006-09-26",
+  "title": "Fastow's sentence",
+  "text": "The Justice Department announced that Fastow had been sentenced to six years in prison; his 2004 plea agreement had called for 10. The same release said David Delainey had been sentenced on September 18 to 30 months for insider trading.",
+  "cites": [
+   {
+    "source_id": "doj-fastow-sentenced-press-2006",
+    "page": null,
+    "loc": "DOJ press release #06-647, Sept. 26, 2006, paras. 1-2",
+    "card": "G-004"
+   },
+   {
+    "source_id": "doj-fastow-plea-press-2004",
+    "page": null,
+    "loc": "DOJ press release #019, para. 2; 'Andrew Fastow Pleads Guilty' section",
+    "card": "G-002"
+   },
+   {
+    "source_id": "doj-fastow-sentenced-press-2006",
+    "page": null,
+    "loc": "DOJ press release #06-647, para. 5",
+    "card": "G-010"
+   }
+  ],
+  "tags": [
+   "legal"
+  ],
+  "epilogue": false
+ },
+ {
   "date": "2010-06-24",
   "title": "Epilogue: Skilling v. United States",
-  "text": "After the Fifth Circuit upheld Skilling's convictions in 2009 but ordered resentencing, the Supreme Court held that honest-services fraud covers only bribes and kickbacks. It affirmed in part, vacated in part, and sent the case back; the library does not show what happened next.",
+  "text": "After the Fifth Circuit upheld Skilling's convictions in 2009 but ordered resentencing, the Supreme Court held that honest-services fraud covers only bribes and kickbacks. It affirmed in part, vacated in part, and sent the case back for the Fifth Circuit to decide whether the error was harmless.",
   "cites": [
    {
     "source_id": "ca5-skilling-2009",
@@ -1355,6 +1436,52 @@ window.TIMELINE = [
     "page": 9,
     "loc": "p. 366, Syllabus, Held 1 and (c)",
     "card": "B-028"
+   }
+  ],
+  "tags": [
+   "legal"
+  ],
+  "epilogue": true
+ },
+ {
+  "date": "2011-04-06",
+  "title": "Epilogue: Skilling's convictions stand",
+  "text": "Reconsidering the case, the Fifth Circuit held that the flawed honest-services instruction was harmless beyond a reasonable doubt, affirmed Skilling's convictions on all counts, and again ordered him resentenced. According to a 2013 agreement in the case, the Supreme Court declined to review that ruling on April 16, 2012.",
+  "cites": [
+   {
+    "source_id": "ca5-skilling-2011-remand",
+    "page": "1-2, 16",
+    "loc": "pp. 1-2, 16, Opinion (Prado, J.), introduction and IV. Conclusion",
+    "card": "G-024"
+   },
+   {
+    "source_id": "ca5-skilling-2011-remand",
+    "page": "2, 16",
+    "loc": "pp. 2, 16, I. Background; III.B The Other Convictions",
+    "card": "G-025"
+   },
+   {
+    "source_id": "doj-skilling-sentencing-agreement-2013",
+    "page": "1-2",
+    "loc": "pp. 1-2, Sentencing Agreement, 'Background', paras. 1-6 (Doc. 1316-1, Cr. No. 4:04-cr-25)",
+    "card": "G-026"
+   }
+  ],
+  "tags": [
+   "legal"
+  ],
+  "epilogue": true
+ },
+ {
+  "date": "2013-05-08",
+  "title": "Epilogue: a sentencing agreement",
+  "text": "Skilling and the government agreed to jointly recommend a sentence of 168 to 210 months, and he agreed to give up further challenges to his convictions. The sentence actually imposed at resentencing is not in the library.",
+  "cites": [
+   {
+    "source_id": "doj-skilling-sentencing-agreement-2013",
+    "page": "2-3",
+    "loc": "pp. 2-3, Sentencing Agreement, 'Terms and Conditions', paras. 7-12",
+    "card": "G-027"
    }
   ],
   "tags": [

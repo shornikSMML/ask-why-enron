@@ -286,13 +286,37 @@
     }
     if (candHost) {
       var cands = G.candidates || [];
-      candHost.innerHTML = cands.length ? '<ol class="cand-list">' + cands.map(function (c) {
-        return '<li class="cand-item"><p class="cand-title">' + esc(c.title) + "</p>" +
+      var approved = cands.filter(function (c) { return c.approved; });
+      var pending = cands.filter(function (c) { return !c.approved; });
+      var same = approved.filter(function (c) { return c.same_fingerprint; });
+      var differ = approved.filter(function (c) { return !c.same_fingerprint; });
+      function item(c) {
+        return '<li class="cand-item' + (c.approved ? " approved" : "") + '"><p class="cand-title">' +
+          (c.approved ? '<a href="sources.html#src-' + esc(c.id) + '">' + esc(c.title) + "</a>" : esc(c.title)) + "</p>" +
           '<p class="ui small">' + esc(c.source_body || "") + (c.date ? " · " + esc(c.date) : "") +
           (c.official_or_mirror ? " · " + esc(c.official_or_mirror) + " copy" : "") +
           (c.fills_gap ? " · for gap " + esc(c.fills_gap) : "") + "</p>" +
-          '<p class="cand-status">Awaiting the owner&rsquo;s approval. Not used on this site.</p></li>';
-      }).join("") + "</ol>" : '<p class="none">No candidates recorded.</p>';
+          (c.approved
+            ? '<p class="cand-status is-approved">Approved by the owner and added to the library on 2026-09-26.' +
+              (c.same_fingerprint ? " Fingerprint matches the Source Scout&rsquo;s copy." : (c.fingerprint_note ? " " + esc(c.fingerprint_note) : " Fingerprint differs from the Source Scout&rsquo;s copy.")) + "</p>"
+            : '<p class="cand-status">Awaiting the owner&rsquo;s approval. Not used on this site.</p>') + "</li>";
+      }
+      var h2 = "";
+      if (approved.length) {
+        h2 += "<p>The project owner reviewed the documents the Source Scout found. <strong>" + approved.length + " of " + cands.length +
+          " were approved by the owner and added to the library on 2026-09-26</strong>. The owner then downloaded each one again from its official website, " +
+          "so the library copy did not depend on the agent&rsquo;s download.</p>";
+        h2 += '<p class="fp-note"><strong>Fingerprint check.</strong> ' + same.length + " of the " + approved.length +
+          " fresh official downloads had exactly the same SHA-256 fingerprint as the Source Scout&rsquo;s copies." +
+          differ.map(function (c) { return " For " + esc(c.title) + ", " + (c.fingerprint_note ? esc(c.fingerprint_note.charAt(0).toLowerCase() + c.fingerprint_note.slice(1)) : "the fingerprints differ.") ; }).join("") +
+          "</p>";
+        h2 += '<ol class="cand-list">' + approved.map(item).join("") + "</ol>";
+      }
+      if (pending.length) {
+        h2 += "<p>These documents are <strong>awaiting the project owner&rsquo;s approval and are not used anywhere on this site</strong>.</p>" +
+          '<ol class="cand-list">' + pending.map(item).join("") + "</ol>";
+      }
+      candHost.innerHTML = cands.length ? h2 : '<p class="none">No candidates recorded.</p>';
     }
     if (tipsHost) {
       tipsHost.innerHTML = tips && (tips.rows || []).length ? '<ol class="tip-list">' + tips.rows.map(function (r) {

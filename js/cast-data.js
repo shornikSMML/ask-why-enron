@@ -83,8 +83,8 @@ window.CAST = [
   "name": "Jeffrey Skilling",
   "role": "Joined Enron in August 1990 after working for McKinsey & Co.; president and chief operating officer (COO) from January 1997; CEO from February 2001 until he resigned on August 14, 2001.",
   "summary": "The Supreme Court's opinion says Lay hired Skilling in 1990 to head an Enron subsidiary, and that he rose to president, COO and then CEO. He resigned six months after becoming CEO; the indictment alleged he did so with no forewarning to the public. Testifying under oath to the Senate Commerce Committee on February 26, 2002, he said that when he left Enron he did not believe the company was in financial peril and had no knowledge of wrongdoing by its employees.",
-  "outcome_status": "convicted — later narrowed on appeal",
-  "outcome_text": "In February 2004 the SEC sued Skilling, alleging fraud, and a superseding indictment announced February 19, 2004 charged him with conspiracy, securities fraud, wire fraud and insider trading. In May 2006 a jury found him guilty of 19 counts (one conspiracy, twelve securities fraud, five false statements, one insider trading) and not guilty of nine insider-trading counts. He was sentenced to 292 months in prison, three years of supervised release and $45 million in restitution. On January 6, 2009 the Fifth Circuit affirmed all his convictions but vacated the sentence and ordered resentencing. On June 24, 2010 the Supreme Court held that the honest-services fraud law covers only bribes and kickbacks, which the government never alleged against Skilling, so his conspiracy conviction was flawed insofar as it rested on that theory. The Court rejected his claim that pretrial publicity denied him a fair trial. It affirmed in part, vacated in part, and sent the case back, leaving the lower court to decide whether the error was harmless and whether it affected his other convictions. The Court did not overturn all of his convictions. The library does not show what happened after 2010, or how the SEC's civil case ended.",
+  "outcome_status": "convicted",
+  "outcome_text": "In February 2004 the SEC sued Skilling, alleging fraud, and a superseding indictment announced February 19, 2004 charged him with conspiracy, securities fraud, wire fraud and insider trading. In May 2006 a jury found him guilty of 19 counts (one conspiracy, twelve securities fraud, five false statements, one insider trading) and not guilty of nine insider-trading counts. On October 23, 2006 he was sentenced to 292 months in prison, three years of supervised release and $45 million in restitution. On January 6, 2009 the Fifth Circuit affirmed all his convictions but vacated the sentence and ordered resentencing. On June 24, 2010 the Supreme Court held that the honest-services fraud law covers only bribes and kickbacks, which the government never alleged against Skilling, so his conspiracy conviction was flawed insofar as it rested on that theory. The Court rejected his claim that pretrial publicity denied him a fair trial. It affirmed in part, vacated in part, and sent the case back, leaving the lower court to decide whether the error was harmless and whether it affected his other convictions. The Court did not overturn all of his convictions. On April 6, 2011, reconsidering the case, the Fifth Circuit held that the error was harmless beyond a reasonable doubt, affirmed his convictions on all counts, and again vacated his sentence and ordered resentencing. According to a 2013 sentencing agreement between Skilling and the government, the Supreme Court declined to review that ruling on April 16, 2012. In that agreement, filed May 8, 2013, both sides agreed to jointly recommend a reduced guidelines range of 168 to 210 months, and Skilling agreed to give up all further challenges to his convictions and sentence. The sentence actually imposed at resentencing is not in the library, and neither is the outcome of the SEC's civil case.",
   "cites": [
    {
     "source_id": "doj-skilling-indictment",
@@ -139,6 +139,30 @@ window.CAST = [
     "page": 9,
     "loc": "p. 366, Syllabus, Held 1 and (c)",
     "card": "B-028"
+   },
+   {
+    "source_id": "ca5-skilling-2011-remand",
+    "page": "1-2, 16",
+    "loc": "pp. 1-2, 16, Opinion (Prado, J.), introduction and IV. Conclusion",
+    "card": "G-024"
+   },
+   {
+    "source_id": "ca5-skilling-2011-remand",
+    "page": "2, 16",
+    "loc": "pp. 2, 16, I. Background; III.B The Other Convictions",
+    "card": "G-025"
+   },
+   {
+    "source_id": "doj-skilling-sentencing-agreement-2013",
+    "page": "1-2",
+    "loc": "pp. 1-2, Sentencing Agreement, 'Background', paras. 1-6 (Doc. 1316-1, Cr. No. 4:04-cr-25)",
+    "card": "G-026"
+   },
+   {
+    "source_id": "doj-skilling-sentencing-agreement-2013",
+    "page": "2-3",
+    "loc": "pp. 2-3, Sentencing Agreement, 'Terms and Conditions', paras. 7-12",
+    "card": "G-027"
    }
   ]
  },
@@ -148,7 +172,7 @@ window.CAST = [
   "role": "Senior vice president, finance, January 1997 to March 1998; chief financial officer (CFO) from March 1998 to October 24, 2001 (per the SEC). General partner of the LJM partnerships that did business with Enron.",
   "summary": "In June 1999 Enron's board approved LJM1, a partnership in which Fastow, while serving as CFO, would be the general partner, and in October 1999 it approved a second, larger partnership, LJM2. The board's special committee found that Fastow was enriched by at least $30 million through these partnerships. Enron announced on October 24, 2001 that he was on leave and would be replaced as CFO.",
   "outcome_status": "pleaded guilty",
-  "outcome_text": "On October 2, 2002 the SEC charged Fastow, alleging he ran a scheme to defraud Enron's security holders and enrich himself. The SEC's list of Enron cases includes a January 14, 2004 release titled \"SEC Settles Civil Fraud Charges Filed Against Andrew S. Fastow\"; the settlement terms are not in the library. Justice Department press releases of February 19 and July 8, 2004 list him among defendants \"convicted to date.\" According to a separate opinion in Skilling v. United States (2010), he pleaded guilty in 2004. The library does not show the charge or the sentence. He later testified as a government witness at the Skilling and Lay trial. The bankruptcy examiner had concluded, in a civil analysis, that there was sufficient evidence for a fact-finder to conclude he breached his duties to Enron.",
+  "outcome_text": "On October 2, 2002 the SEC charged Fastow, alleging he ran a scheme to defraud Enron's security holders and enrich himself. The SEC's list of Enron cases includes a January 14, 2004 release titled \"SEC Settles Civil Fraud Charges Filed Against Andrew S. Fastow\"; the settlement terms are not in the library. The Justice Department announced that on January 14, 2004 Fastow pleaded guilty to two counts of conspiracy to commit securities and wire fraud and agreed to cooperate with the investigation. It said that under his plea agreement he would serve a 10-year prison sentence and forfeit more than $29 million. On September 26, 2006 the Justice Department announced that he had been sentenced to six years in prison; that release says his plea agreement required him to forfeit more than $20 million. The two releases give different forfeiture figures, and the library does not explain why the sentence was shorter than the 10 years in the plea agreement. He testified as a government witness at the Skilling and Lay trial. The bankruptcy examiner had concluded, in a civil analysis, that there was sufficient evidence for a fact-finder to conclude he breached his duties to Enron.",
   "cites": [
    {
     "source_id": "sec-fastow-complaint",
@@ -193,16 +217,22 @@ window.CAST = [
     "card": "B-032"
    },
    {
-    "source_id": "doj-skilling-charged-press",
+    "source_id": "doj-fastow-plea-press-2004",
     "page": null,
-    "loc": "DOJ press release #099, Feb. 19, 2004, closing paragraph",
-    "card": "B-033"
+    "loc": "DOJ press release #019, Jan. 14, 2004, paras. 1-2 and 'Andrew Fastow Pleads Guilty' section",
+    "card": "G-001"
    },
    {
-    "source_id": "skilling-scotus-2010",
-    "page": 93,
-    "loc": "p. 450, n. 12, Opinion of Sotomayor, J. (concurring in part and dissenting in part), n. 12",
-    "card": "F-010"
+    "source_id": "doj-fastow-plea-press-2004",
+    "page": null,
+    "loc": "DOJ press release #019, para. 2; 'Andrew Fastow Pleads Guilty' section",
+    "card": "G-002"
+   },
+   {
+    "source_id": "doj-fastow-sentenced-press-2006",
+    "page": null,
+    "loc": "DOJ press release #06-647, Sept. 26, 2006, paras. 1-2",
+    "card": "G-004"
    },
    {
     "source_id": "ca5-skilling-2009",
@@ -221,10 +251,10 @@ window.CAST = [
  {
   "id": "lea-fastow",
   "name": "Lea Fastow",
-  "role": "Andrew Fastow's wife; had earlier worked in Enron's Finance group. A separate opinion in Skilling v. United States (2010) describes her as an assistant treasurer.",
+  "role": "Andrew Fastow's wife; former Enron assistant treasurer, as the Justice Department and a separate opinion in Skilling v. United States (2010) describe her. She had earlier worked in Enron's Finance group.",
   "summary": "The board's special committee found that, during certain periods, back-office tasks for the Chewco partnership appear to have been performed by Fastow's wife, who had previously worked in Enron's Finance group. It did not know whether she was paid for this work. The committee's report does not name her; a House subcommittee chairman identified her as Lea Fastow.",
   "outcome_status": "pleaded guilty",
-  "outcome_text": "According to a separate opinion in Skilling v. United States (2010), the Enron Task Force indicted Lea Fastow in 2003, and she pleaded guilty in 2004. That opinion (by Justice Sotomayor, joined by two other justices) mentions this only as background, in a list of news coverage before Skilling's trial; it is not the Court's holding or a record of her case. The library does not show the charge or her sentence.",
+  "outcome_text": "According to a separate opinion in Skilling v. United States (2010), the Enron Task Force indicted Lea Fastow in 2003, and she pleaded guilty in 2004. That opinion (by Justice Sotomayor, joined by two other justices) mentions this only as background, in a list of news coverage before Skilling's trial; it is not the Court's holding or a record of her case. The Justice Department announced on January 14, 2004 that she had agreed to plead guilty to filing a false joint tax return for 2000 and was expected to enter the plea that day, and that both sides had agreed to recommend a sentence of five months in prison and five months of home confinement. That release does not confirm that the plea was entered, and the sentence actually imposed is not in the library.",
   "cites": [
    {
     "source_id": "powers-report-sec",
@@ -243,6 +273,12 @@ window.CAST = [
     "page": 93,
     "loc": "p. 450, n. 12, Opinion of Sotomayor, J. (concurring in part and dissenting in part), n. 12",
     "card": "F-010"
+   },
+   {
+    "source_id": "doj-fastow-plea-press-2004",
+    "page": null,
+    "loc": "DOJ press release #019, para. 3 and 'Lea Fastow to Plead Guilty' section",
+    "card": "G-005"
    }
   ]
  },
@@ -252,7 +288,7 @@ window.CAST = [
   "role": "Enron employee from about 1994 to July 2001, mostly reporting to the CFO; managing director of LJM2's management company from January 2000 (per the SEC).",
   "summary": "When Fastow's own role in the Chewco partnership would have had to be disclosed to shareholders, Kopper, who reported to Fastow, was put in his place. The board's special committee found no evidence that Kopper's role was disclosed to or approved by Lay or the board. It found that Kopper and a partner, who had invested $125,000 in Chewco, received about $10.5 million when Enron bought Chewco out in 2001, and that Kopper was enriched by at least $10 million overall. In late July 2001 he left Enron to run LJM2.",
   "outcome_status": "pleaded guilty",
-  "outcome_text": "According to the SEC's later complaint against Fastow, Kopper pleaded guilty on August 21, 2002 to conspiracy to commit wire fraud and money laundering, and agreed to forfeit $4 million. The same day the SEC filed a civil case alleging he took part in a scheme to defraud Enron's security holders; he settled it, and a final judgment of August 22, 2002 ordered him to give up profits (including an $8 million payment), barred future violations, and barred him from serving as an officer or director of a public company. His sentence is not in the library.",
+  "outcome_text": "According to the SEC's later complaint against Fastow, Kopper pleaded guilty on August 21, 2002 to conspiracy to commit wire fraud and money laundering, and agreed to forfeit $4 million. The same day the SEC filed a civil case alleging he took part in a scheme to defraud Enron's security holders; he settled it, and a final judgment of August 22, 2002 ordered him to give up profits (including an $8 million payment), barred future violations, and barred him from serving as an officer or director of a public company. At a Justice Department news conference announcing the plea, the Deputy Attorney General said Kopper had agreed to forfeit $12 million to satisfy both the plea and the related SEC case. That matches the SEC's figures: $4 million forfeited in the criminal case plus $8 million paid in the SEC case. He added that the charging document sought about $23 million more in forfeiture; the library does not show what became of that. Sentencing was to wait until the government had secured Kopper's cooperation. His sentence is not in the library.",
   "cites": [
    {
     "source_id": "sec-kopper-complaint",
@@ -295,6 +331,24 @@ window.CAST = [
     "page": null,
     "loc": "Complaint, para. 1 (Summary)",
     "card": "B-038"
+   },
+   {
+    "source_id": "doj-dag-kopper-plea-transcript-2002",
+    "page": null,
+    "loc": "News conference transcript, Thompson opening remarks",
+    "card": "G-011"
+   },
+   {
+    "source_id": "doj-dag-kopper-plea-transcript-2002",
+    "page": null,
+    "loc": "News conference transcript, Thompson remarks and Q&A (Chertoff)",
+    "card": "G-013"
+   },
+   {
+    "source_id": "doj-dag-kopper-plea-transcript-2002",
+    "page": null,
+    "loc": "News conference transcript, Cutler remarks",
+    "card": "G-014"
    }
   ]
  },
@@ -304,7 +358,7 @@ window.CAST = [
   "role": "Certified public accountant (CPA); audited Enron for Arthur Andersen from 1986 to 1991; joined Enron in 1991; chief accounting officer and executive vice president from 1998 (per the SEC).",
   "summary": "As chief accounting officer, Causey was one of the two executives the board relied on to approve every deal with LJM2. The board's special committee found that he interpreted this oversight role very narrowly. The bankruptcy examiner reported trial testimony that Andersen accounting expert Carl Bass was told in early 2001 that Causey had asked for Bass to be removed from the Enron audit, and that senior Andersen executives agreed.",
   "outcome_status": "pleaded guilty",
-  "outcome_text": "The SEC charged Causey with fraud on January 22, 2004 (alleged). He was indicted in January 2004, and later superseding indictments added charges, including money laundering, in July 2004. On December 28, 2005, three weeks before trial, he pleaded guilty to one count of securities fraud. The SEC's list of Enron cases records a February 9, 2007 settlement of its civil fraud charges, under which Causey was barred from serving as an officer or director of a public company. His sentence is not in the library.",
+  "outcome_text": "The SEC charged Causey with fraud on January 22, 2004 (alleged). He was indicted in January 2004, and later superseding indictments added charges, including money laundering, in July 2004. On December 28, 2005, three weeks before trial, he pleaded guilty to one count of securities fraud. The SEC's list of Enron cases records a February 9, 2007 settlement of its civil fraud charges, under which Causey was barred from serving as an officer or director of a public company. The Justice Department announced that on November 15, 2006 he was sentenced to 66 months in prison; under his plea agreement he agreed to forfeit $1.25 million, pay a $25,000 fine and give up any deferred compensation claims against Enron.",
   "cites": [
    {
     "source_id": "sec-skilling-causey-complaint",
@@ -347,6 +401,12 @@ window.CAST = [
     "page": 15,
     "loc": "p. 372, Opinion of the Court, Part I",
     "card": "B-044"
+   },
+   {
+    "source_id": "doj-causey-sentenced-press-2006",
+    "page": null,
+    "loc": "DOJ press release #06-763, Nov. 15, 2006, paras. 1-2",
+    "card": "G-009"
    },
    {
     "source_id": "sec-enron-spotlight",
@@ -395,8 +455,8 @@ window.CAST = [
   "name": "Ben Glisan Jr.",
   "role": "Former Arthur Andersen accountant; at Enron from 1996 until he was terminated for cause in November 2001; served as treasurer (per the SEC).",
   "summary": "The board's special committee found that Glisan led the effort to create the first Raptor entity. It also found that he was one of two employees who each invested $5,800 in a partnership called Southampton Place and received $1 million each.",
-  "outcome_status": "convicted",
-  "outcome_text": "On September 10, 2003 the SEC sued Glisan, alleging he actively took part in sham \"prepay\" deals, the \"sale\" of Nigerian barges to Merrill Lynch, and the Raptor hedges; the library does not show how that civil case ended. Justice Department press releases of February and July 2004 list him, as former Enron treasurer, among defendants \"convicted to date.\" The library does not say what he was convicted of, whether by plea or at trial, or his sentence. He testified for the government at the Skilling trial.",
+  "outcome_status": "pleaded guilty",
+  "outcome_text": "On September 10, 2003 the SEC sued Glisan, alleging he actively took part in sham \"prepay\" deals, the \"sale\" of Nigerian barges to Merrill Lynch, and the Raptor hedges; the library does not show how that civil case ended. The Justice Department announced that the same day, September 10, 2003, Glisan pleaded guilty to conspiracy to commit wire and securities fraud and, under his plea agreement, was sentenced to 60 months (five years) in prison and three years of supervised release; he surrendered immediately to begin his sentence. He also agreed to forfeit $938,000. According to the Justice Department, he admitted that he and others deliberately structured the first Raptor entity, Talon, so that it appeared to comply with the accounting rules while in fact violating them. He testified for the government at the Skilling trial.",
   "cites": [
    {
     "source_id": "sec-glisan-complaint",
@@ -421,6 +481,18 @@ window.CAST = [
     "page": null,
     "loc": "Complaint, para. 1 (Summary)",
     "card": "B-048"
+   },
+   {
+    "source_id": "doj-glisan-plea-press-2003",
+    "page": null,
+    "loc": "DOJ press release #492, Sept. 10, 2003, paras. 1-2",
+    "card": "G-006"
+   },
+   {
+    "source_id": "doj-glisan-plea-press-2003",
+    "page": null,
+    "loc": "DOJ press release #492, paras. 4-7",
+    "card": "G-007"
    },
    {
     "source_id": "doj-lay-charged-press",
@@ -504,13 +576,19 @@ window.CAST = [
   "role": "Former CEO of Enron North America and of Enron Energy Services, two Enron divisions.",
   "summary": "Delainey ran two of Enron's main business units. He was among the more than twenty former Enron officers and employees who invoked the Fifth Amendment when the bankruptcy examiner sought their testimony.",
   "outcome_status": "convicted",
-  "outcome_text": "The SEC's list of Enron cases records an October 30, 2003 case against the former CEO of Enron North America and Enron Energy Services, the post Delainey held. A Justice Department press release of February 2004 lists him among defendants \"convicted to date.\" The library gives no details of his plea or trial, the charge, or his sentence, and does not show how the SEC case ended.",
+  "outcome_text": "The SEC's list of Enron cases records an October 30, 2003 case against the former CEO of Enron North America and Enron Energy Services, the post Delainey held. A Justice Department press release of February 2004 lists him among defendants \"convicted to date,\" and a September 2006 release states that he was sentenced on September 18, 2006 to 30 months in prison on one count of insider trading. The library does not show whether he pleaded guilty or was tried, or how the SEC case ended.",
   "cites": [
    {
     "source_id": "doj-skilling-charged-press",
     "page": null,
     "loc": "DOJ press release #099, Feb. 19, 2004",
     "card": "B-050"
+   },
+   {
+    "source_id": "doj-fastow-sentenced-press-2006",
+    "page": null,
+    "loc": "DOJ press release #06-647, para. 5",
+    "card": "G-010"
    },
    {
     "source_id": "batson-final-app-d",
@@ -621,8 +699,8 @@ window.CAST = [
   "name": "David Duncan",
   "role": "Arthur Andersen's global engagement partner for the Enron audit (the senior partner in charge), from 1997 until December 2001.",
   "summary": "Duncan took over as lead partner on Enron in February 1997. The Senate subcommittee reported that his handwritten notes for a February 1999 audit committee meeting said Enron's accounting practices \"push limits.\" Andersen executive C.E. Andrews testified that on October 23, 2001 Duncan organized a rushed effort to shred Enron documents without consulting others in the firm; Duncan's own account, as summarized by the House subcommittee chairman, was that he acted on an October 12 e-mail from an Andersen lawyer about the firm's document-retention policy. The two accounts conflict. Andersen dismissed him on January 15, 2002.",
-  "outcome_status": "SEC settlement",
-  "outcome_text": "On January 24, 2002, sworn before a House subcommittee, Duncan declined on his lawyer's advice to answer questions, invoking his constitutional protection against self-incrimination; that is not evidence of guilt. On January 28, 2008 the SEC filed a complaint alleging he was reckless in not knowing that the audit reports he signed on Enron's 1998-2000 financial statements were materially false. The SEC's list describes it as a \"settled action\" and records a related proceeding against him on January 30, 2008; the terms are not in the library. He testified at Andersen's criminal trial in 2002, as cited by the bankruptcy examiner. The library contains no documents on any criminal case against him.",
+  "outcome_status": "pleaded guilty",
+  "outcome_text": "On January 24, 2002, sworn before a House subcommittee, Duncan declined on his lawyer's advice to answer questions, invoking his constitutional protection against self-incrimination; that is not evidence of guilt. He testified at Andersen's criminal trial in 2002, as cited by the bankruptcy examiner. The Justice Department stated in 2003 that Duncan pleaded guilty in 2002 to obstructing an SEC investigation into Enron; the Supreme Court's 2005 Andersen opinion says he \"later pleaded guilty to witness tampering.\" The library has no charging document or judgment for him, and does not show the date of the plea, any sentence, or what later happened to the plea. On January 28, 2008 the SEC filed and settled a civil case alleging he was reckless in not knowing that the audit reports he signed on Enron's 1998-2000 financial statements were materially false. Without admitting or denying the allegations, he consented, subject to court approval, to a permanent injunction against violating the antifraud laws and to a permanent suspension from practicing before the SEC as an accountant.",
   "cites": [
    {
     "source_id": "sec-duncan-complaint",
@@ -683,6 +761,24 @@ window.CAST = [
     "page": 11,
     "loc": "p. 9, nn. 13-14",
     "card": "F-052"
+   },
+   {
+    "source_id": "doj-glisan-plea-press-2003",
+    "page": null,
+    "loc": "DOJ press release #492, second-to-last section",
+    "card": "G-008"
+   },
+   {
+    "source_id": "andersen-scotus-full-usreports",
+    "page": 7,
+    "loc": "544 U.S. at 702, Opinion of the Court, background",
+    "card": "G-023"
+   },
+   {
+    "source_id": "sec-duncan-litrel-20441",
+    "page": null,
+    "loc": "SEC Litigation Release No. 20441 / AAER No. 2777, Jan. 28, 2008, paras. 1-2, 4",
+    "card": "G-029"
    }
   ]
  },
@@ -720,7 +816,7 @@ window.CAST = [
   "role": "Enron's outside auditor from the 1985 merger that created Enron (it had audited InterNorth) until Enron dismissed it on January 17, 2002. In 2001, the fourth-largest U.S. accounting firm.",
   "summary": "Andersen gave Enron's financial statements clean audit opinions, including for 2000. Its fees from Enron in 2000 were about $50 million; sources give figures from $47.9 million to $54 million depending on the accounting year and categories used. In a civil analysis, the bankruptcy examiner concluded that the evidence would let a fact-finder decide Andersen was negligent and helped Enron officers breach their duties, while noting Andersen would have defenses, including that Enron officers deceived it.",
   "outcome_status": "conviction reversed",
-  "outcome_text": "Andersen was indicted for obstruction of justice over the destruction of Enron documents on March 7, 2002, tried in Houston, and convicted by a jury on June 15, 2002. The SEC announced that day that Andersen would stop practicing before it by August 31, 2002, and, according to the GAO, the firm was dissolved in 2002. The Fifth Circuit affirmed the conviction. On May 31, 2005 the Supreme Court unanimously reversed it, holding that the jury instructions had not properly explained what the crime requires. The reversal does not mean the Court found Andersen innocent; it found the jury had been wrongly instructed. The library does not show what happened after the case was sent back.",
+  "outcome_text": "A federal grand jury indicted Andersen on one count of obstruction of justice, in an indictment filed March 7, 2002. It alleged that from about October 10 to November 9, 2001, Andersen, through its partners and others, corruptly persuaded its employees to withhold and destroy records. At trial in Houston, according to the Supreme Court, the jury deliberated for seven days, declared itself deadlocked, and returned a guilty verdict after three more days; the bankruptcy examiner dates the conviction June 15, 2002. The SEC announced that day that Andersen would stop practicing before it by August 31, 2002, and, according to the GAO, the firm was dissolved in 2002. The Fifth Circuit affirmed the conviction. On May 31, 2005 the Supreme Court, in an opinion for a unanimous Court, reversed it, holding that the jury instructions failed to convey properly the elements of the crime. The reversal does not mean the Court found Andersen innocent; it found the jury had been wrongly instructed. The library does not show what happened after the case was sent back.",
   "cites": [
    {
     "source_id": "batson-final-app-b-part1",
@@ -783,16 +879,28 @@ window.CAST = [
     "card": "C-047"
    },
    {
-    "source_id": "andersen-scotus",
-    "page": null,
-    "loc": "Syllabus, Syllabus (prepared by the Reporter of Decisions; not part of the opinion)",
-    "card": "C-042"
+    "source_id": "doj-andersen-indictment-2002",
+    "page": "1, 6-7",
+    "loc": "pp. 1, 6-7, Caption; filing stamp; 'The Charge: Obstruction of Justice', para. 13",
+    "card": "G-015"
    },
    {
-    "source_id": "andersen-scotus",
-    "page": null,
-    "loc": "Syllabus, Syllabus; header 'Argued April 27, 2005-Decided May 31, 2005'",
-    "card": "C-043"
+    "source_id": "andersen-scotus-full-usreports",
+    "page": 7,
+    "loc": "544 U.S. at 702, Opinion of the Court, background",
+    "card": "G-022"
+   },
+   {
+    "source_id": "andersen-scotus-full-usreports",
+    "page": 3,
+    "loc": "544 U.S. at 698, Opinion of the Court (Rehnquist, C.J.)",
+    "card": "G-018"
+   },
+   {
+    "source_id": "andersen-scotus-full-usreports",
+    "page": 2,
+    "loc": "544 U.S. at 697, Reporter's line preceding the opinion",
+    "card": "G-019"
    }
   ]
  },
@@ -800,9 +908,9 @@ window.CAST = [
   "id": "joseph-berardino",
   "name": "Joseph Berardino",
   "role": "Chief executive officer of Arthur Andersen LLP.",
-  "summary": "Berardino testified under oath to a House Financial Services subcommittee (Capital Markets) on February 5, 2002, and announced changes at Andersen, including an independent oversight board chaired by Paul Volcker. He argued that the auditor's pass/fail report gives the same clean opinion to aggressive financial statements as to prudent ones.",
+  "summary": "Berardino testified under oath to a House Financial Services subcommittee (Capital Markets) on February 5, 2002, and announced changes at Andersen, including an independent oversight board chaired by Paul Volcker. He argued that the auditor's pass/fail report gives the same clean opinion to aggressive financial statements as to prudent ones. He had also appeared at a joint House subcommittee hearing on December 12, 2001, whose record shows no oath. His written statement for that hearing is the source of the words the Powers Report quotes from \"Andersen's CEO\": that the Andersen team's initial judgment that the Rhythms structure met the 3 percent test \"was in error.\"",
   "outcome_status": "no charges shown in library",
-  "outcome_text": "No library document shows any charge against him. He appears in the library as a sworn witness before Congress.",
+  "outcome_text": "No library document shows any charge against him. He was a sworn witness before a House subcommittee on February 5, 2002; his December 12, 2001 testimony is not shown as given under oath.",
   "cites": [
    {
     "source_id": "hrg-hfs-enron-investors",
@@ -815,6 +923,18 @@ window.CAST = [
     "page": 126,
     "loc": "p. 120, Testimony of Joseph Berardino",
     "card": "B-066"
+   },
+   {
+    "source_id": "hrg-hfs-enron-investors-pt1",
+    "page": "1, 5, 7",
+    "loc": "cover; p. V; p. 1, Cover page; contents and witness list; opening of hearing",
+    "card": "G-031"
+   },
+   {
+    "source_id": "hrg-hfs-enron-investors-pt1",
+    "page": "119, 121-122",
+    "loc": "pp. 113, 115-116, Appendix: 'Remarks of Joseph F. Berardino, Managing Partner – Chief Executive Officer, Andersen' (prepared statement)",
+    "card": "G-032"
    }
   ]
  },

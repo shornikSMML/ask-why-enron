@@ -57,6 +57,9 @@ def repl(m):
         page = c['locator'].get('pdf_page')
     elif page is None and src == c['source_id']:
         page = c['locator'].get('pdf_page')
+    if page not in (None, ''):
+        mm = re.match(r'\s*(\d+)', str(page))
+        page = mm.group(1) if mm else ''
     if not is_pdf:
         page = ''
     loc = (loc or default_loc(c)).strip()

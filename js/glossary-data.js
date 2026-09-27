@@ -1252,10 +1252,10 @@ window.GLOSSARY = {
   ],
   "cites": [
    {
-    "source_id": "andersen-scotus",
-    "page": null,
-    "loc": "Syllabus, Syllabus; header 'Argued April 27, 2005-Decided May 31, 2005'",
-    "card": "C-043"
+    "source_id": "andersen-scotus-full-usreports",
+    "page": 3,
+    "loc": "544 U.S. at 698, Opinion of the Court (Rehnquist, C.J.)",
+    "card": "G-018"
    }
   ]
  },
@@ -1301,10 +1301,10 @@ window.GLOSSARY = {
     "card": "C-038"
    },
    {
-    "source_id": "andersen-scotus",
-    "page": null,
-    "loc": "Syllabus, Syllabus; header 'Argued April 27, 2005-Decided May 31, 2005'",
-    "card": "C-043"
+    "source_id": "andersen-scotus-full-usreports",
+    "page": 3,
+    "loc": "544 U.S. at 698, Opinion of the Court (Rehnquist, C.J.)",
+    "card": "G-018"
    },
    {
     "source_id": "sox-plaw-html",
@@ -1451,6 +1451,49 @@ window.GLOSSARY = {
     "loc": "p. 20 and n. 45, III.A Overview",
     "card": "A-071"
    }
+  ]
+ },
+ "harmless-error": {
+  "term": "Harmless error",
+  "short": "A legal mistake at trial that an appeals court decides did not change the outcome, so the verdict can stand.",
+  "long": "Not every error at trial requires a new trial. If the court concludes beyond a reasonable doubt that the jury would have reached the same verdict anyway, the error is harmless. In 2011 the Fifth Circuit held that the flawed honest-services instruction in Skilling's trial was harmless and affirmed his convictions.",
+  "see_also": [
+   "remand",
+   "honest-services-fraud"
+  ],
+  "cites": [
+   {
+    "source_id": "ca5-skilling-2011-remand",
+    "page": "1-2, 16",
+    "loc": "pp. 1-2, 16, Opinion (Prado, J.), introduction and IV. Conclusion",
+    "card": "G-024"
+   }
+  ]
+ },
+ "forfeiture": {
+  "term": "Forfeiture",
+  "short": "Giving up money or property to the government because it was gained through, or used in, a crime.",
+  "long": "Forfeiture is often part of a plea agreement, alongside prison time. Forfeited money may be used to repay victims. It differs from a fine, which punishes, and from disgorgement, which is ordered in civil cases.",
+  "see_also": [
+   "disgorgement",
+   "plea-agreement"
+  ]
+ },
+ "supervised-release": {
+  "term": "Supervised release",
+  "short": "A period after prison during which a released person must follow court-set conditions and report to a probation officer.",
+  "long": "Federal sentences often add a few years of supervised release after the prison term ends. Breaking the conditions can send the person back to prison. It is like being released with a curfew and regular check-ins.",
+  "see_also": [
+   "plea-agreement"
+  ]
+ },
+ "certiorari": {
+  "term": "Certiorari (\"cert\")",
+  "short": "The Supreme Court's order agreeing to review a lower court's decision. When it denies cert, the lower court's ruling stands.",
+  "long": "The Supreme Court hears only a small share of the cases people ask it to review. A denial of cert is not a ruling on the merits; it simply leaves the lower court's decision in place.",
+  "see_also": [
+   "remand",
+   "reversed"
   ]
  }
 };

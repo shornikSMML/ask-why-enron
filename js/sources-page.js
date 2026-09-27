@@ -13,7 +13,8 @@
     "06-congressional-reports": "Congressional reports",
     "07-sox-legislative-history": "How the Sarbanes-Oxley Act was made",
     "08-sox-law-pcaob-profession": "The Sarbanes-Oxley Act, the PCAOB, and the accounting profession",
-    "09-courts-doj": "Courts and the Justice Department"
+    "09-courts-doj": "Courts and the Justice Department",
+    "candidates": "Added after review: documents the Source Scout found, approved by the owner"
   };
   var S = window.SOURCES || {};
   var groups = {};

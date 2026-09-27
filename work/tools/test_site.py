@@ -12,6 +12,7 @@ Reference checks (on every page, as rendered):
   - every .term resolves to a window.GLOSSARY entry;
   - every figure[data-image] resolves to a window.IMAGE_CREDITS entry;
   - every citation link target, image and narrow image file exists on disk;
+  - every link into sources/ points to a file listed in sources/manifest.csv;
   - no leftover placeholders or "Sample" flags.
 Diagram checks: the phone uses the -narrow SVG; the manual dark theme reaches
 the SVG diagrams even when the system setting is light.
@@ -58,10 +59,13 @@ REF_JS = """(LEFTOVER) => {
   const m = txt.match(new RegExp(LEFTOVER, 'g'));
   if (m) bad.push('leftover placeholder text: ' + [...new Set(m)].join(', '));
   if (!document.querySelector('footer.site-footer')) bad.push('no site footer');
-  // No link, image or script may point into sources/candidates/ (not part of the library).
+  // Every link, image or script pointing into sources/ is collected; Python checks each
+  // against sources/manifest.csv (a listed file is fine wherever it lives).
+  const srcLinks = new Set();
   document.querySelectorAll('[href], [src], [srcset]').forEach(e => {
     const v = e.getAttribute('href') || e.getAttribute('src') || e.getAttribute('srcset') || '';
-    if (/sources\/candidates\//.test(v)) bad.push('links into sources/candidates/: ' + v);
+    let u; try { u = new URL(v, location.href); } catch (err) { return; }
+    if (u.protocol === 'file:' && u.pathname.indexOf('/sources/') !== -1) srcLinks.add(decodeURIComponent(u.pathname));
   });
   // Every link to a local file must exist (checked on disk by Python); same-page #anchors must exist.
   document.querySelectorAll('a[href]').forEach(a => {
@@ -81,9 +85,26 @@ REF_JS = """(LEFTOVER) => {
     const u = new URL(e.getAttribute('src') || e.getAttribute('srcset'), location.href);
     if (u.protocol === 'file:') links.add(decodeURIComponent(u.pathname));
   });
-  return {bad, files: [...links], cites: document.querySelectorAll('a.cite').length,
+  return {bad, files: [...links], srcLinks: [...srcLinks], cites: document.querySelectorAll('a.cite').length,
           terms: document.querySelectorAll('.term[data-term]').length, figures: document.querySelectorAll('figure[data-image]').length};
 }"""
+
+
+def manifest_files():
+    """Paths (relative to sources/) of every file listed in sources/manifest.csv."""
+    import csv
+    with (ROOT / "sources" / "manifest.csv").open(newline="", encoding="utf-8") as f:
+        return {f"{r['folder']}/{r['filename']}" for r in csv.DictReader(f) if r.get("id")}
+
+
+def unlisted_source(path, listed):
+    """Return the sources/-relative path if it is not a manifest file, else None."""
+    rel = Path(path).resolve()
+    try:
+        rel = rel.relative_to((ROOT / "sources").resolve()).as_posix()
+    except ValueError:
+        return None
+    return None if rel in listed else rel
 
 
 def footnote_all_cite_links(page):
@@ -113,6 +134,7 @@ def main():
     SHOTS.mkdir(parents=True, exist_ok=True)
     problems, notes = [], []
     ref_totals = {}
+    listed = manifest_files()
     missing_optional = not (ROOT / "images" / "credits.js").exists()
     with sync_playwright() as pw:
         exe = chromium_path()
@@ -142,6 +164,10 @@ def main():
                         for f in ref["files"]:
                             if not Path(f).exists():
                                 problems.append(f"[refs] {p}: link target missing on disk: {f}")
+                        for f in ref["srcLinks"]:
+                            u = unlisted_source(f, listed)
+                            if u:
+                                problems.append(f"[refs] {p}: links to sources/{u}, which is not listed in sources/manifest.csv")
                     if p in SHOT_PAGES and vname != "small":
                         name = p.replace("/", "-").replace(".html", "")
                         page.screenshot(path=str(SHOTS / f"{vname}-{scheme}-{name}.png"), full_page=(vname == "phone" or p in {"chapters/ch1.html", "footnote.html"}))
@@ -205,12 +231,21 @@ def main():
         if vis == 0:
             problems.append("timeline filter 'legal' shows no items")
 
+        page.goto(url("sources.html")); page.wait_for_timeout(200)
+        n_src = page.locator(".src-item").count()
+        notes.append(f"sources page: {n_src} documents listed; manifest has {len(listed)} rows")
+        if n_src != len(listed):
+            problems.append(f"sources page lists {n_src} documents, manifest has {len(listed)}")
+
         page.goto(url("footnote.html")); page.wait_for_timeout(200)
         n_anno, fn_files = footnote_all_cite_links(page)
         notes.append(f"footnote: {n_anno} annotations opened, {len(fn_files)} distinct source files linked")
         for f in sorted(fn_files):
             if not Path(f).exists():
                 problems.append(f"[refs] footnote annotation link target missing on disk: {f}")
+            u = unlisted_source(f, listed)
+            if u:
+                problems.append(f"[refs] footnote annotation links to sources/{u}, which is not listed in sources/manifest.csv")
 
         # Manual dark theme with a LIGHT system setting: the SVG diagrams must switch too.
         page.goto(url("chapters/ch3.html")); page.wait_for_timeout(200)

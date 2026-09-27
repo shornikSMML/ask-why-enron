@@ -105,7 +105,7 @@
           (o.left_out ? "<h4>What it left out</h4><p>" + esc(o.left_out) + "</p>" : "") +
           (o.found ? "<h4>What later filings and investigations found</h4><p>" + esc(o.found) + "</p>" : "") +
           ((o.cites || []).length ? '<p class="fn-other-cites">Sources: ' + o.cites.map(A.citeTag).join("") + "</p>" : "") +
-          termsHTML(o.glossary_terms) +
+          termsHTML(o.glossary_terms).replace("<h3>", "<h4>").replace("</h3>", "</h4>") +
           "</section>";
       }).join("") + "</section>";
   }

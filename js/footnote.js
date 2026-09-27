@@ -176,4 +176,10 @@
     '<h2>How to read this page</h2><p class="anno-empty">Select any highlighted phrase to see what it said, what it left out, and what the investigations later found. ' +
     "On a keyboard, press <kbd>j</kbd> or <kbd>→</kbd> for the next note and <kbd>k</kbd> or <kbd>←</kbd> for the previous one.</p>" +
     '<p class="anno-empty">' + annos.length + " annotations.</p>";
+  // Opened with #fn-NN (e.g. from a pathway): show that annotation.
+  (function () {
+    var id = decodeURIComponent((location.hash || "").slice(1));
+    if (!id) return;
+    for (var i = 0; i < annos.length; i++) if (annos[i].id === id) { show(i, false); break; }
+  })();
 })();

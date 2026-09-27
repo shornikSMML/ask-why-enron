@@ -1445,5 +1445,51 @@
   "notes": "Important for fairness: the library shows no SEC or criminal action against Toronto Dominion, RBS or CSFB. Absence in the library is not proof none occurred (gap). The SEC's Citigroup order itself is not in the library, only the press release. Image-checked App. G PDF p. 6.",
   "checked": "OK",
   "checker_note": "Fingerprint OK (sha256 matches download_log.csv). Quote verified against the page image (App. G, PDF 6, fn. 5): verbatim. Report and letter named."
+ },
+ {
+  "id": "K-061",
+  "topic": "Citigroup and JPMorgan Chase prepay volumes (examiner)",
+  "claim": "In Appendix G (Role of Toronto Dominion and its Affiliates) to his Final Report, the bankruptcy examiner put the volume of Enron's prepay transactions with Citigroup at $4.7 billion and with JPMorgan Chase at $3.7 billion, comparing them with Toronto Dominion's roughly $2 billion.",
+  "quote": "Although the volume of the Toronto Dominion Prepays is certainly less than that of the Prepay Transactions between Citigroup and Enron ($4.7 billion) or JPMorgan Chase and Enron ($3.7 billion)",
+  "source_id": "batson-final-app-g",
+  "file": "sources/02-bankruptcy-examiner/batson-final-appendix-g-toronto-dominion-2003-11-04.pdf",
+  "locator": {
+   "pdf_page": 64,
+   "printed_page": "p. 62",
+   "section": "Appendix G, IV.B (No Substantial Assistance)",
+   "lines": "work/text/batson-final-app-g.txt 2646-2650"
+  },
+  "source_type": "examiner conclusion",
+  "verb": "stated",
+  "people": [],
+  "event_date": null,
+  "from_ocr": true,
+  "ocr_checked_against_image": true,
+  "notes": "Always name it 'Batson Final Report, Appendix G (Toronto Dominion)'. The figures appear in passing, in the examiner's discussion of a possible Toronto Dominion defense; the appendix does not give a date range or a deal count for them. SOURCES DIFFER: Robert Roach testified under oath (July 23, 2002) to $4.8 billion from 14 Citigroup deals and $3.7 billion from 12 Chase deals (card K-004). Say 'about $4.7-4.8 billion' or give both, attributed. The JPMorgan Chase figure ($3.7 billion) is the same in both sources.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 10c94958... matches download_log.csv). Quote checked word for word against the page image (App. G PDF 64, printed p. 62) by the Fact-Checker; the OCR text copy (line 2649) agrees. The sentence continues on PDF 65: 'Toronto Dominion's participation in Prepay Transactions totaling approximately $2.0 billion was nonetheless substantial.' Verb 'stated' (a figure given in passing, not a conclusion about liability). Written by Fact-Checker instance B at the coordinator's request, 2026-09-27."
+ },
+ {
+  "id": "K-062",
+  "topic": "Merrill barge deal: promised return (Senate staff)",
+  "claim": "The Senate subcommittee staff report said the subcommittee's July 2002 hearing showed that Enron's sale of assets to Merrill Lynch did not qualify as a true sale, because Enron had secretly promised Merrill a resale within six months and a guaranteed 15 percent return.",
+  "quote": "Enron had eliminated all risk from the deal by secretly promising Merrill Lynch to arrange a resale of the assets within six months and guaranteeing a 15 percent return on the deal.",
+  "source_id": "rpt-psi-fishtail",
+  "file": "sources/06-congressional-reports/sprt-107-82-fishtail-bacchus-sundance-slapshot.pdf",
+  "locator": {
+   "pdf_page": 6,
+   "printed_page": "p. 2",
+   "section": "Introduction",
+   "lines": "work/text/rpt-psi-fishtail.txt 193-203"
+  },
+  "source_type": "congressional staff report",
+  "verb": "found",
+  "people": [],
+  "event_date": "1999-12",
+  "from_ocr": false,
+  "ocr_checked_against_image": false,
+  "notes": "The sentence itself does not name the asset; fn. 21 (PDF 13, printed p. 9, lines 646-647) ties the 15 percent to 'the Nigerian barge transaction examined at the Subcommittee's July 30 hearing'. SOURCES DIFFER ON THE RETURN: the SEC's complaint gives '$250,000 plus 15% per annum or a flat 22.5% per annum' (para. 19), '22.5%' (paras. 18, 26), and says Merrill actually earned 'approximately a 22% annualized return' (para. 35) (cards K-019, K-021). Cite each source for its own figure; do not merge. SOURCES DIFFER ON THE DATE: this same sentence places the sale 'just before the end of the year 2000' and says it boosted Enron's '2000' statements. The SEC complaint (paras. 2, 51: 'December, 1999'; fourth-quarter 1999 income), the examiner (Final Report fn. 200: fax dated Dec. 21, 1999) and the June 29, 2000 buy-back by LJM2 (K-021) all place it at year-end 1999. Use December 1999 and do not take the year from this report. event_date follows the other sources.",
+  "checked": "OK",
+  "checker_note": "Fingerprint OK (sha256 77ec41e2... matches download_log.csv). Quote verified verbatim in the text layer of the GPO PDF (PDF 6, printed p. 2, lines 199-203; end-of-line hyphens rejoined). The report says 'The hearing showed', so this is the staff's account of the July 30, 2002 hearing; verb 'found' with attribution 'the Senate staff report says'. Date discrepancy (2000 in this report vs. 1999 in all other sources) recorded in notes. Written by Fact-Checker instance B at the coordinator's request, 2026-09-27."
  }
 ]

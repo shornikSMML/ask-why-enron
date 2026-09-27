@@ -14,3 +14,14 @@ Written by the Reform Writer for the Reference Writer. Ids used in `work/drafts/
 | cooling-off-period | cooling-off period | A waiting time before someone can move from one role to a related one, such as from auditing a company to becoming one of its top officers. |
 | self-regulation | self-regulation | A system in which an industry or profession writes and enforces its own rules instead of being overseen by an outside regulator. |
 | peer-review | peer review | A check of one accounting firm's audit quality carried out by another accounting firm. |
+
+## Revision 2 (brief 34): new term ids
+
+Suggested plain definitions from general knowledge. None states a fact about Enron. Where a card supports a detail, the card is named.
+
+| id | term as shown | suggested definition |
+|---|---|---|
+| disclosure-controls | disclosure controls and procedures | A company's routines for making sure the information it must report to investors is gathered, checked, and reported on time. The SEC created the term in its 2002 certification rule (card T-004). |
+| material-weakness | material weakness | A flaw in a company's internal controls serious enough that a material error in its financial statements might not be prevented or caught in time. Under the SEC's 2003 rule, if even one exists, management may not call its controls effective (card T-009). |
+| accelerated-filer | accelerated filer | An SEC category for larger public companies, based on the market value of shares held by outside investors (the "public float"). In GAO's 2006 description of the SEC's definitions, it meant at least $75 million, and "large accelerated filer" meant $700 million or more (card T-050). These amounts may have changed since. |
+| emerging-growth-company | emerging growth company | A category of newer, smaller public companies that the law gives lighter requirements for a time. Since a 2012 amendment, the auditor's Section 404(b) attestation does not apply to them (card T-027). The library does not include the legal definition. |

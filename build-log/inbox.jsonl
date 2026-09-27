@@ -165,3 +165,5 @@
 {"time": "2026-09-27T01:25:34Z", "type": "review", "agent_id": "factcheck-b", "reviewed": "Final: Banks page, prepay diagram, aiding-and-abetting entry", "result": "All PASS; 53 citations; corrections rows 144-150."}
 {"time": "2026-09-27T01:26:25Z", "type": "agent_finish", "agent_id": "reform", "inputs": ["factcheck-phase2-reform.md"], "outputs": ["why-it-matters.html fixes; fixes-phase2-reform.md"], "decision": "accepted, pending Fact-Checker final", "reason": "All 15 page fixes applied; tests 0 problems."}
 {"time": "2026-09-27T01:26:25Z", "type": "handoff", "from": "Reform Writer, Image Researcher", "to": "Fact-Checker (Part C)", "what": "Final re-check of Why It Matters and SOX map"}
+{"time": "2026-09-27T01:26:45Z", "type": "agent_start", "agent_id": "scribe", "name": "Scribe", "role": "Phase 2 log update", "brief_file": "work/briefs/31-scribe-phase2.md", "wave": "phase2"}
+{"time": "2026-09-27T01:26:45Z", "type": "agent_start", "agent_id": "site", "name": "Site Builder", "role": "Phase 2 final assembly", "brief_file": "work/briefs/32-site-final-phase2.md", "wave": "phase2"}

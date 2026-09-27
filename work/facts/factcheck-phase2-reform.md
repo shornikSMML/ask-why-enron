@@ -149,3 +149,18 @@ The quotes are verbatim: T-022, T-023, T-026, T-041, the T-042 Syllabus quote, T
 ### Verdict (Revision 2)
 
 **`why-it-matters.html`: PASS once R2-1 and R2-2 are fixed (medium). R2-3 is a low fix.** Nothing else is outstanding. A re-check needs only those three sentences.
+
+## Revision 2: final
+
+I re-checked only the three fixed sentences and the new glossary entry. Rebuilding the page from its source reproduces `why-it-matters.html` exactly: 105 citations to 95 cards, all checked.
+
+| # | Verdict | Note |
+|---|---|---|
+| R2-1 | OK | The timing phrase is gone. The sentence is now true under both the 2002 and 2003 rules. It cites T-004 (33-8124 II.A). |
+| R2-2 | OK | Follows 7262(c) ("neither ... nor") and 7262(b) (emerging growth companies, 2012). Cites T-026 and T-027, and keeps "management's own report is still required". |
+| R2-3 | OK | Follows 33-8183 line 370 ("partners subject to the rotation requirements ... no more than seven years ... two-year time-out"). |
+| Glossary `accelerated-filer` (js/glossary-data.js) | OK | Presents the thresholds as "the SEC's definitions as of December 2005, as GAO described them in 2006" and says they are "not necessarily today's rule". It cites T-050 (GAO-06-361 p. 4, fn. 7, PDF 9). The $75 million and $700 million figures, the "public float" gloss and the "file reports faster" point all match fn. 7 ("subject to shorter financial reporting deadlines"). The tax-bracket comparison is a plain-language analogy and states no fact. |
+
+The applied corrections are logged in `build-log/corrections.md`, rows 198-200.
+
+**Final verdict: `why-it-matters.html` PASS. `diagram-sox-map.svg` / `-narrow.svg` PASS (unchanged since the earlier Final). `accelerated-filer` glossary entry PASS.** Nothing is outstanding.

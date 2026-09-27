@@ -145,3 +145,76 @@ Rows 58-85 in `build-log/corrections.md`: one row per Round 2 finding that was a
 | `images/chart-restatement.svg` (+ `-narrow`) | **PASS** |
 
 No required fixes remain for Part B.
+
+## Revision pass: new library documents and cards G-001 to G-036
+
+Date: 2026-09-27.
+
+### The 11 new documents
+
+- **Manifest and fingerprints.** All 11 are listed in `sources/manifest.csv`. All 11 were downloaded by the owner's action (`download_log.csv`, 2026-09-27 00:07 UTC). I recomputed SHA-256 for all 85 library files on disk, and all 85 match.
+- **Status column: please confirm with the owner.** The manifest's `status` column for the 10 documents in `sources/candidates/` still reads **"candidate-unapproved"**, and their folder is still `candidates`. The prepared file `sources/candidates/manifest-rows-to-add.csv` had given them library folders and "to-download". I checked the cards on the coordinator's word that the owner approved them. Rows added by the owner plus his action's download support that. But the status column says otherwise, and CLAUDE.md forbids relying on candidates until he approves them. Please confirm with the owner, or ask him to change the status, before any of these cards reach a published page.
+
+### How I checked
+
+- **HTML sources.** Every quote was checked against the original HTML file, not only the text copy.
+- **PDFs with text.** Checked page by page with `pdftotext`.
+- **Image-only pages.** The Dec. 12 hearing appendix (PDF 119-122, 128-130) was read on the page images.
+- **Claims and verbs.** I read every claim against its source and applied the ruled verbs: DOJ "announced", indictment "alleged", agreement "agreed", court "held".
+
+### Verdicts
+
+| Card | Verdict | Note |
+|---|---|---|
+| G-001 | FIXED | Verb "pleaded guilty" changed to "announced". |
+| G-002 | FIXED | Verb changed to "announced". |
+| G-003 | FIXED | Verb changed to "announced". |
+| G-004 | FIXED | The release does not state the sentencing date. The claim now says DOJ "announced on September 26, 2006 that Fastow had been sentenced". The **$29M vs $20M** forfeiture disagreement is confirmed; report both, attributed. |
+| G-005 | FIXED | Verb changed to "announced". The claim is accurate. The release shows only an agreement to plead and an "expected" plea. It is consistent with F-010 (the separate opinion: pleaded guilty in 2004) and with the Glisan release (charged May 2003). |
+| G-006 | FIXED | Verb changed to "announced". |
+| G-007 | FIXED | Verb changed to "announced". |
+| G-008 | FIXED | Verb changed to "announced". |
+| G-009 | FIXED | Verb changed to "announced". |
+| G-010 | FIXED | Verb changed to "announced". |
+| G-011 | FIXED | Source type is now "DOJ news conference transcript"; verb "announced". The date note (page title 08-22-02, URL 082102) was confirmed in the file. |
+| G-012 | FIXED | Same change as G-011. |
+| G-013 | FIXED | Same change as G-011. **The note was wrong: the $12M vs $4M figures are not a disagreement.** SEC Fastow complaint para. 9: $4M criminal forfeiture + $8M direct SEC disgorgement = $12M, which is DOJ's "$12 million to satisfy both this plea and a related SEC complaint" (also Cutler, and Batson First Interim n. 8). The "~$23 million" sought in the information is additional; its outcome is not in the library. The Cast and ch7 wording ("agreed to forfeit $4 million, according to the SEC") is correct as far as it goes. Do not present $12M vs $4M as a conflict. If both appear, explain that the $12M covers the plea and the SEC case. `revision-gap-map.md` gap 6 should be read accordingly. |
+| G-014 | FIXED | Same change as G-011. |
+| G-015 | OK | "alleged"; filed 3/7/02; one count under § 1512(b)(2). |
+| G-016 | OK | |
+| G-017 | OK | |
+| G-018 | FIXED | Line-break hyphen removed from the quote ("therefore"). |
+| G-019 | FIXED | The vote line is the reporter's line, so the verb is now "stated", not "held". |
+| G-020 | OK | |
+| G-021 | OK | |
+| G-022 | OK | |
+| G-023 | OK | |
+| G-024 | OK | |
+| G-025 | OK | |
+| G-026 | OK | These are recitals, so "stated" is correct. |
+| G-027 | FIXED | These are the agreement's terms, so the verb is now "agreed". |
+| G-028 | OK | |
+| G-029 | FIXED | Source type is now "SEC litigation release (settled action)"; verb "announced". "Without admitting or denying" must accompany any use. |
+| G-030 | FIXED | Same change as G-029. |
+| G-031 | FIXED | **No oath anywhere in the Dec. 12, 2001 record** (text layer searched for sworn/oath/swear/raise your right). Source type changed from "sworn testimony" to "hearing testimony and record (no oath shown)". |
+| G-032 | FIXED | Same source-type change as G-031. Image-checked (PDF 119, 122): verbatim, and identical to the Powers quotation. Verb is now "stated (written statement submitted to the hearing)". |
+| G-033 | FIXED | Same source-type change as G-031. The spoken statement does not name Chewco; only the written statement does (PDF 120). Verb is now "told the subcommittees (not shown under oath)". |
+| G-034 | FIXED | Same source-type change as G-031. Image-checked (PDF 128). |
+| G-035 | FIXED | Same source-type change as G-031. Image-checked (PDF 129-130). |
+| G-036 | FIXED | Same source-type change as G-031. Verb is now "told the subcommittees (not shown under oath)". |
+
+**Totals:** 36 cards; 11 OK, 25 FIXED, 0 rejected. Most fixes are verbs or source types. The substantive ones are G-004 (sentencing date), G-013 (the forfeiture "disagreement" that is not one) and G-031 to G-036 (no oath).
+
+### Berardino, "sworn witness" (`js/cast-data.js`)
+
+**Supported.** The Cast cites card B-065, the **February 5, 2002** hearing (`hrg-hfs-enron-investors`), and the oath is on the page:
+- PDF 124 (lines 7505-7509): "Do you have any objection to testifying under oath? Mr. BERARDINO. No, I do not."
+- PDF 125 (lines 7535-7538): "[Witness sworn.] Chairman BAKER. You are now under oath."
+
+The Dec. 12, 2001 record shows no oath.
+
+**Should-fix, for when the writer uses the new cards:** say "a sworn witness before a House subcommittee on February 5, 2002; his December 12, 2001 testimony is not shown as given under oath". Do not describe the December statements (including the Powers quotation, A-048/G-032) as sworn.
+
+### Corrections log
+
+Rows 87-95 in `build-log/corrections.md`.

@@ -13,14 +13,16 @@
       "lines": "17-27, 71-72"
     },
     "source_type": "government press release",
-    "verb": "pleaded guilty",
+    "verb": "announced",
     "people": [
       "Andrew Fastow"
     ],
     "event_date": "2004-01-14",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-fastow-plea-press-2004.txt. Write 'the Justice Department announced'. The release calls him 'the highest-level defendant to be charged to date' (line 25). It is a press release describing the plea; the plea agreement itself is not in the library."
+    "notes": "line numbers refer to work/text/doj-fastow-plea-press-2004.txt. Write 'the Justice Department announced'. The release calls him 'the highest-level defendant to be charged to date' (line 25). It is a press release describing the plea; the plea agreement itself is not in the library.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Claim verified (plea before Judge Hoyt; two counts of conspiracy, 18 U.S.C. § 371; cooperation). Verb was 'pleaded guilty'; for a DOJ press release the verb is 'announced' (the release reports the plea). Changed."
   },
   {
     "id": "G-002",
@@ -36,14 +38,16 @@
       "lines": "27-32, 71-76, 91"
     },
     "source_type": "government press release",
-    "verb": "reported",
+    "verb": "announced",
     "people": [
       "Andrew Fastow"
     ],
     "event_date": "2004-01-14",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-fastow-plea-press-2004.txt. Apostrophes in the quote appear as a replacement character in the text copy (encoding); the words are verbatim. The IRS Commissioner is quoted describing 'The forfeiture of more than $29 million in personal assets by the Fastows' (line 61), i.e. the $29M figure may cover both Fastows. The 10 years was the agreed term, not the sentence actually imposed: see G-004 (six years in 2006). The later release does not explain the difference; do not speculate."
+    "notes": "line numbers refer to work/text/doj-fastow-plea-press-2004.txt. Apostrophes in the quote appear as a replacement character in the text copy (encoding); the words are verbatim. The IRS Commissioner is quoted describing 'The forfeiture of more than $29 million in personal assets by the Fastows' (line 61), i.e. the $29M figure may cover both Fastows. The 10 years was the agreed term, not the sentence actually imposed: see G-004 (six years in 2006). The later release does not explain the difference; do not speculate.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Terms verified: cooperate, 10 years, forfeit more than $29 million; remaining 96 charges 'are pending, and will be dismissed if' cooperation is found full and truthful; sentencing set for April 19, 2004. Note on the IRS Commissioner's 'by the Fastows' is accurate. Verb 'reported' changed to 'announced'."
   },
   {
     "id": "G-003",
@@ -59,19 +63,21 @@
       "lines": "78-89"
     },
     "source_type": "government press release",
-    "verb": "reported",
+    "verb": "announced",
     "people": [
       "Andrew Fastow"
     ],
     "event_date": "2004-01-14",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-fastow-plea-press-2004.txt. These are admissions as described by DOJ, not the plea agreement text. The 2006 release (G-004) repeats the same admissions nearly word for word (lines 21-32)."
+    "notes": "line numbers refer to work/text/doj-fastow-plea-press-2004.txt. These are admissions as described by DOJ, not the plea agreement text. The 2006 release (G-004) repeats the same admissions nearly word for word (lines 21-32).",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Admissions verified as DOJ describes them. Verb changed to 'announced'."
   },
   {
     "id": "G-004",
     "topic": "Fastow: sentence",
-    "claim": "The Justice Department announced that on September 26, 2006, Fastow was sentenced by Judge Kenneth Hoyt in Houston to six years in prison on the two conspiracy counts to which he had pleaded guilty on January 14, 2004. The release says his plea agreement required him to cooperate and to forfeit more than $20 million.",
+    "claim": "The Justice Department announced on September 26, 2006 that Fastow had been sentenced by Judge Kenneth Hoyt in Houston to six years in prison on the two conspiracy counts to which he had pleaded guilty on January 14, 2004. The release says his plea agreement required him to cooperate and to forfeit more than $20 million.",
     "quote": "Andrew S. Fastow, the former chief financial officer (CFO) of Enron Corp., was sentenced to six years in prison for his role in the conspiracy",
     "source_id": "doj-fastow-sentenced-press-2006",
     "file": "sources/candidates/doj-press-2006-09-26-fastow-sentenced.html",
@@ -82,14 +88,16 @@
       "lines": "12-20"
     },
     "source_type": "government press release",
-    "verb": "reported",
+    "verb": "announced",
     "people": [
       "Andrew Fastow"
     ],
     "event_date": "2006-09-26",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-fastow-sentenced-press-2006.txt. DISAGREEMENT: the 2004 release says forfeit 'more than $29 million' (G-002); the 2006 release says 'more than $20 million'. Report both or say 'millions of dollars'. Also, the 2004 release says he agreed to serve 10 years; the 2006 sentence was six years; the library does not explain why. The 2006 release says the conspiracy 'led to the collapse of Enron Corp. in 2002', but the same release gives the bankruptcy as Dec. 2, 2001; do not use '2002' for the collapse."
+    "notes": "line numbers refer to work/text/doj-fastow-sentenced-press-2006.txt. DISAGREEMENT: the 2004 release says forfeit 'more than $29 million' (G-002); the 2006 release says 'more than $20 million'. Report both or say 'millions of dollars'. Also, the 2004 release says he agreed to serve 10 years; the 2006 sentence was six years; the library does not explain why. The 2006 release says the conspiracy 'led to the collapse of Enron Corp. in 2002', but the same release gives the bankruptcy as Dec. 2, 2001; do not use '2002' for the collapse.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Claim said Fastow 'was sentenced' on September 26, 2006; the release is dated that day and says only that he 'was sentenced ... [the Assistant Attorney General] announced today', so the sentencing date itself is not stated. Reworded to 'announced on September 26, 2006 that Fastow had been sentenced'. DISAGREEMENT CONFIRMED and stated correctly: 2004 release 'forfeit more than $29 million' (and the IRS Commissioner's 'more than $29 million in personal assets by the Fastows'); 2006 release 'forfeit more than $20 million'. The library does not reconcile them; report both, attributed, or say 'millions of dollars'. Verb changed to 'announced'."
   },
   {
     "id": "G-005",
@@ -105,7 +113,7 @@
       "lines": "34-38, 93-122"
     },
     "source_type": "government press release",
-    "verb": "reported",
+    "verb": "announced",
     "people": [
       "Lea Fastow",
       "Andrew Fastow"
@@ -113,7 +121,9 @@
     "event_date": "2004-01-14",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-fastow-plea-press-2004.txt. CAUTION: the release announces an agreement to plead and an 'expected' plea later that day; it does not confirm the plea was entered, and says 'Fastow faces sentencing at a date to be determined.' The five-month split sentence was a joint recommendation, not a sentence imposed. Her actual sentence is not in the library. The Glisan release (doj-glisan-plea-press-2003, lines 99-101) says she was charged in May 2003 with conspiracy to commit wire fraud, money laundering conspiracy and filing false tax returns."
+    "notes": "line numbers refer to work/text/doj-fastow-plea-press-2004.txt. CAUTION: the release announces an agreement to plead and an 'expected' plea later that day; it does not confirm the plea was entered, and says 'Fastow faces sentencing at a date to be determined.' The five-month split sentence was a joint recommendation, not a sentence imposed. Her actual sentence is not in the library. The Glisan release (doj-glisan-plea-press-2003, lines 99-101) says she was charged in May 2003 with conspiracy to commit wire fraud, money laundering conspiracy and filing false tax returns.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Verified: 'has agreed to plead guilty to filing a false joint tax return for 2000'; 'expected to enter the guilty plea before Judge David Hittner ... later today'; joint recommendation of a five-month 'split' sentence; $204,444.34 from RADR, December 1997 through 2000. Caution in notes is right: the release does not confirm the plea was entered. It is consistent with Justice Sotomayor's footnote (F-010: 'In 2004, Andrew and Lea Fastow both pleaded guilty') and with the Glisan release (charged May 2003). Verb changed to 'announced'."
   },
   {
     "id": "G-006",
@@ -129,14 +139,16 @@
       "lines": "16-29"
     },
     "source_type": "government press release",
-    "verb": "pleaded guilty",
+    "verb": "announced",
     "people": [
       "Ben Glisan"
     ],
     "event_date": "2003-09-10",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-glisan-plea-press-2003.txt. He had been named in 26 counts of a superseding indictment returned May 1, 2003, which also named Fastow and Dan Boyle (lines 31-35). Plea and sentence on the same day. This answers the cast page's 'does not say what he was convicted of, whether by plea or at trial, or his sentence'."
+    "notes": "line numbers refer to work/text/doj-glisan-plea-press-2003.txt. He had been named in 26 counts of a superseding indictment returned May 1, 2003, which also named Fastow and Dan Boyle (lines 31-35). Plea and sentence on the same day. This answers the cast page's 'does not say what he was convicted of, whether by plea or at trial, or his sentence'.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Verified: plea to conspiracy to commit wire and securities fraud; sentenced the same day by Judge Hoyt to 60 months; surrendered; forfeit $938,000; no refund of about $412,000; three years' supervised release; 26 counts of the May 1, 2003 superseding indictment. Verb was 'pleaded guilty'; changed to 'announced'."
   },
   {
     "id": "G-007",
@@ -152,7 +164,7 @@
       "lines": "37-79"
     },
     "source_type": "government press release",
-    "verb": "reported",
+    "verb": "announced",
     "people": [
       "Ben Glisan",
       "Andrew Fastow",
@@ -161,7 +173,9 @@
     "event_date": "2000",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-glisan-plea-press-2003.txt. Admissions as described by DOJ. The release also calls Talon/Raptor 1 a 'prototype' for Raptors 2, 3 and 4 and says their insolvency in fall 2001 'played a substantial part' in Enron's collapse (lines 75-79). The $41 million matches the Powers Report's account of the Raptor put premium already used on the site (footnote.json, ~line 758)."
+    "notes": "line numbers refer to work/text/doj-glisan-plea-press-2003.txt. Admissions as described by DOJ. The release also calls Talon/Raptor 1 a 'prototype' for Raptors 2, 3 and 4 and says their insolvency in fall 2001 'played a substantial part' in Enron's collapse (lines 75-79). The $41 million matches the Powers Report's account of the Raptor put premium already used on the site (footnote.json, ~line 758).",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Admissions verified, including 'the put had no business purpose'. Verb changed to 'announced'."
   },
   {
     "id": "G-008",
@@ -177,7 +191,7 @@
       "lines": "110-122"
     },
     "source_type": "government press release",
-    "verb": "stated",
+    "verb": "announced",
     "people": [
       "Michael Kopper",
       "David Duncan"
@@ -185,7 +199,9 @@
     "event_date": "2002",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-glisan-plea-press-2003.txt. Background summary in a release about Glisan, not a primary record of those cases. Kopper's charges agree with the SEC's Fastow complaint (card B-039). Duncan: this is the only library statement of what he pleaded guilty to, and it differs in wording from the Supreme Court's 'pleaded guilty to witness tampering' (G-023). Neither gives the date, and nothing in the library covers what later happened to Duncan's plea; keep gap 3 partly open."
+    "notes": "line numbers refer to work/text/doj-glisan-plea-press-2003.txt. Background summary in a release about Glisan, not a primary record of those cases. Kopper's charges agree with the SEC's Fastow complaint (card B-039). Duncan: this is the only library statement of what he pleaded guilty to, and it differs in wording from the Supreme Court's 'pleaded guilty to witness tampering' (G-023). Neither gives the date, and nothing in the library covers what later happened to Duncan's plea; keep gap 3 partly open.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Background statements verified word for word. Verb changed to 'announced' (DOJ release); the claim's 'stated' wording is fine. Duncan wording difference from the Supreme Court (G-023) correctly flagged."
   },
   {
     "id": "G-009",
@@ -201,14 +217,16 @@
       "lines": "10-19"
     },
     "source_type": "government press release",
-    "verb": "reported",
+    "verb": "announced",
     "people": [
       "Richard Causey"
     ],
     "event_date": "2006-11-15",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-causey-sentenced-press-2006.txt. The release also says Causey admitted conspiring with senior management to make false and misleading statements in SEC filings and analyst calls (lines 20-28). Note: he pleaded to one count of securities fraud but 'admitted to conspiring' per DOJ; quote rather than paraphrase if both are mentioned."
+    "notes": "line numbers refer to work/text/doj-causey-sentenced-press-2006.txt. The release also says Causey admitted conspiring with senior management to make false and misleading statements in SEC filings and analyst calls (lines 20-28). Note: he pleaded to one count of securities fraud but 'admitted to conspiring' per DOJ; quote rather than paraphrase if both are mentioned.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Verified: pleaded guilty Dec. 28, 2005 to one count of securities fraud; 'sentenced today' (Nov. 15, 2006) before Judge Sim Lake to 66 months; forfeit $1.25 million, $25,000 fine, give up deferred compensation claims. Verb 'reported' changed to 'announced'."
   },
   {
     "id": "G-010",
@@ -224,7 +242,7 @@
       "lines": "37-41"
     },
     "source_type": "government press release",
-    "verb": "reported",
+    "verb": "announced",
     "people": [
       "David Delainey",
       "Timothy Despain"
@@ -232,7 +250,9 @@
     "event_date": "2006-09-18",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-fastow-sentenced-press-2006.txt. Not requested in the brief, but answers the cast page's statement that the library gives no details of Delainey's charge or sentence. Despain is not currently in the cast."
+    "notes": "line numbers refer to work/text/doj-fastow-sentenced-press-2006.txt. Not requested in the brief, but answers the cast page's statement that the library gives no details of Delainey's charge or sentence. Despain is not currently in the cast.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Delainey (Sept. 18, 2006; 30 months; one count of insider trading) and Despain verified. Verb changed to 'announced'."
   },
   {
     "id": "G-011",
@@ -247,15 +267,17 @@
       "section": "News conference transcript, Thompson opening remarks",
       "lines": "3, 21-47"
     },
-    "source_type": "government press release",
-    "verb": "stated",
+    "source_type": "DOJ news conference transcript",
+    "verb": "announced",
     "people": [
       "Michael Kopper"
     ],
     "event_date": "2002-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-dag-kopper-plea-transcript-2002.txt. DATE: the document's own page title reads '08-22-02: Deputy Attorney General Transcript News Conference' (line 3; also the HTML <title>), while its web address says 082102. The spoken text never states a date; it refers only to 'today', 'this morning' and an information 'filed today in court' (line 279). So the document itself does not settle Aug 21 vs. Aug 22. The SEC's Fastow complaint (card B-039, already on the site) gives the plea date as Aug 21, 2002, and the SEC's final judgment against Kopper is dated Aug 22 (cast page). Safest wording: 'In August 2002 ... (the SEC gives the plea date as August 21)'. SPECIFIC CHARGES: this transcript does not name statutes; it says only 'a conspiracy'. The named charges (conspiracy to commit wire fraud and money laundering) come from the SEC complaint and DOJ's 2003 Glisan release (G-008). This is a transcript of spoken remarks (with '(sic)' and '(sp)' marks), not a formal release; treat source_type as a DOJ news conference transcript."
+    "notes": "line numbers refer to work/text/doj-dag-kopper-plea-transcript-2002.txt. DATE: the document's own page title reads '08-22-02: Deputy Attorney General Transcript News Conference' (line 3; also the HTML <title>), while its web address says 082102. The spoken text never states a date; it refers only to 'today', 'this morning' and an information 'filed today in court' (line 279). So the document itself does not settle Aug 21 vs. Aug 22. The SEC's Fastow complaint (card B-039, already on the site) gives the plea date as Aug 21, 2002, and the SEC's final judgment against Kopper is dated Aug 22 (cast page). Safest wording: 'In August 2002 ... (the SEC gives the plea date as August 21)'. SPECIFIC CHARGES: this transcript does not name statutes; it says only 'a conspiracy'. The named charges (conspiracy to commit wire fraud and money laundering) come from the SEC complaint and DOJ's 2003 Glisan release (G-008). This is a transcript of spoken remarks (with '(sic)' and '(sp)' marks), not a formal release; treat source_type as a DOJ news conference transcript.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Verified: 'we're here this morning to formally announce the guilty plea in Houston of former Enron managing director Michael Kopper'. Date note checked: the page title reads '08-22-02' and the file name/URL '082102'; the spoken text says only 'today'. Source type changed from 'government press release' to 'DOJ news conference transcript'; verb to 'announced'."
   },
   {
     "id": "G-012",
@@ -270,8 +292,8 @@
       "section": "News conference transcript, Thompson opening remarks",
       "lines": "47-68"
     },
-    "source_type": "government press release",
-    "verb": "stated",
+    "source_type": "DOJ news conference transcript",
+    "verb": "announced",
     "people": [
       "Michael Kopper",
       "Andrew Fastow"
@@ -279,7 +301,9 @@
     "event_date": "2002-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-dag-kopper-plea-transcript-2002.txt. The transcript spells the schemes 'Radar' and 'South Hampton' (line 61); other library documents spell them RADR and Southampton. The CFO is not named in the transcript (Fastow held that post; do not put his name inside any quotation). 'The information alleges' - these are allegations in a charging document, although Kopper pleaded guilty to it."
+    "notes": "line numbers refer to work/text/doj-dag-kopper-plea-transcript-2002.txt. The transcript spells the schemes 'Radar' and 'South Hampton' (line 61); other library documents spell them RADR and Southampton. The CFO is not named in the transcript (Fastow held that post; do not put his name inside any quotation). 'The information alleges' - these are allegations in a charging document, although Kopper pleaded guilty to it.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Verified ('Radar', 'South Hampton' spellings as in the transcript). Source type and verb changed as for G-011. What the information 'alleges' remains an allegation described by the Deputy Attorney General."
   },
   {
     "id": "G-013",
@@ -294,15 +318,17 @@
       "section": "News conference transcript, Thompson remarks and Q&A (Chertoff)",
       "lines": "29-41, 197-199; Q&A lines 223, 277-289, 463-467"
     },
-    "source_type": "government press release",
-    "verb": "stated",
+    "source_type": "DOJ news conference transcript",
+    "verb": "announced",
     "people": [
       "Michael Kopper"
     ],
     "event_date": "2002-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-dag-kopper-plea-transcript-2002.txt. DISAGREEMENT: the site currently says (from the SEC's Fastow complaint, card B-039) that Kopper 'agreed to forfeit $4 million'. The DOJ transcript says $12 million covering both the criminal plea and the SEC case, plus about $23 million more sought ('it's in addition to the $12 million'). The figures may measure different things (criminal forfeiture only vs. combined forfeiture and disgorgement); the library does not reconcile them. Say so rather than choosing. His actual sentence is NOT in the library; gap 6 stays open for the sentence."
+    "notes": "line numbers refer to work/text/doj-dag-kopper-plea-transcript-2002.txt. DISAGREEMENT: the site currently says (from the SEC's Fastow complaint, card B-039) that Kopper 'agreed to forfeit $4 million'. The DOJ transcript says $12 million covering both the criminal plea and the SEC case, plus about $23 million more sought ('it's in addition to the $12 million'). CORRECTED BY FACT-CHECKER: the library DOES reconcile them. The SEC's Fastow complaint para. 9 (card B-039; sec-fastow-complaint line 49) says Kopper 'agreed to forfeit $4 million in criminal proceeds' AND that the SEC's final judgment ordered 'disgorgement, including a direct payment of $8 million, and additional disgorgement in the amount of $4 million forfeited in the criminal case': $4M + $8M = $12M. That matches the DOJ's '$12 million to satisfy both this plea and a related SEC complaint', the SEC's Cutler ('disgorge and forfeit approximately $12 million'), and the bankruptcy examiner ('agreed to surrender $12 million', batson-1st-interim PDF 5 n. 8). So: $4 million was the criminal forfeiture; $12 million was the total for the plea and the SEC case. The separate 'something in the order of $23 million' that the information sought to forfeit is additional ('it's in addition to the $12 million') and its outcome is not in the library. His actual sentence is NOT in the library; gap 6 stays open for the sentence.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Quotes verified, including Chertoff's maximum of 15 years and Thompson's 'it delays the sentencing until the government has secured ... all of the appropriate cooperation' (Q&A). NOTE CORRECTED: the card said the $12M (DOJ) and $4M (SEC) figures are not reconciled in the library. They are: SEC Fastow complaint para. 9 gives $4M criminal forfeiture plus $8M direct SEC disgorgement = $12M total. The two figures are consistent, not a disagreement. Source type and verb changed as for G-011."
   },
   {
     "id": "G-014",
@@ -317,15 +343,17 @@
       "section": "News conference transcript, Cutler remarks",
       "lines": "99-115"
     },
-    "source_type": "government press release",
-    "verb": "stated",
+    "source_type": "DOJ news conference transcript",
+    "verb": "announced",
     "people": [
       "Michael Kopper"
     ],
     "event_date": "2002-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-dag-kopper-plea-transcript-2002.txt. Consistent with the cast page (SEC final judgment Aug 22, 2002). The transcript also says the investigation 'has already produced the guilty plea of Arthur Andersen partner David Duncan, and the trial conviction of the Arthur Andersen partnership' (lines 71-74), confirming both happened before August 2002."
+    "notes": "line numbers refer to work/text/doj-dag-kopper-plea-transcript-2002.txt. Consistent with the cast page (SEC final judgment Aug 22, 2002). The transcript also says the investigation 'has already produced the guilty plea of Arthur Andersen partner David Duncan, and the trial conviction of the Arthur Andersen partnership' (lines 71-74), confirming both happened before August 2002.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Cutler's statement verified. Source type and verb changed as for G-011."
   },
   {
     "id": "G-015",
@@ -346,7 +374,9 @@
     "event_date": "2002-03-07",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-andersen-indictment-2002.txt. Filing stamp checked against the page image (PDF p. 1): 'CLERK. US. DISTRICT COURT Filed 3/7/02'. This DOJ web copy is a retyped version: the case number is blank and the foreperson line is unsigned. The manifest notes the indictment was unsealed at a DOJ news conference on Mar. 14, 2002 (not in library). Use 'the indictment charged/alleged'. The Supreme Court opinion (G-022) confirms 'In March 2002 ... indicted ... on one count'. Line numbers approximate."
+    "notes": "line numbers refer to work/text/doj-andersen-indictment-2002.txt. Filing stamp checked against the page image (PDF p. 1): 'CLERK. US. DISTRICT COURT Filed 3/7/02'. This DOJ web copy is a retyped version: the case number is blank and the foreperson line is unsigned. The manifest notes the indictment was unsealed at a DOJ news conference on Mar. 14, 2002 (not in library). Use 'the indictment charged/alleged'. The Supreme Court opinion (G-022) confirms 'In March 2002 ... indicted ... on one count'. Line numbers approximate.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified verbatim in the PDF text layer (pdftotext) at the stated pages; claim is limited to allegations; verb 'alleged' is correct for an indictment. Filing stamp 'Filed 3/7/02' confirmed (PDF 1). Single charge under 18 U.S.C. § 1512(b)(2), Oct. 10 to Nov. 9, 2001, confirmed (para. 13, PDF 6)."
   },
   {
     "id": "G-016",
@@ -367,7 +397,9 @@
     "event_date": "2001-10-23",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-andersen-indictment-2002.txt. Allegations only. Para. 12 (PDF p. 6) further alleges that after the SEC subpoena of about Nov. 8, 2001, the team was told there could be 'no more shredding'. The Supreme Court's opinion describes the same events as facts in its background, largely citing the government's brief (G-022). The indictment gives no count of documents destroyed (gap 20 stays open)."
+    "notes": "line numbers refer to work/text/doj-andersen-indictment-2002.txt. Allegations only. Para. 12 (PDF p. 6) further alleges that after the SEC subpoena of about Nov. 8, 2001, the team was told there could be 'no more shredding'. The Supreme Court's opinion describes the same events as facts in its background, largely citing the government's brief (G-022). The indictment gives no count of documents destroyed (gap 20 stays open).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified verbatim in the PDF text layer (pdftotext) at the stated pages; claim is limited to allegations; verb 'alleged' is correct for an indictment. Paras. 10-11 (PDF 5) confirm Oct. 23 start, urgent meetings, 'Tons of paper', computer purge, and Portland, Chicago and London."
   },
   {
     "id": "G-017",
@@ -390,13 +422,15 @@
     "event_date": "2001-10",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-andersen-indictment-2002.txt. Allegations only. Para. 8 also alleges an internal Andersen review in 2000 rated the Enron audit team 'only a \"2\" on a scale of one to five', and that the engagement team had gone against its own Professional Standards Group on SPE accounting in spring 2001. Useful for the 'Who Knew What, When' lens (tag as allegation)."
+    "notes": "line numbers refer to work/text/doj-andersen-indictment-2002.txt. Allegations only. Para. 8 also alleges an internal Andersen review in 2000 rated the Enron audit team 'only a \"2\" on a scale of one to five', and that the engagement team had gone against its own Professional Standards Group on SPE accounting in spring 2001. Useful for the 'Who Knew What, When' lens (tag as allegation).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified verbatim in the PDF text layer (pdftotext) at the stated pages; claim is limited to allegations; verb 'alleged' is correct for an indictment. Para. 8 (PDF 3-4) confirms the $1.2 billion equity point, Watkins, the Oct. 9 New York law firm, the '2' rating and the Professional Standards Group point."
   },
   {
     "id": "G-018",
     "topic": "Andersen v. U.S.: holding",
     "claim": "In Arthur Andersen LLP v. United States, decided May 31, 2005, the Supreme Court held that the jury instructions failed to properly explain the elements of the 'corrupt persuasion' crime under § 1512(b), reversed the Fifth Circuit's judgment affirming Andersen's conviction, and sent the case back for further proceedings.",
-    "quote": "We hold that the jury instructions failed to convey properly the elements of a “corrup[t] persua[sion]” conviction under § 1512(b), and there-fore reverse.",
+    "quote": "We hold that the jury instructions failed to convey properly the elements of a “corrup[t] persua[sion]” conviction under § 1512(b), and therefore reverse.",
     "source_id": "andersen-scotus-full-usreports",
     "file": "sources/candidates/arthur-andersen-v-us-544-us-696-2005-usreports.pdf",
     "locator": {
@@ -411,7 +445,9 @@
     "event_date": "2005-05-31",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. Quote the opinion, not the Syllabus. The printed text hyphenates 'there-fore' across a line break; write 'therefore'. Disposition at p. 708 (PDF 13): 'The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.' Decision date from the header, p. 696 (PDF 1). The Court did not find Andersen innocent. What happened after the remand is NOT in the library (gap 5 remains open for that part)."
+    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. Quote the opinion, not the Syllabus. The printed text hyphenates 'there-fore' across a line break; write 'therefore'. Disposition at p. 708 (PDF 13): 'The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.' Decision date from the header, p. 696 (PDF 1). The Court did not find Andersen innocent. What happened after the remand is NOT in the library (gap 5 remains open for that part).",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified at 544 U.S. at 698 (PDF 3). Removed the line-break hyphen ('there-fore' to 'therefore') from the quote. Disposition 'reversed ... remanded' at p. 708 confirmed. Verb 'held' correct."
   },
   {
     "id": "G-019",
@@ -426,13 +462,15 @@
       "section": "Reporter's line preceding the opinion",
       "lines": "101"
     },
-    "source_type": "court holding",
-    "verb": "held",
+    "source_type": "reporter's line in U.S. Reports (vote of the Court)",
+    "verb": "stated",
     "people": [],
     "event_date": "2005-05-31",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. This line is printed at the end of the Syllabus material in U.S. Reports; the opinion itself (pp. 698-708) has no concurrences or dissents. Citing '544 U.S. 696, 697' is acceptable for the vote."
+    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. This line is printed at the end of the Syllabus material in U.S. Reports; the opinion itself (pp. 698-708) has no concurrences or dissents. Citing '544 U.S. 696, 697' is acceptable for the vote.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified (PDF 2). Verb 'held' and source type 'court holding' changed: the vote line is a statement in the official report, not a holding."
   },
   {
     "id": "G-020",
@@ -453,7 +491,9 @@
     "event_date": "2005-05-31",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. Other short verbatim options on the same pages: 'The instructions also diluted the meaning of “corruptly” so that it covered innocent conduct.' (p. 706); 'With regard to such innocent conduct, the “corruptly” instructions did no limiting work whatsoever.' (p. 707)."
+    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. Other short verbatim options on the same pages: 'The instructions also diluted the meaning of “corruptly” so that it covered innocent conduct.' (p. 706); 'With regard to such innocent conduct, the “corruptly” instructions did no limiting work whatsoever.' (p. 707).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified at 544 U.S. at 706 (PDF 11); 'honestly and sincerely believed', the Government's insistence on excluding 'dishonestly' and adding 'impede' confirmed (PDF 11-12). Verb 'held' acceptable for the Court's reasoning."
   },
   {
     "id": "G-021",
@@ -474,7 +514,9 @@
     "event_date": "2005-05-31",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. 'persaude[r]' is the official U.S. Reports misspelling; keep it (or add [sic]) if quoting, or use the shorter paraphrase. p. 708: 'For these reasons, the jury instructions here were flawed in important respects.'"
+    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. 'persaude[r]' is the official U.S. Reports misspelling; keep it (or add [sic]) if quoting, or use the shorter paraphrase. p. 708: 'For these reasons, the jury instructions here were flawed in important respects.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified at 544 U.S. at 707-708 (PDF 12-13), including the official misspelling 'persaude[r]'."
   },
   {
     "id": "G-022",
@@ -495,7 +537,9 @@
     "event_date": "2002",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. The opinion does not give the verdict date; the site's June 15, 2002 comes from Batson (card C-038) and DOJ's Glisan release says 'June 2002' (G-008). 'Allen charge' needs a glossary entry or plain-language gloss."
+    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. The opinion does not give the verdict date; the site's June 15, 2002 comes from Batson (card C-038) and DOJ's Glisan release says 'June 2002' (G-008). 'Allen charge' needs a glossary entry or plain-language gloss.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote and the seven days / Allen charge / three more days sequence verified at 544 U.S. at 702 (PDF 7). Verb 'stated' correct for procedural history."
   },
   {
     "id": "G-023",
@@ -518,7 +562,9 @@
     "event_date": "2002",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. Background statement, not a holding about Duncan. Wording differs from DOJ 2003 ('pleaded guilty in 2002 to obstructing an SEC investigation', G-008); both describe the same plea under the obstruction/witness-tampering statute, but the library has no charging document or judgment for Duncan. Give neither a date beyond '2002' (DOJ). What happened to his plea afterwards is not in the library; say so."
+    "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. Background statement, not a holding about Duncan. Wording differs from DOJ 2003 ('pleaded guilty in 2002 to obstructing an SEC investigation', G-008); both describe the same plea under the obstruction/witness-tampering statute, but the library has no charging document or judgment for Duncan. Give neither a date beyond '2002' (DOJ). What happened to his plea afterwards is not in the library; say so.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified at 544 U.S. at 702 (PDF 7). Background statement; wording difference with DOJ (G-008) correctly flagged."
   },
   {
     "id": "G-024",
@@ -541,7 +587,9 @@
     "event_date": "2011-04-06",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/ca5-skilling-2011-remand.txt. 'Harmless' means the court concluded beyond a reasonable doubt that the jury would have convicted him on a valid theory (conspiracy to commit securities fraud) anyway, because the evidence was 'overwhelming' (p. 16). The 2009 reason for resentencing: a wrongly applied 'financial institution' sentencing enhancement (p. 2, lines 75-79). Panel: Smith and Prado, Circuit Judges, and Moses, District Judge. Reported at 638 F.3d 480 (per the 2013 agreement, G-027)."
+    "notes": "line numbers refer to work/text/ca5-skilling-2011-remand.txt. 'Harmless' means the court concluded beyond a reasonable doubt that the jury would have convicted him on a valid theory (conspiracy to commit securities fraud) anyway, because the evidence was 'overwhelming' (p. 16). The 2009 reason for resentencing: a wrongly applied 'financial institution' sentencing enhancement (p. 2, lines 75-79). Panel: Smith and Prado, Circuit Judges, and Moses, District Judge. Reported at 638 F.3d 480 (per the 2013 agreement, G-027).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified (PDF 16); 'FILED April 6, 2011', panel Smith and Prado, Circuit Judges, and Moses, District Judge, confirmed (PDF 1); 'overwhelming' evidence language confirmed (PDF 9-12). Verb 'held' correct."
   },
   {
     "id": "G-025",
@@ -564,7 +612,9 @@
     "event_date": "2011-04-06",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/ca5-skilling-2011-remand.txt. Counts agree with the site's '19 counts'. Footnote 6 (p. 16) adds that even without the conspiracy finding, most other convictions rest on Skilling's own conduct."
+    "notes": "line numbers refer to work/text/ca5-skilling-2011-remand.txt. Counts agree with the site's '19 counts'. Footnote 6 (p. 16) adds that even without the conspiracy finding, most other convictions rest on Skilling's own conduct.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote and counts (one conspiracy, twelve securities fraud, five false representations to auditors, one insider trading; 292 months, three years' supervised release, $45 million restitution) verified (PDF 2, 16)."
   },
   {
     "id": "G-026",
@@ -587,7 +637,9 @@
     "event_date": "2013-05-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-skilling-sentencing-agreement-2013.txt. These are the parties' recitals, not court findings; they agree with the court opinions in the library (jury verdict May 25, 2006; sentence Oct 23, 2006; Fifth Circuit Jan 6, 2009; Supreme Court June 24, 2010; Fifth Circuit Apr 6, 2011). The defendant's signature page carries a fax stamp dated 05-05-2013 (PDF p. 7)."
+    "notes": "line numbers refer to work/text/doj-skilling-sentencing-agreement-2013.txt. These are the parties' recitals, not court findings; they agree with the court opinions in the library (jury verdict May 25, 2006; sentence Oct 23, 2006; Fifth Circuit Jan 6, 2009; Supreme Court June 24, 2010; Fifth Circuit Apr 6, 2011). The defendant's signature page carries a fax stamp dated 05-05-2013 (PDF p. 7).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (download_log.csv). Recitals verified (PDF 1-2): filed 05/08/13; cert. denied April 16, 2012; in custody since December 13, 2006; no resentencing date set; also jury verdict May 25, 2006 and sentence October 23, 2006. Verb 'stated' is right here: these are recitals of fact in the agreement, not terms the parties agreed to. Fax stamp '05-05-2013' confirmed on PDF 7."
   },
   {
     "id": "G-027",
@@ -603,14 +655,16 @@
       "lines": "84-147"
     },
     "source_type": "court filing (agreement between the parties)",
-    "verb": "stated",
+    "verb": "agreed",
     "people": [
       "Jeffrey Skilling"
     ],
     "event_date": "2013-05-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-skilling-sentencing-agreement-2013.txt. VERB: 'agreed' / 'the agreement provides'. This is a recommendation to the judge, not the sentence. The sentence actually imposed at resentencing is NOT in the library (DOJ's 2013 resentencing release could not be downloaded; the judgment is on PACER) - gap 4 stays partly open. Para. 13: government will not oppose credit for about six weeks of home confinement."
+    "notes": "line numbers refer to work/text/doj-skilling-sentencing-agreement-2013.txt. VERB: 'agreed' / 'the agreement provides'. This is a recommendation to the judge, not the sentence. The sentence actually imposed at resentencing is NOT in the library (DOJ's 2013 resentencing release could not be downloaded; the judgment is on PACER) - gap 4 stays partly open. Para. 13: government will not oppose credit for about six weeks of home confinement.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Terms verified (paras. 7-12, PDF 2-3; para. 15(b), PDF 4). Verb 'stated' changed to 'agreed': these are the agreement's terms. Still a joint recommendation, not the sentence imposed."
   },
   {
     "id": "G-028",
@@ -633,7 +687,9 @@
     "event_date": "2013-05-08",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/doj-skilling-sentencing-agreement-2013.txt. These are the government's stated considerations in a negotiated filing. Useful for 'Follow the Money'. Attribute: 'the agreement says'."
+    "notes": "line numbers refer to work/text/doj-skilling-sentencing-agreement-2013.txt. These are the government's stated considerations in a negotiated filing. Useful for 'Follow the Money'. Attribute: 'the agreement says'.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK (download_log.csv). Para. 15(a) and (c) verified (PDF 4). These are the Government's listed 'Relevant Considerations'; verb 'stated' with attribution 'the agreement says' is right."
   },
   {
     "id": "G-029",
@@ -648,15 +704,17 @@
       "section": "SEC Litigation Release No. 20441 / AAER No. 2777, Jan. 28, 2008, paras. 1-2, 4",
       "lines": "282-298"
     },
-    "source_type": "SEC allegation",
-    "verb": "reported",
+    "source_type": "SEC litigation release (settled action)",
+    "verb": "announced",
     "people": [
       "David Duncan"
     ],
     "event_date": "2008-01-28",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/sec-duncan-litrel-20441.txt. Civil Action No. 4:08-CV-00314 (S.D. Tex.). The release lists no money penalty or disgorgement for Duncan. It says NOTHING about his criminal case (no mention of a plea). The allegations (reckless in not knowing his 1998-2000 audit reports were false; 'Prepays', 'Nahanni', 'Raptors') remain allegations; 'without admitting or denying' must accompany any mention. Answers ch6 and cast: 'its terms are not in the library'."
+    "notes": "line numbers refer to work/text/sec-duncan-litrel-20441.txt. Civil Action No. 4:08-CV-00314 (S.D. Tex.). The release lists no money penalty or disgorgement for Duncan. It says NOTHING about his criminal case (no mention of a plea). The allegations (reckless in not knowing his 1998-2000 audit reports were false; 'Prepays', 'Nahanni', 'Raptors') remain allegations; 'without admitting or denying' must accompany any mention. Answers ch6 and cast: 'its terms are not in the library'.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Verified: filing and simultaneous settlement; consent to permanent injunction (Section 10(b), Rule 10b-5) and Rule 102(e) permanent suspension; 'without admitting or denying'; 'subject to court approval'; no money penalty listed. Source type 'SEC allegation' changed: the settlement itself is an announced fact; only the complaint's allegations are allegations. Verb 'reported' changed to 'announced'."
   },
   {
     "id": "G-030",
@@ -671,15 +729,17 @@
       "section": "SEC Litigation Release No. 20441, para. 5",
       "lines": "300"
     },
-    "source_type": "SEC allegation",
-    "verb": "reported",
+    "source_type": "SEC litigation release (settled action)",
+    "verb": "announced",
     "people": [
       "Michael Odom"
     ],
     "event_date": "2008-01-28",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/sec-duncan-litrel-20441.txt. Odom appears in the Supreme Court's narrative (544 U.S. at 699-700) as the partner who urged compliance with the retention policy on Oct 10, 2001. The SEC orders are administrative findings entered by consent. The orders themselves are not in the library."
+    "notes": "line numbers refer to work/text/sec-duncan-litrel-20441.txt. Odom appears in the Supreme Court's narrative (544 U.S. at 699-700) as the partner who urged compliance with the retention policy on Oct 10, 2001. The SEC orders are administrative findings entered by consent. The orders themselves are not in the library.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified verbatim against the original HTML file (sources/candidates/...), not only the text copy. Verified. Source type and verb changed as for G-029."
   },
   {
     "id": "G-031",
@@ -694,7 +754,7 @@
       "section": "Cover page; contents and witness list; opening of hearing",
       "lines": "1-40, 150-165, 198-215"
     },
-    "source_type": "sworn testimony",
+    "source_type": "hearing testimony and record (no oath shown)",
     "verb": "stated",
     "people": [
       "Joseph Berardino",
@@ -703,7 +763,9 @@
     "event_date": "2001-12-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/hrg-hfs-enron-investors-pt1.txt. Chairs: Richard H. Baker (Capital Markets) and Sue W. Kelly (Oversight and Investigations). The witness list spells the firm 'Arthur Anderson, LLP' (typo). The transcript text (pages 1-71) contains no swearing-in; do not say 'under oath' for this hearing. PDF page = printed page + 6 for the hearing body. NOTE for coordinator: work/text copy has no text for PDF pages 72-168 (appendix scans); I read those pages as images."
+    "notes": "line numbers refer to work/text/hrg-hfs-enron-investors-pt1.txt. Chairs: Richard H. Baker (Capital Markets) and Sue W. Kelly (Oversight and Investigations). The witness list spells the firm 'Arthur Anderson, LLP' (typo). The transcript text (pages 1-71) contains no swearing-in; do not say 'under oath' for this hearing. PDF page = printed page + 6 for the hearing body. NOTE for coordinator: work/text copy has no text for PDF pages 72-168 (appendix scans); I read those pages as images.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Cover (PDF 1), contents and witness list (PDF 5) and hearing opening (PDF 7) verified: joint hearing of the Capital Markets and Oversight subcommittees, Dec. 12, 2001, Serial No. 107-51, Part 1; four witnesses as stated. I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'."
   },
   {
     "id": "G-032",
@@ -718,15 +780,17 @@
       "section": "Appendix: 'Remarks of Joseph F. Berardino, Managing Partner – Chief Executive Officer, Andersen' (prepared statement)",
       "lines": "no text layer; read from page images"
     },
-    "source_type": "sworn testimony",
-    "verb": "testified",
+    "source_type": "hearing testimony and record (no oath shown)",
+    "verb": "stated (written statement submitted to the hearing)",
     "people": [
       "Joseph Berardino"
     ],
     "event_date": "2001-12-12",
     "from_ocr": false,
-    "ocr_checked_against_image": false,
-    "notes": "Read directly from the page images (PDF 119-122); the text copy is blank for these pages. Quote transcribed from the image and checked twice. COMPARISON WITH POWERS (card A-048): wording identical; Powers omits nothing inside the quoted span. DIFFERENCE IN CONTEXT: the words come from Berardino's WRITTEN prepared statement (header 'Remarks of Joseph F. Berardino ... December 12, 2001'), which the hearing record prints in its appendix ('can be found on page 113 in the appendix', p. 49). In his spoken statement he said it differently (G-033). So the precise attribution is 'in written testimony submitted to a House hearing on December 12, 2001'. Title: the written statement says 'Managing Partner – Chief Executive Officer, Andersen'; the spoken-statement heading says 'Chief Executive Officer, Arthur Andersen, LLP' (p. 47). The next sentence in the statement: 'this appears to have been the result of a reasonable effort, made in good faith.' Not sworn per the transcript; use 'told Congress' or 'said in written testimony'. Berardino can now be named for A-048. (Not OCR: the PDF has a text layer for the hearing body but the appendix scan pages had no text in work/text.)"
+    "ocr_checked_against_image": true,
+    "notes": "Read directly from the page images (PDF 119-122); the text copy is blank for these pages. Quote transcribed from the image and checked twice. COMPARISON WITH POWERS (card A-048): wording identical; Powers omits nothing inside the quoted span. DIFFERENCE IN CONTEXT: the words come from Berardino's WRITTEN prepared statement (header 'Remarks of Joseph F. Berardino ... December 12, 2001'), which the hearing record prints in its appendix ('can be found on page 113 in the appendix', p. 49). In his spoken statement he said it differently (G-033). So the precise attribution is 'in written testimony submitted to a House hearing on December 12, 2001'. Title: the written statement says 'Managing Partner – Chief Executive Officer, Andersen'; the spoken-statement heading says 'Chief Executive Officer, Arthur Andersen, LLP' (p. 47). The next sentence in the statement: 'this appears to have been the result of a reasonable effort, made in good faith.' Not sworn per the transcript; use 'told Congress' or 'said in written testimony'. Berardino can now be named for A-048. (Not OCR: the PDF has a text layer for the hearing body but the appendix scan pages had no text in work/text.)",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote checked against the page image (PDF 122, printed p. 116): verbatim. Header 'Remarks of Joseph F. Berardino, Managing Partner – Chief Executive Officer, Andersen ... December 12, 2001' confirmed (PDF 119). Wording identical to the Powers Report's quotation (powers-report-sec lines 3124-3129). I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'. Verb 'testified' changed to 'stated (written statement submitted to the hearing)'."
   },
   {
     "id": "G-033",
@@ -741,15 +805,17 @@
       "section": "Statement of Joseph F. Berardino (oral)",
       "lines": "2899-2910"
     },
-    "source_type": "sworn testimony",
-    "verb": "testified",
+    "source_type": "hearing testimony and record (no oath shown)",
+    "verb": "told the subcommittees (not shown under oath)",
     "people": [
       "Joseph Berardino"
     ],
     "event_date": "2001-12-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/hrg-hfs-enron-investors-pt1.txt. He added: 'I do believe we did a professional job overall and that this error did not cause Enron's collapse.' He also said Andersen had 'notified the audit committee of possible illegal acts within the company.' His own view; Andersen's later statements and the investigations are separate."
+    "notes": "line numbers refer to work/text/hrg-hfs-enron-investors-pt1.txt. He added: 'I do believe we did a professional job overall and that this error did not cause Enron's collapse.' He also said Andersen had 'notified the audit committee of possible illegal acts within the company.' His own view; Andersen's later statements and the investigations are separate. FACT-CHECKER: the spoken statement does not name Chewco; it says 'the larger of these'. The name comes from his written statement (PDF 120, printed p. 114: 'the larger SPE, an entity called Chewco').",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified in the text layer (PDF 54, printed p. 48). The parenthetical '(Chewco)' in the claim is supported by the written statement, not the spoken one; noted. I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'. Verb changed to 'told the subcommittees (not shown under oath)'."
   },
   {
     "id": "G-034",
@@ -764,15 +830,17 @@
       "section": "Oral statement; prepared statement; letter of clarification to Rep. Baker, Dec. 13, 2001",
       "lines": "2916-2922 (oral); letter read from page image"
     },
-    "source_type": "sworn testimony",
+    "source_type": "hearing testimony and record (no oath shown)",
     "verb": "stated",
     "people": [
       "Joseph Berardino"
     ],
     "event_date": "2001-12-13",
     "from_ocr": false,
-    "ocr_checked_against_image": false,
-    "notes": "Letter read from page image PDF 128 (printed p. 122). Use $52 million. The same letter corrects 'more than 500 million' EnronOnline transactions to 'more than 500,000'. Oral breakdown ($25M audit, remaining $27M, of which $13M consulting) is from the uncorrected oral statement; 25 + 27 = 52, consistent with the correction. (Not OCR: the PDF has a text layer for the hearing body but the appendix scan pages had no text in work/text.)"
+    "ocr_checked_against_image": true,
+    "notes": "Letter read from page image PDF 128 (printed p. 122). Use $52 million. The same letter corrects 'more than 500 million' EnronOnline transactions to 'more than 500,000'. Oral breakdown ($25M audit, remaining $27M, of which $13M consulting) is from the uncorrected oral statement; 25 + 27 = 52, consistent with the correction. (Not OCR: the PDF has a text layer for the hearing body but the appendix scan pages had no text in work/text.)",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Letter checked against the page image (PDF 128, printed p. 122), dated December 13, 2001: quote verbatim; also confirms the 500,000 correction. Oral figures ($59 million; $25 million audit; $27 million remainder; $13 million consulting) verified (PDF 54). Written statement's '$52 million' confirmed (PDF 119). I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'."
   },
   {
     "id": "G-035",
@@ -787,15 +855,17 @@
       "section": "Letter of Joseph F. Berardino to Hon. Michael G. Oxley, Jan. 21, 2002 (written response)",
       "lines": "no text layer; read from page images"
     },
-    "source_type": "sworn testimony",
+    "source_type": "hearing testimony and record (no oath shown)",
     "verb": "stated",
     "people": [
       "Joseph Berardino"
     ],
     "event_date": "2002-01-21",
     "from_ocr": false,
-    "ocr_checked_against_image": false,
-    "notes": "Read from page images PDF 129-130. The letter also says the $11.4 million Barclays 'equity' was in the form of yield certificates bought from two intermediaries (Big River Funding LLC and Little River Funding LLC) that Andersen learned of in early November 2001. Relevant to the Chewco chapter: it corrects the written statement's 'Enron had arranged a separate agreement with that institution' (p. 115). Andersen's own account, not an investigative finding. (Not OCR: the PDF has a text layer for the hearing body but the appendix scan pages had no text in work/text.)"
+    "ocr_checked_against_image": true,
+    "notes": "Read from page images PDF 129-130. The letter also says the $11.4 million Barclays 'equity' was in the form of yield certificates bought from two intermediaries (Big River Funding LLC and Little River Funding LLC) that Andersen learned of in early November 2001. Relevant to the Chewco chapter: it corrects the written statement's 'Enron had arranged a separate agreement with that institution' (p. 115). Andersen's own account, not an investigative finding. (Not OCR: the PDF has a text layer for the hearing body but the appendix scan pages had no text in work/text.)",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Letter checked against the page images (PDF 129-130, printed pp. 123-124), dated January 21, 2002: quote verbatim; Dec. 30, 1997 JEDI reserve agreement, $6 million, 'only about half the required 3% equity was actually at risk', Big River and Little River all confirmed. Andersen's own account. I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'."
   },
   {
     "id": "G-036",
@@ -810,14 +880,16 @@
       "section": "Questioning of Robert K. Herdman by Rep. Toomey",
       "lines": "2090-2123"
     },
-    "source_type": "sworn testimony",
-    "verb": "testified",
+    "source_type": "hearing testimony and record (no oath shown)",
+    "verb": "told the subcommittees (not shown under oath)",
     "people": [
       "Robert Herdman"
     ],
     "event_date": "2001-12-12",
     "from_ocr": false,
     "ocr_checked_against_image": false,
-    "notes": "line numbers refer to work/text/hrg-hfs-enron-investors-pt1.txt. A contemporary official explanation of the 3% test, good for the glossary entry on the 3% rule / SPE consolidation. Herdman's title from the witness list (p. V): 'Chief Accountant, U.S. Securities and Exchange Commission'. Not sworn per the transcript; 'told the subcommittees' is safest."
+    "notes": "line numbers refer to work/text/hrg-hfs-enron-investors-pt1.txt. A contemporary official explanation of the 3% test, good for the glossary entry on the 3% rule / SPE consolidation. Herdman's title from the witness list (p. V): 'Chief Accountant, U.S. Securities and Exchange Commission'. Not sworn per the transcript; 'told the subcommittees' is safest.",
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote verified in the text layer (PDF 40, printed p. 34). I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'. Verb changed to 'told the subcommittees (not shown under oath)'."
   }
 ]

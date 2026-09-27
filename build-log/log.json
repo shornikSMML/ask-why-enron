@@ -1,6 +1,6 @@
 {
   "project": "Ask Why: The Rise and Fall of Enron",
-  "generated": "2026-09-27T21:13:25Z",
+  "generated": "2026-09-27T21:20:07Z",
   "generated_note": "Time of the newest coordinator note; the log is rebuilt from the notes by work/tools/build_log.py.",
   "summary": {
     "agents": 22,
@@ -8,8 +8,8 @@
     "runs_from_a_brief": 40,
     "runs_resumed_by_message": 40,
     "runs_still_open": 0,
-    "coordinator_decisions": 34,
-    "owner_decisions": 9,
+    "coordinator_decisions": 35,
+    "owner_decisions": 10,
     "library_documents": 97,
     "sources_read": 90,
     "sources_read_ids": [
@@ -253,7 +253,7 @@
         "runs": 43,
         "runs_resumed_by_message": 26,
         "runs_still_open": 0,
-        "coordinator_decisions": 11,
+        "coordinator_decisions": 12,
         "fact_card_series": [
           "K",
           "N",
@@ -459,7 +459,7 @@
       "id": "phase2",
       "name": "Phase 2",
       "start": "2026-09-27T00:54:22Z",
-      "end": "2026-09-27T21:13:25Z",
+      "end": "2026-09-27T21:20:07Z",
       "last_note": null,
       "status": "complete (as of the newest note)",
       "waves": [
@@ -538,7 +538,7 @@
         "runs": 43,
         "runs_resumed_by_message": 26,
         "runs_still_open": 0,
-        "coordinator_decisions": 11,
+        "coordinator_decisions": 12,
         "fact_card_series": [
           "K",
           "N",
@@ -618,6 +618,13 @@
       "type": "decision",
       "title": "Owner added the 10 Phase 2 documents; second revision pass started",
       "detail": "Owner pasted the rows, updated the 10 Phase 1 rows to approved, and ran the GitHub Action. Coordinator merged main and re-checked all 95 fingerprints: all match. 9 of 10 fresh downloads are identical to the Scout's copies; the PCAOB page differs only in cache-busting codes in its links (visible text identical). Second revision pass: Reader D cards (T series), Fact-Checker, Reform Writer updates Why This Matters to You, re-check, integrate.",
+      "phase": "phase2"
+    },
+    {
+      "time": "2026-09-27T21:20:07Z",
+      "type": "decision",
+      "title": "Owner asked to publish on GitHub Pages",
+      "detail": "Added .nojekyll so GitHub Pages serves files as-is, updated README status, and opened a pull request from the working branch into main for the owner to review and merge.",
       "phase": "phase2"
     }
   ],
@@ -872,6 +879,13 @@
         "type": "decision",
         "title": "Second revision pass complete",
         "detail": "Why This Matters to You now gives a sourced post-2003 account from the 10 owner-approved documents; 56 new cards all checked; page passes final fact-check (105 citations).",
+        "phase": "phase2"
+      },
+      {
+        "time": "2026-09-27T21:20:07Z",
+        "type": "decision",
+        "title": "Owner asked to publish on GitHub Pages",
+        "detail": "Added .nojekyll so GitHub Pages serves files as-is, updated README status, and opened a pull request from the working branch into main for the owner to review and merge.",
         "phase": "phase2"
       }
     ]
@@ -8679,6 +8693,12 @@
       "type": "agent_finish",
       "label": "Finished: Reference Writer (accepted)",
       "agent_id": "reference",
+      "phase": "phase2"
+    },
+    {
+      "time": "2026-09-27T21:20:07Z",
+      "type": "decision",
+      "label": "Coordinator decision: Owner asked to publish on GitHub Pages",
       "phase": "phase2"
     }
   ]

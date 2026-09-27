@@ -484,28 +484,12 @@
     });
   }
 
-  // Find the element for an anchor. Exact id first; otherwise a chapter heading or
-  // figure whose id contains the anchor's words in order ("ljm" -> "the-ljm-partnerships",
-  // "november-8-restatement" -> "november-8-the-restatement"). Returns {el, exact}.
+  // Find the element for an anchor (exact id). Kept as one function so pathways and
+  // tests resolve anchors the same way.
   function resolveAnchor(id) {
     id = String(id || "").replace(/^#/, "");
-    if (!id) return { el: null, exact: false };
-    var el = document.getElementById(id);
-    if (el) return { el: el, exact: true };
-    var want = slug(id).split("-");
-    var cands = document.querySelectorAll("main h2[id], main h3[id], main figure[id], main section[id]");
-    for (var i = 0; i < cands.length; i++) {
-      var have = cands[i].id.split("-"), k = 0;
-      for (var j = 0; j < have.length && k < want.length; j++) if (have[j] === want[k]) k++;
-      if (k === want.length) return { el: cands[i], exact: false };
-    }
-    return { el: null, exact: false };
-  }
-  function scrollToHashFallback() {
-    var h = decodeURIComponent((location.hash || "").slice(1));
-    if (!h || document.getElementById(h) || /[?&]path=/.test(location.search)) return;
-    var r = resolveAnchor(h);
-    if (r.el) { r.el.scrollIntoView({ block: "start" }); console.info("Anchor #" + h + " resolved to #" + r.el.id); }
+    var el = id ? document.getElementById(id) : null;
+    return { el: el, exact: !!el };
   }
 
   /* ---------- init ---------- */
@@ -521,7 +505,11 @@
     headingIds();
     if (/[?&]cards\b/.test(location.search)) body.classList.add("show-cards");
     enhance(document);
-    scrollToHashFallback();
+    // Ids added by script (headings, figures) exist only now: honour the #hash.
+    if (location.hash && !/[?&]path=/.test(location.search)) {
+      var t = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+      if (t) t.scrollIntoView({ block: "start" });
+    }
 
     document.addEventListener("keydown", function (e) {
       if (e.key === "Escape") { closePopover(true); return; }

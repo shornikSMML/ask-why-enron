@@ -106,7 +106,7 @@
       if (!t) { console.warn("Pathway " + p.id + " stop " + n + ": anchor #" + a + " not found on this page"); A.pathwayStop = { id: p.id, stop: n, anchor: a, resolved: null }; return; }
       if (!r.exact) console.info("Pathway " + p.id + " stop " + n + ": #" + a + " matched #" + t.id);
       A.pathwayStop = { id: p.id, stop: n, anchor: a, resolved: t.id, exact: r.exact, fallback: !!viaFallback };
-      if (!/^(chapter|main)$/.test(t.id) && t.tagName !== "ARTICLE") t.classList.add("pw-target");
+      if (!/^(chapter|main)$/.test(t.id)) t.classList.add("pw-target");
       if (t.tagName === "DETAILS") t.open = true;
       var go = function () { t.scrollIntoView({ block: "start" }); };
       go();

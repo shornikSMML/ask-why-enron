@@ -272,7 +272,13 @@ def phase2_tests(browser, problems, notes):
             if anchor:
                 if not r or not r.get("resolved"):
                     problems.append(f"[pathway] {pw_['id']} stop {i}: #{anchor} not found on {file_part}" + (" (nor its fallback)" if st.get("fallback") else ""))
-                elif r.get("fallback"):
+                else:
+                    hidden = page.evaluate("""(id) => { const t = document.getElementById(id), h = document.querySelector('.site-header');
+                        const hb = getComputedStyle(h).position === 'sticky' ? h.getBoundingClientRect().bottom : 0;
+                        return t.getBoundingClientRect().top < hb - 1; }""", r["resolved"])
+                    if hidden and r["resolved"] not in ("chapter",):
+                        problems.append(f"[pathway] {pw_['id']} stop {i}: #{r['resolved']} is hidden under the header after the jump")
+                if r and r.get("resolved") and r.get("fallback"):
                     used_fallback.append(f"{pw_['id']} stop {i}: {file_part}#{anchor} -> fallback #{r['resolved']}")
             here = page.url
             m = _re.search(r"[?&]lens=([a-z]+)", here)

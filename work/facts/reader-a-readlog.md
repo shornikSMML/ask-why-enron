@@ -73,3 +73,16 @@ All files I relied on were re-checked with `sha256sum`. **All matched.**
 ## Searches run
 - `grep -il "seventh.largest|7th largest"` across work/text and sources (size-ranking tip).
 - `grep -il buffett work/text/*.txt sources/*/*.txt` (run once, as instructed; result in final report).
+
+## Phase 2: Reading the Footnotes (brief 22), 2026-09-27
+
+Fingerprints re-checked, all MATCH: enron-10k-2000, enron-10q-q3-2001, enron-8k-nov-2001, powers-report-sec, rpt-psi-board, rpt-sga-watchdogs, batson-final.
+
+- enron-10k-2000: lines 2940-2960 (MD&A capitalization), 3110-3120 (Item 7A VaR note), 4091-4266 (Note 1), 4356-4540 (Note 3), 4634-4688 (Note 4), 4990-5012 (Note 8 end), 5014-5215 (Notes 9-10), 5320-5340 (Note 11), 5678-5700 (Note 14; rest grep only), 5793-5862 (Note 15). Text search: "Osprey"/"Marlin" appear nowhere in the 10-K.
+- enron-10q-q3-2001: lines 1181-1300, 1543-1565, 1726-1733 (Note 4), 2115-2236 (Note 8).
+- enron-8k-nov-2001: lines 51-143, 263-300.
+- powers-report-sec: lines 2214-2310 (II.F, pp. 56-60), 6372-6400, 6475-6520 (VIII intro, VIII.B, pp. 178-182).
+- rpt-psi-board (text; PDF = printed + 4): lines 278-300 (p. 3), 984-1060 (pp. 14-15), 1245-1360 (pp. 19-20), 2395-2408 (p. 36), 3116-3215 (pp. 47-49).
+- rpt-sga-watchdogs (text; PDF = printed + 4): lines 1728-1830 (pp. 25-26), 1935-2130 (pp. 28-30).
+- batson-final: PDF p. 24 (image already checked in Phase 1).
+- work/drafts/footnote.json: read fn-01 to fn-33 ids and citations only, for reuse.

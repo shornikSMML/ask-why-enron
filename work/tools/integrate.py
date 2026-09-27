@@ -8,6 +8,12 @@ What it does (nothing else is touched; content wording is never changed):
   2. Copies each chapter's dek into the home page card (index.html, <p data-dek="N">).
   3. Wraps work/drafts/footnote.json as js/footnote-data.js (window.FOOTNOTE),
      using the same approach as work/tools/wrap_json.py.
+  3b. Phase 2: wraps work/drafts/lenses.json as js/lenses-data.js (window.LENSES) and
+     work/drafts/pathways.json as js/pathways-data.js (window.PATHWAYS). Until those
+     drafts exist it writes clearly marked SAMPLE data instead (window.LENSES_SAMPLE /
+     window.PATHWAYS_SAMPLE), built from the chapters so every lens and stop is testable.
+     Splices work/drafts/why-it-matters.html and work/drafts/banks.html into the page
+     shells when they exist (same CONTENT START / END markers as the chapters).
   4. Writes js/image-usage-data.js (window.IMAGE_USAGE: which pages show each image),
      used by credits.html.
   5. Regenerates js/sources-data.js (make_sources_js.py), js/gaps-data.js
@@ -124,6 +130,112 @@ def wrap_footnote():
     return data
 
 
+# ---------- 3b: Phase 2 (lenses, pathways, new pages) ----------
+P_RE = re.compile(r"<p[\s>][^>]*>|<p>", re.S)
+PARA_RE = re.compile(r"<p(?:\s[^>]*)?>(.*?)</p>", re.S)
+LENS_IDS = ["money", "auditors", "board", "knew"]
+
+
+def draft_paragraphs(n):
+    """<p> elements of work/drafts/chN.html in order (the dek counts; 0-based index)."""
+    frag = read(DRAFTS / f"ch{n}.html")
+    out = []
+    for m in re.finditer(r"<p((?:\s[^>]*)?)>(.*?)</p>", frag, re.S):
+        attrs, inner = m.group(1), m.group(2)
+        lens = re.search(r'data-lens="([^"]*)"', attrs)
+        text = strip_tags(re.sub(r'<a class="cite".*?</a>', "", inner, flags=re.S))
+        out.append({"lens": (lens.group(1).split() if lens else []), "text": text})
+    return out
+
+
+def sample_lenses():
+    data = {}
+    for n in range(1, 8):
+        paras = draft_paragraphs(n)
+        ch = {}
+        for lens in LENS_IDS:
+            tagged = [(i, p) for i, p in enumerate(paras) if lens in p["lens"]]
+            notes = [{"para_index": i, "para_start": " ".join(p["text"].split()[:8]),
+                      "text": f"[Sample note] Layout test text for the {lens} lens on this paragraph. The real note is being written.",
+                      "cites": [{"card": "SAMPLE", "source_id": "powers-report-sec", "page": None, "loc": "[sample locator]"}]}
+                     for k, (i, p) in enumerate(tagged) if k % 2 == 0]
+            entry = {"notes": notes,
+                     "summary": ["[Sample] First summary point for this lens.", "[Sample] Second summary point.", "[Sample] Third summary point."],
+                     "ask_why": "[Sample] An open discussion question for this lens will appear here."}
+            if lens == "knew":
+                entry["strip"] = [{"date": "[date]", "who": "[Sample] person or body", "what": "[Sample] what the documents show they knew or were told.",
+                                   "cites": [{"card": "SAMPLE", "source_id": "powers-report-sec", "page": None, "loc": "[sample locator]"}]}] * 3
+            ch[lens] = entry
+        data[f"ch{n}"] = ch
+    return data
+
+
+SAMPLE_PATHWAYS = [
+    ("first-reading", "A First Reading", 45, [("chapters/ch1.html", "", "Chapter 1: Origins"), ("chapters/ch2.html", "what-mark-to-market-accounting-means", "Chapter 2: mark-to-market"),
+                                               ("chapters/ch3.html?lens=money", "the-raptors", "Chapter 3: the Raptors, with the money lens"), ("cast.html", "sherron-watkins", "Cast: Sherron Watkins"),
+                                               ("timeline.html", "tl-2001-12-02", "Timeline: December 2, 2001"), ("footnote.html", "fn-05", "The Footnote, annotation 5"), ("chapters/ch7.html", "", "Chapter 7")]),
+    ("mark-to-market", "Mark-to-Market Explained", 25, [("glossary.html", "mark-to-market", "Glossary: mark-to-market"), ("chapters/ch2.html", "what-mark-to-market-accounting-means", "Chapter 2"),
+                                                       ("chapters/ch2.html?lens=money", "marking-investments-to-market", "Chapter 2, money lens")]),
+    ("spes", "The Special Purpose Entities", 35, [("chapters/ch3.html", "chewco", "Chewco"), ("chapters/ch3.html?lens=board", "the-ljm-partnerships", "LJM, board lens"),
+                                                  ("cast.html", "andrew-fastow", "Cast: Andrew Fastow"), ("footnote.html", "fn-10", "The Footnote")]),
+    ("andersen", "Andersen's Fall and the Big Five to Big Four", 30, [("chapters/ch6.html?lens=auditors", "enrons-auditor", "Chapter 6, auditors lens"), ("cast.html", "david-duncan", "Cast: David Duncan"),
+                                                                      ("timeline.html", "tl-2005-05-31", "Timeline: 2005"), ("chapters/ch6.html", "the-big-four", "The Big Four")]),
+    ("sox", "From Enron to Sarbanes-Oxley and the PCAOB", 30, [("chapters/ch7.html", "", "Chapter 7"), ("timeline.html", "tl-2002-07-30", "Timeline: July 30, 2002"),
+                                                               ("why-it-matters.html", "s302", "Section 302"), ("why-it-matters.html", "s404", "Section 404"), ("why-it-matters.html", "pcaob", "The PCAOB"),
+                                                               ("why-it-matters.html", "independence", "Auditor independence"), ("why-it-matters.html", "whistleblowers", "Whistleblowers")]),
+    ("footnotes", "Reading the Footnotes", 30, [("footnote.html", "fn-01", "The Footnote"), ("footnote.html", "fn-20", "Annotation 20"), ("glossary.html", "related-party-transaction", "Glossary")]),
+    ("banks", "The Banks", 30, [("banks.html", "prepays", "Prepays"), ("banks.html", "deals", "The deals"), ("cast.html", "jpmorgan-citigroup", "Cast: JPMorgan and Citigroup"),
+                                ("banks.html", "institutions", "Institutions"), ("banks.html", "outcomes", "Outcomes")]),
+]
+
+
+def sample_pathways():
+    out = []
+    for pid, title, mins, stops in SAMPLE_PATHWAYS:
+        out.append({"id": pid, "title": title, "for_whom": "[Sample] who this pathway is for", "minutes": mins,
+                    "intro": "[Sample] Layout test text. The real introduction is being written.",
+                    "stops": [{"page": pg, "anchor": an, "label": lb, "bridge": "[Sample] What to notice at this stop."} for pg, an, lb in stops],
+                    "closing_question": "[Sample] A closing question will appear here.",
+                    "handout": {"questions": ["[Sample] Discussion question 1.", "[Sample] Discussion question 2.", "[Sample] Discussion question 3."]}})
+    return out
+
+
+def wrap_phase2():
+    print("Phase 2")
+    for name, var, js, sampler in (("lenses.json", "LENSES", "lenses-data.js", sample_lenses),
+                                   ("pathways.json", "PATHWAYS", "pathways-data.js", sample_pathways)):
+        src = DRAFTS / name
+        if src.exists():
+            data = json.loads(read(src))
+            text = (f"// Generated from work/drafts/{name} by work/tools/integrate.py. Edit the JSON, then re-run.\n"
+                    f"window.{var} = {json.dumps(data, indent=1, ensure_ascii=False)};\n")
+        else:
+            data = sampler()
+            text = (f"// SAMPLE ONLY: work/drafts/{name} does not exist yet. Generated by work/tools/integrate.py\n"
+                    f"// from the chapters so the site's {var.lower()} machinery can be built and tested.\n"
+                    f"window.{var}_SAMPLE = true;\nwindow.{var} = {json.dumps(data, indent=1, ensure_ascii=False)};\n")
+            print(f"  note: work/drafts/{name} not found; wrote SAMPLE data")
+        write_if_changed(ROOT / "js" / js, text)
+    for name in ("why-it-matters.html", "banks.html"):
+        draft_p, page_p = DRAFTS / name, ROOT / name
+        if not draft_p.exists():
+            print(f"  note: work/drafts/{name} not found; {name} keeps its placeholder sections")
+            continue
+        page = read(page_p)
+        m = START_RE.search(page)
+        if not m:
+            problems.append(f"{name}: CONTENT START/END markers not found")
+            continue
+        frag = read(draft_p).strip("\n")
+        body = "\n".join(("    " + line) if line.strip() else "" for line in frag.split("\n"))
+        page = page[:m.start()] + m.group(1) + body + "\n    <!-- CONTENT END -->" + page[m.end():]
+        dek_m = DEK_RE.search(frag)
+        if dek_m:
+            page = re.sub(r'<meta name="description" content="[^"]*">',
+                          '<meta name="description" content="' + html.escape(strip_tags(dek_m.group(1)), quote=True) + '">', page, count=1)
+        write_if_changed(page_p, page)
+
+
 # ---------- 4: image usage ----------
 def image_usage():
     print("Image usage")
@@ -225,6 +337,7 @@ def main():
     deks = splice_chapters()
     fill_home(deks)
     fn = wrap_footnote()
+    wrap_phase2()
     print("Generated data")
     run_tool("make_sources_js.py")
     if "--no-log" not in sys.argv:

@@ -315,6 +315,86 @@ window.GAPS = {
      "Status": "open (DOJ page blocked by a bot check; owner may save it from a browser)"
     }
    ]
+  },
+  {
+   "title": "Phase 2 (post-2003)",
+   "intro": [
+    "Raised by the coordinator's Phase 2 brief to the Source Scout (for \"Why This Matters to You\"). Candidates are in `sources/candidates/phase2/` and may not be cited until the owner approves them."
+   ],
+   "columns": [
+    "#",
+    "Claim we wanted to make",
+    "Kind of document that would support it",
+    "Importance",
+    "Raised by",
+    "Status"
+   ],
+   "rows": [
+    {
+     "#": "P2-1",
+     "Claim we wanted to make": "What auditors must do when auditing a company's internal control over financial reporting (current rules)",
+     "Kind of document that would support it": "PCAOB Auditing Standard No. 5 (2007) or its current codified version, AS 2201",
+     "Importance": "useful",
+     "Raised by": "Coordinator (Phase 2 brief)",
+     "Status": "candidate: pcaob-as2201-current (current version; 2007 original release located, not downloaded)"
+    },
+    {
+     "#": "P2-2",
+     "Claim we wanted to make": "What management's internal control report (SOX §404) must contain, per the SEC's 2003 rule",
+     "Kind of document that would support it": "SEC final rule Rel. 33-8238 (2003)",
+     "Importance": "useful",
+     "Raised by": "Coordinator (Phase 2 brief)",
+     "Status": "candidate: sec-33-8238-icfr-final-rule"
+    },
+    {
+     "#": "P2-3",
+     "Claim we wanted to make": "What CEOs and CFOs must certify (SOX §302), per the SEC's 2002 rule",
+     "Kind of document that would support it": "SEC final rule Rel. 33-8124 (2002)",
+     "Importance": "useful",
+     "Raised by": "Coordinator (Phase 2 brief)",
+     "Status": "candidate: sec-33-8124-certification-final-rule"
+    },
+    {
+     "#": "P2-4",
+     "Claim we wanted to make": "The SEC's 2007 guidance to management on evaluating internal control",
+     "Kind of document that would support it": "SEC interpretive release Rel. 33-8810 (2007)",
+     "Importance": "useful",
+     "Raised by": "Coordinator (Phase 2 brief)",
+     "Status": "candidate: sec-33-8810-icfr-guidance-2007"
+    },
+    {
+     "#": "P2-5",
+     "Claim we wanted to make": "The SEC's 2003 auditor independence rules implementing SOX Title II",
+     "Kind of document that would support it": "SEC final rule Rel. 33-8183 (2003)",
+     "Importance": "useful",
+     "Raised by": "Coordinator (Phase 2 brief)",
+     "Status": "candidate: sec-33-8183-auditor-independence (a published correction exists; not downloaded)"
+    },
+    {
+     "#": "P2-6",
+     "Claim we wanted to make": "Effects of SOX on smaller companies and on audit-market concentration after 2003",
+     "Kind of document that would support it": "GAO reports (e.g. GAO-06-361, GAO-08-163)",
+     "Importance": "useful",
+     "Raised by": "Coordinator (Phase 2 brief)",
+     "Status": "candidate: gao-06-361; candidate: gao-08-163"
+    },
+    {
+     "#": "P2-7",
+     "Claim we wanted to make": "The Supreme Court's 2010 ruling on the PCAOB's constitutionality",
+     "Kind of document that would support it": "*Free Enterprise Fund v. PCAOB*, 561 U.S. 477 (2010)",
+     "Importance": "useful",
+     "Raised by": "Coordinator (Phase 2 brief)",
+     "Status": "candidate: free-enterprise-fund-v-pcaob-usreports (govinfo U.S. Reports; supremecourt.gov slip-opinion URL returned 404)"
+    },
+    {
+     "#": "P2-8",
+     "Claim we wanted to make": "The Dodd-Frank whistleblower program (§§922–924) and the §404(b) exemption for small companies, section text",
+     "Kind of document that would support it": "Dodd-Frank Act (Pub. L. 111-203) section text, or the U.S. Code sections it created/amended",
+     "Importance": "minor",
+     "Raised by": "Coordinator (Phase 2 brief)",
+     "Status": "partial. candidate: usc-15-78u-6-2024 (§922 as codified); candidate: usc-15-7262-2024 (§404 as amended, incl. the exemption). §§923–924 not collected (10-candidate limit reached); Act's own session-law text not downloaded (whole Act only)"
+    }
+   ]
   }
  ],
  "candidates": [

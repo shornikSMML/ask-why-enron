@@ -18,7 +18,7 @@ The Phase 1 rules still apply: every fact comes from the library, every claim ab
 - **"Who Knew What, When"** also shows a small dated strip at the top of the chapter: who is documented as knowing what, and on what date, from the Timeline and the fact cards.
 - **Lens notes follow the story's rules:** facts only from checked fact cards, the right verbs, citations. A lens adds interpretation of *emphasis*, not new accusations.
 
-## 2. Pathways (proposed five)
+## 2. Pathways (seven, as decided by the owner)
 | Pathway | For whom | Route (examples) |
 |---|---|---|
 | **A First Reading** | Anyone, about 45 minutes | Ch 1 → 2 → 3 (short version) → 5 → 7, with 3 Cast stops |
@@ -26,6 +26,8 @@ The Phase 1 rules still apply: every fact comes from the library, every claim ab
 | **The Special Purpose Entities** | Readers who want the mechanics | Ch 3 → the Chewco/LJM diagram → The Footnote (key annotations) → Cast: Fastow, Kopper |
 | **Andersen's Fall and the Big Five to Big Four** | Future auditors | Ch 6 → Cast: Duncan, Temple, Berardino → Timeline (auditor tag) → the Supreme Court opinion |
 | **From Enron to Sarbanes-Oxley and the PCAOB** | Business students | Ch 7 → Why This Matters → the Timeline's reform events |
+| **Reading the Footnotes** | Anyone learning to read an annual report | Notes 1, 3–4, 9, 16 of the 2000 10-K → Q3 2001 10-Q → Nov 2001 restatement |
+| **The Banks** | Finance students | New page "The Banks" (prepays; Fishtail, Bacchus, Sundance, Slapshot; each institution; outcomes) → Cast → Timeline |
 
 - **Each pathway** is a sequence of "stops" across existing pages. It shows a small "Pathway: stop 3 of 8 → next" bar, a one- or two-sentence bridge at each stop, and a closing question.
 - **Bridges add no new facts.** They only connect stops, so the Fact-Checker checks them for accuracy and tone.
@@ -74,3 +76,12 @@ The Phase 1 rules still apply: every fact comes from the library, every claim ab
 1. **Pathways:** are these five right? Would you like a sixth, e.g. *"Reading the Footnote"* (a close-reading exercise) or *"The Banks"*?
 2. **Source Scout:** may the Source Scout collect up to 10 official candidates for post-2003 reform topics (e.g. PCAOB Auditing Standard No. 2/5 or the SEC's §404 rules), for your approval? Or should "Why This Matters" stay strictly within the current library?
 3. **Lenses:** one lens at a time (simpler for classroom projection, recommended), or several at once?
+
+
+## Owner decisions (2026-09-27)
+- Add "Reading the Footnotes" (plural, to avoid fixating on Note 16) **and** "The Banks": seven pathways in all, exceeding the original 4–6.
+- The Source Scout may collect current (post-2003) official documents, up to 10, for approval.
+- One lens at a time.
+- Go.
+
+Added agents: **Reader E (The Banks)** and a **Reading the Footnotes** run for Reader A. The Story Writer writes the short new page "The Banks".

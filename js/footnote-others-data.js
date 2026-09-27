@@ -5,7 +5,7 @@ window.FOOTNOTE_OTHERS = [
   "id": "note-1",
   "title": "Note 1: Summary of Significant Accounting Policies (mark-to-market; consolidation)",
   "source_id": "enron-10k-2000",
-  "lines": "4091-4240 (excerpts at 4096-4099, 4163-4166, 4170-4172)",
+  "lines": "4091-4240 (excerpts at 4096-4099, 4163-4166, 4170-4174)",
   "excerpt": [
    {
     "source_id": "enron-10k-2000",
@@ -21,14 +21,14 @@ window.FOOTNOTE_OTHERS = [
    },
    {
     "source_id": "enron-10k-2000",
-    "lines": "4170-4172",
+    "lines": "4170-4174",
     "where": "Note 1, Accounting for Price Risk Management",
-    "text": "The market prices used to value these transactions reflect management's best estimate"
+    "text": "The market prices used to value these transactions reflect management's best estimate considering various factors including closing exchange and over-the-counter quotations, time value and volatility factors underlying the commitments."
    }
   ],
-  "said": "Note 1 sets out the ground rules for everything that follows. Enron says its statements combine every subsidiary it controls. Its trading contracts are \"marked to market\": each quarter they are valued at what they are estimated to be worth, and gains are counted as revenue, including gains on contracts signed that quarter, before any cash arrives. The prices used reflect \"management's best estimate.\"",
-  "left_out": "The note does not describe the rules that let Enron keep special purpose entities (SPEs) and partnerships it had sponsored out of its own statements. A search of the whole 10-K finds no mention of SPEs or of those rules. The note also does not say how much of the reported revenue rested on management's estimates rather than on market prices.",
-  "found": "On November 8, 2001, Enron said that three entities it had left out \"should have been consolidated,\" and that its statements for 1997 to 2000 \"should not be relied upon.\" The Senate subcommittee staff found that in May 2000 the board \"did not object when the company decided to go with the more aggressive valuation model.\" The staff also found that Andersen regularly told the Audit Committee that some of Enron's practices \"invited scrutiny.\"",
+  "said": "Note 1 sets out the ground rules for everything that follows. Enron says its statements combine every subsidiary it controls. Its trading contracts are \"marked to market\": each quarter they are valued at what they are estimated to be worth, and gains are counted as revenue, including gains on contracts signed that quarter, before any cash arrives. The prices used reflect \"management's best estimate,\" considering factors that include exchange and over-the-counter quotations.",
+  "left_out": "The note does not describe the rules that let Enron keep special purpose entities (SPEs) and partnerships it had sponsored out of its own statements. A search of the whole 10-K finds no use of the term 'special purpose entity' and no statement of those rules. The note also does not say how much of the reported revenue rested on management's estimates rather than on market prices.",
+  "found": "On November 8, 2001, Enron said that three entities it had left out \"should have been consolidated,\" and that its statements for 1997 to 2000 \"should not be relied upon.\" The Senate subcommittee staff found that in May 2000 board members were told of an internal dispute over valuation and \"did not object when the company decided to go with the more aggressive valuation model.\" The staff also found that Andersen regularly told the Audit Committee that some of Enron's practices \"invited scrutiny.\"",
   "cites": [
    {
     "source_id": "enron-10k-2000",
@@ -114,9 +114,9 @@ window.FOOTNOTE_OTHERS = [
     "text": "During 2000, gains from sales representing securitizations were $381 million and proceeds were $2,379 million ($545 million of the proceeds related to sales to Whitewing Associates, L.P. (Whitewing))."
    }
   ],
-  "said": "This note describes Enron's trading book. At the end of 2000, its trading assets were valued at about $21.5 billion and its trading liabilities at about $19.9 billion. A year earlier, the same measure (before reserves) had been about $5.5 billion. The trading activities produced $1,899 million of income before interest and taxes. The note warns that the face (\"notional\") amounts of the contracts do not measure Enron's real risk. It also reports $381 million of gains on \"securitizations,\" sales of interests in financial assets, and says $545 million of the proceeds came from sales to Whitewing.",
+  "said": "This note describes Enron's trading book. At the end of 2000, its trading assets were valued at about $21.5 billion and its trading liabilities at about $19.9 billion. A year earlier, the same measure (before reserves) had been about $5.5 billion. The trading activities produced $1,899 million of income before interest, taxes and certain unallocated expenses. The note warns that the face (\"notional\") amounts of the contracts do not measure Enron's real risk. It also reports $381 million of gains on \"securitizations,\" sales of interests in financial assets, and says $545 million of the proceeds came from sales to Whitewing.",
   "left_out": "The note does not say how much of the $21.5 billion came from Enron's own valuation models rather than quoted market prices. It sends the reader to Note 9 to learn that Whitewing was an Enron affiliate. One clue sits in plain sight: when Enron sold these assets, it \"concurrently enters into swaps ... which limits the risks assumed by the purchaser.\" In other words, some of the risk stayed with Enron.",
-  "found": "The bankruptcy examiner concluded that Enron's securitizations under the FAS 140 accounting rule were \"essentially bridge financings of illiquid assets\": Enron \"retained substantially all of the economic benefits and risks.\" He concluded that in 2000, six accounting techniques, this one among them, produced 96% of Enron's reported net income.",
+  "found": "The bankruptcy examiner concluded that Enron's securitizations under the FAS 140 accounting rule were \"essentially bridge financings of illiquid assets\": Enron \"retained substantially all of the economic benefits and risks.\" In his Final Report he summarized an earlier conclusion that in 2000, six accounting techniques, this one among them, produced 96% of Enron's reported net income.",
   "cites": [
    {
     "source_id": "enron-10k-2000",
@@ -215,7 +215,7 @@ window.FOOTNOTE_OTHERS = [
   ],
   "said": "Enron's \"merchant investments\" were stakes in other companies, carried at fair value, with any change in value counted in \"Other Revenues.\" At the end of 2000 they totaled $601 million, down from $1,086 million a year earlier. Values came from market prices, appraisals and cash-flow analyses. Gains on selling merchant assets were $104 million in 2000, $756 million in 1999 and $628 million in 1998. In its risk section, Enron added that it had \"refined\" the model it used to measure the risk of these holdings.",
   "left_out": "The note does not say that many of these investments were \"hedged\" with the Raptor entities described (without that name) in Note 16. It does not say which buyers of the sold assets were related parties.",
-  "found": "The board's special committee found that the Raptors let Enron avoid reporting \"almost $1 billion in losses on its merchant investments.\" It also found that Enron bought back five of the seven assets it sold in the last two quarters of 1999. The Senate Governmental Affairs Committee staff reported a witness's view that the \"refined\" risk model was another \"flashing red light\" in the 10-K.",
+  "found": "The board's special committee found that from the third quarter of 2000 through the third quarter of 2001, the Raptors let Enron avoid reflecting \"almost $1 billion in losses on its merchant investments\" on its income statement. It also found that Enron bought back five of the seven assets it had sold to the LJM partnerships in the last two quarters of 1999, in some cases within three months. The Senate Governmental Affairs Committee staff reported a witness's view that the \"refined\" risk model was another \"flashing red light\" in the 10-K.",
   "cites": [
    {
     "source_id": "enron-10k-2000",
@@ -240,7 +240,7 @@ window.FOOTNOTE_OTHERS = [
     "pdf_page": 140,
     "loc": "Powers Report, p. 134, VI. Other Transactions with LJM (lines 4863-4865)",
     "quote": "Enron bought back five of the seven assets sold during the last two quarters of 1999, in some cases within three months",
-    "card": "N-012",
+    "card": "A-044",
     "pdf_source_id": "powers-report"
    },
    {
@@ -257,7 +257,7 @@ window.FOOTNOTE_OTHERS = [
    "N-012",
    "N-013",
    "N-028",
-   "A-046",
+   "A-044",
    "A-058"
   ],
   "glossary_terms": [
@@ -291,8 +291,8 @@ window.FOOTNOTE_OTHERS = [
    }
   ],
   "said": "Note 9 lists companies Enron partly owned and did not combine into its own statements, $5,294 million in all. Among them are JEDI (a 50% voting interest, $399 million), JEDI II (50%, $220 million) and Whitewing Associates (50%, $558 million). JEDI contributed $197 million of Enron's equity earnings in 2000. Enron sold $632 million (2000) and $192 million (1999) of assets to Whitewing with no gain or loss. The note stresses that these entities are \"separate legal entities.\"",
-  "left_out": "The note never names Chewco, JEDI's other partner, or says that an Enron employee, Michael Kopper, ran it. It does not mention Whitewing's debt or Enron's promise to issue shares to cover it; those appear only in Note 10 and, in full, in the 2001 10-Q (see below). The \"50%\" figures are voting interests, and the note itself warns that shares of profit can differ.",
-  "found": "On November 8, 2001, Enron concluded that Chewco and JEDI should have been consolidated, and that its income had included \"specific JEDI revenues ... relating to the appreciation in value of Enron stock.\" The board's special committee found that Andersen's workpapers showed Enron recorded \"$126 million in Enron stock appreciation\" in the first quarter of 2000. No source ties that figure to the $197 million, so they should not be added together. Experts consulted by the Senate Governmental Affairs Committee staff pointed to Note 9's affiliates held \"at or near 50 percent\" as worth a closer look. (For SPEs, the test was different: an outside owner's 3% stake, not 50% ownership.)",
+  "left_out": "The note never names Chewco, JEDI's other partner, or says that an Enron employee, Michael Kopper, ran it. It does not mention Whitewing's debt. Enron's promise to deliver extra shares to Whitewing if its stock fell appears only in Note 10; Whitewing's debt, and Enron's duty to cover any shortfall, appear only in the 2001 10-Q (see below). The \"50%\" figures are voting interests, and the note itself warns that shares of profit can differ.",
+  "found": "On November 8, 2001, Enron concluded that Chewco and JEDI should have been consolidated, and that its income had included \"specific JEDI revenues ... relating to the appreciation in value of Enron stock.\" The board's special committee found that Andersen's workpapers showed Enron recorded \"$126 million in Enron stock appreciation\" in the first quarter of 2000. No source ties that figure to the $197 million, so they should not be added together. Experts consulted by the Senate Governmental Affairs Committee staff pointed to Note 9's affiliates held \"at or near 50 percent\" as worth a closer look. The staff added that none of these items was, on its own, necessarily a sign of fraud. (For SPEs, the test was different: an outside owner's 3% stake, not 50% ownership.)",
   "cites": [
    {
     "source_id": "enron-10k-2000",
@@ -343,6 +343,23 @@ window.FOOTNOTE_OTHERS = [
     "quote": "an owner independent of the company must make a substantive equity investment of at least 3% of the SPE's assets",
     "card": "A-030",
     "pdf_source_id": "powers-report"
+   },
+   {
+    "source_id": "rpt-sga-watchdogs",
+    "file": "sources/06-congressional-reports/sprt-financial-oversight-of-enron-sec-and-watchdogs.pdf",
+    "pdf_page": 34,
+    "loc": "Senate Governmental Affairs staff report, printed p. 30, SEC's review of Enron's filings",
+    "quote": "None of these items (and this list is not intended to be exhaustive), in and of itself, is necessarily an indication of fraud",
+    "card": "N-028"
+   },
+   {
+    "source_id": "powers-report-sec",
+    "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+    "pdf_page": 49,
+    "pdf_source_id": "powers-report",
+    "loc": "Powers Report, pp. 43-44, II.A Formation of Chewco (lines 1702-1727)",
+    "quote": "Kopper, an Enron employee who reported to Fastow, was substituted as the proposed manager of Chewco.",
+    "card": "A-032"
    }
   ],
   "cards": [
@@ -352,7 +369,8 @@ window.FOOTNOTE_OTHERS = [
    "N-017",
    "N-019",
    "N-032",
-   "A-030"
+   "A-030",
+   "A-032"
   ],
   "glossary_terms": [
    "unconsolidated-affiliate",
@@ -385,7 +403,7 @@ window.FOOTNOTE_OTHERS = [
     "text": "In 2000, Enron increased the strike price in the Share Settlement Agreement to $48.55 per share in exchange for an additional capital contribution in Whitewing by third-party investors."
    }
   ],
-  "said": "Note 15 lists Enron's guarantees: about $1,863 million of liabilities of affiliates and other companies, $264 million of letters of credit, and $556 million under leases. It says management does not consider it likely that Enron will have to pay. Promises tied to Enron's stock price appear elsewhere in the report. The MD&A (management's discussion) says some contracts could be settled early if Enron's stock fell below $28.20 to $55.00 a share or its credit rating fell below investment grade. Note 10 says Enron might have to deliver extra shares to Whitewing if its stock fell below $48.55. Note 11 lists derivative contracts on 54.8 million Enron shares, 22.5 million of them with related parties.",
+  "said": "Note 15 lists Enron's guarantees: about $1,863 million of liabilities of affiliates and other companies, $264 million of guarantees tied to affiliates' letters of credit, and $556 million under leases. It says management does not consider it likely that Enron will have to pay. Promises tied to Enron's stock price appear elsewhere in the report. The MD&A (management's discussion) says some contracts could be settled early if Enron's stock fell below $28.20 to $55.00 a share or its credit rating fell below investment grade. Note 10 says Enron might have to deliver extra shares to Whitewing if its stock fell below $48.55. Note 11 lists derivative contracts on 54.8 million Enron shares, 22.5 million of them with related parties.",
   "left_out": "Note 15 does not mention these stock-price promises. The MD&A gives no dollar amount for them. No single place in the report adds up how much Enron could owe if its stock price and its credit rating fell together.",
   "found": "The Senate Governmental Affairs Committee staff wrote that the MD&A passage \"offers no indication of the magnitude of these liabilities--a whopping $4 billion.\" Enron's own later 10-Q gave $3.9 billion (see below), so the sources differ slightly. By September 30, 2001, Enron owed Whitewing about $1.0 billion under the stock-price contract alone. The bankruptcy examiner concluded that Enron borrowed through SPEs on \"essentially a recourse basis\": in the end, Enron was on the hook. One caution when comparing: the 10-K's triggers needed a low stock price OR a downgrade, while the 10-Q's Osprey and Marlin triggers needed both at once.",
   "cites": [
@@ -488,10 +506,17 @@ window.FOOTNOTE_OTHERS = [
     "text": "As of November 16, 2001 the Enron stock closing price was $9.00 per share."
    }
   ],
-  "said": "Nearly eight months after the annual report was signed, Enron's quarterly report spelled out what the 2000 notes had only hinted at. Outside investors in Whitewing had invested through an entity called Osprey, which carried about $2.4 billion of debt. A similar entity, Marlin, carried about $915 million tied to Azurix. If Enron lost its investment-grade rating while its stock closed at or below $59.78 (Osprey) or $34.13 (Marlin), up to $3.9 billion could come due. If selling new Enron shares did not cover the debt, Enron would pay the difference. On November 16, 2001, the stock closed at $9.00. The same filing named the Raptors and said Enron could have had to deliver up to 30 million shares to them. It also warned about Enron's ability \"to continue as a going concern.\"",
-  "left_out": "What the 2000 annual report had left out: the words \"Osprey\" and \"Marlin\" do not appear anywhere in it. Its notes gave trigger prices but no dollar amounts, named neither trust, and called the Raptors only \"the Entities.\"",
+  "said": "Nearly eight months after the annual report was signed, Enron's quarterly report spelled out what the 2000 notes had only hinted at. Outside investors in Whitewing had invested through an entity called Osprey, which carried about $2.4 billion of debt. A similar entity, Marlin, carried about $915 million tied to Azurix. If Enron lost its investment-grade rating while its stock closed at or below $59.78 (Osprey) or $34.13 (Marlin), Enron could have to repay, refinance or put up cash for as much as $3.9 billion. If selling new Enron shares did not cover the debt, Enron would pay the difference. On November 16, 2001, the stock closed at $9.00. The same filing named the Raptors and said Enron could have had to deliver up to 30 million shares to them. It also warned about Enron's ability \"to continue as a going concern.\"",
+  "left_out": "What the 2000 annual report had left out: the words \"Osprey\" and \"Marlin\" do not appear anywhere in it. Its notes gave trigger prices but no dollar amount for the debt that could come due, named neither trust, and called the Raptors only \"the Entities.\"",
   "found": "The Senate subcommittee staff compared the one-page 2000 footnote with this nine-page account and found that it showed \"Enron was quite capable of meaningful public disclosure when motivated.\" The Senate Governmental Affairs staff put the stock-price liabilities at \"$4 billion\"; the 10-Q itself says $3.9 billion.",
   "cites": [
+   {
+    "source_id": "enron-10k-2000",
+    "file": "sources/03-sec-filings/enron-10k-fy2000.txt",
+    "pdf_page": null,
+    "loc": "Enron 2000 Form 10-K, Signatures (lines 6327-6331)",
+    "quote": "on this 30th day of March, 2001"
+   },
    {
     "source_id": "enron-10q-q3-2001",
     "file": "sources/03-sec-filings/enron-10q-2001-09-30.txt",

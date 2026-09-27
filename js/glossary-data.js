@@ -1495,5 +1495,133 @@ window.GLOSSARY = {
    "remand",
    "reversed"
   ]
+ },
+ "aiding-and-abetting": {
+  "term": "Aiding and abetting",
+  "short": "Knowingly helping someone else commit a wrong, such as a fraud or a breach of duty.",
+  "long": "Helping is not enough by itself: the helper usually must know about the wrongdoing and give real assistance. The bankruptcy examiner explained that a bank could be liable only if it had actual knowledge of an officer's wrongdoing and gave substantial assistance; suspicion or \"should have known\" was not enough, and routine banking services did not count. A lookout for a robbery is the everyday picture of aiding and abetting.",
+  "see_also": [
+   "fiduciary-duty",
+   "bankruptcy-examiner",
+   "equitable-subordination"
+  ],
+  "cites": [
+   {
+    "source_id": "batson-final",
+    "page": 66,
+    "loc": "p. 63, VII.A Theories of Potential Liability",
+    "card": "K-040"
+   }
+  ]
+ },
+ "equitable-subordination": {
+  "term": "Equitable subordination",
+  "short": "A bankruptcy court's power to move a creditor's claim behind other creditors because of that creditor's unfair conduct.",
+  "long": "Normally creditors of the same kind are paid in the same order. If a creditor behaved unfairly, the court can push its claim to the back of the line, so it is paid later or not at all. It is like a referee sending a player who broke the rules to the end of the queue.",
+  "see_also": [
+   "chapter-11",
+   "aiding-and-abetting"
+  ]
+ },
+ "material": {
+  "term": "Material (materiality)",
+  "short": "Important enough that it could change the decision of a reasonable investor reading the report.",
+  "long": "Accounting and securities rules focus on material facts, not every small detail. A small rounding error is usually not material; hiding a large debt usually is. Think of whether a fact would change your mind about buying a used car: a scratch might not, a cracked engine block would.",
+  "see_also": [
+   "securities-fraud",
+   "restatement"
+  ]
+ },
+ "attestation": {
+  "term": "Attestation",
+  "short": "A formal report by an outside auditor saying whether someone else's statement, such as management's assessment of its internal controls, holds up.",
+  "long": "In an attestation, the auditor does not make the claim itself; it checks a claim someone else has made and reports on it. It is like a building inspector signing off on a contractor's statement that the wiring meets code.",
+  "see_also": [
+   "internal-control",
+   "auditor",
+   "audit-opinion"
+  ]
+ },
+ "work-papers": {
+  "term": "Work papers (audit work papers)",
+  "short": "The auditor's own files for an audit: the tests performed, the evidence gathered, and the reasons for its conclusions.",
+  "long": "Work papers show what the auditor actually did, so regulators and courts can check the audit later. Keeping them is required. They are like a student showing the working behind a math answer, not just the final number.",
+  "see_also": [
+   "auditor",
+   "document-retention-policy"
+  ]
+ },
+ "cooling-off-period": {
+  "term": "Cooling-off period",
+  "short": "A required wait before moving to a related role, such as going from auditing a company to becoming one of its top officers.",
+  "long": "Cooling-off rules aim to stop auditors from going easy on a client they hope to work for, and to stop former auditors from using their inside knowledge against their old firm's checks. A referee who must wait a season before coaching a team they used to officiate faces a cooling-off period.",
+  "see_also": [
+   "auditor-independence",
+   "conflict-of-interest"
+  ]
+ },
+ "self-regulation": {
+  "term": "Self-regulation",
+  "short": "A system in which an industry or profession writes and enforces its own rules instead of being overseen by an outside regulator.",
+  "long": "Self-regulation relies on members policing one another. Critics argue it can go easy on members; supporters say insiders understand the work best. A school honor code enforced only by students is a form of self-regulation.",
+  "see_also": [
+   "pcaob",
+   "peer-review"
+  ]
+ },
+ "peer-review": {
+  "term": "Peer review (of an accounting firm)",
+  "short": "A check of one accounting firm's audit quality carried out by another accounting firm.",
+  "long": "Peer review is a form of self-regulation: firms inspect one another rather than being inspected by a government-overseen body. It is like two restaurants inspecting each other's kitchens instead of a health inspector doing it.",
+  "see_also": [
+   "self-regulation",
+   "pcaob"
+  ]
+ },
+ "guarantee": {
+  "term": "Guarantee",
+  "short": "A promise to pay someone else's debt if they do not.",
+  "long": "A guarantee lets a borrower get credit it might not get alone, but the guarantor is on the hook if things go wrong. A parent who co-signs a student's apartment lease is giving a guarantee.",
+  "see_also": [
+   "letter-of-credit",
+   "recourse",
+   "off-balance-sheet"
+  ]
+ },
+ "letter-of-credit": {
+  "term": "Letter of credit",
+  "short": "A bank's promise to pay a seller or lender on a customer's behalf if the customer does not.",
+  "long": "Letters of credit make a customer's promise as good as the bank's. The customer usually pays the bank a fee and must repay it if the letter is drawn on. It works like a bank standing behind your check.",
+  "see_also": [
+   "guarantee",
+   "counterparty"
+  ]
+ },
+ "recourse": {
+  "term": "Recourse (\"on a recourse basis\")",
+  "short": "The lender's right to come back to the borrower for repayment if the pledged assets fall short.",
+  "long": "With recourse, the borrower still owes the money even if the collateral is not enough; without recourse, the lender can only take the collateral. A car loan with recourse lets the bank chase you for the rest of the debt after repossessing the car.",
+  "see_also": [
+   "guarantee",
+   "off-balance-sheet"
+  ]
+ },
+ "value-at-risk": {
+  "term": "Value at risk (VaR)",
+  "short": "A statistical estimate of how much a trading book could lose over a short period under normal market conditions.",
+  "long": "Value at risk is usually stated with a confidence level, for example \"we don't expect to lose more than $X in a day, 95 days out of 100.\" It says nothing about how bad the other days could be. A weather forecast of the usual worst-case rainfall is similar: helpful, but not a promise about storms.",
+  "see_also": [
+   "price-risk",
+   "derivative"
+  ]
+ },
+ "trigger-event": {
+  "term": "Trigger event",
+  "short": "A specified event, such as a credit downgrade or a stock price falling below a set level, that makes a debt come due early.",
+  "long": "Loan contracts often include triggers to protect lenders. When a trigger is hit, the borrower may have to repay or post collateral at the worst possible time. It is like a lease clause letting the landlord demand all remaining rent if you miss a payment.",
+  "see_also": [
+   "credit-rating",
+   "investment-grade"
+  ]
  }
 };

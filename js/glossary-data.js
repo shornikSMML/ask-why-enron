@@ -1663,7 +1663,7 @@ window.GLOSSARY = {
  "accelerated-filer": {
   "term": "Accelerated filer",
   "short": "An SEC category for larger public companies, based on the market value of shares held by outside investors (the \"public float\").",
-  "long": "Larger companies must file reports faster and meet some requirements sooner. As GAO described the SEC's definitions in 2006, an accelerated filer had at least $75 million in public float and a \"large accelerated filer\" $700 million or more; these amounts may have changed since. The idea is like a tax bracket: the bigger you are, the more rules apply.",
+  "long": "Larger companies must file reports faster and meet some requirements sooner. Under the SEC's definitions as of December 2005, as GAO described them in 2006, an accelerated filer had at least $75 million in public float and a \"large accelerated filer\" $700 million or more. Those are the 2005 thresholds, not necessarily today's rule. The idea is like a tax bracket: the bigger you are, the more rules apply.",
   "see_also": [
    "sec",
    "internal-control",

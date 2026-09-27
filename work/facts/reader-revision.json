@@ -363,9 +363,9 @@
     "source_id": "doj-andersen-indictment-2002",
     "file": "sources/candidates/doj-andersen-indictment-2002.pdf",
     "locator": {
-      "pdf_page": "1, 6-7",
+      "pdf_page": 6,
       "printed_page": "pp. 1, 6-7",
-      "section": "Caption; filing stamp; 'The Charge: Obstruction of Justice', para. 13",
+      "section": "Caption; filing stamp; 'The Charge: Obstruction of Justice', para. 13 (PDF pages covered: 1, 6-7)",
       "lines": "1-20, 285-306"
     },
     "source_type": "indictment allegation",
@@ -375,8 +375,8 @@
     "from_ocr": false,
     "ocr_checked_against_image": false,
     "notes": "line numbers refer to work/text/doj-andersen-indictment-2002.txt. Filing stamp checked against the page image (PDF p. 1): 'CLERK. US. DISTRICT COURT Filed 3/7/02'. This DOJ web copy is a retyped version: the case number is blank and the foreperson line is unsigned. The manifest notes the indictment was unsealed at a DOJ news conference on Mar. 14, 2002 (not in library). Use 'the indictment charged/alleged'. The Supreme Court opinion (G-022) confirms 'In March 2002 ... indicted ... on one count'. Line numbers approximate.",
-    "checked": "OK",
-    "checker_note": "Fingerprint OK (download_log.csv). Quote verified verbatim in the PDF text layer (pdftotext) at the stated pages; claim is limited to allegations; verb 'alleged' is correct for an indictment. Filing stamp 'Filed 3/7/02' confirmed (PDF 1). Single charge under 18 U.S.C. § 1512(b)(2), Oct. 10 to Nov. 9, 2001, confirmed (para. 13, PDF 6)."
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified verbatim in the PDF text layer (pdftotext) at the stated pages; claim is limited to allegations; verb 'alleged' is correct for an indictment. Filing stamp 'Filed 3/7/02' confirmed (PDF 1). Single charge under 18 U.S.C. § 1512(b)(2), Oct. 10 to Nov. 9, 2001, confirmed (para. 13, PDF 6). Revision final: pdf_page was the range string '1, 6-7', which cannot drive a '#page=' link; set to 6, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-016",
@@ -386,9 +386,9 @@
     "source_id": "doj-andersen-indictment-2002",
     "file": "sources/candidates/doj-andersen-indictment-2002.pdf",
     "locator": {
-      "pdf_page": "5-6",
+      "pdf_page": 5,
       "printed_page": "pp. 5-6",
-      "section": "III. The Wholesale Destruction of Documents by Andersen, paras. 10-11",
+      "section": "III. The Wholesale Destruction of Documents by Andersen, paras. 10-11 (PDF pages covered: 5-6)",
       "lines": "220-270"
     },
     "source_type": "indictment allegation",
@@ -398,8 +398,8 @@
     "from_ocr": false,
     "ocr_checked_against_image": false,
     "notes": "line numbers refer to work/text/doj-andersen-indictment-2002.txt. Allegations only. Para. 12 (PDF p. 6) further alleges that after the SEC subpoena of about Nov. 8, 2001, the team was told there could be 'no more shredding'. The Supreme Court's opinion describes the same events as facts in its background, largely citing the government's brief (G-022). The indictment gives no count of documents destroyed (gap 20 stays open).",
-    "checked": "OK",
-    "checker_note": "Fingerprint OK (download_log.csv). Quote verified verbatim in the PDF text layer (pdftotext) at the stated pages; claim is limited to allegations; verb 'alleged' is correct for an indictment. Paras. 10-11 (PDF 5) confirm Oct. 23 start, urgent meetings, 'Tons of paper', computer purge, and Portland, Chicago and London."
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified verbatim in the PDF text layer (pdftotext) at the stated pages; claim is limited to allegations; verb 'alleged' is correct for an indictment. Paras. 10-11 (PDF 5) confirm Oct. 23 start, urgent meetings, 'Tons of paper', computer purge, and Portland, Chicago and London. Revision final: pdf_page was the range string '5-6', which cannot drive a '#page=' link; set to 5, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-017",
@@ -409,9 +409,9 @@
     "source_id": "doj-andersen-indictment-2002",
     "file": "sources/candidates/doj-andersen-indictment-2002.pdf",
     "locator": {
-      "pdf_page": "3-4",
+      "pdf_page": 3,
       "printed_page": "pp. 3-4",
-      "section": "II. The Anticipation of Litigation, para. 8",
+      "section": "II. The Anticipation of Litigation, para. 8 (PDF pages covered: 3-4)",
       "lines": "110-190"
     },
     "source_type": "indictment allegation",
@@ -423,8 +423,8 @@
     "from_ocr": false,
     "ocr_checked_against_image": false,
     "notes": "line numbers refer to work/text/doj-andersen-indictment-2002.txt. Allegations only. Para. 8 also alleges an internal Andersen review in 2000 rated the Enron audit team 'only a \"2\" on a scale of one to five', and that the engagement team had gone against its own Professional Standards Group on SPE accounting in spring 2001. Useful for the 'Who Knew What, When' lens (tag as allegation).",
-    "checked": "OK",
-    "checker_note": "Fingerprint OK (download_log.csv). Quote verified verbatim in the PDF text layer (pdftotext) at the stated pages; claim is limited to allegations; verb 'alleged' is correct for an indictment. Para. 8 (PDF 3-4) confirms the $1.2 billion equity point, Watkins, the Oct. 9 New York law firm, the '2' rating and the Professional Standards Group point."
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified verbatim in the PDF text layer (pdftotext) at the stated pages; claim is limited to allegations; verb 'alleged' is correct for an indictment. Para. 8 (PDF 3-4) confirms the $1.2 billion equity point, Watkins, the Oct. 9 New York law firm, the '2' rating and the Professional Standards Group point. Revision final: pdf_page was the range string '3-4', which cannot drive a '#page=' link; set to 3, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-018",
@@ -480,9 +480,9 @@
     "source_id": "andersen-scotus-full-usreports",
     "file": "sources/candidates/arthur-andersen-v-us-544-us-696-2005-usreports.pdf",
     "locator": {
-      "pdf_page": "11-12",
+      "pdf_page": 11,
       "printed_page": "544 U.S. at 706-707",
-      "section": "Opinion of the Court",
+      "section": "Opinion of the Court (PDF pages covered: 11-12)",
       "lines": "515-555"
     },
     "source_type": "court holding",
@@ -492,8 +492,8 @@
     "from_ocr": false,
     "ocr_checked_against_image": false,
     "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. Other short verbatim options on the same pages: 'The instructions also diluted the meaning of “corruptly” so that it covered innocent conduct.' (p. 706); 'With regard to such innocent conduct, the “corruptly” instructions did no limiting work whatsoever.' (p. 707).",
-    "checked": "OK",
-    "checker_note": "Fingerprint OK (download_log.csv). Quote verified at 544 U.S. at 706 (PDF 11); 'honestly and sincerely believed', the Government's insistence on excluding 'dishonestly' and adding 'impede' confirmed (PDF 11-12). Verb 'held' acceptable for the Court's reasoning."
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified at 544 U.S. at 706 (PDF 11); 'honestly and sincerely believed', the Government's insistence on excluding 'dishonestly' and adding 'impede' confirmed (PDF 11-12). Verb 'held' acceptable for the Court's reasoning. Revision final: pdf_page was the range string '11-12', which cannot drive a '#page=' link; set to 11, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-021",
@@ -503,9 +503,9 @@
     "source_id": "andersen-scotus-full-usreports",
     "file": "sources/candidates/arthur-andersen-v-us-544-us-696-2005-usreports.pdf",
     "locator": {
-      "pdf_page": "12-13",
+      "pdf_page": 13,
       "printed_page": "544 U.S. at 707-708",
-      "section": "Opinion of the Court",
+      "section": "Opinion of the Court (PDF pages covered: 12-13)",
       "lines": "595-610"
     },
     "source_type": "court holding",
@@ -515,8 +515,8 @@
     "from_ocr": false,
     "ocr_checked_against_image": false,
     "notes": "line numbers refer to work/text/andersen-scotus-full-usreports.txt. 'persaude[r]' is the official U.S. Reports misspelling; keep it (or add [sic]) if quoting, or use the shorter paraphrase. p. 708: 'For these reasons, the jury instructions here were flawed in important respects.'",
-    "checked": "OK",
-    "checker_note": "Fingerprint OK (download_log.csv). Quote verified at 544 U.S. at 707-708 (PDF 12-13), including the official misspelling 'persaude[r]'."
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified at 544 U.S. at 707-708 (PDF 12-13), including the official misspelling 'persaude[r]'. Revision final: pdf_page was the range string '12-13', which cannot drive a '#page=' link; set to 13, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-022",
@@ -574,9 +574,9 @@
     "source_id": "ca5-skilling-2011-remand",
     "file": "sources/candidates/ca5-us-v-skilling-2011-remand.pdf",
     "locator": {
-      "pdf_page": "1-2, 16",
+      "pdf_page": 16,
       "printed_page": "pp. 1-2, 16",
-      "section": "Opinion (Prado, J.), introduction and IV. Conclusion",
+      "section": "Opinion (Prado, J.), introduction and IV. Conclusion (PDF pages covered: 1-2, 16)",
       "lines": "1-60, 618-622"
     },
     "source_type": "court holding",
@@ -588,8 +588,8 @@
     "from_ocr": false,
     "ocr_checked_against_image": false,
     "notes": "line numbers refer to work/text/ca5-skilling-2011-remand.txt. 'Harmless' means the court concluded beyond a reasonable doubt that the jury would have convicted him on a valid theory (conspiracy to commit securities fraud) anyway, because the evidence was 'overwhelming' (p. 16). The 2009 reason for resentencing: a wrongly applied 'financial institution' sentencing enhancement (p. 2, lines 75-79). Panel: Smith and Prado, Circuit Judges, and Moses, District Judge. Reported at 638 F.3d 480 (per the 2013 agreement, G-027).",
-    "checked": "OK",
-    "checker_note": "Fingerprint OK (download_log.csv). Quote verified (PDF 16); 'FILED April 6, 2011', panel Smith and Prado, Circuit Judges, and Moses, District Judge, confirmed (PDF 1); 'overwhelming' evidence language confirmed (PDF 9-12). Verb 'held' correct."
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote verified (PDF 16); 'FILED April 6, 2011', panel Smith and Prado, Circuit Judges, and Moses, District Judge, confirmed (PDF 1); 'overwhelming' evidence language confirmed (PDF 9-12). Verb 'held' correct. Revision final: pdf_page was the range string '1-2, 16', which cannot drive a '#page=' link; set to 16, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-025",
@@ -599,9 +599,9 @@
     "source_id": "ca5-skilling-2011-remand",
     "file": "sources/candidates/ca5-us-v-skilling-2011-remand.pdf",
     "locator": {
-      "pdf_page": "2, 16",
+      "pdf_page": 16,
       "printed_page": "pp. 2, 16",
-      "section": "I. Background; III.B The Other Convictions",
+      "section": "I. Background; III.B The Other Convictions (PDF pages covered: 2, 16)",
       "lines": "63-72, 606-617"
     },
     "source_type": "court holding",
@@ -613,8 +613,8 @@
     "from_ocr": false,
     "ocr_checked_against_image": false,
     "notes": "line numbers refer to work/text/ca5-skilling-2011-remand.txt. Counts agree with the site's '19 counts'. Footnote 6 (p. 16) adds that even without the conspiracy finding, most other convictions rest on Skilling's own conduct.",
-    "checked": "OK",
-    "checker_note": "Fingerprint OK (download_log.csv). Quote and counts (one conspiracy, twelve securities fraud, five false representations to auditors, one insider trading; 292 months, three years' supervised release, $45 million restitution) verified (PDF 2, 16)."
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). Quote and counts (one conspiracy, twelve securities fraud, five false representations to auditors, one insider trading; 292 months, three years' supervised release, $45 million restitution) verified (PDF 2, 16). Revision final: pdf_page was the range string '2, 16', which cannot drive a '#page=' link; set to 16, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-026",
@@ -624,9 +624,9 @@
     "source_id": "doj-skilling-sentencing-agreement-2013",
     "file": "sources/candidates/doj-us-v-skilling-sentencing-agreement-2013.pdf",
     "locator": {
-      "pdf_page": "1-2",
+      "pdf_page": 2,
       "printed_page": "pp. 1-2",
-      "section": "Sentencing Agreement, 'Background', paras. 1-6 (Doc. 1316-1, Cr. No. 4:04-cr-25)",
+      "section": "Sentencing Agreement, 'Background', paras. 1-6 (Doc. 1316-1, Cr. No. 4:04-cr-25) (PDF pages covered: 1-2)",
       "lines": "1-80"
     },
     "source_type": "court filing (agreement between the parties)",
@@ -638,8 +638,8 @@
     "from_ocr": false,
     "ocr_checked_against_image": false,
     "notes": "line numbers refer to work/text/doj-skilling-sentencing-agreement-2013.txt. These are the parties' recitals, not court findings; they agree with the court opinions in the library (jury verdict May 25, 2006; sentence Oct 23, 2006; Fifth Circuit Jan 6, 2009; Supreme Court June 24, 2010; Fifth Circuit Apr 6, 2011). The defendant's signature page carries a fax stamp dated 05-05-2013 (PDF p. 7).",
-    "checked": "OK",
-    "checker_note": "Fingerprint OK (download_log.csv). Recitals verified (PDF 1-2): filed 05/08/13; cert. denied April 16, 2012; in custody since December 13, 2006; no resentencing date set; also jury verdict May 25, 2006 and sentence October 23, 2006. Verb 'stated' is right here: these are recitals of fact in the agreement, not terms the parties agreed to. Fax stamp '05-05-2013' confirmed on PDF 7."
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). Recitals verified (PDF 1-2): filed 05/08/13; cert. denied April 16, 2012; in custody since December 13, 2006; no resentencing date set; also jury verdict May 25, 2006 and sentence October 23, 2006. Verb 'stated' is right here: these are recitals of fact in the agreement, not terms the parties agreed to. Fax stamp '05-05-2013' confirmed on PDF 7. Revision final: pdf_page was the range string '1-2', which cannot drive a '#page=' link; set to 2, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-027",
@@ -649,9 +649,9 @@
     "source_id": "doj-skilling-sentencing-agreement-2013",
     "file": "sources/candidates/doj-us-v-skilling-sentencing-agreement-2013.pdf",
     "locator": {
-      "pdf_page": "2-3",
+      "pdf_page": 2,
       "printed_page": "pp. 2-3",
-      "section": "Sentencing Agreement, 'Terms and Conditions', paras. 7-12",
+      "section": "Sentencing Agreement, 'Terms and Conditions', paras. 7-12 (PDF pages covered: 2-3)",
       "lines": "84-147"
     },
     "source_type": "court filing (agreement between the parties)",
@@ -664,7 +664,7 @@
     "ocr_checked_against_image": false,
     "notes": "line numbers refer to work/text/doj-skilling-sentencing-agreement-2013.txt. VERB: 'agreed' / 'the agreement provides'. This is a recommendation to the judge, not the sentence. The sentence actually imposed at resentencing is NOT in the library (DOJ's 2013 resentencing release could not be downloaded; the judgment is on PACER) - gap 4 stays partly open. Para. 13: government will not oppose credit for about six weeks of home confinement.",
     "checked": "FIXED",
-    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Terms verified (paras. 7-12, PDF 2-3; para. 15(b), PDF 4). Verb 'stated' changed to 'agreed': these are the agreement's terms. Still a joint recommendation, not the sentence imposed."
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Terms verified (paras. 7-12, PDF 2-3; para. 15(b), PDF 4). Verb 'stated' changed to 'agreed': these are the agreement's terms. Still a joint recommendation, not the sentence imposed. Revision final: pdf_page was the range string '2-3', which cannot drive a '#page=' link; set to 2, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-028",
@@ -674,9 +674,9 @@
     "source_id": "doj-skilling-sentencing-agreement-2013",
     "file": "sources/candidates/doj-us-v-skilling-sentencing-agreement-2013.pdf",
     "locator": {
-      "pdf_page": "4-5",
+      "pdf_page": 4,
       "printed_page": "pp. 4-5",
-      "section": "Sentencing Agreement, 'Relevant Considerations', para. 15(a)-(e)",
+      "section": "Sentencing Agreement, 'Relevant Considerations', para. 15(a)-(e) (PDF pages covered: 4-5)",
       "lines": "178-228"
     },
     "source_type": "court filing (agreement between the parties)",
@@ -688,8 +688,8 @@
     "from_ocr": false,
     "ocr_checked_against_image": false,
     "notes": "line numbers refer to work/text/doj-skilling-sentencing-agreement-2013.txt. These are the government's stated considerations in a negotiated filing. Useful for 'Follow the Money'. Attribute: 'the agreement says'.",
-    "checked": "OK",
-    "checker_note": "Fingerprint OK (download_log.csv). Para. 15(a) and (c) verified (PDF 4). These are the Government's listed 'Relevant Considerations'; verb 'stated' with attribution 'the agreement says' is right."
+    "checked": "FIXED",
+    "checker_note": "Fingerprint OK (download_log.csv). Para. 15(a) and (c) verified (PDF 4). These are the Government's listed 'Relevant Considerations'; verb 'stated' with attribution 'the agreement says' is right. Revision final: pdf_page was the range string '4-5', which cannot drive a '#page=' link; set to 4, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-029",
@@ -749,9 +749,9 @@
     "source_id": "hrg-hfs-enron-investors-pt1",
     "file": "sources/05-hearings-enron/hhrg-107-hfs-enron-collapse-2001-12-12.pdf",
     "locator": {
-      "pdf_page": "1, 5, 7",
+      "pdf_page": 1,
       "printed_page": "cover; p. V; p. 1",
-      "section": "Cover page; contents and witness list; opening of hearing",
+      "section": "Cover page; contents and witness list; opening of hearing (PDF pages covered: 1, 5, 7)",
       "lines": "1-40, 150-165, 198-215"
     },
     "source_type": "hearing testimony and record (no oath shown)",
@@ -765,7 +765,7 @@
     "ocr_checked_against_image": false,
     "notes": "line numbers refer to work/text/hrg-hfs-enron-investors-pt1.txt. Chairs: Richard H. Baker (Capital Markets) and Sue W. Kelly (Oversight and Investigations). The witness list spells the firm 'Arthur Anderson, LLP' (typo). The transcript text (pages 1-71) contains no swearing-in; do not say 'under oath' for this hearing. PDF page = printed page + 6 for the hearing body. NOTE for coordinator: work/text copy has no text for PDF pages 72-168 (appendix scans); I read those pages as images.",
     "checked": "FIXED",
-    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Cover (PDF 1), contents and witness list (PDF 5) and hearing opening (PDF 7) verified: joint hearing of the Capital Markets and Oversight subcommittees, Dec. 12, 2001, Serial No. 107-51, Part 1; four witnesses as stated. I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'."
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Cover (PDF 1), contents and witness list (PDF 5) and hearing opening (PDF 7) verified: joint hearing of the Capital Markets and Oversight subcommittees, Dec. 12, 2001, Serial No. 107-51, Part 1; four witnesses as stated. I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'. Revision final: pdf_page was the range string '1, 5, 7', which cannot drive a '#page=' link; set to 1, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-032",
@@ -775,9 +775,9 @@
     "source_id": "hrg-hfs-enron-investors-pt1",
     "file": "sources/05-hearings-enron/hhrg-107-hfs-enron-collapse-2001-12-12.pdf",
     "locator": {
-      "pdf_page": "119, 121-122",
+      "pdf_page": 122,
       "printed_page": "pp. 113, 115-116",
-      "section": "Appendix: 'Remarks of Joseph F. Berardino, Managing Partner – Chief Executive Officer, Andersen' (prepared statement)",
+      "section": "Appendix: 'Remarks of Joseph F. Berardino, Managing Partner – Chief Executive Officer, Andersen' (prepared statement) (PDF pages covered: 119, 121-122)",
       "lines": "no text layer; read from page images"
     },
     "source_type": "hearing testimony and record (no oath shown)",
@@ -790,7 +790,7 @@
     "ocr_checked_against_image": true,
     "notes": "Read directly from the page images (PDF 119-122); the text copy is blank for these pages. Quote transcribed from the image and checked twice. COMPARISON WITH POWERS (card A-048): wording identical; Powers omits nothing inside the quoted span. DIFFERENCE IN CONTEXT: the words come from Berardino's WRITTEN prepared statement (header 'Remarks of Joseph F. Berardino ... December 12, 2001'), which the hearing record prints in its appendix ('can be found on page 113 in the appendix', p. 49). In his spoken statement he said it differently (G-033). So the precise attribution is 'in written testimony submitted to a House hearing on December 12, 2001'. Title: the written statement says 'Managing Partner – Chief Executive Officer, Andersen'; the spoken-statement heading says 'Chief Executive Officer, Arthur Andersen, LLP' (p. 47). The next sentence in the statement: 'this appears to have been the result of a reasonable effort, made in good faith.' Not sworn per the transcript; use 'told Congress' or 'said in written testimony'. Berardino can now be named for A-048. (Not OCR: the PDF has a text layer for the hearing body but the appendix scan pages had no text in work/text.)",
     "checked": "FIXED",
-    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote checked against the page image (PDF 122, printed p. 116): verbatim. Header 'Remarks of Joseph F. Berardino, Managing Partner – Chief Executive Officer, Andersen ... December 12, 2001' confirmed (PDF 119). Wording identical to the Powers Report's quotation (powers-report-sec lines 3124-3129). I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'. Verb 'testified' changed to 'stated (written statement submitted to the hearing)'."
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Quote checked against the page image (PDF 122, printed p. 116): verbatim. Header 'Remarks of Joseph F. Berardino, Managing Partner – Chief Executive Officer, Andersen ... December 12, 2001' confirmed (PDF 119). Wording identical to the Powers Report's quotation (powers-report-sec lines 3124-3129). I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'. Verb 'testified' changed to 'stated (written statement submitted to the hearing)'. Revision final: pdf_page was the range string '119, 121-122', which cannot drive a '#page=' link; set to 122, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-033",
@@ -825,9 +825,9 @@
     "source_id": "hrg-hfs-enron-investors-pt1",
     "file": "sources/05-hearings-enron/hhrg-107-hfs-enron-collapse-2001-12-12.pdf",
     "locator": {
-      "pdf_page": "54, 119, 128",
+      "pdf_page": 128,
       "printed_page": "pp. 48, 113, 122",
-      "section": "Oral statement; prepared statement; letter of clarification to Rep. Baker, Dec. 13, 2001",
+      "section": "Oral statement; prepared statement; letter of clarification to Rep. Baker, Dec. 13, 2001 (PDF pages covered: 54, 119, 128)",
       "lines": "2916-2922 (oral); letter read from page image"
     },
     "source_type": "hearing testimony and record (no oath shown)",
@@ -840,7 +840,7 @@
     "ocr_checked_against_image": true,
     "notes": "Letter read from page image PDF 128 (printed p. 122). Use $52 million. The same letter corrects 'more than 500 million' EnronOnline transactions to 'more than 500,000'. Oral breakdown ($25M audit, remaining $27M, of which $13M consulting) is from the uncorrected oral statement; 25 + 27 = 52, consistent with the correction. (Not OCR: the PDF has a text layer for the hearing body but the appendix scan pages had no text in work/text.)",
     "checked": "FIXED",
-    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Letter checked against the page image (PDF 128, printed p. 122), dated December 13, 2001: quote verbatim; also confirms the 500,000 correction. Oral figures ($59 million; $25 million audit; $27 million remainder; $13 million consulting) verified (PDF 54). Written statement's '$52 million' confirmed (PDF 119). I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'."
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Letter checked against the page image (PDF 128, printed p. 122), dated December 13, 2001: quote verbatim; also confirms the 500,000 correction. Oral figures ($59 million; $25 million audit; $27 million remainder; $13 million consulting) verified (PDF 54). Written statement's '$52 million' confirmed (PDF 119). I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'. Revision final: pdf_page was the range string '54, 119, 128', which cannot drive a '#page=' link; set to 128, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-035",
@@ -850,9 +850,9 @@
     "source_id": "hrg-hfs-enron-investors-pt1",
     "file": "sources/05-hearings-enron/hhrg-107-hfs-enron-collapse-2001-12-12.pdf",
     "locator": {
-      "pdf_page": "129-130",
+      "pdf_page": 129,
       "printed_page": "pp. 123-124",
-      "section": "Letter of Joseph F. Berardino to Hon. Michael G. Oxley, Jan. 21, 2002 (written response)",
+      "section": "Letter of Joseph F. Berardino to Hon. Michael G. Oxley, Jan. 21, 2002 (written response) (PDF pages covered: 129-130)",
       "lines": "no text layer; read from page images"
     },
     "source_type": "hearing testimony and record (no oath shown)",
@@ -865,7 +865,7 @@
     "ocr_checked_against_image": true,
     "notes": "Read from page images PDF 129-130. The letter also says the $11.4 million Barclays 'equity' was in the form of yield certificates bought from two intermediaries (Big River Funding LLC and Little River Funding LLC) that Andersen learned of in early November 2001. Relevant to the Chewco chapter: it corrects the written statement's 'Enron had arranged a separate agreement with that institution' (p. 115). Andersen's own account, not an investigative finding. (Not OCR: the PDF has a text layer for the hearing body but the appendix scan pages had no text in work/text.)",
     "checked": "FIXED",
-    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Letter checked against the page images (PDF 129-130, printed pp. 123-124), dated January 21, 2002: quote verbatim; Dec. 30, 1997 JEDI reserve agreement, $6 million, 'only about half the required 3% equity was actually at risk', Big River and Little River all confirmed. Andersen's own account. I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'."
+    "checker_note": "Fingerprint OK (download_log.csv). FIXED. Letter checked against the page images (PDF 129-130, printed pp. 123-124), dated January 21, 2002: quote verbatim; Dec. 30, 1997 JEDI reserve agreement, $6 million, 'only about half the required 3% equity was actually at risk', Big River and Little River all confirmed. Andersen's own account. I searched the whole text layer of the Dec. 12, 2001 record for 'sworn', 'oath', 'swear' and 'raise your right': no hits. Source type 'sworn testimony' changed to 'hearing testimony and record (no oath shown)'. Revision final: pdf_page was the range string '129-130', which cannot drive a '#page=' link; set to 129, the PDF page where the quote appears. The full range is kept in 'section'."
   },
   {
     "id": "G-036",

@@ -172,3 +172,55 @@ I made no changes to the ch4 addition, so I added no correction row for it.
 | ch7 | **PASS** |
 
 No required fixes remain for chapters 1-7.
+
+## Revision pass
+
+Date: 2026-09-27. Scope: the ch6 and ch7 sentences changed under "Story Writer (chapters)" in `work/facts/fixes-revision.md`, followed by a whole-chapter sweep of ch6 and ch7.
+
+**The new documents are approved library documents.**
+- The 11 new ids are in `sources/manifest.csv`. They were added by the owner's own commit (44168d9, "Add files via upload", steven.hornik@icloud.com), and the download action logged them as `OK` with fingerprints.
+- I recomputed SHA-256 for all 11, and **all match `download_log.csv`**. Ten are filed in the folder `sources/candidates/`; the eleventh (`hrg-hfs-enron-investors-pt1`) is in `05-hearings-enron`.
+- Citing them is allowed: they are in the manifest, not only in `candidates.csv`.
+- Note for the coordinator: the site's links will point into a folder named "candidates". That may confuse readers, but it is not a sourcing problem.
+
+**Each changed sentence against its card and source** (read in the source; the Berardino quote checked on the page image)
+
+| ch | change | card(s) | verdict |
+|---|---|---|---|
+| 6 | Berardino named; "wrote in a statement submitted to a House hearing on December 12, 2001, later quoted in the Powers Report" | G-032, A-048 | **OK.** The quote is verbatim on the statement's p. 116 (PDF 122, page image): "When we reviewed this transaction again in October 2001, we determined that our team's initial judgment that the 3 percent test was met was in error." The header reads "Remarks of Joseph F. Berardino, Managing Partner – Chief Executive Officer, Andersen ... December 12, 2001". The chapter does not call it sworn, which is correct: the record shows no oath (G-031). *Note:* the citation's `data-page` is 119 (the first page of the statement). The quote is on **PDF 122**; changing `data-page` to 122 is recommended. |
+| 6 | Indictment: "later alleged that 'Tons of paper relating to the Enron audit were promptly shredded.'" | G-016 | **OK.** Verbatim at indictment p. 5 (line 240). The verb "alleged" is correct. |
+| 6 | "indicted Andersen on one count ... alleged that between about October 10 and November 9, 2001, Andersen had corruptly persuaded its employees to withhold and destroy records" | G-015, C-048 | **OK.** Matches "The Charge", para. 13 (a single charge), and 544 U.S. at 702 ("one count"). |
+| 6 | "The Supreme Court later recounted that the jury deliberated for seven days, declared itself deadlocked, was urged by the judge to keep trying, and returned a guilty verdict after three more days." | G-022 | **OK.** 544 U.S. at 702. "Urged by the judge to keep trying" is a fair plain-language gloss of the "Allen charge". "Recounted" is the right verb, since this is background in the opinion. |
+| 6 | "On May 31, 2005 ... unanimously reversed ... and sent the case back" | G-019 (+ G-018 notes) | **OK.** The date is from the header "Decided May 31, 2005". The opinion itself reads "Rehnquist, C. J., delivered the opinion for a unanimous Court" and "reversed and remanded". |
+| 6 | Rehnquist quote "We hold that the jury instructions failed to convey properly the elements of a 'corrup[t] persua[sion]' conviction under § 1512(b), and therefore reverse." | G-018 | **OK.** Verbatim at 544 U.S. at 698 (the printed "there-fore" is a line-break hyphen). The verb "held" is correct. |
+| 6 | "honestly and sincerely believed ..."; "it is striking how little culpability the instructions required" | G-020 | **OK.** Verbatim at p. 706. |
+| 6 | "without finding any link between the shredding and a particular official proceeding that Andersen had in mind" | G-021 | **OK.** Matches pp. 707-708. |
+| 6 | Duncan: "He pleaded guilty in 2002. The Justice Department described the charge as obstructing an SEC investigation into Enron; the Supreme Court's opinion calls it witness tampering. The library does not give the date of his plea, the charging document, or what later happened to the plea." | G-008, G-023 | **OK. The required statement is present and plain**: "The library does not give ... what later happened to the plea." DOJ lines 118-121 and 544 U.S. at 702 are both verbatim-consistent. *Optional wording:* "According to the Justice Department, he pleaded guilty in 2002", since only DOJ gives the year, and "the exact date of his plea". |
+| 6 | SEC case "settled ... the day it was filed, without admitting or denying ... permanent court order ... permanent suspension ... subject to court approval"; Bauer, Lowther and Odom "consented, without admitting or denying the findings ... each was barred from practicing before the SEC" | G-029, G-030 | **OK.** Matches Lit. Rel. 20441: "filing and simultaneous settlement"; "subject to court approval"; "denied the privilege of appearing or practicing before the Commission". "Alleged" is kept for the 2008 complaint. |
+| 7 | Kopper: $4M + $8M = $12M, the total DOJ "announced for 'both this plea and a related SEC complaint.'" | B-039, G-013 | **OK.** The quote is verbatim (transcript lines 37-38). The arithmetic matches SEC ¶9. The sentence still says his sentence is not in the library. |
+| 7 | Fastow: DOJ "announced" the Jan 14, 2004 plea to two conspiracy counts and cooperation; agreement: ten years and >$29M; Sept 26, 2006: six years, >$20M; the differences are unexplained | G-001, G-002, G-004 | **OK.** Matches release #019 (lines 19-32, 71-76) and #06-647 (lines 12-20). The disagreement is stated and attributed, with no figure chosen. |
+| 7 | Glisan: pleaded guilty Sept 10, 2003; sentenced the same day to five years under the plea agreement; "the Justice Department announced" | G-006 | **OK.** Release #492, lines 16-26 (60 months). |
+| 7 | Causey: DOJ announced a 66-month sentence on Nov 15, 2006 | G-009 | **OK.** Release #06-763, lines 10-15. |
+| 7 | Skilling: 2011 "held that the error was harmless, affirmed all of his convictions, and again ordered a new sentence"; "According to a 2013 agreement ... the Supreme Court declined to review that ruling in April 2012"; "the two sides agreed to recommend a sentence of 168 to 210 months ... give up any further challenges"; the imposed sentence is not in the library | G-024, G-026, G-027 | **OK.** CA5 2011 conclusion verbatim-consistent; agreement ¶¶ 6-10. The verbs "held", "according to", "agreed" are correct. *Optional wording:* "to recommend a guidelines range of 168 to 210 months", since the agreement recommends a range, not a sentence. |
+| 7 | "Arthur Andersen's conviction ... was reversed in 2005" now cites G-018 | G-018 | **OK.** |
+
+**Whole-chapter sweep, ch6 and ch7** (57 and 66 citations; card files reader-a/b/c, followup and revision)
+- **Cards:** every `data-card` exists and is checked **OK** or **FIXED**.
+- **Sources:** every `data-src` is a manifest id.
+- **Card and source agree:** no citation's source differs from its card's source.
+- **Candidates:** no file listed only in `candidates.csv` is cited. The approved ids filed in the candidates folder are cited through their manifest ids, which is correct.
+- **Buffett:** absent.
+- **Outcomes:**
+  - Verbs: "announced" for DOJ and the SEC release, "alleged" for the indictment and SEC complaint, "agreed" for agreements, "held" for courts.
+  - Lay: still vacated.
+  - Andersen: still reversed, not "innocent", and the post-remand history is still stated as not in the library.
+  - Skilling: now affirmed on remand, with the imposed sentence still stated as not in the library.
+
+**Corrections log:** I appended 10 rows (#96 to #105) to `build-log/corrections.md`, one per changed item. I made no edits to the chapters.
+
+### Revision-pass verdicts
+
+| chapter | verdict | required fixes |
+|---|---|---|
+| ch6 | **PASS** | None. Recommended: set the Berardino citation's `data-page` to 122. Optionally attribute "in 2002" to DOJ and say "exact date". |
+| ch7 | **PASS** | None. Optional: "a guidelines range of 168 to 210 months". |

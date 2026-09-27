@@ -1,0 +1,3735 @@
+// Generated from work/drafts/lenses.json by work/tools/integrate.py. Edit the JSON, then re-run.
+window.LENSES = {
+ "_meta": {
+  "para_index": "Counts <p> elements in the chapter fragment work/drafts/chN.html, starting at 1, in document order, skipping <p class=\"dek\"> and any <p> inside <aside class=\"ask-why\">. para_start is the first 8 words of the paragraph text with citation links removed.",
+  "cites": "page is the PDF page (null for .txt/.htm sources); loc is a human-readable locator copied from the fact card.",
+  "summary": "Each summary bullet is {text, cites}. Each knew strip entry is {date, who, what, cites}.",
+  "author": "Lens Writer (Phase 2)"
+ },
+ "ch1": {
+  "money": {
+   "notes": [
+    {
+     "para_index": 13,
+     "para_key": "ch1-p13",
+     "para_start": "In 1996, Enron introduced a plan it called",
+     "text": "Follow the money: all three Enron 2000 targets were about reported earnings and how fast they grew, year after year. The congressional tax staff described the plan but did not say it caused later accounting choices; Chapter 2 shows why steady reported growth mattered so much to Enron.",
+     "cites": [
+      {
+       "card": "A-008",
+       "source_id": "rpt-jct-vol1",
+       "page": 91,
+       "loc": "p. 63, Part Two, II.B.3 Transformation to a marketing and logistics company: 1996-2001"
+      },
+      {
+       "card": "A-028",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 36, I. Background: Enron and Special Purpose Entities"
+      }
+     ]
+    },
+    {
+     "para_index": 15,
+     "para_key": "ch1-p15",
+     "para_start": "On paper, the growth was dramatic. Enron's reported",
+     "text": "Follow the money: reported revenue grew nearly eightfold from 1996 to 2000, and reported assets about fourfold. Chapter 2 compares this with reported net income, which grew far more slowly: from $703 million in 1998 to $979 million in 2000.",
+     "cites": [
+      {
+       "card": "A-010",
+       "source_id": "rpt-jct-vol1",
+       "page": 92,
+       "loc": "p. 64, Part Two, II.B.3"
+      },
+      {
+       "card": "A-025",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Item 8. Consolidated Income Statement, lines 3782-3786"
+      }
+     ]
+    },
+    {
+     "para_index": 17,
+     "para_key": "ch1-p17",
+     "para_start": "The congressional tax staff reported, citing an Enron",
+     "text": "Follow the money: market capitalization is set by investors buying and selling shares, not by the company's accountants. The $70 billion figure comes from an Enron press release, as the congressional tax staff noted.",
+     "cites": [
+      {
+       "card": "A-011",
+       "source_id": "rpt-jct-vol1",
+       "page": 86,
+       "loc": "p. 58, Part Two, II.A Background"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "In 1985 InterNorth paid HNG's shareholders $2.4 billion in cash, creating the company that became Enron.",
+     "cites": [
+      {
+       "card": "A-002",
+       "source_id": "rpt-jct-vol1",
+       "page": 88,
+       "loc": "p. 60, Part Two, II.B.1"
+      }
+     ]
+    },
+    {
+     "text": "In 1996 Enron publicly set targets for its reported profit: $1 billion of net income by 2000 and double-digit growth every year.",
+     "cites": [
+      {
+       "card": "A-008",
+       "source_id": "rpt-jct-vol1",
+       "page": 91,
+       "loc": "p. 63, Part Two, II.B.3 Transformation to a marketing and logistics company: 1996-2001"
+      }
+     ]
+    },
+    {
+     "text": "Enron's reported revenue rose from $13 billion in 1996 to $101 billion in 2000, and its reported assets from $16.1 billion to $65.5 billion. These are the figures as reported before the 2001 corrections.",
+     "cites": [
+      {
+       "card": "A-010",
+       "source_id": "rpt-jct-vol1",
+       "page": 92,
+       "loc": "p. 64, Part Two, II.B.3"
+      }
+     ]
+    },
+    {
+     "text": "In early 2001 Enron's shares were worth about $70 billion in total, according to an Enron press release cited by the congressional tax staff.",
+     "cites": [
+      {
+       "card": "A-011",
+       "source_id": "rpt-jct-vol1",
+       "page": 86,
+       "loc": "p. 58, Part Two, II.A Background"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Enron's reported revenue grew almost eightfold in four years. If you were an investor, what would you want to see besides revenue before believing the company was actually earning more money?"
+  },
+  "auditors": {
+   "notes": [
+    {
+     "para_index": 9,
+     "para_key": "ch1-p9",
+     "para_start": "Arthur Andersen, which had audited InterNorth, became the",
+     "text": "The Auditors: Andersen's relationship with Enron is older than the Enron name; the firm had already audited InterNorth. The bankruptcy examiner describes Andersen's job as giving an opinion on whether Enron's annual financial statements fairly presented its financial position. The relationship lasted until Enron's board voted to end it on January 17, 2002.",
+     "cites": [
+      {
+       "card": "C-026",
+       "source_id": "batson-final-app-b-part1",
+       "page": 3,
+       "loc": "p. 1 and n. 1, I.A Overview"
+      },
+      {
+       "card": "C-037",
+       "source_id": "batson-final-app-b-part1",
+       "page": 61,
+       "loc": "p. 59, III.B Andersen's Conviction and Current Status"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "Arthur Andersen had audited InterNorth and became the auditor of the combined company formed in 1985.",
+     "cites": [
+      {
+       "card": "C-026",
+       "source_id": "batson-final-app-b-part1",
+       "page": 3,
+       "loc": "p. 1 and n. 1, I.A Overview"
+      }
+     ]
+    },
+    {
+     "text": "An auditor's opinion says whether the financial statements fairly present the company's financial position, in all material respects. It is an opinion, not a guarantee.",
+     "cites": [
+      {
+       "card": "C-026",
+       "source_id": "batson-final-app-b-part1",
+       "page": 3,
+       "loc": "p. 1 and n. 1, I.A Overview"
+      }
+     ]
+    },
+    {
+     "text": "Several people who later held finance jobs at Enron came from Andersen. According to the SEC's complaint, Richard Causey audited Enron for Andersen from 1986 to 1991 before joining Enron; the SEC also describes Ben Glisan as a former Andersen accountant; and Sherron Watkins testified that she spent eight years at Andersen.",
+     "cites": [
+      {
+       "card": "B-041",
+       "source_id": "sec-skilling-causey-complaint",
+       "page": null,
+       "loc": "First Amended Complaint, para. 8 (Defendants), lines 45"
+      },
+      {
+       "card": "B-047",
+       "source_id": "sec-glisan-complaint",
+       "page": null,
+       "loc": "Complaint, para. 7 (Defendant), lines ~39"
+      },
+      {
+       "card": "B-054",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 14,
+       "loc": "p. 10, Statement of Sherron Watkins"
+      }
+     ]
+    },
+    {
+     "text": "Andersen remained Enron's auditor until Enron's board voted to terminate it on January 17, 2002.",
+     "cites": [
+      {
+       "card": "C-037",
+       "source_id": "batson-final-app-b-part1",
+       "page": 61,
+       "loc": "p. 59, III.B Andersen's Conviction and Current Status"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Several of Enron's finance staff had once worked for its auditor. What are the benefits, and what are the risks, when people move from an audit firm to a company that firm audits?"
+  },
+  "board": {
+   "notes": [],
+   "summary": [
+    {
+     "text": "HNG was the smaller company, but its managers took control: by the end of 1986 most of the combined company's officers and directors came from HNG.",
+     "cites": [
+      {
+       "card": "A-005",
+       "source_id": "rpt-jct-vol1",
+       "page": 88,
+       "loc": "p. 60, Part Two, II.B.1"
+      }
+     ]
+    },
+    {
+     "text": "Kenneth Lay became chairman of the board and chief executive of the combined company in February 1986, and held both jobs until February 2001.",
+     "cites": [
+      {
+       "card": "A-005",
+       "source_id": "rpt-jct-vol1",
+       "page": 88,
+       "loc": "p. 60, Part Two, II.B.1"
+      }
+     ]
+    },
+    {
+     "text": "Some directors who oversaw Enron in 2001 had been on its board since the mid-1980s. The Senate subcommittee staff lists Herbert Winokur Jr. and Robert Jaedicke as directors from 1985; the bankruptcy examiner gives some earlier dates because he counts service on the predecessor companies' boards.",
+     "cites": [
+      {
+       "card": "B-076",
+       "source_id": "hrg-psi-board",
+       "page": 28,
+       "loc": "p. 18, Testimony of Herbert S. Winokur, Jr."
+      },
+      {
+       "card": "B-077",
+       "source_id": "rpt-psi-board",
+       "page": 6,
+       "loc": "p. 2, Subcommittee Investigation (witness list)"
+      }
+     ]
+    }
+   ],
+   "ask_why": "From 1986 to 2001 Lay was both the chairman of Enron's board and its chief executive. What might a board gain, and what might it lose, when the person it oversees also leads its meetings?"
+  },
+  "knew": {
+   "notes": [],
+   "summary": [
+    {
+     "text": "What the public was told about Enron's business changed over the decade: its 1989 annual report said \"Enron's business is natural gas, from the reservoir to the burner tip\"; its 2000 annual report described \"a marketing and logistics company.\"",
+     "cites": [
+      {
+       "card": "A-006",
+       "source_id": "rpt-jct-vol1",
+       "page": 89,
+       "loc": "p. 61, Part Two, II.B.2"
+      },
+      {
+       "card": "A-009",
+       "source_id": "rpt-jct-vol1",
+       "page": 91,
+       "loc": "p. 63, Part Two, II.B.3"
+      }
+     ]
+    },
+    {
+     "text": "In 1996 investors were told of three specific profit targets under the Enron 2000 plan.",
+     "cites": [
+      {
+       "card": "A-008",
+       "source_id": "rpt-jct-vol1",
+       "page": 91,
+       "loc": "p. 63, Part Two, II.B.3 Transformation to a marketing and logistics company: 1996-2001"
+      }
+     ]
+    },
+    {
+     "text": "The revenue and asset figures readers saw in these years were Enron's reported numbers; some were later corrected.",
+     "cites": [
+      {
+       "card": "A-010",
+       "source_id": "rpt-jct-vol1",
+       "page": 92,
+       "loc": "p. 64, Part Two, II.B.3"
+      }
+     ]
+    },
+    {
+     "text": "The sources differ on when Enron began mark-to-market accounting: Enron told the congressional tax staff 1992, while the Senate Governmental Affairs Committee staff found that a subsidiary used it for its 1991 results.",
+     "cites": [
+      {
+       "card": "A-007",
+       "source_id": "rpt-jct-vol1",
+       "page": 90,
+       "loc": "p. 62, Part Two, II.B.2, footnote 67"
+      },
+      {
+       "card": "C-055",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 36,
+       "loc": "p. 32, Part One II (SEC's mark-to-market determination)"
+      }
+     ]
+    }
+   ],
+   "strip": [
+    {
+     "date": "1990",
+     "who": "Readers of Enron's 1989 annual report",
+     "what": "Were told \"Enron's business is natural gas, from the reservoir to the burner tip,\" as quoted by the congressional tax staff.",
+     "cites": [
+      {
+       "card": "A-006",
+       "source_id": "rpt-jct-vol1",
+       "page": 89,
+       "loc": "p. 61, Part Two, II.B.2"
+      }
+     ]
+    },
+    {
+     "date": "1992-01-30",
+     "who": "SEC Office of the Chief Accountant",
+     "what": "Told Enron it would not object to mark-to-market accounting for a subsidiary starting in 1992. Enron replied that it would start from 1991; the Senate staff found the SEC apparently did not respond further.",
+     "cites": [
+      {
+       "card": "C-055",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 36,
+       "loc": "p. 32, Part One II (SEC's mark-to-market determination)"
+      }
+     ]
+    },
+    {
+     "date": "1996",
+     "who": "Investors",
+     "what": "Were told of the Enron 2000 targets, including $1 billion of net income by 2000.",
+     "cites": [
+      {
+       "card": "A-008",
+       "source_id": "rpt-jct-vol1",
+       "page": 91,
+       "loc": "p. 63, Part Two, II.B.3 Transformation to a marketing and logistics company: 1996-2001"
+      }
+     ]
+    },
+    {
+     "date": "2001",
+     "who": "Investors and the public",
+     "what": "An Enron press release, cited by the congressional tax staff, put Enron's market capitalization at about $70 billion in early 2001.",
+     "cites": [
+      {
+       "card": "A-011",
+       "source_id": "rpt-jct-vol1",
+       "page": 86,
+       "loc": "p. 58, Part Two, II.A Background"
+      }
+     ]
+    }
+   ],
+   "ask_why": "In ten years Enron's own description of itself changed from a natural gas company to a marketing and logistics company. When a company describes its business that differently, what questions should readers of its annual report start asking?"
+  }
+ },
+ "ch2": {
+  "money": {
+   "notes": [
+    {
+     "para_index": 5,
+     "para_key": "ch2-p5",
+     "para_start": "Enron's reported revenue rose from $13.3 billion in",
+     "text": "Follow the money: compare the two growth rates. From 1999 to 2000, reported revenue rose about 150 percent ($40.1 billion to $100.8 billion), while reported net income rose about 10 percent ($893 million to $979 million). Money counted as revenue is not money kept as profit.",
+     "cites": [
+      {
+       "card": "A-024",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "p. 27 (per 10-K table of contents), Item 6. Selected Financial Data (Unaudited)"
+      },
+      {
+       "card": "A-025",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Item 8. Consolidated Income Statement, lines 3782-3786"
+      }
+     ]
+    },
+    {
+     "para_index": 11,
+     "para_key": "ch2-p11",
+     "para_start": "Enron's own accounting policy, printed in its 2000",
+     "text": "Follow the money: the key words are \"unrealized\" and \"newly originated.\" Under this policy, a contract signed during the year could add to revenue before any cash from it arrived, and where market prices had to be estimated, the policy said they reflected management's \"best estimate.\"",
+     "cites": [
+      {
+       "card": "A-020",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Notes to Financial Statements, Note 1 Summary of Significant Accounting Policies - Accounting for Price Risk Management, lines 4153-4175"
+      }
+     ]
+    },
+    {
+     "para_index": 13,
+     "para_key": "ch2-p13",
+     "para_start": "Enron applied the same idea to stakes it",
+     "text": "Follow the money: because changes in the market value of these stakes went into revenue, a falling share price at a company Enron had invested in could cut Enron's reported earnings that quarter. Chapter 3 shows how Enron tried to offset such losses.",
+     "cites": [
+      {
+       "card": "A-021",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Item 7. MD&A - Wholesale Services, Assets and Investments, lines 2418-2429"
+      },
+      {
+       "card": "A-022",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 77, IV.A Origin of the Transaction"
+      }
+     ]
+    },
+    {
+     "para_index": 15,
+     "para_key": "ch2-p15",
+     "para_start": "Enron had made public promises of steady growth,",
+     "text": "Follow the money: the special committee described a squeeze. Growth needed large investments up front; paying for them with more debt risked Enron's credit rating, and paying with more stock would dilute earnings per share. That squeeze is the background to the off-balance-sheet deals.",
+     "cites": [
+      {
+       "card": "A-028",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 36, I. Background: Enron and Special Purpose Entities"
+      }
+     ]
+    },
+    {
+     "para_index": 19,
+     "para_key": "ch2-p19",
+     "para_start": "Years later, the court-appointed bankruptcy examiner, in an",
+     "text": "Follow the money: the gap is large, $22.1 billion of debt against the $10.2 billion Enron reported for the end of 2000. The examiner summarized this conclusion from an earlier report that is not in this site's library, so the detailed calculation cannot be checked here.",
+     "cites": [
+      {
+       "card": "A-067",
+       "source_id": "batson-final",
+       "page": 21,
+       "loc": "p. 18, III.A Overview"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "In 2000 Enron's reported revenue more than doubled, while its reported net income rose by about a tenth.",
+     "cites": [
+      {
+       "card": "A-024",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "p. 27 (per 10-K table of contents), Item 6. Selected Financial Data (Unaudited)"
+      },
+      {
+       "card": "A-025",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Item 8. Consolidated Income Statement, lines 3782-3786"
+      }
+     ]
+    },
+    {
+     "text": "Under mark-to-market accounting, Enron counted unrealized gains on trading contracts and on its merchant investments as revenue, using management's estimates where no market price existed.",
+     "cites": [
+      {
+       "card": "A-020",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Notes to Financial Statements, Note 1 Summary of Significant Accounting Policies - Accounting for Price Risk Management, lines 4153-4175"
+      },
+      {
+       "card": "A-021",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Item 7. MD&A - Wholesale Services, Assets and Investments, lines 2418-2429"
+      }
+     ]
+    },
+    {
+     "text": "The special committee found that Enron's growth needed large investments up front, and that keeping an investment-grade credit rating was \"vital\" to its energy trading business.",
+     "cites": [
+      {
+       "card": "A-028",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 36, I. Background: Enron and Special Purpose Entities"
+      }
+     ]
+    },
+    {
+     "text": "The bankruptcy examiner concluded that six accounting techniques let Enron report $10.2 billion of debt at the end of 2000 rather than $22.1 billion.",
+     "cites": [
+      {
+       "card": "A-067",
+       "source_id": "batson-final",
+       "page": 21,
+       "loc": "p. 18, III.A Overview"
+      }
+     ]
+    }
+   ],
+   "ask_why": "If a company reports today the profit it expects from a contract over ten years, what happens to its reported profit in the later years? What pressure might that create to keep signing new contracts?"
+  },
+  "auditors": {
+   "notes": [
+    {
+     "para_index": 11,
+     "para_key": "ch2-p11",
+     "para_start": "Enron's own accounting policy, printed in its 2000",
+     "text": "The Auditors: for contracts without a market price, the fair values came from management's estimates. The auditor had to judge whether the policy and the estimates were reasonable; Andersen's opinion on the 2000 statements said they presented Enron's financial position fairly, in conformity with GAAP.",
+     "cites": [
+      {
+       "card": "A-020",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Notes to Financial Statements, Note 1 Summary of Significant Accounting Policies - Accounting for Price Risk Management, lines 4153-4175"
+      },
+      {
+       "card": "A-027",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Report of Independent Public Accountants (Item 8), lines 3717-3738"
+      }
+     ]
+    },
+    {
+     "para_index": 18,
+     "para_key": "ch2-p18",
+     "para_start": "At the end of 2000, Enron reported total",
+     "text": "The Auditors: this is Andersen's standard clean, or unqualified, opinion. On November 8, 2001, Enron said that the audit reports for 1997 through 2000 \"should not be relied upon\" (Chapter 5).",
+     "cites": [
+      {
+       "card": "A-027",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Report of Independent Public Accountants (Item 8), lines 3717-3738"
+      },
+      {
+       "card": "A-083",
+       "source_id": "enron-8k-nov-2001-ex99-1",
+       "page": null,
+       "loc": "p. 1, Press release, Nov 8, 2001 (Exhibit 99.1)"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "Enron's 2000 Form 10-K described its fair-value policy, including that unrealized gains from newly originated contracts were counted as \"Other Revenues.\"",
+     "cites": [
+      {
+       "card": "A-020",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Notes to Financial Statements, Note 1 Summary of Significant Accounting Policies - Accounting for Price Risk Management, lines 4153-4175"
+      }
+     ]
+    },
+    {
+     "text": "Andersen's audit report, dated February 23, 2001, said Enron's 2000 financial statements \"present fairly, in all material respects\" its financial position.",
+     "cites": [
+      {
+       "card": "A-027",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Report of Independent Public Accountants (Item 8), lines 3717-3738"
+      }
+     ]
+    },
+    {
+     "text": "Enron later said that the audit reports for 1997 through 2000 \"should not be relied upon.\"",
+     "cites": [
+      {
+       "card": "A-083",
+       "source_id": "enron-8k-nov-2001-ex99-1",
+       "page": null,
+       "loc": "p. 1, Press release, Nov 8, 2001 (Exhibit 99.1)"
+      }
+     ]
+    }
+   ],
+   "ask_why": "When a contract has no market price, management estimates its value and the auditor reviews the estimate. If you were the auditor, what evidence would you want before agreeing that an estimate of profits many years away is reasonable?"
+  },
+  "board": {
+   "notes": [
+    {
+     "para_index": 17,
+     "para_key": "ch2-p17",
+     "para_start": "The committee found that Enron's management therefore preferred",
+     "text": "The Board: the committee was told that off-balance-sheet structures were used in many parts of Enron's business, even for its headquarters building. Some of these deals needed board approval: Chapter 3 shows the board's Executive Committee approving a guarantee for Chewco in 1997.",
+     "cites": [
+      {
+       "card": "A-029",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 37, I. Background: Enron and Special Purpose Entities"
+      },
+      {
+       "card": "A-033",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 46-47, II.B Limited Board Approval"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "The special committee found that management preferred off-balance-sheet treatment because it made Enron look better on the ratios used by Wall Street analysts and rating agencies.",
+     "cites": [
+      {
+       "card": "A-029",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 37, I. Background: Enron and Special Purpose Entities"
+      }
+     ]
+    },
+    {
+     "text": "Keeping its credit rating at investment grade was, in the committee's words, \"vital\" to Enron's energy trading business.",
+     "cites": [
+      {
+       "card": "A-028",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 36, I. Background: Enron and Special Purpose Entities"
+      }
+     ]
+    },
+    {
+     "text": "Enron's public targets included $1 billion of net income by the year 2000.",
+     "cites": [
+      {
+       "card": "A-008",
+       "source_id": "rpt-jct-vol1",
+       "page": 91,
+       "loc": "p. 63, Part Two, II.B.3 Transformation to a marketing and logistics company: 1996-2001"
+      }
+     ]
+    }
+   ],
+   "ask_why": "A board approves strategy but relies on management for the numbers. If a company's growth depends on keeping debt off its balance sheet, what questions should directors ask before approving the deals that do it?"
+  },
+  "knew": {
+   "notes": [
+    {
+     "para_index": 12,
+     "para_key": "ch2-p12",
+     "para_start": "Enron had checked with its regulator first. The",
+     "text": "Who Knew What, When: the SEC's accounting office said it would not object to mark-to-market accounting for an Enron subsidiary starting in 1992; Enron replied that it would start a year earlier. The Senate staff found that the SEC apparently did not respond further.",
+     "cites": [
+      {
+       "card": "C-055",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 36,
+       "loc": "p. 32, Part One II (SEC's mark-to-market determination)"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "The Senate Governmental Affairs Committee staff found that in January 1992 the SEC's Office of the Chief Accountant said it would not object to mark-to-market accounting for an Enron subsidiary from 1992, and that Enron replied it would start from 1991.",
+     "cites": [
+      {
+       "card": "C-055",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 36,
+       "loc": "p. 32, Part One II (SEC's mark-to-market determination)"
+      }
+     ]
+    },
+    {
+     "text": "The staff wrote: \"Apparently, the SEC did not respond further to this correspondence.\"",
+     "cites": [
+      {
+       "card": "C-055",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 36,
+       "loc": "p. 32, Part One II (SEC's mark-to-market determination)"
+      }
+     ]
+    },
+    {
+     "text": "Enron's annual report told readers that unrealized gains from newly originated contracts were counted as revenue..",
+     "cites": [
+      {
+       "card": "A-020",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Notes to Financial Statements, Note 1 Summary of Significant Accounting Policies - Accounting for Price Risk Management, lines 4153-4175"
+      }
+     ]
+    },
+    {
+     "text": "Enron's description of EnronOnline told readers that customers traded \"with Enron as principal,\" meaning Enron was on one side of every trade.",
+     "cites": [
+      {
+       "card": "A-018",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Item 7. MD&A - Wholesale Services, lines 2392-2398"
+      }
+     ]
+    }
+   ],
+   "strip": [
+    {
+     "date": "1992-01-30",
+     "who": "SEC Office of the Chief Accountant",
+     "what": "Told Enron it would not object to mark-to-market accounting for Enron Gas Services from 1992. Enron replied it would adopt the method from the start of 1991.",
+     "cites": [
+      {
+       "card": "C-055",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 36,
+       "loc": "p. 32, Part One II (SEC's mark-to-market determination)"
+      }
+     ]
+    },
+    {
+     "date": "2000-12-31",
+     "who": "Investors",
+     "what": "Enron reported total debt of $10.2 billion. The bankruptcy examiner, in an earlier report summarized in his final one, later concluded that without six accounting techniques the figure would have been $22.1 billion.",
+     "cites": [
+      {
+       "card": "A-026",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Item 6. Selected Financial Data (Unaudited), lines 1945-1970"
+      },
+      {
+       "card": "A-067",
+       "source_id": "batson-final",
+       "page": 21,
+       "loc": "p. 18, III.A Overview"
+      }
+     ]
+    },
+    {
+     "date": "2001",
+     "who": "Readers of the 2000 Form 10-K",
+     "what": "Were told that on EnronOnline, launched in late 1999, customers traded \"with Enron as principal.\"",
+     "cites": [
+      {
+       "card": "A-018",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Item 7. MD&A - Wholesale Services, lines 2392-2398"
+      }
+     ]
+    },
+    {
+     "date": "2001-02-23",
+     "who": "Readers of the 2000 Form 10-K",
+     "what": "Were told by Andersen's audit report that the 2000 statements \"present fairly, in all material respects\" Enron's financial position.",
+     "cites": [
+      {
+       "card": "A-027",
+       "source_id": "enron-10k-2000",
+       "page": null,
+       "loc": "Report of Independent Public Accountants (Item 8), lines 3717-3738"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Enron described its mark-to-market policy in its annual report. If a risk is disclosed in the fine print, who is responsible when most readers do not understand it: the company, the auditor, the regulator, or the reader?"
+  }
+ },
+ "ch3": {
+  "money": {
+   "notes": [
+    {
+     "para_index": 4,
+     "para_key": "ch3-p4",
+     "para_start": "In 1993, Enron and the California Public Employees'",
+     "text": "Follow the money: Enron put in its own stock, while CalPERS put in cash. When CalPERS left, the new partner, Chewco, had to meet the SPE rules for JEDI to stay off Enron's balance sheet; the special committee found it did not.",
+     "cites": [
+      {
+       "card": "A-031",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 43, II.A Formation of Chewco"
+      },
+      {
+       "card": "A-035",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 50-52, II.D SPE Non-Consolidation \"Equity\" Requirement"
+      }
+     ]
+    },
+    {
+     "para_index": 7,
+     "para_key": "ch3-p7",
+     "para_start": "The committee found that no outside investors could",
+     "text": "Follow the money: of Chewco's $11.5 million of \"equity,\" only about $125,000 came from Kopper. The rest was money from Barclays, and the $6.6 million of cash collateral meant the outside money was not truly at risk.",
+     "cites": [
+      {
+       "card": "A-034",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 49-50, II.D SPE Non-Consolidation \"Equity\" Requirement"
+      },
+      {
+       "card": "A-035",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 50-52, II.D SPE Non-Consolidation \"Equity\" Requirement"
+      }
+     ]
+    },
+    {
+     "para_index": 8,
+     "para_key": "ch3-p8",
+     "para_start": "Kopper was paid about $2 million in fees",
+     "text": "Follow the money: about $125,000 in, about $10.5 million out, plus about $2 million in fees. The committee was told that Treasurer Jeff McMahon had proposed a $1 million return for the Chewco investors and that Fastow negotiated about $10 million. Fastow said he did not take part; the committee found that contrary to other evidence.",
+     "cites": [
+      {
+       "card": "A-036",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 54-55, II.E Fees Paid to Chewco/Kopper"
+      },
+      {
+       "card": "A-037",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 60-64, II.G Enron's Repurchase of Chewco's Limited Partnership Interest"
+      }
+     ]
+    },
+    {
+     "para_index": 12,
+     "para_key": "ch3-p12",
+     "para_start": "From June 1999 through June 2001, Enron did",
+     "text": "Follow the money: in seven sales near the ends of two 1999 quarters, Enron later bought back five, and LJM made a profit every time; the committee noted plausible, more innocent explanations for some buybacks. Fastow told the board's Finance Committee these deals produced $229 million of \"earnings\" in the second half of 1999; the committee could not confirm that figure.",
+     "cites": [
+      {
+       "card": "A-044",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 12, Executive Summary - Asset Sales"
+      }
+     ]
+    },
+    {
+     "para_index": 19,
+     "para_key": "ch3-p19",
+     "para_start": "In the last two quarters of 2000, $532",
+     "text": "Follow the money: by the committee's calculation, without the Raptors Enron's pre-tax earnings for July 2000 through September 2001 would have been $429 million instead of $1.506 billion, not counting the $710 million charge to end the Raptors; the committee noted it could not know what Enron would otherwise have done. For LJM2 the money came back fast: about $41 million on each $30 million investment within about six months.",
+     "cites": [
+      {
+       "card": "A-054",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 99 (table p. 133), V. The Raptors (introduction); V.F table"
+      },
+      {
+       "card": "A-053",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 128-129, V.F Conclusions on the Raptors"
+      }
+     ]
+    },
+    {
+     "para_index": 21,
+     "para_key": "ch3-p21",
+     "para_start": "The bankruptcy examiner later summed up: \"Although its",
+     "text": "Follow the money: the committee's figures for individuals are minimums: \"at least\" $30 million for Fastow and \"at least\" $10 million for Kopper.",
+     "cites": [
+      {
+       "card": "A-060",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 3-4 (K-1 details p. 163), Executive Summary - Summary of Findings; VII.A"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "Chewco: the special committee found that Kopper and another investor turned $125,000 into about $10.5 million, and that Kopper was also paid about $2 million in fees.",
+     "cites": [
+      {
+       "card": "A-036",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 54-55, II.E Fees Paid to Chewco/Kopper"
+      },
+      {
+       "card": "A-037",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 60-64, II.G Enron's Repurchase of Chewco's Limited Partnership Interest"
+      }
+     ]
+    },
+    {
+     "text": "LJM: the committee found that more than 20 deals increased Enron's reported results \"by more than a billion dollars.\"",
+     "cites": [
+      {
+       "card": "A-043",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 8-9, 11, Executive Summary - The LJM Transactions"
+      }
+     ]
+    },
+    {
+     "text": "Raptors: the committee calculated that without them, Enron's pre-tax earnings for five quarters would have been $429 million rather than $1.506 billion, a 72% decline (not counting the $710 million charge to end the Raptors; the committee noted it could not know what Enron would otherwise have done).",
+     "cites": [
+      {
+       "card": "A-054",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 99 (table p. 133), V. The Raptors (introduction); V.F table"
+      },
+      {
+       "card": "A-058",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 127-128, V.E Unwind of the Raptors"
+      }
+     ]
+    },
+    {
+     "text": "The committee found that Fastow was enriched by at least $30 million and Kopper by at least $10 million.",
+     "cites": [
+      {
+       "card": "A-060",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 3-4 (K-1 details p. 163), Executive Summary - Summary of Findings; VII.A"
+      }
+     ]
+    }
+   ],
+   "ask_why": "In several of these deals a small investment by insiders produced a very large return. Where did that money ultimately come from, and who was carrying the risk?"
+  },
+  "auditors": {
+   "notes": [
+    {
+     "para_index": 18,
+     "para_key": "ch3-p18",
+     "para_start": "In the first Raptor, created in April 2000,",
+     "text": "The Auditors: the committee found Andersen was in a position to understand the Raptors and advised Enron at every step. Enron's records show Andersen billed $5.7 million for advice on the LJM and Chewco deals alone, beyond its regular audit fees.",
+     "cites": [
+      {
+       "card": "A-052",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 100-101, V.A.1 Raptor I: Formation and Structure"
+      },
+      {
+       "card": "A-061",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 5 (Raptors p. 132), Executive Summary; V.F Conclusions on the Raptors"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "Under the rules of the time, an independent owner had to invest at least 3% of an SPE's assets and keep it at risk, or the SPE belonged on the company's books.",
+     "cites": [
+      {
+       "card": "A-030",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 5, Executive Summary - Summary of Findings"
+      }
+     ]
+    },
+    {
+     "text": "The committee found that Chewco's cash collateral was \"fatal\" to its compliance with the 3% requirement. In a January 2002 letter to Congress, Andersen's chief executive, Joseph Berardino, wrote that Andersen had not been told in 1997 of an agreement to put $6 million into a reserve account for Barclays' benefit, which left only about half of the required equity at risk. That is Andersen's own account.",
+     "cites": [
+      {
+       "card": "A-035",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 50-52, II.D SPE Non-Consolidation \"Equity\" Requirement"
+      },
+      {
+       "card": "G-035",
+       "source_id": "hrg-hfs-enron-investors-pt1",
+       "page": 129,
+       "loc": "pp. 123-124, Letter of Joseph F. Berardino to Hon. Michael G. Oxley, Jan. 21, 2002 (written response) (PDF pages covered: 129-130)"
+      }
+     ]
+    },
+    {
+     "text": "Andersen's chief executive, Joseph Berardino, said in a written statement to a House hearing in December 2001 that the firm's judgment that the Rhythms entity met the 3 percent test \"was in error.\"",
+     "cites": [
+      {
+       "card": "G-032",
+       "source_id": "hrg-hfs-enron-investors-pt1",
+       "page": 122,
+       "loc": "pp. 113, 115-116, Appendix: 'Remarks of Joseph F. Berardino, Managing Partner – Chief Executive Officer, Andersen' (prepared statement) (PDF pages covered: 119, 121-122)"
+      }
+     ]
+    },
+    {
+     "text": "The committee found Andersen accountants \"closely involved in structuring the Raptors.\"",
+     "cites": [
+      {
+       "card": "A-052",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 100-101, V.A.1 Raptor I: Formation and Structure"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Andersen was paid to advise Enron on some of these deals and also to audit the results. What problems could arise when the same firm helps design a transaction and then judges whether it was accounted for correctly?"
+  },
+  "board": {
+   "notes": [
+    {
+     "para_index": 5,
+     "para_key": "ch3-p5",
+     "para_start": "In 1997, Enron needed a new partner to",
+     "text": "The Board: the swap of Kopper for Fastow mattered for disclosure. Fastow's role would have had to be disclosed in the proxy statement, the document sent to shareholders before their annual meeting; Kopper was not a senior officer, so his role did not require it.",
+     "cites": [
+      {
+       "card": "A-032",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 43-44, II.A Formation of Chewco"
+      }
+     ]
+    },
+    {
+     "para_index": 6,
+     "para_key": "ch3-p6",
+     "para_start": "On November 5, 1997, the board's Executive Committee",
+     "text": "The Board: the Executive Committee approved the guarantee by conference call, based on a description of Chewco as \"an SPE not affiliated with either Enron or CalPERS.\" What the directors approved depended on what they were told.",
+     "cites": [
+      {
+       "card": "A-033",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 46-47, II.B Limited Board Approval"
+      }
+     ]
+    },
+    {
+     "para_index": 9,
+     "para_key": "ch3-p9",
+     "para_start": "On June 28, 1999, the board approved a",
+     "text": "The Board: the directors did not simply learn of Fastow's role; they voted on it. The Senate subcommittee staff found that Lay approved waiving the code-of-conduct rule for Fastow and asked the board to ratify that decision, though company rules did not explicitly require it. Directors Winokur and Jaedicke later argued that the board had applied the code, not waived it.",
+     "cites": [
+      {
+       "card": "F-006",
+       "source_id": "rpt-psi-board",
+       "page": 28,
+       "loc": "p. 24 (text begins p. 23), Finding (3), nn. 57-59"
+      },
+      {
+       "card": "F-007",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 69 (LJM1); p. 72 (LJM2); p. 44 n. 8 (Code text), III.A LJM1 (Board approval, June 28, 1999); LJM2 approval"
+      }
+     ]
+    },
+    {
+     "para_index": 10,
+     "para_key": "ch3-p10",
+     "para_start": "In October 1999 the board approved Fastow's role",
+     "text": "The Board: the controls rested on two officers and a yearly Audit Committee review. The special committee also saw no evidence that the board was told that Kopper and Glisan would help manage LJM2.",
+     "cites": [
+      {
+       "card": "A-041",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 70-73, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
+      },
+      {
+       "card": "A-042",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 72, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
+      }
+     ]
+    },
+    {
+     "para_index": 20,
+     "para_key": "ch3-p20",
+     "para_start": "By December 2000, two Raptors lacked the money",
+     "text": "The Board: twice the Raptors' credit problem was fixed so that Enron avoided a large charge: no reserve at the end of 2000, and only a $36.6 million reserve in March 2001 instead of a charge of more than $500 million. The committee saw no evidence the board was told of the December 2000 fix, and found that the March 2001 restructuring was apparently not disclosed to or authorized by the board.",
+     "cites": [
+      {
+       "card": "A-056",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 119-120, V.D.1 Fourth Quarter 2000 Temporary Fix"
+      },
+      {
+       "card": "A-057",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 14-15 (details pp. 121-125), Executive Summary; V.D.2 The Restructuring Transaction"
+      },
+      {
+       "card": "F-023",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 122, 124, V.D.2 First Quarter 2001 Restructuring (b. The Restructuring Transaction; conclusion)"
+      }
+     ]
+    },
+    {
+     "para_index": 22,
+     "para_key": "ch3-p22",
+     "para_start": "As for the controls the board had relied",
+     "text": "The Board: this is where the board's safeguards met practice. The committee found that neither Causey nor Buy ignored his responsibilities, but that they did not give the deals \"the degree of review the Board believed was occurring.\"",
+     "cites": [
+      {
+       "card": "F-011",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 10, Executive Summary"
+      },
+      {
+       "card": "A-062",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 10 (Lay p. 19), Executive Summary - The LJM Transactions; The Participants"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "The board approved Fastow's role in LJM1 in June 1999 and in LJM2 in October 1999, ratifying a determination that his participation would not adversely affect Enron.",
+     "cites": [
+      {
+       "card": "A-040",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 68-70, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
+      },
+      {
+       "card": "A-041",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 70-73, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
+      },
+      {
+       "card": "F-007",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 69 (LJM1); p. 72 (LJM2); p. 44 n. 8 (Code text), III.A LJM1 (Board approval, June 28, 1999); LJM2 approval"
+      }
+     ]
+    },
+    {
+     "text": "The Senate subcommittee staff called it \"an unprecedented arrangement allowing Enron's Chief Financial Officer to establish and operate the LJM private equity funds.\"",
+     "cites": [
+      {
+       "card": "B-072",
+       "source_id": "rpt-psi-board",
+       "page": 7,
+       "loc": "p. 3, Subcommittee Findings (3); Factual Basis pp. 24, 26"
+      }
+     ]
+    },
+    {
+     "text": "The special committee found that the officers assigned to review the deals interpreted their roles very narrowly, and that Skilling was almost entirely uninvolved despite what the board had been told.",
+     "cites": [
+      {
+       "card": "F-011",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 10, Executive Summary"
+      },
+      {
+       "card": "A-062",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 10 (Lay p. 19), Executive Summary - The LJM Transactions; The Participants"
+      }
+     ]
+    },
+    {
+     "text": "The committee saw no evidence that the board was informed of the Raptors' credit problem in December 2000 or of how it was fixed.",
+     "cites": [
+      {
+       "card": "A-056",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 119-120, V.D.1 Fourth Quarter 2000 Temporary Fix"
+      }
+     ]
+    }
+   ],
+   "ask_why": "The board was told that Skilling had taken on a significant role in reviewing the LJM deals; the special committee found he was almost entirely uninvolved. How can a board check that the controls it approved are actually working?"
+  },
+  "knew": {
+   "notes": [
+    {
+     "para_index": 6,
+     "para_key": "ch3-p6",
+     "para_start": "On November 5, 1997, the board's Executive Committee",
+     "text": "Who Knew What, When: the accounts differ. Lay said he was not informed of Kopper's role in Chewco; Skilling said he approved it and believed he had discussed it with the board; the committee found no written record that the board was told.",
+     "cites": [
+      {
+       "card": "A-033",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 46-47, II.B Limited Board Approval"
+      }
+     ]
+    },
+    {
+     "para_index": 11,
+     "para_key": "ch3-p11",
+     "para_start": "The document used to sell LJM2 to investors",
+     "text": "Who Knew What, When: LJM2's outside investors were told in writing that Fastow's position at Enron was an advantage. The committee saw no evidence the board was told that Kopper and Glisan were also named as managers.",
+     "cites": [
+      {
+       "card": "A-042",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 72, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
+      }
+     ]
+    },
+    {
+     "para_index": 15,
+     "para_key": "ch3-p15",
+     "para_start": "The special committee explained the problem: \"The normal",
+     "text": "Who Knew What, When: doubts inside Enron were raised early. Kaminski told the committee that he was very uncomfortable with the Rhythms deal in 1999 and brought his concerns to his supervisor, Richard Buy; Buy said he did not recall those discussions. Causey did not recall the later 68% estimate.",
+     "cites": [
+      {
+       "card": "F-014",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 84 (continues p. 85), IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'"
+      },
+      {
+       "card": "A-049",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 87, IV.E Unwinding the Transaction"
+      }
+     ]
+    },
+    {
+     "para_index": 23,
+     "para_key": "ch3-p23",
+     "para_start": "Enron's public filings did mention the LJM partnerships.",
+     "text": "Who Knew What, When: the partnerships were not hidden from the filings; they were mentioned. The committee's point is about understanding: a reader could learn that the deals existed without learning what they did.",
+     "cites": [
+      {
+       "card": "A-064",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 17 (see also pp. 200-202), Executive Summary - Public Disclosure; VIII.E Conclusions on Disclosure"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "Lay told the special committee he was not informed of Kopper's role in Chewco, and the committee found no written record that the board was told.",
+     "cites": [
+      {
+       "card": "A-033",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 46-47, II.B Limited Board Approval"
+      }
+     ]
+    },
+    {
+     "text": "LJM2's investors were told in writing that Fastow's \"access to Enron's information pertaining to potential investments will contribute to superior returns.\"",
+     "cites": [
+      {
+       "card": "A-042",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 72, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
+      }
+     ]
+    },
+    {
+     "text": "Kaminski told the committee that his group estimated, in early 2000, a 68% probability that the Rhythms structure would default; Causey told the committee he did not recall that figure.",
+     "cites": [
+      {
+       "card": "A-049",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 87, IV.E Unwinding the Transaction"
+      }
+     ]
+    },
+    {
+     "text": "Enron's filings did mention the partnerships, but the committee found the disclosures \"obtuse.\"",
+     "cites": [
+      {
+       "card": "A-064",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 17 (see also pp. 200-202), Executive Summary - Public Disclosure; VIII.E Conclusions on Disclosure"
+      }
+     ]
+    }
+   ],
+   "strip": [
+    {
+     "date": "1997-11-05",
+     "who": "Enron board's Executive Committee",
+     "what": "Approved Enron's guarantee of Chewco's loans after Fastow described Chewco as \"an SPE not affiliated with either Enron or CalPERS\"; the special committee found no written record that Kopper's role was disclosed.",
+     "cites": [
+      {
+       "card": "A-033",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 46-47, II.B Limited Board Approval"
+      }
+     ]
+    },
+    {
+     "date": "1999-06",
+     "who": "Richard Buy (Chief Risk Officer)",
+     "what": "Kaminski told the special committee he brought his concerns about the Rhythms deal to Buy; Buy said he did not recall those discussions.",
+     "cites": [
+      {
+       "card": "F-014",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 84 (continues p. 85), IV (Rhythms hedge), C.3 'Pricing and Credit Capacity'"
+      }
+     ]
+    },
+    {
+     "date": "1999-06-28",
+     "who": "Enron board",
+     "what": "Was told Fastow would be general partner of LJM1, and ratified a determination that his participation would not adversely affect Enron.",
+     "cites": [
+      {
+       "card": "A-040",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 68-70, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
+      },
+      {
+       "card": "F-007",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 69 (LJM1); p. 72 (LJM2); p. 44 n. 8 (Code text), III.A LJM1 (Board approval, June 28, 1999); LJM2 approval"
+      }
+     ]
+    },
+    {
+     "date": "1999-10",
+     "who": "LJM2 investors",
+     "what": "Were told in LJM2's offering document that Fastow's access to Enron's information would \"contribute to superior returns.\"",
+     "cites": [
+      {
+       "card": "A-042",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 72, III.A Formation and Authorization of LJM Cayman, L.P. and LJM2"
+      }
+     ]
+    },
+    {
+     "date": "2000",
+     "who": "Vince Kaminski (head of research)",
+     "what": "Told the special committee that his group estimated, in early 2000, a 68% probability that the Rhythms structure would default on what it owed Enron; Causey told the committee he did not recall this.",
+     "cites": [
+      {
+       "card": "A-049",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 87, IV.E Unwinding the Transaction"
+      }
+     ]
+    },
+    {
+     "date": "2000-10",
+     "who": "LJM2 investors",
+     "what": "Fastow reported rates of return of 193%, 278%, 2500% and a projected 125% on the four Raptors.",
+     "cites": [
+      {
+       "card": "A-053",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 128-129, V.F Conclusions on the Raptors"
+      }
+     ]
+    },
+    {
+     "date": "2000-12-22",
+     "who": "Enron board",
+     "what": "The special committee saw no evidence the board was informed of the Raptors' credit problem or of the fix chosen that day.",
+     "cites": [
+      {
+       "card": "A-056",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 119-120, V.D.1 Fourth Quarter 2000 Temporary Fix"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Some people inside Enron raised doubts about the Rhythms deal in 1999 and 2000, but their memories and others' differ. When recollections conflict years later, what kinds of records would help an investigator decide who knew what?"
+  }
+ },
+ "ch4": {
+  "money": {
+   "notes": [
+    {
+     "para_index": 11,
+     "para_key": "ch4-p11",
+     "para_start": "On August 22, 2001, Watkins met Lay in",
+     "text": "Follow the money: the $700 million Watkins described was owed to Enron by entities whose ability to pay rested mainly on Enron's own stock (Chapter 3). If that stock fell, the money might never come.",
+     "cites": [
+      {
+       "card": "B-056",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 16,
+       "loc": "p. 12, Statement of Sherron Watkins"
+      },
+      {
+       "card": "A-051",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 97, V. The Raptors (introduction)"
+      }
+     ]
+    },
+    {
+     "para_index": 15,
+     "para_key": "ch4-p15",
+     "para_start": "Meanwhile, the Raptors were being shut down. The",
+     "text": "Follow the money: ending the Raptors cost Enron a payment of about $35 million to LJM2 and a charge of about $710 million before taxes in the third quarter of 2001 (Chapter 5).",
+     "cites": [
+      {
+       "card": "A-058",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 127-128, V.E Unwind of the Raptors"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "Watkins testified that by August 2001 the Raptors owed Enron more than $700 million under hedging agreements.",
+     "cites": [
+      {
+       "card": "B-056",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 16,
+       "loc": "p. 12, Statement of Sherron Watkins"
+      }
+     ]
+    },
+    {
+     "text": "The special committee found that in August 2001 Enron and Andersen accountants realized Enron had wrongly counted IOUs for stock issued to the Raptors as increases to equity.",
+     "cites": [
+      {
+       "card": "A-059",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
+      }
+     ]
+    },
+    {
+     "text": "According to the Justice Department's announcement, the indictment alleged that in the two months before his September 26, 2001 employee forum, Lay bought $4 million of Enron stock while selling $24 million through nonpublic transactions. These are allegations.",
+     "cites": [
+      {
+       "card": "B-007",
+       "source_id": "doj-lay-charged-press",
+       "page": null,
+       "loc": "DOJ press release #470, July 8, 2004, lines ~111-116"
+      }
+     ]
+    },
+    {
+     "text": "Enron ended the Raptors on September 28, 2001, paying LJM2 about $35 million.",
+     "cites": [
+      {
+       "card": "A-058",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 127-128, V.E Unwind of the Raptors"
+      }
+     ]
+    }
+   ],
+   "ask_why": "The Raptors were supposed to protect Enron's earnings, but by 2001 they owed Enron hundreds of millions of dollars they might not be able to pay. At what point does a promise to pay stop being worth counting as an asset?"
+  },
+  "auditors": {
+   "notes": [
+    {
+     "para_index": 2,
+     "para_key": "ch4-p2",
+     "para_start": "In February 1999, Arthur Andersen's lead partner on",
+     "text": "The Auditors: \"push limits\" and \"others could have a different view\" describe accounting that Andersen accepted but saw as open to challenge. According to the Senate subcommittee staff, the annotated copy was not given to the Audit Committee during the meeting, but the risk profile was discussed with it.",
+     "cites": [
+      {
+       "card": "B-063",
+       "source_id": "rpt-psi-board",
+       "page": 21,
+       "loc": "p. 17, Factual Basis for Findings (High Risk Accounting)"
+      }
+     ]
+    },
+    {
+     "para_index": 6,
+     "para_key": "ch4-p6",
+     "para_start": "In early 2001, the examiner reported, Carl Bass,",
+     "text": "The Auditors: the request to remove Bass came from the client's chief accounting officer, Bass was told. The examiner reported that another Andersen partner, John Stewart, testified at Andersen's 2002 trial that he found Enron's request unprofessional and was upset that the firm had agreed to it.",
+     "cites": [
+      {
+       "card": "C-034",
+       "source_id": "batson-final-app-b-part1",
+       "page": 45,
+       "loc": "p. 43, IV (Engagement Team and PSG discussion)"
+      }
+     ]
+    },
+    {
+     "para_index": 13,
+     "para_key": "ch4-p13",
+     "para_start": "Watkins was not the only source of concern",
+     "text": "The Auditors: this is the Raptor stock error that became $1 billion of the $1.2 billion cut to equity in October (Chapter 5). The bankruptcy examiner later reported that Andersen accountants acknowledged it as one of three audit errors.",
+     "cites": [
+      {
+       "card": "A-059",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
+      },
+      {
+       "card": "C-030",
+       "source_id": "batson-final-app-b-part1",
+       "page": 65,
+       "loc": "p. 63 (begins p. 62), IV.A Three Errors Acknowledged by Andersen"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "In February 1999, according to the Senate subcommittee staff, Andersen's lead partner wrote that many of Enron's practices \"push limits.\"",
+     "cites": [
+      {
+       "card": "B-063",
+       "source_id": "rpt-psi-board",
+       "page": 21,
+       "loc": "p. 17, Factual Basis for Findings (High Risk Accounting)"
+      }
+     ]
+    },
+    {
+     "text": "On February 5, 2001, senior Andersen partners rated Enron a \"maximum\" risk client and decided to keep it; the Senate Governmental Affairs Committee staff found that the next day's e-mail noted how \"aggressive\" Enron's accounting was.",
+     "cites": [
+      {
+       "card": "C-033",
+       "source_id": "batson-final-app-b-part1",
+       "page": 49,
+       "loc": "p. 47 (meeting described from p. 43), Andersen's February 5, 2001 Client Retention Meeting"
+      },
+      {
+       "card": "C-056",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 26,
+       "loc": "p. 22, Part One II.1 Enron's Auditor"
+      }
+     ]
+    },
+    {
+     "text": "In early 2001, the examiner reported, Carl Bass was told that Causey had asked for his removal from the Enron engagement and that Andersen had agreed.",
+     "cites": [
+      {
+       "card": "C-034",
+       "source_id": "batson-final-app-b-part1",
+       "page": 45,
+       "loc": "p. 43, IV (Engagement Team and PSG discussion)"
+      }
+     ]
+    },
+    {
+     "text": "In August 2001, the special committee found, Enron and Andersen accountants realized Enron had made an accounting error in issuing stock to the Raptors.",
+     "cites": [
+      {
+       "card": "A-059",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Andersen's own partners described Enron's accounting as high-risk and aggressive, yet in February 2001 the firm issued a clean opinion on Enron's 2000 statements. What options does an auditor have when a client's accounting is allowed by the rules but pushes their limits?"
+  },
+  "board": {
+   "notes": [
+    {
+     "para_index": 2,
+     "para_key": "ch4-p2",
+     "para_start": "In February 1999, Arthur Andersen's lead partner on",
+     "text": "The Board: the Audit Committee is the board's direct line to the outside auditor. Another Andersen partner confirmed, through his lawyer, that Andersen's risk profile was discussed with the committee in February 1999, the Senate subcommittee staff reported.",
+     "cites": [
+      {
+       "card": "B-063",
+       "source_id": "rpt-psi-board",
+       "page": 21,
+       "loc": "p. 17, Factual Basis for Findings (High Risk Accounting)"
+      }
+     ]
+    },
+    {
+     "para_index": 3,
+     "para_key": "ch4-p3",
+     "para_start": "What the directors took from such discussions is",
+     "text": "The Board: Jaedicke's testimony and the subcommittee's conclusion differ in emphasis. He testified the committee knew of \"high-risk and innovative transactions\"; the subcommittee staff found that its investigation \"did not substantiate the claims that the Enron Board members challenged management and asked tough questions.\"",
+     "cites": [
+      {
+       "card": "B-078",
+       "source_id": "hrg-psi-board",
+       "page": 41,
+       "loc": "p. 31, Questioning by Senator Levin"
+      },
+      {
+       "card": "B-074",
+       "source_id": "rpt-psi-board",
+       "page": 18,
+       "loc": "p. 14, Factual Basis for Findings"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "Andersen's risk profile of Enron's accounting was discussed with the Audit Committee in February 1999, according to the Senate subcommittee staff.",
+     "cites": [
+      {
+       "card": "B-063",
+       "source_id": "rpt-psi-board",
+       "page": 21,
+       "loc": "p. 17, Factual Basis for Findings (High Risk Accounting)"
+      }
+     ]
+    },
+    {
+     "text": "Audit Committee chairman Robert Jaedicke testified that the committee \"knew that the company was engaged in high-risk and innovative transactions,\" but that, as far as he recalled, he never heard terms such as \"form over substance\" used.",
+     "cites": [
+      {
+       "card": "B-078",
+       "source_id": "hrg-psi-board",
+       "page": 41,
+       "loc": "p. 31, Questioning by Senator Levin"
+      }
+     ]
+    },
+    {
+     "text": "The directors the Senate subcommittee staff interviewed said they saw neither Watkins's letter nor the law firm's report on it until after Enron had begun to collapse.",
+     "cites": [
+      {
+       "card": "F-002",
+       "source_id": "rpt-psi-board",
+       "page": 49,
+       "loc": "p. 45 (continues p. 46), Finding (4), discussion of the Raptors and the Oct. 2001 Board meeting; n. 156"
+      }
+     ]
+    },
+    {
+     "text": "The special committee found that in mid-September 2001 Lay and Enron's chief operating officer, Greg Whalley, directed Causey to end the Raptors.",
+     "cites": [
+      {
+       "card": "A-058",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 127-128, V.E Unwind of the Raptors"
+      }
+     ]
+    }
+   ],
+   "ask_why": "The directors said they did not see Watkins's letter until Enron had begun to collapse. Should a board expect to hear about an employee's warning sent to its chairman? How could it make sure it does?"
+  },
+  "knew": {
+   "notes": [
+    {
+     "para_index": 5,
+     "para_key": "ch4-p5",
+     "para_start": "On February 5, 2001, senior Andersen partners held",
+     "text": "Who Knew What, When: by February 2001, an Andersen partner's e-mail about the client-retention meeting noted how \"aggressive\" Enron's accounting was, the Senate staff found. That was six months before Watkins wrote to Lay.",
+     "cites": [
+      {
+       "card": "C-056",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 26,
+       "loc": "p. 22, Part One II.1 Enron's Auditor"
+      },
+      {
+       "card": "C-033",
+       "source_id": "batson-final-app-b-part1",
+       "page": 49,
+       "loc": "p. 47 (meeting described from p. 43), Andersen's February 5, 2001 Client Retention Meeting"
+      }
+     ]
+    },
+    {
+     "para_index": 8,
+     "para_key": "ch4-p8",
+     "para_start": "Skilling later told a Senate committee, under oath:",
+     "text": "Who Knew What, When: this is Skilling's own sworn account of what he believed when he left. The SEC later alleged that he took part in a scheme to defraud from at least 1999; Chapter 7 explains how his criminal case ended.",
+     "cites": [
+      {
+       "card": "B-023",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 23,
+       "loc": "p. 19, Statement of Jeffrey Skilling"
+      },
+      {
+       "card": "B-019",
+       "source_id": "sec-skilling-causey-complaint",
+       "page": null,
+       "loc": "First Amended Complaint, para. 1 (Summary), lines 27"
+      }
+     ]
+    },
+    {
+     "para_index": 10,
+     "para_key": "ch4-p10",
+     "para_start": "Watkins testified that on August 15, 2001, the",
+     "text": "Who Knew What, When: Watkins testified that she gave Lay her anonymous letter on August 15, 2001. The letter said, as the Senate subcommittee staff quoted it, that \"Skilling's abrupt departure will raise suspicions of accounting improprieties and valuation issues.\"",
+     "cites": [
+      {
+       "card": "B-055",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 16,
+       "loc": "p. 12, Statement of Sherron Watkins"
+      },
+      {
+       "card": "F-001",
+       "source_id": "rpt-psi-board",
+       "page": 16,
+       "loc": "p. 12, Background (red flags in 2001), n. 18"
+      },
+      {
+       "card": "F-004",
+       "source_id": "rpt-psi-board",
+       "page": 61,
+       "loc": "pp. 57-59, Appendix 2, 'Sherron Watkins’ Letter to Board Chairman Kenneth Lay (8/15/01)'"
+      }
+     ]
+    },
+    {
+     "para_index": 11,
+     "para_key": "ch4-p11",
+     "para_start": "On August 22, 2001, Watkins met Lay in",
+     "text": "Who Knew What, When: by August 22, Watkins testified, Lay had heard from her in person that the Raptors owed Enron more than $700 million. Lay did not answer questions about this before Congress; declining to testify is a legal right and is not evidence of guilt.",
+     "cites": [
+      {
+       "card": "B-056",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 16,
+       "loc": "p. 12, Statement of Sherron Watkins"
+      },
+      {
+       "card": "B-008",
+       "source_id": "hrg-commerce-lay-powers",
+       "page": 29,
+       "loc": "p. 25, Statement of Kenneth L. Lay"
+      }
+     ]
+    },
+    {
+     "para_index": 14,
+     "para_key": "ch4-p14",
+     "para_start": "On September 26, 2001, Lay answered questions from",
+     "text": "Who Knew What, When: the SEC alleged these September 26 statements were false and misleading. Lay was later convicted, but his conviction was vacated after his death (Chapter 7).",
+     "cites": [
+      {
+       "card": "B-004",
+       "source_id": "sec-lay-complaint",
+       "page": 32,
+       "loc": "p. 32, Second Amended Complaint, para. 81"
+      },
+      {
+       "card": "B-011",
+       "source_id": "ca5-skilling-2009",
+       "page": 15,
+       "loc": "p. 15, II. Trial and Sentence, footnote 9"
+      }
+     ]
+    },
+    {
+     "para_index": 16,
+     "para_key": "ch4-p16",
+     "para_start": "Outside Enron, the SEC reviews companies' annual reports",
+     "text": "Who Knew What, When: the SEC is the public's regulator, but its staff had not reviewed Enron's annual reports after 1997. The Senate staff concluded a review of the 2000 report would likely have prompted questions.",
+     "cites": [
+      {
+       "card": "C-053",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 8,
+       "loc": "p. 4, Introduction; detail at Part One II, PDF p. 32 (printed 28)"
+      },
+      {
+       "card": "C-054",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 32,
+       "loc": "p. 28, Part One II (SEC review of Enron filings)"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "Andersen's lead partner wrote in February 1999 that many practices \"push limits\"; a partner's February 2001 e-mail called the accounting \"aggressive,\" according to the Senate staff reports.",
+     "cites": [
+      {
+       "card": "B-063",
+       "source_id": "rpt-psi-board",
+       "page": 21,
+       "loc": "p. 17, Factual Basis for Findings (High Risk Accounting)"
+      },
+      {
+       "card": "C-056",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 26,
+       "loc": "p. 22, Part One II.1 Enron's Auditor"
+      }
+     ]
+    },
+    {
+     "text": "Watkins testified that she sent Lay an anonymous letter on August 15, 2001 and met him on August 22.",
+     "cites": [
+      {
+       "card": "B-055",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 16,
+       "loc": "p. 12, Statement of Sherron Watkins"
+      },
+      {
+       "card": "B-056",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 16,
+       "loc": "p. 12, Statement of Sherron Watkins"
+      }
+     ]
+    },
+    {
+     "text": "In August 2001, Enron and Andersen accountants realized the Raptor stock accounting was an error, the special committee found.",
+     "cites": [
+      {
+       "card": "A-059",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
+      }
+     ]
+    },
+    {
+     "text": "On September 26, 2001, the SEC alleged, Lay told employees: \"[t]he third quarter is looking great. We will hit our numbers.\"",
+     "cites": [
+      {
+       "card": "B-004",
+       "source_id": "sec-lay-complaint",
+       "page": 32,
+       "loc": "p. 32, Second Amended Complaint, para. 81"
+      }
+     ]
+    }
+   ],
+   "strip": [
+    {
+     "date": "1999-02-07",
+     "who": "Enron's Audit Committee",
+     "what": "Andersen's risk profile was discussed with the committee, according to the Senate subcommittee staff; Duncan's handwritten \"push limits\" note was not given to it during the meeting.",
+     "cites": [
+      {
+       "card": "B-063",
+       "source_id": "rpt-psi-board",
+       "page": 21,
+       "loc": "p. 17, Factual Basis for Findings (High Risk Accounting)"
+      }
+     ]
+    },
+    {
+     "date": "2001-02-05",
+     "who": "Senior Andersen partners",
+     "what": "Rated Enron a \"maximum\" risk client and decided to keep it; the next day's e-mail noted how \"aggressive\" its accounting was.",
+     "cites": [
+      {
+       "card": "C-033",
+       "source_id": "batson-final-app-b-part1",
+       "page": 49,
+       "loc": "p. 47 (meeting described from p. 43), Andersen's February 5, 2001 Client Retention Meeting"
+      },
+      {
+       "card": "C-056",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 26,
+       "loc": "p. 22, Part One II.1 Enron's Auditor"
+      }
+     ]
+    },
+    {
+     "date": "2001-08",
+     "who": "Enron and Andersen accountants",
+     "what": "Realized Enron had made an accounting error when it issued stock to the Raptors, the special committee found.",
+     "cites": [
+      {
+       "card": "A-059",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
+      }
+     ]
+    },
+    {
+     "date": "2001-08-14",
+     "who": "Jeffrey Skilling",
+     "what": "Resigned. He later testified: \"When I left Enron on August 14, I did not believe the company was in financial peril.\"",
+     "cites": [
+      {
+       "card": "B-023",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 23,
+       "loc": "p. 19, Statement of Jeffrey Skilling"
+      }
+     ]
+    },
+    {
+     "date": "2001-08-15",
+     "who": "Kenneth Lay",
+     "what": "Watkins testified that she gave him her anonymous letter that day. It said: \"I am incredibly nervous that we will implode in a wave of accounting scandals.\"",
+     "cites": [
+      {
+       "card": "B-055",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 16,
+       "loc": "p. 12, Statement of Sherron Watkins"
+      },
+      {
+       "card": "F-004",
+       "source_id": "rpt-psi-board",
+       "page": 61,
+       "loc": "pp. 57-59, Appendix 2, 'Sherron Watkins’ Letter to Board Chairman Kenneth Lay (8/15/01)'"
+      }
+     ]
+    },
+    {
+     "date": "2001-08-22",
+     "who": "Kenneth Lay",
+     "what": "Watkins testified she told him in person that the Raptors owed Enron more than $700 million.",
+     "cites": [
+      {
+       "card": "B-056",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 16,
+       "loc": "p. 12, Statement of Sherron Watkins"
+      }
+     ]
+    },
+    {
+     "date": "2001-09-26",
+     "who": "Enron employees",
+     "what": "The SEC alleged that Lay told them in an online forum that the third quarter was \"looking great.\"",
+     "cites": [
+      {
+       "card": "B-004",
+       "source_id": "sec-lay-complaint",
+       "page": 32,
+       "loc": "p. 32, Second Amended Complaint, para. 81"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Between February and September 2001, warnings reached Andersen's partners, Enron's accountants and, Watkins testified, Enron's chairman, while, the SEC alleged, employees were told the quarter was \"looking great.\" At what point should the public have been told, and whose job was it to tell them?"
+  }
+ },
+ "ch5": {
+  "money": {
+   "notes": [
+    {
+     "para_index": 1,
+     "para_key": "ch5-p1",
+     "para_start": "On October 16, 2001, Enron announced its results",
+     "text": "Follow the money: note the split between \"recurring\" earnings, which Enron led with, and $1.01 billion of \"non-recurring charges.\" In the same release, the examiner reported, Lay said Enron was \"very confident in our strong earnings outlook.\" The quarter's bottom line was a $618 million loss.",
+     "cites": [
+      {
+       "card": "A-075",
+       "source_id": "batson-1st-interim",
+       "page": 4,
+       "loc": "pp. 2-3, I.B Fall 2001 Events - Enron's October 16, 2001 Earnings Release"
+      },
+      {
+       "card": "F-005",
+       "source_id": "batson-1st-interim",
+       "page": 4,
+       "loc": "p. 2, I.B 'Fall 2001 Events', 'Enron’s October 16, 2001 Earnings Release'; n. 6"
+      }
+     ]
+    },
+    {
+     "para_index": 3,
+     "para_key": "ch5-p3",
+     "para_start": "On the same day, in a conference call",
+     "text": "Follow the money: this cut was disclosed on a call, not in the written release. About $1 billion of it reversed equity Enron had recorded in exchange for IOUs from the Raptors rather than cash.",
+     "cites": [
+      {
+       "card": "A-076",
+       "source_id": "batson-final",
+       "page": 18,
+       "loc": "p. 15, II.A Events of Fall 2001"
+      },
+      {
+       "card": "A-059",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
+      }
+     ]
+    },
+    {
+     "para_index": 6,
+     "para_key": "ch5-p6",
+     "para_start": "The bankruptcy examiner reported that from about October",
+     "text": "Follow the money: in Enron's last weeks, more than $50 million went out to some senior managers as early payouts of deferred pay, the examiner reported. He did not name the individuals in this passage.",
+     "cites": [
+      {
+       "card": "A-082",
+       "source_id": "batson-1st-interim",
+       "page": 6,
+       "loc": "p. 4, I.B Fall 2001 Events - Other Events in October"
+      }
+     ]
+    },
+    {
+     "para_index": 9,
+     "para_key": "ch5-p9",
+     "para_start": "Enron's quarterly report, filed November 19, gave refined",
+     "text": "Follow the money: across 1997 to 2000, the restatement reduced reported net income by about $613 million in total (our sum of the four figures), and added between $561 million and $711 million of debt in each year.",
+     "cites": [
+      {
+       "card": "A-085",
+       "source_id": "enron-10q-q3-2001",
+       "page": null,
+       "loc": "pp. 15-16, Note 3 Restatement (table)"
+      }
+     ]
+    },
+    {
+     "para_index": 12,
+     "para_key": "ch5-p12",
+     "para_start": "The quarterly report Enron filed on November 19",
+     "text": "Follow the money: these were debt triggers: terms that could make debts come due early if Enron's credit rating fell (for some, only if its stock price was also low). One downgrade meant a $690 million note would come due unless Enron posted collateral, and about $3.9 billion more could follow.",
+     "cites": [
+      {
+       "card": "A-080",
+       "source_id": "enron-10q-q3-2001",
+       "page": null,
+       "loc": "p. 11, Note 2 Recent Events"
+      }
+     ]
+    },
+    {
+     "para_index": 13,
+     "para_key": "ch5-p13",
+     "para_start": "That same day, at a meeting with its",
+     "text": "Follow the money: this is the chapter's biggest gap: $12.978 billion of debt on the balance sheet, and $38.094 billion in the figure Enron gave its bankers. The examiner noted that he had formed no opinion on whether all of these obligations were properly classified as debt.",
+     "cites": [
+      {
+       "card": "A-087",
+       "source_id": "batson-final",
+       "page": 19,
+       "loc": "pp. 16-17, II.A Events of Fall 2001"
+      },
+      {
+       "card": "F-019",
+       "source_id": "batson-1st-interim",
+       "page": 9,
+       "loc": "p. 7, I.B Enron's November 19, 2001 Bank Presentation"
+      }
+     ]
+    },
+    {
+     "para_index": 19,
+     "para_key": "ch5-p19",
+     "para_start": "Banks were involved, too. The Senate subcommittee staff",
+     "text": "Follow the money: the bankruptcy examiner described prepays as loans that Enron reported as trading liabilities rather than debt. The Senate staff also found what it called a \"sham\" sale funded by a $200 million Citigroup loan that inflated Enron's year-end 2000 earnings by $112 million.",
+     "cites": [
+      {
+       "card": "A-068",
+       "source_id": "batson-final",
+       "page": 23,
+       "loc": "pp. 18-20, III.A Overview"
+      },
+      {
+       "card": "A-073",
+       "source_id": "rpt-psi-fishtail",
+       "page": 7,
+       "loc": "p. 3, Summary of Transactions - Sham Asset Sale"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "On October 16, 2001, Enron reported $1.01 billion of after-tax non-recurring charges and a third-quarter loss of $618 million.",
+     "cites": [
+      {
+       "card": "A-075",
+       "source_id": "batson-1st-interim",
+       "page": 4,
+       "loc": "pp. 2-3, I.B Fall 2001 Events - Enron's October 16, 2001 Earnings Release"
+      }
+     ]
+    },
+    {
+     "text": "Enron's November 19 quarterly report restated net income lower for each year from 1997 to 2000 and added $561 million to $711 million of debt in each year.",
+     "cites": [
+      {
+       "card": "A-085",
+       "source_id": "enron-10q-q3-2001",
+       "page": null,
+       "loc": "pp. 15-16, Note 3 Restatement (table)"
+      }
+     ]
+    },
+    {
+     "text": "That same day Enron told its bankers its debt was $38.094 billion, while its balance sheet showed $12.978 billion.",
+     "cites": [
+      {
+       "card": "A-087",
+       "source_id": "batson-final",
+       "page": 19,
+       "loc": "pp. 16-17, II.A Events of Fall 2001"
+      }
+     ]
+    },
+    {
+     "text": "Enron filed for bankruptcy on December 2, 2001, and on February 12, 2002 said it did not expect shareholders to receive anything.",
+     "cites": [
+      {
+       "card": "A-092",
+       "source_id": "rpt-jct-vol1",
+       "page": 112,
+       "loc": "pp. 84-85, Part Two, II.C.5 Bankruptcy reorganization and present condition"
+      },
+      {
+       "card": "A-094",
+       "source_id": "rpt-jct-vol1",
+       "page": 113,
+       "loc": "p. 85, Part Two, II.C.5"
+      }
+     ]
+    }
+   ],
+   "ask_why": "On the same day, Enron's balance sheet showed about $13 billion of debt, while its bankers were shown about $38 billion. How can two figures for the same company's debt be so far apart, and which should an investor rely on?"
+  },
+  "auditors": {
+   "notes": [
+    {
+     "para_index": 3,
+     "para_key": "ch5-p3",
+     "para_start": "On the same day, in a conference call",
+     "text": "The Auditors: this $1 billion correction is one of the three errors that, according to the bankruptcy examiner, Andersen accountants later acknowledged: letting Enron record the Raptor notes as assets, which overstated Enron's equity by $1 billion.",
+     "cites": [
+      {
+       "card": "C-030",
+       "source_id": "batson-final-app-b-part1",
+       "page": 65,
+       "loc": "p. 63 (begins p. 62), IV.A Three Errors Acknowledged by Andersen"
+      }
+     ]
+    },
+    {
+     "para_index": 8,
+     "para_key": "ch5-p8",
+     "para_start": "On November 8, 2001, Enron announced that it",
+     "text": "The Auditors: an audit opinion is only useful if readers can rely on it. Enron's November 19 quarterly report repeated that the 1997-2000 audit reports \"should not be relied upon,\" and said Andersen had been unable to finalize its review of the quarter.",
+     "cites": [
+      {
+       "card": "A-078",
+       "source_id": "enron-10q-q3-2001",
+       "page": null,
+       "loc": "p. 3, Explanatory Note"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "About $1 billion of the $1.2 billion cut to shareholders' equity corrected the Raptor accounting error, the special committee found.",
+     "cites": [
+      {
+       "card": "A-059",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 98 (details pp. 125-126), V. The Raptors (introduction); V.E"
+      }
+     ]
+    },
+    {
+     "text": "On November 8, 2001, Enron said its financial statements and Andersen's audit reports for 1997 through 2000 \"should not be relied upon.\"",
+     "cites": [
+      {
+       "card": "A-083",
+       "source_id": "enron-8k-nov-2001-ex99-1",
+       "page": null,
+       "loc": "p. 1, Press release, Nov 8, 2001 (Exhibit 99.1)"
+      }
+     ]
+    },
+    {
+     "text": "Enron's restatement consolidated Chewco, JEDI and an LJM1 entity and recorded prior-year audit adjustments.",
+     "cites": [
+      {
+       "card": "A-083",
+       "source_id": "enron-8k-nov-2001-ex99-1",
+       "page": null,
+       "loc": "p. 1, Press release, Nov 8, 2001 (Exhibit 99.1)"
+      }
+     ]
+    },
+    {
+     "text": "Enron's November 19 quarterly report said Andersen had been unable to finalize its review of the quarter.",
+     "cites": [
+      {
+       "card": "A-078",
+       "source_id": "enron-10q-q3-2001",
+       "page": null,
+       "loc": "p. 3, Explanatory Note"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Enron told investors not to rely on four years of audit reports. What does it mean for an auditor when a client has to say that, and who should bear the consequences?"
+  },
+  "board": {
+   "notes": [],
+   "summary": [
+    {
+     "text": "Enron's board formed a special committee in late October 2001, later chaired by William Powers Jr., to investigate the partnerships.",
+     "cites": [
+      {
+       "card": "A-066",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 31-34, Introduction - Formation of the Committee; The Committee's Investigation"
+      }
+     ]
+    },
+    {
+     "text": "The directors the Senate subcommittee staff interviewed said they did not see Watkins's letter or the law firm's report on it until after Enron had begun to collapse.",
+     "cites": [
+      {
+       "card": "F-002",
+       "source_id": "rpt-psi-board",
+       "page": 49,
+       "loc": "p. 45 (continues p. 46), Finding (4), discussion of the Raptors and the Oct. 2001 Board meeting; n. 156"
+      }
+     ]
+    },
+    {
+     "text": "On January 17, 2002, Enron's board voted to terminate Andersen as its auditor.",
+     "cites": [
+      {
+       "card": "C-037",
+       "source_id": "batson-final-app-b-part1",
+       "page": 61,
+       "loc": "p. 59, III.B Andersen's Conviction and Current Status"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Enron went from its October earnings announcement to bankruptcy in about seven weeks. What should a board do when a crisis unfolds in days rather than over the months between its regular meetings?"
+  },
+  "knew": {
+   "notes": [
+    {
+     "para_index": 5,
+     "para_key": "ch5-p5",
+     "para_start": "On October 17, the SEC asked Enron to",
+     "text": "Who Knew What, When: the SEC's request came on October 17; Enron announced it on October 22, five days later.",
+     "cites": [
+      {
+       "card": "A-081",
+       "source_id": "enron-10q-q3-2001",
+       "page": null,
+       "loc": "p. 14, Note 2 Recent Events - SEC Investigation"
+      },
+      {
+       "card": "F-018",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 30-31, Introduction (Background of the investigation)"
+      }
+     ]
+    },
+    {
+     "para_index": 6,
+     "para_key": "ch5-p6",
+     "para_start": "The bankruptcy examiner reported that from about October",
+     "text": "Who Knew What, When: the examiner dates these early payouts from about October 25, after the SEC's request and Fastow's leave had been announced. He does not say what the recipients knew.",
+     "cites": [
+      {
+       "card": "A-082",
+       "source_id": "batson-1st-interim",
+       "page": 6,
+       "loc": "p. 4, I.B Fall 2001 Events - Other Events in October"
+      },
+      {
+       "card": "F-018",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 30-31, Introduction (Background of the investigation)"
+      }
+     ]
+    },
+    {
+     "para_index": 14,
+     "para_key": "ch5-p14",
+     "para_start": "People whose job was to judge Enron from",
+     "text": "Who Knew What, When: most analysts kept recommending the stock after the bad news. The Senate staff tied this to their firms' investment-banking interests.",
+     "cites": [
+      {
+       "card": "C-057",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 9,
+       "loc": "p. 5, Introduction"
+      }
+     ]
+    },
+    {
+     "para_index": 18,
+     "para_key": "ch5-p18",
+     "para_start": "The court-appointed bankruptcy examiner wrote that the disclosures",
+     "text": "Who Knew What, When: the examiner's \"tip of the iceberg\" is about timing: some information became public only shortly before and after the bankruptcy filing.",
+     "cites": [
+      {
+       "card": "A-096",
+       "source_id": "batson-1st-interim",
+       "page": 11,
+       "loc": "p. 9, I.C The Bankruptcy Filings and Subsequent Events"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "The SEC asked Enron for information on October 17, 2001; Enron announced the request on October 22; the SEC opened a formal investigation on October 31.",
+     "cites": [
+      {
+       "card": "A-081",
+       "source_id": "enron-10q-q3-2001",
+       "page": null,
+       "loc": "p. 14, Note 2 Recent Events - SEC Investigation"
+      }
+     ]
+    },
+    {
+     "text": "From about October 25, some senior managers requested and received early payouts of deferred compensation totaling more than $50 million, the examiner reported.",
+     "cites": [
+      {
+       "card": "A-082",
+       "source_id": "batson-1st-interim",
+       "page": 6,
+       "loc": "p. 4, I.B Fall 2001 Events - Other Events in October"
+      }
+     ]
+    },
+    {
+     "text": "The Senate Governmental Affairs Committee staff found that all 15 analysts covering Enron were recommending its stock when the news first came out, and 10 of 15 still were three weeks later.",
+     "cites": [
+      {
+       "card": "C-057",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 9,
+       "loc": "p. 5, Introduction"
+      }
+     ]
+    },
+    {
+     "text": "The staff found that the credit rating agencies kept Enron at investment grade until November 28, four days before the bankruptcy filing, and concluded that they did not exercise proper diligence.",
+     "cites": [
+      {
+       "card": "C-059",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 93,
+       "loc": "p. 89, Part Two II (Credit Rating Agencies); introduction at PDF p. 9 (printed 5)"
+      },
+      {
+       "card": "C-060",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 10,
+       "loc": "p. 6, Introduction"
+      }
+     ]
+    }
+   ],
+   "strip": [
+    {
+     "date": "2001-10-16",
+     "who": "Analysts and investors on Enron's conference call",
+     "what": "Were told Enron would reduce shareholders' equity by $1.2 billion, a figure not disclosed in the written earnings release.",
+     "cites": [
+      {
+       "card": "A-076",
+       "source_id": "batson-final",
+       "page": 18,
+       "loc": "p. 15, II.A Events of Fall 2001"
+      }
+     ]
+    },
+    {
+     "date": "2001-10-17",
+     "who": "Enron",
+     "what": "The SEC asked Enron to provide information voluntarily about its related-party deals.",
+     "cites": [
+      {
+       "card": "A-081",
+       "source_id": "enron-10q-q3-2001",
+       "page": null,
+       "loc": "p. 14, Note 2 Recent Events - SEC Investigation"
+      }
+     ]
+    },
+    {
+     "date": "2001-10-22",
+     "who": "The public",
+     "what": "Enron announced the SEC's request for information.",
+     "cites": [
+      {
+       "card": "F-018",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 30-31, Introduction (Background of the investigation)"
+      }
+     ]
+    },
+    {
+     "date": "2001-10-24",
+     "who": "The public",
+     "what": "Enron announced that Fastow was on leave and would be replaced as chief financial officer.",
+     "cites": [
+      {
+       "card": "F-018",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 30-31, Introduction (Background of the investigation)"
+      }
+     ]
+    },
+    {
+     "date": "2001-11-08",
+     "who": "Investors",
+     "what": "Were told that Enron's financial statements and audit reports for 1997 through 2000 \"should not be relied upon.\"",
+     "cites": [
+      {
+       "card": "A-083",
+       "source_id": "enron-8k-nov-2001-ex99-1",
+       "page": null,
+       "loc": "p. 1, Press release, Nov 8, 2001 (Exhibit 99.1)"
+      }
+     ]
+    },
+    {
+     "date": "2001-11-19",
+     "who": "Enron's banks",
+     "what": "Were told at a meeting that Enron's debt was $38.094 billion; its balance sheet showed $12.978 billion.",
+     "cites": [
+      {
+       "card": "A-087",
+       "source_id": "batson-final",
+       "page": 19,
+       "loc": "pp. 16-17, II.A Events of Fall 2001"
+      }
+     ]
+    },
+    {
+     "date": "2001-11-28",
+     "who": "Credit rating agencies",
+     "what": "All three cut Enron below investment grade, four days before the bankruptcy filing.",
+     "cites": [
+      {
+       "card": "C-059",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 93,
+       "loc": "p. 89, Part Two II (Credit Rating Agencies); introduction at PDF p. 9 (printed 5)"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Analysts and rating agencies kept favorable views of Enron for weeks after its problems became public. Were they missing information, or not acting on information they had? What would you need to know to tell the difference?"
+  }
+ },
+ "ch6": {
+  "money": {
+   "notes": [
+    {
+     "para_index": 4,
+     "para_key": "ch6-p4",
+     "para_start": "Enron was one of Andersen's most important clients",
+     "text": "Follow the money: about $50 million a year from a single client. The examiner quotes an internal Andersen e-mail saying Enron had become the firm's largest client \"by a wide margin\" in fiscal 1999.",
+     "cites": [
+      {
+       "card": "C-022",
+       "source_id": "batson-final-app-b-part1",
+       "page": 32,
+       "loc": "p. 30, II.B Fees; n. 86"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "The examiner reported that Enron was one of Andersen's most significant clients by fees, and that those fees kept rising.",
+     "cites": [
+      {
+       "card": "C-022",
+       "source_id": "batson-final-app-b-part1",
+       "page": 32,
+       "loc": "p. 30, II.B Fees; n. 86"
+      }
+     ]
+    },
+    {
+     "text": "The Senate Governmental Affairs Committee staff found $52 million in 2000 fees: $25 million for audit work and $27 million for consulting. Andersen partner Michael Odom testified that much of the \"consulting\" was work typically done by the auditor.",
+     "cites": [
+      {
+       "card": "C-019",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 26,
+       "loc": "p. 22, Part One, II. Experience with Enron, 1. Enron's Auditor"
+      },
+      {
+       "card": "C-020",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 182,
+       "loc": "p. 178, Questioning by Rep. Gene Green"
+      }
+     ]
+    },
+    {
+     "text": "Enron's records show Andersen billed $5.7 million for advice on the LJM and Chewco deals alone.",
+     "cites": [
+      {
+       "card": "A-061",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 5 (Raptors p. 132), Executive Summary; V.F Conclusions on the Raptors"
+      }
+     ]
+    },
+    {
+     "text": "A former SEC commissioner told a House committee that non-audit services made up 73 percent of what audit clients paid their auditors, on average, in 2001.",
+     "cites": [
+      {
+       "card": "C-025",
+       "source_id": "hrg-hec-auditing",
+       "page": 116,
+       "loc": "p. 112, Testimony of Bevis Longstreth, Debevoise & Plimpton"
+      }
+     ]
+    }
+   ],
+   "ask_why": "An auditor is paid by the company it audits. If you were designing the system from scratch, who would pay the auditor, and how would that change the auditor's incentives?"
+  },
+  "auditors": {
+   "notes": [
+    {
+     "para_index": 3,
+     "para_key": "ch6-p3",
+     "para_start": "From 1997 until December 2001, according to the",
+     "text": "The Auditors: Andersen's own rule rotated lead partners after seven years. The Sarbanes-Oxley Act later made rotation law: an audit firm may not audit a company if its lead or reviewing partner has done so in each of the five previous years.",
+     "cites": [
+      {
+       "card": "C-036",
+       "source_id": "batson-final-app-b-part2",
+       "page": 29,
+       "loc": "p. 131, IV.I Andersen's Interaction with Enron's Audit Committee"
+      },
+      {
+       "card": "C-075",
+       "source_id": "sox-plaw-html",
+       "page": null,
+       "loc": "Sec. 203, adding Exchange Act Sec. 10A(j), lines 1802-1812"
+      }
+     ]
+    },
+    {
+     "para_index": 4,
+     "para_key": "ch6-p4",
+     "para_start": "Enron was one of Andersen's most important clients",
+     "text": "The Auditors: the disagreement is over labels. The Senate staff counted $27 million as consulting; Andersen said much of it was audit-type work. Either way, the examiner found Enron was one of Andersen's \"most significant clients in terms of fees.\"",
+     "cites": [
+      {
+       "card": "C-019",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 26,
+       "loc": "p. 22, Part One, II. Experience with Enron, 1. Enron's Auditor"
+      },
+      {
+       "card": "C-020",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 182,
+       "loc": "p. 178, Questioning by Rep. Gene Green"
+      },
+      {
+       "card": "C-022",
+       "source_id": "batson-final-app-b-part1",
+       "page": 32,
+       "loc": "p. 30, II.B Fees; n. 86"
+      }
+     ]
+    },
+    {
+     "para_index": 5,
+     "para_key": "ch6-p5",
+     "para_start": "Some of that other work concerned the very",
+     "text": "The Auditors: Sarbanes-Oxley later made it unlawful for an audit firm to provide certain non-audit services to a company it audits, and required the audit committee to approve other non-audit services in advance.",
+     "cites": [
+      {
+       "card": "C-074",
+       "source_id": "sox-plaw-html",
+       "page": null,
+       "loc": "116 Stat. 771-772, Sec. 201(a), adding Exchange Act Sec. 10A(g)-(h)"
+      }
+     ]
+    },
+    {
+     "para_index": 6,
+     "para_key": "ch6-p6",
+     "para_start": "According to the bankruptcy examiner, Andersen accountants later",
+     "text": "The Auditors: in his spoken statement to the same December 2001 hearing, Berardino said that on the smaller of the two SPEs behind the restatement, Andersen's team had made \"an error in judgment. An honest error, but an error nonetheless.\" He said important information about the larger one appeared not to have been revealed to Andersen.",
+     "cites": [
+      {
+       "card": "G-033",
+       "source_id": "hrg-hfs-enron-investors-pt1",
+       "page": 54,
+       "loc": "p. 48, Statement of Joseph F. Berardino (oral)"
+      }
+     ]
+    },
+    {
+     "para_index": 8,
+     "para_key": "ch6-p8",
+     "para_start": "The examiner also concluded that a fact-finder could",
+     "text": "The Auditors: Duncan wrote in December 2000 that the presentation had to fit \"about a 30 – 45 minute presentation,\" so \"we necessarily have to stay at a certain level.\" The examiner's conclusion is about what a fact-finder could find, not a court finding.",
+     "cites": [
+      {
+       "card": "C-035",
+       "source_id": "batson-final-app-b-part2",
+       "page": 29,
+       "loc": "p. 131, IV.I Andersen's Interaction with Enron's Audit Committee"
+      },
+      {
+       "card": "F-022",
+       "source_id": "batson-final-app-b-part2",
+       "page": 29,
+       "loc": "p. 131, n. 472, IV.I Andersen's Interaction with Enron's Audit Committee, footnote 472"
+      },
+      {
+       "card": "C-031",
+       "source_id": "batson-final-app-b-part1",
+       "page": 6,
+       "loc": "p. 4, I.A Overview"
+      }
+     ]
+    },
+    {
+     "para_index": 9,
+     "para_key": "ch6-p9",
+     "para_start": "In the fall of 2001, as Enron's problems",
+     "text": "The Auditors: telling employees to follow a retention policy is not wrong in itself. The Supreme Court's Syllabus notes that \"under ordinary circumstances, it is not wrongful for a manager to instruct his employees to comply with a valid document retention policy.\" The questions in this case were about intent and timing.",
+     "cites": [
+      {
+       "card": "C-044",
+       "source_id": "andersen-scotus",
+       "page": null,
+       "loc": "Syllabus, Syllabus, parts (a) and (b)"
+      }
+     ]
+    },
+    {
+     "para_index": 12,
+     "para_key": "ch6-p12",
+     "para_start": "Duncan's account, as a House subcommittee chairman summarized",
+     "text": "The Auditors: two accounts conflict here. Andersen's witness said Duncan acted without consulting others or, so far as Andersen knew, its lawyers; Duncan, as the chairman summarized his interview, said he acted on the lawyer's e-mail. Duncan declined to answer questions at the hearing.",
+     "cites": [
+      {
+       "card": "C-011",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 36,
+       "loc": "p. 32, Testimony of C.E. Andrews, Andersen (oral)"
+      },
+      {
+       "card": "C-002",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 32,
+       "loc": "p. 28, Rep. Greenwood's summary of committee staff interview with Duncan (questioning of Duncan panel)"
+      },
+      {
+       "card": "C-007",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 31,
+       "loc": "p. 27, Testimony of David Duncan"
+      }
+     ]
+    },
+    {
+     "para_index": 15,
+     "para_key": "ch6-p15",
+     "para_start": "On March 7, 2002, a federal grand jury",
+     "text": "The Auditors: the charge was against the firm itself, and it concerned persuading employees to withhold and destroy records, not the quality of the Enron audits.",
+     "cites": [
+      {
+       "card": "G-015",
+       "source_id": "doj-andersen-indictment-2002",
+       "page": 6,
+       "loc": "pp. 1, 6-7, Caption; filing stamp; 'The Charge: Obstruction of Justice', para. 13 (PDF pages covered: 1, 6-7)"
+      }
+     ]
+    },
+    {
+     "para_index": 16,
+     "para_key": "ch6-p16",
+     "para_start": "The firm did not survive as an operating",
+     "text": "The Auditors: GAO's wording points to the indictment itself, in March 2002, as what led partners, staff and clients to leave, months before the June verdict and years before the 2005 reversal.",
+     "cites": [
+      {
+       "card": "C-047",
+       "source_id": "gao-03-864",
+       "page": 18,
+       "loc": "p. 12, Background: Big 8 mergers and Andersen"
+      },
+      {
+       "card": "C-048",
+       "source_id": "gao-03-864",
+       "page": 107,
+       "loc": "p. 101, Appendix III: Arthur Andersen Case Study, Background"
+      }
+     ]
+    },
+    {
+     "para_index": 17,
+     "para_key": "ch6-p17",
+     "para_start": "On May 31, 2005, the Supreme Court unanimously",
+     "text": "The Auditors: the reversal came nearly three years after Andersen had stopped practicing before the SEC at the end of August 2002. The Court found the jury instructions flawed; it did not find the firm innocent.",
+     "cites": [
+      {
+       "card": "G-018",
+       "source_id": "andersen-scotus-full-usreports",
+       "page": 3,
+       "loc": "544 U.S. at 698, Opinion of the Court (Rehnquist, C.J.)"
+      },
+      {
+       "card": "C-040",
+       "source_id": "batson-final-app-b-part1",
+       "page": 62,
+       "loc": "p. 60, III.B Current Status of Andersen"
+      }
+     ]
+    },
+    {
+     "para_index": 18,
+     "para_key": "ch6-p18",
+     "para_start": "Duncan faced cases of his own. According to",
+     "text": "The Auditors: the SEC's 2008 actions concerned the audits themselves. The SEC alleged Duncan was reckless in not knowing that his audit reports for 1998-2000 were materially false and misleading; three other partners consented, without admitting or denying, to findings of improper professional conduct.",
+     "cites": [
+      {
+       "card": "B-060",
+       "source_id": "sec-duncan-complaint",
+       "page": 2,
+       "loc": "p. 2, Complaint, para. 2 (Summary)"
+      },
+      {
+       "card": "G-029",
+       "source_id": "sec-duncan-litrel-20441",
+       "page": null,
+       "loc": "SEC Litigation Release No. 20441 / AAER No. 2777, Jan. 28, 2008, paras. 1-2, 4, lines 282-298"
+      },
+      {
+       "card": "G-030",
+       "source_id": "sec-duncan-litrel-20441",
+       "page": null,
+       "loc": "SEC Litigation Release No. 20441, para. 5, lines 300"
+      }
+     ]
+    },
+    {
+     "para_index": 19,
+     "para_key": "ch6-p19",
+     "para_start": "Andersen's fall reshaped the audit profession. The GAO",
+     "text": "The Auditors: with four firms auditing 99 percent of public companies' annual sales, large companies have few choices. In a GAO follow-up survey, 84 percent of the large public companies GAO surveyed said they wanted more audit firms to choose from.",
+     "cites": [
+      {
+       "card": "C-046",
+       "source_id": "gao-03-864",
+       "page": 7,
+       "loc": "p. 1-2, Letter (introduction); same figures in Highlights, PDF p. 2"
+      },
+      {
+       "card": "C-052",
+       "source_id": "gao-03-1158",
+       "page": 2,
+       "loc": "Highlights page, Highlights of GAO-03-1158"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "Andersen audited Enron from 1985; in February 2001, 113 Andersen professionals worked on the engagement.",
+     "cites": [
+      {
+       "card": "C-026",
+       "source_id": "batson-final-app-b-part1",
+       "page": 3,
+       "loc": "p. 1 and n. 1, I.A Overview"
+      },
+      {
+       "card": "C-023",
+       "source_id": "batson-final-app-b-part1",
+       "page": 11,
+       "loc": "p. 9, II.A Andersen's Services to Enron"
+      }
+     ]
+    },
+    {
+     "text": "Andersen earned about $50 million from Enron in 2000; sources give $47.9 million to $54 million depending on the year and categories used.",
+     "cites": [
+      {
+       "card": "C-019",
+       "source_id": "rpt-sga-watchdogs",
+       "page": 26,
+       "loc": "p. 22, Part One, II. Experience with Enron, 1. Enron's Auditor"
+      },
+      {
+       "card": "C-021",
+       "source_id": "batson-final-app-b-part1",
+       "page": 11,
+       "loc": "p. 9 (table on p. 10), II.A Andersen's Services to Enron; n. 14-15"
+      }
+     ]
+    },
+    {
+     "text": "Andersen was indicted on March 7, 2002 and convicted of obstruction on June 15, 2002; the Supreme Court unanimously reversed the conviction on May 31, 2005.",
+     "cites": [
+      {
+       "card": "C-038",
+       "source_id": "batson-final-app-b-part1",
+       "page": 61,
+       "loc": "p. 59, III.B Andersen's Conviction and Current Status"
+      },
+      {
+       "card": "G-018",
+       "source_id": "andersen-scotus-full-usreports",
+       "page": 3,
+       "loc": "544 U.S. at 698, Opinion of the Court (Rehnquist, C.J.)"
+      },
+      {
+       "card": "G-019",
+       "source_id": "andersen-scotus-full-usreports",
+       "page": 2,
+       "loc": "544 U.S. at 697, Reporter's line preceding the opinion"
+      }
+     ]
+    },
+    {
+     "text": "GAO reported that the largest audit firms fell from eight to four, partly through the abrupt dissolution of Andersen in 2002.",
+     "cites": [
+      {
+       "card": "C-045",
+       "source_id": "gao-03-864",
+       "page": 7,
+       "loc": "p. 1, Letter (introduction), n. 2"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Andersen's conviction was reversed, but the firm was already gone. When a charge alone can destroy an audit firm, what should prosecutors weigh in deciding whether to charge the firm rather than individual people?"
+  },
+  "board": {
+   "notes": [
+    {
+     "para_index": 8,
+     "para_key": "ch6-p8",
+     "para_start": "The examiner also concluded that a fact-finder could",
+     "text": "The Board: the Audit Committee relies on the auditor to explain unusual accounting. The examiner concluded a fact-finder could find Andersen did not make sure the committee was informed; one director later testified that the directors \"asked probing questions\" (Chapter 7).",
+     "cites": [
+      {
+       "card": "C-031",
+       "source_id": "batson-final-app-b-part1",
+       "page": 6,
+       "loc": "p. 4, I.A Overview"
+      },
+      {
+       "card": "B-075",
+       "source_id": "hrg-psi-board",
+       "page": 24,
+       "loc": "p. 14, Testimony of John H. Duncan"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "From 1997 to November 2001, Enron's Audit Committee met thirty times, usually with at least three Andersen partners present; meetings generally lasted about an hour.",
+     "cites": [
+      {
+       "card": "C-035",
+       "source_id": "batson-final-app-b-part2",
+       "page": 29,
+       "loc": "p. 131, IV.I Andersen's Interaction with Enron's Audit Committee"
+      }
+     ]
+    },
+    {
+     "text": "The examiner concluded that a fact-finder could find Andersen failed its duty to make sure the Audit Committee understood how significant unusual transactions were accounted for.",
+     "cites": [
+      {
+       "card": "C-031",
+       "source_id": "batson-final-app-b-part1",
+       "page": 6,
+       "loc": "p. 4, I.A Overview"
+      }
+     ]
+    },
+    {
+     "text": "At the February 10, 1997 Audit Committee meeting, Andersen reported that its seven-year rotation rule ended its lead partner's role, and David Duncan took over.",
+     "cites": [
+      {
+       "card": "C-036",
+       "source_id": "batson-final-app-b-part2",
+       "page": 29,
+       "loc": "p. 131, IV.I Andersen's Interaction with Enron's Audit Committee"
+      }
+     ]
+    },
+    {
+     "text": "On January 17, 2002, Enron's board voted to terminate Andersen as its auditor.",
+     "cites": [
+      {
+       "card": "C-037",
+       "source_id": "batson-final-app-b-part1",
+       "page": 61,
+       "loc": "p. 59, III.B Andersen's Conviction and Current Status"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Enron's Audit Committee usually met with Andersen for about an hour at a time. How much time, and what kind of information, would a committee need to oversee the audit of a company as complex as Enron?"
+  },
+  "knew": {
+   "notes": [
+    {
+     "para_index": 7,
+     "para_key": "ch6-p7",
+     "para_start": "The examiner found evidence that \"Enron officers withheld",
+     "text": "Who Knew What, When: the examiner's view is that Andersen did not know everything: Enron officers withheld information in numerous instances, including undisclosed side agreements guaranteeing supposedly at-risk equity. He also concluded that this did not explain the whole of Andersen's role.",
+     "cites": [
+      {
+       "card": "C-029",
+       "source_id": "batson-final-app-b-part1",
+       "page": 3,
+       "loc": "p. 1, I.A Overview; see also IV.B, PDF p. 65-66 (printed 63-64)"
+      },
+      {
+       "card": "C-027",
+       "source_id": "batson-final-app-b-part1",
+       "page": 4,
+       "loc": "p. 2, I.A Overview"
+      }
+     ]
+    },
+    {
+     "para_index": 9,
+     "para_key": "ch6-p9",
+     "para_start": "In the fall of 2001, as Enron's problems",
+     "text": "Who Knew What, When: the indictment alleged that by October 16, 2001, Andersen knew significant facts the public did not, including that it had been told of Watkins's concerns and that on about October 9 it had hired an outside law firm in anticipation of litigation. These are allegations; the conviction that followed was later reversed.",
+     "cites": [
+      {
+       "card": "G-017",
+       "source_id": "doj-andersen-indictment-2002",
+       "page": 3,
+       "loc": "pp. 3-4, II. The Anticipation of Litigation, para. 8 (PDF pages covered: 3-4)"
+      },
+      {
+       "card": "G-018",
+       "source_id": "andersen-scotus-full-usreports",
+       "page": 3,
+       "loc": "544 U.S. at 698, Opinion of the Court (Rehnquist, C.J.)"
+      }
+     ]
+    },
+    {
+     "para_index": 11,
+     "para_key": "ch6-p11",
+     "para_start": "On October 17, the SEC asked Enron for",
+     "text": "Who Knew What, When: the SEC made its request to Enron on October 17. By the chairman's summary of his interview, Duncan first learned of the SEC's informal inquiry on October 19 or 20. The urgent meeting was October 23.",
+     "cites": [
+      {
+       "card": "C-012",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 39,
+       "loc": "p. 35, Prepared statement of C.E. Andrews"
+      },
+      {
+       "card": "C-005",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 33,
+       "loc": "p. 29, Rep. Greenwood's summary of staff interview with Duncan"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "The examiner found evidence that Enron officers withheld information from Andersen in numerous instances.",
+     "cites": [
+      {
+       "card": "C-029",
+       "source_id": "batson-final-app-b-part1",
+       "page": 3,
+       "loc": "p. 1, I.A Overview; see also IV.B, PDF p. 65-66 (printed 63-64)"
+      }
+     ]
+    },
+    {
+     "text": "The indictment alleged that by October 16, 2001, Andersen was aware of significant facts unknown to the public. These are allegations.",
+     "cites": [
+      {
+       "card": "G-017",
+       "source_id": "doj-andersen-indictment-2002",
+       "page": 3,
+       "loc": "pp. 3-4, II. The Anticipation of Litigation, para. 8 (PDF pages covered: 3-4)"
+      }
+     ]
+    },
+    {
+     "text": "Andersen's lawyer e-mailed a partner on October 12 suggesting the engagement team be reminded of the retention policy; the SEC made its request to Enron on October 17; Duncan called an urgent meeting of the Enron team on October 23.",
+     "cites": [
+      {
+       "card": "C-001",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 49,
+       "loc": "p. 45, Hearing record exhibit (e-mail dated 10/12/2001 from Nancy A. Temple to Michael C. Odom)"
+      },
+      {
+       "card": "C-012",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 39,
+       "loc": "p. 35, Prepared statement of C.E. Andrews"
+      },
+      {
+       "card": "C-011",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 36,
+       "loc": "p. 32, Testimony of C.E. Andrews, Andersen (oral)"
+      }
+     ]
+    },
+    {
+     "text": "The destruction appeared to stop after November 9, the day after Andersen received an SEC subpoena, Andersen said.",
+     "cites": [
+      {
+       "card": "C-013",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 39,
+       "loc": "p. 35, Prepared statement of C.E. Andrews"
+      }
+     ]
+    }
+   ],
+   "strip": [
+    {
+     "date": "2001-09-28",
+     "who": "Nancy Temple (Andersen lawyer)",
+     "what": "Testified that she was first asked that day to join a call about an Enron accounting issue.",
+     "cites": [
+      {
+       "card": "C-018",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 126,
+       "loc": "p. 122, Questioning of Temple by Chairman Tauzin"
+      }
+     ]
+    },
+    {
+     "date": "2001-10-09",
+     "who": "Andersen",
+     "what": "The indictment alleged that on about this date, anticipating litigation, Andersen hired an outside New York law firm. This is an allegation.",
+     "cites": [
+      {
+       "card": "G-017",
+       "source_id": "doj-andersen-indictment-2002",
+       "page": 3,
+       "loc": "pp. 3-4, II. The Anticipation of Litigation, para. 8 (PDF pages covered: 3-4)"
+      }
+     ]
+    },
+    {
+     "date": "2001-10-12",
+     "who": "Andersen partner Michael Odom",
+     "what": "Received Temple's e-mail: \"It might be useful to consider reminding the engagement team of our documentation and retention policy.\"",
+     "cites": [
+      {
+       "card": "C-001",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 49,
+       "loc": "p. 45, Hearing record exhibit (e-mail dated 10/12/2001 from Nancy A. Temple to Michael C. Odom)"
+      }
+     ]
+    },
+    {
+     "date": "2001-10-17",
+     "who": "Enron",
+     "what": "The SEC requested information from Enron about its financial accounting and reporting, Andersen said.",
+     "cites": [
+      {
+       "card": "C-012",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 39,
+       "loc": "p. 35, Prepared statement of C.E. Andrews"
+      }
+     ]
+    },
+    {
+     "date": "2001-10-19",
+     "who": "David Duncan",
+     "what": "Learned of the SEC's informal inquiry on October 19 or 20, according to a House subcommittee chairman's summary of his staff interview.",
+     "cites": [
+      {
+       "card": "C-005",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 33,
+       "loc": "p. 29, Rep. Greenwood's summary of staff interview with Duncan"
+      }
+     ]
+    },
+    {
+     "date": "2001-10-23",
+     "who": "Enron engagement team",
+     "what": "Duncan called an urgent meeting; Andersen's C.E. Andrews testified that Duncan organized an expedited effort to shred or otherwise dispose of Enron documents.",
+     "cites": [
+      {
+       "card": "C-011",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 36,
+       "loc": "p. 32, Testimony of C.E. Andrews, Andersen (oral)"
+      }
+     ]
+    },
+    {
+     "date": "2001-11-09",
+     "who": "Andersen secretaries",
+     "what": "Duncan's assistant e-mailed \"no more shredding,\" the day after Andersen received an SEC subpoena.",
+     "cites": [
+      {
+       "card": "C-013",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 39,
+       "loc": "p. 35, Prepared statement of C.E. Andrews"
+      }
+     ]
+    },
+    {
+     "date": "2002-01-04",
+     "who": "Justice Department and SEC",
+     "what": "Andersen notified them of the document destruction.",
+     "cites": [
+      {
+       "card": "C-015",
+       "source_id": "hrg-hec-andersen-shredding",
+       "page": 39,
+       "loc": "p. 35, Prepared statement of C.E. Andrews"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Andersen's lawyer suggested on October 12 that the Enron team be reminded of the retention policy, and, by Andersen's account, the shredding stopped shortly after November 9. What would an employee need to know, and when, to tell routine housekeeping from something else?"
+  }
+ },
+ "ch7": {
+  "money": {
+   "notes": [
+    {
+     "para_index": 3,
+     "para_key": "ch7-p3",
+     "para_start": "The subcommittee also found that the board failed",
+     "text": "Follow the money: the sources give different totals because they cover different periods: over $77 million from October 2000 to October 2001 (Senate subcommittee staff); $77.5 million from January to November 2001 (an SEC allegation); and over $94 million from May 1999 to October 2001 (the bankruptcy examiner).",
+     "cites": [
+      {
+       "card": "B-016",
+       "source_id": "rpt-psi-board",
+       "page": 7,
+       "loc": "p. 3, Subcommittee Findings, (5) Excessive Compensation"
+      },
+      {
+       "card": "B-005",
+       "source_id": "sec-lay-complaint",
+       "page": 41,
+       "loc": "p. 41, Second Amended Complaint, paras. 101-103"
+      },
+      {
+       "card": "B-014",
+       "source_id": "batson-final-app-d",
+       "page": 181,
+       "loc": "p. 179, App. D, VII. Conclusions"
+      }
+     ]
+    },
+    {
+     "para_index": 6,
+     "para_key": "ch7-p6",
+     "para_start": "Michael Kopper, who ran Chewco, pleaded guilty on",
+     "text": "Follow the money: Kopper's $12 million combines $4 million of criminal forfeiture with $8 million paid in the SEC's case. For Fastow, the Justice Department's 2004 announcement gives a forfeiture of more than $29 million and its 2006 announcement more than $20 million; the library does not explain the difference.",
+     "cites": [
+      {
+       "card": "B-039",
+       "source_id": "sec-fastow-complaint",
+       "page": null,
+       "loc": "SEC v. Fastow Complaint, para. 9, lines 49"
+      },
+      {
+       "card": "G-013",
+       "source_id": "doj-dag-kopper-plea-transcript-2002",
+       "page": null,
+       "loc": "News conference transcript, Thompson remarks and Q&A (Chertoff), lines 29-41, 197-199; Q&A lines 223, 277-289, 463-467"
+      },
+      {
+       "card": "G-002",
+       "source_id": "doj-fastow-plea-press-2004",
+       "page": null,
+       "loc": "DOJ press release #019, para. 2; 'Andrew Fastow Pleads Guilty' section, lines 27-32, 71-76, 91"
+      },
+      {
+       "card": "G-004",
+       "source_id": "doj-fastow-sentenced-press-2006",
+       "page": null,
+       "loc": "DOJ press release #06-647, Sept. 26, 2006, paras. 1-2, lines 12-20"
+      }
+     ]
+    },
+    {
+     "para_index": 10,
+     "para_key": "ch7-p10",
+     "para_start": "Banks faced civil cases. In 2003, without admitting",
+     "text": "Follow the money: these were settlements of civil charges, paid without admitting or denying the SEC's allegations. The Senate subcommittee staff had described the underlying prepays as more than $8 billion of transactions (Chapter 5).",
+     "cites": [
+      {
+       "card": "B-086",
+       "source_id": "sec-jpm-citi-press",
+       "page": null,
+       "loc": "SEC Press Release 2003-87, lines raw line with press text (after 'Washington, D.C., July 28, 2003')"
+      },
+      {
+       "card": "A-072",
+       "source_id": "rpt-psi-fishtail",
+       "page": 5,
+       "loc": "pp. 1-2, Introduction"
+      }
+     ]
+    },
+    {
+     "para_index": 11,
+     "para_key": "ch7-p11",
+     "para_start": "Many Enron employees saved for retirement through a",
+     "text": "Follow the money: many employees' retirement savings rose and fell with the same company that paid their salaries. The chairman of the plan's administrative committee told the committee that employees could choose among 20 investment options, but could not move the Enron stock match before age 50.",
+     "cites": [
+      {
+       "card": "C-061",
+       "source_id": "gao-02-480t-pensions",
+       "page": 7,
+       "loc": "p. 6, Background (Enron's plans)"
+      },
+      {
+       "card": "C-068",
+       "source_id": "hrg-help-pensions",
+       "page": 74,
+       "loc": "p. 70, Testimony of James Prentice"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "The Senate subcommittee staff found that the board failed to monitor Lay's company-financed credit line, which he used to obtain over $77 million in one year and repaid with Enron stock.",
+     "cites": [
+      {
+       "card": "B-016",
+       "source_id": "rpt-psi-board",
+       "page": 7,
+       "loc": "p. 3, Subcommittee Findings, (5) Excessive Compensation"
+      }
+     ]
+    },
+    {
+     "text": "Criminal cases recovered money: Kopper agreed to $12 million covering his plea and the SEC case; and a 2013 agreement says more than $40 million forfeited from Skilling's assets had been available for years for victims.",
+     "cites": [
+      {
+       "card": "G-013",
+       "source_id": "doj-dag-kopper-plea-transcript-2002",
+       "page": null,
+       "loc": "News conference transcript, Thompson remarks and Q&A (Chertoff), lines 29-41, 197-199; Q&A lines 223, 277-289, 463-467"
+      },
+      {
+       "card": "G-028",
+       "source_id": "doj-skilling-sentencing-agreement-2013",
+       "page": 4,
+       "loc": "pp. 4-5, Sentencing Agreement, 'Relevant Considerations', para. 15(a)-(e) (PDF pages covered: 4-5)"
+      }
+     ]
+    },
+    {
+     "text": "J.P. Morgan Chase agreed to pay $135 million and Citigroup $120 million to settle SEC charges, without admitting or denying the allegations.",
+     "cites": [
+      {
+       "card": "B-086",
+       "source_id": "sec-jpm-citi-press",
+       "page": null,
+       "loc": "SEC Press Release 2003-87, lines raw line with press text (after 'Washington, D.C., July 28, 2003')"
+      }
+     ]
+    },
+    {
+     "text": "GAO cited Labor Department figures that 63 percent of Enron's 401(k) assets were in company stock at the end of 2000; a congressman told the committee the plan lost about $1 billion in value.",
+     "cites": [
+      {
+       "card": "C-062",
+       "source_id": "gao-02-480t-pensions",
+       "page": 8,
+       "loc": "p. 7, Investment Sophistication May Be Needed"
+      },
+      {
+       "card": "C-065",
+       "source_id": "hrg-help-pensions",
+       "page": 23,
+       "loc": "p. 19, Testimony of Rep. Ken Bentsen"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Enron matched employees' retirement savings with Enron stock that they could not move until age 50. What are the risks of holding your savings in the company you work for, and should the law limit it?"
+  },
+  "auditors": {
+   "notes": [],
+   "summary": [
+    {
+     "text": "The Supreme Court reversed Andersen's conviction in 2005 because the jury had been wrongly instructed.",
+     "cites": [
+      {
+       "card": "G-018",
+       "source_id": "andersen-scotus-full-usreports",
+       "page": 3,
+       "loc": "544 U.S. at 698, Opinion of the Court (Rehnquist, C.J.)"
+      }
+     ]
+    },
+    {
+     "text": "Sarbanes-Oxley created the Public Company Accounting Oversight Board to oversee audits of public companies; at the signing, President Bush said, \"The auditors will be audited.\"",
+     "cites": [
+      {
+       "card": "C-072",
+       "source_id": "sox-plaw-html",
+       "page": null,
+       "loc": "Sec. 101(a)-(c), lines 371-400"
+      },
+      {
+       "card": "C-071",
+       "source_id": "sox-bush-remarks",
+       "page": 2,
+       "loc": "p. 1284, Remarks on Signing the Sarbanes-Oxley Act of 2002 (Weekly Comp. Pres. Doc., vol. 38)"
+      }
+     ]
+    },
+    {
+     "text": "The Act banned certain non-audit services for audit clients and required lead and reviewing audit partners to rotate after five years.",
+     "cites": [
+      {
+       "card": "C-074",
+       "source_id": "sox-plaw-html",
+       "page": null,
+       "loc": "116 Stat. 771-772, Sec. 201(a), adding Exchange Act Sec. 10A(g)-(h)"
+      },
+      {
+       "card": "C-075",
+       "source_id": "sox-plaw-html",
+       "page": null,
+       "loc": "Sec. 203, adding Exchange Act Sec. 10A(j), lines 1802-1812"
+      }
+     ]
+    },
+    {
+     "text": "Section 404 requires a company's auditor to attest to and report on management's assessment of internal control over financial reporting.",
+     "cites": [
+      {
+       "card": "C-078",
+       "source_id": "sox-plaw-html",
+       "page": null,
+       "loc": "Sec. 404(a)-(b), lines 2793-2815"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Sarbanes-Oxley requires that two, and only two, of the PCAOB's five members be or have been certified public accountants. Why might Congress have wanted most of the people overseeing auditors not to be accountants?"
+  },
+  "board": {
+   "notes": [
+    {
+     "para_index": 1,
+     "para_key": "ch7-p1",
+     "para_start": "Several bodies investigated what went wrong, and their",
+     "text": "The Board: the judgments about the board in the special committee's report came from its two new members, Powers and Troubh, who had not been directors during the events. Winokur, a director since 1985, did not join them.",
+     "cites": [
+      {
+       "card": "F-015",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "p. 31 (and p. 9 n. 1), I. Introduction (the Special Investigative Committee)"
+      },
+      {
+       "card": "A-063",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 22-24, Executive Summary - The Participants: The Board of Directors"
+      }
+     ]
+    },
+    {
+     "para_index": 2,
+     "para_key": "ch7-p2",
+     "para_start": "The Senate Permanent Subcommittee on Investigations looked at",
+     "text": "The Board: the staff reported that all 13 directors it interviewed disagreed with the special committee's conclusion that the board failed in its oversight, and that all five witnesses rejected any share of responsibility.",
+     "cites": [
+      {
+       "card": "B-074",
+       "source_id": "rpt-psi-board",
+       "page": 18,
+       "loc": "p. 14, Factual Basis for Findings"
+      }
+     ]
+    },
+    {
+     "para_index": 4,
+     "para_key": "ch7-p4",
+     "para_start": "Finally, in the bankruptcy case, an examiner, Neal",
+     "text": "The Board: the examiner separated two questions. On responding to red flags, he did not find that the outside directors acted in bad faith; on approving the Rhythms and certain Raptor hedges, he concluded a fact-finder could find that certain outside directors breached their duty of good faith. None of the outside directors invoked the Fifth Amendment with him.",
+     "cites": [
+      {
+       "card": "B-080",
+       "source_id": "batson-final-app-d",
+       "page": 8,
+       "loc": "p. 6, App. D, I. Introduction (Conclusions)"
+      },
+      {
+       "card": "B-013",
+       "source_id": "batson-final-app-d",
+       "page": 9,
+       "loc": "p. 7, App. D, I. Introduction (Conclusions)"
+      },
+      {
+       "card": "B-081",
+       "source_id": "batson-final-app-d",
+       "page": 6,
+       "loc": "p. 4, App. D, I. Introduction (Available Evidence)"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "Two of the special committee's three members concluded that \"the Board of Directors failed, in our judgment, in its oversight duties.\"",
+     "cites": [
+      {
+       "card": "A-063",
+       "source_id": "powers-report-sec",
+       "page": null,
+       "loc": "pp. 22-24, Executive Summary - The Participants: The Board of Directors"
+      }
+     ]
+    },
+    {
+     "text": "The Senate subcommittee staff found that the board \"failed to safeguard Enron shareholders,\" while the directors who testified rejected any share of responsibility.",
+     "cites": [
+      {
+       "card": "B-071",
+       "source_id": "rpt-psi-board",
+       "page": 7,
+       "loc": "p. 3, Subcommittee Findings (1) Fiduciary Failure"
+      },
+      {
+       "card": "B-074",
+       "source_id": "rpt-psi-board",
+       "page": 18,
+       "loc": "p. 14, Factual Basis for Findings"
+      }
+     ]
+    },
+    {
+     "text": "The bankruptcy examiner concluded that a fact-finder could find certain outside directors breached their duty of good faith in approving the Rhythms and certain Raptor hedges, but that the evidence does not support bad faith in failing to respond to red flags.",
+     "cites": [
+      {
+       "card": "B-080",
+       "source_id": "batson-final-app-d",
+       "page": 8,
+       "loc": "p. 6, App. D, I. Introduction (Conclusions)"
+      }
+     ]
+    },
+    {
+     "text": "The library documents show no charges against the outside directors.",
+     "cites": [
+      {
+       "card": "B-082",
+       "source_id": "sec-enron-spotlight",
+       "page": null,
+       "loc": "Enron-Related Enforcement Actions list (whole list reviewed), lines 1-140"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Three investigations judged Enron's board, and the directors disagreed with them. Winokur called Enron \"a cautionary reminder of the limits of a director's role.\" Where should a part-time director's responsibility end?"
+  },
+  "knew": {
+   "notes": [
+    {
+     "para_index": 12,
+     "para_key": "ch7-p12",
+     "para_start": "In the fall of 2001, as the stock",
+     "text": "Who Knew What, When: GAO noted that executives faced no similar limits on company stock they held outside the plan. During the lockdown, employees in the plan could not act on the news.",
+     "cites": [
+      {
+       "card": "C-063",
+       "source_id": "gao-02-480t-pensions",
+       "page": 13,
+       "loc": "p. 11-12, ERISA Requires Fiduciaries to be Prudent and Reasonable"
+      }
+     ]
+    }
+   ],
+   "summary": [
+    {
+     "text": "Lay was sworn in before a Senate committee in February 2002 and declined to testify, invoking his Fifth Amendment right; he later gave the examiner a one-day interview that was not under oath.",
+     "cites": [
+      {
+       "card": "B-008",
+       "source_id": "hrg-commerce-lay-powers",
+       "page": 29,
+       "loc": "p. 25, Statement of Kenneth L. Lay"
+      },
+      {
+       "card": "B-015",
+       "source_id": "batson-final-app-d",
+       "page": 5,
+       "loc": "p. 3, App. D, I. Introduction (Available Evidence)"
+      }
+     ]
+    },
+    {
+     "text": "Skilling testified that he did not believe Enron was in financial peril when he left. A jury later convicted him on nineteen counts. After the Supreme Court's 2010 ruling limiting one legal theory used against him, the appeals court in 2011 found the error harmless and affirmed his convictions on all counts.",
+     "cites": [
+      {
+       "card": "B-023",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 23,
+       "loc": "p. 19, Statement of Jeffrey Skilling"
+      },
+      {
+       "card": "B-025",
+       "source_id": "ca5-skilling-2009",
+       "page": 15,
+       "loc": "p. 15, II. Trial and Sentence"
+      },
+      {
+       "card": "B-028",
+       "source_id": "skilling-scotus-2010",
+       "page": 9,
+       "loc": "p. 366, Syllabus, Held 1 and (c)"
+      },
+      {
+       "card": "G-024",
+       "source_id": "ca5-skilling-2011-remand",
+       "page": 16,
+       "loc": "pp. 1-2, 16, Opinion (Prado, J.), introduction and IV. Conclusion (PDF pages covered: 1-2, 16)"
+      }
+     ]
+    },
+    {
+     "text": "The Justice Department announced that Fastow admitted he and other members of Enron's senior management conspired to manipulate Enron's reported financial results.",
+     "cites": [
+      {
+       "card": "G-003",
+       "source_id": "doj-fastow-plea-press-2004",
+       "page": null,
+       "loc": "DOJ press release #019, 'Andrew Fastow Pleads Guilty' section, lines 78-89"
+      }
+     ]
+    },
+    {
+     "text": "The examiner concluded a fact-finder could find that Lay and Skilling were at least negligent in failing to respond to red flags about the misuse of SPEs.",
+     "cites": [
+      {
+       "card": "B-012",
+       "source_id": "batson-final-app-d",
+       "page": 9,
+       "loc": "p. 7, App. D, I. Introduction (Conclusions)"
+      }
+     ]
+    }
+   ],
+   "strip": [
+    {
+     "date": "2001-10-15",
+     "who": "Jan Fleetham (Enron employee)",
+     "what": "Told the committee, in her written statement, that on October 15 she received a letter dated October 8 saying she could not access her 401(k) account from October 20 to November 19, 2001. Other accounts of the lockdown's dates differ.",
+     "cites": [
+      {
+       "card": "C-066",
+       "source_id": "hrg-help-pensions",
+       "page": 69,
+       "loc": "p. 65, Prepared statement of Jan Fleetham (oral version at PDF p. 67, printed 63)"
+      },
+      {
+       "card": "C-065",
+       "source_id": "hrg-help-pensions",
+       "page": 23,
+       "loc": "p. 19, Testimony of Rep. Ken Bentsen"
+      }
+     ]
+    },
+    {
+     "date": "2001-11-16",
+     "who": "Labor Department",
+     "what": "Opened an investigation of Enron's pension plans, over two weeks before the bankruptcy.",
+     "cites": [
+      {
+       "card": "C-069",
+       "source_id": "hrg-help-pensions",
+       "page": 32,
+       "loc": "p. 28, Prepared statement of Elaine L. Chao"
+      }
+     ]
+    },
+    {
+     "date": "2002-02-12",
+     "who": "Kenneth Lay",
+     "what": "Was sworn in before the Senate Commerce Committee and declined to answer questions, invoking his Fifth Amendment right. That is not evidence of guilt.",
+     "cites": [
+      {
+       "card": "B-008",
+       "source_id": "hrg-commerce-lay-powers",
+       "page": 29,
+       "loc": "p. 25, Statement of Kenneth L. Lay"
+      }
+     ]
+    },
+    {
+     "date": "2002-02-26",
+     "who": "Jeffrey Skilling",
+     "what": "Testified under oath that when he left Enron he did not believe the company was in financial peril.",
+     "cites": [
+      {
+       "card": "B-023",
+       "source_id": "hrg-commerce-skilling-watkins",
+       "page": 23,
+       "loc": "p. 19, Statement of Jeffrey Skilling"
+      }
+     ]
+    },
+    {
+     "date": "2002-05-07",
+     "who": "Enron directors",
+     "what": "Audit Committee chairman Jaedicke testified the committee knew of \"high-risk and innovative transactions\"; director John H. Duncan said the Powers Report and press reports indicated that certain managers and the outside auditors knew of the problems and did not tell the board.",
+     "cites": [
+      {
+       "card": "B-078",
+       "source_id": "hrg-psi-board",
+       "page": 41,
+       "loc": "p. 31, Questioning by Senator Levin"
+      },
+      {
+       "card": "B-075",
+       "source_id": "hrg-psi-board",
+       "page": 24,
+       "loc": "p. 14, Testimony of John H. Duncan"
+      }
+     ]
+    },
+    {
+     "date": "2003-11-04",
+     "who": "Kenneth Lay and Jeffrey Skilling",
+     "what": "The bankruptcy examiner concluded a fact-finder could find they were at least negligent in failing to respond to red flags about the misuse of SPEs.",
+     "cites": [
+      {
+       "card": "B-012",
+       "source_id": "batson-final-app-d",
+       "page": 9,
+       "loc": "p. 7, App. D, I. Introduction (Conclusions)"
+      }
+     ]
+    },
+    {
+     "date": "2004-01-14",
+     "who": "Andrew Fastow",
+     "what": "The Justice Department announced he pleaded guilty and admitted that he and other senior managers conspired to manipulate Enron's reported results.",
+     "cites": [
+      {
+       "card": "G-001",
+       "source_id": "doj-fastow-plea-press-2004",
+       "page": null,
+       "loc": "DOJ press release #019, Jan. 14, 2004, paras. 1-2 and 'Andrew Fastow Pleads Guilty' section, lines 17-27, 71-72"
+      },
+      {
+       "card": "G-003",
+       "source_id": "doj-fastow-plea-press-2004",
+       "page": null,
+       "loc": "DOJ press release #019, 'Andrew Fastow Pleads Guilty' section, lines 78-89"
+      }
+     ]
+    }
+   ],
+   "ask_why": "Many key people declined to testify, and some who did said they did not recall. If you were writing the history of Enron, how would you decide what someone knew when the people involved will not or cannot say?"
+  }
+ }
+};

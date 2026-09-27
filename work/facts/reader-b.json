@@ -1,0 +1,2207 @@
+[
+  {
+    "id": "B-001",
+    "topic": "Lay: role",
+    "claim": "According to the SEC's complaint, Kenneth Lay was chairman of Enron's board from its formation in 1986 until January 23, 2002, and CEO from 1986 until February 2001 and again from August 14, 2001 until January 23, 2002. He resigned from the board on February 4, 2002.",
+    "quote": "Lay served as the Chairman of the Board of Directors of Enron (the “Board”) from its formation in 1986 until January 23, 2002. He was the Chief Executive Officer (“CEO”) of Enron from 1986 until February 2001 and from August 14, 2001 until January 23, 2002.",
+    "source_id": "sec-lay-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-lay-complaint-2004.pdf",
+    "locator": {
+      "pdf_page": 3,
+      "printed_page": "p. 3",
+      "section": "Second Amended Complaint, para. 7 (Defendants)",
+      "lines": "111-117"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "1986",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Dates of service are background facts in an SEC complaint; attribute to the SEC. Batson App. D (p. 11, PDF 13) gives the same picture: Lay became Chairman and CEO in 1986, CEO until Feb 2001, returned Aug 2001, resigned Jan 2002 (Batson cites press articles and an interview for these). line numbers refer to work/text/sec-lay-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-002",
+    "topic": "Lay: background",
+    "claim": "The bankruptcy examiner's report says Lay became CEO of Houston Natural Gas (HNG); InterNorth acquired HNG in May 1985; the combined company changed its name to Enron Corp., and Lay became Chairman and CEO in 1986.",
+    "quote": "The combined company changed its name to Enron Corp., and Lay became Chairman and CEO in 1986.",
+    "source_id": "batson-final-app-d",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 13,
+      "printed_page": "p. 11",
+      "section": "App. D, II.A Biographies (Lay)",
+      "lines": "work/text lines ~420-440"
+    },
+    "source_type": "examiner conclusion",
+    "verb": "stated",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "1986",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "This biographical section is background, not an examiner 'conclusion'; Batson's footnotes cite newspaper articles (Houston Chronicle, Wall Street Journal) and a Wilmer Cutler interview memo for it. DATE DISAGREEMENT: Batson says InterNorth acquired HNG 'in May 1985'; the JCT report (rpt-jct-vol1 p. 59, PDF 87) says July 1, 1985 (reported as effective June 1, 1985 for financial reporting, p. 60). Use July 1, 1985 (JCT) and do not use Batson for the date. Batson (p. 9, PDF 11) says Lay 'joined the predecessor of Enron in 1984'. skilling-scotus-2010 (p. 368) calls Lay 'the company's founder' and says Enron was 'Founded in 1985'. Checked against page image.",
+    "checked": "FIXED",
+    "checker_note": "Added a source disagreement to notes: Batson App. D (p. 11, citing a newspaper article) dates the InterNorth-HNG acquisition to May 1985; the JCT report (p. 59, PDF 87, image-checked) gives July 1, 1985 (effective June 1, 1985 for financial reporting). Use the JCT date."
+  },
+  {
+    "id": "B-003",
+    "topic": "Lay: SEC allegations",
+    "claim": "The SEC alleged (July 2004) that Lay, Skilling and Causey took part in a scheme to defraud from at least 1999 through late 2001, manipulating Enron's reported results and making false and misleading public statements.",
+    "quote": "From at least 1999 through late 2001, Lay, Skilling, Causey, and others manipulated Enron’s publicly reported financial results and made false and misleading public statements about Enron’s financial condition and its actual performance.",
+    "source_id": "sec-lay-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-lay-complaint-2004.pdf",
+    "locator": {
+      "pdf_page": 1,
+      "printed_page": "p. 1",
+      "section": "Second Amended Complaint, para. 1 (Summary)",
+      "lines": "34-38"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Kenneth Lay",
+      "Jeffrey Skilling",
+      "Richard Causey"
+    ],
+    "event_date": "2004-07-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Civil Action No. H-04-0284 (Harmon). Spotlight lists 'SEC Charges Kenneth L. Lay ... with Fraud and Insider Trading (Litigation Release No. 18776, July 8, 2004)'. The library does not show how the SEC's civil case against Lay ended. line numbers refer to work/text/sec-lay-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-004",
+    "topic": "Lay: SEC allegations (employee forum)",
+    "claim": "The SEC alleged that in an online employee forum on September 26, 2001, Lay made false and misleading statements, including that the third quarter was 'looking great'.",
+    "quote": "“[t]he third quarter is looking great. We will hit our numbers.",
+    "source_id": "sec-lay-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-lay-complaint-2004.pdf",
+    "locator": {
+      "pdf_page": 32,
+      "printed_page": "p. 32",
+      "section": "Second Amended Complaint, para. 81",
+      "lines": "1515-1521"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "2001-09-26",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Quote is the SEC's quotation of Lay; present it as 'the SEC alleged Lay told employees ...'. The DOJ press release (doj-lay-charged-press, lines ~140-152) describes the same forum. line numbers refer to work/text/sec-lay-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-005",
+    "topic": "Lay: SEC allegations (stock sales)",
+    "claim": "The SEC alleged that from January 25 to November 27, 2001, Lay drew $77,525,000 in advances on his Enron line of credit and repaid them by selling $70,104,762 of Enron stock back to the company in twenty transactions.",
+    "quote": "From January 25, 2001 to November 27, 2001, Lay took advances on his line of credit in the total amount of $77,525,000.",
+    "source_id": "sec-lay-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-lay-complaint-2004.pdf",
+    "locator": {
+      "pdf_page": 41,
+      "printed_page": "p. 41",
+      "section": "Second Amended Complaint, paras. 101-103",
+      "lines": "1916-1951"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "2001",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Figures differ across sources, apparently because they cover different periods: PSI report says Lay used the credit line to obtain 'over $77 million' Oct 2000-Oct 2001; Batson App. D says 'over $94 million' borrowed May 1999-Oct 2001; DOJ press says 918,104 shares sold Aug 21-Oct 26, 2001 to repay $26,025,000. Writers should give the period with each figure. line numbers refer to work/text/sec-lay-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-006",
+    "topic": "Lay: criminal charges",
+    "claim": "A superseding indictment unsealed July 8, 2004 charged Lay with conspiracy to commit securities fraud, four counts of securities fraud, two counts of wire fraud, one count of bank fraud and three counts of making false statements to a bank. It joined him to the pending case against Skilling and Causey.",
+    "quote": "charges Lay, 62, of Houston, with conspiracy to commit securities fraud, four counts of securities fraud and two counts of wire fraud, one count of bank fraud and three counts of making false statements to a bank.",
+    "source_id": "doj-lay-charged-press",
+    "file": "sources/09-courts-doj/doj-press-2004-07-08-lay-charged.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #470, July 8, 2004",
+      "lines": "25-28"
+    },
+    "source_type": "government press release",
+    "verb": "charged",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "2004-07-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The press release itself says 'Criminal indictments are only charges and not evidence of guilt' (line 209). The same release later refers to 'four counts with bank fraud and making false statements to three banks' (1 bank fraud + 3 false statements). Lay surrendered to the FBI in Houston that morning. line numbers refer to work/text/doj-lay-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-007",
+    "topic": "Lay: criminal charges (what DOJ said he did)",
+    "claim": "According to DOJ, Lay was charged principally for his conduct in the third quarter of 2001, after Skilling's departure, when the indictment alleged he took control of the conspiracy.",
+    "quote": "Lay is principally charged for his conduct during the third quarter of 2001.",
+    "source_id": "doj-lay-charged-press",
+    "file": "sources/09-courts-doj/doj-press-2004-07-08-lay-charged.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #470, July 8, 2004",
+      "lines": "~111-116"
+    },
+    "source_type": "indictment allegation",
+    "verb": "alleged",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "2001",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "DOJ press also states the indictment alleged that in the two months before Sept 26, 2001 Lay 'actually purchased $4 million in Enron stock while also selling $24 million in Enron stock through nonpublic transactions'. The SEC complaint describes the same period as 'net sales of over $20 million'. Not a contradiction ($24M sold minus $4M bought), but writers should not mix the figures. line numbers refer to work/text/doj-lay-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-008",
+    "topic": "Lay: Fifth Amendment before the Senate",
+    "claim": "On February 12, 2002, Lay was sworn in before the Senate Commerce Committee and then declined, on his lawyers' instruction, to answer questions, invoking his Fifth Amendment right.",
+    "quote": "I have, however, been instructed by my counsel not to testify based upon my Fifth Amendment constitutional rights.",
+    "source_id": "hrg-commerce-lay-powers",
+    "file": "sources/05-hearings-enron/shrg-107-773-collapse-of-enron-2002-02-12.pdf",
+    "locator": {
+      "pdf_page": 29,
+      "printed_page": "p. 25",
+      "section": "Statement of Kenneth L. Lay",
+      "lines": "1672-1690"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "2002-02-12",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Lay took the oath ('Mr. LAY. I do.') before reading this statement. He also said: 'I respectfully ask you not to draw a negative inference' (p. 26, PDF 30). Invoking the Fifth is not evidence of guilt; say so on the site. line numbers refer to work/text/hrg-commerce-lay-powers.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-009",
+    "topic": "Lay: SEC subpoena, Fifth Amendment",
+    "claim": "The SEC's Enron index lists a September 29, 2003 subpoena enforcement action against Lay, titled as Lay refusing to produce documents on Fifth Amendment grounds, and a November 7, 2003 stipulation and order requiring him to produce documents.",
+    "quote": "Former Enron Chairman and Chief Executive Officer Refuses to Produce Documents on Fifth Amendment Grounds",
+    "source_id": "sec-enron-spotlight",
+    "file": "sources/04-sec-enforcement/sec-enron-spotlight-index.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Enron-Related Enforcement Actions list (Lit. Rel. 18372, Sep. 29, 2003; Lit. Rel. 18449, Nov. 7, 2003)",
+      "lines": "89, 96"
+    },
+    "source_type": "government press release",
+    "verb": "stated",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "2003-09-29",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Spotlight gives release titles only; the releases themselves are not in the library. line numbers refer to work/text/sec-enron-spotlight.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-010",
+    "topic": "Lay: trial verdict",
+    "claim": "The Fifth Circuit states that at the 2006 trial the jury convicted Lay of every count against him.",
+    "quote": "The jury convicted Lay of every count against him.",
+    "source_id": "ca5-skilling-2009",
+    "file": "sources/09-courts-doj/ca5-us-v-skilling-2009.pdf",
+    "locator": {
+      "pdf_page": 15,
+      "printed_page": "p. 15",
+      "section": "II. Trial and Sentence",
+      "lines": "547-550"
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "was convicted",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "2006-05",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Do not stop here: see next card. The verdict was later vacated after Lay's death. line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-011",
+    "topic": "Lay: death and vacatur",
+    "claim": "Lay died on July 5, 2006. According to the Fifth Circuit, his death caused the trial court to vacate his conviction and dismiss his indictment.",
+    "quote": "On July 5, 2006, Lay died, causing the court to vacate his conviction and dismiss his indictment.",
+    "source_id": "ca5-skilling-2009",
+    "file": "sources/09-courts-doj/ca5-us-v-skilling-2009.pdf",
+    "locator": {
+      "pdf_page": 15,
+      "printed_page": "p. 15",
+      "section": "II. Trial and Sentence, footnote 9",
+      "lines": "554-555"
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "held",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "2006-07-05",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Footnote cites United States v. Lay, 456 F. Supp. 2d 869, 870 (S.D. Tex. 2006), which is NOT in the library. The site must say Lay's conviction was vacated, so he does not stand convicted in law. The library does not say whether Lay had filed an appeal. line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-012",
+    "topic": "Lay: examiner conclusions",
+    "claim": "Bankruptcy examiner Neal Batson concluded there was sufficient evidence for a fact-finder to conclude that Lay and Skilling were at least negligent in their oversight duty, by failing to respond to red flags about senior officers' misuse of SPE transactions.",
+    "quote": "Lay and Skilling were at least negligent in fulfilling their duty of oversight by failing to respond to red flags regarding the Senior Officers’ misuse of the SPE transactions",
+    "source_id": "batson-final-app-d",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 9,
+      "printed_page": "p. 7",
+      "section": "App. D, I. Introduction (Conclusions)",
+      "lines": null
+    },
+    "source_type": "examiner conclusion",
+    "verb": "concluded",
+    "people": [
+      "Kenneth Lay",
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2003-11-04",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Civil standard (fiduciary duty), not criminal guilt. Batson's wording is 'sufficient evidence for a fact-finder to conclude'; keep that hedge. Restated in VII. Conclusions, p. 178-179 (PDF 180-181). Checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-013",
+    "topic": "Lay/Skilling/directors: examiner conclusion on Rhythms and Raptors",
+    "claim": "Batson concluded there was sufficient evidence for a fact-finder to conclude that Lay, Skilling and the outside directors who were on the Board at the time breached their duty of good faith by authorizing the Rhythms hedge (June 1999) and three Raptor hedges (May-August 2000), which he found had no rational business purpose.",
+    "quote": "Lay, Skilling and the Outside Directors who were members of the Board in June 1999, breached their fiduciary duty of good faith in authorizing Enron to enter into the Rhythms hedging transaction;",
+    "source_id": "batson-final-app-d",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 9,
+      "printed_page": "p. 7",
+      "section": "App. D, I. Introduction (Conclusions)",
+      "lines": null
+    },
+    "source_type": "examiner conclusion",
+    "verb": "concluded",
+    "people": [
+      "Kenneth Lay",
+      "Jeffrey Skilling",
+      "Outside directors"
+    ],
+    "event_date": "2003-11-04",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "The examiner says 'an inference can be drawn that they acted in bad faith' (p. 7). This is a civil finding in the bankruptcy case, not a criminal charge. Checked against page image.",
+    "checked": "FIXED",
+    "checker_note": "Claim tightened: the examiner's conclusion covers only the outside directors who were on the Board at the time of each approval (June 1999 for Rhythms; May-August 2000 for the three Raptors), not all outside directors. The Final Report summary (p. 11) says 'certain of the Outside Directors'. Verified against page image PDF 9."
+  },
+  {
+    "id": "B-014",
+    "topic": "Lay/Skilling: stock repayments of loans (examiner)",
+    "claim": "Batson found that between May 1999 and October 2001 Lay borrowed over $94 million from Enron and repaid it with Enron stock, and that in May 1999 Skilling repaid about $2 million of an Enron loan with stock. He concluded a fact-finder could find these repayments voidable because the Compensation Committee lacked authority under Oregon law and the Board never approved them.",
+    "quote": "Lay borrowed from Enron and repaid using shares of his Enron stock a total of over $94 million.",
+    "source_id": "batson-final-app-d",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 181,
+      "printed_page": "p. 179",
+      "section": "App. D, VII. Conclusions",
+      "lines": null
+    },
+    "source_type": "examiner conclusion",
+    "verb": "concluded",
+    "people": [
+      "Kenneth Lay",
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2003-11-04",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "If voided, Lay would owe $94,267,163 plus interest and Skilling $2,000,042 plus interest (p. 180, PDF 182). The p. 7 summary says Skilling 'repaid $2 million'; the p. 179 conclusion says 'approximately $2 million'. Checked against page image of p. 179.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-015",
+    "topic": "Lay: examiner's available evidence",
+    "claim": "Batson reports that Lay gave the examiner a one-day interview (not under oath) and had given no sworn testimony to anyone examining Enron after the bankruptcy filing.",
+    "quote": "Lay has provided no sworn testimony to any party in connection with any examination of Enron conducted after the Petition Date,",
+    "source_id": "batson-final-app-d",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 5,
+      "printed_page": "p. 3",
+      "section": "App. D, I. Introduction (Available Evidence)",
+      "lines": null
+    },
+    "source_type": "examiner conclusion",
+    "verb": "stated",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "2003-10-18",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "The interview is dated Oct. 18, 2003 (footnote 3). Checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-016",
+    "topic": "Lay: board oversight of credit line (PSI)",
+    "claim": "The Senate subcommittee found that the Board failed to monitor or halt Lay's abuse of a company-financed, multi-million-dollar personal credit line. Its report says Lay obtained over $77 million in cash this way from October 2000 to October 2001 and repaid it only with Enron stock.",
+    "quote": "failed to monitor or halt abuse by Board Chairman and Chief Executive Officer Kenneth Lay of a company-financed, multi-million dollar, personal credit line.",
+    "source_id": "rpt-psi-board",
+    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "locator": {
+      "pdf_page": 7,
+      "printed_page": "p. 3",
+      "section": "Subcommittee Findings, (5) Excessive Compensation",
+      "lines": null
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [
+      "Kenneth Lay"
+    ],
+    "event_date": "2002-07-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Detail at p. 50 (PDF 54): 'In the 1-year period from October 2000 to October 2001, Mr. Lay used the credit line to obtain over $77 million in cash from the company and repaid the loans exclusively with Enron stock.' The report says: 'the U.S. Senate Permanent Subcommittee on Investigations makes the following findings'. The manifest calls it a staff report. Lines ~267-300 and 3274-3290 of work/text/rpt-psi-board.txt.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-017",
+    "topic": "Skilling: role",
+    "claim": "According to the DOJ indictment, Skilling worked for McKinsey & Co. from 1979 to 1990, providing consulting services to Enron. Enron hired him in August 1990. He became President and COO in January 1997 and was named CEO in February 2001. On August 14, 2001 he resigned with no forewarning to the public.",
+    "quote": "On August 14, 2001, with no forewarning to the public, SKILLING resigned from Enron.",
+    "source_id": "doj-skilling-indictment",
+    "file": "sources/09-courts-doj/doj-skilling-indictment-2004.pdf",
+    "locator": {
+      "pdf_page": 3,
+      "printed_page": "p. 3",
+      "section": "Superseding Indictment, paras. 5-6 (Principal Conspirators)",
+      "lines": "94-125"
+    },
+    "source_type": "indictment allegation",
+    "verb": "alleged",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2001-08-14",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Sources differ on when Skilling became President/COO: the SEC First Amended Complaint (Feb 2004, para. 7) says December 1996; the indictment and SEC Second Amended Complaint (July 2004, para. 8) say January 1997; CA5 (p. 2) says 1997 and adds that he joined the Board then. The SEC First Amended Complaint also misprints his middle initial as 'Jeffrey A. Skilling' (para. 7). Checked against page image. line numbers refer to work/text/doj-skilling-indictment.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-018",
+    "topic": "Skilling: how he joined Enron",
+    "claim": "The Supreme Court states that Lay hired Skilling in 1990 to head an Enron subsidiary, and that Skilling rose to president and COO and, from February 2001, CEO, resigning six months later on August 14, 2001.",
+    "quote": "Skilling launched his career there in 1990 when Kenneth Lay, the company’s founder, hired him to head an Enron subsidiary.",
+    "source_id": "skilling-scotus-2010",
+    "file": "sources/09-courts-doj/skilling-v-us-561-us-358-2010.pdf",
+    "locator": {
+      "pdf_page": 11,
+      "printed_page": "p. 368",
+      "section": "Opinion of the Court, Part I",
+      "lines": "500-509"
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "stated",
+    "people": [
+      "Jeffrey Skilling",
+      "Kenneth Lay"
+    ],
+    "event_date": "1990",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Batson App. D (p. 12, PDF 14) says he joined 'the Enron Finance unit, a division reportedly created for him' (citing press). CA5 (p. 2) says he 'founded Enron's Wholesale business in 1990'. Consistent in date, different in wording. line numbers refer to work/text/skilling-scotus-2010.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-019",
+    "topic": "Skilling: SEC allegations",
+    "claim": "The SEC alleged (February 2004) that Skilling, Causey and others ran a scheme to defraud from at least 1999 through late 2001, manipulating Enron's reported financial results and making false and misleading public statements, and profited through insider trading and other means.",
+    "quote": "Skilling, Causey, and others made millions of dollars, by unlawful insider trading and other means, at the expense of Enron shareholders, the investing public, and Enron employees.",
+    "source_id": "sec-skilling-causey-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-skilling-causey-complaint-2004.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "First Amended Complaint, para. 1 (Summary)",
+      "lines": "27"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Jeffrey Skilling",
+      "Richard Causey"
+    ],
+    "event_date": "2004-02-19",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Civil Action No. H-04-0284 (Harmon). Spotlight: 'SEC Charges Jeffrey K. Skilling ... With Fraud (Litigation Release No. 18582, Feb. 19, 2004)'. Lay was added later in the Second Amended Complaint (July 2004). The library does not show how the SEC's civil case against Skilling ended. line numbers refer to work/text/sec-skilling-causey-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-020",
+    "topic": "Skilling: SEC allegations (money)",
+    "claim": "The SEC alleged that between 1998 and 2001 Skilling received about $200 million from sales of Enron stock, netting over $89 million in profit, plus more than $14 million in salary and bonuses.",
+    "quote": "Between 1998 and 2001, Skilling received approximately $200 million from the sale of Enron stock netting over $89 million in profit, and received more than $14 million in salary and bonuses.",
+    "source_id": "sec-skilling-causey-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-skilling-causey-complaint-2004.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "First Amended Complaint, para. 15",
+      "lines": "65"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": null,
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "DISAGREEMENT: the DOJ press release of Feb 19, 2004 says the indictment alleged Skilling 'was paid more than $8 million in salary and bonuses' (vs SEC 'more than $14 million'). The SEC Second Amended Complaint (July 2004, para. 1) says Skilling made 'at least $103 million' in illicit gains. Attribute each figure to its source. line numbers refer to work/text/sec-skilling-causey-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-021",
+    "topic": "Skilling: criminal charges (Feb 2004)",
+    "claim": "A superseding indictment returned February 18, 2004 and announced February 19 charged Skilling with conspiracy to commit securities fraud, 20 counts of securities fraud, four counts of wire fraud and ten counts of insider trading. Skilling surrendered to the FBI in Houston.",
+    "quote": "charges Skilling, 50, with conspiracy to commit securities fraud, 20 counts of securities fraud, four counts of wire fraud and ten counts of insider trading.",
+    "source_id": "doj-skilling-charged-press",
+    "file": "sources/09-courts-doj/doj-press-2004-02-19-skilling-charged.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #099, Feb. 19, 2004",
+      "lines": "21-26"
+    },
+    "source_type": "government press release",
+    "verb": "charged",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2004-02-19",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Count totals changed later: CA5 (p. 15) describes the July 2004 superseding indictment as charging Skilling with 1 conspiracy count, 14 securities fraud, 4 wire fraud, 6 false representations to auditors and 10 insider trading counts. SCOTUS says 'more than 25 substantive counts'. Give the date with any count total. line numbers refer to work/text/doj-skilling-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-022",
+    "topic": "Skilling: insider trading charges",
+    "claim": "The indictment charged Skilling with ten insider-trading counts. It alleged that while he held material non-public information he sold Enron stock for total proceeds of $62,626,401.90, including 500,000 shares on September 17, 2001, after he resigned.",
+    "quote": "SKILLING sold shares of Enron stock and generated total proceeds of $62,626,401.90.",
+    "source_id": "doj-skilling-indictment",
+    "file": "sources/09-courts-doj/doj-skilling-indictment-2004.pdf",
+    "locator": {
+      "pdf_page": 51,
+      "printed_page": "p. 51",
+      "section": "Counts Thirty-One through Forty (Insider Trading: Skilling), para. 82",
+      "lines": "2127-2166"
+    },
+    "source_type": "indictment allegation",
+    "verb": "charged",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2001-09-17",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Quote corrected from the noisy text layer and checked against page image p. 51. The figure matches the SEC complaint para. 64 ($62,626,401.90). The Sept 17, 2001 sale appears as Count 40 (p. 52). line numbers refer to work/text/doj-skilling-indictment.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker. Image-checked PDF 51-52. Reminder for writers: at trial Skilling was convicted on one insider-trading count and acquitted on nine (B-025)."
+  },
+  {
+    "id": "B-023",
+    "topic": "Skilling: sworn Senate testimony",
+    "claim": "Testifying under oath to the Senate Commerce Committee on February 26, 2002, Skilling said that when he left Enron on August 14, 2001 he did not believe the company was in financial peril and had no knowledge of wrongdoing by its employees.",
+    "quote": "When I left Enron on August 14, I did not believe the company was in financial peril",
+    "source_id": "hrg-commerce-skilling-watkins",
+    "file": "sources/05-hearings-enron/shrg-107-1141-collapse-of-enron-corp-2002-02-26.pdf",
+    "locator": {
+      "pdf_page": 23,
+      "printed_page": "p. 19",
+      "section": "Statement of Jeffrey Skilling",
+      "lines": "1296-1300"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2002-02-26",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "He also said 'I never duped Ken Lay' (p. 18, PDF 22). The oath is at lines 717-722. line numbers refer to work/text/hrg-commerce-skilling-watkins.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-024",
+    "topic": "Skilling: Fifth Amendment to examiner",
+    "claim": "Batson reports that Skilling invoked his Fifth Amendment privilege and gave the examiner neither testimony nor an interview. Skilling had given sworn testimony to a House subcommittee on February 7, 2002 and to the SEC in December 2001 and November 2002, and invoked the Fifth when the SEC sought more testimony in January 2003.",
+    "quote": "Skilling invoked his Fifth Amendment privilege and did not provide the Examiner either testimony or an interview.",
+    "source_id": "batson-final-app-d",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 5,
+      "printed_page": "p. 3",
+      "section": "App. D, I. Introduction (Available Evidence) and nn. 7-8",
+      "lines": null
+    },
+    "source_type": "examiner conclusion",
+    "verb": "stated",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2003",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-025",
+    "topic": "Skilling: trial verdict",
+    "claim": "In May 2006 a jury found Skilling guilty of nineteen counts (one conspiracy, twelve securities fraud, five false statements, one insider trading) and acquitted him of nine insider-trading counts.",
+    "quote": "In May 2006, the jury found Skilling guilty of nineteen counts: one count of conspiracy, twelve counts of securities fraud, five counts of making false statements, and one count of insider trading;",
+    "source_id": "ca5-skilling-2009",
+    "file": "sources/09-courts-doj/ca5-us-v-skilling-2009.pdf",
+    "locator": {
+      "pdf_page": 15,
+      "printed_page": "p. 15",
+      "section": "II. Trial and Sentence",
+      "lines": "547-550"
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "was convicted",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2006-05",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "SCOTUS (p. 375, PDF 18) agrees: 'guilty of 19 counts ... and not guilty of 9 insider-trading counts' after a four-month trial. Before trial the government dropped four counts involving Causey and, at the close of its case, four more (CA5 p. 15). line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-026",
+    "topic": "Skilling: sentence",
+    "claim": "The district court sentenced Skilling to 292 months in prison, three years of supervised release and $45 million in restitution.",
+    "quote": "The district court sentenced Skilling to 292 months’ imprisonment, three years’ supervised release, and $45 million in restitution.",
+    "source_id": "ca5-skilling-2009",
+    "file": "sources/09-courts-doj/ca5-us-v-skilling-2009.pdf",
+    "locator": {
+      "pdf_page": 16,
+      "printed_page": "p. 16",
+      "section": "II. Trial and Sentence",
+      "lines": "562-563"
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "stated",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2006",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "292 months is about 24 years 4 months (arithmetic, not from the source). This sentence was later vacated by CA5 (see next card). The library does not contain the resentencing or its result. line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-027",
+    "topic": "Skilling: Fifth Circuit appeal (2009)",
+    "claim": "On January 6, 2009 the Fifth Circuit affirmed all of Skilling's convictions but vacated his sentence and sent the case back for resentencing, because the district court wrongly applied a sentencing enhancement for jeopardizing a 'financial institution'.",
+    "quote": "Accordingly, we AFFIRM Skilling’s convictions in all respects. We VACATE Skilling’s sentence and REMAND for resentencing.",
+    "source_id": "ca5-skilling-2009",
+    "file": "sources/09-courts-doj/ca5-us-v-skilling-2009.pdf",
+    "locator": {
+      "pdf_page": 104,
+      "printed_page": "p. 104",
+      "section": "IX. Conclusion (and VIII sentencing discussion)",
+      "lines": "3996-4001"
+    },
+    "source_type": "court holding",
+    "verb": "held",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2009-01-06",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-028",
+    "topic": "Skilling: Supreme Court (2010)",
+    "claim": "On June 24, 2010 the Supreme Court held that the honest-services fraud statute covers only bribery and kickback schemes. Because the government never alleged Skilling took bribes or kickbacks, his conspiracy conviction was flawed insofar as it rested on that theory. The Court also held that pretrial publicity did not deny him a fair trial. It affirmed in part, vacated in part, and remanded.",
+    "quote": "554 F. 3d 529, afﬁrmed in part, vacated in part, and remanded.",
+    "source_id": "skilling-scotus-2010",
+    "file": "sources/09-courts-doj/skilling-v-us-561-us-358-2010.pdf",
+    "locator": {
+      "pdf_page": 9,
+      "printed_page": "p. 366",
+      "section": "Syllabus, Held 1 and (c)",
+      "lines": "389-423"
+    },
+    "source_type": "court holding",
+    "verb": "held",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2010-06-24",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "IMPORTANT: The Court did NOT reverse his conviction outright. It left for the lower court 'whether the error here was harmless' and 'whether reversal on the conspiracy count would touch any of Skilling's other convictions' (Syllabus p. 366; opinion p. 414, PDF 57). The library does not show what happened on remand. Do not say his convictions were overturned. Syllabus is not part of the opinion; the opinion's own holding is at p. 414. line numbers refer to work/text/skilling-scotus-2010.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-029",
+    "topic": "Fastow: role",
+    "claim": "According to the SEC, Andrew Fastow was Enron's Chief Financial Officer from March 1998 to October 24, 2001, and senior vice president, finance, from January 1997 to March 1998.",
+    "quote": "Fastow was Enron's Chief Financial Officer from March 1998 to October 24, 2001, and was senior vice president, finance, from January 1997 to March 1998.",
+    "source_id": "sec-fastow-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-fastow-complaint-2002.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Complaint, para. 7 (Defendant)",
+      "lines": "43"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Andrew Fastow"
+    ],
+    "event_date": "1998-03",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/sec-fastow-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-030",
+    "topic": "Fastow: SEC allegations",
+    "claim": "The SEC charged Fastow on October 2, 2002, alleging he ran a scheme to defraud Enron's security holders and enrich himself, involving undisclosed side deals, sham transactions, inflated investment values and backdated documents.",
+    "quote": "Fastow's fraudulent conduct involved entering into undisclosed side deals, manufacturing of earnings through sham transactions, inflating the value of Enron's investments, backdating documents, and other illegal acts.",
+    "source_id": "sec-fastow-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-fastow-complaint-2002.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Complaint, para. 1 (Summary)",
+      "lines": "27"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Andrew Fastow"
+    ],
+    "event_date": "2002-10-02",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Date from Spotlight: 'Andrew S. Fastow (Litigation Release No. 17762 ... Oct. 2, 2002)'; page footer 'Modified: 10/02/2002'. Spotlight also lists an earlier 'Subpoena Enforcement Action against Andrew S. Fastow (Litigation Release No. 17270, Dec. 13, 2001)'. line numbers refer to work/text/sec-fastow-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-031",
+    "topic": "Fastow: SEC allegation (kickbacks through Kopper)",
+    "claim": "The SEC alleged that Fastow had Kopper channel kickbacks to him and his family as 'gifts' of $10,000, totaling about $125,000 between December 1997 and February 2000, from the RADR 'Friends of Enron' deal.",
+    "quote": "In all, records reflect that Kopper arranged \"gift\" payments totaling approximately $125,000 to Fastow and his family between December 1997 and February 2000.",
+    "source_id": "sec-fastow-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-fastow-complaint-2002.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Complaint, paras. 20-21 (RADR)",
+      "lines": "77-79"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Andrew Fastow",
+      "Michael Kopper"
+    ],
+    "event_date": "1997-12",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/sec-fastow-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-032",
+    "topic": "Fastow: SEC settlement",
+    "claim": "The SEC's Enron index lists a January 14, 2004 release titled 'SEC Settles Civil Fraud Charges Filed Against Andrew S. Fastow'.",
+    "quote": "SEC Settles Civil Fraud Charges Filed Against Andrew S. Fastow, Former Enron Chief Financial Officer ( Litigation Release No. 18543 , Jan. 14, 2004)",
+    "source_id": "sec-enron-spotlight",
+    "file": "sources/04-sec-enforcement/sec-enron-spotlight-index.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Enron-Related Enforcement Actions list",
+      "lines": "80"
+    },
+    "source_type": "government press release",
+    "verb": "stated",
+    "people": [
+      "Andrew Fastow"
+    ],
+    "event_date": "2004-01-14",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Title only; terms of the settlement are not in the library. line numbers refer to work/text/sec-enron-spotlight.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-033",
+    "topic": "Fastow: criminal outcome (as of 2004)",
+    "claim": "A DOJ press release of February 19, 2004 lists Fastow among nine defendants 'convicted to date' in the Enron Task Force cases. A July 8, 2004 release again lists him as convicted.",
+    "quote": "Nine defendants have been convicted to date, including Andrew Fastow, the former CFO,",
+    "source_id": "doj-skilling-charged-press",
+    "file": "sources/09-courts-doj/doj-press-2004-02-19-skilling-charged.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #099, Feb. 19, 2004, closing paragraph",
+      "lines": "157-161"
+    },
+    "source_type": "government press release",
+    "verb": "was convicted",
+    "people": [
+      "Andrew Fastow"
+    ],
+    "event_date": "2004-02-19",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "GAP: the library does not say whether Fastow pleaded guilty or was tried, what he was convicted of, or his sentence. Say only that DOJ reported him as convicted by February 2004. CA5 (p. 15) shows he testified as a government witness at Skilling's trial. line numbers refer to work/text/doj-skilling-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-034",
+    "topic": "Fastow: witness at Skilling trial",
+    "claim": "The Fifth Circuit notes that Fastow testified as a government witness at the Skilling-Lay trial, and that Skilling challenged his credibility.",
+    "quote": "He also challenged the veracity of the government’s witnesses, such as Fastow and Glisan.",
+    "source_id": "ca5-skilling-2009",
+    "file": "sources/09-courts-doj/ca5-us-v-skilling-2009.pdf",
+    "locator": {
+      "pdf_page": 15,
+      "printed_page": "p. 15",
+      "section": "II. Trial and Sentence",
+      "lines": "540-546"
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "stated",
+    "people": [
+      "Andrew Fastow",
+      "Ben Glisan Jr.",
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2006",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-035",
+    "topic": "Fastow: Powers testimony on his gains",
+    "claim": "Testifying on February 12, 2002, William Powers said his committee found that Fastow received at least $30 million and Kopper at least $10 million from the partnerships.",
+    "quote": "Fastow got at least $30 million, Michael Kopper at least $10 million,",
+    "source_id": "hrg-commerce-lay-powers",
+    "file": "sources/05-hearings-enron/shrg-107-773-collapse-of-enron-2002-02-12.pdf",
+    "locator": {
+      "pdf_page": 31,
+      "printed_page": "p. 27",
+      "section": "Statement of William C. Powers, Jr.",
+      "lines": "1789-1795"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Andrew Fastow",
+      "Michael Kopper",
+      "William Powers Jr."
+    ],
+    "event_date": "2002-02-12",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The transcript does not show Powers being sworn (unlike Lay earlier that day). Say 'Powers told the committee', not 'under oath'. The underlying finding is the Powers Report's (Reader A's source). line numbers refer to work/text/hrg-commerce-lay-powers.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-036",
+    "topic": "Fastow: Fifth Amendment to examiner",
+    "claim": "Batson lists Fastow, Lea Fastow, Glisan, Kopper, Causey, McMahon and others among more than twenty former Enron officers and employees who invoked the Fifth Amendment in response to the examiner's subpoenas.",
+    "quote": "more than twenty of the Enron officers invoked their Fifth Amendment privilege and refused to provide testimony to the Examiner,",
+    "source_id": "batson-final-app-d",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 6,
+      "printed_page": "p. 4",
+      "section": "App. D, I. Introduction, and n. 10",
+      "lines": null
+    },
+    "source_type": "examiner conclusion",
+    "verb": "stated",
+    "people": [
+      "Andrew Fastow",
+      "Lea Fastow",
+      "Ben Glisan Jr.",
+      "Michael Kopper",
+      "Richard Causey",
+      "Jeffrey McMahon"
+    ],
+    "event_date": "2003",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "The list is in footnote 10 (p. 4). It also names David Delainey, Kenneth D. Rice, Lou L. Pai and others. Checked against page image. Pleading the Fifth is not evidence of guilt.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-037",
+    "topic": "Kopper: role",
+    "claim": "According to the SEC, Michael Kopper held various positions at Enron from about 1994 to July 2001, mostly reporting to the CFO. From January 2000 to July 2001 he was also a managing director of LJM2 Capital Management. In late July 2001 he left to run LJM2 Co-Investment, buying entities from the CFO for about $16.5 million.",
+    "quote": "Kopper held various positions at Enron from approximately 1994 through July 2001. For most of that time, Kopper reported to Enron's Chief Financial Officer (\"CFO\").",
+    "source_id": "sec-kopper-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-kopper-complaint-2002.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Complaint, para. 8 (Defendant)",
+      "lines": "44"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Michael Kopper"
+    ],
+    "event_date": "2001-07",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The Kopper complaint refers to Fastow only as 'Enron's CFO'; the Fastow complaint (para. 9) names Fastow. The Skilling indictment (p. 5) calls Kopper 'former Enron Global Finance Managing Director'. line numbers refer to work/text/sec-kopper-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-038",
+    "topic": "Kopper: SEC allegations",
+    "claim": "The SEC alleged that Kopper, with others, took part in a self-enriching scheme to defraud Enron's security holders through off-balance-sheet entities (RADR, Chewco and Southampton), in violation of Section 10(b) and Rule 10b-5.",
+    "quote": "The defendant Michael J. Kopper, a former employee of Enron Corp., engaged, along with others, in a self-enriching scheme to defraud Enron's security holders through the use of certain off-balance-sheet entities.",
+    "source_id": "sec-kopper-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-kopper-complaint-2002.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Complaint, para. 1 (Summary)",
+      "lines": "26"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Michael Kopper"
+    ],
+    "event_date": "2002-08-21",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Civil Action No. H-02-3127. Spotlight dates it Aug. 21, 2002 (Lit. Rel. 17692). line numbers refer to work/text/sec-kopper-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-039",
+    "topic": "Kopper: guilty plea and SEC judgment",
+    "claim": "According to the SEC's later complaint against Fastow, Kopper pleaded guilty on August 21, 2002 to conspiracy to commit wire fraud and money laundering and agreed to forfeit $4 million. In the SEC's settled case, a final judgment of August 22, 2002 ordered disgorgement (including an $8 million direct payment), enjoined him and barred him from serving as an officer or director of public companies.",
+    "quote": "On August 21, 2002, Kopper pleaded guilty to conspiracy to commit wire fraud and money laundering and agreed to forfeit $4 million in criminal proceeds.",
+    "source_id": "sec-fastow-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-fastow-complaint-2002.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "SEC v. Fastow Complaint, para. 9",
+      "lines": "49"
+    },
+    "source_type": "SEC allegation",
+    "verb": "pleaded guilty",
+    "people": [
+      "Michael Kopper"
+    ],
+    "event_date": "2002-08-21",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Source is an SEC complaint describing Kopper's plea as a matter of record, not the plea agreement itself (not in library). Attribute: 'according to the SEC'. The DOJ press release of Feb 19, 2004 also lists Kopper among defendants 'convicted to date'. GAP: Kopper's sentence is not in the library. line numbers refer to work/text/sec-fastow-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-040",
+    "topic": "Kopper: Southampton allegation",
+    "claim": "The SEC alleged that through Southampton, Kopper contributed $25,000 and received about $4.5 million; a charitable foundation in the name of the CFO's family also received about $4.5 million; and three NatWest bankers received about $7.3 million.",
+    "quote": "the three NatWest bankers who participated in the scheme received approximately $7.3 million.",
+    "source_id": "sec-kopper-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-kopper-complaint-2002.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Complaint, para. 30 (Southampton)",
+      "lines": "98"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Michael Kopper",
+      "Andrew Fastow"
+    ],
+    "event_date": "2000",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Minor disagreement between SEC complaints: Kopper complaint says Kopper caused Chewco to loan another $750,000; Fastow complaint para. 65 says $680,000. Payments were made about May 1, 2000 (Fastow complaint para. 65). line numbers refer to work/text/sec-kopper-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-041",
+    "topic": "Causey: role",
+    "claim": "According to the SEC, Richard Causey was a CPA who audited Enron for Arthur Andersen from 1986 to 1991, joined Enron in 1991, and in 1998 became Chief Accounting Officer and an Executive Vice-President. He worked at Enron through early 2002.",
+    "quote": "In 1998, Causey was made Chief Accounting Officer (\"CAO\") of Enron and an Executive Vice-President.",
+    "source_id": "sec-skilling-causey-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-skilling-causey-complaint-2004.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "First Amended Complaint, para. 8 (Defendants)",
+      "lines": "45"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Richard Causey"
+    ],
+    "event_date": "1998",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Same facts in the indictment para. 7 (p. 4). line numbers refer to work/text/sec-skilling-causey-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-042",
+    "topic": "Causey: SEC charges",
+    "claim": "The SEC's Enron index lists 'SEC Charges Richard A. Causey, Former Enron Chief Accounting Officer, with Fraud' on January 22, 2004. The First Amended Complaint (with Skilling) alleged that Causey received more than $14 million from Enron stock sales between 1998 and 2001.",
+    "quote": "SEC Charges Richard A. Causey, Former Enron Chief Accounting Officer, with Fraud ( Litigation Release No. 18551 , Jan. 22, 2004)",
+    "source_id": "sec-enron-spotlight",
+    "file": "sources/04-sec-enforcement/sec-enron-spotlight-index.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Enron-Related Enforcement Actions list",
+      "lines": "77"
+    },
+    "source_type": "government press release",
+    "verb": "charged",
+    "people": [
+      "Richard Causey"
+    ],
+    "event_date": "2004-01-22",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/sec-enron-spotlight.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-043",
+    "topic": "Causey: criminal charges",
+    "claim": "Causey was first indicted in January 2004. The February 2004 superseding indictment charged him with conspiracy, 20 counts of securities fraud, eight counts of wire fraud and two counts of insider trading. The July 2004 superseding indictment added a money laundering conspiracy count and four money laundering counts.",
+    "quote": "The new indictment also adds a money laundering conspiracy count and four counts of money laundering against Causey",
+    "source_id": "doj-lay-charged-press",
+    "file": "sources/09-courts-doj/doj-press-2004-07-08-lay-charged.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #470, July 8, 2004",
+      "lines": "~30-37"
+    },
+    "source_type": "government press release",
+    "verb": "charged",
+    "people": [
+      "Richard Causey"
+    ],
+    "event_date": "2004-07-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Feb 2004 counts from doj-skilling-charged-press lines 26-29. line numbers refer to work/text/doj-lay-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-044",
+    "topic": "Causey: guilty plea",
+    "claim": "On December 28, 2005, three weeks before the trial was set to begin, Causey pleaded guilty. The Fifth Circuit specifies one count of securities fraud.",
+    "quote": "On December 28, 2005, three weeks before the date scheduled for the commencement of trial, Causey pleaded guilty.",
+    "source_id": "skilling-scotus-2010",
+    "file": "sources/09-courts-doj/skilling-v-us-561-us-358-2010.pdf",
+    "locator": {
+      "pdf_page": 15,
+      "printed_page": "p. 372",
+      "section": "Opinion of the Court, Part I",
+      "lines": "676-677"
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "pleaded guilty",
+    "people": [
+      "Richard Causey"
+    ],
+    "event_date": "2005-12-28",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "CA5 p. 15: 'Causey pleaded guilty to one count of securities fraud'. GAP: Causey's sentence is not in the library. line numbers refer to work/text/skilling-scotus-2010.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-045",
+    "topic": "Causey: SEC settlement and bar",
+    "claim": "The SEC's Enron index lists a February 9, 2007 release: 'SEC Settles Civil Fraud Charges Filed Against Richard A. Causey ...; Causey Barred From Acting as an Officer or Director of a Public Company'.",
+    "quote": "Causey Barred From Acting as an Officer or Director of a Public Company",
+    "source_id": "sec-enron-spotlight",
+    "file": "sources/04-sec-enforcement/sec-enron-spotlight-index.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Enron-Related Enforcement Actions list (Lit. Rel. 19996, Feb. 9, 2007)",
+      "lines": "48"
+    },
+    "source_type": "government press release",
+    "verb": "stated",
+    "people": [
+      "Richard Causey"
+    ],
+    "event_date": "2007-02-09",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Title only. line numbers refer to work/text/sec-enron-spotlight.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-046",
+    "topic": "Causey: 'Global Galactic' allegation",
+    "claim": "The SEC alleged that Fastow and Enron's Chief Accounting Officer had an undisclosed 'Global Galactic' agreement that the LJM entities would not lose money on deals with Enron.",
+    "quote": "Fastow and the CAO had an undisclosed agreement which was referred to as the \"Global Galactical\" agreement or \"Global Galactic\" agreement.",
+    "source_id": "sec-fastow-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-fastow-complaint-2002.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Complaint, para. 35",
+      "lines": "115"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Andrew Fastow",
+      "Richard Causey"
+    ],
+    "event_date": "1999",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The Fastow complaint does not name the CAO, but the SEC's Skilling/Causey complaint (para. 8) identifies Causey as CAO from 1998. CA5 (p. 15) says Skilling 'questioned the validity of the so-called Global Galactic list' at trial. line numbers refer to work/text/sec-fastow-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-047",
+    "topic": "Glisan: role",
+    "claim": "According to the SEC, Ben Glisan Jr. worked at Enron from 1996 until he was terminated for cause in November 2001. A former Arthur Andersen accountant, he served as Vice President, Managing Director and treasurer, and sat on Enron's executive and management committees.",
+    "quote": "Glisan was employed by Enron Corp. from 1996 until his termination for cause in November 2001.",
+    "source_id": "sec-glisan-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-glisan-complaint-2003.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Complaint, para. 7 (Defendant)",
+      "lines": "~39"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Ben Glisan Jr."
+    ],
+    "event_date": "2001-11",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/sec-glisan-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-048",
+    "topic": "Glisan: SEC allegations",
+    "claim": "The SEC alleged (September 10, 2003) that Glisan was an active participant in sham 'prepay' transactions, the fraudulent 'sale' of Nigerian barges to Merrill Lynch, and the 'Raptor' sham hedges.",
+    "quote": "the \"Raptor\" sham hedges that permitted Enron to report over $1 billion in bogus earnings on its books.",
+    "source_id": "sec-glisan-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-glisan-complaint-2003.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Complaint, para. 1 (Summary)",
+      "lines": "~24"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Ben Glisan Jr."
+    ],
+    "event_date": "2003-09-10",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Civil Action No. H-03-3628; Lit. Rel. 18335 (Spotlight). The library does not show how the SEC case ended. line numbers refer to work/text/sec-glisan-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-049",
+    "topic": "Glisan: criminal outcome (as of 2004)",
+    "claim": "DOJ press releases of February and July 2004 list Glisan, former Enron Treasurer, among defendants 'convicted to date'.",
+    "quote": "Eleven defendants have been convicted to date, including former CFO Andrew Fastow and former Treasurer Ben Glisan.",
+    "source_id": "doj-lay-charged-press",
+    "file": "sources/09-courts-doj/doj-press-2004-07-08-lay-charged.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #470, July 8, 2004, closing paragraph",
+      "lines": "220-222"
+    },
+    "source_type": "government press release",
+    "verb": "was convicted",
+    "people": [
+      "Ben Glisan Jr.",
+      "Andrew Fastow"
+    ],
+    "event_date": "2004-07-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "GAP: the charge, whether by plea or verdict, and the sentence are not in the library. CA5 shows Glisan testified for the government at the Skilling trial. line numbers refer to work/text/doj-lay-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-050",
+    "topic": "Delainey: criminal outcome (as of 2004)",
+    "claim": "DOJ listed David Delainey, former CEO of Enron North America and Enron Energy Services, among defendants 'convicted to date' in February 2004.",
+    "quote": "former Enron North America and EES Chief Executive Officer David Delainey,",
+    "source_id": "doj-skilling-charged-press",
+    "file": "sources/09-courts-doj/doj-press-2004-02-19-skilling-charged.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "DOJ press release #099, Feb. 19, 2004",
+      "lines": "159-161"
+    },
+    "source_type": "government press release",
+    "verb": "was convicted",
+    "people": [
+      "David Delainey"
+    ],
+    "event_date": "2004-02-19",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The SEC charged Delainey Oct. 30, 2003 (Spotlight line 91). No details of plea or sentence in library. line numbers refer to work/text/doj-skilling-charged-press.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-051",
+    "topic": "Koenig: guilty plea",
+    "claim": "The Fifth Circuit notes that Mark Koenig (Enron's Director of Investor Relations) pleaded guilty to securities fraud, in part for a statement he made on Enron's January 22, 2001 earnings call with investors: that non-core business revenues were a 'fairly small' amount of Enron Broadband Services' earnings (which the government alleged was not actually the case).",
+    "quote": "Koenig pleaded guilty to securities fraud for this statement, among others.",
+    "source_id": "ca5-skilling-2009",
+    "file": "sources/09-courts-doj/ca5-us-v-skilling-2009.pdf",
+    "locator": {
+      "pdf_page": 6,
+      "printed_page": "p. 6",
+      "section": "I.A, footnote 3",
+      "lines": "185-204, 223"
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "pleaded guilty",
+    "people": [
+      "Mark Koenig"
+    ],
+    "event_date": "2001-01-22",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Role from Spotlight (line 63): 'Former Executive Vice-President and Director of Investor Relations at Enron', SEC charged Aug. 25, 2004. Date of plea not in library. line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "FIXED",
+    "checker_note": "FIXED (Round 2). The claim said the statement was made on an 'April 2001 analyst call'. The Fifth Circuit's footnote 3 is attached to Koenig's statement on the January 22, 2001 earnings call (ca5-skilling-2009 PDF pp. 5-6, lines 184-204: 'on January 22, 2001, Enron released its earnings report ... He also listened silently as Mark Koenig ... assured investors that non-core business revenues were a \"fairly small\" amount of EBS's earnings'). Corrected the date. Quote itself verbatim. Date of plea still not in library."
+  },
+  {
+    "id": "B-052",
+    "topic": "McMahon: role and SEC charge",
+    "claim": "Jeffrey McMahon testified under oath to the Senate Commerce Committee on February 26, 2002 as Enron's President and COO. The SEC's Enron index lists a June 20, 2007 release, 'SEC Charges Former Enron Executive Jeffrey McMahon'.",
+    "quote": "SEC Charges Former Enron Executive Jeffrey McMahon With Violating Federal Securities Laws",
+    "source_id": "sec-enron-spotlight",
+    "file": "sources/04-sec-enforcement/sec-enron-spotlight-index.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Enron-Related Enforcement Actions list (Lit. Rel. 20159, June 20, 2007)",
+      "lines": "43"
+    },
+    "source_type": "government press release",
+    "verb": "charged",
+    "people": [
+      "Jeffrey McMahon"
+    ],
+    "event_date": "2007-06-20",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Title at hearing: hrg-commerce-skilling-watkins lines 706-709 (PDF 14). Batson App. D p. 1 (PDF 3) says the Third Interim Report found sufficient evidence that McMahon, with Causey, Fastow and Glisan, breached fiduciary duties. The Third Interim Report is NOT in the library (known gap), so cite only App. D's summary. Outcome of SEC case not in library. line numbers refer to work/text/sec-enron-spotlight.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-053",
+    "topic": "Senior officers: examiner's earlier conclusion",
+    "claim": "Batson's Appendix D summarizes that in his Third Interim Report he found sufficient evidence for a fact-finder to conclude that senior officers including Causey, Fastow, McMahon and Glisan breached their fiduciary duties by manipulating Enron's financial statements through SPE transactions.",
+    "quote": "certain senior officers, including, among others, Causey, Fastow, McMahon and Glisan (the “Senior Officers”), breached their fiduciary duties to Enron",
+    "source_id": "batson-final-app-d",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 3,
+      "printed_page": "p. 1",
+      "section": "App. D, I. Introduction",
+      "lines": null
+    },
+    "source_type": "examiner conclusion",
+    "verb": "concluded",
+    "people": [
+      "Richard Causey",
+      "Andrew Fastow",
+      "Jeffrey McMahon",
+      "Ben Glisan Jr."
+    ],
+    "event_date": "2003-11-04",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "This is App. D's summary of the Third Interim Report (not in library). Civil standard. Checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-054",
+    "topic": "Watkins: role and background",
+    "claim": "Sherron Watkins told the Senate Commerce Committee under oath that she was an Enron Vice President and a CPA since 1983. She had spent eight years at Arthur Andersen, was hired by Fastow in 1993 to manage the JEDI partnership with CalPERS, and worked directly for Fastow from mid/late June to August 2001.",
+    "quote": "I have been a certified public accountant since 1983.",
+    "source_id": "hrg-commerce-skilling-watkins",
+    "file": "sources/05-hearings-enron/shrg-107-1141-collapse-of-enron-corp-2002-02-26.pdf",
+    "locator": {
+      "pdf_page": 14,
+      "printed_page": "p. 10",
+      "section": "Statement of Sherron Watkins",
+      "lines": "728-745"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Sherron Watkins",
+      "Andrew Fastow"
+    ],
+    "event_date": "2002-02-26",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Quote spans a line-break hyphen in the transcript ('account-/ant'); publish as 'certified public accountant since 1983'. Her title at the hearing: 'Vice President of Corporate Development' (line 706). Background continues p. 11 (PDF 15). line numbers refer to work/text/hrg-commerce-skilling-watkins.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim."
+  },
+  {
+    "id": "B-055",
+    "topic": "Watkins: anonymous letter",
+    "claim": "Watkins testified that after Skilling's resignation on August 14, 2001, she sent Lay an anonymous letter on August 15, 2001, responding to a request for questions for an August 16 all-employee meeting.",
+    "quote": "I sent Mr. Lay an anonymous letter on August 15, 2001,",
+    "source_id": "hrg-commerce-skilling-watkins",
+    "file": "sources/05-hearings-enron/shrg-107-1141-collapse-of-enron-corp-2002-02-26.pdf",
+    "locator": {
+      "pdf_page": 16,
+      "printed_page": "p. 12",
+      "section": "Statement of Sherron Watkins",
+      "lines": "818-823"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Sherron Watkins",
+      "Kenneth Lay"
+    ],
+    "event_date": "2001-08-15",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The letter's text is not reproduced in this hearing record. Senators quoted phrases from her memo (e.g., Sen. Dorgan: 'we will implode in a wave of accounting scandals', lines 1357-1358, PDF 25). If quoting those phrases, attribute them as a senator's quotation of her memo, which Watkins did not dispute; better still, find the memo in another library document. line numbers refer to work/text/hrg-commerce-skilling-watkins.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-056",
+    "topic": "Watkins: meeting with Lay",
+    "claim": "Watkins testified that she met Lay on August 22, 2001 for just over half an hour. Using her memo 'Summary of Raptor Oddities', she told him Raptor owed Enron more than $700 million under hedging agreements. Lay assured her he would look into her concerns.",
+    "quote": "My main point to Mr. Lay was that by this time Raptor owed Enron in excess of $700 million under certain hedging agreements.",
+    "source_id": "hrg-commerce-skilling-watkins",
+    "file": "sources/05-hearings-enron/shrg-107-1141-collapse-of-enron-corp-2002-02-26.pdf",
+    "locator": {
+      "pdf_page": 16,
+      "printed_page": "p. 12",
+      "section": "Statement of Sherron Watkins",
+      "lines": "833-852"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Sherron Watkins",
+      "Kenneth Lay"
+    ],
+    "event_date": "2001-08-22",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "She also said she 'fully expected Mr. Lay to conduct a thorough investigation' and was 'disappointed that such was not the case'. That is her opinion under oath. Lay did not testify (see Lay Fifth Amendment card). line numbers refer to work/text/hrg-commerce-skilling-watkins.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-057",
+    "topic": "Watkins: why she did not go to Skilling or Fastow",
+    "claim": "Watkins testified she was not comfortable confronting Skilling or Fastow, believing it would have been a job-terminating move.",
+    "quote": "To do so, I believed, would have been a job-terminating move.",
+    "source_id": "hrg-commerce-skilling-watkins",
+    "file": "sources/05-hearings-enron/shrg-107-1141-collapse-of-enron-corp-2002-02-26.pdf",
+    "locator": {
+      "pdf_page": 16,
+      "printed_page": "p. 12",
+      "section": "Statement of Sherron Watkins",
+      "lines": "813-815"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Sherron Watkins"
+    ],
+    "event_date": "2001-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "line numbers refer to work/text/hrg-commerce-skilling-watkins.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-058",
+    "topic": "Watkins: legal status",
+    "claim": "No library document shows any charge against Watkins. She appeared as a sworn witness in the Senate hearing.",
+    "quote": "",
+    "source_id": "hrg-commerce-skilling-watkins",
+    "file": "sources/05-hearings-enron/shrg-107-1141-collapse-of-enron-corp-2002-02-26.pdf",
+    "locator": {
+      "pdf_page": 14,
+      "printed_page": "p. 10",
+      "section": "Oath, lines 717-722",
+      "lines": "717-722"
+    },
+    "source_type": "sworn testimony",
+    "verb": "stated",
+    "people": [
+      "Sherron Watkins"
+    ],
+    "event_date": "2002-02-26",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Absence of evidence only: do NOT write 'never charged'. Write 'The library documents show no charges against her.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Absence-of-evidence card; no quote needed. Writers must use the exact wording 'The library documents show no charges against her.'"
+  },
+  {
+    "id": "B-059",
+    "topic": "Duncan: role",
+    "claim": "According to the SEC, David Duncan was Arthur Andersen's global engagement partner for the Enron audits from 1997 until December 2001, the senior member of the Andersen team.",
+    "quote": "Duncan served as the global engagement partner for Andersen's audits of Enron from 1997 until December 2001.",
+    "source_id": "sec-duncan-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-duncan-complaint-2008.pdf",
+    "locator": {
+      "pdf_page": 2,
+      "printed_page": "p. 2",
+      "section": "Complaint, para. 5 (Defendant)",
+      "lines": "~95-100"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "David Duncan"
+    ],
+    "event_date": "1997",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Complaint filed 01/28/2008, Case 4:08-cv-00314. Text layer is noisy; checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-060",
+    "topic": "Duncan: SEC allegation",
+    "claim": "The SEC alleged that for 1998 through 2000 Duncan was reckless in not knowing that the unqualified audit reports he signed for Andersen on Enron's financial statements were materially false and misleading. It sought an injunction against future violations of Section 10(b) and Rule 10b-5.",
+    "quote": "Duncan was reckless in not knowing that the unqualified auditor's reports he signed on behalf of Andersen were materially false and misleading.",
+    "source_id": "sec-duncan-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-duncan-complaint-2008.pdf",
+    "locator": {
+      "pdf_page": 2,
+      "printed_page": "p. 2",
+      "section": "Complaint, para. 2 (Summary)",
+      "lines": "~60-70"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "David Duncan"
+    ],
+    "event_date": "2008-01-28",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Checked against page image. Relief sought was only an injunction (p. 16).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-061",
+    "topic": "Duncan: SEC settlement",
+    "claim": "The SEC's Enron index describes SEC v. Duncan as a 'settled action' filed January 28, 2008, with a related administrative proceeding against Duncan, CPA, on January 30, 2008.",
+    "quote": "Commission Files Settled Action Against Former Arthur Andersen Partner in Connection With the Audits of Enron's Financial Statements",
+    "source_id": "sec-enron-spotlight",
+    "file": "sources/04-sec-enforcement/sec-enron-spotlight-index.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Enron-Related Enforcement Actions list (Lit. Rel. 20441; Admin. Proc. Rel. 57234)",
+      "lines": "30-32"
+    },
+    "source_type": "government press release",
+    "verb": "stated",
+    "people": [
+      "David Duncan"
+    ],
+    "event_date": "2008-01-28",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Terms not in library. Same date: administrative proceedings against Andersen CPAs Thomas H. Bauer, Michael Lowther, Michael Odom (Spotlight lines ~34-38). line numbers refer to work/text/sec-enron-spotlight.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-062",
+    "topic": "Duncan: Fifth Amendment before Congress",
+    "claim": "On January 24, 2002, appearing under subpoena and sworn before a House Energy and Commerce subcommittee investigating Andersen's destruction of Enron documents, Duncan declined on his counsel's advice to answer questions, citing his constitutional protection.",
+    "quote": "on the advice of my counsel I respectfully decline to answer the question based on the protection afforded me under the Constitution of the United States.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 31,
+      "printed_page": "p. 27",
+      "section": "Testimony of David Duncan",
+      "lines": "1789-1862"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "David Duncan"
+    ],
+    "event_date": "2002-01-24",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Transcript hyphenates 'de-/cline'; publish as 'decline'. The chairman's statement that Duncan 'was fired by Andersen' for orchestrating document destruction is a congressman's assertion, not a finding; do not state it as fact. GAP: Duncan's criminal case (if any) is not in the library. line numbers refer to work/text/hrg-hec-andersen-shredding.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim."
+  },
+  {
+    "id": "B-063",
+    "topic": "Duncan: 'push limits' note (PSI)",
+    "claim": "The Senate subcommittee report describes a handwritten note by Duncan on his talking points for the February 7, 1999 Audit Committee meeting, saying Enron's accounting practices 'push limits'. Andersen partner Thomas Bauer, through counsel, confirmed it was Duncan's handwriting and that the risk profile was discussed with the Audit Committee.",
+    "quote": "Obviously, we are on board with all of these, but many push limits and have a high ‘others could have a different view’ risk profile.",
+    "source_id": "rpt-psi-board",
+    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "locator": {
+      "pdf_page": 21,
+      "printed_page": "p. 17",
+      "section": "Factual Basis for Findings (High Risk Accounting)",
+      "lines": "1128-1160"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [
+      "David Duncan",
+      "Thomas Bauer",
+      "Robert Jaedicke"
+    ],
+    "event_date": "1999-02-07",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The report notes the talking-points copy 'was not provided to the Audit Committee during the meeting' (n. 31). Duncan did not make himself available to explain the note. Jaedicke testified he did not recall being told practices 'push limits' (see Jaedicke card). line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-064",
+    "topic": "Andersen (firm): Supreme Court",
+    "claim": "Andersen was indicted for obstruction under 18 U.S.C. 1512(b) after instructing employees to destroy documents under its retention policy. A jury convicted it and the Fifth Circuit affirmed. On May 31, 2005 the Supreme Court held that the jury instructions failed to convey the elements of the crime properly, and reversed and remanded.",
+    "quote": "The jury instructions failed to convey properly the elements of a “corrup[t] persuas[ion]” conviction under §1512(b).",
+    "source_id": "andersen-scotus",
+    "file": "sources/09-courts-doj/arthur-andersen-v-us-544-us-696-2005.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Syllabus",
+      "lines": "~15-45"
+    },
+    "source_type": "court holding",
+    "verb": "held",
+    "people": [
+      "Arthur Andersen LLP"
+    ],
+    "event_date": "2005-05-31",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Library copy is the Syllabus only; cite as 'Syllabus'. The heading reads '374 F.3d 281, reversed and remanded.' The Syllabus does not describe the firm's collapse or what happened after remand. It concerns the firm, not Duncan personally. line numbers refer to work/text/andersen-scotus.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-065",
+    "topic": "Berardino: role and testimony",
+    "claim": "Joseph Berardino, CEO of Arthur Andersen LLP, testified under oath to the House Financial Services Committee's Subcommittee on Capital Markets, Insurance, and Government Sponsored Enterprises on February 5, 2002; he referred to an earlier appearance before the committee. He announced changes, including an Independent Oversight Board chaired by Paul Volcker.",
+    "quote": "former Federal Reserve Board Chairman Paul Volcker has agreed to chair an Independent Oversight Board to work with us in the U.S.",
+    "source_id": "hrg-hfs-enron-investors",
+    "file": "sources/05-hearings-enron/hhrg-107-51-pt2-enron-collapse-investors-2002-02-04.pdf",
+    "locator": {
+      "pdf_page": 125,
+      "printed_page": "p. 119",
+      "section": "Testimony of Joseph Berardino, CEO, Arthur Andersen LLP",
+      "lines": "7498-7568"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Joseph Berardino"
+    ],
+    "event_date": "2002-02-05",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "'[Witness sworn.]' appears on p. 119. The date is inferred from the transcript: the testimony follows the 'TUESDAY, FEBRUARY 5, 2002' heading (line 6912). Document not in my brief's list; used only because Berardino is in the brief's list of people. No library document shows any charge against Berardino; do not write 'never charged'. line numbers refer to work/text/hrg-hfs-enron-investors.txt",
+    "checked": "FIXED",
+    "checker_note": "Removed '(the first was in mid-December 2001)': the library contains no transcript of Berardino's earlier appearance. The Feb 2002 transcript shows only that he said 'When I last appeared before this committee' and that members referred to a Dec 12, 2001 subcommittee hearing; it does not say Berardino testified on that date. Round 3 (Fact-Checker B): claim said 'the House Financial Services Committee'; the Feb. 5, 2002 session was held by its Subcommittee on Capital Markets, Insurance, and Government Sponsored Enterprises (hrg-hfs-enron-investors PDF 115: 'SUBCOMMITTEE ON CAPITAL MARKETS, INSURANCE, AND GOVERNMENT SPONSORED ENTERPRISES, COMMITTEE ON FINANCIAL SERVICES'). Corrected."
+  },
+  {
+    "id": "B-066",
+    "topic": "Berardino: views on audit reports",
+    "claim": "In the same testimony Berardino argued that the pass/fail auditor's report gives the same unqualified opinion to statements that 'push the edge of the accounting envelope' as to prudent ones.",
+    "quote": "Financial statements prepared by management that comply with GAAP but push the edge of the accounting envelope,",
+    "source_id": "hrg-hfs-enron-investors",
+    "file": "sources/05-hearings-enron/hhrg-107-51-pt2-enron-collapse-investors-2002-02-04.pdf",
+    "locator": {
+      "pdf_page": 126,
+      "printed_page": "p. 120",
+      "section": "Testimony of Joseph Berardino",
+      "lines": "7620-7626"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Joseph Berardino"
+    ],
+    "event_date": "2002-02-05",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Remove transcript hyphens when publishing ('management', 'accounting'). line numbers refer to work/text/hrg-hfs-enron-investors.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim."
+  },
+  {
+    "id": "B-067",
+    "topic": "Powers: role",
+    "claim": "William Powers Jr., Dean of the University of Texas Law School, told the Senate Commerce Committee on February 12, 2002 that the Enron board set up a special committee at the end of October 2001 and asked him to join the board to chair it. The committee was helped by Wilmer, Cutler & Pickering and Deloitte & Touche, and its report was filed February 2.",
+    "quote": "At the end of October, the Enron Board established a special committee to investigate these matters, and then asked me if I would join the Board for the purpose of chairing that committee",
+    "source_id": "hrg-commerce-lay-powers",
+    "file": "sources/05-hearings-enron/shrg-107-773-collapse-of-enron-2002-02-12.pdf",
+    "locator": {
+      "pdf_page": 31,
+      "printed_page": "p. 27",
+      "section": "Statement of William C. Powers, Jr.",
+      "lines": "1743-1778"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "William Powers Jr."
+    ],
+    "event_date": "2002-02-12",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "No oath is shown for Powers in the transcript. Use 'told the committee', not 'testified under oath'. line numbers refer to work/text/hrg-commerce-lay-powers.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-068",
+    "topic": "Powers: main finding as he summarized it",
+    "claim": "Powers told the committee that his investigation found a 'systematic and pervasive attempt' by Enron management to misrepresent the company's financial condition.",
+    "quote": "We found a systematic and pervasive attempt by Enron’s management to misrepresent the company’s financial condition.",
+    "source_id": "hrg-commerce-lay-powers",
+    "file": "sources/05-hearings-enron/shrg-107-773-collapse-of-enron-2002-02-12.pdf",
+    "locator": {
+      "pdf_page": 31,
+      "printed_page": "p. 27",
+      "section": "Statement of William C. Powers, Jr.",
+      "lines": "1806-1810"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "William Powers Jr."
+    ],
+    "event_date": "2002-02-12",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Remove hyphen ('condition') on publication. line numbers refer to work/text/hrg-commerce-lay-powers.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim."
+  },
+  {
+    "id": "B-069",
+    "topic": "Batson: role",
+    "claim": "Neal Batson was the court-appointed examiner in Enron's Chapter 11 case (In re Enron Corp., Case No. 01-16034 (AJG), Bankr. S.D.N.Y.). Appendix D of his Final Report covers the roles of Lay, Skilling and the outside directors.",
+    "quote": "FINAL REPORT OF NEAL BATSON, COURT-APPOINTED EXAMINER",
+    "source_id": "batson-final-app-d",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 1,
+      "printed_page": null,
+      "section": "App. D title page",
+      "lines": null
+    },
+    "source_type": "examiner conclusion",
+    "verb": "stated",
+    "people": [
+      "Neal Batson"
+    ],
+    "event_date": "2003-11-04",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Date from manifest (2003-11-04). Checked against page image (OCR misreads 'et al.' as 'ez al.').",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-070",
+    "topic": "Batson: limits of his evidence",
+    "claim": "Batson noted that his evidence on Lay, Skilling and the outside directors was limited by the lack of sworn testimony from key officers and the small amount of relevant documents. Lay and Skilling rarely used email and apparently kept few documents.",
+    "quote": "Although limited by the lack of sworn testimony from certain key officers, and by the small amount of relevant documents,",
+    "source_id": "batson-final-app-d",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 7,
+      "printed_page": "p. 5",
+      "section": "App. D, I. Introduction (Conclusions)",
+      "lines": null
+    },
+    "source_type": "examiner conclusion",
+    "verb": "stated",
+    "people": [
+      "Neal Batson",
+      "Kenneth Lay",
+      "Jeffrey Skilling"
+    ],
+    "event_date": "2003-11-04",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Good for 'how we know' boxes. Checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-071",
+    "topic": "Directors: PSI finding (fiduciary failure)",
+    "claim": "The Senate Permanent Subcommittee on Investigations found that Enron's board failed to safeguard shareholders and contributed to the collapse by allowing high-risk accounting, conflict-of-interest transactions, undisclosed off-the-books activity and excessive compensation.",
+    "quote": "The Enron Board of Directors failed to safeguard Enron shareholders and contributed to the collapse of the seventh largest public company in the United States,",
+    "source_id": "rpt-psi-board",
+    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "locator": {
+      "pdf_page": 7,
+      "printed_page": "p. 3",
+      "section": "Subcommittee Findings (1) Fiduciary Failure",
+      "lines": "~267-280"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [
+      "Outside directors"
+    ],
+    "event_date": "2002-07-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Six findings in total (fiduciary failure, high-risk accounting, conflicts of interest, off-the-books activity, excessive compensation, lack of independence), pp. 3-4 (PDF 7-8). line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-072",
+    "topic": "Directors: PSI finding (LJM conflict)",
+    "claim": "The subcommittee found the board approved an 'unprecedented arrangement' letting the CFO set up and run the LJM funds, which did business with Enron. The first LJM presentation to the board was at a special telephone meeting on June 28, 1999. The board approved LJM2 on October 12, 1999.",
+    "quote": "Despite clear conflicts of interest, the Enron Board of Directors approved an unprecedented arrangement allowing Enron’s Chief Financial Officer to establish and operate the LJM private equity funds",
+    "source_id": "rpt-psi-board",
+    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "locator": {
+      "pdf_page": 7,
+      "printed_page": "p. 3",
+      "section": "Subcommittee Findings (3); Factual Basis pp. 24, 26",
+      "lines": null
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [
+      "Outside directors",
+      "Andrew Fastow",
+      "Herbert Winokur Jr."
+    ],
+    "event_date": "1999-06-28",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "June 28, 1999: p. 24 (PDF 28), line ~1607. Oct 11, 1999 Finance Committee approval, Oct 12 board approval: p. 26 (PDF 30), lines 1744-1749. line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-073",
+    "topic": "Directors: interviewed and testified",
+    "claim": "Subcommittee staff interviewed 13 past and present directors in April 2002. All appeared voluntarily and were represented by the same counsel. On May 7, 2002, five directors testified under oath: Norman Blake Jr., John H. Duncan, Herbert Winokur Jr., Robert Jaedicke and Charles LeMaistre.",
+    "quote": "All Board members appeared voluntarily, and all were represented by the same legal counsel.",
+    "source_id": "rpt-psi-board",
+    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "locator": {
+      "pdf_page": 5,
+      "printed_page": "p. 1",
+      "section": "Subcommittee Investigation",
+      "lines": "188-199"
+    },
+    "source_type": "congressional staff report",
+    "verb": "stated",
+    "people": [
+      "Robert Belfer",
+      "Norman Blake Jr.",
+      "Ronnie Chan",
+      "John H. Duncan",
+      "Wendy Gramm",
+      "Robert Jaedicke",
+      "Charles LeMaistre",
+      "John Mendelsohn",
+      "Paulo Ferraz Pereira",
+      "Frank Savage",
+      "John Wakeham",
+      "Charls Walker",
+      "Herbert Winokur Jr."
+    ],
+    "event_date": "2002-04",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Oath: hrg-psi-board lines 1259-1269 (PDF 23). Director John H. Duncan is NOT Andersen's David Duncan; keep them distinct on the site. Blake and Winokur resigned from the board June 6, 2002 (PSI n. 1). line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim. (B-073 and B-074: printed page offset in rpt-psi-board is PDF = printed + 4.)"
+  },
+  {
+    "id": "B-074",
+    "topic": "Directors: they rejected responsibility",
+    "claim": "The subcommittee reported that all 13 interviewed directors disagreed with the Powers Report's conclusion that the board failed in its oversight, and that all five witnesses rejected any share of responsibility. It found that its investigation did not substantiate claims that the board challenged management.",
+    "quote": "The Subcommittee investigation did not substantiate the claims that the Enron Board members challenged management and asked tough questions.",
+    "source_id": "rpt-psi-board",
+    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "locator": {
+      "pdf_page": 18,
+      "printed_page": "p. 14",
+      "section": "Factual Basis for Findings",
+      "lines": "944-968"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [
+      "Outside directors"
+    ],
+    "event_date": "2002-07-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Hyphen in 'chal-lenged' comes from the transcript; remove on publication. line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim. (B-073 and B-074: printed page offset in rpt-psi-board is PDF = printed + 4.)"
+  },
+  {
+    "id": "B-075",
+    "topic": "John H. Duncan (director): testimony",
+    "claim": "Former Executive Committee chairman John H. Duncan testified that the directors worked hard, prepared for meetings and asked probing questions. He said the Powers Report and press reports indicated that certain members of management and the outside auditors had known of the company's problems and did not tell the board.",
+    "quote": "We worked hard. We prepared for meetings. We asked probing questions",
+    "source_id": "hrg-psi-board",
+    "file": "sources/05-hearings-enron/shrg-107-511-role-of-board-2002-05-07.pdf",
+    "locator": {
+      "pdf_page": 24,
+      "printed_page": "p. 14",
+      "section": "Testimony of John H. Duncan",
+      "lines": "1345-1346, 1415-1420"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "John H. Duncan"
+    ],
+    "event_date": "2002-05-07",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Printed page inferred from offset (PDF 29 = printed 19). Line 1420: 'the problems facing the company, and they did not tell us.' Director Blake used similar words ('We worked hard. We worked very hard.', line 2083). line numbers refer to work/text/hrg-psi-board.txt",
+    "checked": "FIXED",
+    "checker_note": "Locator corrected: lines 1345-1346 and 1420 are on PDF p. 24 (printed p. 14), not PDF 25 / p. 15. Claim softened: Duncan said the Powers Report and press reports 'indicate' that certain members of management and the outside auditors knew of the problems; he did not assert it from his own knowledge."
+  },
+  {
+    "id": "B-076",
+    "topic": "Winokur: role and testimony",
+    "claim": "Herbert Winokur Jr. (director 1985-2002, per PSI) chaired the Finance Committee and served on the Powers Special Committee. He testified that Enron was 'a cautionary reminder of the limits of a director's role', a part-time job.",
+    "quote": "I see it instead as a cautionary reminder of the limits of a director’s role.",
+    "source_id": "hrg-psi-board",
+    "file": "sources/05-hearings-enron/shrg-107-511-role-of-board-2002-05-07.pdf",
+    "locator": {
+      "pdf_page": 28,
+      "printed_page": "p. 18",
+      "section": "Testimony of Herbert S. Winokur, Jr.",
+      "lines": "1612-1614"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Herbert Winokur Jr."
+    ],
+    "event_date": "2002-05-07",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Role from rpt-psi-board p. 2 (PDF 6), lines 227-230. Winokur told Batson's lawyers: '[I]t's management's responsibility to tell me what I should know' (Batson App. D p. 6 n. 13, image-checked). line numbers refer to work/text/hrg-psi-board.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-077",
+    "topic": "Jaedicke: role",
+    "claim": "Robert K. Jaedicke, a former Stanford accounting professor and Dean Emeritus of Stanford Business School, chaired Enron's Audit and Compliance Committee.",
+    "quote": "Dr. Robert K. Jaedicke (1985–2001), former Chairman of the Enron Audit and Compliance Committee, is Dean Emeritus of the Stanford Business School, and a former accounting professor;",
+    "source_id": "rpt-psi-board",
+    "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+    "locator": {
+      "pdf_page": 6,
+      "printed_page": "p. 2",
+      "section": "Subcommittee Investigation (witness list)",
+      "lines": "232-235"
+    },
+    "source_type": "congressional staff report",
+    "verb": "stated",
+    "people": [
+      "Robert Jaedicke"
+    ],
+    "event_date": null,
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "DISAGREEMENT on service dates: PSI gives 1985-2001; Batson App. D chart (p. 32, PDF 34, image-checked) gives 1984 to March 2002, citing his sworn statement. Similar differences for John H. Duncan (PSI 1985-2001; Batson 1968-March 2002) and Blake (PSI 1994-2002; Batson 1993, but notes Blake testified 1994). Batson footnote 130 explains that pre-1985 dates refer to HNG or InterNorth boards. line numbers refer to work/text/rpt-psi-board.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-078",
+    "topic": "Jaedicke: testimony on 'high-risk'",
+    "claim": "Asked under oath whether Andersen told the Audit Committee Enron used high-risk accounting, Jaedicke said the committee knew Enron was engaged in high-risk and innovative transactions, but that he never heard terms like 'form over substance'.",
+    "quote": "We knew that the company was engaged in high-risk and innovative transactions.",
+    "source_id": "hrg-psi-board",
+    "file": "sources/05-hearings-enron/shrg-107-511-role-of-board-2002-05-07.pdf",
+    "locator": {
+      "pdf_page": 41,
+      "printed_page": "p. 31",
+      "section": "Questioning by Senator Levin",
+      "lines": "2403-2408, 2436-2438"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Robert Jaedicke",
+      "David Duncan"
+    ],
+    "event_date": "2002-05-07",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Remove transcript hyphen ('high-risk'). Continuation p. 32 (PDF 42): 'form over substance, I never, ever heard that term used.' Printed page assumed from the PDF 29 = printed 19 offset. line numbers refer to work/text/hrg-psi-board.txt",
+    "checked": "FIXED",
+    "checker_note": "Quote contained typesetting line-break hyphens copied from the transcript (e.g. 'account- ant'). Replaced with the words as printed, so the quote can be used as is. Wording otherwise verbatim."
+  },
+  {
+    "id": "B-079",
+    "topic": "LeMaistre and Blake: Lay's credit line",
+    "claim": "Asked by Senator Levin whether he felt he had any responsibility to monitor Lay's use of his company credit line, Compensation Committee chairman Charles LeMaistre testified under oath: 'We had never had any responsibility to monitor this.' Blake called the stock sales 'inappropriate' but avoided the word 'abuse'.",
+    "quote": "We had never had any responsibility to monitor this.",
+    "source_id": "hrg-psi-board",
+    "file": "sources/05-hearings-enron/shrg-107-511-role-of-board-2002-05-07.pdf",
+    "locator": {
+      "pdf_page": 100,
+      "printed_page": "p. 90",
+      "section": "Testimony of Charles LeMaistre (questioning by Sen. Levin)",
+      "lines": "work/text/hrg-psi-board.txt 6041-6046"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Charles LeMaistre",
+      "Norman Blake Jr.",
+      "Kenneth Lay"
+    ],
+    "event_date": "2002-05-07",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Transcript wording (hrg-psi-board PDF 100, printed p. 90). The PSI report (rpt-psi-board p. 50, PDF 54, lines 3295-3297) quotes it as 'We never had any responsibility to monitor this.' (drops 'had'); use the transcript. Witnesses sworn (hrg-psi-board lines 1259-1269). Blake's remarks are on the same page.",
+    "checked": "FIXED",
+    "checker_note": "Round 3 (Fact-Checker A): source changed from rpt-psi-board to the hearing transcript that ch7 cites; quote verified verbatim at hrg-psi-board PDF 100 (text layer); fingerprint OK."
+  },
+  {
+    "id": "B-080",
+    "topic": "Directors: examiner on outside directors' oversight",
+    "claim": "Batson concluded that the evidence does not support a conclusion that the outside directors acted in bad faith or with conscious disregard in failing to recognize and respond to red flags, though they 'may be criticized' for failing to inquire. But he found sufficient evidence for a fact-finder to conclude they breached their duty of good faith in approving the Rhythms hedge and three Raptor hedges.",
+    "quote": "the evidence does not support a conclusion that the Outside Directors acted in bad faith or with a conscious disregard for known risks in failing to recognize and respond to red flags.",
+    "source_id": "batson-final-app-d",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 8,
+      "printed_page": "p. 6",
+      "section": "App. D, I. Introduction (Conclusions)",
+      "lines": null
+    },
+    "source_type": "examiner conclusion",
+    "verb": "concluded",
+    "people": [
+      "Outside directors"
+    ],
+    "event_date": "2003-11-04",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Also said officers 'often presented information to the Board ... in ways that obfuscated the facts'. Restated at p. 179 (PDF 181). Batson also notes Enron's charter had a director exculpation provision (p. 2, n. 2), so he did not try to reach conclusions on mere negligence by directors. Checked against page image.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-081",
+    "topic": "Directors: cooperation with examiner",
+    "claim": "Batson reports that none of the outside directors invoked the Fifth Amendment when asked to testify to the examiner.",
+    "quote": "None of the Outside Directors invoked their Fifth Amendment privilege when requested to provide testimony to the Examiner.",
+    "source_id": "batson-final-app-d",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-d-lay-skilling-outside-directors-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 6,
+      "printed_page": "p. 4",
+      "section": "App. D, I. Introduction (Available Evidence)",
+      "lines": null
+    },
+    "source_type": "examiner conclusion",
+    "verb": "stated",
+    "people": [
+      "Outside directors"
+    ],
+    "event_date": "2003",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Checked against page image (PDF p. 6).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "B-082",
+    "topic": "Directors: criminal/SEC status",
+    "claim": "No library document shows criminal or SEC charges against any outside director. The SEC's Enron enforcement index lists no outside director. The library contains no document stating they were 'never charged'.",
+    "quote": "",
+    "source_id": "sec-enron-spotlight",
+    "file": "sources/04-sec-enforcement/sec-enron-spotlight-index.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Enron-Related Enforcement Actions list (whole list reviewed)",
+      "lines": "1-140"
+    },
+    "source_type": "government press release",
+    "verb": "stated",
+    "people": [
+      "Outside directors"
+    ],
+    "event_date": null,
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Absence of evidence. The site may say 'The library documents show no charges against the outside directors'; it must not say 'never charged' or discuss civil settlements (not in library). Logged as gap.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Absence-of-evidence card; no quote needed. Spotlight index reviewed: no outside director listed. Do not write 'never charged'."
+  },
+  {
+    "id": "B-083",
+    "topic": "Merrill Lynch executives: SEC charges",
+    "claim": "On March 17, 2003 the SEC charged Merrill Lynch and four executives, Daniel Bayly, Thomas Davis, Robert Furst and Schuyler Tilney, with aiding and abetting Enron's securities fraud through two December 1999 year-end transactions: the Nigerian barge 'sale' and offsetting energy option contracts. It alleged these let Enron add $60 million to fourth-quarter 1999 income.",
+    "quote": "As a result of these transactions, Enron fraudulently added $60 million to its fourth quarter 1999 income, a 30% improvement in net income.",
+    "source_id": "sec-merrill-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-merrill-lynch-complaint-2003.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Complaint, para. 1 (Summary)",
+      "lines": "~25"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Daniel Bayly",
+      "Thomas Davis",
+      "Robert Furst",
+      "Schuyler Tilney"
+    ],
+    "event_date": "2003-03-17",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The file's header reads 'Complaint / February 12, 2003', but it is signed 'Dated: March ___, 2003', modified 03/17/2003, and listed in Spotlight as Mar. 17, 2003 (Lit. Rel. 18038). Use March 17, 2003. line numbers refer to work/text/sec-merrill-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-084",
+    "topic": "Merrill Lynch executives: roles (per SEC)",
+    "claim": "The SEC complaint describes Davis as Executive Vice President and head of the Corporate and Institutional Client Group; Bayly as Global Head, then Chairman, of Investment Banking; Tilney as head of the Houston office of the energy group; and Furst as the Enron relationship manager. It says Davis, Tilney and Furst asserted the Fifth Amendment in SEC testimony.",
+    "quote": "Furst was a Managing Director of Merrill Lynch and, during the relevant period in 1999 and 2000, was the Enron relationship manager for the investment bank.",
+    "source_id": "sec-merrill-complaint",
+    "file": "sources/04-sec-enforcement/sec-v-merrill-lynch-complaint-2003.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Complaint, paras. 9-12 (Defendants)",
+      "lines": "~40-47"
+    },
+    "source_type": "SEC allegation",
+    "verb": "alleged",
+    "people": [
+      "Daniel Bayly",
+      "Thomas Davis",
+      "Robert Furst",
+      "Schuyler Tilney"
+    ],
+    "event_date": "2003-03-17",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Brief says to cover the Merrill executives only as the SEC complaint names them. Spotlight also lists 'Robert S. Furst, et al. (Litigation Release No. 21523, May 11, 2010)' with no description; outcome unknown from library. line numbers refer to work/text/sec-merrill-complaint.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-085",
+    "topic": "Merrill barge criminal case (unnamed defendants)",
+    "claim": "The Fifth Circuit's Skilling opinion says the government tried two Enron employees and four Merrill Lynch employees over the Nigerian barge deal. The jury acquitted one Enron employee and convicted the other five. In United States v. Brown (2006) the Fifth Circuit reversed the Merrill employees' convictions on honest-services grounds.",
+    "quote": "The government tried two Enron employees and four Merrill Lynch employees.",
+    "source_id": "ca5-skilling-2009",
+    "file": "sources/09-courts-doj/ca5-us-v-skilling-2009.pdf",
+    "locator": {
+      "pdf_page": 19,
+      "printed_page": "p. 19",
+      "section": "III (discussion of United States v. Brown), footnote 12",
+      "lines": "690-716"
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "stated",
+    "people": [
+      "Merrill Lynch employees (unnamed)"
+    ],
+    "event_date": "2006",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "CAUTION: the library does NOT name these defendants. Do not link Bayly, Davis, Furst or Tilney to this trial or reversal without a library source. Logged as gap. Also note that CA5 (p. 60) mentions government plea agreements with Merrill Lynch and CIBC (companies). line numbers refer to work/text/ca5-skilling-2009.txt",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "B-086",
+    "topic": "JPMorgan Chase and Citigroup: SEC settlements",
+    "claim": "On July 28, 2003, without admitting or denying the allegations, J.P. Morgan Chase agreed to pay $135 million and Citigroup $120 million ($101 million Enron-related) to settle SEC charges that they helped Enron disguise loans ('prepays') as operating cash flow.",
+    "quote": "Without admitting or denying the Commission’s allegations, J.P. Morgan Chase consented to the entry of a final judgment",
+    "source_id": "sec-jpm-citi-press",
+    "file": "sources/04-sec-enforcement/sec-press-2003-87-jpmorgan-citigroup.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "SEC Press Release 2003-87",
+      "lines": "raw line with press text (after 'Washington, D.C., July 28, 2003')"
+    },
+    "source_type": "government press release",
+    "verb": "stated",
+    "people": [
+      "J.P. Morgan Chase",
+      "Citigroup"
+    ],
+    "event_date": "2003-07-28",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Institutions, not individuals; included for context. No individual bankers are named in this release.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  }
+]

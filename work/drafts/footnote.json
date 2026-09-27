@@ -1,0 +1,1727 @@
+{
+  "title": "The Footnote: Note 16, \"Related Party Transactions,\" from Enron's 2000 Form 10-K",
+  "source": {
+    "source_id": "enron-10k-2000",
+    "file": "sources/03-sec-filings/enron-10k-fy2000.txt",
+    "document": "Enron Corp. Form 10-K for fiscal year 2000 (annual report filed with the SEC; signed March 30, 2001)",
+    "section": "Notes to Consolidated Financial Statements, Note 16, Related Party Transactions",
+    "lines": "5863-5962 (paragraph line ranges given per paragraph)",
+    "signed_date_cite": {
+      "source_id": "enron-10k-2000",
+      "file": "sources/03-sec-filings/enron-10k-fy2000.txt",
+      "pdf_page": null,
+      "loc": "Enron 2000 Form 10-K, signature page (line 6345)",
+      "quote": "this Report has been signed below on March 30,"
+    },
+    "verbatim_note": "Text copied exactly from the library file. Lines within each paragraph are joined, and runs of spaces (the filing's double spaces after periods) are collapsed to single spaces. Nothing else is changed, including the original's stray comma in '$371 million, merchant assets'.",
+    "sha256_checked": true,
+    "factcheck": "Note 16 text re-checked word for word against sources/03-sec-filings/enron-10k-fy2000.txt lines 5863-5962 (and context lines 5134-5143) by the Fact-Checker: matches after the stated whitespace normalization."
+  },
+  "intro": {
+    "text": "Every annual report ends with notes that explain the numbers. Note 16 of Enron's report for 2000 is about one page long. It describes deals between Enron and partnerships run by one of its own top executives. The deals were disclosed, at least to some extent, yet almost no reader could tell what was going on. Below, the note appears in full, exactly as Enron filed it. Tap or hover over a highlighted phrase to see what it said in plain English, what it left out, and what the investigations later found.",
+    "cites": [
+      {
+        "source_id": "powers-report-sec",
+        "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+        "pdf_page": 207,
+        "pdf_source_id": "powers-report",
+        "loc": "Powers Report, p. 201, VIII.E Conclusions on Disclosure (lines 7163ff. of SEC text)",
+        "quote": "the LJM partnerships, the Raptor entities, and transactions between Enron and those entities all were disclosed to some extent in Enron's public filings"
+      },
+      {
+        "source_id": "powers-report-sec",
+        "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+        "pdf_page": 203,
+        "pdf_source_id": "powers-report",
+        "loc": "Powers Report, p. 197, VIII.D.2 Adequacy of Disclosures (lines 7024ff. of SEC text)",
+        "quote": "they did not communicate the essence of the transactions in a sufficiently clear fashion to enable a reader of the financial statements to understand what was going on"
+      },
+      {
+        "source_id": "rpt-psi-board",
+        "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+        "pdf_page": 52,
+        "loc": "Senate PSI staff report, printed p. 48, Finding (4), Inadequate Public Disclosure",
+        "quote": "The 1999 and 2000 footnotes, each of which is about one page in length ... The 2000 footnote, in particular, is nearly unintelligible"
+      }
+    ],
+    "checked": "OK",
+    "checker_note": "Both Powers quotes verified verbatim."
+  },
+  "context_passages": [
+    {
+      "id": "ctx-1",
+      "lines": "5134-5136",
+      "where": "Enron 2000 Form 10-K, Note 9 (Unconsolidated Equity Affiliates), which points to Note 16",
+      "text": "In 2000 and 1999, the Related Party, as described in Note 16, contributed $33 million and $15 million, respectively, of equity to Whitewing.",
+      "annotations": [
+        {
+          "id": "ctx-01",
+          "phrase": "contributed $33 million and $15 million, respectively, of equity to Whitewing",
+          "said": "An earlier note says the Related Party put $33 million (2000) and $15 million (1999) into Whitewing.",
+          "left_out": "The note does not say how the money went in. The amounts match the Related Party's purchases of certificates in Osprey Trust and Osprey Associates, which the board's special committee lists as equity in a limited partner or an affiliate of Whitewing. No source says in so many words that these are the same payments.",
+          "found": "The board's special committee's table lists LJM purchases of Osprey certificates of $15 million (September 1999), $26 million (July 2000) and $6.5 million (October 2000). The 2000 figures add up to $32.5 million, close to the $33 million in the note.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 152,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 146, VI.B Other Transactions with LJM, table (lines 5243ff. of SEC text)",
+              "quote": "September 1999         $15       Purchase of Osprey Trust"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 152,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 146, VI.B, table (lines 5280ff. of SEC text)",
+              "quote": "July 2000              $26       Purchase of Osprey Trust"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 152,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 146, VI.B, table (lines 5283ff. of SEC text)",
+              "quote": "October 2000          $6.5       Purchase of Osprey Associates"
+            }
+          ],
+          "glossary_terms": [
+            "unconsolidated-affiliate"
+          ],
+          "checked": "FIXED",
+          "checker_note": "FIXED. 'left_out' stated as fact that the contributions were made through Osprey certificates. The Powers table (p. 146) lists LJM purchases of Osprey equity described as equity in a limited partner / an affiliate of Whitewing, and the amounts match ($15M; $26M + $6.5M = $32.5M), but no source states the link. Hedged the wording."
+        }
+      ]
+    },
+    {
+      "id": "ctx-2",
+      "lines": "5141-5143",
+      "where": "Enron 2000 Form 10-K, Note 9 (Unconsolidated Equity Affiliates), which points to Note 16",
+      "text": "In 2000, The New Power Company sold warrants convertible into common stock of The New Power Company for $50 million to the Related Party (described in Note 16).",
+      "annotations": [
+        {
+          "id": "ctx-02",
+          "phrase": "sold warrants convertible into common stock of The New Power Company for $50 million to the Related Party",
+          "said": "New Power sold the Related Party $50 million of warrants, rights to buy New Power stock.",
+          "left_out": "The price of these warrants, $10.75 per share, later became the justification for the price Enron used when it moved New Power stock into Raptor III.",
+          "found": "The board's special committee found that in July 2000, Enron sold TNPC warrants to investors \"(including LJM2) for the equivalent of $10.75 per share\". It found that Enron relied on this price for its transfer to Raptor III, even though it expected a much higher public offering price.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 121,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 115, V.C.1 The New Power Company (lines 4229ff. of SEC text)",
+              "quote": "In July 2000, Enron also sold warrants for TNPC to other investors (including LJM2) for the equivalent of $10.75 per share."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 123,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 117, V.C.2 The Creation of Raptor III (lines 4291ff. of SEC text)",
+              "quote": "its private sale of TNPC interests several months earlier at $10.75 per share was adequate support for the price of its transfer to Porcupine"
+            },
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 13, E. Investment in Enron Affiliates (line 689)",
+              "quote": "In July 2000, in a private placement, LJM2 purchased warrants exercisable for NPW stock for $50 million"
+            }
+          ],
+          "glossary_terms": [
+            "warrant"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "n": 0,
+      "kind": "heading",
+      "lines": "5863-5863",
+      "text": "16 RELATED PARTY TRANSACTIONS",
+      "annotations": [
+        {
+          "id": "fn-01",
+          "phrase": "RELATED PARTY TRANSACTIONS",
+          "said": "This is Note 16 of the notes attached to Enron's financial statements for 2000. Enron's Form 10-K, the annual report a public company files with the SEC, was signed on March 30, 2001. A related party transaction is a deal between a company and someone closely tied to it, such as one of its own officers. The rules require such deals to be disclosed because the usual assumption, that each side bargains hard for itself, may not hold.",
+          "left_out": "The heading promises an explanation of Enron's deals with insiders. The note that follows never names the partnerships, the officer, or the entities involved. It also never gives the bottom line: how much of Enron's profit these deals produced.",
+          "found": "The board's special committee (the Powers Committee) found that Enron \"failed to disclose facts that were important for an understanding of the substance of the transactions.\" The Senate subcommittee staff found the 2000 footnote \"nearly unintelligible.\" Sherron Watkins wrote to Enron's board chairman, Kenneth Lay, in August 2001 that \"the footnotes don't adequately explain the transactions,\" as quoted in the staff report. The bankruptcy examiner concluded that Enron \"failed to make appropriate disclosures of its SPE transactions to the public.\"",
+          "cites": [
+            {
+              "source_id": "enron-10k-2000",
+              "file": "sources/03-sec-filings/enron-10k-fy2000.txt",
+              "pdf_page": null,
+              "loc": "Enron 2000 Form 10-K, signature page (line 6345)",
+              "quote": "this Report has been signed below on March 30,"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 184,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 178, VIII Related-Party Disclosure Issues (lines 6381ff. of SEC text)",
+              "quote": "Overall, Enron failed to disclose facts that were important for an understanding of the substance of the transactions."
+            },
+            {
+              "source_id": "rpt-psi-board",
+              "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+              "pdf_page": 52,
+              "loc": "Senate PSI staff report, printed p. 48, Finding (4), Inadequate Public Disclosure",
+              "quote": "The 2000 footnote, in particular, is nearly unintelligible"
+            },
+            {
+              "source_id": "rpt-psi-board",
+              "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+              "pdf_page": 52,
+              "loc": "Senate PSI staff report, printed p. 48, Finding (4), quoting Watkins letter of 8/15/01",
+              "quote": "My concern is that the footnotes don't adequately explain the transactions."
+            },
+            {
+              "source_id": "batson-final",
+              "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+              "pdf_page": 6,
+              "loc": "Batson Final Report, printed p. 3, I.B Prior Reports (summarizing the Second Interim Report)",
+              "quote": "failed to make appropriate disclosures of its SPE transactions to the public under applicable disclosure standards",
+              "from_ocr": true,
+              "ocr_checked_against_image": true
+            }
+          ],
+          "glossary_terms": [
+            "related-party-transaction",
+            "form-10-k",
+            "notes-to-financial-statements"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. Batson citation image-checked (Final Report PDF 6)."
+        }
+      ]
+    },
+    {
+      "n": 1,
+      "kind": "body",
+      "lines": "5865-5871",
+      "text": "In 2000 and 1999, Enron entered into transactions with limited partnerships (the Related Party) whose general partner's managing member is a senior officer of Enron. The limited partners of the Related Party are unrelated to Enron. Management believes that the terms of the transactions with the Related Party were reasonable compared to those which could have been negotiated with unrelated third parties.",
+      "annotations": [
+        {
+          "id": "fn-02",
+          "phrase": "Enron entered into transactions with limited partnerships (the Related Party)",
+          "said": "In 1999 and 2000, Enron did business with some limited partnerships and grouped them under one label, \"the Related Party.\" A limited partnership is a kind of investment fund. A general partner runs it, and limited partners put in money.",
+          "left_out": "The partnerships were LJM Cayman, L.P. (\"LJM1\") and LJM2 Co-Investment, L.P. (\"LJM2\"). Enron had named them in earlier filings. From mid-2000 on, the financial statements used only the generic label.",
+          "found": "The board's special committee found: \"From the second quarter of 2000 forward, Enron did not identify LJM1 or LJM2 by name in the financial statement disclosures.\" After the collapse began, Enron disclosed in November 2001 that there had been 24 business relationships with LJM1 or LJM2 between June 1999 and September 2001.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 199,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 193, VIII.D.1 Enron's Disclosures (lines 6906ff. of SEC text)",
+              "quote": "From the second quarter of 2000 forward, Enron did not identify LJM1 or LJM2 by name in the financial statement disclosures, using the generic term \"Related Party\" instead."
+            },
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 10, B. General Summary of LJM Transactions (line 469)",
+              "quote": "From June 1999 through September 2001, Enron and Enron-related entities entered into 24 business relationships in which LJM1 or LJM2 participated."
+            }
+          ],
+          "glossary_terms": [
+            "limited-partnership",
+            "general-partner",
+            "related-party-transaction"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-03",
+          "phrase": "whose general partner's managing member is a senior officer of Enron",
+          "said": "The person in charge of the partnerships was a top Enron executive.",
+          "left_out": "The officer was Andrew Fastow, Enron's Chief Financial Officer (CFO), the executive responsible for its finances. The same 10-K lists Fastow as CFO in another section, but this note never connects the two. It also says nothing about what he earned from the partnerships. (Enron's proxy statement, a different document sent to shareholders, did name Fastow as managing member of LJM1's general partner.)",
+          "found": "The board's special committee found that the footnote \"did not identify Fastow\" in this or any later financial statement. It found that Fastow was enriched \"by at least $30 million\" and that he \"did not want his compensation from the LJM partnerships to be disclosed.\" In November 2001, Enron disclosed that it \"now believes that Mr. Fastow received in excess of $30 million.\" The Senate subcommittee staff found that a year after the board's Finance Committee asked for information on Fastow's LJM pay, no board member had obtained it.",
+          "cites": [
+            {
+              "source_id": "enron-10k-2000",
+              "file": "sources/03-sec-filings/enron-10k-fy2000.txt",
+              "pdf_page": null,
+              "loc": "Enron 2000 Form 10-K, Executive Officers of the Registrant (line 1504)",
+              "quote": "Andrew S. Fastow (39) Executive Vice President and Chief"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 199,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 193, VIII.D.1 Enron's Disclosures (lines 6887ff. of SEC text)",
+              "quote": "This footnote did not identify Fastow as the \"senior officer of Enron,\" nor did the financial statement disclosure in any subsequent period."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 190,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 184, VIII.C.1 Proxy Statement Disclosures (quoting the May 2000 proxy) (lines 6587ff. of SEC text)",
+              "quote": "Andrew S. Fastow, Executive Vice President and Chief Financial Officer of Enron, is the managing member of LJM1's general partner."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 9,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 3, Summary of Findings (lines 399ff. of SEC text)",
+              "quote": "Fastow by at least $30 million"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 207,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 201, VIII.E Conclusions on Disclosure (lines 7169ff. of SEC text)",
+              "quote": "Fastow made clear that he did not want his compensation from the LJM partnerships to be disclosed"
+            },
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 9, LJM section (line 425)",
+              "quote": "Enron now believes that Mr. Fastow received in excess of $30 million relating to his LJM management and investment activities."
+            },
+            {
+              "source_id": "rpt-psi-board",
+              "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+              "pdf_page": 37,
+              "loc": "Senate PSI staff report, printed p. 33, Inadequate Board Oversight of Fastow's LJM Compensation",
+              "quote": "One year later, despite the Finance Committee's directive, Dr. LeMaistre had not obtained any information about Mr. Fastow's LJM compensation."
+            }
+          ],
+          "glossary_terms": [
+            "chief-financial-officer",
+            "general-partner",
+            "proxy-statement"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. PSI p. 33 also says 'Nor had any other Board member taken any steps to obtain this information', which supports 'no board member'."
+        },
+        {
+          "id": "fn-04",
+          "phrase": "The limited partners of the Related Party are unrelated to Enron.",
+          "said": "The note says the investors in the partnerships had no ties to Enron.",
+          "left_out": "Several Enron employees secretly held financial stakes connected to the partnerships. Michael Kopper, an Enron employee who reported to Fastow, held an interest in LJM2's general partner through an entity called Big Doe. In March 2000, a partnership called Southampton Place was set up to buy part of an existing LJM1 limited partner's interest. Its investors included Fastow's family foundation, Kopper, Ben Glisan (who became Enron's Treasurer in May 2000), and other employees.",
+          "found": "The board's special committee found that this happened \"Unbeknownst to virtually everyone at Enron.\" It found that the Fastow family foundation turned a $25,000 investment into $4.5 million in about two months. The SEC alleged the same payout in its complaint against Fastow. By November 2001, Enron's own wording had softened to say the partnerships had \"a significant number of\" limited partners that were not related parties.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 98,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 92, IV.F Financial Participation of Enron Employees (lines 3427ff. of SEC text)",
+              "quote": "Unbeknownst to virtually everyone at Enron, several Enron employees had obtained, in March 2000, financial interests in the unwind transaction."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 98,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 92, IV.F (lines 3445ff. of SEC text)",
+              "quote": "Southampton's purpose was to acquire a portion of the interest held by an existing limited partner of LJM1."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 106,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 100, V.A Raptor I (lines 3700ff. of SEC text)",
+              "quote": "Ben Glisan, who became Enron's Treasurer in May 2000"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 8,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 2, Introduction (lines 364ff. of SEC text)",
+              "quote": "Chewco was managed by an Enron Global Finance employee, Kopper, who reported to Fastow."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 99,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 93, IV.F, footnote 39 (lines 3482ff. of SEC text)",
+              "quote": "As described above in Section III, Big Doe also was a limited partner of LJM2's general partner."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 22,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 16, Summary of Findings, Summary of Transactions (lines 818ff. of SEC text)",
+              "quote": "In exchange for a $25,000 investment, Fastow received (through a family foundation) $4.5 million in approximately two months."
+            },
+            {
+              "source_id": "sec-fastow-complaint",
+              "file": "sources/04-sec-enforcement/sec-v-fastow-complaint-2002.htm",
+              "pdf_page": null,
+              "loc": "SEC v. Fastow complaint (Oct. 2002), para. 65",
+              "quote": "which contributed $25,000 and received approximately $4.5 million"
+            },
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 3, LJM section (line 137)",
+              "quote": "Enron believes that the LJM partnerships have as limited partners a significant number of institutions and other investors that are not related parties to Enron."
+            }
+          ],
+          "glossary_terms": [
+            "limited-partnership",
+            "related-party-transaction"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-05",
+          "phrase": "Management believes that the terms of the transactions with the Related Party were reasonable compared to those which could have been negotiated with unrelated third parties.",
+          "said": "Enron's managers said the deals were about as good as deals with outsiders would have been. This is the claim that the deals were made \"at arm's length,\" between independent parties.",
+          "left_out": "The note does not show any evidence for the claim. It also does not show how the wording had changed over time. In its mid-1999 quarterly reports, Enron said the terms were \"reasonable and no less favorable\" than outside deals. The wording changed several times after that. In the 2000 annual report it said only that the terms were \"reasonable compared to\" what could have been negotiated.",
+          "found": "The board's special committee found that Enron \"lacked the factual basis required by the accounting literature\" for this sentence. It noted that drafts had handwritten notes reading \"need positive evidence.\" It said that \"it seems likely that many of them could only have been entered into with related parties.\" The committee also found that Andersen, Enron's auditor, told the board's Audit and Compliance Committee that the required disclosure had been \"reviewed for adequacy.\"",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 202,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 196, VIII.D.1, Assertions That Transactions Were Arm's-Length (lines 6991ff. of SEC text)",
+              "quote": "the transactions with the Related Party were reasonable compared to those which could have been negotiated with unrelated third parties"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 202,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 196, VIII.D.1 (lines 7000ff. of SEC text)",
+              "quote": "Handwritten notes next to the management assertion on drafts of the 1999 10-K read \"need positive evidence\""
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 204,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 198, VIII.D.2 Adequacy of Disclosures (lines 7048ff. of SEC text)",
+              "quote": "Enron lacked the factual basis required by the accounting literature to make the assertions in each SEC filing"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 205,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 199, VIII.D.2 (lines 7085ff. of SEC text)",
+              "quote": "it seems likely that many of them could only have been entered into with related parties"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 31,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 25, Summary of Findings, The Participants (Andersen) (lines 1100ff. of SEC text)",
+              "quote": "reviewed for adequacy,\" and that Andersen would issue an unqualified audit opinion"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 202,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 196, VIII.D.1, Assertions That Transactions Were Arm's-Length (lines 6979ff. of SEC text)",
+              "quote": "Enron stated in the 10-Q for the second and third quarters of 1999 that \"[m]anagement believes that the terms of the transactions were reasonable and no less favorable than the terms of similar arrangements with unrelated third parties.\""
+            }
+          ],
+          "glossary_terms": [
+            "arms-length",
+            "auditor",
+            "audit-committee"
+          ],
+          "checked": "FIXED",
+          "checker_note": "FIXED. The old text said the 1999 wording was 'reasonable and no less favorable' and implied a single change to the 2000 wording. Powers (p. 196, lines 6979-6993) shows that wording was in the Q2 and Q3 1999 10-Qs; the 1999 10-K actually dropped 'reasonable'; Q1 2000 restored it in another form; the 2000 10-K used 'reasonable compared to'. Rewrote to 'mid-1999 quarterly reports' and 'changed several times', and added the citation (verbatim)."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "kind": "body",
+      "lines": "5873-5900",
+      "text": "In 2000, Enron entered into transactions with the Related Party to hedge certain merchant investments and other assets. As part of the transactions, Enron (i) contributed to newly-formed entities (the Entities) assets valued at approximately $1.2 billion, including $150 million in Enron notes payable, 3.7 million restricted shares of outstanding Enron common stock and the right to receive up to 18.0 million shares of outstanding Enron common stock in March 2003 (subject to certain conditions) and (ii) transferred to the Entities assets valued at approximately $309 million, including a $50 million note payable and an investment in an entity that indirectly holds warrants convertible into common stock of an Enron equity method investee. In return, Enron received economic interests in the Entities, $309 million in notes receivable, of which $259 million is recorded at Enron's carryover basis of zero, and a special distribution from the Entities in the form of $1.2 billion in notes receivable, subject to changes in the principal for amounts payable by Enron in connection with the execution of additional derivative instruments. Cash in these Entities of $172.6 million is invested in Enron demand notes. In addition, Enron paid $123 million to purchase share-settled options from the Entities on 21.7 million shares of Enron common stock. The Entities paid Enron $10.7 million to terminate the share-settled options on 14.6 million shares of Enron common stock outstanding. In late 2000, Enron entered into share-settled collar arrangements with the Entities on 15.4 million shares of Enron common stock. Such arrangements will be accounted for as equity transactions when settled.",
+      "annotations": [
+        {
+          "id": "fn-06",
+          "phrase": "to hedge certain merchant investments and other assets",
+          "said": "Enron says these deals were hedges, a kind of protection against losses. The losses in question were on its \"merchant investments,\" stakes in other companies that Enron valued at market price every quarter. Under mark-to-market accounting, any drop in those prices reduced Enron's reported profit.",
+          "left_out": "A normal hedge moves risk to an outside party that can pay if the loss happens. The note does not say that the party on the other side was built mainly out of Enron's own assets.",
+          "found": "The board's special committee found that \"Enron still bore virtually all of the economic risk. In effect, Enron was hedging risk with itself.\" The bankruptcy examiner concluded that these were accounting hedges \"with the sole purpose of providing financial statement benefits.\" Vince Kaminski, head of Enron's research group, compared them in a sworn statement to the examiner's staff to buying house insurance from your own spouse: \"there's no effective risk transfer to a third party.\"",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 103,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 97, V. The Raptors (lines 3611ff. of SEC text)",
+              "quote": "Enron still bore virtually all of the economic risk. In effect, Enron was hedging risk with itself."
+            },
+            {
+              "source_id": "batson-final",
+              "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+              "pdf_page": 13,
+              "loc": "Batson Final Report, printed p. 10, Summary of Conclusions, footnote 17",
+              "quote": "they were accounting hedges (with the sole purpose of providing financial statement benefits) and did not provide economic protection to Enron because the assets used to support the hedge were Enron's own assets",
+              "from_ocr": true,
+              "ocr_checked_against_image": true
+            },
+            {
+              "source_id": "batson-final",
+              "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+              "pdf_page": 22,
+              "loc": "Batson Final Report, printed p. 19, footnote 41 (Kaminski sworn statement)",
+              "quote": "there's no effective risk transfer to a third party",
+              "from_ocr": true,
+              "ocr_checked_against_image": true
+            }
+          ],
+          "glossary_terms": [
+            "hedge",
+            "merchant-investment",
+            "mark-to-market"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. Batson citations image-checked (Final Report PDF 13 n. 17; PDF 22 n. 41)."
+        },
+        {
+          "id": "fn-07",
+          "phrase": "contributed to newly-formed entities (the Entities)",
+          "said": "Enron put assets into brand-new companies created for these deals. The note calls them \"the Entities.\"",
+          "left_out": "The Entities were four special purpose entities (SPEs) known inside Enron as the Raptors. Their legal names were Talon, Timberwolf, Bobcat and Porcupine. LJM2 put in a small amount of outside money ($30 million in Raptor I, for example) so that Enron could keep the Entities off its own balance sheet. One of them, Raptor III, never went to Enron's board.",
+          "found": "The board's special committee found that Enron referred to the Raptor vehicles as the \"Entities\" in this footnote. It found that Raptor III \"was not presented to the Board or to any of its Committees.\" In Raptor I, the SEC alleged, an undisclosed side deal promised LJM2 its money back plus a profit before any hedging began. If so, the outside money was never truly at risk, and the SPE should have been counted as part of Enron.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 201,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 195, VIII.D.1 Descriptions of Transactions (lines 6957ff. of SEC text)",
+              "quote": "a fairly detailed description of the contributions Enron made to the Raptor Vehicles (referred to as the \"Entities\")"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 122,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 116, V.C Raptor III (lines 4267ff. of SEC text)",
+              "quote": "Unlike the other Raptor transactions, Raptor III was not presented to the Board or to any of its Committees"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 106,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 100, V.A Raptor I (lines 3708ff. of SEC text)",
+              "quote": "LJM2 invested $30 million in cash and received a membership interest."
+            },
+            {
+              "source_id": "sec-fastow-complaint",
+              "file": "sources/04-sec-enforcement/sec-v-fastow-complaint-2002.htm",
+              "pdf_page": null,
+              "loc": "SEC v. Fastow complaint (Oct. 2002), para. 56",
+              "quote": "Pursuant to the side deal, Enron agreed that, prior to conducting any hedging activity with Talon, Enron would return to LJM2 its full investment in Talon plus a guaranteed return."
+            }
+          ],
+          "glossary_terms": [
+            "special-purpose-entity",
+            "balance-sheet",
+            "consolidation"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-08",
+          "phrase": "$150 million in Enron notes payable, 3.7 million restricted shares of outstanding Enron common stock and the right to receive up to 18.0 million shares of outstanding Enron common stock in March 2003 (subject to certain conditions)",
+          "said": "This lists what Enron gave the Entities: IOUs from Enron, Enron shares that could not be sold for a time, and contracts to receive up to 18 million more Enron shares in 2003.",
+          "left_out": "Almost everything Enron put in was its own stock or its own promise to pay. The Entities could \"pay\" Enron on the hedges only while Enron's stock price stayed high. The 18 million shares depended on Enron's stock price on March 1, 2003: below certain levels, some Raptors would receive no shares at all.",
+          "found": "The board's special committee found that the Raptors were \"funded principally with Enron's own stock (or contracts for the delivery of Enron stock).\" It found that the hedges would work \"as long as Enron's stock price remained strong.\" In her August 2001 letter to Lay, as quoted by the Senate subcommittee staff, Watkins wrote that the \"Entities\" in the footnote were \"thinly capitalized, the equity holders have no skin in the game.\"",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 19,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 13, Summary of Findings, Hedging Transactions (lines 717ff. of SEC text)",
+              "quote": "funded principally with Enron's own stock (or contracts for the delivery of Enron stock)"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 104,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 98, V. The Raptors (lines 3624ff. of SEC text)",
+              "quote": "long as Enron's stock price remained strong, and especially if it increased"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 117,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 111, V.B, footnote 52 (lines 4098ff. of SEC text)",
+              "quote": "In all, Enron sold the rights to 18 million contingent Enron shares, to be delivered in 2003"
+            },
+            {
+              "source_id": "rpt-psi-board",
+              "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+              "pdf_page": 52,
+              "loc": "Senate PSI staff report, printed p. 48, Finding (4), quoting Watkins letter of 8/15/01",
+              "quote": "described in our related party footnote are thinly capitalized, the equity holders have no skin in the game"
+            }
+          ],
+          "glossary_terms": [
+            "notes-payable",
+            "restricted-stock",
+            "common-stock"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-09",
+          "phrase": "an investment in an entity that indirectly holds warrants convertible into common stock of an Enron equity method investee",
+          "said": "Enron also handed over an indirect stake in warrants (rights to buy shares) of another company in which Enron held a large stake.",
+          "left_out": "The company was The New Power Company (TNPC), which Enron had created and owned 75% of. This piece funded Raptor III, which was meant to hedge Enron's TNPC investment using TNPC itself.",
+          "found": "In November 2001, Enron disclosed that \"Raptor III was capitalized with an economic interest in warrants convertible into stock of NPW\" (New Power). The board's special committee found that Raptor III \"held the stock of the very company whose stock it was intended to hedge.\" It called the arrangement \"the derivatives equivalent of doubling-down on a bet on TNPC.\"",
+          "cites": [
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 14, F. Portfolio SPEs (line 733)",
+              "quote": "Raptor III was capitalized with an economic interest in warrants convertible into stock of NPW."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 120,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 114, V.C Raptor III (lines 4196ff. of SEC text)",
+              "quote": "Raptor III held the stock of the very company whose stock it was intended to hedge"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 120,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 114, V.C Raptor III (lines 4202ff. of SEC text)",
+              "quote": "the derivatives equivalent of doubling-down on a bet on TNPC"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 121,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 115, V.C.1 The New Power Company (lines 4221ff. of SEC text)",
+              "quote": "Enron owned a 75% interest."
+            }
+          ],
+          "glossary_terms": [
+            "warrant",
+            "equity-method",
+            "derivative"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-10",
+          "phrase": "$309 million in notes receivable, of which $259 million is recorded at Enron's carryover basis of zero",
+          "said": "Enron received $309 million in IOUs. It kept $259 million of that on its books at zero, because the asset it gave up had been carried on its books at zero.",
+          "left_out": "The $259 million IOU came from Porcupine, the Raptor III entity, in exchange for TNPC stock. Enron priced that stock at $10.75 a share. Five days earlier, it had told employees the expected public offering price was $18 to $20.",
+          "found": "The board's special committee found that Enron \"received a note from Porcupine for $259 million, which Enron recorded at zero.\" It found that Enron did not obtain a fairness opinion, an outside expert's view on whether the price was fair. It noted that five days earlier, Enron had told employees that the expected price range was \"$18.00 to $20.00 per share.\"",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 123,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 117, V.C.2 The Creation of Raptor III (lines 4287ff. of SEC text)",
+              "quote": "Enron received a note from Porcupine for $259 million, which Enron recorded at zero because it had essentially no basis in the TNPC stock sold to Porcupine."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 123,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 117, V.C.2 (lines 4289ff. of SEC text)",
+              "quote": "Enron did not obtain a fairness opinion with respect to the transaction."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 123,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 117, V.C.2 (lines 4298ff. of SEC text)",
+              "quote": "the current estimated price range [for the shares] is $18.00 to $20.00 per share"
+            }
+          ],
+          "glossary_terms": [
+            "notes-receivable",
+            "basis",
+            "fairness-opinion",
+            "initial-public-offering"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-11",
+          "phrase": "a special distribution from the Entities in the form of $1.2 billion in notes receivable",
+          "said": "The note says Enron received another $1.2 billion in IOUs from the Entities.",
+          "left_out": "The note does not say how these IOUs were recorded, or that the Entities could repay them mainly out of the Enron stock Enron had given them.",
+          "found": "The investigations do not tie this exact $1.2 billion figure to one transaction. The board's special committee did find a related error. Enron had recorded the $172 million note it received for Enron shares sold to Talon (Raptor I) as an increase to \"notes receivable\" and to shareholders' equity, the owners' stake shown on the balance sheet. It made similar entries for $828 million of notes from Raptors II and IV in March 2001. Andersen and Enron later concluded that this was wrong. Correcting it removed $1 billion ($172 million plus $828 million) from shareholders' equity, and that correction made up most of the $1.2 billion cut to shareholders' equity that Enron announced in October 2001. The sources do not say whether that $1.2 billion and the $1.2 billion in this sentence are the same.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 131,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 125, V.E Unwind of the Raptors (lines 4571ff. of SEC text)",
+              "quote": "in exchange for a $172 million promissory note, as an increase to \"notes receivable\" and to \"shareholders' equity.\""
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 132,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 126, V.E (lines 4589ff. of SEC text)",
+              "quote": "the proper accounting for these transactions would have been to show the notes receivable as a reduction to shareholders' equity"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 104,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 98, V. The Raptors (lines 3647ff. of SEC text)",
+              "quote": "Enron also reported that same day that it would reduce shareholder equity by $1.2 billion."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 132,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 126, V.E, footnote 60 (lines 4600ff. of SEC text)",
+              "quote": "One billion dollars of this reduction was due to correcting the overstatement of shareholders' equity that had been discovered in August."
+            }
+          ],
+          "glossary_terms": [
+            "notes-receivable",
+            "shareholders-equity"
+          ],
+          "checked": "FIXED",
+          "checker_note": "FIXED. The old text said the $172 million correction was 'separate from the $1.2 billion cut to shareholders' equity that Enron announced in October 2001.' The Powers Report says the opposite: the $172M (Raptor I) + $828M (Raptors II and IV) correction made up $1 billion of that $1.2 billion reduction (p. 98, lines 3647-3651; pp. 125-126 and n. 60, lines 4569-4612). Rewrote the last sentences and added the n. 60 citation (verbatim)."
+        },
+        {
+          "id": "fn-12",
+          "phrase": "Cash in these Entities of $172.6 million is invested in Enron demand notes.",
+          "said": "The Entities' cash was lent back to Enron, repayable whenever the Entities asked.",
+          "left_out": "Even the Entities' cash was a claim on Enron. If Enron ran into trouble, this cash would not be an independent cushion.",
+          "found": "Watkins made a related point about the whole structure in her August 2001 letter, as quoted by the Senate subcommittee staff. She wrote that \"all the value in the entities comes from the underlying value of the derivatives\" and from \"Enron stock and N/P.\" (N/P is standard shorthand for notes payable, meaning Enron's IOUs. The explanation is ours.)",
+          "cites": [
+            {
+              "source_id": "rpt-psi-board",
+              "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+              "pdf_page": 52,
+              "loc": "Senate PSI staff report, printed p. 48, Finding (4), quoting Watkins letter of 8/15/01",
+              "quote": "all the value in the entities comes from the underlying value of the derivatives (unfortunately in this case, a big loss) AND Enron stock and N/P."
+            }
+          ],
+          "glossary_terms": [
+            "demand-note",
+            "notes-payable"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-13",
+          "phrase": "Enron paid $123 million to purchase share-settled options from the Entities on 21.7 million shares of Enron common stock",
+          "said": "Enron paid the Entities $123 million for options on its own shares.",
+          "left_out": "These were put options, contracts that pay off if a stock falls. In effect, Enron was betting that its own stock would drop. Their real purpose was to send cash to LJM2. In each of three Raptors, Enron paid a $41 million premium. Three times $41 million is $123 million, though that arithmetic is ours: the committee does not say these are the same payments. The money went to LJM2 before any hedging began.",
+          "found": "The board's special committee found that the note did not disclose \"that Enron purchased puts on Enron stock\". It found that the deal was \"on its face, predicated on the assumption that its stock price would decline substantially.\" It also found that LJM2 reported a 193% annualized return on Raptor I. The SEC alleged there was \"no true business purpose for the put option other than to generate funds to pay LJM2.\"",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 205,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 199, VIII.D.2 Adequacy of Disclosures (lines 7091ff. of SEC text)",
+              "quote": "What it did not disclose, however, was that Enron purchased puts on Enron stock."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 206,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 200, VIII.D.2 (lines 7122ff. of SEC text)",
+              "quote": "on its face, predicated on the assumption that its stock price would decline substantially"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 119,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 113, V.B Raptors II and IV (lines 4152ff. of SEC text)",
+              "quote": "Enron paid Raptor II's SPE, \"Timberwolf,\" and Raptor IV's SPE, \"Bobcat,\" $41 million each for share-settled put options."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 109,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 103, V.A Raptor I (lines 3811ff. of SEC text)",
+              "quote": "To create the required $41 million of income for distribution to LJM2, Enron purchased from Talon a put option on Enron stock for a premium of $41 million."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 110,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 104, V.A Raptor I (lines 3862ff. of SEC text)",
+              "quote": "an annualized rate of return that LJM2 calculated in a report to its investors at 193%"
+            },
+            {
+              "source_id": "sec-fastow-complaint",
+              "file": "sources/04-sec-enforcement/sec-v-fastow-complaint-2002.htm",
+              "pdf_page": null,
+              "loc": "SEC v. Fastow complaint (Oct. 2002), para. 57",
+              "quote": "There was no true business purpose for the put option other than to generate funds to pay LJM2 under the undisclosed side deal."
+            }
+          ],
+          "glossary_terms": [
+            "put-option",
+            "option",
+            "share-settled"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-14",
+          "phrase": "The Entities paid Enron $10.7 million to terminate the share-settled options",
+          "said": "The options were ended early, and the Entities paid Enron $10.7 million to cancel them.",
+          "left_out": "Ending the options early freed the Entities to pay LJM2 and then to start \"hedging\" for Enron. In Raptor I, Talon returned only $4 million of the $41 million premium to Enron but still paid LJM2 the full $41 million.",
+          "found": "The board's special committee found that Talon \"returned $4 million of the $41 million option premium to Enron, but nevertheless paid LJM2 $41 million.\" It found that Raptors II and IV followed the same pattern. The committee's report does not break down the $10.7 million total, so we cannot match it to specific payments.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 110,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 104, V.A Raptor I (lines 3860ff. of SEC text)",
+              "quote": "Talon returned $4 million of the $41 million option premium to Enron, but nevertheless paid LJM2 $41 million."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 119,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 113, V.B Raptors II and IV (lines 4154ff. of SEC text)",
+              "quote": "As in Raptor I, the put options were settled early, and each of the entities then distributed approximately $41 million to LJM2."
+            }
+          ],
+          "glossary_terms": [
+            "option",
+            "share-settled"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-15",
+          "phrase": "share-settled collar arrangements with the Entities on 15.4 million shares of Enron common stock. Such arrangements will be accounted for as equity transactions when settled.",
+          "said": "Enron put \"collars\" on its own shares held by the Entities. If Enron's stock fell below a floor, Enron would make up the difference. If it rose above a ceiling, the Entities would pay Enron. Because these deals involved Enron's own stock, they were booked as equity transactions and did not pass through profit and loss.",
+          "left_out": "The collars were added because Enron's falling stock price was shrinking the Entities' ability to pay Enron. They also undercut the reason the shares had been valued at a discount in the first place: the shares were supposed to be restricted. Board members later said they had not been told about the first collar.",
+          "found": "The board's special committee found that the October 30, 2000 collar for Raptor I (floor $81, ceiling $116) \"protected Talon's credit capacity against possible future declines in Enron stock.\" It found that the collars \"effectively lifted the restriction\" that had justified the discount. Board members told the Senate subcommittee staff that they had not been told about the October 2000 \"collar.\"",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 116,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 110, V.A Raptor I (lines 4055ff. of SEC text)",
+              "quote": "This protected Talon's credit capacity against possible future declines in Enron stock."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 116,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 110, V.A, footnote 51 (lines 4065ff. of SEC text)",
+              "quote": "Because the collar was indexed to Enron's own stock and met certain accounting criteria, Enron was not required to mark it to market."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 120,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 114, V.B Raptors II and IV (lines 4188ff. of SEC text)",
+              "quote": "The collars, however, effectively lifted the restriction."
+            },
+            {
+              "source_id": "rpt-psi-board",
+              "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+              "pdf_page": 51,
+              "loc": "Senate PSI staff report, printed p. 47, Finding (4), The Raptors",
+              "quote": "They said they had not been told about the October 2000 \"collar\""
+            }
+          ],
+          "glossary_terms": [
+            "collar",
+            "credit-capacity",
+            "equity-transaction"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "kind": "body",
+      "lines": "5902-5913",
+      "text": "In 2000, Enron entered into derivative transactions with the Entities with a combined notional amount of approximately $2.1 billion to hedge certain merchant investments and other assets. Enron's notes receivable balance was reduced by $36 million as a result of premiums owed on derivative transactions. Enron recognized revenues of approximately $500 million related to the subsequent change in the market value of these derivatives, which offset market value changes of certain merchant investments and price risk management activities. In addition, Enron recognized $44.5 million and $14.1 million of interest income and interest expense, respectively, on the notes receivable from and payable to the Entities.",
+      "annotations": [
+        {
+          "id": "fn-16",
+          "phrase": "derivative transactions with the Entities with a combined notional amount of approximately $2.1 billion",
+          "said": "Enron signed derivative contracts with the Entities covering about $2.1 billion of investments. A derivative is a contract whose value depends on something else, such as a stock price. The \"notional amount\" is the size of the investments the contracts refer to. It is not money that changed hands.",
+          "left_out": "The note does not compare this $2.1 billion with what the Entities actually had available to pay Enron.",
+          "found": "The board's special committee found that by November 2000, the derivatives with Raptors I, II and III had \"a notional value of over $1.5 billion.\" In November 2001, Enron disclosed a notional amount of \"approximately $1.9 billion.\" The three figures cover different periods and groupings, and the sources do not reconcile them.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 125,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 119, V.D Raptor Restructuring (lines 4343ff. of SEC text)",
+              "quote": "By November 2000, Enron had entered into derivative transactions with Raptors I, II and III with a notional value of over $1.5 billion."
+            },
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 14, F. Portfolio SPEs (line 738)",
+              "quote": "hedge Enron's risk in certain investments having an aggregate notional amount of approximately $1.9 billion."
+            }
+          ],
+          "glossary_terms": [
+            "derivative",
+            "notional-amount"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-17",
+          "phrase": "Enron recognized revenues of approximately $500 million related to the subsequent change in the market value of these derivatives",
+          "said": "Enron counted about $500 million of revenue from gains on these contracts.",
+          "left_out": "The note does not say how much of Enron's total profit came from these deals.",
+          "found": "The board's special committee found that Raptor \"earnings\" were more than 80% of Enron's reported pre-tax earnings for the last two quarters of 2000. From the third quarter of 2000 through the third quarter of 2001, the Raptors let Enron avoid reporting \"almost $1 billion in losses.\" Without them, pre-tax earnings for that period would have been $429 million instead of $1.5 billion, a decline of 72%. The bankruptcy examiner concluded that virtually all of Enron's $979 million of 2000 net income came from six accounting techniques, including these hedges.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 20,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 14, Summary of Findings (lines 747ff. of SEC text)",
+              "quote": "\"Earnings\" from the Raptors accounted for more than 80% of that total."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 105,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 99, V. The Raptors (lines 3661ff. of SEC text)",
+              "quote": "allowed Enron to avoid reflecting on its income statement almost $1 billion in losses on its merchant investments"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 105,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 99, V. The Raptors (lines 3670ff. of SEC text)",
+              "quote": "Enron's pre-tax earnings for that period would have been $429 million, a decline of 72%"
+            },
+            {
+              "source_id": "batson-final",
+              "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+              "pdf_page": 42,
+              "loc": "Batson Final Report, printed p. 39, IV.A Role of Andersen in Enron's SPE Transactions",
+              "quote": "virtually all of Enron's $979 million of net income and $3 billion of funds flow from operating activities for the year 2000",
+              "from_ocr": true,
+              "ocr_checked_against_image": true
+            },
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 11, Table 2, note (a) (line 588)",
+              "quote": "The pre-tax earnings impact of transactions with LJM2 through the Raptor SPEs was approximately $532 million in 2000"
+            }
+          ],
+          "glossary_terms": [
+            "revenue",
+            "pre-tax-earnings",
+            "net-income"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. Batson citation image-checked (Final Report PDF 42). The same page gives Andersen's 2000 fees as $47.9 million."
+        },
+        {
+          "id": "fn-18",
+          "phrase": "which offset market value changes of certain merchant investments and price risk management activities",
+          "said": "The gains on the contracts cancelled out losses on Enron's investments, so the losses did not reduce profit.",
+          "left_out": "The gains counted only if the Entities could actually pay Enron. By the end of 2000, two of them could not. The note does not mention the problem or the stopgap Enron used to avoid recording a loss.",
+          "found": "The board's special committee found that by mid-December 2000, Raptors I and III had negative \"credit capacity.\" Enron pooled all four Raptors under a 45-day cross-guarantee dated December 22, 2000, and \"did not record a reserve for the year ending December 31, 2000.\" The committee saw \"no evidence that Enron's Board was informed.\" The hedges failed in 2001, and on October 16, 2001, Enron announced a $544 million after-tax charge.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 126,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 120, V.D.1 Fourth Quarter 2000 Temporary Fix (lines 4381ff. of SEC text)",
+              "quote": "A 45-day cross-guarantee agreement, dated December 22, 2000, essentially merged the credit capacity of all four Raptors."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 126,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 120, V.D.1 (lines 4386ff. of SEC text)",
+              "quote": "We have seen no evidence that Enron's Board was informed of either the credit capacity problem or the solution selected to resolve that problem."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 126,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 120, V.D.1 (lines 4388ff. of SEC text)",
+              "quote": "Enron did not record a reserve for the year ending December 31, 2000."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 104,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 98, V. The Raptors (lines 3643ff. of SEC text)",
+              "quote": "it incurred the after-tax charge of $544 million ($710 million pre-tax) that Enron disclosed on October 16, 2001"
+            }
+          ],
+          "glossary_terms": [
+            "credit-capacity",
+            "reserve",
+            "price-risk-management"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. Note for writers: the $544 million after-tax figure is Enron's Oct 16, 2001 announcement (Powers p. 98). Enron's Q3 10-Q later put the Raptor charge at $462 million after tax (10-Q line 3673); the $710 million pre-tax figure is not disputed."
+        },
+        {
+          "id": "fn-19",
+          "phrase": "Enron recognized $44.5 million and $14.1 million of interest income and interest expense",
+          "said": "Enron earned interest on the IOUs the Entities owed it, and paid interest on the IOUs it owed them.",
+          "left_out": "The interest income depended on the same Entities, whose ability to pay rested largely on Enron's own stock.",
+          "found": "The board's special committee counted interest as part of the Raptors' contribution. It found that Enron \"recognized pre-tax earnings of $532 million (including net interest income)\" from the Raptors in the last two quarters of 2000.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 20,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 14, Summary of Findings (lines 745ff. of SEC text)",
+              "quote": "recognized pre-tax earnings of $532 million (including net interest income)"
+            }
+          ],
+          "glossary_terms": [
+            "interest-income"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "kind": "body",
+      "lines": "5915-5939",
+      "text": "In 1999, Enron entered into a series of transactions involving a third party and the Related Party. The effect of the transactions was (i) Enron and the third party amended certain forward contracts to purchase shares of Enron common stock, resulting in Enron having forward contracts to purchase Enron common shares at the market price on that day, (ii) the Related Party received 6.8 million shares of Enron common stock subject to certain restrictions and (iii) Enron received a note receivable, which was repaid in December 1999, and certain financial instruments hedging an investment held by Enron. Enron recorded the assets received and equity issued at estimated fair value. In connection with the transactions, the Related Party agreed that the senior officer of Enron would have no pecuniary interest in such Enron common shares and would be restricted from voting on matters related to such shares. In 2000, Enron and the Related Party entered into an agreement to terminate certain financial instruments that had been entered into during 1999. In connection with this agreement, Enron received approximately 3.1 million shares of Enron common stock held by the Related Party. A put option, which was originally entered into in the first quarter of 2000 and gave the Related Party the right to sell shares of Enron common stock to Enron at a strike price of $71.31 per share, was terminated under this agreement. In return, Enron paid approximately $26.8 million to the Related Party.",
+      "annotations": [
+        {
+          "id": "fn-20",
+          "phrase": "In 1999, Enron entered into a series of transactions involving a third party and the Related Party.",
+          "said": "In 1999, Enron made a set of linked deals with an outside company and with the Related Party.",
+          "left_out": "This was the \"Rhythms\" deal. Enron had invested $10 million in Rhythms NetConnections, an internet company, and the stake had grown to about $300 million. Enron was not allowed to sell it yet. The Related Party here was LJM1, working through an SPE called LJM Swap Sub. The \"third party\" was an investment bank that held contracts on Enron shares with Enron.",
+          "found": "The board's special committee found that Rhythms \"was the first time that Enron transferred its own stock to an SPE and used the SPE to 'hedge' an Enron merchant investment\". It found that the board approved the deal at the same time it approved Fastow's role in LJM1. The Senate subcommittee staff found that the board approved it \"with little study or debate\" at a meeting that lasted one hour.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 83,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 77, IV.A Origin of the Transaction (lines 2905ff. of SEC text)",
+              "quote": "By May 1999, Enron's investment in Rhythms was worth approximately $300 million"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 85,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 79, IV.B Structure of the Transaction (lines 2969ff. of SEC text)",
+              "quote": "The parties to the transaction were Enron, LJM1, and LJM Swap Sub L.P. (\"Swap Sub\")."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 84,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 78, IV.A (lines 2924ff. of SEC text)",
+              "quote": "forward contracts (to purchase a specified number of Enron shares at a fixed price) that Enron had with an investment bank"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 83,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 77, IV. Rhythms NetConnections (lines 2885ff. of SEC text)",
+              "quote": "It was the first time that Enron transferred its own stock to an SPE and used the SPE to \"hedge\" an Enron merchant investment."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 85,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 79, IV.A (lines 2963ff. of SEC text)",
+              "quote": "The Board voted to approve the transaction at the same time it approved Fastow's role in LJM1."
+            },
+            {
+              "source_id": "rpt-psi-board",
+              "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+              "pdf_page": 29,
+              "loc": "Senate PSI staff report, printed p. 25, Board Approval of LJM With Few Questions Asked",
+              "quote": "the Board ratified the code of conduct waiver and approved the LJM1 proposal with little study or debate"
+            }
+          ],
+          "glossary_terms": [
+            "special-purpose-entity",
+            "lock-up"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. PSI p. 25 confirms 'the entire meeting lasted 1 hour'."
+        },
+        {
+          "id": "fn-21",
+          "phrase": "Enron and the third party amended certain forward contracts to purchase shares of Enron common stock",
+          "said": "Enron changed some contracts it had with the bank to buy Enron shares at a fixed future price (forward contracts).",
+          "left_out": "The purpose was to put to use the rise in value of Enron's own shares under those contracts. Accounting rules do not let a company count that kind of rise as income.",
+          "found": "The board's special committee found that \"a company is generally precluded from recognizing an increase in value of its own stock\" as income. It found that Enron \"sought to use what it viewed as this 'trapped' or 'embedded' value.\"",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 84,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 78, IV.A Origin of the Transaction (lines 2926ff. of SEC text)",
+              "quote": "Under generally accepted accounting principles, a company is generally precluded from recognizing an increase in value of its own stock (including forward contracts) as income. Enron sought to use what it viewed as this \"trapped\" or \"embedded\" value."
+            }
+          ],
+          "glossary_terms": [
+            "forward-contract",
+            "gaap"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-22",
+          "phrase": "the Related Party received 6.8 million shares of Enron common stock subject to certain restrictions",
+          "said": "LJM1 received Enron shares that it could not freely sell.",
+          "left_out": "The note does not give their value, the discount, or what LJM1 paid.",
+          "found": "The board's special committee found that the shares were worth about $276 million at market. They were discounted by about 39% because of the restrictions, and LJM1 gave Enron a $64 million note in exchange. The committee counts 3.4 million shares, while the 10-K says 6.8 million. The committee labels its later share counts \"post-split,\" and the board meeting that approved the deal also took up resolutions authorizing a stock split. The 10-K therefore probably uses the post-split number. No library source states the split ratio.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 86,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 80, IV.B Structure of the Transaction (lines 2995ff. of SEC text)",
+              "quote": "these shares had a value of approximately $276 million"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 86,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 80, IV.B (lines 2999ff. of SEC text)",
+              "quote": "The value of the shares was discounted by approximately $108 million (or 39%) to account for the restriction."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 86,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 80, IV.B (lines 3001ff. of SEC text)",
+              "quote": "In exchange for these Enron shares, LJM1 gave Enron a note (due on March 31, 2000) for $64 million."
+            },
+            {
+              "source_id": "rpt-psi-board",
+              "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+              "pdf_page": 29,
+              "loc": "Senate PSI staff report, printed p. 25, Board Approval of LJM With Few Questions Asked",
+              "quote": "resolutions authorizing a major stock split"
+            }
+          ],
+          "glossary_terms": [
+            "restricted-stock",
+            "stock-split"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-23",
+          "phrase": "certain financial instruments hedging an investment held by Enron",
+          "said": "Enron received contracts meant to protect one of its investments.",
+          "left_out": "The investment was the Rhythms stock. The protection rested on the Enron shares Enron had just handed over. The note does not say how much income this produced.",
+          "found": "The board's special committee found that if the SPE had to pay Enron, \"the transferred Enron stock would be the principal source of payment.\" It found that Enron recognized $95 million after tax from the deal in 1999. In November 2001, Enron concluded that the SPE should have been part of its own books all along. It restated, cutting 1999 net income by $95 million.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 19,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 13, Summary of Findings, Hedging Transactions (lines 711ff. of SEC text)",
+              "quote": "If the SPE were required to pay Enron on the Rhythms options, the transferred Enron stock would be the principal source of payment."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 20,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 14, Summary of Findings (lines 740ff. of SEC text)",
+              "quote": "In 1999, Enron recognized after-tax income of $95 million from the Rhythms transaction"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 22,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 16, Summary of Findings (lines 799ff. of SEC text)",
+              "quote": "This retroactive consolidation decreased Enron's reported net income by $95 million (of $893 million total) in 1999"
+            }
+          ],
+          "glossary_terms": [
+            "hedge",
+            "restatement",
+            "consolidation"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-24",
+          "phrase": "the Related Party agreed that the senior officer of Enron would have no pecuniary interest in such Enron common shares",
+          "said": "The note says the officer (Fastow) would not benefit financially from these Enron shares. \"Pecuniary interest\" means a financial stake.",
+          "left_out": "The note says nothing about whether the promise was kept.",
+          "found": "The board's special committee found that Fastow's participation in Southampton Place \"was inconsistent with his representation to the Board.\" He had represented that he would not receive any \"current or future (appreciated) value\" of the Enron stock. The SEC alleged that Fastow was \"prohibited from having any direct pecuniary interest\" in the shares, yet helped devise a plan to capture their rising value.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 98,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 92, IV.F Financial Participation of Enron Employees (lines 3430ff. of SEC text)",
+              "quote": "Fastow's participation was inconsistent with his representation to the Board that he would not receive any \"current or future (appreciated) value\" of Enron stock in the Rhythms transaction."
+            },
+            {
+              "source_id": "sec-fastow-complaint",
+              "file": "sources/04-sec-enforcement/sec-v-fastow-complaint-2002.htm",
+              "pdf_page": null,
+              "loc": "SEC v. Fastow complaint (Oct. 2002), para. 62",
+              "quote": "Fastow was prohibited from having any direct pecuniary interest in Enron's stock held by LJM1."
+            }
+          ],
+          "glossary_terms": [
+            "pecuniary-interest",
+            "code-of-conduct"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-25",
+          "phrase": "A put option, which was originally entered into in the first quarter of 2000 and gave the Related Party the right to sell shares of Enron common stock to Enron at a strike price of $71.31 per share, was terminated under this agreement.",
+          "said": "Enron had given the Related Party the right to sell Enron shares back to Enron at $71.31 each. That right was cancelled as part of ending the deal.",
+          "left_out": "The note does not say that Enron gave this right away for nothing, or that it was already worth money on the day it was signed.",
+          "found": "The board's special committee found that on March 8, 2000, Enron gave Swap Sub a put on 3.1 million shares at $71.31, and that \"Swap Sub did not pay any option premium or provide any other consideration.\" Enron's stock closed at $67.19 that day, so the put was worth about $12.8 million immediately.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 94,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 88, IV.E.1 Negotiations (lines 3279ff. of SEC text)",
+              "quote": "Swap Sub did not pay any option premium or provide any other consideration in exchange for the put."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 94,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 88, IV.E.1 (lines 3281ff. of SEC text)",
+              "quote": "the put was therefore \"in the money\" to Swap Sub by $4.12 per share (or approximately $12.8 million intrinsic value)"
+            }
+          ],
+          "glossary_terms": [
+            "put-option",
+            "strike-price",
+            "in-the-money"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-26",
+          "phrase": "In return, Enron paid approximately $26.8 million to the Related Party.",
+          "said": "To end the Rhythms arrangements, Enron paid the Related Party about $26.8 million.",
+          "left_out": "The note does not say who ended up with the money or whether the price was fair.",
+          "found": "The sources give different payment figures. The board's special committee found that the price was based on a $30 million proposal from Fastow, that Enron paid a net $16.7 million after offsets, and that Swap Sub received \"approximately $27 million cash.\" The committee found that the value Enron gave up exceeded what it got back \"by more than $70 million.\" It found no fairness opinion and no evidence that the board was told. The SEC alleged that the $30 million price rested on Fastow's \"false representation\" about what the banks had agreed to take. According to the SEC, NatWest received only $1 million, and much of the rest went to Fastow, Kopper, some bankers, and Southampton investors.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 94,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 88, IV.E.1 Negotiations (lines 3290ff. of SEC text)",
+              "quote": "Fastow subsequently came back to Causey with a proposal that Swap Sub receive $30 million from Enron"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 95,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 89, IV.E.2, footnote 35 (lines 3337ff. of SEC text)",
+              "quote": "The $16.7 million payment was calculated as follows"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 96,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 90, IV.E.3 Financial Results (lines 3351ff. of SEC text)",
+              "quote": "(and receiving approximately $27 million cash)"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 97,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 91, IV.E.3 (lines 3381ff. of SEC text)",
+              "quote": "exceeded the value Enron received ($161 million in restricted Enron shares) by more than $70 million"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 95,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 89, IV.E.3 (lines 3327ff. of SEC text)",
+              "quote": "Enron did not seek or obtain a fairness opinion on the unwind. We have not identified any evidence that the Board or any Board Committee was informed of the transaction."
+            },
+            {
+              "source_id": "sec-fastow-complaint",
+              "file": "sources/04-sec-enforcement/sec-v-fastow-complaint-2002.htm",
+              "pdf_page": null,
+              "loc": "SEC v. Fastow complaint (Oct. 2002), para. 65",
+              "quote": "The balance of the funds went to Fastow, Kopper and other investors in an entity called Southampton Place LP"
+            },
+            {
+              "source_id": "sec-fastow-complaint",
+              "file": "sources/04-sec-enforcement/sec-v-fastow-complaint-2002.htm",
+              "pdf_page": null,
+              "loc": "SEC v. Fastow complaint (Oct. 2002), para. 64",
+              "quote": "That purchase price was based on Fastow's false representation to Enron that NatWest and CSFB had agreed to sell their interests in Swap Sub for $20 million and $10 million, respectively. In fact, NatWest received only $1 million"
+            }
+          ],
+          "glossary_terms": [
+            "fairness-opinion",
+            "unwind"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "kind": "body",
+      "lines": "5941-5944",
+      "text": "In 2000, Enron sold a portion of its dark fiber inventory to the Related Party in exchange for $30 million cash and a $70 million note receivable that was subsequently repaid. Enron recognized gross margin of $67 million on the sale.",
+      "annotations": [
+        {
+          "id": "fn-27",
+          "phrase": "In 2000, Enron sold a portion of its dark fiber inventory to the Related Party in exchange for $30 million cash and a $70 million note receivable that was subsequently repaid.",
+          "said": "\"Dark fiber\" is fiber-optic cable that has been laid but not yet switched on. Enron sold some to the Related Party for $100 million: $30 million in cash and a $70 million IOU that was later repaid.",
+          "left_out": "The buyer was LJM2, on June 30, 2000, the last day of the quarter. The note does not say where the repayment came from. In December 2000, LJM2 sold the remaining fiber to another SPE and used part of the proceeds to repay Enron. At that point, Enron took on a new exposure: a derivative that supported some of that SPE's lenders.",
+          "found": "The board's special committee found that \"There was substantial pressure to close the transaction so that EBS could meet its second quarter numbers.\" (EBS was Enron Broadband Services.) It found that Fastow, negotiating for LJM2, pressed Enron's own team for better terms. It called this \"the fundamental dilemma of the Company's CFO serving concurrently as the managing partner.\" In November 2001, Enron disclosed that the $70 million credit exposure \"was replaced with $61 million in remaining exposure under the derivative contract.\"",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 149,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 143, VI.A.6 Backbone (lines 5168ff. of SEC text)",
+              "quote": "There was substantial pressure to close the transaction so that EBS could meet its second quarter numbers."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 151,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 145, VI.A.6 (lines 5210ff. of SEC text)",
+              "quote": "the fundamental dilemma of the Company's CFO serving concurrently as the managing partner of a business transacting with the Company"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 150,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 144, VI.A.6 (lines 5179ff. of SEC text)",
+              "quote": "But as the negotiations were nearing a conclusion in late June, Fastow inserted himself in the process."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 216,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, Appendix B (Timeline, January-June 2000), timeline p. 2 (line 7494 of SEC text)",
+              "quote": "6/30/2000      Purchase - Backbone"
+            },
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 11, C. Sale of Assets (line 628)",
+              "quote": "LJM2 sold the remaining dark fiber for $113 million in December 2000 to an SPE that was formed to acquire the fiber."
+            },
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 11, C. Sale of Assets (line 635)",
+              "quote": "Enron's credit exposure under the $70 million note was replaced with $61 million in remaining exposure under the derivative contract."
+            }
+          ],
+          "glossary_terms": [
+            "dark-fiber",
+            "notes-receivable",
+            "quarter-end"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. Quote verbatim (text file has a page break inside it)."
+        },
+        {
+          "id": "fn-28",
+          "phrase": "Enron recognized gross margin of $67 million on the sale.",
+          "said": "Enron booked a $67 million profit on the sale (gross margin is the sale price minus the cost of what was sold).",
+          "left_out": "The note does not say that the buyer was a partnership run by Enron's own CFO, or that the sale closed on the last day of a quarter.",
+          "found": "The sources disagree on the amount. Enron's November 2001 filing repeats \"$67 million in pre-tax earnings.\" The board's special committee says Enron \"recorded a $54 million gain.\" Neither source explains the difference. The committee also noted that the Enron team believed they got a good result and that the fiber was later sold to industry participants.",
+          "cites": [
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 11, C. Sale of Assets (line 623)",
+              "quote": "Enron recognized $67 million in pre-tax earnings in 2000 related to the asset sale."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 151,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 145, VI.A.6 Backbone (lines 5206ff. of SEC text)",
+              "quote": "Enron recorded a $54 million gain as a result of the transaction with LJM2."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 151,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 145, VI.A.6 (lines 5205ff. of SEC text)",
+              "quote": "The EBS business people involved in the transaction believe they obtained a good result for EBS"
+            }
+          ],
+          "glossary_terms": [
+            "gross-margin"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "kind": "body",
+      "lines": "5946-5955",
+      "text": "In 2000, the Related Party acquired, through securitizations, approximately $35 million of merchant investments from Enron. In addition, Enron and the Related Party formed partnerships in which Enron contributed cash and assets and the Related Party contributed $17.5 million in cash. Subsequently, Enron sold a portion of its interests in the partnerships through securitizations. See Note 3. Also, Enron contributed a put option to a trust in which the Related Party and Whitewing hold equity and debt interests. At December 31, 2000, the fair value of the put option was a $36 million loss to Enron.",
+      "annotations": [
+        {
+          "id": "fn-29",
+          "phrase": "the Related Party acquired, through securitizations, approximately $35 million of merchant investments from Enron",
+          "said": "The Related Party bought about $35 million of Enron's investments, packaged into securities. A securitization pools assets and sells investors shares in the pool.",
+          "left_out": "The note does not say which investments were sold, or that Enron later bought many of them back.",
+          "found": "The board's special committee found that the assets \"were not specifically identified in the disclosures\" and that Enron had a policy against naming counterparties. It wrote: \"Even after months of investigation, and with access to Enron's information, we remain uncertain as to what transactions some of the disclosures refer.\" In November 2001, Enron disclosed that in six of nine SPE investments by LJM, \"Enron repurchased all or a portion.\" The committee found that the footnotes \"failed to mention that Enron repurchased some of these assets.\"",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 200,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 194, VIII.D.1 Descriptions of Transactions (lines 6940ff. of SEC text)",
+              "quote": "These assets were not specifically identified in the disclosures"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 203,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 197, VIII.D.2 Adequacy of Disclosures (lines 7027ff. of SEC text)",
+              "quote": "Even after months of investigation, and with access to Enron's information, we remain uncertain as to what transactions some of the disclosures refer."
+            },
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 12, D. Purchases of Equity/Debt in Enron-Sponsored SPEs (line 656)",
+              "quote": "In six of these nine transactions, Enron repurchased all or a portion of the equity and debt initially purchased by LJM."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 206,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 200, VIII.D.2 (lines 7124ff. of SEC text)",
+              "quote": "the footnote disclosures failed to mention that Enron repurchased some of these assets--sometimes within a matter of months"
+            }
+          ],
+          "glossary_terms": [
+            "securitization",
+            "merchant-investment",
+            "counterparty"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-30",
+          "phrase": "Enron contributed a put option to a trust in which the Related Party and Whitewing hold equity and debt interests",
+          "said": "Enron gave a trust a put option, a promise to buy something at a set price if asked. The Related Party and \"Whitewing\" had invested in the trust. By year-end, this put was a $36 million loss for Enron.",
+          "left_out": "The note never explains what Whitewing is. Whitewing was a partnership between Enron and Osprey Trust, which was owned by outside financial institutions. Enron did not include it in its own financial statements. LJM bought Osprey certificates several times in 1999 and 2000.",
+          "found": "In November 2001, Enron disclosed that Osprey Trust \"is a limited partner in Whitewing Associates, L.P., an Enron unconsolidated affiliate\" and that \"Enron is the other partner.\" The bankruptcy examiner concluded that in these \"Share Trust\" structures, repayment \"was supported by Enron stock and ultimately by Enron's promise to pay.\" The library sources we checked do not identify the specific trust or put option in this sentence.",
+          "cites": [
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 12, D. Purchases of Equity/Debt (line 663)",
+              "quote": "Osprey Trust is beneficially-owned by a number of financial institutions and is a limited partner in Whitewing Associates, L.P., an Enron unconsolidated affiliate (\"Whitewing\"). Enron is the other partner."
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 152,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 146, VI.B Other Transactions with LJM, table (lines 5280ff. of SEC text)",
+              "quote": "July 2000              $26       Purchase of Osprey Trust"
+            },
+            {
+              "source_id": "batson-final",
+              "file": "sources/02-bankruptcy-examiner/batson-final-report-2003-11-04.pdf",
+              "pdf_page": 23,
+              "loc": "Batson Final Report, printed p. 20, III.A Overview, Share Trust Transactions",
+              "quote": "Repayment of the notes and certificates was supported by Enron stock and ultimately by Enron's promise to pay.",
+              "from_ocr": true,
+              "ocr_checked_against_image": true
+            }
+          ],
+          "glossary_terms": [
+            "put-option",
+            "unconsolidated-affiliate",
+            "trust"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types. Batson citation image-checked (Final Report PDF 23)."
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "kind": "body",
+      "lines": "5957-5962",
+      "text": "In 1999, the Related Party acquired approximately $371 million, merchant assets and investments and other assets from Enron. Enron recognized pre-tax gains of approximately $16 million related to these transactions. The Related Party also entered into an agreement to acquire Enron's interests in an unconsolidated equity affiliate for approximately $34 million.",
+      "annotations": [
+        {
+          "id": "fn-31",
+          "phrase": "In 1999, the Related Party acquired approximately $371 million, merchant assets and investments and other assets from Enron.",
+          "said": "In 1999, the Related Party bought about $371 million of assets from Enron. (The stray comma after \"million\" is in the original filing.)",
+          "left_out": "The note does not say that Enron bought most of these assets back soon afterward, or that LJM made money on every deal.",
+          "found": "The board's special committee found that \"Enron bought back five of the seven assets sold during the last two quarters of 1999, in some cases within three months\" and that \"the LJM partnerships made a profit on every transaction.\" It found \"some evidence\" of undisclosed side deals to protect LJM against loss in three transactions. It also noted that there are \"plausible, more innocent explanations\" for some buybacks. The SEC alleged such a side deal in the sale of an interest in a Brazilian power project (Cuiaba).",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 140,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 134, VI. Other Transactions with LJM (lines 4864ff. of SEC text)",
+              "quote": "Enron bought back five of the seven assets sold during the last two quarters of 1999, in some cases within three months"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 18,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 12, Summary of Findings (lines 674ff. of SEC text)",
+              "quote": "the LJM partnerships made a profit on every transaction"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 141,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 135, VI. (lines 4883ff. of SEC text)",
+              "quote": "There is some evidence that Enron employees agreed, in undocumented side deals, to insure the LJM partnerships against loss in three of these transactions. There are also plausible, more innocent explanations for Enron's repurchases."
+            },
+            {
+              "source_id": "sec-fastow-complaint",
+              "file": "sources/04-sec-enforcement/sec-v-fastow-complaint-2002.htm",
+              "pdf_page": null,
+              "loc": "SEC v. Fastow complaint (Oct. 2002), para. 42",
+              "quote": "Enron agreed in an undisclosed side deal to repurchase the interest if necessary and guarantee LJM1 a profit."
+            }
+          ],
+          "glossary_terms": [
+            "merchant-investment",
+            "side-deal"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-32",
+          "phrase": "Enron recognized pre-tax gains of approximately $16 million related to these transactions.",
+          "said": "Enron says its profit on these 1999 sales was about $16 million before taxes.",
+          "left_out": "\"Gains\" on sales are only part of the picture. Some sales changed how Enron accounted for related contracts, which produced other income that the gain figure does not include.",
+          "found": "In November 2001, Enron disclosed a $16 million gain in 1999 on selling LJM2 a stake in a Polish power project. Enron bought part of that stake back in March 2000, and Whitewing bought the rest. (The amounts match, but no source says this is the same $16 million.) The board's special committee found that the Cuiaba sale \"enabled Enron to realize $34 million of mark-to-market income\" in the third quarter of 1999. It also found that Fastow told the Finance Committee that the LJM deals generated \"earnings\" of $229 million in the second half of 1999, a figure the committee could not confirm.",
+          "cites": [
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 13, E. Investment in Enron Affiliates (line 705)",
+              "quote": "Enron recognized a $16 million gain in 1999 on the sale."
+            },
+            {
+              "source_id": "enron-8k-nov-2001",
+              "file": "sources/03-sec-filings/enron-8k-2001-11.txt",
+              "pdf_page": null,
+              "loc": "Enron Form 8-K, Nov. 8, 2001, p. 14, E. (line 714)",
+              "quote": "In March 2000, Enron repurchased 25% of the equity in the Polish power project from LJM2 for $10.6 million"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 141,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 135, VI.A.1 Cuiaba (lines 4900ff. of SEC text)",
+              "quote": "enabled Enron to realize $34 million of mark-to-market income"
+            },
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 18,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 12, Summary of Findings (lines 677ff. of SEC text)",
+              "quote": "\"earnings\" to Enron of $229 million in the second half of 1999"
+            }
+          ],
+          "glossary_terms": [
+            "pre-tax-earnings",
+            "mark-to-market"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        },
+        {
+          "id": "fn-33",
+          "phrase": "The Related Party also entered into an agreement to acquire Enron's interests in an unconsolidated equity affiliate for approximately $34 million.",
+          "said": "The Related Party agreed to buy, for about $34 million, Enron's stake in a company that Enron partly owned but did not include in its own financial statements.",
+          "left_out": "The note does not name the company.",
+          "found": "The library sources we checked do not identify this transaction. The board's special committee's general finding applies: Enron gave \"only the approximate dollar value of the assets\" and did not name them.",
+          "cites": [
+            {
+              "source_id": "powers-report-sec",
+              "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+              "pdf_page": 200,
+              "pdf_source_id": "powers-report",
+              "loc": "Powers Report, p. 194, VIII.D.1 Descriptions of Transactions (lines 6941ff. of SEC text)",
+              "quote": "instead, Enron gave only the approximate dollar value of the assets, either individually or by groupings of similar transactions"
+            }
+          ],
+          "glossary_terms": [
+            "unconsolidated-affiliate",
+            "equity-method"
+          ],
+          "checked": "OK",
+          "checker_note": "Fingerprint OK. Every cited quote verified verbatim at its locator; 'said', 'left_out' and 'found' say no more than the cited passages support; verbs match source types."
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "text": "Two investigations looked back at this note. The board's special committee found that the related-party deals were disclosed \"to some extent.\" It also found that the note did not let a reader \"understand what was going on.\" After Enron's problems became public, the company described the same dealings again in its quarterly report filed November 19, 2001. The Senate subcommittee staff contrasted that later version with the 2000 footnote and found that it showed \"Enron was quite capable of meaningful public disclosure when motivated.\"",
+    "cites": [
+      {
+        "source_id": "powers-report-sec",
+        "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+        "pdf_page": 207,
+        "pdf_source_id": "powers-report",
+        "loc": "Powers Report, p. 201, VIII.E Conclusions on Disclosure (lines 7163ff. of SEC text)",
+        "quote": "the LJM partnerships, the Raptor entities, and transactions between Enron and those entities all were disclosed to some extent in Enron's public filings"
+      },
+      {
+        "source_id": "powers-report-sec",
+        "file": "sources/01-internal-investigation/powers-report-sec-exhibit-99-2.txt",
+        "pdf_page": 203,
+        "pdf_source_id": "powers-report",
+        "loc": "Powers Report, p. 197, VIII.D.2 Adequacy of Disclosures (lines 7024ff. of SEC text)",
+        "quote": "they did not communicate the essence of the transactions in a sufficiently clear fashion to enable a reader of the financial statements to understand what was going on"
+      },
+      {
+        "source_id": "rpt-psi-board",
+        "file": "sources/06-congressional-reports/sprt-107-70-role-of-board-report.pdf",
+        "pdf_page": 52,
+        "loc": "Senate PSI staff report, printed p. 48, Finding (4), Inadequate Public Disclosure",
+        "quote": "The 10-Q filing demonstrates that Enron was quite capable of meaningful public disclosure when motivated."
+      }
+    ],
+    "ask_why": "Every sentence in Note 16 may have been accurate, yet readers still could not see what was happening. Is a disclosure honest if it is accurate but nobody can understand it? Who should be responsible for making it understandable: the company, its auditors, its lawyers, or its board?",
+    "checked": "OK",
+    "checker_note": "PSI quote verified verbatim at PDF 52."
+  }
+}

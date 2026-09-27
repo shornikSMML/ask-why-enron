@@ -1,0 +1,1979 @@
+[
+  {
+    "id": "C-001",
+    "topic": "Shredding: the Oct 12, 2001 e-mail",
+    "claim": "On October 12, 2001, Andersen in-house lawyer Nancy Temple e-mailed Andersen partner Michael Odom, subject 'Document retention policy', suggesting the Enron engagement team be reminded of the firm's documentation and retention policy. The e-mail is reproduced in the hearing record.",
+    "quote": "It might be useful to consider reminding the engagement team of our documentation and retention policy. It will be helpful to make sure that we have complied with the policy.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 49,
+      "printed_page": "p. 45",
+      "section": "Hearing record exhibit (e-mail dated 10/12/2001 from Nancy A. Temple to Michael C. Odom)",
+      "lines": "image only (no text layer on this page)"
+    },
+    "source_type": "company document reproduced in hearing record",
+    "verb": "stated",
+    "people": [
+      "Nancy Temple",
+      "Michael Odom"
+    ],
+    "event_date": "2001-10-12",
+    "from_ocr": false,
+    "ocr_checked_against_image": true,
+    "notes": "Read directly from the page image (the text copy has no text for this exhibit page). Time stamp on the e-mail is hard to read; omit it. Temple testified she did not 'personally' decide the retention issue alone; Greenwood's opening says she was consulting superiors in Andersen's legal group (PDF p. 7). Temple was never shown as charged in any library document; describe her only as an Andersen lawyer.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Image-checked PDF 49 (printed p. 45). E-mail header shows 10/12/2001 08:53 AM (time faint)."
+  },
+  {
+    "id": "C-002",
+    "topic": "Shredding: Duncan's account of the e-mail (via committee staff)",
+    "claim": "According to the subcommittee chairman's summary of a staff interview, Duncan said he received Temple's October 12 e-mail forwarded by Odom with the note 'more help', and took it as advice from Andersen's lawyer to make sure the Enron team complied with the retention policy.",
+    "quote": "Mr. Duncan then received Ms. Temple's October 12 e-mail forwarded from Mr. Odom with the note ''more help.''",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 32,
+      "printed_page": "p. 28",
+      "section": "Rep. Greenwood's summary of committee staff interview with Duncan (questioning of Duncan panel)",
+      "lines": "1913-1950"
+    },
+    "source_type": "congressional hearing statement (member) summarizing a staff interview",
+    "verb": "stated",
+    "people": [
+      "David Duncan",
+      "Nancy Temple",
+      "Michael Odom",
+      "James Greenwood"
+    ],
+    "event_date": "2001-10-12",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "NOT Duncan's own sworn words: Duncan invoked the Fifth Amendment at this hearing. This is Chairman Greenwood's characterization of what Duncan told staff; attribute it that way ('the subcommittee chairman said Duncan had told investigators...').",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-003",
+    "topic": "Shredding: never asked before",
+    "claim": "Per the chairman's summary of Duncan's staff interview, Duncan said that in his long career at Andersen he had never before been asked about compliance with the retention policy or received such an e-mail from Andersen's legal group.",
+    "quote": "he had never before during his lengthy tenure at Andersen been asked about compliance with the retention policy",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 32,
+      "printed_page": "p. 28",
+      "section": "Rep. Greenwood's summary of staff interview with Duncan",
+      "lines": "1951-1955"
+    },
+    "source_type": "congressional hearing statement (member) summarizing a staff interview",
+    "verb": "stated",
+    "people": [
+      "David Duncan"
+    ],
+    "event_date": "2001-10",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Same caveat as C-002: second-hand account, not sworn testimony by Duncan.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-004",
+    "topic": "Shredding: why the consultation group formed (warning signs)",
+    "claim": "Per the chairman's summary, Duncan said an Andersen consultation group on Enron formed in late August or early September 2001 in response to Sherron Watkins' allegations about Raptor and LJM, a $1 billion Raptor accounting error found in August, and the falling value of assets in the Raptors.",
+    "quote": "the $1 billion accounting error discovered in August by Enron and Andersen with respect to the accounting for the Raptor entities",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 32,
+      "printed_page": "p. 28",
+      "section": "Rep. Greenwood's summary of staff interview with Duncan",
+      "lines": "1920-1934"
+    },
+    "source_type": "congressional hearing statement (member) summarizing a staff interview",
+    "verb": "stated",
+    "people": [
+      "David Duncan",
+      "Sherron Watkins",
+      "Michael Odom",
+      "Nancy Temple"
+    ],
+    "event_date": "2001-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Useful for Chapter 4 (warning signs). Second-hand account. Batson App. B (C-030) separately describes a $1 billion equity overstatement from the Raptor notes and says it is unrelated to the $1 billion earnings restatement of Oct 16, 2001; do not merge these figures without checking.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-005",
+    "topic": "Shredding: SEC inquiry and the Oct 23 meeting",
+    "claim": "Per the chairman's summary, Duncan first learned of the SEC's informal inquiry into Enron on October 19 or 20, 2001; he did not dispute that his secretary e-mailed on October 23 calling an urgent meeting of Enron audit managers that day, where he stressed compliance with the retention policy and handed out copies.",
+    "quote": "his secretary sent out an e-mail on October 23, 2001, calling an urgent meeting of the Enron managers for later that same day.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 33,
+      "printed_page": "p. 29",
+      "section": "Rep. Greenwood's summary of staff interview with Duncan",
+      "lines": "1965-1990"
+    },
+    "source_type": "congressional hearing statement (member) summarizing a staff interview",
+    "verb": "stated",
+    "people": [
+      "David Duncan",
+      "Richard Causey"
+    ],
+    "event_date": "2001-10-23",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Same summary says Causey asked Andersen on Oct 22 to help create documents explaining the related-party transactions to the SEC (Duncan's account only).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-006",
+    "topic": "Shredding: until November 9",
+    "claim": "Per the chairman's summary, Duncan said he saw members of the engagement team shredding documents to comply with the policy, that this continued until November 9 when Temple left him a voicemail ordering preservation of all Enron documents, and that he destroyed some of his own Enron documents.",
+    "quote": "the activity continued up until November 9 when he received a voice-mail from Ms. Temple ordering the preservation of all Enron-related documents.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 33,
+      "printed_page": "p. 29",
+      "section": "Rep. Greenwood's summary of staff interview with Duncan",
+      "lines": "1990-1998"
+    },
+    "source_type": "congressional hearing statement (member) summarizing a staff interview",
+    "verb": "stated",
+    "people": [
+      "David Duncan",
+      "Nancy Temple"
+    ],
+    "event_date": "2001-11-09",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Second-hand account.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-007",
+    "topic": "Duncan takes the Fifth",
+    "claim": "Called before the House Energy and Commerce oversight subcommittee on January 24, 2002, former Andersen Enron lead partner David Duncan declined to answer questions, citing his constitutional protection against self-incrimination, and said that would be his response to all questions.",
+    "quote": "on the advice of my counsel I respectfully decline to answer the question based on the protection afforded me under the Constitution of the United States.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 31,
+      "printed_page": "p. 27",
+      "section": "Testimony of David Duncan",
+      "lines": "1829-1857"
+    },
+    "source_type": "sworn testimony",
+    "verb": "declined to answer (invoked Fifth Amendment)",
+    "people": [
+      "David Duncan"
+    ],
+    "event_date": "2002-01-24",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Duncan was sworn (PDF p. 30-31). Taking the Fifth is not evidence of guilt; say so on the site. How Duncan's own case ended is NOT covered by any document I read (the SEC complaint sec-duncan-complaint exists in the library but was not in my brief). See gaps file.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-008",
+    "topic": "No immunity for Duncan",
+    "claim": "The subcommittee chose not to grant Duncan immunity to testify, citing the Justice Department's ongoing investigation; members said this was a bipartisan decision.",
+    "quote": "We have chosen not to do that. I think that would be improper, certainly at this time, in view of the Justice Department's investigation.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 31,
+      "printed_page": "p. 27",
+      "section": "Exchange after Duncan's testimony",
+      "lines": "1878-1886"
+    },
+    "source_type": "congressional hearing statement (member)",
+    "verb": "stated",
+    "people": [
+      "James Greenwood",
+      "David Duncan"
+    ],
+    "event_date": "2002-01-24",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-009",
+    "topic": "Shredding: Andersen waited until Nov 9",
+    "claim": "Subcommittee chairman Greenwood said Andersen's legal group waited until November 9, 2001, after the firm had received an SEC subpoena and been named in at least one lawsuit, to tell its Enron audit staff to stop normal document destruction.",
+    "quote": "Andersen's legal group waited until November 9, after Andersen had already received a subpoena from the Securities and Exchange Commission",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 6,
+      "printed_page": "p. 2",
+      "section": "Opening statement of Rep. James Greenwood (chairman, Oversight and Investigations Subcommittee)",
+      "lines": "248-252"
+    },
+    "source_type": "congressional hearing statement (member)",
+    "verb": "stated",
+    "people": [
+      "James Greenwood"
+    ],
+    "event_date": "2001-11-09",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "A member's opening statement summarizing the committee's investigation, not a formal finding.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-010",
+    "topic": "Shredding: no one objected",
+    "claim": "Greenwood said scores of Andersen professionals and support staff took part in shredding paper and deleting computer files about the Enron audit, and that committee investigators had not found a single employee who raised an objection, even after the SEC inquiry became public.",
+    "quote": "committee investigators have been unable to locate or learn about a single Andersen employee who raised any concerns or objections about destroying Enron-related documents",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 6,
+      "printed_page": "p. 2",
+      "section": "Opening statement of Rep. James Greenwood",
+      "lines": "220-226"
+    },
+    "source_type": "congressional hearing statement (member)",
+    "verb": "stated",
+    "people": [
+      "James Greenwood"
+    ],
+    "event_date": "2001-10/2001-11",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Statement of a member as of Jan 24, 2002; investigation was not complete.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-011",
+    "topic": "Shredding: Andersen's account (Andrews)",
+    "claim": "Andersen executive C.E. Andrews testified that on October 23, 2001, six days after the SEC requested information from Enron, Duncan called an urgent meeting of the Enron team and organized an expedited effort to shred or otherwise dispose of Enron documents, without consulting others in the firm or, so far as Andersen knew, legal counsel.",
+    "quote": "called an urgent meeting of the Enron engagement team, in which he organized an expedited effort to shred, or otherwise dispose of, Enron-related documents.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 36,
+      "printed_page": "p. 32",
+      "section": "Testimony of C.E. Andrews, Andersen (oral)",
+      "lines": "2151-2160"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "C.E. Andrews",
+      "David Duncan"
+    ],
+    "event_date": "2001-10-23",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "DISAGREEMENT: Andersen's position (Duncan acted without consulting counsel) conflicts with Duncan's account that he acted on Temple's Oct 12 e-mail (C-002). Greenwood's opening (PDF p. 7) also says Andersen sought to place blame 'solely on Mr. Duncan'. Present both. Witnesses on this panel were sworn (PDF p. 34).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-012",
+    "topic": "Shredding: SEC request date",
+    "claim": "Andersen's prepared statement said the SEC requested information from Enron about its financial accounting and reporting on October 17, 2001.",
+    "quote": "On October 17 the SEC requested information from Enron about its financial accounting and reporting.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 39,
+      "printed_page": "p. 35",
+      "section": "Prepared statement of C.E. Andrews",
+      "lines": "2386-2388"
+    },
+    "source_type": "prepared statement submitted for the hearing record",
+    "verb": "stated",
+    "people": [
+      "C.E. Andrews"
+    ],
+    "event_date": "2001-10-17",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Duncan (via Greenwood) said he learned of the SEC's informal inquiry Oct 19 or 20 (C-005).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-013",
+    "topic": "Shredding: 'no more shredding'",
+    "claim": "Andersen said the destruction appeared to stop shortly after Duncan's assistant e-mailed other secretaries on November 9, 2001, the day after Andersen received an SEC subpoena, telling them 'no more shredding.'",
+    "quote": "the day after Andersen received a subpoena from the SEC—telling them ''no more shredding.''",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 39,
+      "printed_page": "p. 35",
+      "section": "Prepared statement of C.E. Andrews",
+      "lines": "2401-2403"
+    },
+    "source_type": "prepared statement submitted for the hearing record",
+    "verb": "stated",
+    "people": [
+      "C.E. Andrews",
+      "David Duncan"
+    ],
+    "event_date": "2001-11-09",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Same point in Andrews' oral testimony, PDF p. 36 (printed 32). The subpoena date is Nov 8, 2001 per Andersen.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim at PDF 39 (prepared statement); same words also appear in the oral statement at PDF 36."
+  },
+  {
+    "id": "C-014",
+    "topic": "Shredding: how much was destroyed",
+    "claim": "Andersen said a 'very substantial volume' of documents and e-mails was disposed of by the Enron team, and that so far as it had been able to determine, no audit work papers were destroyed. The hearing record I read gives no count of documents destroyed.",
+    "quote": "So far as we have been able to determine to date, however, no audit work papers were destroyed.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 39,
+      "printed_page": "p. 35",
+      "section": "Prepared statement of C.E. Andrews",
+      "lines": "2396-2400"
+    },
+    "source_type": "prepared statement submitted for the hearing record",
+    "verb": "stated",
+    "people": [
+      "C.E. Andrews"
+    ],
+    "event_date": "2001-10/2001-11",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The only number is in Greenwood's question to Duncan ('thousands of paper documents and electronic files', PDF p. 30-31), which describes the reason Andersen fired Duncan, not a count. Do not state a number. Logged as a gap.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-015",
+    "topic": "Shredding: Andersen reports itself",
+    "claim": "Andersen said it notified the Justice Department and SEC on Friday, January 4, 2002, shortly after its internal inquiry informed its CEO, briefed them January 7, and disclosed the destruction to congressional committees and the public on January 10.",
+    "quote": "On Friday, January 4—shortly after the firm's internal inquiry informed Andersen's CEO about the document destruction—Andersen voluntarily notified the Department of Justice and the SEC.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 39,
+      "printed_page": "p. 35",
+      "section": "Prepared statement of C.E. Andrews",
+      "lines": "2406-2413"
+    },
+    "source_type": "prepared statement submitted for the hearing record",
+    "verb": "stated",
+    "people": [
+      "C.E. Andrews"
+    ],
+    "event_date": "2002-01-04",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-016",
+    "topic": "Duncan fired; partners disciplined",
+    "claim": "Andersen dismissed Duncan on January 15, 2002, placed three other Enron partners on administrative leave, and relieved four Houston partners of management duties. The bankruptcy examiner later named the three on leave as Bauer, Cash and Willard.",
+    "quote": "On January 15, approximately 2 weeks after our CEO learned about the document destruction, Andersen dismissed Mr. Duncan.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 36,
+      "printed_page": "p. 32",
+      "section": "Testimony of C.E. Andrews (oral)",
+      "lines": "2172-2180"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "David Duncan",
+      "C.E. Andrews",
+      "Thomas Bauer",
+      "Deborah Cash",
+      "Roger Willard"
+    ],
+    "event_date": "2002-01-15",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Corroborated by Batson Final App. B Part 1, PDF p. 61 (printed 59): 'Andersen's partners, Bauer, Cash and Willard were placed on administrative leave, and Duncan's employment was terminated by Andersen.' No library document I read says any of the three were charged; do not imply wrongdoing.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-017",
+    "topic": "Andersen's retention policy",
+    "claim": "Andersen said its policy called for documents other than audit work papers to be disposed of when no longer needed, but kept once litigation had started or was threatened; it conceded the policy was 'not a model of clarity.'",
+    "quote": "we have to say that it is not a model of clarity",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 39,
+      "printed_page": "p. 35",
+      "section": "Prepared statement of C.E. Andrews",
+      "lines": "2372-2382"
+    },
+    "source_type": "prepared statement submitted for the hearing record",
+    "verb": "stated",
+    "people": [
+      "C.E. Andrews"
+    ],
+    "event_date": "2002-01-24",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Useful for explaining 'document retention policy' in the glossary.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-018",
+    "topic": "Temple's role before Oct 12",
+    "claim": "Nancy Temple testified that she was first asked on September 28, 2001, to join a conference call about an Enron accounting issue, and that between then and October 12 she gave legal advice, after consulting her supervisor and others, on documentation and retention issues.",
+    "quote": "In between that time and October 12, I provided legal advice, including, after consultation with my supervisor and others, about specific documentation and retention issues.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 126,
+      "printed_page": "p. 122",
+      "section": "Questioning of Temple by Chairman Tauzin",
+      "lines": "3555-3560"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "Nancy Temple"
+    ],
+    "event_date": "2001-09-28",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-019",
+    "topic": "Andersen's fees: $52 million (Senate staff)",
+    "claim": "The Senate Governmental Affairs Committee staff found that in 2000 Andersen earned $52 million in fees from Enron: $25 million for audit work and $27 million for consulting services, and said it was hard to see how such large consulting fees did not create a serious conflict of interest.",
+    "quote": "In 2000, Andersen earned $52 million in fees from Enron. Less than half of that amount, $25 million, was for audit work; $27 million related to consulting services.",
+    "source_id": "rpt-sga-watchdogs",
+    "file": "sources/06-congressional-reports/sprt-financial-oversight-of-enron-sec-and-watchdogs.pdf",
+    "locator": {
+      "pdf_page": 26,
+      "printed_page": "p. 22",
+      "section": "Part One, II. Experience with Enron, 1. Enron's Auditor",
+      "lines": "1556-1563"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [],
+    "event_date": "2000",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "DISAGREEMENT on the total and split: Batson App. B gives ~$54 million (C-021); Andersen's Andrews and Odom testified that much of the 'consulting' was audit-type work (C-020). Present the figure as the staff report's.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-020",
+    "topic": "Andersen's fees: Andersen disputes the 'consulting' label",
+    "claim": "Asked about the $52 million, Andersen's C.E. Andrews testified that audit-related fees were $25 million, 'essentially half'; Andersen partner Michael Odom said much of the so-called consulting was work typically done by the auditor, because SEC fee reporting counts only the annual audit as the audit fee.",
+    "quote": "Actually, the audit-related fees on Enron were $25 million, essentially half of the total fee.",
+    "source_id": "hrg-hec-andersen-shredding",
+    "file": "sources/05-hearings-enron/hhrg-107-80-destruction-of-enron-documents-by-andersen-2002-01-24.pdf",
+    "locator": {
+      "pdf_page": 182,
+      "printed_page": "p. 178",
+      "section": "Questioning by Rep. Gene Green",
+      "lines": "7027-7042"
+    },
+    "source_type": "sworn testimony",
+    "verb": "testified",
+    "people": [
+      "C.E. Andrews",
+      "Michael Odom"
+    ],
+    "event_date": "2002-01-24",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Interested party's view (Andersen). Contrast with C-019.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-021",
+    "topic": "Andersen's fees: about $54 million (examiner)",
+    "claim": "The bankruptcy examiner reported that Andersen's fees from the Enron engagement were about $54 million for 2000, of which $12 million was 'accounting consultation' (advice on how proposed transactions would be accounted for). He noted a different 2000 total ($47.9 million) in the April 2001 Audit Committee presentation because Andersen's fiscal year ended August 31.",
+    "quote": "Andersen's fees from its Enron engagement were approximately $54 million for 2000",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 11,
+      "printed_page": "p. 9 (table on p. 10)",
+      "section": "II.A Andersen's Services to Enron; n. 14-15",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2000",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Breakdown table (PDF p. 12, printed 10): U.S. Audit $10.3M; ABA Consult $14.1M; Other Consult $8.3M; London $8.3M; Other international $13.0M; total $54.0M. Source is Andersen's internal Retention Meeting Presentation. Three different totals exist ($47.9M, $52M, $54M) because of different fiscal years and categories; say so.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker. Image-checked PDF 11-12 (table and n. 14-15). Note: the Batson Final Report main text (p. 39, PDF 42, image-checked) itself uses $47.9 million for 2000 fees, so the examiner uses both figures."
+  },
+  {
+    "id": "C-022",
+    "topic": "Enron: one of Andersen's biggest clients",
+    "claim": "The examiner found that in the years before the bankruptcy Enron was one of Andersen's most significant clients by fees and that those fees kept rising; an Andersen e-mail he quotes says Enron became the firm's largest client 'by a wide margin' in fiscal 1999, with $47 million in fees.",
+    "quote": "In the years leading up to Enron's bankruptcy, Enron was one of Andersen's most significant clients in terms of fees, and those fees were consistently on the rise.",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 32,
+      "printed_page": "p. 30",
+      "section": "II.B Fees; n. 86",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "concluded",
+    "people": [
+      "James D. Edwards",
+      "Thomas Bauer"
+    ],
+    "event_date": "1999",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "The 'largest client' wording is from an internal Andersen e-mail (Edwards to Bauer, Oct 13, 1999) quoted in n. 86, not the examiner's own finding. Same page: Andersen considered the great majority of its Enron work to be 'audit' services.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-023",
+    "topic": "Size of the audit team",
+    "claim": "In February 2001 Duncan reported that 113 Andersen professionals worked on the Enron engagement (98 in Houston, 15 in London), with other offices from Portland to Tokyo also involved.",
+    "quote": "Andersen's audit of Enron was a massive undertaking.",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 11,
+      "printed_page": "p. 9",
+      "section": "II.A Andersen's Services to Enron",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "reported",
+    "people": [
+      "David Duncan"
+    ],
+    "event_date": "2001-02",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Table: partners 13, managers 42, staff accountants 58.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-024",
+    "topic": "Fees: member's statement at the auditing hearing",
+    "claim": "At the House Energy and Commerce hearing on the accounting industry (Feb 6, 2002), Rep. Mary Bono's prepared statement said Andersen collected $25 million in audit fees but earned even more for consulting.",
+    "quote": "Arthur Andersen collected audit fees of $25 million but earned even more for its consulting work.",
+    "source_id": "hrg-hec-auditing",
+    "file": "sources/05-hearings-enron/hhrg-107-83-lessons-learned-auditing-the-accounting-industry-2002-02-06.pdf",
+    "locator": {
+      "pdf_page": 73,
+      "printed_page": "p. 69",
+      "section": "Prepared statement of Hon. Mary Bono",
+      "lines": "4070-4091"
+    },
+    "source_type": "congressional hearing statement (member)",
+    "verb": "stated",
+    "people": [
+      "Mary Bono"
+    ],
+    "event_date": "2002-02-06",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "A member's statement, not a finding. Use C-019/C-021 for the numbers; this card only shows the fee issue was central to the hearing.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-025",
+    "topic": "Auditor independence: non-audit fees average 73%",
+    "claim": "Former SEC Commissioner Bevis Longstreth told the committee that, on average in 2001, non-audit services made up 73 percent of total fees audit clients paid their auditors, and that it defied common sense to claim such payments did not influence auditors.",
+    "quote": "On average in the year 2001, nonaudit services represented an astounding 73 percent of total fees paid to auditors by their audit clients.",
+    "source_id": "hrg-hec-auditing",
+    "file": "sources/05-hearings-enron/hhrg-107-83-lessons-learned-auditing-the-accounting-industry-2002-02-06.pdf",
+    "locator": {
+      "pdf_page": 116,
+      "printed_page": "p. 112",
+      "section": "Testimony of Bevis Longstreth, Debevoise & Plimpton",
+      "lines": "6273-6283"
+    },
+    "source_type": "hearing testimony",
+    "verb": "testified",
+    "people": [
+      "Bevis Longstreth"
+    ],
+    "event_date": "2001",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Longstreth says he was an SEC Commissioner 1981-84 (PDF p. 115, printed 111). This hearing's panel was not shown being sworn in the text I read; use 'told the committee' rather than 'under oath'. Industry-wide figure, not Enron-specific.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-026",
+    "topic": "Andersen's role: auditor since 1985",
+    "claim": "The examiner noted that Andersen audited Enron's annual financial statements and gave opinions that they fairly presented Enron's finances under GAAP; Andersen became Enron's auditor when Enron was formed in 1985 from Houston Natural Gas and InterNorth, having audited InterNorth before.",
+    "quote": "Arthur Andersen LLP (“Andersen”) audited Enron's annual financial statements and opined that they fairly presented, in all material respects, Enron's financial position",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 3,
+      "printed_page": "p. 1 and n. 1",
+      "section": "I.A Overview",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "reported",
+    "people": [],
+    "event_date": "1985",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Good for the timeline (1985).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-027",
+    "topic": "Andersen's role: the examiner's overall view",
+    "claim": "The bankruptcy examiner concluded that, beyond Enron officers withholding information and Andersen's admitted mistakes, the evidence suggests a years-long effort by Andersen to help one of its largest clients use rules-based GAAP to make its income, cash flow and financial position look materially stronger than they were.",
+    "quote": "the evidence suggests a concerted effort over a period of years by Andersen to assist one of its largest clients in taking advantage of rules-based GAAP accounting",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 4,
+      "printed_page": "p. 2",
+      "section": "I.A Overview",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "concluded",
+    "people": [],
+    "event_date": null,
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Examiner's conclusions are what a fact-finder COULD conclude; they are not court findings. Andersen was never held liable by a court in any library document I read.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-028",
+    "topic": "Andersen's role: negligence and aiding and abetting (could be found)",
+    "claim": "The examiner concluded that the evidence would let a fact-finder decide Andersen was negligent and aided and abetted breaches of fiduciary duty by Enron officers, while noting Andersen would have defenses, including those based on Enron officers' deception.",
+    "quote": "the evidence is sufficient for a fact-finder to conclude that Andersen aided and abetted certain Enron officers in breaching their fiduciary duties to Enron.",
+    "source_id": "batson-final-app-b-part2",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part2-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 65,
+      "printed_page": "p. 167",
+      "section": "V.C Conclusion (Potential Liability of Andersen)",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "concluded",
+    "people": [],
+    "event_date": "2003-11-04",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Same conclusion in Part 1, PDF p. 7 (printed 5). The examiner relies on his Third Interim Report (not in the library) for the finding that Enron officers breached their duties; say 'the examiner had earlier concluded' without citing that report. Terms needing glossary entries: fiduciary duty, aiding and abetting, negligence, fact-finder, in pari delicto.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-029",
+    "topic": "Andersen's role: Enron officers withheld information",
+    "claim": "The examiner said the evidence suggests Enron officers withheld information from Andersen in many cases where, had Andersen known the facts, it would not have approved the misleading accounting; he gave examples such as undisclosed side agreements guaranteeing supposedly 'at-risk' equity.",
+    "quote": "the evidence suggests that Enron officers withheld information from Andersen in numerous instances",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 3,
+      "printed_page": "p. 1",
+      "section": "I.A Overview; see also IV.B, PDF p. 65-66 (printed 63-64)",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "concluded",
+    "people": [],
+    "event_date": null,
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Balance card: present with C-027. Part 2 PDF p. 64 (printed 166) adds that a fact-finder could conclude Enron officers' failure to disclose side agreements did not prevent Andersen from discovering them.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-030",
+    "topic": "Three errors Andersen admitted",
+    "claim": "The examiner reported that Andersen accountants acknowledged three audit errors: approving the 'aggregation' of the Raptor entities' credit; letting Enron record Raptor notes as assets, which overstated Enron's equity by $1 billion; and wrongly concluding the Rhythms hedge entity met the 3% equity test.",
+    "quote": "This error resulted in a $1 billion overstatement of Enron's equity.",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 65,
+      "printed_page": "p. 63 (begins p. 62)",
+      "section": "IV.A Three Errors Acknowledged by Andersen",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "reported",
+    "people": [
+      "David Duncan"
+    ],
+    "event_date": null,
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "The acknowledgments are sourced to Duncan's testimony at the Andersen criminal trial (2002). Examiner's n. 206: the $1 billion equity figure is unrelated to the $1 billion earnings charge announced Oct 16, 2001. It IS the same error the Powers Report describes (pp. 125-126, n. 60): $172M (Raptor I, 2000) + $828M (Raptors II and IV, 2001) = $1 billion of the $1.2 billion reduction in shareholders' equity. Rhythms: $95 million, 11% of Enron's 1999 income before interest and taxes.",
+    "checked": "FIXED",
+    "checker_note": "Added clarification: the $1 billion equity overstatement here is the same error the Powers Report describes ($172M in Q2 2000 + $828M in Q1 2001), which made up $1 billion of the $1.2 billion reduction in shareholders' equity Enron disclosed on Oct 16, 2001 (Powers pp. 98, 125-126 and n. 60). The examiner's n. 206 says it is unrelated to the '$1 billion earnings restatement' of Oct 16 (the $1.01 billion after-tax charges). Do not merge the two $1 billion figures. Verified against page image PDF 65."
+  },
+  {
+    "id": "C-031",
+    "topic": "Andersen and the Audit Committee (SAS 61)",
+    "claim": "The examiner concluded that the evidence is sufficient for a fact-finder to conclude that Andersen failed its duty under auditing standards to make sure Enron's Audit Committee was informed about how significant unusual transactions were accounted for.",
+    "quote": "Andersen failed to discharge its duty under applicable auditing standards to “determine that the audit committee is informed about the methods used to account for significant unusual transactions",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 6,
+      "printed_page": "p. 4",
+      "section": "I.A Overview",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "concluded",
+    "people": [],
+    "event_date": null,
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Phrased by the examiner as what the evidence would permit a fact-finder to conclude. Links to Chapter 7 (SOX Sec. 204 auditor reports to audit committees, not in my brief).",
+    "checked": "FIXED",
+    "checker_note": "Claim reworded to match the examiner's standard: App. B p. 3-4 says the evidence 'is sufficient to permit a fact-finder to conclude' that Andersen failed this duty; it is not a finding that Andersen did fail. Verified against page image PDF 5-6."
+  },
+  {
+    "id": "C-032",
+    "topic": "How much of Enron's 2000 results came from six techniques",
+    "claim": "The examiner stated that virtually all of Enron's $979 million of 2000 net income and $3 billion of funds flow from operations, and about $8.6 billion of debt kept off its balance sheet at Dec 31, 2000, came from six accounting techniques.",
+    "quote": "virtually all of Enron's $979 million of net income and $3 billion of funds flow from operations for the year 2000",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 6,
+      "printed_page": "p. 4-5",
+      "section": "I.A Overview; n. 7",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "concluded",
+    "people": [],
+    "event_date": "2000",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "The underlying schedule is the Second Interim Report, Appendix Q, which is NOT in the library. The statement itself is in App. B (in the library) and may be cited to App. B, but flag that the detailed support is in a missing report.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-033",
+    "topic": "Feb 5, 2001: should Andersen keep Enron?",
+    "claim": "On February 5, 2001, senior Andersen partners held a conference call to decide whether to keep Enron, a 'maximum' risk client; the decision was to retain Enron.",
+    "quote": "ultimately the conclusion was reached to retain Enron as a client citing that it appeared that we had the appropriate people and processes in place",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 49,
+      "printed_page": "p. 47 (meeting described from p. 43)",
+      "section": "Andersen's February 5, 2001 Client Retention Meeting",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion (quoting internal Andersen e-mail)",
+    "verb": "reported",
+    "people": [
+      "Michael D. Jones",
+      "David Duncan",
+      "Thomas Bauer"
+    ],
+    "event_date": "2001-02-05",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "The quoted words are from Andersen partner Michael Jones' Feb 6, 2001 e-mail, quoted by the examiner. The Senate staff report (rpt-sga-watchdogs PDF p. 26, printed 22) quotes the same e-mail as acknowledging Enron's 'aggressive' accounting and dependence on transaction execution.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-034",
+    "topic": "Carl Bass removed at Enron's request",
+    "claim": "The examiner reported that in early 2001 Andersen expert Carl Bass was told Enron's chief accounting officer Richard Causey had asked that Bass be removed from the Enron engagement, and that Andersen senior executives had agreed; Andersen partner John Stewart testified at the Andersen trial that he found this unprofessional.",
+    "quote": "Causey had requested that Andersen remove Bass from further participation in the Enron engagement, and that Andersen senior executives had agreed to that request.",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 45,
+      "printed_page": "p. 43",
+      "section": "IV (Engagement Team and PSG discussion)",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "reported",
+    "people": [
+      "Carl Bass",
+      "Richard Causey",
+      "Gary Goolsby",
+      "John Stewart"
+    ],
+    "event_date": "2001",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Source is Bass's and Stewart's testimony at the 2002 Andersen criminal trial, as cited by the examiner. Causey's outcome is not covered by documents in my brief; check with Reader who has DOJ/SEC materials before describing him further.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-035",
+    "topic": "Audit Committee meetings",
+    "claim": "From 1997 to November 18, 2001, Enron's Audit Committee met thirty times, usually with at least three Andersen partners present; the meetings generally lasted about an hour.",
+    "quote": "The meetings generally lasted about one hour.",
+    "source_id": "batson-final-app-b-part2",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part2-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 29,
+      "printed_page": "p. 131",
+      "section": "IV.I Andersen's Interaction with Enron's Audit Committee",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "reported",
+    "people": [
+      "David Duncan",
+      "Thomas Bauer",
+      "Stephen Goddard"
+    ],
+    "event_date": "1997/2001",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "n. 472 quotes Duncan (Dec 2000) that the presentation had to fit 'about a 30 - 45 minute presentation'. Useful for The Board lens.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-036",
+    "topic": "Andersen's own partner rotation",
+    "claim": "At the February 10, 1997 Audit Committee meeting, Andersen partner Stephen Goddard reported that Andersen's seven-year rotation policy ended his role as engagement partner, and David Duncan took over; Goddard stayed on in an advisory role and attended nearly all Audit Committee meetings through November 2001.",
+    "quote": "[Goddard] reported that Arthur Andersen's policy on seven-year rotation required the end of his engagement on the Company's account at the end of 1996.",
+    "source_id": "batson-final-app-b-part2",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part2-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 29,
+      "printed_page": "p. 131",
+      "section": "IV.I Andersen's Interaction with Enron's Audit Committee",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion (quoting Audit Committee minutes)",
+    "verb": "reported",
+    "people": [
+      "Stephen Goddard",
+      "David Duncan"
+    ],
+    "event_date": "1997-02-10",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Useful contrast with SOX Sec. 203, which requires rotation after 5 years (C-075).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-037",
+    "topic": "Enron fires Andersen",
+    "claim": "On January 17, 2002, Enron's board voted to terminate Andersen as its auditor.",
+    "quote": "On January 17, 2002, the Enron Board voted to terminate Andersen as its auditor.",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 61,
+      "printed_page": "p. 59",
+      "section": "III.B Andersen's Conviction and Current Status",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2002-01-17",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Examiner cites an Enron press release.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-038",
+    "topic": "Andersen indicted, tried, convicted (2002)",
+    "claim": "Andersen was indicted for obstruction of justice over the document destruction on March 7, 2002, tried in Houston from May 6 to June 5, 2002, and convicted on June 15, 2002 of violating 18 U.S.C. 1512(b)(2), the 'corruptly persuade' witness-tampering law.",
+    "quote": "On June 15, 2002, Andersen was convicted for violating 18 U.S.C. § 1512(b)(2).",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 61,
+      "printed_page": "p. 59",
+      "section": "III.B Andersen's Conviction and Current Status",
+      "lines": ""
+    },
+    "source_type": "examiner's description of procedural history",
+    "verb": "was convicted",
+    "people": [],
+    "event_date": "2002-06-15",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Indictment date corroborated by GAO-03-864 (C-048). The conviction was later REVERSED by the Supreme Court on May 31, 2005 (C-043): always pair these. No library document I read gives the jury verdict itself or the indictment; the Syllabus confirms a guilty verdict and Fifth Circuit affirmance but no dates.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-039",
+    "topic": "Appeal pending in late 2003",
+    "claim": "As of the examiner's report (November 2003), Andersen's appeal to the Fifth Circuit was pending; oral argument had been held October 9, 2003.",
+    "quote": "As of the date of this Report, Andersen's appeal remains pending.",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 62,
+      "printed_page": "p. 60",
+      "section": "III.B Andersen's Conviction and Current Status",
+      "lines": ""
+    },
+    "source_type": "examiner's description of procedural history",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2003-10-09",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "The Supreme Court Syllabus says the Fifth Circuit affirmed (C-042).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-040",
+    "topic": "Andersen stops auditing public companies",
+    "claim": "After the verdict, the SEC announced on June 15, 2002 that Andersen had told it it would stop practicing before the Commission by August 31, 2002; by that date Andersen had given up or consented to revocation of its state licenses to practice accounting.",
+    "quote": "Andersen had informed the SEC that it would “cease practicing before the Commission by Aug. 31, 2002.”",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 62,
+      "printed_page": "p. 60",
+      "section": "III.B Current Status of Andersen",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2002-08-31",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Examiner quoting an SEC statement (June 15, 2002) and a Chicago Tribune article; the SEC statement itself is not in the library.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Quote verified against the page image by the Fact-Checker."
+  },
+  {
+    "id": "C-041",
+    "topic": "What was left of Andersen (2003)",
+    "claim": "According to published reports cited by the examiner, Andersen's headcount fell from 28,000 to about 150, most running a conference center in St. Charles, Illinois; all former partners had resigned.",
+    "quote": "According to published reports, Andersen's headcount has been reduced from 28,000 to approximately 150 employees",
+    "source_id": "batson-final-app-b-part1",
+    "file": "sources/02-bankruptcy-examiner/batson-final-appendix-b-andersen-part1-2003-11-04.pdf",
+    "locator": {
+      "pdf_page": 63,
+      "printed_page": "p. 61",
+      "section": "III.B Current Status of Andersen",
+      "lines": ""
+    },
+    "source_type": "examiner conclusion (relying on newspaper reports)",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2003",
+    "from_ocr": true,
+    "ocr_checked_against_image": true,
+    "notes": "Examiner relies on Chicago Tribune articles (copyrighted; do not quote them). The report does not say whether the 28,000 figure is U.S. or worldwide; do not specify. GAO-03-864 gives >$9B global revenue in 2001. The quote omits a superscript footnote marker (197) after '28,000'.",
+    "checked": "FIXED",
+    "checker_note": "Removed an unsupported statement from notes ('Headcount is U.S. per the article'): the examiner does not say the 28,000 figure is U.S.-only, and the Chicago Tribune article is not in the library. Also removed a duplicated sentence. Verified against page image PDF 63."
+  },
+  {
+    "id": "C-042",
+    "topic": "Supreme Court: what Andersen was charged with",
+    "claim": "The Supreme Court's Syllabus summarizes that, as Enron's troubles became public, Andersen instructed employees to destroy documents under its retention policy; it was indicted under 18 U.S.C. 1512(b)(2)(A) and (B), a jury found it guilty, and the Fifth Circuit affirmed.",
+    "quote": "As Enron Corporation's financial difficulties became public, petitioner, Enron's auditor, instructed its employees to destroy documents pursuant to its document retention policy.",
+    "source_id": "andersen-scotus",
+    "file": "sources/09-courts-doj/arthur-andersen-v-us-544-us-696-2005.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": "Syllabus",
+      "section": "Syllabus (prepared by the Reporter of Decisions; not part of the opinion)",
+      "lines": ""
+    },
+    "source_type": "court's description of procedural history",
+    "verb": "stated",
+    "people": [],
+    "event_date": null,
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Library copy contains ONLY the Syllabus. The Syllabus itself says it 'constitutes no part of the opinion of the Court.' Cite as 'Arthur Andersen LLP v. United States, 544 U.S. 696 (2005), Syllabus.'",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-043",
+    "topic": "Supreme Court reverses (May 31, 2005)",
+    "claim": "The Supreme Court, in a unanimous opinion delivered by Chief Justice Rehnquist on May 31, 2005 (argued April 27, 2005), held that the jury instructions failed to properly explain what 'corruptly persuades' requires, and reversed and remanded the Fifth Circuit's judgment.",
+    "quote": "Held: The jury instructions failed to convey properly the elements of a “corrup[t] persuas[ion]” conviction under §1512(b).",
+    "source_id": "andersen-scotus",
+    "file": "sources/09-courts-doj/arthur-andersen-v-us-544-us-696-2005.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": "Syllabus",
+      "section": "Syllabus; header 'Argued April 27, 2005-Decided May 31, 2005'",
+      "lines": ""
+    },
+    "source_type": "court holding",
+    "verb": "held",
+    "people": [
+      "William Rehnquist"
+    ],
+    "event_date": "2005-05-31",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Reversal does not mean the Court found Andersen innocent; it found the jury was wrongly instructed. What happened after remand is not in the library (gap). Andersen had already stopped auditing public companies in 2002 (C-040).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-044",
+    "topic": "Supreme Court: why the instructions were wrong",
+    "claim": "The Syllabus explains that only people conscious of wrongdoing can 'knowingly ... corruptly persuade'; the jury had been told it could convict even if Andersen honestly believed its conduct was lawful, and 'impede' was added in a way that covered innocent conduct.",
+    "quote": "Under ordinary circumstances, it is not wrongful for a manager to instruct his employees to comply with a valid document retention policy",
+    "source_id": "andersen-scotus",
+    "file": "sources/09-courts-doj/arthur-andersen-v-us-544-us-696-2005.html",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": "Syllabus",
+      "section": "Syllabus, parts (a) and (b)",
+      "lines": ""
+    },
+    "source_type": "court holding",
+    "verb": "held",
+    "people": [],
+    "event_date": "2005-05-31",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Also states the instructions did not require a link ('nexus') between the persuasion and any particular official proceeding.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-045",
+    "topic": "Big 8 to Big 4",
+    "claim": "GAO reported that the number of firms able to audit large companies fell from eight in the 1980s to four, through mergers among six of the top eight firms and the abrupt dissolution of Arthur Andersen in 2002. The Big 4 are Deloitte & Touche, Ernst & Young, KPMG and PricewaterhouseCoopers.",
+    "quote": "The reduction was the result of mergers involving six of the top eight firms since the late 1980s and the abrupt dissolution of Arthur Andersen LLP (Andersen) in 2002.",
+    "source_id": "gao-03-864",
+    "file": "sources/08-sox-law-pcaob-profession/gao-03-864-accounting-firm-consolidation.pdf",
+    "locator": {
+      "pdf_page": 7,
+      "printed_page": "p. 1",
+      "section": "Letter (introduction), n. 2",
+      "lines": "300-330"
+    },
+    "source_type": "GAO report",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2002",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Footnote 2 lists the Big 8. Report dated July 2003 (released July 30, 2003 per GAO-03-1158).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-046",
+    "topic": "Big 4 dominance",
+    "claim": "GAO reported that the Big 4 audit over 78 percent of all U.S. public companies and 99 percent of public company annual sales.",
+    "quote": "These four firms currently audit over 78 percent of all U.S. public companies and 99 percent of public company annual sales.",
+    "source_id": "gao-03-864",
+    "file": "sources/08-sox-law-pcaob-profession/gao-03-864-accounting-firm-consolidation.pdf",
+    "locator": {
+      "pdf_page": 7,
+      "printed_page": "p. 1-2",
+      "section": "Letter (introduction); same figures in Highlights, PDF p. 2",
+      "lines": "312-342"
+    },
+    "source_type": "GAO report",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2003-07",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Quote spans PDF pp. 7-8 (printed 1-2).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim; quote spans PDF 7-8."
+  },
+  {
+    "id": "C-047",
+    "topic": "Why Andersen collapsed",
+    "claim": "GAO wrote that the criminal indictment of fourth-ranked Andersen for obstruction of justice, stemming from its role as Enron's auditor, led to a mass exodus of partners, staff and clients, and that Andersen was dissolved in 2002.",
+    "quote": "The criminal indictment of fourth-ranked Andersen for obstruction of justice stemming from its role as auditor of Enron Corporation led to a mass exodus of Andersen partners and staff as well as clients.",
+    "source_id": "gao-03-864",
+    "file": "sources/08-sox-law-pcaob-profession/gao-03-864-accounting-firm-consolidation.pdf",
+    "locator": {
+      "pdf_page": 18,
+      "printed_page": "p. 12",
+      "section": "Background: Big 8 mergers and Andersen",
+      "lines": "886-891"
+    },
+    "source_type": "GAO report",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2002",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-048",
+    "topic": "Andersen at the time of indictment",
+    "claim": "In 2001 Andersen was the fourth-largest U.S. accounting firm, with global net revenues over $9 billion; it was indicted by a federal grand jury on March 7, 2002, when it audited about 2,400 U.S. public companies.",
+    "quote": "On March 7, 2002, Andersen was indicted by a federal grand jury and charged with obstructing justice for destroying evidence relevant to investigations into the 2001 financial collapse of Enron.",
+    "source_id": "gao-03-864",
+    "file": "sources/08-sox-law-pcaob-profession/gao-03-864-accounting-firm-consolidation.pdf",
+    "locator": {
+      "pdf_page": 107,
+      "printed_page": "p. 101",
+      "section": "Appendix III: Arthur Andersen Case Study, Background",
+      "lines": "5680-5686"
+    },
+    "source_type": "GAO report",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2002-03-07",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Matches Batson on the indictment date (C-038).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-049",
+    "topic": "Where Andersen's clients went",
+    "claim": "Between October 2001 and December 2002, 1,085 Andersen public-company clients switched auditors: 938 (87 percent) to a Big 4 firm, most often Ernst & Young, and 147 (13 percent) to smaller firms.",
+    "quote": "of the 1,085 companies reviewed, 938 switched to one of the Big 4 (87 percent), and 147 switched to a non-Big 4 firm (13 percent).",
+    "source_id": "gao-03-864",
+    "file": "sources/08-sox-law-pcaob-profession/gao-03-864-accounting-firm-consolidation.pdf",
+    "locator": {
+      "pdf_page": 107,
+      "printed_page": "p. 101",
+      "section": "Appendix III: Most Andersen Clients Switched to a Big 4 Firm",
+      "lines": "5697-5705"
+    },
+    "source_type": "GAO report",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2001-10/2002-12",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Good data for a simple chart.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim at PDF 107 (two-column layout in text copy)."
+  },
+  {
+    "id": "C-050",
+    "topic": "Concentration after Andersen",
+    "claim": "GAO calculated that after Andersen's indictment and dissolution the market's Hirschman-Herfindahl Index rose to 2,566, well above the 1,800 level that signals a highly concentrated market; GAO said it was unclear whether the Justice Department's Antitrust Division had input into the decision to indict Andersen.",
+    "quote": "the criminal indictment of Andersen and subsequent dissolution resulted in the HHI increasing to 2,566, well above the threshold for significant market power.",
+    "source_id": "gao-03-864",
+    "file": "sources/08-sox-law-pcaob-profession/gao-03-864-accounting-firm-consolidation.pdf",
+    "locator": {
+      "pdf_page": 24,
+      "printed_page": "p. 18-19",
+      "section": "Market concentration section",
+      "lines": "1160-1199"
+    },
+    "source_type": "GAO report",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2002",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "HHI needs a glossary entry (sum of squared market shares; GAO's own worked example is in n. 13).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim; spans PDF 24-25."
+  },
+  {
+    "id": "C-051",
+    "topic": "GAO: no evidence yet of harm to competition",
+    "claim": "GAO found no evidence of impaired competition to date, but said the consolidation may have implications for competition and company choice in the future.",
+    "quote": "Although GAO found no evidence of impaired competition to date, the significant changes that have occurred in the profession may have implications for competition and public company choice",
+    "source_id": "gao-03-864",
+    "file": "sources/08-sox-law-pcaob-profession/gao-03-864-accounting-firm-consolidation.pdf",
+    "locator": {
+      "pdf_page": 2,
+      "printed_page": "Highlights page",
+      "section": "Highlights of GAO-03-864",
+      "lines": "45-50"
+    },
+    "source_type": "GAO report",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2003-07",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim in Highlights (two-column layout in text copy)."
+  },
+  {
+    "id": "C-052",
+    "topic": "Large companies want more choice",
+    "claim": "In a follow-up survey of 159 large public companies, GAO found 84 percent wanted more audit firms to choose from, while most would not consider using a non-Big 4 firm.",
+    "quote": "84 percent also indicated a preference for more firms from which to choose as most would not consider using a non-Big 4 firm.",
+    "source_id": "gao-03-1158",
+    "file": "sources/08-sox-law-pcaob-profession/gao-03-1158-accounting-firm-consolidation-selected-data.pdf",
+    "locator": {
+      "pdf_page": 2,
+      "printed_page": "Highlights page",
+      "section": "Highlights of GAO-03-1158",
+      "lines": "55-62"
+    },
+    "source_type": "GAO report",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2003-09",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Survey responses received through Aug 11, 2003.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim in Highlights (two-column layout in text copy)."
+  },
+  {
+    "id": "C-053",
+    "topic": "SEC did not review Enron's recent filings",
+    "claim": "Senate Governmental Affairs Committee staff found that SEC staff did not review any of Enron's annual reports after its 1997 report (review finished February 1999), because under the SEC's three-year cycle Enron was not due for review until 2002.",
+    "quote": "the SEC staff failed to review any of Enron's post-1997 financial filings",
+    "source_id": "rpt-sga-watchdogs",
+    "file": "sources/06-congressional-reports/sprt-financial-oversight-of-enron-sec-and-watchdogs.pdf",
+    "locator": {
+      "pdf_page": 8,
+      "printed_page": "p. 4",
+      "section": "Introduction; detail at Part One II, PDF p. 32 (printed 28)",
+      "lines": "350-352; 1941-1949"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [],
+    "event_date": "1999-02",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Report date Oct 7, 2002 (manifest).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-054",
+    "topic": "SEC review would likely have flagged footnote 16",
+    "claim": "The staff report said that had the SEC reviewed Enron's 2000 Form 10-K, items such as the 'now notorious footnote 16' on related-party transactions were likely to have led to questions and perhaps discovery of some wrongful practices.",
+    "quote": "The most notable of these, of course, is the now notorious footnote 16, which appeared in Enron's 2000 Form 10-K",
+    "source_id": "rpt-sga-watchdogs",
+    "file": "sources/06-congressional-reports/sprt-financial-oversight-of-enron-sec-and-watchdogs.pdf",
+    "locator": {
+      "pdf_page": 32,
+      "printed_page": "p. 28",
+      "section": "Part One II (SEC review of Enron filings)",
+      "lines": "1953-1962"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [],
+    "event_date": "2001-04",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Direct link to The Footnote page. Report says the footnote ran seven paragraphs and appeared in different form in the 1999 10-K. Filing date of the 2000 10-K is not given here; check the 10-K itself before using a date.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-055",
+    "topic": "SEC and mark-to-market (1992)",
+    "claim": "The staff report found that on January 30, 1992 the SEC's Office of Chief Accountant told Enron it would not object to mark-to-market accounting for an Enron subsidiary starting in 1992; Enron replied it would adopt it from the start of 1991, and the SEC apparently did not respond.",
+    "quote": "Apparently, the SEC did not respond further to this correspondence",
+    "source_id": "rpt-sga-watchdogs",
+    "file": "sources/06-congressional-reports/sprt-financial-oversight-of-enron-sec-and-watchdogs.pdf",
+    "locator": {
+      "pdf_page": 36,
+      "printed_page": "p. 32",
+      "section": "Part One II (SEC's mark-to-market determination)",
+      "lines": "2243-2254"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [
+      "Jeffrey Skilling"
+    ],
+    "event_date": "1992-01-30",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Staff says Skilling met SEC staff twice (same page). Subsidiary is Enron Gas Services (EGS). Coordinate with the reader covering mark-to-market.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-056",
+    "topic": "Andersen's own warnings (Senate staff)",
+    "claim": "The staff report said Andersen partners, in internal risk analysis, described some Enron business as 'form over substance transactions' and, in a February 6, 2001 e-mail, noted how 'aggressive' Enron's accounting was; it concluded Enron's auditor failed to verify the accuracy of Enron's books.",
+    "quote": "the result is clear: Enron's auditor failed to discharge its role of verifying the accuracy of Enron's books.",
+    "source_id": "rpt-sga-watchdogs",
+    "file": "sources/06-congressional-reports/sprt-financial-oversight-of-enron-sec-and-watchdogs.pdf",
+    "locator": {
+      "pdf_page": 26,
+      "printed_page": "p. 22",
+      "section": "Part One II.1 Enron's Auditor",
+      "lines": "1540-1564"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [],
+    "event_date": "2001-02-06",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Also reports the PSI conclusion that Andersen warned the board of 'high-risk accounting' (cite rpt-psi-board directly if used).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-057",
+    "topic": "Analysts kept saying 'buy' (staff report)",
+    "claim": "The staff report found that all 15 analysts at major Wall Street firms covering Enron were recommending 'buy' when news of its financial misdeeds first came out, and 10 of the 15 still were three weeks later, after the SEC investigation, the CFO's departure and the restatement announcement; it tied this to firms' investment-banking interests.",
+    "quote": "Of 15 analysts at major Wall Street firms who covered Enron, all 15 were recommending that investors buy Enron stock when the news about the company's financial misdeeds was first revealed.",
+    "source_id": "rpt-sga-watchdogs",
+    "file": "sources/06-congressional-reports/sprt-financial-oversight-of-enron-sec-and-watchdogs.pdf",
+    "locator": {
+      "pdf_page": 9,
+      "printed_page": "p. 5",
+      "section": "Introduction",
+      "lines": "440-450"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [],
+    "event_date": "2001-10/2001-11",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-058",
+    "topic": "Analysts: 10 of 15 as late as Nov 8",
+    "claim": "At the Feb 27, 2002 hearing, Chairman Joseph Lieberman said 10 of 15 analysts following Enron still rated it 'buy' or 'strong buy' as late as November 8, 2001; Senator Fred Thompson's statement said that in early October 2001 16 analysts covered Enron and 15 rated it 'buy' or 'strong buy'.",
+    "quote": "Ten out of 15 analysts who follow Enron were still rating the stock as a ''buy'' or a ''strong buy'' as late as November 8.",
+    "source_id": "hrg-sga-analysts",
+    "file": "sources/05-hearings-enron/shrg-107-385-watchdogs-didnt-bark-analysts-2002-02-27.pdf",
+    "locator": {
+      "pdf_page": 6,
+      "printed_page": "p. 2",
+      "section": "Opening statement of Chairman Lieberman; Thompson prepared statement at PDF p. 9 (printed 5)",
+      "lines": "268-273; 458-463"
+    },
+    "source_type": "congressional hearing statement (member)",
+    "verb": "stated",
+    "people": [
+      "Joseph Lieberman",
+      "Fred Thompson"
+    ],
+    "event_date": "2001-11-08",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "DISAGREEMENT/uncertainty: 15 vs 16 analysts depending on the date and list (Thompson says 'Reports indicate'). Use the staff report (C-057) as the main figure and mention the variation.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-059",
+    "topic": "Credit rating agencies",
+    "claim": "The staff report found the credit rating agencies kept Enron at 'investment grade' until four days before it filed for bankruptcy; on November 28, 2001 all three agencies cut Enron below investment grade. Enron filed for bankruptcy on December 2, 2001.",
+    "quote": "On November 28, all three agencies downgraded Enron to below investment grade",
+    "source_id": "rpt-sga-watchdogs",
+    "file": "sources/06-congressional-reports/sprt-financial-oversight-of-enron-sec-and-watchdogs.pdf",
+    "locator": {
+      "pdf_page": 93,
+      "printed_page": "p. 89",
+      "section": "Part Two II (Credit Rating Agencies); introduction at PDF p. 9 (printed 5)",
+      "lines": "6028-6032"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [],
+    "event_date": "2001-11-28",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Bankruptcy date from Batson App. B Part 1, PDF p. 61 (printed 59), which also says the debt was downgraded to junk on Nov 28. Moody's B2, S&P B-, Fitch CC on that date.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-060",
+    "topic": "Rating agencies lacked diligence",
+    "claim": "Committee staff concluded the rating agencies failed to detect Enron's problems, or take them seriously enough, because they did not exercise proper diligence: they did not ask probing questions or weigh accounting irregularities and complex financing.",
+    "quote": "the rating agencies failed to detect Enron's problems—or take sufficiently seriously the problems they were aware of—until it was too late because they did not exercise the proper diligence.",
+    "source_id": "rpt-sga-watchdogs",
+    "file": "sources/06-congressional-reports/sprt-financial-oversight-of-enron-sec-and-watchdogs.pdf",
+    "locator": {
+      "pdf_page": 10,
+      "printed_page": "p. 6",
+      "section": "Introduction",
+      "lines": "486-495"
+    },
+    "source_type": "congressional staff report",
+    "verb": "found",
+    "people": [],
+    "event_date": null,
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-061",
+    "topic": "Enron's 401(k) match was in Enron stock",
+    "claim": "GAO testified that Enron matched 50 percent of employees' pre-tax 401(k) contributions up to 6 percent of base pay, with the match invested only in Enron stock, which employees could not move until age 50. Enron's plans covered over 20,000 employees.",
+    "quote": "with the matching contributions invested solely in the Enron Corporation Stock Fund.",
+    "source_id": "gao-02-480t-pensions",
+    "file": "sources/05-hearings-enron/gao-02-480t-private-pensions-after-enron-2002-02-27.pdf",
+    "locator": {
+      "pdf_page": 7,
+      "printed_page": "p. 6",
+      "section": "Background (Enron's plans)",
+      "lines": "231-243"
+    },
+    "source_type": "GAO report (testimony of Comptroller General David Walker)",
+    "verb": "testified",
+    "people": [
+      "David Walker"
+    ],
+    "event_date": null,
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Enron plan chairman James Prentice testified the stock match was reinstituted in 1998 and restricted until age 50 (C-068).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-062",
+    "topic": "63% of 401(k) assets in Enron stock",
+    "claim": "GAO cited Labor Department figures that 63 percent of Enron's 401(k) assets were invested in company stock at the end of 2000.",
+    "quote": "DOL reports that 63 percent of Enron's 401(k) assets were invested in company stock as of the end of 2000.",
+    "source_id": "gao-02-480t-pensions",
+    "file": "sources/05-hearings-enron/gao-02-480t-private-pensions-after-enron-2002-02-27.pdf",
+    "locator": {
+      "pdf_page": 8,
+      "printed_page": "p. 7",
+      "section": "Investment Sophistication May Be Needed",
+      "lines": "312-314"
+    },
+    "source_type": "GAO report (testimony)",
+    "verb": "testified",
+    "people": [],
+    "event_date": "2000-12-31",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Figure is GAO relaying DOL. No library document I read gives a different percentage.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-063",
+    "topic": "The lockdown (GAO)",
+    "claim": "GAO said Enron's plan fiduciaries imposed a 'lockdown' on the 401(k) plan, blocking withdrawals and transfers while the stock was falling, in order to change recordkeepers, an acceptable practice; but executives faced no similar limits on company stock held outside the plan.",
+    "quote": "Enron imposed the lockdown to change recordkeepers, an acceptable practice.",
+    "source_id": "gao-02-480t-pensions",
+    "file": "sources/05-hearings-enron/gao-02-480t-private-pensions-after-enron-2002-02-27.pdf",
+    "locator": {
+      "pdf_page": 13,
+      "printed_page": "p. 11-12",
+      "section": "ERISA Requires Fiduciaries to be Prudent and Reasonable",
+      "lines": "514-541"
+    },
+    "source_type": "GAO report (testimony)",
+    "verb": "testified",
+    "people": [],
+    "event_date": "2001-10",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "GAO notes observers questioned whether employees were adequately notified. GAO gives no lockdown dates.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-064",
+    "topic": "Employees' 401(k) losses",
+    "claim": "Senator Edward Kennedy, opening the Feb 7, 2002 HELP hearing, said Enron executives cashed out more than $1 billion of stock while workers lost more than $1 billion from their 401(k) plans.",
+    "quote": "At Enron, executives cashed out more than $1 billion of stock while Enron workers lost more than $1 billion from their 401(k) retirement plans.",
+    "source_id": "hrg-help-pensions",
+    "file": "sources/05-hearings-enron/shrg-107-464-protecting-pensions-2002-02-07.pdf",
+    "locator": {
+      "pdf_page": 5,
+      "printed_page": "p. 1",
+      "section": "Opening statement of Senator Kennedy",
+      "lines": "140-142"
+    },
+    "source_type": "congressional hearing statement (member)",
+    "verb": "stated",
+    "people": [
+      "Edward Kennedy"
+    ],
+    "event_date": "2001",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "A senator's statement, not a finding. Rep. Ken Bentsen at the same hearing said the plan lost 'about $1 billion' (C-065). Use 'about $1 billion' with attribution.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-065",
+    "topic": "Lockdown dates disagree",
+    "claim": "Rep. Ken Bentsen testified the plan lost about $1 billion and that during the lockdown the stock fell from $30.72 at the close on October 16 to $11.69 on November 19, 2001; he described an 'October 16 lockdown' noticed by a letter dated October 8.",
+    "quote": "Enron Corporation's 401(k) plan lost about $1 billion in value.",
+    "source_id": "hrg-help-pensions",
+    "file": "sources/05-hearings-enron/shrg-107-464-protecting-pensions-2002-02-07.pdf",
+    "locator": {
+      "pdf_page": 23,
+      "printed_page": "p. 19",
+      "section": "Testimony of Rep. Ken Bentsen",
+      "lines": "1177-1187"
+    },
+    "source_type": "hearing testimony (Member of Congress as witness)",
+    "verb": "testified",
+    "people": [
+      "Ken Bentsen",
+      "Charles Presswood"
+    ],
+    "event_date": "2001-10-16",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "DISAGREEMENT: Fleetham's notice said the lockdown ran Oct 20-Nov 19 (C-066); Lacey said PGE employees were locked out in late September (C-067). State the dates as disputed.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-066",
+    "topic": "An employee's notice of the lockdown",
+    "claim": "Former Enron employee Jan Fleetham testified she received on October 15 a letter dated October 8 saying she could not access her account from October 20 to November 19, 2001.",
+    "quote": "I would be unable to access my account from October 20th to November 19th.",
+    "source_id": "hrg-help-pensions",
+    "file": "sources/05-hearings-enron/shrg-107-464-protecting-pensions-2002-02-07.pdf",
+    "locator": {
+      "pdf_page": 69,
+      "printed_page": "p. 65",
+      "section": "Prepared statement of Jan Fleetham (oral version at PDF p. 67, printed 63)",
+      "lines": "3908-3910"
+    },
+    "source_type": "hearing testimony",
+    "verb": "testified",
+    "people": [
+      "Jan Fleetham"
+    ],
+    "event_date": "2001-10-20",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Her sale ordered Oct 9 was confirmed with an Oct 30 withdrawal date and she received a check dated Nov 9 for about 10 percent of what she expected (same page).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-067",
+    "topic": "Portland General employees locked out earlier",
+    "claim": "Portland General Electric employee Steve Lacey testified that most PGE employees were 100 percent in Enron stock, that PGE employees could not get into the plan website as early as late September 2001, and that his own losses exceeded $100,000.",
+    "quote": "So that effectively, we were locked out in late September.",
+    "source_id": "hrg-help-pensions",
+    "file": "sources/05-hearings-enron/shrg-107-464-protecting-pensions-2002-02-07.pdf",
+    "locator": {
+      "pdf_page": 63,
+      "printed_page": "p. 59",
+      "section": "Testimony of Steven E. Lacey (begins PDF p. 62)",
+      "lines": "3500-3515"
+    },
+    "source_type": "hearing testimony",
+    "verb": "testified",
+    "people": [
+      "Steven Lacey"
+    ],
+    "event_date": "2001-09",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "He speaks only for his own workplace ('I cannot speak for Houston'). Lawsuit he filed is mentioned but not its outcome.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-068",
+    "topic": "Plan chairman on the 401(k) design",
+    "claim": "James Prentice, chairman of the Enron Savings Plan's Administrative Committee, testified that employees could choose among 20 investment options, but the company's matching Enron stock, reinstituted in 1998, could not be moved until age 50.",
+    "quote": "Employees were not permitted to shift the match from Enron to other investment options until they reached the age of 50.",
+    "source_id": "hrg-help-pensions",
+    "file": "sources/05-hearings-enron/shrg-107-464-protecting-pensions-2002-02-07.pdf",
+    "locator": {
+      "pdf_page": 74,
+      "printed_page": "p. 70",
+      "section": "Testimony of James Prentice",
+      "lines": "4183-4225"
+    },
+    "source_type": "hearing testimony",
+    "verb": "testified",
+    "people": [
+      "James Prentice"
+    ],
+    "event_date": null,
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Prentice said he could not address Enron's accounting issues.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-069",
+    "topic": "Labor Department investigation",
+    "claim": "Labor Secretary Elaine Chao testified that on November 16, 2001, over two weeks before the bankruptcy, the Labor Department opened an investigation of Enron's pension plans, including the blackout period.",
+    "quote": "On November 16, 2001, over two weeks before Enron declared bankruptcy, the Department launched an investigation into the activities of Enron's pension plans.",
+    "source_id": "hrg-help-pensions",
+    "file": "sources/05-hearings-enron/shrg-107-464-protecting-pensions-2002-02-07.pdf",
+    "locator": {
+      "pdf_page": 32,
+      "printed_page": "p. 28",
+      "section": "Prepared statement of Elaine L. Chao",
+      "lines": "1701-1706"
+    },
+    "source_type": "prepared statement submitted for the hearing record",
+    "verb": "stated",
+    "people": [
+      "Elaine Chao"
+    ],
+    "event_date": "2001-11-16",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Outcome of the DOL investigation is not in the library (gap).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-070",
+    "topic": "SOX signed",
+    "claim": "President Bush signed the Sarbanes-Oxley Act (Public Law 107-204) on July 30, 2002; CRS noted some described it as the most important securities legislation since the 1933 and 1934 securities acts.",
+    "quote": "On July 30, 2002, President Bush signed into law the Sarbanes-Oxley Act of 2002, P.L. 107-204.",
+    "source_id": "sox-crs-summary",
+    "file": "sources/07-sox-legislative-history/crs-rl31554-sox-summary.pdf",
+    "locator": {
+      "pdf_page": 2,
+      "printed_page": "Summary page",
+      "section": "Summary",
+      "lines": "33-40"
+    },
+    "source_type": "Congressional Research Service report",
+    "verb": "reported",
+    "people": [
+      "George W. Bush"
+    ],
+    "event_date": "2002-07-30",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "The 'most important' line is CRS reporting what 'some' said; attribute it. Law text header also shows July 30, 2002.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-071",
+    "topic": "Bush at the signing",
+    "claim": "At the July 30, 2002 signing, President Bush called the law the most far-reaching reform of American business practices since Franklin Roosevelt and said, of accountants, 'The auditors will be audited.'",
+    "quote": "The auditors will be audited.",
+    "source_id": "sox-bush-remarks",
+    "file": "sources/07-sox-legislative-history/wcpd-2002-bush-remarks-signing-sox-2002-07-30.pdf",
+    "locator": {
+      "pdf_page": 2,
+      "printed_page": "p. 1284",
+      "section": "Remarks on Signing the Sarbanes-Oxley Act of 2002 (Weekly Comp. Pres. Doc., vol. 38)",
+      "lines": ""
+    },
+    "source_type": "presidential remarks (official record)",
+    "verb": "stated",
+    "people": [
+      "George W. Bush"
+    ],
+    "event_date": "2002-07-30",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Brief allows one short quote. Same page: CEOs and CFOs 'must personally vouch' for disclosures.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source. Verbatim (two-column layout in text copy)."
+  },
+  {
+    "id": "C-072",
+    "topic": "SOX Sec. 101: the PCAOB",
+    "claim": "Section 101 created the Public Company Accounting Oversight Board to oversee audits of public companies; it is a nonprofit corporation, not a government agency, whose duties include registering audit firms, setting auditing standards and inspecting firms.",
+    "quote": "There is established the Public Company Accounting Oversight Board, to oversee the audit of public companies that are subject to the securities laws",
+    "source_id": "sox-plaw-html",
+    "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Sec. 101(a)-(c)",
+      "lines": "371-400"
+    },
+    "source_type": "statute",
+    "verb": "stated",
+    "people": [],
+    "event_date": "2002-07-30",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-073",
+    "topic": "SOX Sec. 101(e): five members, only two CPAs",
+    "claim": "The PCAOB has five full-time members; two, and only two, must be or have been certified public accountants.",
+    "quote": "Two members, and only 2 members, of the Board shall be or have been certified public accountants",
+    "source_id": "sox-plaw-html",
+    "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Sec. 101(e)(1)-(2)",
+      "lines": "437-451"
+    },
+    "source_type": "statute",
+    "verb": "stated",
+    "people": [],
+    "event_date": "2002-07-30",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "If a CPA is chair, he or she must not have practiced as a CPA for at least 5 years before appointment.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-074",
+    "topic": "SOX Sec. 201: banned non-audit services",
+    "claim": "Section 201 makes it unlawful for a registered audit firm to provide certain non-audit services to a company it audits, including bookkeeping, financial systems design, appraisal, actuarial, internal audit outsourcing, management or HR functions, investment banking, and legal services unrelated to the audit; other non-audit services, including tax, need advance approval by the company's audit committee.",
+    "quote": "it shall be unlawful for a registered public accounting firm ... to provide to that issuer, contemporaneously with the audit, any non-audit service",
+    "source_id": "sox-plaw-html",
+    "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": "116 Stat. 771-772",
+      "section": "Sec. 201(a), adding Exchange Act Sec. 10A(g)-(h)",
+      "lines": "1694-1733"
+    },
+    "source_type": "statute",
+    "verb": "stated",
+    "people": [],
+    "event_date": "2002-07-30",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Quote contains an ellipsis for omitted words; verbatim otherwise. Connects to the Andersen fee cards (C-019 to C-022).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-075",
+    "topic": "SOX Sec. 203: audit partner rotation",
+    "claim": "Section 203 bars an audit firm from auditing a company if its lead audit partner, or the reviewing partner, has done the audit in each of the five previous fiscal years.",
+    "quote": "has performed audit services for that issuer in each of the 5 previous fiscal years of that issuer.",
+    "source_id": "sox-plaw-html",
+    "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Sec. 203, adding Exchange Act Sec. 10A(j)",
+      "lines": "1802-1812"
+    },
+    "source_type": "statute",
+    "verb": "stated",
+    "people": [],
+    "event_date": "2002-07-30",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Compare Andersen's own seven-year rotation (C-036).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-076",
+    "topic": "SOX Sec. 302: CEO/CFO certification",
+    "claim": "Section 302 requires the SEC to make a company's principal executive and financial officers certify each annual and quarterly report: that they reviewed it, that it contains no material untrue statements or omissions, that the financial statements fairly present the company's condition, and that they are responsible for internal controls.",
+    "quote": "the signing officer has reviewed the report",
+    "source_id": "sox-plaw-html",
+    "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Sec. 302(a)",
+      "lines": "2040-2072"
+    },
+    "source_type": "statute",
+    "verb": "stated",
+    "people": [],
+    "event_date": "2002-07-30",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-077",
+    "topic": "SOX Sec. 906: criminal penalties for false certification",
+    "claim": "CRS summarized that Section 906 separately requires CEOs and CFOs to certify periodic reports, with up to $1 million and 10 years for a knowing false certification and up to $5 million and 20 years for a willful one.",
+    "quote": "would face a fine of up to $5 million, imprisonment of not more than 20 years, or both.",
+    "source_id": "sox-crs-summary",
+    "file": "sources/07-sox-legislative-history/crs-rl31554-sox-summary.pdf",
+    "locator": {
+      "pdf_page": 16,
+      "printed_page": "CRS-13",
+      "section": "Title IX summary (Sec. 906)",
+      "lines": "728-739"
+    },
+    "source_type": "Congressional Research Service report",
+    "verb": "reported",
+    "people": [],
+    "event_date": "2002-07-30",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Sec. 906 was not in my brief's list; included because it pairs with Sec. 302 for Chapter 7/Phase 2. Drop if not needed.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-078",
+    "topic": "SOX Sec. 404: internal control report",
+    "claim": "Section 404 requires each annual report to include management's statement of responsibility for internal control over financial reporting and an assessment of its effectiveness, and requires the company's auditor to attest to and report on that assessment.",
+    "quote": "each registered public accounting firm that prepares or issues the audit report for the issuer shall attest to, and report on, the assessment made by the management of the issuer.",
+    "source_id": "sox-plaw-html",
+    "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Sec. 404(a)-(b)",
+      "lines": "2793-2815"
+    },
+    "source_type": "statute",
+    "verb": "stated",
+    "people": [],
+    "event_date": "2002-07-30",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-079",
+    "topic": "SOX Sec. 802: destroying documents",
+    "claim": "Section 802 made it a crime, punishable by up to 20 years, to knowingly destroy or alter records to obstruct a federal investigation or bankruptcy case, including 'in contemplation' of one; it also requires auditors to keep audit workpapers for five years, with up to 10 years' prison for knowing and willful violations.",
+    "quote": "shall be fined under this title, imprisoned not more than 20 years, or both.",
+    "source_id": "sox-plaw-html",
+    "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "Sec. 802(a), adding 18 U.S.C. 1519 and 1520",
+      "lines": "3490-3530"
+    },
+    "source_type": "statute",
+    "verb": "stated",
+    "people": [],
+    "event_date": "2002-07-30",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Directly responds to the Andersen shredding. Note the 'in relation to or contemplation of' wording vs. the Supreme Court's nexus concern under Sec. 1512 (C-044). Do not claim Congress intended this link unless a legislative-history source says so.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-080",
+    "topic": "SOX Sec. 806: whistleblower protection",
+    "claim": "Section 806 bars public companies from firing, demoting, threatening or harassing employees for lawfully giving information about suspected securities fraud to federal agencies, Congress, or a supervisor, and gives them a civil action.",
+    "quote": "may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee",
+    "source_id": "sox-plaw-html",
+    "file": "sources/08-sox-law-pcaob-profession/plaw-107-204-sarbanes-oxley-act.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": "116 Stat. 802-803",
+      "section": "Sec. 806(a), adding 18 U.S.C. 1514A",
+      "lines": "3656-3690"
+    },
+    "source_type": "statute",
+    "verb": "stated",
+    "people": [],
+    "event_date": "2002-07-30",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Links to the whistleblower chapter (Watkins).",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  },
+  {
+    "id": "C-081",
+    "topic": "PCAOB ready to operate",
+    "claim": "On April 25, 2003, the SEC announced it had determined that the PCAOB was appropriately organized and able to carry out the Act, under Section 101(d); SEC Chairman William Donaldson named founding members Charles Niemeier (acting chairman), Dan Goelzer, Kayla Gillan and Bill Gradison.",
+    "quote": "the PCAOB has been determined to be appropriately organized and has the capacity to carry out the requirements of the Sarbanes-Oxley Act.",
+    "source_id": "sec-press-2003-52",
+    "file": "sources/08-sox-law-pcaob-profession/sec-press-2003-52-pcaob-organized.htm",
+    "locator": {
+      "pdf_page": null,
+      "printed_page": null,
+      "section": "SEC Press Release 2003-52",
+      "lines": ""
+    },
+    "source_type": "government press release",
+    "verb": "stated",
+    "people": [
+      "William H. Donaldson",
+      "Charles Niemeier",
+      "Dan Goelzer",
+      "Kayla Gillan",
+      "Bill Gradison"
+    ],
+    "event_date": "2003-04-25",
+    "from_ocr": false,
+    "ocr_checked_against_image": false,
+    "notes": "Only four members are named although the Act provides for five; the release does not explain the fifth seat. Do not fill it from memory.",
+    "checked": "OK",
+    "checker_note": "Fingerprint OK. Quote verified verbatim at the cited locator; claim, verb and source type consistent with the source."
+  }
+]

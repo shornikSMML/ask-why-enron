@@ -1,0 +1,99 @@
+# Applies the Fact-Checker's Phase 2 lens findings (work/facts/factcheck-phase2-lenses.md)
+# to build_lenses.py and writes the old/new log to work/facts/fixes-phase2-lenses.md.
+import re
+P = 'build_lenses.py'
+s = open(P).read()
+FIX = [
+("G-1", "should-fix", "    return {'card': cid, 'source_id': c['source_id'], 'page': page, 'loc': ', '.join(bits)}",
+ "    if c['source_id'] == 'powers-report-sec':\n        page = None  # G-1: .txt source; PDF page numbers belong to the separate powers-report copy\n    return {'card': cid, 'source_id': c['source_id'], 'page': page, 'loc': ', '.join(bits)}"),
+("1-1", "should-fix", "all three Enron 2000 targets were about reported net income and how fast it grew, year after year.",
+ "all three Enron 2000 targets were about reported earnings and how fast they grew, year after year."),
+("2-1", "should-fix", "the SEC's accounting office agreed to mark-to-market accounting starting in 1992; Enron replied that it would start a year earlier.",
+ "the SEC's accounting office said it would not object to mark-to-market accounting for an Enron subsidiary starting in 1992; Enron replied that it would start a year earlier."),
+("2-2", "should-fix", "S('1999', 'EnronOnline customers', \"Enron launched EnronOnline; its annual report later told readers that customers traded \\\"with Enron as principal.\\\"\", 'A-018'),",
+ "S('2001', 'Readers of the 2000 Form 10-K', \"Were told that on EnronOnline, launched in late 1999, customers traded \\\"with Enron as principal.\\\"\", 'A-018'),"),
+("2-3 (note)", "note", " The information was published; understanding it took expertise.\"", ".\""),
+("2-4 (note)", "note", "The bankruptcy examiner later concluded that without six accounting techniques",
+ "The bankruptcy examiner, in an earlier report summarized in his final one, later concluded that without six accounting techniques"),
+("3-1", "must-fix", "The Board: twice the Raptors were rescued without a loss being recorded. The committee saw no evidence",
+ "The Board: twice the Raptors' credit problem was fixed so that Enron avoided a large charge: no reserve at the end of 2000, and only a $36.6 million reserve in March 2001 instead of a charge of more than $500 million. The committee saw no evidence"),
+("3-2 (note)", "should-fix", "would have been $429 million instead of $1.506 billion. For LJM2",
+ "would have been $429 million instead of $1.506 billion, not counting the $710 million charge to end the Raptors; the committee noted it could not know what Enron would otherwise have done. For LJM2"),
+("3-2 (summary)", "should-fix", "would have been $429 million rather than $1.506 billion, a 72% decline.\", 'A-054'),",
+ "would have been $429 million rather than $1.506 billion, a 72% decline (not counting the $710 million charge to end the Raptors; the committee noted it could not know what Enron would otherwise have done).\", 'A-054', 'A-058'),"),
+("3-3", "should-fix", "Follow the money: the pattern was to sell near the end of a quarter and buy back later, with LJM making a profit each time.",
+ "Follow the money: in seven sales near the ends of two 1999 quarters, Enron later bought back five, and LJM made a profit every time; the committee noted plausible, more innocent explanations for some buybacks."),
+("3-4", "should-fix", " Enron itself disclosed on November 8, 2001 that it believed Fastow had received more than $30 million.\"", "\""),
+("3-5 (summary)", "should-fix", "B(\"Kaminski's research group estimated a 68% probability that the Rhythms structure would default;",
+ "B(\"Kaminski told the committee that his group estimated, in early 2000, a 68% probability that the Rhythms structure would default;"),
+("3-5 (strip)", "should-fix", "S('2000', \"Enron's research group\", \"Estimated, in early 2000, a 68% probability",
+ "S('2000', \"Vince Kaminski (head of research)\", \"Told the special committee that his group estimated, in early 2000, a 68% probability"),
+("3-6 (note)", "note", "and that Fastow negotiated about $10 million.\", 'A-036', 'A-037'),",
+ "and that Fastow negotiated about $10 million. Fastow said he did not take part; the committee found that contrary to other evidence.\", 'A-036', 'A-037'),"),
+("4-1", "must-fix", "Who Knew What, When: from August 15, 2001, the documents show that Lay had been warned in writing. The same letter said,",
+ "Who Knew What, When: Watkins testified that she gave Lay her anonymous letter on August 15, 2001. The letter said,"),
+("4-2", "must-fix", "S('2001-08-15', 'Kenneth Lay', \"Received Watkins's anonymous letter: \\\"I am",
+ "S('2001-08-15', 'Kenneth Lay', \"Watkins testified that she gave him her anonymous letter that day. It said: \\\"I am"),
+("4-3", "should-fix", "by February 2001, senior Andersen partners had put in writing how \\\"aggressive\\\" Enron's accounting was, the Senate staff found.",
+ "by February 2001, an Andersen partner's e-mail about the client-retention meeting noted how \\\"aggressive\\\" Enron's accounting was, the Senate staff found."),
+("4-4", "should-fix", "B(\"Andersen's partners described Enron's accounting as pushing limits in February 1999 and as aggressive in February 2001, according to the Senate staff reports.\"",
+ "B(\"Andersen's lead partner wrote in February 1999 that many practices \\\"push limits\\\"; a partner's February 2001 e-mail called the accounting \\\"aggressive,\\\" according to the Senate staff reports.\""),
+("4-5", "should-fix", "The Auditors: the request to remove Bass came from the client's chief accounting officer. The examiner reported that another Andersen partner, John Stewart, testified at Andersen's 2002 trial that he found the removal unprofessional.",
+ "The Auditors: the request to remove Bass came from the client's chief accounting officer, Bass was told. The examiner reported that another Andersen partner, John Stewart, testified at Andersen's 2002 trial that he found Enron's request unprofessional and was upset that the firm had agreed to it."),
+("4-6", "should-fix", "B(\"In early 2001, the examiner reported, Andersen agreed to Causey's request to remove its accounting expert Carl Bass from the Enron engagement.\"",
+ "B(\"In early 2001, the examiner reported, Carl Bass was told that Causey had asked for his removal from the Enron engagement and that Andersen had agreed.\""),
+("4-7", "should-fix", "but that he never heard terms such as \\\"form over substance\\\" used.\"",
+ "but that, as far as he recalled, he never heard terms such as \\\"form over substance\\\" used.\""),
+("4-8", "should-fix", "Who Knew What, When: the dates matter here. The SEC alleged these September 26 statements were false and misleading; Watkins's letter and meeting were on August 15 and 22. Lay was later convicted,",
+ "Who Knew What, When: The SEC alleged these September 26 statements were false and misleading. Lay was later convicted,"),
+("4-8 (cites)", "should-fix", "(Chapter 7).\", 'B-004', 'B-055', 'B-056', 'B-011'),", "(Chapter 7).\", 'B-004', 'B-011'),"),
+("4-9", "should-fix", "warnings reached Andersen's partners, Enron's chairman and Enron's accountants, while,",
+ "warnings reached Andersen's partners, Enron's accountants and, Watkins testified, Enron's chairman, while,"),
+("5-1", "should-fix", "these were debt triggers: terms making loans come due early if Enron's credit rating or stock price fell. One downgrade made a $690 million note payable, and about $3.9 billion more could follow.",
+ "these were debt triggers: terms that could make debts come due early if Enron's credit rating fell (for some, only if its stock price was also low). One downgrade meant a $690 million note would come due unless Enron posted collateral, and about $3.9 billion more could follow."),
+("5-2", "should-fix", "Who Knew What, When: the analysts had the same public news as everyone else, and most kept recommending the stock.",
+ "Who Knew What, When: most analysts kept recommending the stock after the bad news."),
+("5-3 (note)", "note", "The Senate staff also found a sham sale funded", "The Senate staff also found what it called a \\\"sham\\\" sale funded"),
+("5-4 (note)", "note", "S('2001-10-16', 'Investors on the conference call',", "S('2001-10-16', \"Analysts and investors on Enron's conference call\","),
+("6-1", "must-fix", "'ask_why': \"Andersen's lawyer reminded the Enron team of the retention policy on October 12, and the shredding stopped on November 9.",
+ "'ask_why': \"Andersen's lawyer suggested on October 12 that the Enron team be reminded of the retention policy, and, by Andersen's account, the shredding stopped shortly after November 9."),
+("6-2", "should-fix", "B(\"Andersen's lawyer e-mailed a reminder of the retention policy on October 12;",
+ "B(\"Andersen's lawyer e-mailed a partner on October 12 suggesting the engagement team be reminded of the retention policy;"),
+("6-3", "should-fix", "said he acted on the lawyer's e-mail. Duncan did not testify himself.\"",
+ "said he acted on the lawyer's e-mail. Duncan declined to answer questions at the hearing.\""),
+("6-4", "should-fix", "The Auditors: thirty meetings of about an hour each, over almost five years, is limited time to explain the accounting of a company as complex as Enron.",
+ "The Auditors: Duncan wrote in December 2000 that the presentation had to fit \\\"about a 30 - 45 minute presentation,\\\" so \\\"we necessarily have to stay at a certain level.\\\""),
+("6-5 (note)", "note", "84 percent of large public companies said", "84 percent of the large public companies GAO surveyed said"),
+("6-6 (note)", "note", "Andersen testified that much of the \\\"consulting\\\"", "Andersen partner Michael Odom testified that much of the \\\"consulting\\\""),
+("7-1", "should-fix", "S('2001-10-15', 'Jan Fleetham (Enron employee)', \"Received a letter dated October 8 saying",
+ "S('2001-10-15', 'Jan Fleetham (Enron employee)', \"Told the committee, in her written statement, that on October 15 she received a letter dated October 8 saying"),
+("7-2 (note)", "should-fix", "The plan's chairman testified that employees", "The chairman of the plan's administrative committee told the committee that employees"),
+("7-2 (summary)", "should-fix", "a congressman testified the plan lost", "a congressman told the committee the plan lost"),
+]
+log = ["# Fixes: Phase 2 lens content\n",
+       "Lens Writer, applying `work/facts/factcheck-phase2-lenses.md`. Edited `work/drafts/lens-src/build_lenses.py` (by `apply_phase2_fixes.py` in the same folder) and rebuilt `work/drafts/lenses.json`.\n",
+       "| # | severity | old | new |", "|---|---|---|---|"]
+def cell(t): return t.replace('|', '\\|').replace('\n', ' ').replace('\\"', '"')
+for fid, sev, old, new in FIX:
+    assert s.count(old) == 1, (fid, s.count(old))
+    s = s.replace(old, new)
+    log.append(f"| {fid} | {sev} | {cell(old)} | {cell(new)} |")
+# Strips in date order (2-2 moved an entry to 2001)
+s = s.replace("            assert 3 <= len(d['strip']) <= 8, ch\n",
+              "            assert 3 <= len(d['strip']) <= 8, ch\n            d['strip'].sort(key=lambda e: e['date'])\n")
+# Quotes verified by the Fact-Checker at the source but not held in a card quote/claim/note
+s = s.replace("problems = []\n", "problems = []\nCHECKER_VERIFIED = ['we necessarily have to stay at a certain level']\n")
+s = s.replace("        if qq not in src:", "        if qq not in src and qq not in CHECKER_VERIFIED:")
+s = s.replace(".replace('\\u2014', '-')", ".replace('\\u2014', '-').replace('\\u2013', '-')")
+open(P, 'w').write(s)
+log += ["",
+ "Notes not applied:",
+ "- 1-2 (optional): the bullet already cites B-077, whose locator is the Senate subcommittee staff's director list (rpt-psi-board PDF 6), which gives both 1985 dates. No card holds the examiner's n. 130, so I added no batson-final-app-d citation.",
+ "- 6-7 (optional): no checked card covers the full opinion at 544 U.S. 704. The Syllabus citation (C-044) stays, labeled as the Syllabus.",
+ "",
+ "Other changes:",
+ "- 3-4: I dropped the sentence rather than cite `enron-8k-nov-2001` without a card.",
+ "- 6-4: the second quotation is verified by the Fact-Checker (batson-final-app-b-part2 p. 131, n. 472) and cited to C-035, whose locator is the same page. It is whitelisted in the build's quote check.",
+ "- The build now sorts each strip by date."]
+open('../../facts/fixes-phase2-lenses.md', 'w').write('\n'.join(log) + '\n')
+print('applied', len(FIX))

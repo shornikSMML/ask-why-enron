@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 1010" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+  <title id="t">How a special purpose entity can move assets and debt off a company's balance sheet (phone layout)</title>
+  <desc id="d">Generic illustration, not Enron-specific. Step 1: the company transfers an asset to a separate entity, the special purpose entity or SPE. Step 2: outside investors and lenders put cash into the SPE. Step 3: the SPE pays the company cash for the asset. Result: if the accounting rules treat the SPE as truly separate, the asset and the SPE's debt stay off the company's balance sheet, and the company reports cash coming in, sometimes with a gain. The catch: if the company still carries the risk, for example by promising to repay the SPE's lenders, the SPE is not really independent.</desc>
+  <style>
+    svg { --d-bg:#fcfcfb; --d-ink:#1b1b1a; --d-muted:#52514e; --d-line:#8a8984; --d-co:#e3eefb; --d-co-edge:#2a78d6; --d-spe:#fde8df; --d-spe-edge:#c4501f; --d-out:#eeeeec; --d-note:#f6f3e6; }
+    @media (prefers-color-scheme: dark) {
+      svg { --d-bg:#1a1a19; --d-ink:#f2f2f0; --d-muted:#c3c2b7; --d-line:#9a998f; --d-co:#1d2d42; --d-co-edge:#3987e5; --d-spe:#3d241a; --d-spe-edge:#e0703f; --d-out:#2a2a28; --d-note:#2b2920; }
+    }
+    .bg   { fill: var(--diagram-bg, var(--d-bg)); }
+    .ink  { fill: var(--diagram-ink, var(--d-ink)); }
+    .mut  { fill: var(--diagram-muted, var(--d-muted)); }
+    .co   { fill: var(--d-co); stroke: var(--d-co-edge); stroke-width: 2.5; }
+    .spe  { fill: var(--d-spe); stroke: var(--d-spe-edge); stroke-width: 2.5; }
+    .out  { fill: var(--d-out); stroke: var(--d-line); stroke-width: 2; }
+    .note { fill: var(--d-note); stroke: var(--d-line); stroke-width: 1.5; }
+    .zone { fill: none; stroke: var(--d-line); stroke-width: 2; stroke-dasharray: 8 6; }
+    .arr  { fill: none; stroke: var(--diagram-ink, var(--d-ink)); stroke-width: 3.5; }
+    .ah   { fill: var(--diagram-ink, var(--d-ink)); }
+    .step { fill: var(--diagram-ink, var(--d-ink)); }
+    .stepn{ fill: var(--diagram-bg, var(--d-bg)); font-weight: 700; font-size: 18px; }
+    .h    { font-size: 24px; font-weight: 700; }
+    .b    { font-size: 19px; }
+    .tag  { font-size: 15px; font-weight: 700; letter-spacing: .05em; }
+  </style>
+  <defs>
+    <marker id="an" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="4.5" markerHeight="4.5" orient="auto-start-reverse">
+      <path class="ah" d="M0,0 L10,5 L0,10 z"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="520" height="1010" rx="12"/>
+  <text class="ink h" x="260" y="40" text-anchor="middle">How a special purpose</text>
+  <text class="ink h" x="260" y="70" text-anchor="middle">entity (SPE) works</text>
+  <text class="mut b" x="260" y="98" text-anchor="middle" style="font-size:16px">Generic illustration, not a specific Enron deal</text>
+
+  <!-- zone 1 -->
+  <rect class="zone" x="16" y="116" width="488" height="160" rx="14"/>
+  <text class="mut tag" x="260" y="140" text-anchor="middle">ON THE COMPANY'S BALANCE SHEET</text>
+  <rect class="co" x="40" y="154" width="440" height="104" rx="10"/>
+  <text class="ink h" x="260" y="186" text-anchor="middle">The company</text>
+  <text class="ink b" x="260" y="214" text-anchor="middle">Owns an asset, for example</text>
+  <text class="ink b" x="260" y="240" text-anchor="middle">a power plant or an investment</text>
+
+  <!-- arrows 1 and 3 -->
+  <path class="arr" d="M190,260 L190,382" marker-end="url(#an)"/>
+  <circle class="step" cx="160" cy="322" r="15"/><text class="stepn" x="160" y="328" text-anchor="middle">1</text>
+  <text class="ink b" x="206" y="328">Asset</text>
+  <path class="arr" d="M350,390 L350,266" marker-end="url(#an)"/>
+  <circle class="step" cx="380" cy="322" r="15"/><text class="stepn" x="380" y="328" text-anchor="middle">3</text>
+  <text class="ink b" x="402" y="328">Cash</text>
+
+  <!-- zone 2 -->
+  <rect class="zone" x="16" y="346" width="488" height="338" rx="14"/>
+  <text class="mut tag" x="260" y="668" text-anchor="middle">OFF THE BALANCE SHEET*</text>
+  <rect class="spe" x="40" y="390" width="440" height="112" rx="10"/>
+  <text class="ink h" x="260" y="420" text-anchor="middle">Special purpose entity</text>
+  <text class="ink b" x="260" y="448" text-anchor="middle">A separate legal entity set up for</text>
+  <text class="ink b" x="260" y="474" text-anchor="middle">one job: to hold the asset and its debt</text>
+
+  <path class="arr" d="M260,574 L260,508" marker-end="url(#an)"/>
+  <circle class="step" cx="230" cy="540" r="15"/><text class="stepn" x="230" y="546" text-anchor="middle">2</text>
+  <text class="ink b" x="278" y="546">Loans and investment</text>
+  <rect class="out" x="40" y="576" width="440" height="60" rx="10"/>
+  <text class="ink b" x="260" y="612" text-anchor="middle" font-weight="700">Outside investors &amp; lenders</text>
+
+  <!-- what company reports -->
+  <text class="ink b" x="24" y="716" font-weight="700">What the company can report:</text>
+  <text class="ink b" x="24" y="744">+ Cash comes in (step 3)</text>
+  <text class="ink b" x="24" y="770">+ Sometimes a reported gain on the sale</text>
+  <text class="ink b" x="24" y="796">– The asset and the SPE's debt do not</text>
+  <text class="ink b" x="42" y="822">appear on its balance sheet</text>
+
+  <!-- key question -->
+  <rect class="note" x="16" y="842" width="488" height="152" rx="12"/>
+  <text class="ink b" x="32" y="872" font-weight="700">*Is the SPE really independent?</text>
+  <text class="ink b" x="32" y="900" style="font-size:17px">Off-the-books treatment is meant only for a truly</text>
+  <text class="ink b" x="32" y="924" style="font-size:17px">separate entity with real outside owners at risk.</text>
+  <text class="ink b" x="32" y="948" style="font-size:17px">If the company still carries the risk (for example,</text>
+  <text class="ink b" x="32" y="972" style="font-size:17px">it promises to repay the SPE's lenders), it isn't.</text>
+</svg>

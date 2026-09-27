@@ -1,0 +1,2773 @@
+
+=== PAGE 1 ===
+UNITED STATES BANKRUPTCY COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+x
+
+In re: : Chapter 11
+
+ENRON CORP., ef al., : Case No. 01-16034 (AJG)
+Debtors. : Jointly Administered
+x
+APPENDIX G
+
+(Role of Toronto Dominion and its Affiliates)
+to
+
+FINAL REPORT OF NEAL BATSON,
+COURT-APPOINTED EXAMINER
+
+Reference is made to the preceding Final Report of Neal Batson, Court-Appointed
+Examiner (the “Report”). This Appendix constitutes an integral part of the Report. All
+capitalized terms not otherwise defined herein shall have the meanings set forth in the
+Report.
+
+=== PAGE 2 ===
+IL.
+
+TL.
+
+TABLE OF CONTENTS
+
+INTRODUCTION .....ee ce eceecesesceseescecencceescencseescesecessecsceseceesaeeasesevasecsnesesensseeaseeenees
+A. Introduction and Overview
+B. Toronto Dominion’s Role in Enron’s SPE and Related
+
+Transactions ........cccccsscsssessessssesseseseesessessessesessenscsscoseasesserecncasenseseeessesersenees 4
+Cc. Background Information ............ceeeseseseeecsceeeeceeeesescesceeesececesseceereceteeeerees 6
+HISTORY AND DEVELOPMENT OF TORONTO DOMINION’S
+INVOLVEMENT WITH ENRON .........c:ccscssssseseoresseseesecsesseseeessneacsreensaeenseneeeenees 9
+A. Relationship Between Toronto Dominion and Enron...........eceeeeeeeeeeeeseee 9
+B. Toronto Dominion’s Knowledge of Enron’s Financial Condition........... 18
+
+TORONTO DOMINION’S ROLE IN ENRON’S PREPAY
+
+TRANSACTIONS ..0...ccceeceeeeeceeseseeseeceeseeeseseeceesseesesseeseesseesaseesasaaenessesensseneeasaane 22
+POTENTIAL LIABILITY OF TORONTO DOMINION ........cccesssessseeseteseeenes 53
+A. Arguments Supporting the Imposition of Aiding and Abetting
+
+Liability and Equitable Subordination ...............ccccecccecesesseeseeeeceeeeeneee 53
+B. Arguments Against the Imposition of Aiding and Abetting
+
+Liability and Equitable Subordination... cesses eseeessseeeseseeseeseeneee 57
+C. COnclUsiOns..........c.cecccecsesecesesesessessssseseseseesssscseasessescecesssscsesuseseasseseasseeneees 63
+
+POTENTIAL VOIDABLE PREFERENCE LIABILITY OF TORONTO
+DOMINION ...cccccesecscsesesesssseecsessesssscsesssesssessseseesesssssssseesseesseesssessssessceseseene 64
+
+=== PAGE 3 ===
+L INTRODUCTION
+
+A. Introduction and Overview
+
+In Appendix C (Role of Enron’s Officers) to the Third Interim Report, the
+Examiner concluded that there is sufficient evidence for a fact-finder to determine that
+certain of the Debtors’ officers breached their fiduciary duties under applicable law by
+causing the Debtors to enter into certain SPE and related transactions that were designed
+to manipulate the Debtors’ financial statements and that resulted in the dissemination of
+financial information known to be materially misleading. These wrongful acts caused
+direct and foreseeable harm to Enron itself and resulted in harm to innocent parties that
+dealt with Enron, including certain creditors in the Bankruptcy Case.
+
+This Appendix considers the role of Toronto Dominion Bank (“Toronto
+Dominion”) in the Debtors’ SPE and related transactions. Toronto Dominion helped
+Enron implement a number of such transactions. These include six Prepay Transactions,
+three of which the Examiner analyzed in the Third Interim Report! (these six Prepay
+Transactions are referred to collectively as the “Toronto Dominion Prepays”). In
+Appendix C (Role of Enron’s Officers) to the Third Interim Report, the Examiner
+concluded that there is sufficient evidence for a fact-finder to determine that certain of the
+Debtors’ officers breached their fiduciary duties by causing Enron to enter into the
+Prepay Transactions.
+
+In this Appendix, the Examiner discusses evidence indicating that: (i) Toronto
+
+Dominion had actual knowledge of the wrongful conduct giving rise to breaches of
+
+fiduciary duty by the Debtors’ officers; (ii) Toronto Dominion gave substantial assistance
+
+' See Third Interim Report, Appendix D (Role of Citigroup and its Affiliates).
+
+=== PAGE 4 ===
+to the Debtors’ officers by participating in the Toronto Dominion Prepays; and (iii) injury
+to the Debtors was the direct or reasonably foreseeable result of this conduct. The
+evidence reviewed by the Examiner, and the reasonable inferences that may be drawn
+from that evidence, are sufficient for a fact-finder to conclude” that Toronto Dominion
+aided and abetted such officers in breaching their fiduciary duties. In addition, there is
+sufficient evidence of inequitable conduct by Toronto Dominion in connection with the
+Toronto Dominion Prepays for a court to conclude that Toronto Dominion’s claims
+should be equitably subordinated to the claims of other creditors.
+
+As set forth more fully below, Toronto Dominion’s conduct in the Toronto
+Dominion Prepays enabled Enron to complete approximately $2 billion of financings.’
+As a result of these financings, Enron improperly recorded approximately $1.5 billion of
+cash flow from operating activities and understated the debt on its balance sheet by
+approximately $250 million on December 31, 1998, $500 million on June 30, 1999, $324
+million on December 31, 1999, and $270 million on December 31, 2000.
+
+The evidence would allow a fact-finder to conclude that Toronto Dominion
+
+assisted Enron in completing the Toronto Dominion Prepays, with gross proceeds totaling
+
+? See Report, Standard Adopted by the Examiner.
+
+3 The proceeds of one of the Toronto Dominion Prepays appears to have been used to repay an outstanding
+Toronto Dominion Prepay that was maturing. The $675 million Jethro Prepay Transaction refinanced and
+extended the $500 million Truman Prepay Transaction. See Toronto Dominion Corporate Credit Review
+for Enron, Firefly Trust and ENA, Sept. 25, 1999 (the “Sept. 25, 1999 Corporate Credit Review”) [TDB-
+EX 000170-TDB-EX 000198]. The $2 billion total represents the gross amount of the six Toronto
+Dominion Prepays. This total includes the proceeds of three prepay transactions that were either partially
+or completely funded by other financial institutions, including: (i) Truman, a $500 million transaction, in
+which Citigroup funded $250 million and Toronto Dominion funded $250 million; (ii) Jethro, a $675
+million transaction, in which Citigroup funded $337.5 million and Toronto Dominion funded $337.5
+million; and (iii) Nixon, a $324 million transaction, in which Barclays funded $110 million, RBS funded
+$110 million and Citigroup funded $104 million. The Examiner has included the total amounts of these
+transactions in the $2.0 billion total because, as discussed below, Toronto Dominion played roles in each
+transaction that facilitated Enron’s ability to obtain the full amount of each transaction, and Enron
+considered each transaction to be a single transaction. See Enron Corp. Chief Financial Officer Report,
+Aug. 13, 2001 (the “August 2001 Fastow Report”), at 2-12 [AB0247 02299-AB0247 02310].
+
+-2-
+
+=== PAGE 5 ===
+approximately $2 billion, even though Toronto Dominion knew that Enron’s accounting
+for these transactions, with no other meaningful related disclosure, would result in the
+misleading presentation of Enron’s financial condition.
+
+The Examiner has reviewed a substantial amount of evidence, including
+documentary and testimonial evidence, and has noted reasonable inferences that could be
+drawn from the evidence. A fact-finder may draw alternative or contrary inferences from
+the same evidence. Moreover, there are certain defenses to aiding and abetting liability
+and equitable subordination available to Toronto Dominion. Whether Toronto Dominion
+will succeed on one or more defenses will depend upon the fact-finder’s resolution of the
+facts.
+
+The elements most likely to present issues of material fact for consideration by
+the fact-finder are:
+
+e The degree of Toronto Dominion’s knowledge of the acts giving rise to the
+breaches of fiduciary duty. In particular, whether Toronto Dominion knew
+that Enron’s reporting of the Toronto Dominion Prepays would result in the
+materially misleading presentation of Enron’s financial condition because the
+transactions were disclosed in a manner that disguised their economic
+substance so as to mislead Rating Agencies, creditors and investors. As part
+of this determination, the fact-finder may consider, among other things: (i)
+Toronto Dominion’s knowledge that the economic substance of these
+transactions was inconsistent with the disclosure; and (ii) whether there was
+any reliance on accounting representations from Enron or from Andersen
+through Enron, and if so, whether this reliance was reasonable.
+
+e The degree of assistance provided by Toronto Dominion to Enron’s officers.
+As part of this determination, the fact-finder may consider whether Toronto
+Dominion designed the transaction, structured the transaction, consummated
+the transaction or took any action that assisted Enron in the misleading
+presentation of its financial condition.
+
+=== PAGE 6 ===
+e Whether it would have been reasonably foreseeable to Toronto Dominion that
+these transactions would cause injury to Enron and/or its creditors. As part of
+this analysis, a fact-finder may consider whether the transaction had a material
+impact on Enron’s financial statements.
+
+Toronto Dominion’s claims in the Bankruptcy Case, which total approximately
+$57.8 million,’ are susceptible of being equitably subordinated to the claims of other
+creditors. This would be in addition to any affirmative recovery that would be available
+to the Debtors against Toronto Dominion for aiding and abetting the Debtors’ officers in
+
+breaches of fiduciary duty, assuming the Debtors have standing to pursue such a claim.
+
+B. Toronto Dominion’s Role in Enron’s SPE and Related Transactions
+
+Toronto Dominion played an important role in Enron’s Prepay Transactions,
+participating in six Prepay Transactions from December of 1998 through December of
+2000 that generated total proceeds of approximately $2 billion. In five of the six Toronto
+Dominion Prepays, Toronto Dominion loaned funds to Enron. These loans totaled over
+$1.1 billion, although some of the funds appear to have been immediately returned to
+Toronto Dominion to repay existing Prepay Transactions. In each of the six Toronto
+Dominion Prepays, a financial institution served as the conduit entity that Enron believed
+
+was necessary to accomplish its accounting objectives.” In one Prepay Transaction,
+
+* The Examiner has reviewed: (i) the proofs of claim filed by Toronto Dominion against the Debtors;
+(ii) Toronto Dominion’s responses to the Examiner’s request for information about its relationship with
+Enron; and (iii) information provided by Enron itself. Based on that information, it appears that Toronto
+Dominion’s claims against the Debtors total approximately $57.8 million.
+
+5 In its Administrative Proceeding against Citigroup, the SEC indicated that it sees no distinction between
+the Prepays entered into by Citigroup that involved an SPE as the conduit entity and those in which another
+financial institution served as the conduit entity. See In re Citigroup, Inc., Order Instituting a Public
+Administrative Proceeding Pursuant to Section 21C of the Securities Exchange Commission Act of 1934,
+Making Findings and Imposing a Cease-And-Desist Order and Other Relief, July 28, 2003 (the “Citigroup
+Administrative Proceeding”), at 7-8, n.20. In fact, the SEC criticized three of the Prepay Transactions in
+which Toronto Dominion participated. See Citigroup Administrative Proceeding, at 7-8, n.20. The SEC
+standard is a “should have known” standard, however, which is less stringent than the “actual knowledge”
+standard analyzed in this Report. Also, Toronto Dominion was not named as a party to the proceeding and
+no allegations were asserted against it.
+
+-4-
+
+=== PAGE 7 ===
+Toronto Dominion functioned solely as the conduit entity.© In two of the Toronto
+Dominion Prepays, Citigroup was the conduit entity,’ and Toronto Dominion
+reciprocated by serving as the conduit in mirror Prepay Transactions where Citigroup was
+the lender.* In two other Prepay Transactions, JPMorgan Chase served as the conduit
+entity.” Morgan Stanley served as the conduit entity in the final Toronto Dominion
+Prepay Transaction. '°
+
+Toronto Dominion played a lesser role in four SPE transactions with Enron.
+Toronto Dominion participated in transactions with Hawaii, JEDI, Firefly Trust and
+Bammel Gas Trust. In these transactions, Toronto Dominion provided commitments to
+credit facilities, term loans, or liquidity backstops ranging from $15 million to $50
+
+million. In the Hawaii transaction, a FAS 140 Transaction led by CIBC, Toronto
+
+Dominion funded $50 million ($15 million in Hawaii I and $35 million in Hawaii Il."
+
+® Toronto Dominion Corporate Credit Review for Enron, Firefly Trust and ENA, Toronto Dominion,
+Dec. 10, 1999 (the “Dec. 10, 1999 Corporate Credit Review”), at 20 [TDB-EX 002319-TDB-EX 002345].
+This Prepay Transaction, called Nixon, was among those criticized by the SEC in its Administrative
+Proceeding against Citigroup. See Citigroup Administrative Proceeding, at 7-8, n.20.
+
+” See Email from Doug Jones, Toronto Dominion, to Dan Carr, Toronto Dominion, June 24, 1999, at
+attachment (the “Gas Swap Diagram”) [TDB-EX 000002-TDB-EX 000003]; Diagram entitled, “Crude
+Prepay 9/29/99,” Enron, date unknown (the “Crude Prepay Diagram”) [TDB-EX 000252]. These Prepay
+Transactions, Truman and Jethro, were also criticized by the SEC in the Citigroup Administrative
+Proceeding. See Citigroup Administrative Proceeding, at 7-8, n.20.
+
+8 See Sworn Statement of Douglas Jones, Vice President, TD Securities, to Robb E. Hellwig, A&B, Oct. 9,
+2003 (the “Jones Sworn Statement, Vol. II”), at 163-64; see also Gas Swap Diagram; Crude Prepay
+Diagram.
+
+° Sworn Statement of Douglas Jones, Vice President, TD Securities, to Steven M. Collins, A&B, Sept. 17,
+2003 (the “Jones Sworn Statement, Vol. I’), at 41; Toronto Dominion Rapid Review for Enron, ENA and
+Enron Canada Corp., Sept. 27, 2000 (the “Sept. 27, 2000 Rapid Review”), at 5 [TDB-EX(1) 019957-TDB-
+EX(1) 019977].
+
+© Toronto Dominion Corporate Credit Review for ENA and Enron, Nov. 24, 2000 (the “Nov. 24, 2000
+Corporate Credit Review”), at TDB-EX 001516-TDB-EX 001517 [TDB-EX 001509-TDB-EX 001529].
+
+"' See Toronto Dominion’s Responses and Objections to Matters on Which Examination is Requested,
+Aug. 22, 2003 (the “Toronto Dominion Aug. 22, 2003 Responses”), at 2-5; Toronto Dominion Corporate
+Credit Review for Enron, Enron Canada Corp., Hawaii I 125-0 Trust and Hawaii Il 125-0 Trust, Nov. 8,
+2000 (the “Nov. 8, 2000 Hawaii Corporate Credit Review”) [TDB-EX(1) 000054-TDB-EX(1) 000090].
+
+-5-
+
+=== PAGE 8 ===
+In the Bammel Gas transaction, which was led by Bank of America, Toronto Dominion
+had a $20 million participation in a $229 million inventory securitization backstop
+liquidation facility.’? In the JEDI transaction, Toronto Dominion funded $30 million of a
+$513 million 364-day term loan to the JEDI SPE."’ Finally, in the Firefly transaction,
+Toronto Dominion funded $50 million of a $425 million senior secured credit facility that
+was led by JPMorgan, BT/Duetsche and DLJ.'* The Examiner has not found any
+evidence indicating that Toronto Dominion played a lead role in the structuring or
+execution of any of these SPE transactions.
+
+Cc. Background Information
+
+Toronto Dominion is Canada’s third largest financial institution, providing
+consumer, corporate and government banking services, investment services and financial
+advisory services to businesses.'> Toronto Dominion and its subsidiaries are collectively
+known as the TD Bank Financial Group." Toronto Dominion serves more than 13
+million customers in three key areas: (i) personal and commercial banking; (ii) wealth
+management; and (iii) wholesale banking services, which include corporate banking,
+
+investment banking, debt capital markets, institutional equities, foreign exchange and
+
+2 Toronto Dominion Aug. 22, 2003 Responses, at 6-8; Toronto Dominion Corporate Credit Review for
+Bammel Gas Trust, Nov. 8, 1999, at 5 [TDB-EX(1) 021635-TDB-EX(1) 021646].
+
+3 Toronto Dominion Aug. 22, 2003 Responses, at 9-11; Toronto Dominion Corporate Credit Review for
+JEDI SPV IL.L.C., Dec. 17, 1999 [TDB-EX(1) 015005-TDB-EX(1) 015017]
+
+4 Toronto Dominion Aug. 22, 2003 Responses, at 12-13; Toronto Dominion USA Division Credit
+Review, Dec. 15, 1998 (the “Dec. 15, 1998 Credit Review”) [TDB-EX(1) 020257-TDB-EX(1) 020273].
+
+' Hoover's Online Fact Sheet for The Toronto Dominion Bank, available at
+http://www. hoovers.com/free/co/factsheet.xhtml?ID=42383 (last visited Oct. 27, 2003); Toronto Dominion
+Annual Report 2002, at 13.
+
+‘© Annual Information Form for the Toronto Dominion Bank, Jan. 24, 2003 (the “Annual Information
+Form”), at 1, available at http://www.td.com/investor/2002/2002aif.pdf.
+
+-6-
+
+=== PAGE 9 ===
+private equity.!” In 2002, Toronto Dominion had assets of $278 billion.'? Toronto
+Dominion had a net loss of $160 million in 2002, as compared to net income of $1.3
+billion in 2001."
+
+Toronto Dominion provides financial services and products to its corporate
+customers through TD Securities.?” TD Securities encompasses a number of business
+units, including the Energy Group, the business unit that had the primary relationship
+with Enron.”’ The Toronto Dominion activities involving Enron that are the subject of
+this Appendix appear to have occurred within the TD Securities business unit.
+
+Toronto Dominion appears to structure its operations around business segments
+
+22 Units such as TD Securities design the products, sell them,
+
+rather than legal entities.
+and use various legal entities within Toronto Dominion to participate in and book the
+transactions. For example, Toronto Dominion used a subsidiary, Toronto Dominion
+(Texas), Inc., to enter into many of the Toronto Dominion Prepays. According to the
+testimony, Toronto Dominion (Texas), Inc. was the entity of choice used by Toronto
+
+Dominion to enter into transactions in which it had agreed to participate.”* In this
+
+Appendix, the Examiner uses the term “Toronto Dominion” to refer to the institution as a
+
+17 1d; see also Toronto Dominion Annual Report 2002, at 14.
+'8 Toronto Dominion Annual Report 2002, at 44.
+
+° Id. at 45.
+
+% Id. at 13, 18.
+
+21 See Toronto Dominion’s Responses and Objections to Matters on Which Examination is Requested,
+Aug. 6, 2003 (the “Toronto Dominion Aug. 6, 2003 Responses”), at 1-19; Sworn Statement of Thomas
+Richmond Spencer, Vice Chair and Chief Risk Officer, Toronto Dominion, to Robb E. Hellwig, A&B, Oct.
+2, 2003 (the “Spencer Sworn Statement”), at 16, 28.
+
+22 Toronto Dominion Annual Report 2002, at 13.
+
+23 Swom Statement of Julian Mark Bott, former Managing Director, Toronto Dominion, to Robb E.
+Hellwig, A&B, Oct. 8, 2003 (the “Bott Sworn Statement”), at 57. TD Securities had the ability to cause
+Toronto Dominion (Texas), Inc. to enter into transactions agreed to by TD Securities. Bott Swom
+Statement, at 57.
+
+-7-
+
+=== PAGE 10 ===
+whole and does not identify the specific affiliate that was involved in a particular aspect
+of a particular transaction. Similarly, the Examiner refers to “Enron” rather than
+identifying the specific Enron affiliate involved, because such detail was addressed in the
+Second and Third Interim Reports and is not relevant to the matters discussed in this
+
+Appendix.
+
+=== PAGE 11 ===
+I. HISTORY AND DEVELOPMENT OF TORONTO DOMINION’S
+INVOLVEMENT WITH ENRON
+
+A. Relationship Between Toronto Dominion and Enron
+
+Toronto Dominion’s relationship with Enron began in 1982.4 By 1998, Toronto
+Dominion considered Enron an extremely important and profitable client, and Toronto
+Dominion was actively seeking to have Enron consider it one of Enron’s Tier 1 Banks.”°
+Although Toronto Dominion never achieved Tier 1 status, Toronto Dominion’s
+relationship with Enron was nonetheless substantial, and Enron consistently rated
+Toronto Dominion as a Tier 2 bank.”
+
+From 1997 through the Petition Date, Toronto Dominion completed
+approximately forty transactions with Enron. These transactions included structured
+finance transactions, derivatives transactions, underwritings, letters of credit and
+numerous credit facilities. The following timeline illustrates when each of these
+transactions was completed and highlights the specific transactions that are a focus of this
+
+Appendix.
+
+January 1997 |
+February 1997 | 1 lending transaction
+March 1997
+
+April 1997
+May 1997
+
+June 1997
+July 1997
+
+1 letter of credit
+1 lending transaction
+
+24 Facsimile from Bob Gibson, Toronto Dominion, to Thomas Spencer, et al., Toronto Dominion, Jan. 19,
+2001 (the “Gibson/Spencer Fax”), at TDB-EX(1) 034610 [TDB-EX(1) 034608-TDB-EX(1) 034648];
+Sworn Statement of Linda Lavin, Toronto Dominion, to Robb E. Hellwig, A&B, Sept. 25, 2003 (the “Lavin
+Sworn Statement”), at 71 (“{Enron] had been a client of the bank for 15-plus years.”).
+
+25 Dec. 15, 1998 Credit Review, at TDB-EX(1) 020264 (Relationship Strategy); Bott Sworn Statement, at
+82.
+
+6 Enron Relationship Review, Mid-Year, 1999 (the “Mid-Year, 1999 Relationship Review”), at AB0252
+01560 [AB0252 01557-AB0252 01600]; Enron Relationship Review, Jan. 2000 (the “Jan. 2000
+Relationship Review”), at AB0252 01612 [AB0252 01602-AB0252 01659].
+
+-9-
+
+=== PAGE 12 ===
+August 1997
+September 1997
+October 1997
+November 1997
+
+December 1997 |
+
+January 1998
+February 1998
+March 1998
+
+April 1998
+
+May 1998
+June 1998
+
+July 1998
+August 1998
+
+September 1998 — |
+
+October 1998
+November 1998
+
+December 1998
+
+January 1999
+February 1999
+March 1999
+
+April 1999
+May 1999
+
+June 1999
+
+July 1999
+August 1999
+
+September 1999
+
+October 1999
+
+November 1999 __ |
+
+December 1999
+
+Bammel Gas Trust ($20 million) (closed on 4/21/98)
+3 derivatives transactions
+2 lending transactions
+
+2 lending transactions
+1 derivatives transaction
+
+4 lending transactions
+
+Bammel Gas Trust extension
+Firefly Trust ($50 million) (closed on 12/28/98)
+
+DECEMBER 1998 PREPAY/$250 million prepay transaction
+(closed 12/30/98)
+
+4 lending transactions
+
+TRUMAN/$500 million prepay transaction (Toronto Dominion
+funded $250 million, closed 6/29/99)
+
+1 lending transaction
+
+1 lending transaction
+
+JETHRO/$675 million prepay transaction (Toronto Dominion funded
+$337.5 million, closed 9/29/99)
+
+Bammel Gas Trust extension
+
+JEDI (closed on 12/3/99)
+
+NEXON/$324 million prepay transaction (closed 12/15/99)
+1 letter of credit
+
+-10-
+
+=== PAGE 13 ===
+Jamary 2000 |
+February 2000 |
+NIXON/amendments
+March 2000
+_l! lending transaction
+April2000 |
+May 2000 __|__ 2 lending transactions
+June 2000 |
+July2000 |
+August 2000 —_
+ALBERTA PREPAY/CAD” $147 million prepay transaction
+‘September 2000 | (closed on 9/29/00)
+October 2000 __|__ JEDI extension
+Bammel Gas Trust extension
+November 2000 Hawaii I ($15 million participation) (closed on 11/20/00)
+Hawaii I ($35 million participation) (closed on 11/20/00)
+__|__ 1 derivatives transaction
+LONDON PREPAY/$165 million prepay transaction (closed on
+December 2000 12/15/00 ($135 million) and 12/22/00 ($30 million))
+January 2001 |
+February 2001 |
+March 2001 |
+April2001. | >
+May 2001 ft
+June 2001 _
+July 2001 fi
+August 2001 |
+September 2001 tL
+October 2001 |
+November 2001 |
+December 2001 PETITION DATE (12/02/01)
+
+A bold line indicates the end of a quarterly or annual reporting period.
+As the timeline indicates, during the years leading up to Enron’s bankruptcy,
+Toronto Dominion was an important source of funding for Enron, at least through 2000.
+
+During this period, Toronto Dominion participated in more than $3 billion in financings
+
+27 “CAD” refers to Canadian dollars.
+
+-1l-
+
+=== PAGE 14 ===
+for Enron and its related entities, approximately $2 billion of which came from the six
+Toronto Dominion Prepays.
+
+Notably, Toronto Dominion does not appear to have entered into any transactions
+with Enron in 2001. This was likely due to the mandate from Toronto Dominion’s Risk
+Management Group in early 2001 that Toronto Dominion reduce its exposure to Enron
+from a guideline of approximately $480 million ($685 million CAD)” to approximately
+$175 million ($250 million CAD) by October 31, 2001, Toronto Dominion’s fiscal year
+end.” As explained more fully below, by late 2000, senior Toronto Dominion Risk
+Management executives had become increasingly uncomfortable with Enron’s financial
+condition and business strategy, culminating in this exposure reduction mandate.*°
+
+As a result of the varied roles that Toronto Dominion played for Enron, it had
+access to substantial information about the company. As a lender and underwriter,
+Toronto Dominion performed due diligence with respect to all aspects of Enron’s
+operations, and most particularly with respect to its financial condition. Many of the
+internal approval documents at Toronto Dominion relating to Enron transactions included
+
+31
+
+lengthy financial reviews of Enron.”’ These reviews often included sections on market
+
+statistics, core businesses, historical financial information, capital structure (including on
+
+8 Nov. 24, 2000 Corporate Credit Review, at TDB-EX 001511.
+
+9 Spencer Sworn Statement, at 150-51; Sworn Statement of Victor J. Huebner, Toronto Dominion, to
+Steven M. Collins, A&B, Oct. 10, 2003 (the “Huebner Sworn Statement”), at 108-10.
+
+30 Spencer Sworn Statement, at 128-29; Huebner Sworn Statement, at 108-10.
+
+3! See, e.g., Dec. 15, 1998 Credit Review; Dec. 10, 1999 Corporate Credit Review; Toronto Dominion
+Speedy Review, June 22, 1999 (the “June 22, 1999 Speedy Review”) [TDB-EX 000033-TDB-EX 000042];
+Toronto Dominion Corporate Credit Review for Enron, Firefly Trust and ENA, July 22, 1999 (the “July 22,
+1999 Enron Annual Review”) [TDB-EX(1) 032975-TDB-EX(1) 033004].
+
+-12-
+
+=== PAGE 15 ===
+and off balance sheet debt), liquidity, credit rating, recent developments, financial and
+stock market performance, strategy, strengths and risk factors.”
+
+Revenues
+
+Toronto Dominion received in the aggregate approximately $30 million of
+
+revenue from Enron during 1997 through 2001, as reflected in the following chart:
+
+Year Revenue
+
+1997 $ 2.2 million
+1998 $ 7.5 million™
+1999 $ 9.0 million”
+2000 $ 8.0 million®®
+2001 $ 2.5 million”
+
+The Enron relationship was particularly profitable for Toronto Dominion,
+providing it with a Risk Adjusted Return on Capital (“RAROC”) of 39% during the
+period from late 1998 through year-end 2000.** This return represented nearly twice the
+
+return of 20% that Toronto Dominion targeted for its corporate customers.”? In contrast,
+
+% See, e.g., Dec. 15, 1998 Credit Review; Dec. 10, 1999 Corporate Credit Review; June 22, 1999 Speedy
+Review; July 22, 1999 Enron Annual Review.
+
+3 Relationship RAROC Spreadsheet for Enron, Toronto Dominion, Sept. 25, 1997 [TDB-EX(1) 006807].
+
+34 Toronto Dominion USA Division Speedy Review, Dec. 17, 1998 (the “Dec. 17, 1998 Speedy Review”),
+at 1 (Account Profitability) [TDB-EX(1) 015111-TDB-EX(1) 015120].
+
+35 June 22, 1999 Speedy Review, at 1 (Account Profitability).
+38 Nov. 8, 2000 Hawaii Corporate Credit Review, at 29.
+
+37 SAP Wire Transfer Request for $2,556,901.25 paid by ENA to Toronto Dominion, Sept. 19, 2001
+[AB000273465-AB000273466].
+
+38 See June 22, 1999 Speedy Review, at 1 (RAROC of 38.4%); July 22, 1999 Enron Annual Review, at 1
+(RAROC of 43%); Dec. 10, 1999 Corporate Credit Review, at 1 (RAROC of 39.53%); Sept. 27, 2000
+Rapid Review, at 1 (RAROC of 34.75%); Lavin Sworn Statement, at 75.
+
+© Sworn Statement of Lisa A. Reikman, Toronto Dominion, to Robb E. Hellwig, A&B, Sept. 16, 2003
+(the “Reikman Sworn Statement”), at 57; Sworn Statement of Ann Scully Malcolm, former Vice-President,
+Toronto Dominion, to Robb E. Hellwig, A&B, Sept. 30, 2003 (the “Malcolm Sworn Statement”), at 69-70.
+
+-13-
+
+=== PAGE 16 ===
+in 1997, prior to the period in which Toronto Dominion engaged in Prepay Transactions
+with Enron, the RAROC for the Enron relationship was just 12%."
+
+In July of 1999, Toronto Dominion acknowledged that Enron was “one of the
+largest relationships in the Energy Group and is very profitable.”“' There is evidence that
+Toronto Dominion felt pressured to accommodate Enron’s requests for transactions.
+Often, Toronto Dominion participated in deals with the understanding that Enron would
+reward the bank with future business. Many Toronto Dominion internal documents and
+communications contain references to such relationship pressure, including, for example:
+
+e “Enron is extremely eager to complete this transaction and has
+indicated that TD’s performance will earn us the opportunity to lead
+
+other profitable deals during 1999.”
+
+e “Enron has specifically asked that we participate in Project Hawaii as
+a quid pro quo for the UK Pre-paid.”
+
+e “Our participation in this transaction is critical to our ability to win a
+mandate for a $400 M prepaid swap.”“*
+
+e “While these facilities are lower returning, it is necessary for us to be a
+part of Enron’s core facilities in order to see the more profitable
+opportunities.”
+
+* Toronto Dominion USA Division Credit Review, Oct. 7, 1997, at 1 (indicating a RAROC for the Enron
+Relationship of 11.72%) [TDB-EX(1) 020099-TDB-EX(1) 020108]. The dramatic increase in the
+profitability of the Enron relationship during the period 1998-2000 appears to have been driven by the
+Toronto Dominion Prepays. As noted by one former Toronto Dominion relationship manager, “[t]hese
+Swaps are highly profitable for us and well received by [Enron].” Nov. 8, 2000 Hawaii Corporate Credit
+Review, at 29 (Relationship Comments from Katherine Lucey).
+
+4! July 22, 1999 Enron Annual Review, at 26 (Relationship Strategy). This sentiment was echoed in
+numerous subsequent credit approval memoranda. See, e.g., Dec. 10, 1999 Corporate Credit Review, at 23
+(“Enron is an extremely important and profitable relationship for the bank . . . .”); Sept. 27, 2000 Rapid
+Review, at TDB-EX(1) 109962 (“Enron is an extremely important and profitable relationship for the bank
+and we see a tremendous amount of opportunity with this client on the energy and communications side.”).
+
+® Dec. 17, 1998 Speedy Review, at TDB-EX(1) 015116.
+
+* Nov. 8, 2000 Hawaii Corporate Credit Review, at 29 (Relationship Comments from Katherine Lucey,
+Toronto Dominion).
+
+* Id. at 24 (Purpose of Review).
+© Id. at 24 (Relationship Strategy).
+
+-14-
+
+=== PAGE 17 ===
+Exposure Limits
+
+Throughout most of 1998 and 1999, Enron’s outstanding obligations to Toronto
+Dominion and, therefore, Toronto Dominion’s credit exposure to Enron, exceeded the
+target amount, or “Exposure Guideline,” that Toronto Dominion had set for Enron.*®
+Toronto Dominion’s general practice was to assign each client a risk rating, called an
+account rating, based in part on the client’s credit rating.*” For example, when Enron had
+a credit rating of BBB+ from S&P and Baa2 from Moody’s, Enron was considered to
+have an account rating of “3a” on Toronto Dominion’s scale.* This account rating, In
+conjunction with the client’s industry risk rating, was used by Toronto Dominion to set
+its Exposure Guideline for Enron.”” In December of 1998, Toronto Dominion’s Exposure
+
+Guideline for Enron was $508 million.”
+
+By February of 2001, however, Toronto
+Dominion had decreased Enron’s Exposure Guideline to approximately $175 million
+($250 million CAD).*!
+
+Toronto Dominion did not always adhere to these Exposure Guidelines and would
+
+occasionally permit clients to exceed the limits, with the excess being referred to as the
+
+6 See, e. g., Dec. 17, 1998 Speedy Review, at TDB-EX(1) 015112; June 22, 1999 Speedy Review, at TDB-
+EX 000034, TDB-EX 000042.
+
+* Reikman Sworn Statement, at 12.
+
+*8 Swom Statement of Robyn Zeller, Head of Credit Management for the United States, Toronto
+Dominion, to Robb E. Hellwig, A&B, Sept. 9, 2003, at 42; see also, e.g., Dec. 17, 1998 Speedy Review, at
+TDB-EX(1) 015111-TDB-EX(1) 015112; June 22, 1999 Speedy Review, at TDB-EX 000033-TDB-EX
+000034.
+
+4 Reikman Sworn Statement, at 115-16; Huebner Sworn Statement, at 12-13.
+9 Dec. 17, 1998 Speedy Credit Review, at TDB-EX(1) 015112.
+
+5! Spencer Sworn Statement, at 150-51; Huebner Swom Statement, at 108-10; Document entitled, “Enron
+Corporation — Relationship Review and Group Exposure Discussion,” date unknown (the “Group Exposure
+' Discussion”), at TDB-EX(1) 000045 [TDB-EX(1) 000044-TDB-EX(1) 000048].
+
+-]5-
+
+=== PAGE 18 ===
+amount “Over Guideline.” It appears that Enron was a beneficiary of such a policy for
+much of 1998 and 1999. Starting in mid-1999, however, Toronto Dominion began
+enforcing its Exposure Guidelines against Enron, and did not allow Enron to exceed its
+Exposure Guidelines from that point on."
+
+The following chart indicates Toronto Dominion’s exposure to Enron during the
+
+period 1998 through the Petition Date:
+
+$700.0
+
+$600.0
+
+$500.0
+
+$400.0
+
+$300.0
+
+(Millions)
+
+$200.0
+
+$100.0
+
+$0.0
+
+12/99 09/00
+
+12/98
+
+As indicated in the chart above, Toronto Dominion significantly decreased its
+exposure to Enron by the end of 2000. Toronto Dominion accelerated this exposure
+reduction in 2001. Toronto Dominion documents indicate, however, that as early as 1999
+
+there was concern over Enron exposure within Toronto Dominion.> For example, in a
+
+» See, e.g., Dec. 17, 1998 Speedy Review, at TDB-EX(1) 015112. Several Toronto Dominion witnesses
+testified that it was not unusual for large corporate customers to exceed their Exposure Guidelines. See,
+e.g., Reikman Sworn Statement, at 14-15; Lavin Sworn Statement, at 26.
+
+3 See June 22, 1999 Speedy Review, at TDB-EX 000042 (“We have in the past expressed the concern
+[that] this relationship has frequently run well in excess of guidelines.”)
+
+* Toronto Dominion witnesses testified that this exposure reduction was at least partly attributable to a
+general policy shift within Toronto Dominion to reduce its single name exposures. See, e.g., Reikman
+Sworn Statement, at 42-43; Spencer Sworn Statement, at 12-13.
+
+% See, e.g., Dec. 17, 1998 Speedy Review, at TDB-EX(1) 015117; June 22, 1999 Speedy Review, TDB-
+EX 000042.
+
+-16-
+
+=== PAGE 19 ===
+June 1999 credit approval request for the Truman Prepay Transaction, one Toronto
+Dominion executive noted:
+
+We have in the past expressed the concern [that] this relationship
+
+has frequently run well in excess of guidelines. In my view, we
+
+should not exceed guidelines, and I would only support [the
+
+requested participation] on basis of purchase of $100M Enron
+
+Corp credit default protection for term.”°°
+
+Toronto Dominion’s concern with exposure to Enron increased throughout 1999
+
+and 2000, as did Toronto Dominion’s use of credit default protection to limit that
+exposure. Beginning in 1999, Toronto Dominion purchased credit protection on a large
+portion of any new Enron exposure.-’ By the fall of 2000, senior Toronto Dominion
+executives expressly prohibited any additional Enron exposure,® and Toronto
+Dominion’s approval of the Alberta and London Prepay Transactions was conditioned
+upon obtaining credit default protection in the full amount of the exposure to Enron.”
+Thus, although Toronto Dominion was willing to enter into these transactions to earn the
+substantial fees that they generated, Toronto Dominion was so uncomfortable with
+Enron’s financial condition that it was unwilling to take on any exposure to Enron in
+
+these transactions. Instead, Toronto Dominion shifted this exposure to third parties
+
+through the purchase of credit default protection.
+
+%6 June 22, 1999 Speedy Review, at TDB-EX 000042.
+
+7 See, e.g., June 22, 1999 Speedy Review, at TDB-EX 000041-42 (approving Prepay Transaction subject
+to purchase of $100 million of credit default protection).
+
+°° Sworn Statement of Katherine Lucey, former Head of the Advisory Group, Toronto Dominion, to Robb
+E. Hellwig, A&B, Sept. 10, 2003 (the “Lucey Sworn Statement”), at 54; Reikman Sworn Statement, at 39-
+40.
+
+» Sept. 27, 2000 Rapid Review, at 5 (Uses of Credit and Repayment); Nov. 24, 2000 Corporate Credit
+Review, at TDB-EX 001517; Email from Jo-Ann Burgess, Toronto Dominion, to Mary Teney, ef al.,
+Toronto Dominion, Nov. 10, 2000, at TDB-EX 001324 (‘“[I]t is our intent going forward to offset all future
+Enron exposure via the credit derivatives market or other means.”) [TDB-EX 001324-TDB-EX 001326];
+Lucey Sworn Statement, at 33, 54.
+
+-17-
+
+=== PAGE 20 ===
+In January of 2001, senior Toronto Dominion executives met with senior Enron
+executives, including Fastow, to address Toronto Dominion’s concerns about Enron’s
+
+6 According to the
+
+business and financial strategies and risk management procedures.
+head of Toronto Dominion’s Risk Management Group who attended this meeting, the
+meeting did nothing to allay his concerns regarding Enron.*' Immediately following the
+meeting, this senior Toronto Dominion executive directed that Toronto Dominion reduce
+its exposure to Enron to approximately $175 million (CAD $250 million) by October 31,
+2001, the end of Toronto Dominion’s fiscal year.” This mandate effectively precluded
+
+Toronto Dominion from entering into any new transactions with Enron in 2001.
+
+B. Toronto Dominion’s Knowledge of Enron’s Financial Condition
+
+As a result of its substantial involvement with Enron between 1997 and 2001,
+Toronto Dominion had significant access to financial information about Enron, as well as
+Enron senior management.
+
+Toronto Dominion prepared detailed analyses of Enron’s financial condition for
+purposes of considering new transactions with Enron, or renewals or extensions of
+existing transactions. Toronto Dominion also performed annual reviews of Enron’s
+financial condition. These analyses often included detailed descriptions of Enron and its
+business segments, Enron’s financial strategy and liquidity, Enron’s risk management
+infrastructure, Enron’s ratings and Enron’s debt, including off-balance sheet
+
+obligations.’ In some of these analyses, Toronto Dominion recharacterized as debt
+
+Spencer Sworn Statement, at 23-24, 139-40.
+§! Spencer Sworn Statement, at 140.
+
+8 Spencer Sworn Statement, at 150-51; Huebner Sworn Statement, at 108-10; Group Exposure Discussion,
+at TDB-EX(1) 000045.
+
+8 See, e.g., Nov. 8, 2000 Hawaii Corporate Credit Review.
+
+-18-
+
+=== PAGE 21 ===
+certain obligations that Enron did not report as debt, including items such as the Toronto
+Dominion Prepays, leases and guarantees of unconsolidated subsidiaries.™
+
+For example, in a September 27, 2000 credit approval memorandum regarding the
+Alberta Prepay Transaction, Toronto Dominion reclassified the Toronto Dominion
+Prepays as debt and recalculated Enron’s debt ratios to reflect more accurately Enron’s
+true debt. Toronto Dominion recomputed Enron’s Debt/Cap Ratio to be 57.5% as of
+June 30, 2000,% compared to Enron’s publicly reported Debt/Cap Ratio of 48.5%."
+Further, a senior risk management official testified that Toronto Dominion was concerned
+
+8
+
+with Enron’s increasing leverage.® Documents produced by Toronto Dominion also
+
+indicate a concern with Enron’s “true leverage.”°°
+
+Toronto Dominion’s Concerns About Enron’s Financial Condition
+
+Toronto Dominion’s concerns with Enron’s financial condition began as early as
+December of 1998. For example, in a comment to the credit approval memorandum for
+the December 1998 Prepay — the first Prepay Transaction that Toronto Dominion
+executed with Enron — the head of Toronto Dominion’s Risk Management Group noted,
+
+“(t]he number of short term financing requests for the Enron group raises concerns
+
+regarding their financial strategy. I will support this request, but we need the longer term
+
+Nov. 8, 2000 Hawaii Corporate Credit Review, at 20; Sept. 27, 2000 Rapid Review, at TDB-EX(1)
+019962 (Enron Corporate Strategy); Huebner Sworn Statement, at 106-07; Lucey Sworn Statement, at 72-
+73; Bott Sworn Statement, at 78-79.
+
+® Sept. 27, 2000 Rapid Review, at TDB-EX(1) 019962.
+% Id.
+
+§7 Nov. 8, 2000 Hawaii Corporate Credit Review, at 12.
+© Huebner Sworn Statement, at 77, 107-08
+
+© Facsimile from R.M. Newman, Toronto Dominion, to Senior Vice President, U.S.A. Division, TD Bank
+Financial Group, Nov. 17, 2000, at TDB-EX 001425 [TDB-EX 001422-TDB-EX 001426].
+
+-19-
+
+=== PAGE 22 ===
+strategic review quickly.””” Subsequent credit approval memoranda indicated the Risk
+Management Group’s increasing concerns with Enron’s financial condition, financial
+strategy and “manipulation” of its balance sheet,’’ prompting the meeting between
+Toronto Dominion and Enron in early 2001 that centered on Enron’s risk management
+and financial strategy.” Toronto Dominion did not execute any transactions with Enron
+following this meeting.
+
+Toronto Dominion also recognized that Enron’s business was becoming
+increasingly reliant upon trading activities.”> This recognition of the shift in Enron’s
+business caused Toronto Dominion to increase both Enron’s account risk rating as well as
+Enron’s industry risk rating, indicating greater credit risk. Enron’s increased dependence
+upon trading activities was of particular concern to the head of Toronto Dominion’s Risk
+Management Group, causing him to make the following comments in response to the
+credit approval request for the final Prepay Transaction between Enron and Toronto
+Dominion, which closed in December of 2000:
+
+I find such transactions inconsistent with our objectives of ensuring
+
+transparency in our relationships with customers/counterparties and it
+
+leads me to question why we should have any relationship to what is
+
+increasingly becoming a large unregulated derivatives trading house. In
+
+my view we should completely hedge our direct Enron exposure and
+
+future derivative dealings should be on a M2M collateralized basis.”
+
+This concern was a motivating factor in the exposure reduction mandate issued by this
+
+executive at the beginning of 2001. As this senior Toronto Dominion executive testified,
+
+™ Dec. 17, 1998 Speedy Review, at TDB-EX(1) 015117.
+
+1 See, e.g., Dec. 10, 1999 Corporate Credit Review, at 20; Sept. 27, 2000 Rapid Review, at TDB-EX(1)
+019962 (Enron Corporate Strategy), TDB-EX(1) 019965 (L.A. Reikman’s comments).
+
+2 Lucey Sworn Statement, at 73-74; Spencer Sworn Statement, at 23-24.
+™ Huebner Sworn Statement, at 97; Spencer Sworn Statement, at 24; Lavin Sworn Statement, at 80-81.
+
+™ Nov. 24, 2000 Corporate Credit Review, at TDB-EX 001526 (Thomas Spencer’s comments).
+
+-20-
+
+=== PAGE 23 ===
+he “clearly wanted to send a message to the group that Enron was becoming too complex
+
+for [Toronto Dominion] to really understand... had
+
+® Spencer Sworn Statement, at 126.
+
+-21-
+
+=== PAGE 24 ===
+if. TORONTO DOMINION’S ROLE IN ENRON’S PREPAY
+TRANSACTIONS
+
+The Prepay Transactions were a powerful tool that Enron used to manage its
+reported financial condition and satisfy Rating Agency expectations.’° Enron’s Prepay
+Transactions with Toronto Dominion, Citigroup and JPMorgan Chase constituted
+virtually all of the company’s reported cash flow from operating activities in 1999 and
+32% of its reported operating cash flow in 2000.””
+
+Between 1998 and 2001, Toronto Dominion assisted Enron in completing the six
+
+Toronto Dominion Prepays, totaling approximately $2 billion, as identified in the
+
+following chart:
+Toronto Dominion Prepays
+Name Closing Date Amount Toronto Dominion Role
+Dec. 1998 Dec. 30, 1998 $250 million Funded $250 million (JPMorgan
+Chase was counterparty)
+Truman June 29, 1999 $500 million Funded $250 million and acted as
+
+swap counterparty for $250 million
+Citigroup-funded portion of prepay
+Jethro Sept. 29, 1999 $675 million Funded $337.5 million and acted as
+swap counterparty for $337.5 million
+Citigroup-funded portion of prepay
+
+Nixon Dec. 14, 1999 $324 million Acted as swap counterparty for
+prepays funded by Citigroup, RBS
+and Barclays
+
+Alberta Sept. 27, 2000 CAD $147.4 million | Funded approx. CAD $147.4 million
+
+(approx. $105 (JPMorgan Chase acted as swap
+million U.S.) counterparty)
+
+London Dec. 2000 $165 million Funded $165 million (Morgan Stanley
+acting as swap counterparty)
+
+$2.0 billion total
+
+% For a more detailed analysis of Enron’s Prepay Transactions, see Second Interim Report, Appendix E
+(Prepay Transactions) and Third Interim Report, Appendix D (Role of Citigroup and Its Affiliates) and
+Appendix E (Role of JPMorgan Chase and its Affiliates).
+
+7 See August 2001 Fastow Report, at 2-12; Enron Form 10-K filed with the SEC for the Year ended
+Dec. 31, 2000 (the “Enron 10-K for 2000”), Enron Corp. and Subsidiaries Consolidated Statement of Cash
+Flows; Enron Form 10-K filed with the SEC for the Year ended Dec. 31, 1999 (the “Enron 10-K for
+1999”), Enron Corp. and Subsidiaries Consolidated Statement of Cash Flows.
+
+-22-
+
+=== PAGE 25 ===
+Each of the Toronto Dominion Prepays was structured with the commodity price
+risk moving through the other parties and back to Enron in a circle, so that it was
+eliminated. Thus, the Toronto Dominion Prepays were simply debt structured as
+commodity swaps. Toronto Dominion credit approval memoranda regarding the Prepay
+Transactions make clear that Toronto Dominion considered the Prepay Transactions to be
+loans:
+
+9978
+
+e “(T]he swap transaction is effectively a 2 month loan to Enron.
+
+e “We have been approached by Enron to structure a deal whereby TD provides a
+
+loan which is based on a future delivery of natural gas ... . As a result, we have
+structured a fully-hedged $200MM 60-day Prepaid Natural Gas-Linked Term
+Loan.”
+
+e “At closing, TD will fund a $200MM loan, which will be structured as a
+prepayment for the future delivery of specified volumes of natural gas at a market
+index.”
+
+e “As this transaction effectively involves a fixed rate loan, there will be no interest
+resets over the term, and there will be only 1 repayment date.”*!
+
+e “At maturity, [Enron] will repay [the swap] with the financial equivalent of a pre-
+determined value of crude oil at a specified price. The precise value of crude oil
+will be determined at the trade date in an amount sufficient to cover 100% of
+principal and interest.”*”
+
+Dec. 17, 1998 Speedy Review, at TDB-EX(1) 015117 (V.J. Huebner Remarks).
+
+” See Draft Credit Approval Request, Dec. 1998, at TDB-EX 000558 [TDB-EX 000557-TDB-EX
+000560].
+
+5 Dec. 17, 1998 Speedy Review, at TDB-EX(1) 015115.
+5! Sept. 25, 1999 Corporate Credit Review, at 24 (Energy Derivatives Comments).
+
+® Letter from Ann Scully, Toronto Dominion, to Doug McDowell, Enron, June 28, 1999, at TDB-EX
+002057 [TDB-EX 002057-TDB-EX 002058].
+
+-23-
+
+=== PAGE 26 ===
+Similarly, the former and current Toronto Dominion employees who provided
+testimony to the Examiner uniformly acknowledged that the Toronto Dominion Prepays
+did not involve any commodity risk®? and were simply loans to Enron.**
+
+Nevertheless, Enron accounted for the Toronto Dominion Prepays as price risk
+management activities and characterized the proceeds of these financings as cash flows
+from operating activities rather than from financing activities.> This method of
+accounting significantly understated Enron’s true debt obligations, significantly
+overstated Enron’s true cash flow from operating activities, and favorably affected
+
+Enron’s key financial ratios considered by the Rating Agencies when establishing
+
+Enron’s credit rating.*°
+
+3 See, e.g., Jones Sworn Statement, Vol. I, at 35; Lavin Sworn Statement, at 34; Lucey Sworn Statement,
+at 86; Bott Sworn Statement, at 38; Reikman Sworn Statement, at 64, 120.
+
+84 Lucey Sworn Statement, at 96; Reikman Sworn Statement, at 134-35; Lavin Sworn Statement, at 51.
+
+8 See Memorandum from Financial Operations Accounting, ENA, to Distribution, regarding Prepaid
+Hydrocarbon Companies, Oct. 21, 1996 [AB0252 01068-AB0252 01073].
+
+8° See The Role of Financial Institutions in Enron’s Collapse: Hearing before the Permanent Subcomm.
+on Investigations, Senate Comm. on Governmental Affairs, 107th Cong. (July 23-30, 2002) (the “PSI
+Financial Institutions Hearing”), Vol. J, at 29 (Testimony of John C. Diaz, Managing Director, Power &
+Energy Group, Moody’s Investors Service, and Pamela M. Stumpp, Managing Director, Chief Credit
+Officer, Corporate Finance Group, Moody’s Investors Service) (“If such transactions had been accounted
+for as a loan, Enron’s operating cash flow would have been reduced and its debt would have been greater.
+The disclosure of these transactions as loans would have exerted downward pressure on Enron’s credit
+rating.”), available at http://frwebgate.access.gpo.gov/cgibin/getdoc.cgi?dbname=107_senate_hearings&do
+cid=f:81313.pdf; id. at 31 (Testimony of Ronald M. Barone, Managing Director, Utilities, Energy &
+Project Finance Group, Corporate & Government Ratings, S&P); Written Statement of Lynn Turner,
+Former Chief Accountant of the SEC, to the PSI, July 23, 2002, at ELIB00002247-00006-ELIB00002247-
+00007 (“When a company improperly reports cash flows generated by or used in financings as cash
+generated from typical business operations [then] investors, analysts and credit rating agencies will be
+misled as to the financial health of a company and its ability to meet future commitments on cash.”)
+[ELIB00002247-00001-ELIB00002247-00013}; see also id. at ELIB00002247-00010 (“I have read the
+testimony of the subcommittee’s chief investigator and various documents the staff of the subcommittee
+have provided to me. These documents lead to the conclusion that the Enron prepay transactions described
+therein should have been accounted for as bank or credit financings, rather than as liabilities from price risk
+management activities in the financial statements of Enron.”).
+
+-24-
+
+=== PAGE 27 ===
+The Toronto Dominion Prepays alone, without consideration of other Prepay
+
+Transactions that Enron completed, had a material effect on Enron’s cash flows from
+
+operating activities, as reflected in the following table:
+
+Enron’s Operating Cash Flows
+
+Period Reported Cash Net Cash Flows | Cash Flows From | Percentage
+Flows From From (Used By) Operating Impact
+(dollar amounts in (Used By) Toronto Dominion | Activities Without
+millions) Operating Prepays Toronto Dominion
+Activities Prepays
+Year Ended
+Dec. 31, 1998 $1,640°" $250 $1,390 15%
+3 Mos. Ended
+Mar. 31, 1999 ($660)*8 ($250) ($410) (38%)
+6 Mos. Ended
+June 30, 1999 ($38) $250 ($288) 658%
+9 Mos. Ended
+Sept. 30, 1999 ($43)? $425 ($468) 988%
+Year Ended
+Dec. 31, 1999 $1,228"! $74 $1,154 6%
+
+In addition, had Enron reported its obligations arising out of the Toronto
+Dominion Prepays as debt, rather than as liabilities from price risk management
+activities, Enron’s reported debt levels would have increased, as shown in the following
+
+table:
+
+87 See Enron Form 10-K filed with the SEC for the Year ended Dec. 31, 1998 (the “Enron 10-K for 1998”),
+Enron Corp. and Subsidiaries Consolidated Statement of Cash Flows.
+
+88 See Enron Form 10-Q filed with the SEC for the Quarter ended Mar. 31, 1999, Enron Corp. and
+Subsidiaries Consolidated Statement of Cash Flows.
+
+8 See Enron 10-Q filed with the SEC for the Quarter ended June 30, 1999, Enron Corp. and Subsidiaries
+Consolidated Statement of Cash Flows.
+
+°° See Enron 10-Q filed with the SEC for the Quarter ended Sept. 30, 1999, Enron Corp. and Subsidiaries
+Consolidated Statement of Cash Flows.
+
+°! See Enron 10-K for 1999, Enron Corp. and Subsidiaries Consolidated Statement of Cash Flows.
+
+-25 -
+
+=== PAGE 28 ===
+Enron’s Debt
+
+As of Reported Debt Amount Debt Including Percentage
+(Does Not Include {| Outstanding on Amount Increase
+(dollar amounts in Prepay Toronto Dominion | Outstanding on
+millions) Transactions) Prepays Toronto Dominion
+Prepays
+
+Dec. 31, 1998 $7,357" $250 $7,607 3%
+Mar. 31, 1999 $9,419" $0 $9,419 0%
+June 30, 1999 $8,979" $500 $9,479 6%
+Sept. 30, 1999 $8,592" $675 $9,267 8%
+Dec. 31, 1999 $8,152 $324 $8,476 4%
+Dec. 31, 2000 $10,229°” $270 $10,499 3%
+
+Enron provided no meaningful disclosure of the Prepay Transactions in its
+
+financial statements, notwithstanding their magnitude and significance, and
+
+notwithstanding advice from Andersen that Enron should provide more complete
+
+disclosure.” As discussed below, Toronto Dominion understood Enron’s accounting for
+
+the Toronto Dominion Prepays and the inadequacy of the disclosures in Enron’s financial
+
+® See Enron 10-K for 1998, Enron Corp. and Subsidiaries Consolidated Balance Sheet.
+
+° See Enron 10-Q filed with the SEC for the Quarter ended Mar. 31, 1999, Enron Corp. and Subsidiaries
+
+Consolidated Balance Sheet.
+
+4 See Enron 10-Q filed with the SEC for the Quarter ended June 30, 1999, Enron Corp. and Subsidiaries
+Consolidated Balance Sheet.
+
+°° See Enron 10-Q filed with the SEC for the Quarter ended Sept. 30, 1999, Enron Corp. and Subsidiaries
+
+Consolidated Balance Sheet.
+° See Enron 10-K for 1999, Enron Corp. and Subsidiaries Consolidated Balance Sheet.
+°7 See Enron 10-K for 2000, Enron Corp. and Subsidiaries Consolidated Balance Sheet.
+
+%® See Second Interim Report, Appendix D (Enron’s Disclosure of its SPEs).
+*® See Third Interim Report, Appendix C (Role of Enron’s Officers), at 84.
+
+-26-
+
+
+=== PAGE 29 ===
+statements. Yet, Toronto Dominion provided substantial assistance to Enron in
+connection with the Toronto Dominion Prepays, including: (i) lending funds in five of
+the transactions; and (ii) serving as a conduit in three prepay transactions, two involving
+Citigroup (Truman and Jethro) and another transaction (Nixon) in which Citigroup,
+Barclays and RBS were lenders to Enron. Unlike JPMorgan Chase and Citigroup,
+Toronto Dominion does not appear to have created the structure for any of the Prepay
+Transactions. Rather, Enron provided Toronto Dominion with the Prepay structure.'°°
+Nor did Toronto Dominion ever establish an SPE to participate in the Prepay
+Transactions.
+
+Summary Description
+
+All of the Toronto Dominion Prepays were financially settled and followed
+generally the same structure, which had the effect of eliminating all commodity price
+risk. Although each of the Toronto Dominion Prepays had different details, with
+different parties playing the roles of lenders and conduit entities, the following
+
+description of a typical Toronto Dominion Prepay shows the basic circular nature of the
+
+common transaction structure:
+
+1 Lucey Sworn Statement, at 108.
+
+-27-
+
+=== PAGE 30 ===
+Toronto
+Dominion
+
+/ Floating payment on settlement date(s) based on commodity price a
+leg. ----- ~~~ {eauals floating amount(s) received from Citigroup)
+Enron p»| Conduit Entity
+Repayment of principal plus interest
+
+Step 3
+
+Step One: Toronto Dominion/Enron. Toronto Dominion and Enron entered
+into a swap agreement pursuant to which Toronto Dominion paid Enron a
+fixed sum on the closing date, i.e., a “prepayment.” This is the amount loaned
+by Toronto Dominion to Enron using the prepay structure. In exchange,
+Enron agreed to pay Toronto Dominion the floating price of a specified
+quantity of a commodity on a specified settlement date.
+
+Step Two: Toronto Dominion/Conduit. Toronto Dominion and a conduit
+entity entered into a swap agreement, pursuant to which Toronto Dominion
+agreed to pay the conduit entity the floating price of a specified quantity of a
+commodity, which matched the payment it would receive from Enron
+pursuant to the swap described in step one. In exchange, the conduit entity
+would pay Toronto Dominion a fixed amount equal to the payment of
+principal plus interest on the prepayment made by Toronto Dominion pursuant
+to the swap described in step one. This payment made by the conduit entity
+matched the payments it would receive from Enron pursuant to the swap
+described in step three.
+
+Step Three: Conduit/Enron. The conduit entity and Enron entered into a
+swap agreement, pursuant to which the conduit entity agreed to pay Enron on
+the settlement date an amount equal to the floating payment it would receive
+from Toronto Dominion. In exchange, Enron agreed to pay to the conduit
+entity on the settlement date an amount equal to the principal and interest on
+
+-28-
+
+=== PAGE 31 ===
+the prepayment which, pursuant to the swap described in step two, the conduit
+entity would transfer to Toronto Dominion.'!
+
+The net economic effect of the three steps of each Toronto Dominion Prepay was
+that, at the closing, Enron received a prepayment that was effectively a loan. On the
+specified settlement dates, the circular floating payment obligations of the parties based
+on the price of the commodity would eliminate one another, ensuring that no party had
+any risk with respect to the commodity price. In addition, on the specified settlement
+dates, Enron would repay the principal it had borrowed plus interest, with such payment
+passing through the conduit entity to Toronto Dominion. In net economic substance,
+Toronto Dominion made a loan to Enron that Enron repaid with interest.
+
+Each of the six Toronto Dominion Prepays was a variation of the structure
+described above, but regardless of the details, each transaction was circular. All
+commodity price risk was eliminated by having it circle back to Enron. The following is
+a brief summary of each of these transactions. .
+
+December 1998 Prepay. At the end of 1998, Enron requested that Toronto
+Dominion enter into a Prepay Transaction that would close prior to year-end.! This
+Prepay Transaction was a bridge financing with a term of sixty days. Toronto Dominion
+
+originally agreed to fund $200 million, but agreed to increase the amount to $250 million
+
+10 With respect to several of the early Prepay Transactions with Enron, several Toronto Dominion
+witnesses testified that they were unsure whether the transaction between the conduit entity and Enron — the
+third leg of the Prepay transaction — actually took place. See, e.g., Jones Sworn Statement, Vol. I, at 87.
+However, documents produced by Toronto Dominion indicate that Toronto Dominion had knowledge of
+this leg of the transaction for all of the Toronto Dominion Prepays except possibly the first Prepay
+Transaction. See, e.g., Gas Swap Diagram; Crude Prepay Diagram; Dec. 10, 1999 Corporate Credit
+Review, at 20; Sept. 27, 2000 Rapid Review, at TDB-EX(1) 019961; Nov. 24, 2000 Corporate Credit
+Review, at TDB-EX 001516-TDB-EX 001517. Even in the first Prepay Transaction, Toronto Dominion
+had reason to know of the third leg, because Enron provided the swap counterparty.
+
+12 Dec. 17, 1998 Speedy Review, at TDB-EX(1) 015114 (Purpose of Review).
+
+~29-
+
+=== PAGE 32 ===
+pursuant to a last-minute request from Enron.'? This Prepay Transaction, like all of the
+Toronto Dominion Prepays, was financially settled, meaning that no physical delivery of
+
+a commodity was required or contemplated.
+
+Toronto
+
+Fixed payment calculated to equal principal plus interest
+
+In this Prepay Transaction, Toronto Dominion entered into two swap agreements
+with Enron, pursuant to which Toronto Dominion paid Enron $250 million in the
+aggregate on the closing date.' Enron agreed to pay Toronto Dominion the price of a
+
+notional volume of natural gas sixty days later.’ Toronto Dominion then shifted the
+
+13 Email from Robyn Zeller, Toronto Dominion, to Vic Huebner, Toronto Dominion, Dec. 29, 1998, at
+TDB-EX(1) 033050 [TDB-EX(1) 033049-TDB-EX(1) 033050]. Thus, this Prepay Transaction actually
+consisted of two related Prepay Transactions, executed on consecutive days. In connection with this
+request, however, Toronto Dominion purchased $75 million in credit default protection to offset any
+additional exposure to Enron. Id.
+
+1 Swap Transaction Confirmation between Toronto Dominion (Texas) and ENA, Dec. 29, 1998 (the
+“Dec. 29, 1998 Swap Confirmation”) [TDB-EX 000908-TDB-EX 000911]; Swap Transaction
+Confirmation between Toronto Dominion (Texas) and ENA, Dec. 31, 1998 (the “Dec. 31, 1998 Swap
+Confirmation”) [TDB-EX 000987-TDB-EX 000989]; ISDA Master Agreement between Toronto Dominion
+(Texas) and ENA, Dec. 18, 1998 (the “Toronto Dominion/ENA 1998 ISDA Master Agreement”) [TDB-EX
+000604-TDB-EX 000631].
+
+15 Dec, 29, 1998 Swap Confirmation; Dec. 31, 1998 Swap Confirmation.
+
+-30-
+
+=== PAGE 33 ===
+price risk of the gas to JPMorgan Chase via swap agreements, whereby Toronto
+Dominion agreed to pay JPMorgan Chase the same gas price on the notional amount on
+the same settlement date, and JPMorgan Chase agreed to pay Toronto Dominion the fixed
+sum of approximately $252.8 million, constituting the $250 million principal plus
+interest.'°° Completing the circle, JPMorgan Chase entered into a swap with Enron, in
+which it agreed to pay Enron the same gas price on the notional amount on the settlement
+date, and Enron agreed to pay JPMorgan Chase the same fixed sum of approximately
+$252.8 million.!°”
+
+Toronto Dominion received an upfront fee of $875,000 for executing this
+transaction, which had a RAROC of 35%, 18
+
+Truman. In June 1999, Enron requested that Toronto Dominion fund a $500
+million Prepay Transaction, which would close by month end.’ After Toronto
+Dominion informed Enron that it was unwilling to fund more than $250 million, Enron
+asked Toronto Dominion to serve as the conduit entity in a simultaneous $250 million
+
+Prepay Transaction to be funded by Citigroup.1!° Thus, the Truman transaction was a
+
+16 Swap Transaction Confirmation between JPMorgan Chase and Toronto Dominion, Dec. 30, 1998
+[TDB-EX(1) 034217-TDB-EX(1) 034220]; Swap Confirmation between JPMorgan Chase and Toronto
+Dominion, Dec. 30, 1998 [TDB-EX(1) 034230-TDB-EX(1) 034233].
+
+107 The Examiner has been unable to locate a copy of this swap confirmation. Further, some of the Toronto
+Dominion witnesses testified that they were unaware of the existence of this leg of the December 1998
+Prepay Transaction. See, e.g., Bott Sworn Statement, at 31. However, this confirmation is presumed to
+exist given the standard structure of Enron’s Prepay Transactions (which would require such a swap),
+Further, at least one Toronto Dominion employee testified that he later learned of the existence of such a
+swap. Jones Sworn Statement, Vol. I, at 30-31, 35.
+
+108 See June 22, 1999 Speedy Review, at TDB-EX 000033; Email from David Silverstein, Toronto
+Dominion, to Vic Huebner, Toronto Dominion, Dec. 23, 1998 [TDB-EX 000821].
+
+10° Malcolm Sworn Statement, at 29-30.
+
+1° Malcolm Sworn Statement, at 29-30, 34-35; Email from Ann P. Scully, Toronto Dominion, to Danny
+Elias, Toronto Dominion, June 28, 1999 (“Given the above [referring to the $250 million Prepay funded by
+Toronto Dominion], however, Enron has approached us to stand in the middle of a similar transaction for
+Citibank.”) [TBD-EX 002048]; Letter from Ann Scully, Toronto Dominion, to Doug McDowell, Enron,
+June 28, 1999 [TDB-EX 002059-TDB-EX 002060]; Gas Swap Diagram.
+
+-31-
+
+=== PAGE 34 ===
+$500 million Prepay, in which Toronto Dominion and Citigroup each funded $250
+million.'"' The two financial institutions entered into mirror-image Prepay Transactions
+that closed on the same day, and each served: as the other’s conduit entity.” The
+structure of this transaction was succinctly described by the Toronto Dominion employee
+
+in charge of executing the swap transaction, as indicated below:
+
+"Gas Swap Diagram; Jones Sworn Statement, Vol. II, at 151-52.
+
+12. Although those responsible for executing this Prepay Transaction were aware of all of the legs of both
+the Toronto Dominion-funded and Citigroup-funded Prepay Transactions, several of the senior risk
+management personnel at Toronto Dominion in charge of approving this transaction did not appear to have
+a complete understanding of the transaction structure at the time they approved the transactions. Spencer
+Sworn Statement, at 62; Huebner Sworn Statement, at 47-49. This may have occurred because the
+complete transaction structure, including the swap between the conduit entity and Enron, was omitted from
+the credit approval memorandum for this transaction. See generally June 22, 1999 Speedy Review.
+Further, there was no mention of Toronto Dominion’s participation in the Citigroup-funded portion of
+Truman in the credit approval memorandum. The Toronto Dominion Risk Management Group executives
+who provided testimony to the Examiner indicated that they would have expected full disclosure of all
+aspects of the transaction during the credit approval process and would have liked to have known this
+information at the time they reviewed the transaction. Spencer Sworn Statement, at 62, 64; Huebner Sworn
+Statement, at 48-49, 51-52.
+
+-32-
+
+=== PAGE 35 ===
+eseo009910
+
+Dominion entered into a swap agreement with Enron, pursuant to which Toronto
+Dominion paid Enron $250 million on the closing date.’ Enron agreed to pay Toronto
+Dominion the price of a notional volume of crude oil ninety days later.''* Toronto
+
+Dominion then shifted the price risk of the oil to Citigroup via a swap agreement,
+
+Crorct a anyeaitay
+£00000 ¥S-80L
+
+aucu tive steven ved
+
+¢ 2 Douglas Jones
+jo 05/2489 O45 PM
+
+To: Dan CarriCIBG/TDBANK@TOBANK
+cc:
+
+Subject: Diagram for Enron/CitiBank Gas Swap
+
+My drawing skills are a little rough, but it helps understand the transaction a little better.
+Doug
+
+ad wes
+“ we gy [Tone _
+“ve ~ N.
+$250 MM ‘\Fixed
+/ SN N
+: é 4 a
+
+f f y \
+
+‘ F »
+i Floa fn ‘ixed Floating,
+! ana!
+H bias $250 MM loating \
+
+ig tt
+Pog |
+Fixed ,
+
+TD
+
+coer Legend
+tin Deal 1: TD foans $250 MM
+ee eeee Deal 2: Citi loans $250 MM
+
+Specifically, in the Toronto Dominion-funded Prepay Transaction, Toronto
+
+"3 Swap Transaction Confirmation between Toronto Dominion (Texas) and ENA, June 29, 1999 (the
+1999 Swap Confirmation”) [TDB-EX 002063-TDB-EX 002066];
+Confirmation between Toronto Dominion (Texas) and ENA, Aug. 6, 1999 [SS000036591-SS000036593];
+
+“June 29,
+
+Toronto Dominion/ENA 1998 ISDA Master Agreement.
+"4 June 29, 1999 Swap Confirmation.
+
+-33-
+
+Swap ‘Transaction
+
+=== PAGE 36 ===
+whereby Toronto Dominion agreed to pay Citigroup the same floating oil price on the
+notional volume on the same settlement date, and Citigroup agreed to pay Toronto
+Dominion the fixed sum of approximately $254 million, constituting the $250 million
+
+Ws
+
+principal plus interest. Completing the circle, Citigroup entered into a swap with
+
+Enron, agreeing to pay Enron the same floating price of the oil on the notional volume on
+
+6 Enron agreed to pay Citigroup the same fixed sum of
+
+the settlement date.'!
+approximately $254 million.''”
+
+The Citigroup-funded Prepay worked in the same fashion, except that Citigroup
+made the initial $250 million payment to Enron, and Toronto Dominion served as the
+
+conduit entity to shift the price risk back to Enron so that it would be eliminated.’
+
+Enron paid Toronto Dominion a $1 million upfront fee for funding its $250 million share,
+
+45 Amended Swap Transaction Confirmation between Toronto Dominion and Citigroup, July 6, 1999 (the
+“July 6, 1999 Amended Swap Confirmation”) [CITI-B 00373899-CITI-B 00373901].
+
+"6 Revised Confirmation between ENA and Citigroup, July 30, 1999 [SS000036617-SS000036629].
+7
+Id.
+
+"8 ISDA Master Agreement between ENA and Citigroup, Nov. 17, 1992 (the “Citigroup/ENA Master
+Agreement”) [SS000037868-SS0000379 13]; Confirmation between ENA and Citigroup, June 29, 1999 (the
+“Citigroup/ENA Confirmation”) [SS000036643-SS000036655},; Swap Transaction Confirmation between
+Toronto Dominion and Citigroup. The Examiner was unable to locate a copy of this swap confirmation but
+the transaction is acknowledged by Toronto Dominion to exist and is indicated in its diagram of the
+structure of the transaction. See Gas Swap Diagram; ISDA Interest Rate and Currency Exchange
+Agreement between ENA and Toronto Dominion, Mar. 4, 1992 (the “ENA/Toronto Dominion ISDA
+Interest Rate and Currency Exchange Agreement”) [TDB-EX 002245-TDB-EX 002269]; Swap
+Transaction Confirmation between Toronto Dominion (Texas) and ENA, June 29, 1999 [TDB-EX 002067-
+TDB-EX 002070]; Revised Swap Transaction Confirmation between Toronto Dominion and ENA, Aug. 6,
+1999 (the “Toronto Dominion/ENA Revised Swap Transaction Confirmation”) [SS000036594-
+$S000036596]; Toronto Dominion/ENA 1998 ISDA Master Agreement. The Examiner was unable to
+locate a copy of the Swap Transaction Confirmation between TD Texas and Toronto Dominion; however,
+an Enron chart provided to Toronto Dominion shows that this leg of the transaction existed. See Crude
+Prepay Diagram.
+
+-34-
+
+=== PAGE 37 ===
+as well as a $100,000 fee for serving as the conduit entity for the other lender.'° The
+
+transaction had a RAROC of 40%, twice Toronto Dominion’s targeted return.'”°
+
+Jethro. On September 29, 1999, the day that the 90-day Prepay Transactions in
+Truman were to settle, Toronto Dominion and Citigroup effectively refinanced and
+increased the Truman obligations by executing two new Prepay Transactions. Although
+Toronto Dominion and Citigroup generally referred to this follow-on transaction as an
+
+121
+
+extension of Truman,'”! Enron referred to it as Project Jethro.'** The parties executed a
+
+new set of documents as opposed to amending the then-expiring Truman documents. !??
+
+Jethro mirrored the Truman transaction, with Toronto Dominion and Citigroup
+
+again playing their same roles as lenders and conduit entities.'** Hach lender funded
+
+19 Upfront Fee Letter from Ann P. Scully, TD Securities (USA) Inc., to Doug McDowell, Enron, June 28,
+1999 [TDB-EX 002061-TDB-EX 002062]; Swap Fee Letter from Ann P. Scully, TD Securities (USA) Inc.,
+to Doug McDowell, Enron, June 28, 1999 (the “Scully/McDowell Swap Fee Letter”) [TDB-EX 002059-
+TDB-EX 002060].
+
+120 June 22, 1999 Speedy Review, at TDB-EX 000033.
+
+121 Sept. 25, 1999 Corporate Credit Review, at 1; Toronto Dominion Aug. 6, 2003 Responses, at 6; Lavin
+Sworn Statement, at 45-46; Jones Sworn Statement, Vol. II, at 158; Global Loans Approval Memorandum,
+regarding Truman, Sept. 19, 1999, at 2 [CITI-B 0035822-CITI-B 0035888].
+
+122 Memorandum from Bill Brown, Enron, to Doug McDowell, Enron, regarding Annual Review — 1999,
+Nov. 30, 1999, at 1 [SS000036560-SS000036561].
+
+123 A Toronto Dominion employee involved in the swap confirmations testified that he believed that the
+swap confirmations from the Truman Prepay Transaction were amended to increase the amounts. See
+Jones Sworn Statement, Vol. I, at 73. However, the swap confirmations evidencing this Prepay indicate
+that new documents were executed. See, e.g., Swap Transaction Confirmation between Toronto Dominion
+(Texas) and ENA, Sept. 29, 1999 (the “Sept. 29, 1999 Swap Confirmation between Toronto Dominion
+(Texas) and ENA”) [SS000036413-SS000036415].
+
+4 ‘As with the Truman Prepay, the Toronto Dominion credit approval memorandum for this transaction
+did not reflect the complete structure of this transaction. For instance, the diagram of the transaction
+contained in the approval memorandum did not show the swap between the conduit entity and Enron. See
+Sept. 25, 1999 Corporate Credit Review, at 24. Nor did the credit approval memorandum indicate that
+Toronto Dominion also would be participating in a mirror Prepay Transaction funded by Citigroup that was
+to close simultaneously with the Toronto Dominion-funded Prepay Transaction. See generally Sept. 25,
+1999 Corporate Credit Review. The Toronto Dominion employee in charge of executing the swaps that
+comprised the transaction, however, was fully aware of the transaction structure. Jones Sworn Statement,
+Vol. II, at 163-64; Crude Prepay Diagram. Given that the Jethro Prepay employed the same structure as the
+Truman Prepay, it is unclear why the complete details were not included in the credit approval
+memorandum seeking approval for Toronto Dominion to participate in the transaction. Again, the senior
+risk management executives who approved this transaction testified that they were unaware of these
+
+-35-
+
+=== PAGE 38 ===
+$337.5 million to Enron, and the Jethro Prepays were set to expire in sixty days on
+November 29, 1999.’ Enron used the proceeds of Jethro, in part, to repay the maturing
+Truman obligations. Toronto Dominion received upfront fees of approximately $775,000
+for this transaction, which had a RAROC of 38%, 176
+
+Nixon. The Nixon Prepay Transaction closed in December 1999 and was
+intended to be a 90-day bridge financing that would be repaid with proceeds of the
+Citigroup Yosemite II transaction scheduled for closing in first quarter 2000.!7” Nixon
+was actually a set of three interrelated Prepay Transactions that provided Enron with a
+total of $324 million.'”® Citigroup, Barclays and RBS financed the transaction, and
+
+Toronto Dominion served as the conduit entity for all three lenders.'”°
+
+components of the Prepay Transaction when it was submitted to them. See, e.g., Spencer Sworn Statement,
+at 46-47; Huebner Sworn Statement, at 67-68.
+
+25 The principal documents for the Toronto Dominion prepay were: (i) Sept. 29, 1999 Swap Confirmation
+between Toronto Dominion (Texas) and ENA; (ii) Confirmation between Toronto Dominion and Citigroup,
+Oct. 19, 1999 [TDB-EX(1) 034653-TDB-EX(1) 034657]; (iii) Confirmation between Citigroup and ENA,
+Oct. 19, 1999 [SS000036416-SS000036420]; (iv) a Revised Swap Confirmation between Toronto
+Dominion and Citibank, Nov. 19, 1999 [TDB-EX(1) 034305-TDB-EX(1) 034308]; and (v) a confirmation
+between TD Texas and Toronto Dominion. Although the Examiner was unable to locate a copy of this
+confirmation between TD Texas and Toronto Dominion, Toronto Dominion does not dispute that this swap
+existed, and charts of the Jethro Structure show this step of the transaction. See Crude Prepay Diagram.
+The principal documents for the Citigroup prepay were: (i) Confirmation between ENA and Citigroup,
+Oct. 6, 1999 [SS000036423-SS000036427]; (ii) Confirmation between Toronto Dominion and Citigroup,
+Oct. 18, 1999 [TDB-EX(1) 034649-TDB-EX(1) 034652]; and (iii) a confirmation between ENA and
+Toronto Dominion. Although the Examiner was unable to find a copy of this confirmation between ENA
+and Toronto Dominion, it is acknowledged by Toronto Dominion to exist and the swap is indicated in the
+diagram of the Jethro Prepay produced by Toronto Dominion. See Crude Prepay Diagram.
+
+26 Sept. 25, 1999 Corporate Credit Review, at 1.
+27 Dec. 10, 1999 Corporate Credit Review, at 20.
+28 See generally id.
+
+29 Toronto Dominion initially sought approval to underwrite a portion of the Nixon Prepay Transaction, as
+Enron had indicated that Barclays might not participate in the transaction. Jd. at 19. Enron ultimately
+selected Barclays to fund the $110 million portion of the transaction, but selected Toronto Dominion to
+serve as the conduit entity for all three of the Prepay Transactions that formed Nixon. Jd.
+
+-36-
+
+=== PAGE 39 ===
+Payment equal to market price
+of oil on settlement date
+TD Bank
+
+Fixed payment on settlement date
+equal to $324 MM plus interest >
+
+-
+/ equal to
+price of oil
+
+siiomM
+\
+.
+
+on closing
+date \
+\
+
+\
+\
+
+/ Payment
+/ equal to
+f price of oil
+
+Principal /
+.
+
+/ \.
+
+/ Payment NN
+
+plus
+
+Payment
+equal to }
+price aa
+ofoil | Principal
+plus
+interes} interest
+“ Payment \ m /
+’ N equal
+ra equal to ‘ / i ‘,
+price of oil \ i to price ‘,
+, of oil _
+Citigroup
+
+|
+|
+!
+H
+i
+f
+i
+H
+'
+H
+¥
+
+Barclays
+Citigroup paid Enron $104 million on the closing date pursuant to a swap
+
+agreement.!°? Enron agreed to pay Citigroup an amount based on the price of a notional
+1 Citigroup then entered into a swap with
+
+amount of crude oil on the settlement date.’
+Toronto Dominion, pursuant to which Citigroup agreed to pay the same price of the
+132
+
+notional amount of crude oil to Toronto Dominion in exchange for a fixed payment equal
+
+to the $104 million prepayment amount plus an amount that functioned as interest.
+
+13° Citigroup/ENA Master Agreement; Swap Transaction Confirmation between Citigroup and ENA, Dec.
+14, 1999 (the “12/14/99 Citigroup/ENA Swap Transaction Confirmation”) [CITI-B 0134703-CITI-B
+The initial settlement date of March 15, 2000 was extended to April 14, 2000. Swap
+
+Transaction Confirmation between Citigroup and ENA, Mar. 15, 2000 (the “3/15/00 Citigroup/ENA Swap
+
+0134706].
+Transaction Confirmation”) [SS000037716-SS000037719].
+31 Citigroup/ENA Master Agreement; 12/14/99 Citigroup/ENA Swap Transaction Confirmation; 3/15/00
+
+Citigroup/ENA Swap Transaction Confirmation.
+132 Confirmation between Toronto Dominion and Citigroup, Dec. 22, 1999 (unsigned copy) [TDB-EX(1)
+.37-
+
+034234-TDB-EX(1) 034237]. The initial settlement date of March 15, 2000 was extended to April 14,
+
+=== PAGE 40 ===
+RBS also entered into a swap with Enron, paying Enron $110 million on the
+closing date.'?? Enron agreed to pay RBS an amount based on the price of a notional
+
+amount of crude oil on the settlement date.'*4
+
+RBS then entered into a swap with Toronto
+Dominion, pursuant to which RBS agreed to pay the same price of the notional amount of
+crude oil to Toronto Dominion, in exchange for a fixed payment equal to the $110
+million prepayment amount plus an amount that functioned as interest.'°
+
+The third lender, Barclays, also entered into a swap with Enron, paying Enron
+$110 million on the closing date.'*° Enron agreed to pay Barclays an amount based on
+the price of a notional amount of crude oil on the settlement date.'?’ Barclays then
+entered into a swap with Toronto Dominion, pursuant to which Barclays agreed to pay
+the same price of the notional amount of crude oil to Toronto Dominion, in exchange for
+a fixed payment equal to the $110 million prepayment amount plus an amount that
+
+functioned as interest.!3*
+
+2000. Revised Confirmation between Toronto Dominion and Citigroup, Mar. 15, 2000 [TDB-EX(1)
+034313-TDB-EX(1) 034316].
+
+3 Swap Transaction Confirmation between RBS and ENA, Dec. 14, 1999 (the “12/14/99 RBS/ENA Swap
+Transaction Confirmation”) [CITI-B 0032451-CITI-B 0032454]. The initial settlement date of March 15,
+2000 was extended to April 14, 2000. Swap Transaction Confirmation between RBS and ENA, Mar. 15,
+2000 (the “3/15/00 RBS/ENA Swap Transaction Confirmation”) [SS000037780-SS000037783].
+
+84 12/14/99 RBS/ENA Swap Transaction Confirmation; 3/15/00 RBS/ENA Swap Transaction
+Confirmation.
+
+®5 Swap Transaction Confirmation between Toronto Dominion and RBS, Dec. 14, 1999 [TDB-EX
+034251-TDB-EX 034257]; Swap Transaction between Toronto Dominion and RBS, Mar. 15, 2000
+(extension) [TDB-EX(1) 034258-TDB-EX(1) 034261].
+
+'88 Stand-Alone Swap Agreement between ENA and Barclays, Dec. 14, 1999 (the “12/14/99
+ENA/Barclays Stand-Alone Swap Agreement”) [CITI-B 0032445-CITI-B 0032450]; Stand-Alone Swap
+Agreement between ENA and Barclays, Mar. 14, 2000 (the “3/14/00 ENA/Barclays Stand-Alone Swap
+Agreement) (extension of prior swap) [SS00003775 1-SS000037757].
+
+87 12/14/99 ENA/Barclays Stand-Alone Swap Agreement; 3/14/00 ENA/Barclays Stand-Alone Swap
+Agreement.
+
+138 Swap Transaction Confirmation between Toronto Dominion and Barclays, Dec. 14, 1999 [TDB-EX(1)
+034242-TDB-EX(1) 034246]; Swap Transaction Confirmation between Toronto Dominion and Barclays,
+Mar. 14, 2000 (extension) [TDB-EX(1) 034247-TDB-EX(1) 034250].
+
+-38-
+
+=== PAGE 41 ===
+To complete the circle for all three sets of swaps, Toronto Dominion entered into
+a swap with Enron.'°° Toronto Dominion did not fund any of the interrelated prepays,
+but served as a conduit: passing the floating price back to Enron, receiving the principal
+repayments plus interest from Enron, and passing them on to the lenders.'*° Toronto
+Dominion received an upfront fee of approximately $825,000 for its participation in this
+transaction, which had a RAROC of 40%."4!
+
+Alberta. In September of 2000, Enron requested that Toronto Dominion
+participate in a Prepay Transaction involving Enron Canada Corporation (“Enron
+Canada”), which would close by month end.'*? Toronto Dominion agreed to participate,
+
+and funded approximately CAD $147.4 million pursuant to the following structure:
+
+3° Swap Transaction Confirmation between ENA and Toronto Dominion, Dec. 20, 1999 [TDB-EX(1)
+034266-TDB-EX(1) 034269]; Revised Swap Transaction Confirmation among Toronto Dominion, ENA
+and Toronto Dominion, Mar. 14, 2000 (extension) [SS000037788-SS000037792].
+
+“ The documentary and testimonial evidence indicates that Toronto Dominion understood all legs of all
+three of these interrelated Prepay Transactions. See, e.g., Dec. 10, 1999 Corporate Credit Review, at 20
+(diagram indicating circular structure of Nixon Prepay Transaction); Email from Simon Crowe, Enron, to
+Douglas Jones, Toronto Dominion, ef al., Dec. 14, 1999, at TDB-EX 000387 (chart indicating circular
+structure of Nixon Prepay Transaction) [TDB-EX 000386-TDB-EX 000387]; Jones Sworn Statement, Vol.
+I, at 108-09.
+
+1 Dec, 10, 1999 Corporate Credit Review, at 1, 15.
+1 Sept. 27, 2000 Rapid Review.
+
+-39-
+
+=== PAGE 42 ===
+Toronto
+
+Repayment of principal plus interest
+
+In this Prepay Transaction, Toronto Dominion entered into a swap agreement with
+Enron Canada, pursuant to which Toronto Dominion paid Enron Canada CAD $147.4
+million on the closing date.'*?_ Enron Canada agreed to pay Toronto Dominion the price
+of a notional volume of gas quarterly (for the first three quarters) with a final payment
+based on the price of a larger fixed volume of gas.'** Toronto Dominion then shifted the
+price risk to JPMorgan Chase via a swap agreement, whereby Toronto Dominion agreed
+to pay JPMorgan Chase the same floating prices on the same notional amounts on the
+settlement dates, and JPMorgan Chase agreed to pay Toronto Dominion the fixed sum of
+
+approximately CAD $2.52 million each of the first three quarters, with a final payment of
+
+“8 Swap Transaction Confirmation between Enron Canada Corp. and Toronto Dominion, Sept. 28, 2000
+(the “Sept. 28, 2000 Swap Confirmation”) [TDB-EX 001177-TDB-EX 001179].
+
+144 Td.
+
+- 40 -
+
+=== PAGE 43 ===
+CAD $149.9 million. The first three quarterly payments equaled the accrued interest
+on the principal funded by Toronto Dominion, while the final payment equaled the
+principal plus the remaining accrued interest.'“° Completing the circle,'*’ JPMorgan
+Chase entered into a swap with Enron, in which it agreed to pay Enron the same floating
+prices on the notional amounts on the settlement dates, and Enron agreed to pay
+JPMorgan Chase the same fixed quarterly payments in the amount of CAD $2.52 million
+plus a final payment in the amount of CAD $149.9 million.
+
+Toronto Dominion received upfront fees of approximately $1.1 million for this
+transaction, which had a RAROC of 35%.'° Toronto Dominion’s Risk Management
+Group conditioned its approval of this transaction upon Toronto Dominion obtaining
+credit default protection in the entire amount of the exposure, which Toronto Dominion
+obtained.’ Thus, Toronto Dominion effectively shifted the Enron credit risk it assumed
+in this Prepay Transaction to third parties.
+
+London. Toronto Dominion’s final Prepay Transaction with Enron closed in
+
+December of 2000. Similar to the December 1998 transaction, this transaction was
+
+45 Natural Gas Transaction Confirmation between Toronto Dominion and JPMorgan Chase, Sept. 29,
+2000 (the “Sept. 29, 2000 Natural Gas Confirmation”) [TDB-EX 001180-TDB-EX 001183]; Commodity
+Swap Transaction Confirmation between JPMorgan Chase and Toronto Dominion, Oct. 5, 2000 [TDB-EX
+001188-TDB-EX 001194].
+
+M46 See Sept. 27, 2000 Rapid Review, at TDB-EX(1) 019961.
+
+47 Toronto Dominion understood the circular structure of this prepay, which was set forth in a diagram
+contained in the Toronto Dominion credit approval memorandum for this transaction. See id.
+
+“48 The Examiner was unable to locate a copy of the swap confirmation between JP Morgan Chase and
+Enron Canada Corp. However, the swap is acknowledged by Toronto Dominion to exist and is indicated in
+the diagram of the structure of the transaction contained in the Toronto Dominion credit approval
+memorandum for the Alberta Prepay. See id.
+
+1 Td. at TDB-EX(1) 019957, TDB-EX(1) 019962.
+180 Tq. at TDB-EX(1) 019957, TDB-EX(1) 019964-TDB-EX(1) 019965; Lucey Sworn Statement, at 77.
+
+-41-
+
+=== PAGE 44 ===
+accomplished via two related Prepay Transactions, with Toronto Dominion funding $135
+
+million in one transaction and $30 million in another.
+
+Toronto
+Dominion
+
+/ Floating payment on settlement date(s) based on commodity price 4
+——) =~ {equals floating amount(s) received from Citigroup)
+E . Morgan
+mron >
+Repayment of principal plus interest Stanley
+
+In this Prepay Transaction, Toronto Dominion entered into two swap agreements
+with Enron, pursuant to which Toronto Dominion paid Enron an aggregate of $165
+million ($135 million on December 15, 2000 and $30 million on December 22, 2000) on
+
+5! With respect to the $135 million transaction, Toronto Dominion
+
+the closing dates.!
+paid Enron $135 million up front, and Enron agreed to pay Toronto Dominion the price
+of a fixed volume of oil quarterly, with a final payment based upon the price of a larger
+
+fixed volume of oil.” Toronto Dominion then shifted the price risk of the oil to Morgan
+
+51 Swap Transaction Confirmation between Toronto Dominion (Texas) and ENA, Dec. 15, 2000 (the
+“Dec. 15, 2000 Swap Confirmation”) [TDB-EX 033249-TDB-EX 033256]; Swap Transaction
+Confirmation between Toronto Dominion (Texas) and ENA, Jan. 18, 2001 (the “Jan. 18, 2001 Swap
+Confirmation”) [AB0911 2846-AB0911 2849]; Swap Transaction Confirmation between Toronto
+Dominion (Texas) and ENA, Dec. 19, 2000 (the “Dec. 19, 2000 Swap Confirmation”) [TDB-EX(1)
+033258-TDB-EX(1) 003265]; Swap Transaction Confirmation between Toronto Dominion (Texas) and
+ENA, Jan. 29, 2001 (the “Jan. 29, 2001 Swap Confirmation”) [AB0911 2850-AB0911 2853] .
+
+182 Dec. 15, 2000 Swap Confirmation; Jan. 18, 2001 Swap Confirmation.
+
+-42-
+
+=== PAGE 45 ===
+Stanley via swap agreements, whereby Toronto Dominion agreed to pay Morgan Stanley
+the same oil prices on the same notional amounts on the same settlement dates, and
+Morgan Stanley agreed to pay Toronto Dominion three fixed quarterly payments in the
+amount of $2.42 million and a final payment of $137.26 million on December 7, 2001.'*°
+Completing the circle,'** Morgan Stanley entered into a swap with Enron, agreeing to pay
+Enron the same floating prices on the same notional amounts of oil on the settlement
+
+155
+
+date. Enron agreed to pay Morgan Stanley three fixed quarterly payments in the
+
+amount of $2.42 million and a final payment of $137.26 million on December 7, 2001.'°°
+
+With respect to the $30 million transaction, Enron agreed to pay Toronto
+Dominion one interim payment based upon the price of a fixed volume of oil, and a final
+payment based upon the price of a larger fixed volume of oil on the settlement date.!°”
+Toronto Dominion then shifted the price risk of the oil to Morgan Stanley via a swap
+agreement, whereby Toronto Dominion agreed to pay Morgan Stanley the same oil price
+on the notional amount on the same settlement dates, and Morgan Stanley agreed to pay
+
+Toronto Dominion one fixed interim payment in the amount of $1.053 million and a final
+
+payment of $30.99 million on December 7, 2001.'°* Completing the circle, Morgan
+
+153 Swap Confirmation between Morgan Stanley Capital Group, Inc. and Toronto Dominion, Jan 23, 2001
+[TDB-EX(1) 034330-TDB-EX(1) 034332].
+
+154 Toronto Dominion understood the circular nature of this Prepay Transaction, as indicated in the
+diagram of the transaction contained in the Toronto Dominion credit approval memorandum for the
+transaction. See Nov. 24, 2000 Corporate Credit Review, at TDB-EX 001516-TDB-EX 001517.
+
+‘55 Swap confirmation between ENA and Morgan Stanley, Jan. 22, 2001, deal no. QH0092.1 (the
+“BNA/Morgan Stanley $135 million Swap”) [AB0648 03718-AB0648 03722].
+
+156 Td.
+157 Dec. 19, 2000 Swap Confirmation; Jan. 29, 2001 Swap Confirmation.
+
+188 Swap Transaction Confirmation between Morgan Stanley Capital Group, Inc. and Toronto Dominion,
+Dec. 22, 2000 [TDB-EX 001836-TDB-EX 001838]; Swap Transaction Confirmation between Morgan
+Stanley Capital Group, Inc. and Toronto Dominion, Dec. 22, 2000 [TDB-EX 001839-TDB-EX 001841].
+
+- 43 -
+
+=== PAGE 46 ===
+Stanley entered into a swap with Enron, agreeing to pay Enron the same floating price of
+oil on the same notional amounts on the settlement dates.'*? Enron agreed to pay Morgan
+Stanley a fixed interim payment in the amount of $1.053 million and a final payment of
+$30.99 million on December 7, 2001.'°
+
+Enron paid Toronto Dominion upfront fees totaling just over $1 million in
+connection with this transaction. The transaction had a RAROC that Toronto Dominion
+described as “infinite” because Toronto Dominion had purchased credit protection for the
+entire amount funded under the Prepay.!*! This Prepay Transaction was the only Toronto
+Dominion Prepay that remained outstanding as of the Petition Date. However, because
+Toronto Dominion had purchased credit default protection on Enron for the full amount
+‘of this Prepay, Toronto Dominion effectively shifted the risk of Enron’s payment failure
+to a third party.
+
+Enron’s Accounting and Other Disclosure
+
+Enron used the Toronto Dominion Prepays for several important financial
+statement purposes: (i) to obtain cash when it needed financing, but in a manner that
+would not increase its reported debt; (ii) to increase its cash flows from operating
+activities, in order to match more closely its non-cash mark-to-market income; and (iii)
+
+thereby to maintain favorable credit ratings from the Rating Agencies.'® Enron did not
+
+15° Swap Confirmation between ENA and Morgan Stanley, Jan. 29, 2001, deal no. QJ8903.1 (the
+“ENA/Morgan Stanley $30 million Swap”) [AB0648 03714-AB0648 03717].
+
+19 ENA/Morgan Stanley $30 million Swap.
+11 Nov. 24, 2000 Corporate Credit Review, at TDB-EX 001509.
+
+18 As set forth in Section V of this Appendix, Toronto Dominion received a payment from Enron in the
+amount of $2.5 million in connection with this Prepay that is subject to being voided as a preference.
+
+163 See Second Interim Report, Appendix E (Prepay Transactions).
+
+-44-
+
+=== PAGE 47 ===
+use the Toronto Dominion Prepays to sell commodities or transfer or manage any
+
+commodity price risk.’
+
+Toronto Dominion understood how Enron accounted for the Toronto Dominion
+
+Prepays and the effect that the Toronto Dominion Prepays had on Enron’s reported
+
+financial condition:
+
+“These prepaid swaps are classified as and shown on their balance sheet as
+price risk management liabilities, not as debt .. . . In summary, this structure
+keeps these liabilities on the balance sheet but does not show them as debt,
+thereby causing a decrease in [Enron’s] leverage.”?®
+
+“These prepaid swaps do not affect Enron’s debt covenants since they are not
+classified as debt.”"°°
+
+“This transaction is essentially being undertaken instead of Enron conducting
+a securitization of the future cash flows from a portfolio of trading contracts in
+the European region. These contracts have a positive M2M of at least
+$200mm and this transaction allows Enron to . . . release the cash flow from
+the contracts without having to create a complex securitization and reveal
+details of their individual contracts. Enron have discussed the treatment of
+this transaction with their auditors (Andersen) who are comfortable with the
+structure.”!°”
+
+“The proceeds of the loan will be used for general corporate purposes and,
+more specifically, to reduce on balance sheet debt and monetize existing
+assets.”!
+
+“(T]he prepaid does have significant advantages, specifically, favourable
+balance sheet treatment.”!®
+
+164 See id.
+
+16 Dec. 10, 1999 Corporate Credit Review, at 20 (emphasis in original).
+166 Sept. 27, 2000 Rapid Review, at TDB-EX(1) 019962.
+
+167 Nov. 24, 2000 Corporate Credit Review, at TDB-EX 001515.
+
+168 Tune 22, 1999 Speedy Review, at TDB-EX 000037.
+
+Email from Steve Fuller, Toronto Dominion, to Teresa Kirby, Enron, Oct. 26, 2000, at TDB-EX
+001255 [TDB-EX 001255-TDB-EX 001256].
+
+- 45 -
+
+=== PAGE 48 ===
+The Toronto Dominion employees who provided testimony to the Examiner all
+testified that they understood Enron did not account for the Toronto Dominion Prepays as
+debt.’ Several of these witnesses also testified that they understood that Enron was
+using the Toronto Dominion Prepays to monetize assets and thereby generate cash.!”!
+However, all of the Toronto Dominion witnesses denied having any understanding of
+how Enron accounted for the cash proceeds of the Toronto Dominion Prepays on its
+statement of cash flows.
+
+Nevertheless, evidence exists from which a fact-finder could infer that Toronto
+Dominion possessed such knowledge. For example, Toronto Dominion understood that
+Enron accounted for the Toronto Dominion Prepays as price risk management activities,
+with the debt from the Prepays being recorded as price risk management liabilities.'”
+Toronto Dominion representatives also reviewed Enron’s financial statements in detail to
+analyze Enron’s financial condition and to see how Enron accounted for its transactions
+
+3
+
+with Toronto Dominion, in particular the Toronto Dominion Prepays.’”? Toronto
+
+Dominion knew that generating cash flow was an important reason for Enron to enter into
+the Toronto Dominion Prepays.!4 On Enron’s statement of cash flows, net assets from
+price risk management activities appears as a line item under cash flow from operating
+
+5
+
+activities, and nowhere else.!” Accordingly, a fact-finder could reasonably infer that
+
+19 See, e.g., Bott Sworn Statement, at 27; Lavin Sworn Statement, at 53; Reikman Sworn Statement, at 64;
+Lucey Sworn Statement, at 72.
+
+11 See, e. g., Lavin Sworn Statement, at 66; Reikman Sworn Statement, at 62.
+™ See Dec. 10, 1999 Corporate Credit Review, at 20.
+173 Lucey Sworn Statement, at 44-45; Bott Sworn Statement, at 77-78.
+
+™ See, e.g., Lavin Sworn Statement, at 66; Reikman Sworn Statement, at 62; Nov. 24, 2000 Corporate
+Credit Review, at TDB-EX 001515.
+
+5 See Enron 10-K for 1999, Enron Corp. and Subsidiaries Consolidated Statement of Cash Flows.
+
+- 46 -
+
+=== PAGE 49 ===
+Toronto Dominion, in its review of Enron’s financial statements, understood that Enron
+
+accounted for the cash proceeds from the Toronto Dominion Prepays as cash flow from
+
+operating activities.
+
+Toronto Dominion also recognized the importance of the Toronto Dominion
+
+Prepays to Enron. Toronto Dominion knew that Enron used the Toronto Dominion
+
+Prepays to manage and manipulate its financial statement presentation:
+
+“Enron has approached us again to help them manage their balance sheet
+for the rating agencies and the analysts. The Company has come to TD as
+we have demonstrated the ability to deliver, on a short time frame, the
+same prepaid structured transaction.”!”°
+
+Another credit approval memorandum notes a concern on the part of
+Toronto Dominion Risk Management regarding Enron’s use of the prepay
+transactions: “To address head office’s concern regarding balance sheet
+manipulation, we have discussed the use of this structure with Enron.”!””
+The document went on to note: “Risk management’s concern regarding
+the Company’s management of its balance sheet has been discussed with
+the Company, and it has advised that its auditors have reviewed this
+structure.””®
+
+“TW]e’ve been warned about the balance-sheet games at least twice in the
+last few months... .”'”
+
+One Toronto Dominion executive was particularly blunt regarding Enron’s use of
+
+the Toronto Dominion Prepays, noting “[y]es, they did an off balance sheet deal with us
+
+to help their year end reporting. Sort of just the kind of thing we do at quarter and year
+
+1% June 22, 1999 Speedy Review, at TDB-EX 000040.
+"7 Dec. 10, 1999 Corporate Credit Review, at 20.
+8 Td, at 24 (Team Leader and USA Relationship Mgr Comments — Signed by Robyn Zeller).
+
+' Email from Cori Novellino, Toronto Dominion, to Robyn Zeller, Toronto Dominion, Nov. 7, 2000
+[TDB-EX 001266].
+
+-47-
+
+=== PAGE 50 ===
+ends.”!®° As shown in the timeline above, all of the Toronto Dominion Prepays closed
+near the end of a quarterly or annual financial reporting period.
+Toronto Dominion also knew that Rating Agency pressure was an important part
+
+| The credit approval
+
+of Enron’s motivation in doing the Toronto Dominion Prepays.'®
+request for the December 1998 Prepay noted that: “Based on conversations with Enron,
+the sole purpose of this facility is to satisfy promises made to the rating agencies early
+this year about reducing leverage.”'®” In his comments to the credit approval request, the
+Toronto Dominion relationship manager for Enron noted that “[t]his is a short term
+transaction that provides Enron $200MM for 60 days. It is structured as a prepaid gas
+derivative which will facilitate them meeting their commitments to the rating agencies
+relative to leverage.”"®? Similar statements appeared in the credit approval requests for
+
+4 Numerous Toronto Dominion witnesses
+
+subsequent Toronto Dominion Prepays.'®
+testified that they understood that Rating Agency and analyst pressures were an important
+
+part of Enron’s motivation in entering into the Toronto Dominion Prepays.'*
+
+180 Email from Michael Mueller, Toronto Dominion, to Bob Gibson, et al., Toronto Dominion, Feb. 6,
+2001, at TDB-EX 002430 [TDB-EX 002430-TDB-EX 002431].
+
+181 Soe, e.g., Bott Sworn Statement, at 27; Lavin Sworn Statement, at 47; Dec. 17, 1998 Speedy Review, at
+TDB-EX(1) 015115.
+
+182 Dec. 17, 1998 Speedy Review, at TDB-EX(1) 015115 (emphasis in original).
+18 Td. at TDB-EX(1) 015116.
+
+1 See, e.g., June 22, 1999 Speedy Review, at TDB-EX 000037 (“The Company has requested the facility
+as they need to satisfy certain commitments made to the rating agencies and the analysts earlier this year
+with regard to leverage for the quarter ending June 30, 1999. . . .”); Sept. 25, 1999 Corporate Credit
+Review, at 23 (“The Company has requested the facility as they need to satisfy certain commitments made
+to the rating agencies and the analysts earlier this year with regard to leverage for the quarter ending
+September 30, 1999... .”).
+
+185 See, e.g., Lavin Sworn Statement, at 47; Bott Sworn Statement, at 27.
+
+- 48 -
+
+=== PAGE 51 ===
+Toronto Dominion recognized that the Toronto Dominion Prepays had no net
+
+186 and were in substance loans to Enron.'®’ Toronto
+
+commodity price risk to any party
+Dominion, in some of its own analyses of Enron’s financial condition, added back the
+amounts of the Toronto Dominion Prepays in calculating Enron’s true debt and related
+financial ratios, including leverage. '**
+
+As noted in the Prior Reports, Enron’s disclosure of its Prepay Transactions, to
+the extent any was provided, was merely a general description of Enron’s accounting for
+price risk management and its various price risk management activities. In footnotes 1
+and 3 to Enron’s consolidated financial statements, Enron stated that its price risk
+management activities included “forwards, swaps and other financial instruments with
+third parties [that] are reflected at market value, net of future physical delivery related
+costs,” but it never described any of the Prepay Transactions specifically or disclosed the
+
+amount or nature of its obligations thereunder.’ These footnotes did not provide an
+
+investor with adequate information regarding the significant amount of cash flow from
+
+186 Soe, e.g., Jones Sworn Statement, Vol. I, at 35; Lavin Sworn Statement, at 34; Lucey Sworn Statement,
+at 86; Bott Sworn Statement, at 38; Reikman Sworn Statement, at 64, 120; see also Dec. 17, 1998 Speedy
+Review, at TDB-EX(1) 015116 (stating “[t]his facility is structured to eliminate all commodity price and
+interest rate risk.”).
+
+187 See, e.g., Lavin Sworn Statement, at 51; Lucey Sworn Statement, at 96; Bott Sworn Statement, at 29;
+Reikman Swom Statement, at 134-35; Malcolm Sworn Statement, at 63; Jones Sworn Statement, Vol. J, at
+36.
+
+188 Sept. 27, 2000 Rapid Review, at TDB-EX(1) 019962; Lucey Sworn Statement, at 72-73; Bott Sworn
+Statement, at 78-79; Huebner Sworn Statement, at 106-07.
+
+189 Enron 10-K for 1998, Notes to the Consolidated Financial Statements, Notes 1 and 3; see also Second
+Interim Report, Appendix D (Enron’s Disclosure of Its SPEs), at 15-17.
+
+- 49 -
+
+=== PAGE 52 ===
+operating activities that Enron received from any of its Prepay Transactions or the
+amount Enron had to repay on these transactions.'”°
+
+Enron also failed to disclose the impact of its Prepay Transactions in its MD&A
+disclosure. In the section of its MD&A captioned “Results of Operations” for the
+wholesale services segment, Enron provided generic descriptions of its price risk
+management activities that paralleled the descriptions found in the notes to the
+
+191
+
+consolidated financial statements. Again, however, Enron provided no separate
+
+199 Tn Note 1 to Enron’s consolidated financial statements, captioned “Summary of Significant Accounting
+Policies,” Enron stated:
+
+Financial instruments utilized in connection with trading activities are accounted for
+using the mark-to-market method. Under the mark-to-market method of accounting,
+forwards, swaps, options and other financial instruments with third parties are reflected at
+market value, net of future physical delivery related costs, and are shown as “Assets and
+Liabilities From Price Risk Management Activities” in the Consolidated Balance
+Sheet... .
+
+The cash flow impact of financial instruments is reflected as cash flows from operating
+activities in the Consolidated Statement of Cash Flows.
+
+Enron 10-K for 1998, Notes to the Consolidated Financial Statements, Note 1. In Note 3, captioned “Price
+Risk Management and Financial Instruments,” Enron disclosed that, through its wholesale services
+segment, it offered price risk management services through “a variety of financial and other instruments
+including forward contracts involving physical delivery of an energy commodity, swap agreements, which
+require payments to (or receipt of payments from) counterparties based on the differential between a fixed
+and variable price for the commodity, options and other contractual arrangements.” Enron 10-K for 1998,
+
+Notes to the Consolidated Financial Statements, Note 3; see also Second Interim Report, Appendix D
+(Enron’s Disclosure of Its SPEs), at 17-19.
+
+191 Tn the MD&A section of its 2000 Form 10-K, Enron described the following factors that contributed to
+cash flows from operating activities in 2000, 1999 and 1998:
+
+Net cash provided by operating activities increased $3,551 million in 2000, primarily
+reflecting decreases in working capital, positive operating results and a receipt of cash
+associated with the assumption of a contractual obligation. Net cash provided by
+operating activities decreased $412 million in 1999, primarily reflecting increases in
+working capital and net assets from price risk management activities, partially offset by
+increased earnings and higher proceeds from sales of merchant assets and investments.
+The 1998 amount reflects positive operating cash flow from Enron’s major business
+segments, proceeds from sales of interests in energy-related merchant assets and cash from
+timing and other changes related to Enron’s commodity portfolio, partially offset by new
+investments in merchant assets and investments.
+
+Enron 10-K for 2000, Item 7 (MD&A) - Financial Condition - Cash flows; see also Second Interim Report,
+Appendix D (Enron’s Disclosure of Its SPEs), at 17-19.
+
+-50-
+
+=== PAGE 53 ===
+disclosure on the Prepay Transactions themselves, failing to make clear to investors the
+significant amount of reported cash flow from operating activities that was in fact
+generated by these financings or Enron’s related repayment obligations.'””
+
+Evidence indicates Toronto Dominion knew that Enron did not provide
+meaningful disclosure regarding the Toronto Dominion Prepay Transactions. Two of
+Toronto Dominion’s former employees, both of whom had served as Toronto Dominion’s
+relationship managers for Enron, testified that they had examined Enron’s financial
+statements to see how Enron had disclosed the Toronto Dominion Prepays.'®? Their
+reviews indicated that Enron had not made any disclosures regarding the Toronto
+Dominion Prepays.'™* Rather, the price risk management liabilities were simply
+
+indicated in the financial statements as “one number” without any separate disclosure. '”°
+
+12 Tn contrast to Enron’s lack of disclosure, a number of companies that engaged in prepay transactions,
+some of which accounted for the transactions in a manner similar to Enron, provided some type of footnote
+and/or MD&A disclosure. As discussed in Appendix C (Role of Enron’s Officers) to the Third Interim
+Report, Andersen had recommended that Enron model its disclosure of the Prepay Transactions on those of
+Aquila Energy Corporation (“Aquila”). Aquila discussed its prepay transactions in the MD&A of a
+registration statement filed with the SEC in 2000, as well as in the notes to the financial statements
+contained in that filing. Aquila wrote in its MD&A: “As part of our Wholesale Services segment, we
+periodically enter into long-term prepaid commodity contracts with our clients. Under these agreements,
+our clients pay us upfront for a specified commodity in exchange for a discounted, fixed-price for that
+commodity. To date, we have executed approximately $1 billion of these contracts, and we have used the
+proceeds to repay loans from UtiliCorp.” Aquila Energy Corporation Form S-1 filed with the SEC on Dec.
+13, 2000, at 42. Aquila also disclosed that it experienced “[a] $536 million increase in long-term price risk
+management liabilities due to additional commodity prepay transactions in 2000,” id. at 42, and that its
+operating cash flow for the nine months ended September 30, 2000, was $270 million higher than in the
+comparable period of 1999 due in part to the impact of a gas prepay transaction. /d. at 43.
+
+13 T ucey Sworn Statement, at 44; Bott Sworn Statement, at 77-78.
+
+194 Lucey Sworn Statement, at 48-49; Bott Sworn Statement, at 78, 80; see also Huebner Sworn Statement,
+at 98.
+
+195 Lucey Sworn Statement, at 49; Bott Sworn Statement, at 78; see also Huebner Sworn Statement, at 98.
+
+-51-
+
+=== PAGE 54 ===
+One of these former employees further testified that Toronto Dominion knew
+Enron was entering into Prepay Transactions with other financial institutions and also
+knew that Toronto Dominion was not “seeing all of the Prepays that [Enron] had.”'°
+Toronto Dominion sought to determine from Enron’s financial statements the amount of
+Enron’s Prepay Transactions with other financial institutions in order to understand better
+Enron’s true debt,!”’ but was unable to do so due to the lack of disclosures Enron made
+
+18 From its knowledge of the Toronto Dominion
+
+regarding the Prepay Transactions.
+Prepays, however, Toronto Dominion knew that Enron’s leverage was significantly
+greater than it publicly disclosed and this was an important factor in Toronto Dominion’s
+decision in late 2000 to reduce substantially its exposure to Enron.'”
+
+From its involvement in the Toronto Dominion Prepays, Toronto Dominion knew
+that Enron was not recording the Prepays as debt, that these transactions had a material
+effect on Enron’s financial statements and that Enron failed to disclose information
+publicly that would have allowed investors to understand the true nature and impact of
+the Toronto Dominion Prepays. Evidence also exists from which a fact-finder could
+conclude that Toronto Dominion knew Enron was inflating its reported cash flows from
+
+operating activities by including the proceeds from transactions that were effectively
+
+debt, which also had a material impact on Enron’s financial statements.
+
+196 Lucey Sworn Statement, at 47.
+
+197 Id. at 48-49; Bott Sworn Statement, at 78-79; Huebner Sworn Statement, at 106-07.
+198 Lucey Sworn Statement, at 47-49.
+
+199 Huebner Sworn Statement, at 108-10.
+
+-~52-
+
+=== PAGE 55 ===
+IV. POTENTIAL LIABILITY OF TORONTO DOMINION
+
+A. Arguments Supporting the Imposition of Aiding and Abetting
+Liability and Equitable Subordination
+
+Aiding and Abetting Liability
+
+Elements of Aiding and Abetting Liability. As described in Appendix C (Role of
+Enron’s Officers) to the Third Interim Report, the Debtors’ officers breached their
+fiduciary duties under applicable law by causing the Debtors to enter into certain SPE and
+related transactions that were designed to manipulate the Debtors’ financial statements
+and that resulted in the dissemination of financial information known to be materially
+misleading. Toronto Dominion participated in a number of these transactions, including
+the Toronto Dominion Prepays.
+
+As set forth more fully in Appendix B (Legal Standards) to the Third Interim
+Report, assuming the Debtors have standing, an affirmative claim against Toronto
+Dominion for aiding and abetting such breach of fiduciary duties will exist if Toronto
+Dominion had actual knowledge of the wrongful conduct giving rise to such breach, if
+Toronto Dominion gave substantial assistance to the primary wrongdoer, and if the injury
+to the Debtors was the direct or reasonably foreseeable result of Toronto Dominion’s
+conduct. The Examiner has concluded that there is sufficient evidence for a fact-finder to
+determine that Toronto Dominion aided and abetted the Debtors’ officers in breaching
+their fiduciary duties.
+
+Analysis of Evidence. There is evidence indicating that: (i) Toronto Dominion
+knew Enron’s Prepay Transactions would result in Enron’s financial statements being
+materially misleading; and (ii) Toronto Dominion provided substantial assistance to
+
+Enron in completing those transactions. Toronto Dominion knew Enron’s accounting for
+
+-53-
+
+=== PAGE 56 ===
+the Toronto Dominion Prepays, with no other meaningful related disclosure, would result
+in misleading financial presentation. Toronto Dominion understood that the Toronto
+Dominion Prepays did not effect any transfer of a commodity, and that there was no net
+commodity price risk, since all price risk was eliminated by virtue of the circularity of the
+transaction structure.” Therefore, a fact-finder could conclude that Toronto Dominion
+understood that the Toronto Dominion Prepays were effectively loans to Enron, but that
+Enron recorded the swap agreements as price risk management liabilities and reported the
+proceeds as cash flows from operating activities. Toronto Dominion also knew that
+Enron did not make any public disclosure that would allow a reader of its financial
+statements to understand either the nature or the magnitude of its Prepay Transactions.””!
+The Toronto Dominion Prepays allowed Enron to obtain a gross amount of $2 billion in
+financing, none of which was reported on Enron’s balance sheet as debt, and $1.5 billion
+of which was reported by Enron as cash flow from operating activities.
+
+All of the Toronto Dominion Prepays closed at a quarter-end or at year-end.
+Many of the Toronto Dominion Prepays were short-term bridge financings that spanned
+the end of a reporting period. For example, the December 1998 Prepay Transaction had a
+
+tenor of just sixty days.””?
+
+Similarly, the Nixon Prepay transaction, executed in
+December of 1999, had a ninety-day term.” Toronto Dominion was aware that Enron
+
+achieved significant accounting benefits from these transactions, and it was aware of
+
+Enron’s pattern of closing transactions immediately prior to the end of a reporting period.
++
+
+200 See, e.g., Jones Sworn Statement, Vol. I, at 35; Reikman Sworn Statement, at 64-65, 120; Lavin Sworn
+Statement, at 34; Lucey Sworn Statement, at 86.
+
+2! T ucey Sworn Statement, at 47-49; Bott Sworn Statement, at 80.
+20 Dec, 17, 1998 Speedy Review, at TDB-EX(1) 015111 (Purpose of Submission).
+203 Dec. 10, 1999 Corporate Credit Review, at 1 (Purpose).
+
+- 54 -
+
+=== PAGE 57 ===
+This caused various individuals at Toronto Dominion to express concern that Enron was
+using the Prepay Transactions to manipulate or manage its financial statements.?™
+
+By September of 2000, the head of Toronto Dominion’s Risk Management Group
+had become so concerned with Enron’s financial condition and strategy that he refused to
+allow Toronto Dominion to execute any new transactions with Enron that would result in
+Toronto Dominion taking on additional exposure to Enron. Nonetheless, Toronto
+Dominion concluded two additional Prepay Transactions, the Alberta Prepay and the
+London Prepay, after this mandate was issued. In each transaction, Toronto Dominion
+purchased credit default protection for the entire amount of its exposure to Enron under
+the Prepay Transaction,”” thereby effectively laying the Enron credit risk off on the
+market. Thus, although Toronto Dominion was unwilling to take on any new Enron
+exposure due to its concerns over Enron’s financial strategy and condition, Toronto
+Dominion assisted Enron with these Prepay Transactions in order to receive the
+substantial fees that they generated.
+
+There is evidence that these transactions also violated Toronto Dominion’s own
+internal standards of transparency in its transactions. For example, a Toronto Dominion
+
+senior executive noted that the Toronto Dominion Prepays were “inconsistent with
+
+[Toronto Dominion’s] objective of ensuring transparency in [Toronto Dominion’s]
+
+204 Td, at 20 (“To address head office’s concern regarding balance sheet manipulation, we have discussed
+the use of this structure with Enron.”); June 22, 1999 Speedy Review, at TDB-EX 000040 (“Enron has
+approached us again to help them manage their balance sheet for the rating agencies and the analysts.”);
+Email from Cori Novellino, Toronto Dominion, to Robyn Zeller, Toronto Dominion, Nov. 7, 2000 [TDB-
+EX 001266] (“[w]e’ve been warned about the balance-sheet games at least twice in the last few months . . .
+).
+
+25 Lucey Sworn Statement, at 76, 81; Sept. 27, 2000 Rapid Review, at TDB-EX(1) 019957 (Purpose);
+Nov. 24, 2000 Corporate Credit Review, at TDB-EX 001509 (Purpose).
+
+-55-
+
+=== PAGE 58 ===
+relationships with customers . . . 06 Another risk management executive stated that she
+understood this statement to be directed at the Prepay Transactions, because the true
+nature of the transactions could not necessarily be ascertained from simply looking at the
+transaction documents.2°’ The Toronto Dominion Prepays, which totaled $2 billion, had
+a material effect on Enron’s reported debt and cash flows from operating activities. Yet,
+Enron’s disclosure was so minimal that not even a sophisticated financial institution like
+Toronto Dominion could determine the total amount of Enron’s Prepay Transactions.
+Under the applicable law of aiding and abetting, courts often include, as part of
+the element of substantial assistance, that the harm caused must be a reasonably
+foreseeable result of the actions of the aider and abettor. With respect to the Toronto
+Dominion Prepays, there is evidence of this element. These transactions were structured
+to enable Enron to produce materially misleading financial statements, which were
+disseminated to the public. Enron suffered damages by virtue of the preparation and
+dissemination of these materially misleading financial statements, including incurring the
+costs of governmental investigations, the administrative costs of Enron’s bankruptcy
+proceeding, and losses caused by the “deepening insolvency” of Enron that occurred
+while its true financial condition was disguised. A fact-finder could conclude that
+damages such as these were a reasonably foreseeable result of Toronto Dominion’s
+
+conduct in connection with the Toronto Dominion Prepays.
+
+206 Nov. 24, 2000 Corporate Credit Review, at TDB-EX 001526.
+207 Reikman Sworn Statement, at 128-29.
+
+-56-
+
+=== PAGE 59 ===
+Equitable Subordination
+
+As set forth more fully in Appendix B (Legal Standards) to the Third Interim
+Report, Toronto Dominion’s claims against the Debtors may be equitably subordinated if
+Toronto Dominion engaged in inequitable conduct and such conduct resulted in an injury
+to creditors or an unfair advantage to Toronto Dominion. The evidence discussed above
+supports a finding that Toronto Dominion engaged in inequitable conduct that allowed
+Enron to produce materially misleading financial statements. Enron’s other creditors
+were injured because such financial results were publicly reported and disseminated by
+Enron. Therefore, the Examiner concludes that sufficient evidence exists for a court to
+
+equitably subordinate the claims of Toronto Dominion to those of other creditors.
+
+B. Arguments Against the Imposition of Aiding and Abetting Liability
+and Equitable Subordination
+
+The Examiner has considered several arguments that Toronto Dominion might
+
+assert as defenses to aiding and abetting liability and equitable subordination, including:
+e Toronto Dominion may argue that it relied on Enron’s obtaining its own
+independent accounting advice with respect to its financial statements and
+
+other disclosures;
+
+e Toronto Dominion may argue that it did not have knowledge of Enron’s
+accounting for significant aspects of the transactions;
+
+e Toronto Dominion may argue that the Toronto Dominion Prepays were
+not material to Enron’s reported financial performance; and
+
+e Toronto Dominion may argue that its conduct in entering into the Toronto
+Dominion Prepays did not constitute substantial assistance required to
+support the imposition of aiding and abetting liability.
+
+Reliance on Independent Accounting Advice. The Toronto Dominion Prepays
+
+were complex, and all required sophisticated accounting analyses and interpretations.
+
+Toronto Dominion may argue that its reliance on Enron being financially sophisticated
+
+-57-
+
+=== PAGE 60 ===
+and receiving accounting advice from one of the most well-respected accounting firms in
+the world precludes it from having any scienter or intent to aid and abet Enron’s financial
+misrepresentations.
+
+Internal Toronto Dominion documents indicate that, at least in certain
+circumstances, Toronto Dominion may have relied on Enron’s obtaining accounting
+advice from Andersen. For example, the credit approval memorandum for the London
+Prepay notes that “Enron have [sic] discussed the treatment of this transaction with their
+
+208 An earlier credit
+
+auditors (Andersen) who are comfortable with the structure.
+approval memorandum contains a similar reference regarding accounting for the Prepay
+Transactions, “[w]e have also confirmed that Enron’s internal and external auditors have
+continually reviewed and signed off on this structure.”””
+
+Similarly, a number of the current and former Toronto Dominion employees who
+provided testimony to the Examiner stated that they relied on Enron’s obtaining its
+accounting advice from Andersen.”!° They knew that Enron had large and savvy
+financial and accounting staffs, and that Enron was represented by a “big five”
+accounting firm that was qualified to analyze and assess accounting issues regarding any
+
+1
+
+of Enron’s transactions.”!! None of the individuals who testified on behalf of Toronto
+
+Dominion recalled having spoken directly with Andersen or any of Enron’s internal
+
+accountants, however.2!”
+
+208 Nov. 24, 2000 Corporate Credit Review, at TDB-EX 001515.
+
+20° Dec. 10, 1999 Corporate Credit Review, at 20.
+
+210 See, e.g., Spencer Sworn Statement, at 53; Reikman Sworn Statement at 63, 100.
+21 Reikman Sworn Statement, at 63, 100; Spencer Sworn Statement, at 53.
+
+212 See, e.g., Lavin Sworn Statement, at 69.
+
+- 58 -
+
+=== PAGE 61 ===
+Whether Toronto Dominion’s reliance on Enron’s obtaining independent
+accounting advice was reasonable is a question of fact. There is evidence that Toronto
+Dominion believed Andersen approved Enron’s transactions, and there is also evidence
+from which a fact-finder could conclude that such reliance was not reasonable. Even if
+Toronto Dominion’s reliance on Andersen’s approval of the GAAP accounting was
+reasonable, evidence exists indicating that Toronto Dominion was aware that Enron’s
+disclosure of the Toronto Dominion Prepays was not consistent with the economic
+substance of the transactions. A fact-finder could infer that Toronto Dominion knew that
+Enron’s disclosure of the Toronto Dominion Prepays resulted in its cash flows from
+operating activities being materially inflated and its debt being materially understated.
+
+With respect to potential aiding and abetting liability, whether a fact-finder would
+infer that Toronto Dominion knew that the lack of disclosure related to those transactions
+would result in dissemination of materially misleading financial information is the
+fundamental issue, not whether the technical rules of GAAP were satisfied or whether
+Toronto Dominion relied on Enron’s auditors. Accordingly, even if Toronto Dominion
+could demonstrate that it believed that Enron’s accounting for the Prepay Transactions
+was correct, the Examiner is unable to conclude that Toronto Dominion must be excused
+as a matter of law from potential aiding and abetting liability. Similarly, the Examiner is
+unable to conclude that a fact question on these issues would preclude a finding that
+Toronto Dominion engaged in inequitable conduct in connection with the Toronto
+Dominion Prepays.
+
+Lack of Knowledge Regarding Enron’s Accounting. Toronto Dominion may also
+
+argue that it lacked knowledge of how Enron accounted on its statement of cash flows for
+
+- 59 -
+
+=== PAGE 62 ===
+the proceeds it received from the Toronto Dominion Prepays, and that such a lack of
+knowledge precludes or mitigates against a finding of aiding and abetting liability or
+equitable subordination.
+
+All of the Toronto Dominion witnesses who provided testimony to the Examiner
+denied having any knowledge of how Enron accounted for the cash proceeds that it
+received from the Toronto Dominion Prepays. Nor has the Examiner uncovered any
+documentary evidence that conclusively establishes this knowledge on the part of
+Toronto Dominion. Thus, Toronto Dominion may argue that it was unaware of how
+Enron’s officers used the Prepay Transactions to manipulate Enron’s financial
+statements, at least with respect to its statement of cash flows.
+
+Whether Toronto Dominion had sufficient knowledge of acts giving rise to
+breaches of fiduciary duty by officers of Enron is a question of fact. Evidence exists
+
+indicating that Toronto Dominion knew that the Toronto Dominion Prepays were in
+
+213 214
+
+substance loans”’” but were not accounted for as debt by Enron on its balance sheet.
+Evidence also exists that Toronto Dominion had concerns that Enron was using the
+Toronto Dominion Prepays to manipulate or manage its financial statements.”!° Such
+evidence, alone, is sufficient to create an issue of fact.
+
+Finally, there is evidence from which a fact-finder could reasonably infer that
+
+Toronto Dominion had knowledge that Enron accounted for the cash proceeds it received
+
+213 T avin Sworn Statement, at 51; Lucey Sworn Statement, at 96; Bott Sworn Statement, at 29; Reikman
+Sworn Statement, at 134-35; Malcolm Sworn Statement, at 63; Jones Sworn Statement, Vol. I, at 36.
+
+24 Bott Sworn Statement, at 27; Dec. 10, 1999 Corporate Credit Review, at 20; Sept. 27, 2000 Rapid
+Review, at TDB-EX(1) 019962.
+
+215 Dec. 10, 1999 Corporate Credit Review, at 20 (“To address head office’s concern regarding balance
+sheet manipulation, we have discussed the use of this structure with Enron.”); June 22, 1999 Speedy
+Review, at TDB-EX 000040 (“Enron has approached us again to help them manage their balance sheet for
+the rating agencies and the analysts.”).
+
+- 60 -
+
+=== PAGE 63 ===
+from the Toronto Dominion Prepays as cash flow from operating activities. Toronto
+Dominion understood that Enron accounted for the Prepay Transactions as price risk
+management activities, and recorded obligations under the Prepay Transactions as price
+
+16 Toronto Dominion also reviewed Enron’s financial
+
+risk management liabilities.’
+statements in detail to analyze Enron’s financial condition and to see how Enron
+accounted for its transactions with Toronto Dominion, in particular the Prepay
+
+217
+
+Transactions. On Enron’s statement of cash flows, the line item for price risk
+
+management activities appears under cash flow from operating activities, and nowhere
+
+else.7!8
+
+Accordingly, a fact-finder could infer that Toronto Dominion, in its review of
+Enron’s financial statements, understood that Enron accounted for the cash proceeds from
+the Toronto Dominion Prepays as cash flow from operating activities.
+
+Lack of Materiality. Toronto Dominion also may argue that the Toronto
+Dominion Prepays were not material to Enron’s stated financial performance.
+Accordingly, there would be no claims against Toronto Dominion based upon its
+participation in these transactions because no damages resulted from Enron’s failure
+properly to disclose or account for these transactions. The impact of the Toronto
+Dominion Prepays on Enron’s reported financial statements was less significant than the
+impact of the Prepay Transactions entered into between Enron and certain other financial
+
+institutions. However, as noted above, the Toronto Dominion Prepays allowed Enron to
+
+misstate significantly both its cash flow from operating activities and its debt. Thus,
+
+216 See Dec. 10, 1999 Corporate Credit Review, at 20; Lucey Sworn Statement, at 44; Bott Swom
+Statement, at 80.
+
+217 Lucey Sworn Statement, at 44; Bott Sworn Statement, at 77-78.
+218 See Enron 10-K for 1999, Enron Corp. and Subsidiaries Consolidated Statement of Cash Flows.
+
+-61-
+
+=== PAGE 64 ===
+evidence exists from which a fact-finder could conclude that the Toronto Dominion
+Prepays had a material impact on Enron’s reported financial performance.
+
+No Substantial Assistance. Toronto Dominion may argue that its conduct in
+entering into the Toronto Dominion Prepays did not constitute the substantial assistance
+necessary to support the imposition of aiding and abetting liability. Unlike certain other
+financial institutions, Toronto Dominion did not structure the Prepay Transactions, nor
+did Toronto Dominion create an SPE for use in any of the Prepay Transactions. All of
+the Toronto Dominion Prepays involved a third party financial institution that Enron
+brought to the transaction. Nor does it appear that Toronto Dominion, unlike other
+financial institutions, made or caused to be made any representations to Andersen in
+furtherance of Enron’s desired accounting treatment for the Prepay Transactions.
+Accordingly, Toronto Dominion may argue that its role in the Toronto Dominion Prepays
+was limited to that of a mere participant in a transaction that Enron proposed, and that
+such a role is insufficient to constitute the substantial assistance that is required to support
+a claim for aiding and abetting.
+
+Whether Toronto Dominion’s role in the Prepay Transactions constituted
+substantial assistance to breaches of fiduciary duty by officers of Enron is a question of
+fact. Toronto Dominion participated in Prepay Transactions totaling $2 billion from
+1998 through 2000. Toronto Dominion funded approximately $1.1 billion of this amount
+in five Prepay Transactions and served as a conduit entity in three other Prepay
+Transactions that other financial institutions funded. Although the volume of the Toronto
+Dominion Prepays is certainly less than that of the Prepay Transactions between
+
+Citigroup and Enron ($4.7 billion) or JPMorgan Chase and Enron ($3.7 billion), Toronto
+
+-62-
+
+=== PAGE 65 ===
+Dominion’s participation in Prepay T: ransactions totaling approximately $2.0 billion was
+nonetheless substantial. These transactions allowed Enron to misstate materially both its
+debt and cash flow from operating activities on its financial statements during this same
+period. Accordingly, the Examiner cannot conclude that Toronto Dominion’s role in the
+Toronto Dominion Prepays does not constitute substantial assistance.
+
+(on Conclusions
+
+Toronto Dominion helped Enron implement six Prepay Transactions. With
+respect to these transactions, the evidence reviewed by the Examiner, and the reasonable
+inferences that may be drawn from that evidence, are sufficient for a fact-finder to
+conclude that Toronto Dominion aided and abetted certain of the Debtors’ officers in
+breaching their fiduciary duties. There is also sufficient evidence of inequitable conduct
+by Toronto Dominion in connection with such Prepay Transactions for a court to
+conclude that Toronto Dominion’s claims should be equitably subordinated to the claims
+of other creditors.
+
+As a result, Toronto Dominion’s claims in the Bankruptcy Case totaling
+approximately $57.8 million are susceptible of being equitably subordinated to the claims
+of other creditors. This would be in addition to any affirmative recovery that would be
+available to the Debtors against Toronto Dominion for aiding and abetting the breach of
+fiduciary duties by the Debtors’ officers, assuming that the Debtors have standing to
+
+pursue such a claim.
+
+-63-
+
+=== PAGE 66 ===
+V. POTENTIAL VOIDABLE PREFERENCE LIABILITY OF TORONTO
+DOMINION
+
+As noted in the Prior Reports, many of Enron’s SPE transactions give rise to
+voidable preference claims under Section 547 of the Bankruptcy Code. Section 547
+permits a debtor to avoid certain prepetition transfers as preferences if there is: (i) a
+transfer; (ii) of an interest of the debtor in property; (iii) to or for the benefit of a creditor;
+(iv) for or on account of an antecedent debt owed by the debtor before such transfer was
+made; (v) made while the debtor was insolvent; (vi) on or within ninety days (or one year
+for an “insider” transferee) before bankruptcy; (vii) that enables the creditor to receive
+more than it would receive in a Chapter 7 case if the transfer had not been made.”!?
+Section 547(c) of the Bankruptcy Code,” among other sections,”! provides certain
+affirmative defenses to preference liability, depending on the nature and circumstances
+surrounding the transfer.
+
+The Toronto Dominion Prepay known as the London Prepay gives rise to
+potential preference liability for Toronto Dominion. Specifically, on September 19,
+2001, ENA transferred approximately $2.5 million to Toronto Dominion.” The amount
+transferred was property of ENA and was transferred to Toronto Dominion, a creditor, on
+account of an antecedent debt, the Toronto Dominion London Prepay. The transfer was
+
+made within 90 days of the Petition Date, when ENA is presumed to be insolvent.
+
+Finally, the transfer enabled Toronto Dominion to receive more than if ENA filed a
+
+219 11 U.S.C. § 547(b).
+220 11 U.S.C. § 547(c).
+1 See, e.g., 11 U.S.C. § 546(g).
+
+222. See SAP Wire Transfer Request regarding $2,556,901.25 paid by ENA to Toronto Dominion, Sept. 19,
+2001 [AB000273465-AB000273466].
+
+-64-
+
+=== PAGE 67 ===
+Chapter 7 case, as this was a payment of unsecured debt.” Accordingly, all of the
+elements of a preferential transfer can be established against Toronto Dominion, and
+ENA has a prima facie case for recovery of approximately $2.5 million from Toronto
+Dominion.
+
+Toronto Dominion will likely assert two defenses to such a preference claim.
+First, Toronto Dominion is likely to argue that the payment is not recoverable because it
+was made under and in connection with a “swap agreement,” and thus is insulated from
+avoidance under Section 546(g) of the Bankruptcy Code. For the reasons set forth in the
+Third Interim Report, the Examiner concludes that ENA would likely succeed in
+arguing that the London Prepay swaps are not swap agreements for bankruptcy purposes,
+because these are swap agreements in name only and in all other respects functioned as
+loans, and were intended by all the parties to function as loans. Thus, Section 546(g) of
+the Bankruptcy Code will not shield these transfers from avoidance.
+
+In addition, for the reasons also set forth in the Third Interim Report,”> Toronto
+Dominion likely will not be able to establish that this transfer was in the ordinary course
+of business. Although the transfer in question appears to have been made in accordance
+with the terms of the documents governing the London Prepay, the underlying transaction
+
+(and the debt it created) was not ordinary or customary, but rather, was a highly unusual
+
+23 Toronto Dominion may assert that because it had credit default protection, it would have received this
+amount (albeit not from ENA) had ENA not made the payment and instead filed a Chapter 7 petition. Such
+an argument would not likely succeed, as a transferee’s/creditor’s rights against a third party cannot be used
+by that transferee/creditor to show that it would have received the same recovery in a Chapter 7 case.
+Instead, for a transferee/creditor to defeat a preference on these grounds, it must show that it had a lien on,
+or similar rights against, property of the debtor. See, e.g., CEPA Consulting v. New York Nat'l Bank (In re
+Wedtech Corp.), 187 B.R. 105, 107-08 (S.D.N.Y. 1995). Accordingly, Toronto Dominion’s rights under its
+credit default protection should have no impact on its preference liability.
+
+224 See Third Interim Report, Annex 4 to Appendix J (Avoidance Actions), at 29-39.
+5 See id. at 11-18.
+
+- 65 -
+
+=== PAGE 68 ===
+financial arrangement designed to manipulate Enron’s reported results of operations, cash
+flows and financial position. Moreover, as noted above, the transfer was made in the
+context of Toronto Dominion’s active efforts to reduce its exposure to Enron, which may
+also impair its ability to prove the transfer was ordinary between the parties. For these
+reasons, Toronto Dominion will likely not succeed in asserting an ordinary course of
+business defense under Section 547(c)(2) of the Bankruptcy Code.
+
+Accordingly, the Examiner concludes that the approximately $2.5 million
+payment described above can likely be avoided as a preference. If, as the Examiner
+concludes, Toronto Dominion cannot successfully establish any defenses, then this
+approximately $2.5 million can be recovered from Toronto Dominion for the benefit of
+ENA’s estate. In addition, pursuant to Section 502(d) of the Bankruptcy Code,” if
+Toronto Dominion does not pay ENA’s estate on account of this preference claim, the
+claims it holds against ENA, which total approximately $57.8 million as set forth above,
+
+should be disallowed.
+
+26 11 U.S.C. § 502(d).
+
+- 66 -

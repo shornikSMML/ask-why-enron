@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 2592" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+  <title id="t">From Enron's problems to the Sarbanes-Oxley Act: five parts of the 2002 law (phone layout)</title>
+  <desc id="d">Original chart with five rows. Each row links a problem the Enron era exposed, the Sarbanes-Oxley section that responds, and what that section requires. Row 1: §§302, 906 (Certification). Problem: Growing doubt that audited financial statements could be believed. Requires: The CEO and CFO must sign a statement with each periodic report that it complies with the law and fairly presents the company's finances (§906). The signing officers answer for internal controls and must tell the auditors and audit committee about serious control weaknesses and any fraud involving management (§302). Knowingly false certification: up to 10 years in prison; willful: up to 20 years (§906). Row 2: §404 (Internal controls). Problem: No required yearly report on whether a public company's internal controls work. Requires: Management assesses the company's internal controls, and the outside auditor attests to that assessment. The attestation follows PCAOB standards and is part of the audit, not a separate engagement. Row 3: §§101–109 (The PCAOB). Problem: Auditors largely policed themselves, with firms reviewing one another ("peer review"). Requires: A new board, overseen by the SEC, registers audit firms, sets auditing standards, inspects firms and disciplines them. Inspections every year for firms that audit more than 100 public companies; at least every 3 years for the rest. Standards must require audit work papers to be kept 7 years and a second partner to review each audit report. Fines up to $15 million per firm for intentional, knowing or reckless conduct, or repeated negligence. Row 4: §§201–203, 206 (Auditor independence). Problem: Auditor also paid for consulting; audit-team members hired into top company jobs. Requires: Bans eight named kinds of non-audit services for audit clients, plus any other service the PCAOB bans by rule (§201). The audit committee must approve in advance every service the auditor provides, with a small exception (§202). Audit partners must rotate (§203). Forcing companies to change audit firms was only studied (§207). One-year cooling-off: a firm may not audit a company whose CEO, CFO, controller or chief accounting officer worked on its audit in the year before (§206). Row 5: §§802, 806, 807, 1107 (Documents, whistleblowers, penalties). Problem: Documents destroyed; employees who raised concerns had little legal protection. Requires: Two new crimes: destroying or falsifying records (up to 20 years), and auditors failing to keep audit work papers for 5 years (§802). An employee punished for reporting fraud can complain to the Labor Department within 90 days; if there is no decision in 180 days, the employee can go to court. Remedies include reinstatement and back pay (§806). A new securities-fraud crime with up to 25 years in prison (§807). In the Senate it had been described as a 10-year felony. Retaliating against someone who gives truthful information to law enforcement: a crime, up to 10 years (§1107). The problem column summarizes congressional reports and statements; it is not a list of findings against any person.</desc>
+  <style>
+    svg { --d-bg:#fcfcfb; --d-ink:#1b1b1a; --d-muted:#52514e; --d-line:#8a8984; --d-co:#e3eefb; --d-co-edge:#2a78d6; --d-spe:#fde8df; --d-spe-edge:#c4501f; --d-out:#eeeeec; --d-note:#f6f3e6; --d-flag:#8a3a12; --d-bar:#2a78d6; }
+    @media (prefers-color-scheme: dark) {
+      svg { --d-bg:#1a1a19; --d-ink:#f2f2f0; --d-muted:#c3c2b7; --d-line:#9a998f; --d-co:#1d2d42; --d-co-edge:#3987e5; --d-spe:#3d241a; --d-spe-edge:#e0703f; --d-out:#2a2a28; --d-note:#2b2920; --d-flag:#f0a47f; --d-bar:#3987e5; }
+    }
+    .bg   { fill: var(--diagram-bg, var(--d-bg)); }
+    .ink  { fill: var(--diagram-ink, var(--d-ink)); }
+    .mut  { fill: var(--diagram-muted, var(--d-muted)); }
+    .co   { fill: var(--d-co); stroke: var(--d-co-edge); stroke-width: 2.5; }
+    .spe  { fill: var(--d-spe); stroke: var(--d-spe-edge); stroke-width: 2.5; }
+    .out  { fill: var(--d-out); stroke: var(--d-line); stroke-width: 2; }
+    .note { fill: var(--d-note); stroke: var(--d-line); stroke-width: 1.5; }
+    .zone { fill: none; stroke: var(--d-line); stroke-width: 2; stroke-dasharray: 8 6; }
+    .flag { fill: none; stroke: var(--d-flag); stroke-width: 2; stroke-dasharray: 6 5; }
+    .flagt{ fill: var(--d-flag); font-size: 13px; font-weight: 700; letter-spacing: .06em; }
+    .bar  { fill: var(--d-bar); }
+    .base { stroke: var(--d-line); stroke-width: 1.5; }
+    .arr  { fill: none; stroke: var(--diagram-ink, var(--d-ink)); stroke-width: 3; }
+    .thin { fill: none; stroke: var(--diagram-muted, var(--d-muted)); stroke-width: 2; }
+    .ah   { fill: var(--diagram-ink, var(--d-ink)); }
+    .ahm  { fill: var(--diagram-muted, var(--d-muted)); }
+    .step { fill: var(--diagram-ink, var(--d-ink)); }
+    .stepn{ fill: var(--diagram-bg, var(--d-bg)); font-weight: 700; font-size: 15px; }
+    .h    { font-size: 21px; font-weight: 700; }
+    .hb   { font-weight: 700; }
+    .i    { font-style: italic; }
+    .tag  { font-weight: 700; letter-spacing: .06em; }
+  </style>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path class="ah" d="M0,0 L10,5 L0,10 z"/>
+    </marker>
+    <marker id="am" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path class="ahm" d="M0,0 L10,5 L0,10 z"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="520" height="2592" rx="12"/>
+  <text class="ink" x="16" y="40" font-size="23" font-weight="700">From Enron's problems to</text>
+  <text class="ink" x="16" y="70" font-size="23" font-weight="700">the Sarbanes-Oxley Act</text>
+  <text class="mut" x="16" y="98" font-size="15.5">Five parts of the 2002 law: the problem, the section, and</text>
+  <text class="mut" x="16" y="119" font-size="15.5">what it requires</text>
+  <rect class="note" x="16" y="196" width="488" height="369" rx="10"/>
+  <rect class="co" x="16" y="150" width="488" height="62" rx="10"/>
+  <text class="ink" x="32" y="177" font-size="17" font-weight="700">§§302, 906</text>
+  <text class="ink" x="32" y="200" font-size="15">Certification</text>
+  <text class="mut tag" x="32" y="240" font-size="12.5">THE PROBLEM</text>
+  <text class="ink" x="32" y="262" font-size="16" font-weight="700">Growing doubt that audited financial statements</text>
+  <text class="ink" x="32" y="283" font-size="16" font-weight="700">could be believed</text>
+  <text class="mut tag" x="32" y="322" font-size="12.5">WHAT IT REQUIRES</text>
+  <text class="ink" x="32" y="346" font-size="15.5">•</text>
+  <text class="ink" x="48" y="346" font-size="15.5">The CEO and CFO must sign a statement with each</text>
+  <text class="ink" x="48" y="367" font-size="15.5">periodic report that it complies with the law and</text>
+  <text class="ink" x="48" y="388" font-size="15.5">fairly presents the company's finances (§906).</text>
+  <text class="ink" x="32" y="417" font-size="15.5">•</text>
+  <text class="ink" x="48" y="417" font-size="15.5">The signing officers answer for internal controls</text>
+  <text class="ink" x="48" y="438" font-size="15.5">and must tell the auditors and audit committee about</text>
+  <text class="ink" x="48" y="459" font-size="15.5">serious control weaknesses and any fraud involving</text>
+  <text class="ink" x="48" y="480" font-size="15.5">management (§302).</text>
+  <text class="ink" x="32" y="509" font-size="15.5">•</text>
+  <text class="ink" x="48" y="509" font-size="15.5">Knowingly false certification: up to 10 years in</text>
+  <text class="ink" x="48" y="530" font-size="15.5">prison; willful: up to 20 years (§906).</text>
+  <rect class="note" x="16" y="631" width="488" height="256" rx="10"/>
+  <rect class="co" x="16" y="585" width="488" height="62" rx="10"/>
+  <text class="ink" x="32" y="612" font-size="17" font-weight="700">§404</text>
+  <text class="ink" x="32" y="635" font-size="15">Internal controls</text>
+  <text class="mut tag" x="32" y="675" font-size="12.5">THE PROBLEM</text>
+  <text class="ink" x="32" y="697" font-size="16" font-weight="700">No required yearly report on whether a public</text>
+  <text class="ink" x="32" y="718" font-size="16" font-weight="700">company's internal controls work</text>
+  <text class="mut tag" x="32" y="757" font-size="12.5">WHAT IT REQUIRES</text>
+  <text class="ink" x="32" y="781" font-size="15.5">•</text>
+  <text class="ink" x="48" y="781" font-size="15.5">Management assesses the company's internal controls,</text>
+  <text class="ink" x="48" y="802" font-size="15.5">and the outside auditor attests to that assessment.</text>
+  <text class="ink" x="32" y="831" font-size="15.5">•</text>
+  <text class="ink" x="48" y="831" font-size="15.5">The attestation follows PCAOB standards and is part</text>
+  <text class="ink" x="48" y="852" font-size="15.5">of the audit, not a separate engagement.</text>
+  <rect class="note" x="16" y="953" width="488" height="419" rx="10"/>
+  <rect class="co" x="16" y="907" width="488" height="62" rx="10"/>
+  <text class="ink" x="32" y="934" font-size="17" font-weight="700">§§101–109</text>
+  <text class="ink" x="32" y="957" font-size="15">The PCAOB</text>
+  <text class="mut tag" x="32" y="997" font-size="12.5">THE PROBLEM</text>
+  <text class="ink" x="32" y="1019" font-size="16" font-weight="700">Auditors largely policed themselves, with firms</text>
+  <text class="ink" x="32" y="1040" font-size="16" font-weight="700">reviewing one another ("peer review")</text>
+  <text class="mut tag" x="32" y="1079" font-size="12.5">WHAT IT REQUIRES</text>
+  <text class="ink" x="32" y="1103" font-size="15.5">•</text>
+  <text class="ink" x="48" y="1103" font-size="15.5">A new board, overseen by the SEC, registers audit</text>
+  <text class="ink" x="48" y="1124" font-size="15.5">firms, sets auditing standards, inspects firms and</text>
+  <text class="ink" x="48" y="1145" font-size="15.5">disciplines them.</text>
+  <text class="ink" x="32" y="1174" font-size="15.5">•</text>
+  <text class="ink" x="48" y="1174" font-size="15.5">Inspections every year for firms that audit more</text>
+  <text class="ink" x="48" y="1195" font-size="15.5">than 100 public companies; at least every 3 years</text>
+  <text class="ink" x="48" y="1216" font-size="15.5">for the rest.</text>
+  <text class="ink" x="32" y="1245" font-size="15.5">•</text>
+  <text class="ink" x="48" y="1245" font-size="15.5">Standards must require audit work papers to be kept</text>
+  <text class="ink" x="48" y="1266" font-size="15.5">7 years and a second partner to review each audit</text>
+  <text class="ink" x="48" y="1287" font-size="15.5">report.</text>
+  <text class="ink" x="32" y="1316" font-size="15.5">•</text>
+  <text class="ink" x="48" y="1316" font-size="15.5">Fines up to $15 million per firm for intentional,</text>
+  <text class="ink" x="48" y="1337" font-size="15.5">knowing or reckless conduct, or repeated negligence.</text>
+  <rect class="note" x="16" y="1438" width="488" height="440" rx="10"/>
+  <rect class="co" x="16" y="1392" width="488" height="62" rx="10"/>
+  <text class="ink" x="32" y="1419" font-size="17" font-weight="700">§§201–203, 206</text>
+  <text class="ink" x="32" y="1442" font-size="15">Auditor independence</text>
+  <text class="mut tag" x="32" y="1482" font-size="12.5">THE PROBLEM</text>
+  <text class="ink" x="32" y="1504" font-size="16" font-weight="700">Auditor also paid for consulting; audit-team</text>
+  <text class="ink" x="32" y="1525" font-size="16" font-weight="700">members hired into top company jobs</text>
+  <text class="mut tag" x="32" y="1564" font-size="12.5">WHAT IT REQUIRES</text>
+  <text class="ink" x="32" y="1588" font-size="15.5">•</text>
+  <text class="ink" x="48" y="1588" font-size="15.5">Bans eight named kinds of non-audit services for</text>
+  <text class="ink" x="48" y="1609" font-size="15.5">audit clients, plus any other service the PCAOB bans</text>
+  <text class="ink" x="48" y="1630" font-size="15.5">by rule (§201).</text>
+  <text class="ink" x="32" y="1659" font-size="15.5">•</text>
+  <text class="ink" x="48" y="1659" font-size="15.5">The audit committee must approve in advance every</text>
+  <text class="ink" x="48" y="1680" font-size="15.5">service the auditor provides, with a small exception</text>
+  <text class="ink" x="48" y="1701" font-size="15.5">(§202).</text>
+  <text class="ink" x="32" y="1730" font-size="15.5">•</text>
+  <text class="ink" x="48" y="1730" font-size="15.5">Audit partners must rotate (§203). Forcing companies</text>
+  <text class="ink" x="48" y="1751" font-size="15.5">to change audit firms was only studied (§207).</text>
+  <text class="ink" x="32" y="1780" font-size="15.5">•</text>
+  <text class="ink" x="48" y="1780" font-size="15.5">One-year cooling-off: a firm may not audit a company</text>
+  <text class="ink" x="48" y="1801" font-size="15.5">whose CEO, CFO, controller or chief accounting</text>
+  <text class="ink" x="48" y="1822" font-size="15.5">officer worked on its audit in the year before</text>
+  <text class="ink" x="48" y="1843" font-size="15.5">(§206).</text>
+  <rect class="note" x="16" y="1944" width="488" height="482" rx="10"/>
+  <rect class="co" x="16" y="1898" width="488" height="62" rx="10"/>
+  <text class="ink" x="32" y="1925" font-size="17" font-weight="700">§§802, 806, 807, 1107</text>
+  <text class="ink" x="32" y="1948" font-size="15">Documents, whistleblowers, penalties</text>
+  <text class="mut tag" x="32" y="1988" font-size="12.5">THE PROBLEM</text>
+  <text class="ink" x="32" y="2010" font-size="16" font-weight="700">Documents destroyed; employees who raised</text>
+  <text class="ink" x="32" y="2031" font-size="16" font-weight="700">concerns had little legal protection</text>
+  <text class="mut tag" x="32" y="2070" font-size="12.5">WHAT IT REQUIRES</text>
+  <text class="ink" x="32" y="2094" font-size="15.5">•</text>
+  <text class="ink" x="48" y="2094" font-size="15.5">Two new crimes: destroying or falsifying records (up</text>
+  <text class="ink" x="48" y="2115" font-size="15.5">to 20 years), and auditors failing to keep audit</text>
+  <text class="ink" x="48" y="2136" font-size="15.5">work papers for 5 years (§802).</text>
+  <text class="ink" x="32" y="2165" font-size="15.5">•</text>
+  <text class="ink" x="48" y="2165" font-size="15.5">An employee punished for reporting fraud can</text>
+  <text class="ink" x="48" y="2186" font-size="15.5">complain to the Labor Department within 90 days; if</text>
+  <text class="ink" x="48" y="2207" font-size="15.5">there is no decision in 180 days, the employee can</text>
+  <text class="ink" x="48" y="2228" font-size="15.5">go to court. Remedies include reinstatement and back</text>
+  <text class="ink" x="48" y="2249" font-size="15.5">pay (§806).</text>
+  <text class="ink" x="32" y="2278" font-size="15.5">•</text>
+  <text class="ink" x="48" y="2278" font-size="15.5">A new securities-fraud crime with up to 25 years in</text>
+  <text class="ink" x="48" y="2299" font-size="15.5">prison (§807). In the Senate it had been described</text>
+  <text class="ink" x="48" y="2320" font-size="15.5">as a 10-year felony.</text>
+  <text class="ink" x="32" y="2349" font-size="15.5">•</text>
+  <text class="ink" x="48" y="2349" font-size="15.5">Retaliating against someone who gives truthful</text>
+  <text class="ink" x="48" y="2370" font-size="15.5">information to law enforcement: a crime, up to 10</text>
+  <text class="ink" x="48" y="2391" font-size="15.5">years (§1107).</text>
+  <text class="mut" x="16" y="2452" font-size="13.5">The problem column summarizes what congressional reports, hearing</text>
+  <text class="mut" x="16" y="2470" font-size="13.5">statements and senators said the Enron era exposed. It is not a</text>
+  <text class="mut" x="16" y="2488" font-size="13.5">finding against any person or firm.</text>
+  <text class="mut" x="16" y="2514" font-size="13">Sources: Sarbanes-Oxley Act of 2002 (Pub. L. 107-204), §§101–109,</text>
+  <text class="mut" x="16" y="2532" font-size="13">201–207, 302, 404, 802, 806, 807, 906, 1107; S. Rept. 107-205, pp.</text>
+  <text class="mut" x="16" y="2550" font-size="13">5–31; H. Rept. 107-414, p. 55; S. Hrg. 107-948 (Breeden statement;</text>
+  <text class="mut" x="16" y="2568" font-size="13">Senate floor debate, pp. 1226, 1233); SEC Section 704 report, p. 41.</text>
+</svg>

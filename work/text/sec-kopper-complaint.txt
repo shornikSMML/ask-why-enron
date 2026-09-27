@@ -1,0 +1,147 @@
+ 
+
+ Complaint: SEC v. Michael J. Kopper 
+
+ Home | Previous Page 
+
+ UNITED STATES DISTRICT COURT
+ SOUTHERN DISTRICT OF TEXAS
+ HOUSTON DIVISION
+
+ UNITED STATES SECURITIES 
+ AND EXCHANGE COMMISSION, 
+ Plaintiff, 
+ v.
+ MICHAEL J. KOPPER, 
+ Defendant. 
+
+ : : : : : : : 
+ Civil Action No. H-02-3127
+ COMPLAINT 
+
+ Plaintiff Securities and Exchange Commission (the "Commission") for its Complaint alleges as follows:
+
+ SUMMARY 
+
+ 1. The defendant Michael J. Kopper, a former employee of Enron Corp., engaged, along with others, in a self-enriching scheme to defraud Enron's security holders through the use of certain off-balance-sheet entities. 
+
+ 2. By his conduct, Kopper, directly and indirectly, engaged in acts, practices, and courses of business that violated, and unless enjoined may again violate, Section 10(b) of the Securities Exchange Act of 1934 ("Exchange Act") [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 C.F.R. § 240.10b-5].
+
+ 3. The Commission requests that this Court permanently enjoin Kopper from violating the foregoing federal securities laws, prohibit him permanently and unconditionally from acting as an officer or director of any issuer of securities that has a class of securities registeredpursuant to Section 12 of the Exchange Act or that is required to file reports pursuant to Section 15(d) of such Act, order him to disgorge gains from the violations, and order such other and further relief as the Court may deem appropriate.
+
+ JURISDICTION AND VENUE 
+
+ 4. The Court has jurisdiction over this action pursuant to Sections 21(d), 21(e), and 27 of the Exchange Act [15 U.S.C. §§ 78u(d) and (e) and 78aa]. 
+
+ 5. Venue lies in this District pursuant to Section 27 of the Exchange Act [15 U.S.C. § 78aa] because certain acts or transactions constituting the violations occurred in this District.
+
+ 6. In connection with the acts, practices, and courses of business alleged herein, Kopper, directly or indirectly, made use of the means and instruments of transportation and communication in interstate commerce, and of the mails and of the facilities of a national securities exchange.
+
+ 7. Kopper, unless restrained and enjoined by this Court, will continue to engage in transactions, acts, practices, and courses of business as set forth in this Complaint or in similar illegal acts and practices. 
+
+ DEFENDANT 
+
+ 8. Michael J. Kopper, age 37, resides in Houston, Texas. Kopper held various positions at Enron from approximately 1994 through July 2001. For most of that time, Kopper reported to Enron's Chief Financial Officer ("CFO"). Between January 2000 and July 2001, Kopper also was a managing director of LJM2 Capital Management. In late July 2001, Kopper left Enron to run LJM2 Co-Investments LP, an affiliate of entities that Kopper purchased from Enron's CFO for approximately $16.5 million.
+
+ CORPORATIONS INVOLVED 
+
+ 9. Enron Corp. is an Oregon corporation with its principal place of business in Houston, Texas. During the relevant time period, the common stock of Enron was registered with the Commission pursuant to Section 12(b) of the Exchange Act and traded on the New York Stock Exchange. Among other businesses, Enron was engaged in the purchase and sale of natural gas, construction and ownership of pipelines and power facilities, provision of telecommunication services, and trading in contracts to buy and sell various commodities. Prior to December 2, 2001, Enron was reportedly the seventh largest corporation in the United States. On December 3, 2001, Enron filed for bankruptcy protection under Chapter 11 of the U.S. Bankruptcy Code.
+
+ FACTUAL ALLEGATIONS 
+
+ Enron's Use of Off-Balance-Sheet Special Purpose Entities 
+
+ 10. Starting in at least the early 1990's, Enron funded certain of its investments by entering into arrangements with outside third parties. These joint investments typically were structured as separate, special purpose entities ("SPEs") to which Enron and other investors contributed assets or other consideration. Enron's treatment of the entities for financial statement purposes was subject to accounting rules that governed whether an entity should be consolidated in its entirety (including its assets and liabilities) onto Enron's balance sheet, or should be treated as an investment by Enron in a separate entity not under Enron's control. With respect to certain entities, Enron management preferred the latter result - known as "off-balance-sheet"- because it enabled Enron to present itself more attractively as measured by criteria favored by Wall Street investment analysts and credit rating agencies. 
+
+ 11. Enron engaged in myriad SPE and other transactions that were structured to achieve off-balance-sheet treatment. Under applicable accounting rules, an SPE could receive off-balance-sheet treatment only if independent third-party investors contributed at least three percent of the SPE's capital, and the third party investment were genuinely at risk, among other things. If the third party were not truly independent, or its investment were not truly at risk, consolidation of the SPE onto Enron's balance sheet would be required. 
+
+ 12. Starting in at least early 1997, Kopper and others devised a scheme to defraud Enron's security holders by enriching themselves through the use of certain Enron SPEs. Some of these SPEs were not eligible for off-balance-sheet treatment because the supposedly independent third party investors were controlled by the CFO, Kopper, and others and because the third party "investment" was not at risk, since Enron, the CFO, Kopper, or others provided the funds to be invested or guaranteed the investment against risk of loss. Thus, these SPEs should have been consolidated onto Enron's balance sheet.
+
+ 13. Enron nevertheless engaged in various transactions with these SPEs that were designed to improve its apparent financial results. Meanwhile, Kopper and others used their simultaneous influence over Enron's business operations and the SPEs as a means to secretly and unlawfully generate millions of dollars for themselves and others.
+
+ RADR 
+
+ 14. In early 1997, Enron's holdings included a number of California wind farms that were partly owned by an Enron subsidiary named ZOND. At the time, California and federal energy regulations granted substantial economic benefits to alternative energy facilities that met certain requirements, including a requirement that they not be owned by public utilities("qualifying facilities," or "QF"). Because Enron was in the process of purchasing a public utility, Portland General Electric, its wind farms would become ineligible for QF status unless ZOND's interests were sold. 
+
+ 15. In approximately May 1997, Kopper and others devised a scheme to enrich themselves and to enable Enron to retain secret control over the California wind farms while appearing to maintain eligibility for QF status. Enron's CFO and Kopper caused the creation of SPEs known as "RADR ZWS, LLC," and "RADR ZWS MM, LLC" (collectively, "RADR") which purchased ZOND's interest in the wind farms. RADR was funded mainly with a $16.4 million loan from an Enron subsidiary. Rather than seek independent third party equity investors, and to insure that Enron effectively monitored control over the wind farms, Enron's CFO and Kopper contacted several of their personal friends, including a friend of the Enron CFO's wife, Kopper's domestic partner, and a Houston real estate broker. 
+
+ 16. The Enron CFO arranged to fund some of the friends' "investments" by making an unsecured personal loan to Kopper, who in turn made unsecured loans to the friends, so that they could "invest" in RADR. It was understood that the friends would repay Kopper with distributions from their RADR "investments," and Kopper would in turn repay Enron's CFO. It was further understood that, at some time in the future, Enron would repurchase the RADR entities. The repurchase price would increase over time, so that the longer it took Enron to repurchase RADR, the higher the price it would have to pay. The RADR transaction was a model for later transactions, which came to be known within Enron as "Friends of Enron" deals. 17. Between August 1997 and July 2000, RADR generated approximately $2.7 million in distributions to the investors. In July 2000, Enron repurchased the RADR entities, resulting inan additional gain of approximately $1.8 million to the investors. Two of the investors were directed by Kopper to transfer portions of their proceeds to various individuals. Among those who received money were Enron's CFO, Kopper, several of their family members, and various Enron employees and their family members.
+
+ Chewco 
+
+ 18. In 1993, Enron and the California Public Employees' Retirement System ("CALPERS") entered into a joint venture investment partnership called Joint Energy Development Limited Partnership ("JEDI"). Enron was the general partner of JEDI and contributed $250 million in Enron stock; CALPERS was the limited partner and contributed $250 million in cash. Enron did not consolidate JEDI onto its balance sheet and did not include JEDI's debt in its financial statements. 
+
+ 19. In the summer of 1997, Enron began to seek a buyer for CALPERS' share of the JEDI partnership so that CALPERS would agree to invest additional funds in an even larger partnership to be called JEDI II. CALPERS imposed a deadline of November 6, 1997 for the buyout.
+
+ 20. In November 1997, Enron formed Chewco, an SPE, to buy out CALPERS' JEDI interest. Enron's CFO initially sought to become Chewco's general partner, but substituted Kopper when it became clear that Enron otherwise would have to disclose publicly the CFO's participation. 
+
+ 21. After failing to find investors willing to provide the required 3-percent outside equity for Chewco before the November 6, 1997 deadline, Enron arranged to fund the buyout temporarily through "bridge" loans from Barclays Bank PLC ("Barclays") and Chase ManhattanBank ("Chase"). Each bank loaned $191.5 million to Chewco, with repayment guaranteed by Enron, and Chewco used those loan proceeds to buy CALPERS' interest in JEDI. 
+
+ 22. Because Chewco had no genuine outside equity investment, and because Enron guaranteed Barclays and Chase against risk of loss, Chewco did not comply with SPE rules. Enron thus planned, for financial reporting purposes, to replace the bridge financing before year end with another structure that would qualify Chewco as an SPE with sufficient outside equity. 
+
+ 23. Chewco's structure at year-end again failed to meet SPE requirements. Its permanent financing structure consisted of a $240 million loan from Barclays guaranteed by Enron, a $132 million advance from JEDI to Chewco under a revolving credit agreement, and approximately $11.49 million as an apparent equity investment from Chewco's general and limited partners. However, Enron structured the transaction so that $11.03 million of the supposed outside equity was actually borrowed from Barclays by various entities controlled by Kopper. The loan was secured by approximately $6.58 million in cash that was generated by JEDI's November 1997 sale of an asset. Those funds were held in accounts that were fully pledged to Barclays, meaning that Barclays was partly protected against risk of loss. The remaining "outside equity" consisted of $125,288 provided by Kopper and his domestic partner. 
+
+ 24. From December 1997 through December 2000, Kopper received various payments relating to Chewco, which he secretly shared with Enron's CFO. Kopper received a total of approximately $1.5 million in "management fees" relating to Chewco, which he shared with Enron's CFO mainly through checks payable to members of the CFO's family. In December 1998, Enron's CFO caused Enron to pay a $400,000 "nuisance fee" to Chewco as compensation for agreeing to amend JEDI's partnership agreement. Kopper transferred approximately $67,224of the nuisance fee back to Enron's CFO, again through checks written to the CFO or members of his family. In addition, Kopper paid the CFO's wife approximately $54,000 for acting as a Chewco administrative assistant. 
+
+ 25. In March 2001, Enron bought Chewco's limited partnership interest in JEDI and consolidated JEDI onto its financial statements. Enron's CFO approved a purchase price of $35 million, of which Kopper and his domestic partner received approximately $3 million. In September 2001, Enron's CFO authorized a further $2.6 million "tax indemnity payment" to Chewco, which Kopper subsequently transferred to an account under his control.
+
+ Southampton 
+
+ 26. Still another SPE formed by Enron was a partnership called LJM Cayman, L.P. ("LJM Cayman"). Enron's CFO invested $1 million in LJM Cayman and was granted by Enron a limited waiver of Enron's conflict of interest rules so he could run LJM Cayman as its general partner. LJM Cayman had two limited partners, an entity owned by Credit Suisse First Boston ("CSFB") and an entity owned by National Westminster Bank ("NatWest"). Each invested $7.5 million. 
+
+ 27. In June 1999, Enron entered into a transaction in which a third party assigned more than three million Enron shares to LJM Cayman. In return, Enron received promissory notes and a "put" option on shares Enron owned in Rhythms NetConnections, Inc. ("Rhythms"). The Rhythms put option was issued by LJM Cayman's subsidiary, LJM Swap Sub, L.P. ("Swap Sub"), and purported to give Enron the right to sell, or put, its Rhythms shares to Swap Sub for a set price on certain future dates. Because Swap Sub was capitalized primarily with Enron shares, it would be unable to afford to pay Enron for the put option if its Enron shares fell below acertain price.
+
+ 28. During the first quarter of 2000, both Enron and Rhythms shares increased in price, making Swap Sub's main asset (its Enron shares) more valuable while substantially decreasing its potential liability on the Rhythms put option. Thus, Swap Sub had far more value than previously. In approximately February 2000, Kopper, three NatWest bankers, and others devised and later executed a scheme to defraud Enron and others by: (i) causing Enron to pay $30 million to buy out, or "unwind," the banks' interests in Swap Sub; (ii) causing NatWest to accept only $1 million for its interest in Swap Sub, while representing to Enron that NatWest was getting $20 million, and (iii) splitting the $19 million balance among themselves and certain Enron and LJM employees.
+
+ 29. To carry out the scheme, Kopper and others caused Enron to pay $30 million (purportedly allocated $20 million to NatWest and $10 million to CSFB) to unwind Swap Sub. That purchase price was based on the Enron CFO's false representation to Enron that NatWest and CSFB had agreed to sell their interests in Swap Sub for $20 million and $10 million, respectively. In fact, NatWest received only $1 million and had agreed to receive this sum based on misrepresentations and fraudulent conduct of its own employees, who sought to skim profits that should have gone to NatWest. 
+
+ 30. As a result, the three NatWest bankers who participated in the scheme received approximately $7.3 million. The balance of the funds went to investors in an entity called Southampton LP ("Southampton"), which Kopper created. The Southampton "investors" were Kopper, who contributed $25,000 and caused Chewco to loan another $750,000, and received approximately $4.5 million, a purported charitable foundation in the name of the CFO's family,which contributed $25,000 and received approximately $4.5 million, and five Enron and LJM employees chosen by Kopper and the CFO, who contributed a total of less than $20,000 and received a total of approximately $3.3 million. 
+
+ CLAIM FOR RELIEF 
+
+ Violation of Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] 
+ and Rule 10b-5 thereunder [17 C.F.R. § 240.10b-5] 
+
+ 31. Paragraphs 1 through 30 are realleged and incorporated by reference herein.
+
+ 32. As set forth more fully above, Kopper, directly or indirectly, by use of the means or instrumentalities of interstate commerce, or by the use of the mails and of the facilities of a national securities exchange, in connection with the purchase or sale of securities: has employed devices, schemes, or artifices to defraud, has made untrue statements of material facts or omitted to state material facts necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading, or has engaged in acts, practices, or courses of business which operate or would operate as a fraud or deceit upon any person. 
+
+ 33. By reason of the foregoing, Kopper violated Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)], and Rule 10b-5 thereunder [17 C.F.R. § 240.10b-5].
+
+ JURY DEMAND 
+
+ 34. The Commission demands a jury in this matter.
+
+ PRAYER FOR RELIEF 
+
+ WHEREFORE, the Commission respectfully requests that this Court:
+
+ A. Grant a Final Judgment of Permanent Injunction restraining and enjoining Kopper from violating Section 10(b) of the Exchange Act and Rule 10b-5 thereunder; prohibitinghim permanently and unconditionally from acting as an officer or director of any issuer of securities that has a class of securities registered pursuant to Section 12 of the Exchange Act or that is required to file reports pursuant to Section 15(d) of such Act; and ordering him to pay disgorgement of profits described herein; and
+
+ B. Grant such other and additional relief as this Court may deem just and proper. 
+
+ Dated: August ___, 2002 
+ Respectfully submitted,
+
+ ________________________________
+ Stephen M. Cutler
+ Director, Enforcement Division
+ Linda Chatman Thomsen
+ Deputy Director, Enforcement Division
+ Charles J. Clark
+ Assistant Director, Enforcement Division
+ __________________________________
+ Luis R. Mejia
+ Assistant Chief Litigation Counsel
+ Attorney-in-Charge, Plaintiff
+ Securities and Exchange Commission
+ 450 Fifth Street, N.W.
+ Washington, DC 20549-0911
+ Phone: (202) 942-4744 (Mejia)
+ Fax: (202) 942-9569 (Mejia)
+
+ http://www.sec.gov/litigation/complaints/comp17692.htm 
+
+ Home | Previous Page 
+ Modified: 08/21/2002 
+

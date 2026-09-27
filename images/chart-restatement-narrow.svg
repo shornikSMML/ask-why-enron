@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 900" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+  <title id="t">Enron's restatement: how much reported net income was cut, 1997–2000 (phone layout)</title>
+  <desc id="d">Bar chart. In its quarterly report (Form 10-Q) filed November 19, 2001, Enron restated its net income for 1997 to 2000. Reductions to reported net income: 1997, 79 million dollars (from 105 million to 26 million); 1998, 139 million dollars (from 703 million to 564 million); 1999, 258 million dollars (from 893 million to 635 million); 2000, 137 million dollars (from 979 million to 842 million). The cuts came from including JEDI, Chewco and an LJM1 subsidiary in Enron's own statements, plus audit adjustments. Other figures exist: Enron's first estimate on November 8, 2001 (Form 8-K) was 96, 113, 250 and 132 million dollars. The Powers Report gives 28, 133, 248 and 99 million dollars, counting only Chewco and LJM1 and leaving out audit adjustments.</desc>
+  <style>
+    svg { --d-bg:#fcfcfb; --d-ink:#1b1b1a; --d-muted:#52514e; --d-line:#8a8984; --d-co:#e3eefb; --d-co-edge:#2a78d6; --d-spe:#fde8df; --d-spe-edge:#c4501f; --d-out:#eeeeec; --d-note:#f6f3e6; --d-flag:#8a3a12; --d-bar:#2a78d6; }
+    @media (prefers-color-scheme: dark) {
+      svg { --d-bg:#1a1a19; --d-ink:#f2f2f0; --d-muted:#c3c2b7; --d-line:#9a998f; --d-co:#1d2d42; --d-co-edge:#3987e5; --d-spe:#3d241a; --d-spe-edge:#e0703f; --d-out:#2a2a28; --d-note:#2b2920; --d-flag:#f0a47f; --d-bar:#3987e5; }
+    }
+    .bg   { fill: var(--diagram-bg, var(--d-bg)); }
+    .ink  { fill: var(--diagram-ink, var(--d-ink)); }
+    .mut  { fill: var(--diagram-muted, var(--d-muted)); }
+    .co   { fill: var(--d-co); stroke: var(--d-co-edge); stroke-width: 2.5; }
+    .spe  { fill: var(--d-spe); stroke: var(--d-spe-edge); stroke-width: 2.5; }
+    .out  { fill: var(--d-out); stroke: var(--d-line); stroke-width: 2; }
+    .note { fill: var(--d-note); stroke: var(--d-line); stroke-width: 1.5; }
+    .zone { fill: none; stroke: var(--d-line); stroke-width: 2; stroke-dasharray: 8 6; }
+    .flag { fill: none; stroke: var(--d-flag); stroke-width: 2; stroke-dasharray: 6 5; }
+    .flagt{ fill: var(--d-flag); font-size: 13px; font-weight: 700; letter-spacing: .06em; }
+    .bar  { fill: var(--d-bar); }
+    .base { stroke: var(--d-line); stroke-width: 1.5; }
+    .arr  { fill: none; stroke: var(--diagram-ink, var(--d-ink)); stroke-width: 3; }
+    .thin { fill: none; stroke: var(--diagram-muted, var(--d-muted)); stroke-width: 2; }
+    .ah   { fill: var(--diagram-ink, var(--d-ink)); }
+    .ahm  { fill: var(--diagram-muted, var(--d-muted)); }
+    .step { fill: var(--diagram-ink, var(--d-ink)); }
+    .stepn{ fill: var(--diagram-bg, var(--d-bg)); font-weight: 700; font-size: 15px; }
+    .h    { font-size: 21px; font-weight: 700; }
+    .hb   { font-weight: 700; }
+    .i    { font-style: italic; }
+    .tag  { font-weight: 700; letter-spacing: .06em; }
+  </style>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path class="ah" d="M0,0 L10,5 L0,10 z"/>
+    </marker>
+    <marker id="am" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path class="ahm" d="M0,0 L10,5 L0,10 z"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="520" height="900" rx="12"/>
+  <text class="ink" x="16" y="38" font-size="22" font-weight="700">How much Enron's restatement</text>
+  <text class="ink" x="16" y="66" font-size="22" font-weight="700">cut reported net income</text>
+  <text class="mut" x="16" y="94" font-size="15.5">Reduction per year, $ millions, as restated in Enron's</text>
+  <text class="mut" x="16" y="115" font-size="15.5">Form 10-Q filed Nov. 19, 2001</text>
+  <text class="ink" x="16" y="187" font-size="17" font-weight="700">1997</text>
+  <path class="bar" d="M76,160 H163.2 Q167.2,160 167.2,164 V196 Q167.2,200 163.2,200 H76 Z"/>
+  <text class="ink" x="177.15384615384613" y="187" font-size="18" font-weight="700">−$79M</text>
+  <text class="mut" x="84" y="222" font-size="14.5">$105M reported, $26M restated</text>
+  <text class="ink" x="16" y="283" font-size="17" font-weight="700">1998</text>
+  <path class="bar" d="M76,256 H232.4 Q236.4,256 236.4,260 V292 Q236.4,296 232.4,296 H76 Z"/>
+  <text class="ink" x="246.3846153846154" y="283" font-size="18" font-weight="700">−$139M</text>
+  <text class="mut" x="84" y="318" font-size="14.5">$703M reported, $564M restated</text>
+  <text class="ink" x="16" y="379" font-size="17" font-weight="700">1999</text>
+  <path class="bar" d="M76,352 H369.7 Q373.7,352 373.7,356 V388 Q373.7,392 369.7,392 H76 Z"/>
+  <text class="ink" x="383.6923076923077" y="379" font-size="18" font-weight="700">−$258M</text>
+  <text class="mut" x="84" y="414" font-size="14.5">$893M reported, $635M restated</text>
+  <text class="ink" x="16" y="475" font-size="17" font-weight="700">2000</text>
+  <path class="bar" d="M76,448 H230.1 Q234.1,448 234.1,452 V484 Q234.1,488 230.1,488 H76 Z"/>
+  <text class="ink" x="244.0769230769231" y="475" font-size="18" font-weight="700">−$137M</text>
+  <text class="mut" x="84" y="510" font-size="14.5">$979M reported, $842M restated</text>
+  <line class="base" x1="76" y1="150" x2="76" y2="524"/>
+  <text class="ink" x="16" y="550" font-size="15.5">The cuts came from including JEDI, Chewco and an LJM1</text>
+  <text class="ink" x="16" y="571" font-size="15.5">subsidiary in Enron's own financial statements, plus audit</text>
+  <text class="ink" x="16" y="592" font-size="15.5">adjustments.</text>
+  <rect class="note" x="16" y="619" width="488" height="180" rx="10"/>
+  <text class="ink" x="32" y="647" font-size="16" font-weight="700">Sources give different figures</text>
+  <text class="ink" x="32" y="671" font-size="15">Enron's first estimate on Nov. 8, 2001 (Form 8-K press</text>
+  <text class="ink" x="32" y="691" font-size="15">release) was $96M, $113M, $250M and $132M. The 10-Q</text>
+  <text class="ink" x="32" y="711" font-size="15">calls its figures a "further refinement."</text>
+  <text class="ink" x="32" y="735" font-size="15">The Powers Report gives $28M, $133M, $248M and $99M: it</text>
+  <text class="ink" x="32" y="755" font-size="15">counts only Chewco and LJM1 and leaves out audit</text>
+  <text class="ink" x="32" y="775" font-size="15">adjustments.</text>
+
+  <text class="mut" x="16" y="825" font-size="13">Sources: Enron Form 10-Q, Q3 2001, Note 3, pp. 15–16; Form 8-K, Nov.</text>
+  <text class="mut" x="16" y="843" font-size="13">8, 2001 (Ex. 99.1), p. 3; Powers Report p. 3.</text>
+</svg>

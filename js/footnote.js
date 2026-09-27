@@ -81,6 +81,27 @@
         return '<figure class="fn-ctx-item"><figcaption>' + esc(c.where || "") + "</figcaption>" + renderParagraph(c) + "</figure>";
       }).join("") + "</section>";
   }
+  // "Other notes in the same report" (window.FOOTNOTE_OTHERS, js/footnote-others-data.js):
+  // [{id, title, source_id, lines, excerpt, said, left_out, found, cites}], anchors #note-1 etc.
+  var OTHERS = window.FOOTNOTE_OTHERS || [];
+  if (!Array.isArray(OTHERS)) OTHERS = OTHERS.notes || OTHERS.items || [];
+  if (OTHERS.length) {
+    out += '<section class="fn-others" aria-labelledby="fn-others-h"><h2 id="fn-others-h">Other notes in the same report</h2>' +
+      OTHERS.map(function (o) {
+        var ex = o.excerpt == null ? [] : (Array.isArray(o.excerpt) ? o.excerpt : [o.excerpt]);
+        var src = o.source_id ? A.sourceRefHTML({ source_id: o.source_id, loc: o.lines ? "lines " + o.lines : (o.loc || "") })
+          .replace('<span class="loc">', ' <span class="loc">(').replace(/<\/span>$/, ")</span>") : "";
+        return '<section class="fn-other" id="' + esc(o.id) + '" aria-labelledby="' + esc(o.id) + '-h">' +
+          '<h3 id="' + esc(o.id) + '-h">' + esc(o.title || o.id) + "</h3>" +
+          (src ? '<p class="fn-source">' + src + "</p>" : "") +
+          ex.map(function (e) { return '<blockquote class="fn-excerpt">' + esc(typeof e === "string" ? e : e.text || "") + "</blockquote>"; }).join("") +
+          (o.said ? "<h4>What it said</h4><p>" + esc(o.said) + "</p>" : "") +
+          (o.left_out ? "<h4>What it left out</h4><p>" + esc(o.left_out) + "</p>" : "") +
+          (o.found ? "<h4>What later filings and investigations found</h4><p>" + esc(o.found) + "</p>" : "") +
+          ((o.cites || []).length ? '<p class="fn-other-cites">Sources: ' + o.cites.map(A.citeTag).join("") + "</p>" : "") +
+          "</section>";
+      }).join("") + "</section>";
+  }
   if (FN.closing) {
     out += '<section class="fn-closing" aria-labelledby="fn-close-h"><h2 id="fn-close-h">Looking back</h2><p>' + textWithCites(FN.closing) + "</p>" +
       (FN.closing.ask_why ? '<aside class="ask-why"><h2>Ask Why</h2><p>' + esc(FN.closing.ask_why) + "</p></aside>" : "") + "</section>";

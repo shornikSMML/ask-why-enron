@@ -685,3 +685,9 @@ mark.anno.pw-target { outline-offset: 2px; }
 .handout-src { display: block; }
 .handout-src .pw-src { font-size: .72rem; }
 @media print { .handout-src a { color: #000; text-decoration: none; } }
+.fn-others h2 { font-size: 1.2rem; }
+.fn-other { background: var(--bg-raised); border: 1px solid var(--rule); border-radius: 8px; padding: .8rem 1.1rem; margin: 0 0 1rem; scroll-margin-top: 5rem; }
+.fn-other h3 { margin-top: .2rem; }
+.fn-other h4 { font-family: var(--sans); font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: .9rem 0 .2rem; }
+.fn-excerpt { margin: .6rem 0; padding: .5rem .9rem; border-left: 3px solid var(--highlight-active); background: var(--bg-sunk); font-size: .95rem; }
+.fn-other-cites { font-family: var(--sans); font-size: .85rem; color: var(--muted); }

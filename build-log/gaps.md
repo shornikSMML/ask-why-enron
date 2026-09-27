@@ -67,3 +67,18 @@ The coordinator merged the agents' own gap files (`work/facts/*-gaps.md`, which 
 | 29 | What later happened to David Duncan's 2002 guilty plea (the library shows the plea but not its date, any sentence, or any later development). The Fact-Checker notes, from memory only, that the plea may have been withdrawn after the 2005 reversal of Andersen's conviction. This must not appear on the site without a source. | Court order or DOJ statement in U.S. v. Duncan (S.D. Tex.); likely PACER | critical | Fact-Checker | open |
 | 30 | Kopper's sentence | DOJ press release or judgment, U.S. v. Kopper | useful | Reader B | open |
 | 31 | The sentence actually imposed on Skilling after the 2013 agreement | Judgment or DOJ press release (2013) | useful | Reader B | open (DOJ page blocked by a bot check; owner may save it from a browser) |
+
+## Phase 2 (post-2003)
+
+Raised by the coordinator's Phase 2 brief to the Source Scout (for "Why This Matters to You"). Candidates are in `sources/candidates/phase2/` and may not be cited until the owner approves them.
+
+| # | Claim we wanted to make | Kind of document that would support it | Importance | Raised by | Status |
+|---|---|---|---|---|---|
+| P2-1 | What auditors must do when auditing a company's internal control over financial reporting (current rules) | PCAOB Auditing Standard No. 5 (2007) or its current codified version, AS 2201 | useful | Coordinator (Phase 2 brief) | candidate: pcaob-as2201-current (current version; 2007 original release located, not downloaded) |
+| P2-2 | What management's internal control report (SOX §404) must contain, per the SEC's 2003 rule | SEC final rule Rel. 33-8238 (2003) | useful | Coordinator (Phase 2 brief) | candidate: sec-33-8238-icfr-final-rule |
+| P2-3 | What CEOs and CFOs must certify (SOX §302), per the SEC's 2002 rule | SEC final rule Rel. 33-8124 (2002) | useful | Coordinator (Phase 2 brief) | candidate: sec-33-8124-certification-final-rule |
+| P2-4 | The SEC's 2007 guidance to management on evaluating internal control | SEC interpretive release Rel. 33-8810 (2007) | useful | Coordinator (Phase 2 brief) | candidate: sec-33-8810-icfr-guidance-2007 |
+| P2-5 | The SEC's 2003 auditor independence rules implementing SOX Title II | SEC final rule Rel. 33-8183 (2003) | useful | Coordinator (Phase 2 brief) | candidate: sec-33-8183-auditor-independence (a published correction exists; not downloaded) |
+| P2-6 | Effects of SOX on smaller companies and on audit-market concentration after 2003 | GAO reports (e.g. GAO-06-361, GAO-08-163) | useful | Coordinator (Phase 2 brief) | candidate: gao-06-361; candidate: gao-08-163 |
+| P2-7 | The Supreme Court's 2010 ruling on the PCAOB's constitutionality | *Free Enterprise Fund v. PCAOB*, 561 U.S. 477 (2010) | useful | Coordinator (Phase 2 brief) | candidate: free-enterprise-fund-v-pcaob-usreports (govinfo U.S. Reports; supremecourt.gov slip-opinion URL returned 404) |
+| P2-8 | The Dodd-Frank whistleblower program (§§922–924) and the §404(b) exemption for small companies, section text | Dodd-Frank Act (Pub. L. 111-203) section text, or the U.S. Code sections it created/amended | minor | Coordinator (Phase 2 brief) | partial. candidate: usc-15-78u-6-2024 (§922 as codified); candidate: usc-15-7262-2024 (§404 as amended, incl. the exemption). §§923–924 not collected (10-candidate limit reached); Act's own session-law text not downloaded (whole Act only) |

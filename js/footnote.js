@@ -62,7 +62,7 @@
       annos.push(s.a);
       var k = annos.length;
       html += esc(text.slice(pos, s.start)) +
-        '<mark class="anno" tabindex="0" role="button" data-anno="' + esc(s.a.id) + '" aria-label="Annotation ' + k + '">' +
+        '<mark class="anno" id="' + esc(s.a.id) + '" tabindex="0" role="button" data-anno="' + esc(s.a.id) + '" aria-label="Annotation ' + k + '">' +
         esc(text.slice(s.start, s.end)) + "<sup>" + k + "</sup></mark>";
       pos = s.end;
     });

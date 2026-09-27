@@ -18,6 +18,17 @@
     return p.length === 2 ? m + " " + p[0] : m + " " + parseInt(p[2], 10) + ", " + p[0];
   }
   items.sort(function (a, b) { return String(a.date).localeCompare(String(b.date)); });
+  // Stable anchors for pathways: an item's own id if it has one, else "tl-" + date,
+  // with -2, -3... for a second or third item on the same date (in date order).
+  var usedIds = {};
+  function itemId(it) {
+    if (it._id) return it._id;
+    var base = it.id ? String(it.id) : "tl-" + String(it.date || "undated"), id = base, k = 2;
+    while (usedIds[id]) id = base + "-" + k++;
+    usedIds[id] = true;
+    it._id = id;
+    return id;
+  }
 
   var years = [], byYear = {}, tags = {};
   items.forEach(function (it) {
@@ -30,7 +41,7 @@
   host.innerHTML = years.map(function (y) {
     return '<section class="tl-section" data-year="' + y + '"><h2 class="tl-year" id="y' + y + '">' + y + '</h2><ol class="tl-list">' +
       byYear[y].map(function (it) {
-        return '<li class="tl-item' + (it.epilogue ? " epilogue" : "") + '" data-tags="' + esc((it.tags || []).join(" ")) + '">' +
+        return '<li class="tl-item' + (it.epilogue ? " epilogue" : "") + '" id="' + esc(itemId(it)) + '" data-tags="' + esc((it.tags || []).join(" ")) + '">' +
           '<span class="date">' + esc(fmt(it.date)) + "</span>" +
           "<h3>" + esc(it.title) + "</h3>" +
           "<p>" + esc(it.text) + (it.cites || []).map(A.citeTag).join("") + "</p>" +

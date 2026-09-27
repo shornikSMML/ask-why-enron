@@ -193,19 +193,32 @@
   }
 
   // Place each margin note level with its citation, pushing down to avoid overlap.
+  // Place each margin note level with what it annotates (a citation mark, or for a
+  // lens note its paragraph: note._anchor), pushing down to avoid overlap.
+  function noteAnchor(note) {
+    if (note._anchor) return note._anchor;
+    var n = note.id.replace("mnote-", "");
+    return document.querySelector('a.cite[data-n="' + n + '"]');
+  }
   function layoutMarginNotes() {
     var col = document.querySelector(".margin-notes");
     if (!col) return;
     if (!wideEnoughForMargins()) { col.style.minHeight = ""; return; }
     var colTop = col.getBoundingClientRect().top;
     var lastBottom = 0;
-    Array.prototype.forEach.call(col.querySelectorAll(".note"), function (note) {
-      var n = note.id.replace("mnote-", "");
-      var a = document.querySelector('a.cite[data-n="' + n + '"]');
-      if (!a) return;
-      var top = Math.max(a.getBoundingClientRect().top - colTop - 4, lastBottom + 10);
-      note.style.top = top + "px";
-      lastBottom = top + note.offsetHeight;
+    var items = [];
+    Array.prototype.forEach.call(col.querySelectorAll(".note"), function (note, i) {
+      var a = noteAnchor(note);
+      if (!a || !a.isConnected) { note.style.display = "none"; return; }
+      note.style.display = "";
+      // lens notes sit beside the top of their paragraph and before same-height citations
+      items.push({ note: note, top: a.getBoundingClientRect().top - colTop - 4, order: note._anchor ? 0 : 1, i: i });
+    });
+    items.sort(function (x, y) { return (x.top - y.top) || (x.order - y.order) || (x.i - y.i); });
+    items.forEach(function (it) {
+      var top = Math.max(it.top, lastBottom + 10);
+      it.note.style.top = top + "px";
+      lastBottom = top + it.note.offsetHeight;
     });
     col.style.minHeight = lastBottom + "px";
   }
@@ -380,13 +393,28 @@
     }
   }
 
-  /* ---------- Phase 2 hook: lenses ---------- */
-  // Paragraphs carry data-lens="money auditors board knew". Phase 2 will style
-  // and toggle them; for now this only records the active lens.
+  /* ---------- lenses ---------- */
+  // Fallback only. On chapter pages js/lenses.js replaces window.applyLens and
+  // AskWhy.applyLens with the full version (bar, notes, summary, URL, keys).
   function applyLens(name) {
     var html = document.documentElement;
     if (!name) html.removeAttribute("data-lens"); else html.setAttribute("data-lens", name);
     return document.querySelectorAll(name ? '[data-lens~="' + name + '"]' : "[data-lens]").length;
+  }
+
+  /* ---------- heading anchors (for pathways and sharing) ---------- */
+  // Every chapter heading without an id gets one from its text:
+  // "The Raptors" -> #the-raptors, "\"Many push limits\"" -> #many-push-limits.
+  function slug(text) {
+    return String(text || "").toLowerCase().replace(/[\u2018\u2019'"\u201c\u201d]/g, "")
+      .replace(/&/g, " and ").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 60) || "section";
+  }
+  function headingIds() {
+    Array.prototype.forEach.call(document.querySelectorAll("#chapter h2:not([id]), #chapter h3:not([id])"), function (h) {
+      var base = slug(h.textContent), id = base, k = 2;
+      while (document.getElementById(id)) id = base + "-" + k++;
+      h.id = id;
+    });
   }
 
   /* ---------- init ---------- */
@@ -399,6 +427,7 @@
   function init() {
     setupHeader();
     buildChapterNav();
+    headingIds();
     if (/[?&]cards\b/.test(location.search)) body.classList.add("show-cards");
     enhance(document);
 
@@ -433,10 +462,14 @@
     imageElement: imageElement,
     findImage: findImage,
     enhance: enhance,
+    isNarrow: isNarrow,
+    isTyping: isTyping,
+    wideEnoughForMargins: wideEnoughForMargins,
     layoutMarginNotes: layoutMarginNotes,
     openPopover: openPopover,
     closePopover: closePopover,
-    applyLens: applyLens
+    applyLens: applyLens,
+    slug: slug
   };
   window.applyLens = applyLens;
 

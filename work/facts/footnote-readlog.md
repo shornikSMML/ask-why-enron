@@ -17,3 +17,15 @@ The fingerprint of every file below was checked with `sha256sum` against `source
 - All 125 quotations in `work/drafts/footnote.json` were checked automatically against the source text (whitespace and quote marks normalized). Batson quotations come from OCR text and were also compared with the page images.
 - Paragraph text of Note 16 was copied from the 10-K programmatically: lines were joined and runs of spaces collapsed. There are no other changes.
 - No web use.
+
+## Phase 2 ("Other notes in the same report", brief 27), 2026-09-27
+Fingerprints re-checked: enron-10k-2000, enron-10q-q3-2001, rpt-sga-watchdogs, all MATCH.
+- enron-10k-2000: note headings (grep); Note 1 lines 4091-4242; Note 3 lines 4410-4520; Note 4 lines 4634-4690; Note 9 lines 5014-5151; Note 10 lines 5168-5195; Note 11 lines 5324-5334; Note 15 lines 5793-5856; MD&A lines 2946-2960; Item 7A lines 3110-3119.
+- enron-10q-q3-2001: lines 700-750, 1543-1563, 2118-2205, 5174.
+- enron-8k-nov-2001: lines 51-75, 275-292.
+- powers-report-sec: lines 2266-2295 (JEDI).
+- rpt-psi-board (text): PDF pp. 19, 24.
+- rpt-sga-watchdogs (text): PDF pp. 33-34.
+- batson-final: PDF p. 21, page image checked for the FAS 140 and 96% quotes.
+- Cards used (all OK or FIXED): N-001 to N-032 (checker notes read), A-020, A-030, A-046, A-058, A-067, A-068, A-070, A-080, A-081, A-083.
+- All excerpts were checked by script as exact substrings of the cited 10-K/10-Q lines, and all cite quotes were checked against their sources.

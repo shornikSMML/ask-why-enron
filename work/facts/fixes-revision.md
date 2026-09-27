@@ -556,3 +556,119 @@ Fact-Checker recommendations under "## Revision pass" in `work/facts/factcheck-r
 
 > agreed to recommend a guidelines range of 168 to 210 months
 
+
+## Reference Writer: revision-pass final fixes
+
+Fixes R-1 to R-5 from "## Revision pass: final" in `work/facts/factcheck-round3-partB.md`, applied directly to the data files. Nothing else changed.
+- **R-1:** every G-card citation's `page` now equals its card's corrected `pdf_page`. A check of all 46 G-card citations found no mismatches and no non-numeric pages.
+- **R-2 to R-5:** applied as worded by the Fact-Checker.
+
+**F1. `js/cast-data.js` · jeffrey-skilling · cite G-024 page**
+
+- Old: 1-2, 16
+- New: 16
+- Why: R-1: single PDF page from corrected card
+
+**F2. `js/cast-data.js` · jeffrey-skilling · cite G-025 page**
+
+- Old: 2, 16
+- New: 16
+- Why: R-1: single PDF page from corrected card
+
+**F3. `js/cast-data.js` · jeffrey-skilling · cite G-026 page**
+
+- Old: 1-2
+- New: 2
+- Why: R-1: single PDF page from corrected card
+
+**F4. `js/cast-data.js` · jeffrey-skilling · cite G-027 page**
+
+- Old: 2-3
+- New: 2
+- Why: R-1: single PDF page from corrected card
+
+**F5. `js/cast-data.js` · arthur-andersen · cite G-015 page**
+
+- Old: 1, 6-7
+- New: 6
+- Why: R-1: single PDF page from corrected card
+
+**F6. `js/cast-data.js` · joseph-berardino · cite G-031 page**
+
+- Old: 1, 5, 7
+- New: 1
+- Why: R-1: single PDF page from corrected card
+
+**F7. `js/cast-data.js` · joseph-berardino · cite G-032 page**
+
+- Old: 119, 121-122
+- New: 122
+- Why: R-1: single PDF page from corrected card
+
+**F8. `js/cast-data.js` · david-duncan · outcome_status**
+
+- Old: pleaded guilty
+- New: pleaded guilty (2002); later history not in library
+- Why: R-2
+
+**F9. `js/cast-data.js` · david-duncan · outcome_text**
+
+- Old: he consented, subject to court approval, to a permanent injunction against violating the antifraud laws and to a permanent suspension from practicing before the SEC as an accountant.
+- New: he consented to a permanent injunction against violating the antifraud laws (subject to court approval) and to an order permanently suspending him from practicing before the SEC as an accountant.
+- Why: R-3
+
+**F10. `js/cast-data.js` · michael-kopper · outcome_text**
+
+- Old: He added that the charging document
+- New: The Deputy Attorney General added that the charging document
+- Why: R-5
+
+**F11. `js/timeline-data.js` · 2002-03-07 Andersen is indicted · cite G-015 page**
+
+- Old: 1, 6-7
+- New: 6
+- Why: R-1: single PDF page from corrected card
+
+**F12. `js/timeline-data.js` · 2006-05-25 Lay and Skilling are convicted · cite G-026 page**
+
+- Old: 1-2
+- New: 2
+- Why: R-1: single PDF page from corrected card
+
+**F13. `js/timeline-data.js` · 2011-04-06 Epilogue: Skilling's convictions stand · cite G-024 page**
+
+- Old: 1-2, 16
+- New: 16
+- Why: R-1: single PDF page from corrected card
+
+**F14. `js/timeline-data.js` · 2011-04-06 Epilogue: Skilling's convictions stand · cite G-025 page**
+
+- Old: 2, 16
+- New: 16
+- Why: R-1: single PDF page from corrected card
+
+**F15. `js/timeline-data.js` · 2011-04-06 Epilogue: Skilling's convictions stand · cite G-026 page**
+
+- Old: 1-2
+- New: 2
+- Why: R-1: single PDF page from corrected card
+
+**F16. `js/timeline-data.js` · 2013-05-08 Epilogue: a sentencing agreement · cite G-027 page**
+
+- Old: 2-3
+- New: 2
+- Why: R-1: single PDF page from corrected card
+
+**F17. `js/timeline-data.js` · 2013-05-08 Epilogue: a sentencing agreement · text**
+
+- Old: agreed to jointly recommend a sentence of 168 to 210 months
+- New: agreed to jointly recommend a sentencing range of 168 to 210 months
+- Why: R-4
+
+**F18. `js/glossary-data.js` · harmless-error · cite G-024 page**
+
+- Old: 1-2, 16
+- New: 16
+- Why: R-1: single PDF page from corrected card
+
+After the changes: `integrate.py --no-log` reported 0 problems and `test_site.py` reported 0 problems.

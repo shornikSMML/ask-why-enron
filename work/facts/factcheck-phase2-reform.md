@@ -1,0 +1,69 @@
+# Fact-Checker (instance C), Phase 2: "Why This Matters to You" and the SOX map diagram
+
+I checked two items:
+- `work/drafts/why-it-matters.html`, built from `work/drafts/reform-src/why-it-matters.src.html`. It has 71 citations to 70 distinct cards.
+- `images/diagram-sox-map.svg` and `images/diagram-sox-map-narrow.svg`, with the fact cards listed for them in `images/credits.json`.
+
+I edited neither file. I used no web.
+
+Method:
+- I read every sentence against its card. Where a card was not enough, I read the source itself: the statute text, S. Rept. 107-205, the Powers Report (lines 900-915), the PSI board report (p. 50, PDF 54) and the other library files named below.
+- I re-ran `expand.py` into scratch. The output is identical to `why-it-matters.html`, so the page matches its source.
+- The diagram fingerprints match `credits.json`: `sha256` 2582826... and `narrow_sha256` a1aa660....
+- As instructed, I ignored the six new glossary terms.
+
+## Verdicts
+
+| Item | Verdict |
+|---|---|
+| `why-it-matters.html` | **PASS WITH FIXES.** There are no high-severity problems. Items 1-14 below must be fixed before the page ships (medium) or should be fixed (low). |
+| `diagram-sox-map.svg` / `-narrow.svg` | **PASS WITH FIXES.** Items 15-19. The wide and narrow versions have identical text, so each fix applies to both. |
+
+## What passed
+
+- **§201 (ruling 1):** the page says "eight named ... plus any other service the PCAOB bans by rule" and gives the SEC's "eight categories" in parentheses with attribution. The diagram uses the same wording. Correct.
+- **§402 (ruling 2):** the page follows the statute ("with exceptions set out in the statute"). It does not use CRS's "of any kind". Correct. The diagram does not cover §402.
+- **§807 (ruling 3):** both the page and the diagram give 25 years (statute) and Daschle's "10-year felony" (floor). Neither explains the change. Correct.
+- **Lay's figures (ruling 4):** the Wall Street Journal-based "$70 million" is not used. The page uses the PSI report's "over $77 million ... October 2000 to October 2001", attributed to the subcommittee's report and with its time period. It does not merge figures from other sources. Correct, apart from the citation locator (item 5). The diagram does not use a Lay figure.
+- **No post-2003 facts:** the latest dated facts are April 25, 2003 (PCAOB, C-081) and July 2003 (GAO, S-023). The "today" section says plainly that the library stops at 2003. The one remaining problem is present-tense advice (items 10-13).
+- **Andersen's conviction** is mentioned once, and in the same sentence as the 2005 reversal (C-038 with G-018). The diagram does not mention Andersen.
+- **Verbs:**
+  - Statute paragraphs use "requires" or equivalent operative verbs.
+  - Floor statements (S-065, S-070, S-071, S-076) use "said" or "described".
+  - Prepared statements (S-030, S-038) use "said".
+  - The indictment (G-016) uses "alleged".
+  - The examiner (C-031) uses "concluded".
+  - The committee report uses "stated".
+- **Tone:** neutral throughout. The page uses "use" rather than the PSI finding's word "abuse" (B-016), which is acceptable because the quoted finding is not being reproduced. Nothing is sensational.
+- **Cards:** every cited card is checked OK or FIXED. All quotes match their cards verbatim.
+
+## Findings
+
+| # | Location | Problem | Source | Required fix | Severity |
+|---|---|---|---|---|---|
+| 1 | Page, §302 "The Enron problem": "It also found that Lay, as chief executive, bore ultimate responsibility.{{A-062}}" | Overstates the finding about a real person. Powers says Lay "had the ultimate responsibility for taking reasonable steps to ensure that the officers reporting to him performed their oversight duties properly" and that "a large measure of the responsibility rests with the CEO". It does not say he bore ultimate responsibility without qualification. | powers-report-sec lines 906-912 (Exec. Summary, p. 19) | Write: "It also found that Lay, as chief executive, had 'the ultimate responsibility' for making sure the officers reporting to him carried out their oversight of the partnerships." | medium |
+| 2 | Page, PCAOB "The Enron problem": "Witnesses said inspections 'must no longer be left to peer reviews ...'{{S-017}}" | The quoted words are the committee report's paraphrase, not a witness's words. The report says: "A number of witnesses emphasized, for example, that inspections must no longer be left to ..." | sox-srpt-107-205 p. 7 (PDF 11), lines 595-598 | Write: "The Senate committee's report said a number of witnesses emphasized that inspections 'must no longer be left to ...'" | medium |
+| 3 | Page, §404 "The Enron problem": "the Senate report noted that GAO had recommended ... in 1996, and that the SEC had not adopted it.{{S-050}}" | The report quotes former Comptroller General Bowsher saying this. It is not the committee's own statement. | sox-srpt-107-205 p. 31 (PDF 35), lines 2104-2119 | Write: "the Senate report quoted former Comptroller General Charles Bowsher, who said GAO had recommended ... in 1996 and the SEC had not adopted it." | medium |
+| 4 | Page, independence "What it means for you": "If you are ever offered a senior finance job at a company you audited, the cooling-off rule applies to you." | This misstates §206 and presents it as a current rule. The ban falls on the audit firm, not the employee. It covers only the CEO, CFO, controller, chief accounting officer or equivalent, only someone who worked on that audit, and only within one year. Other "senior finance jobs" are not covered. | sox-plaw-html Sec. 206, lines 1898-1906; S-037, S-040 | Example: "Under the 2002 law, if someone who worked on the audit becomes the company's CEO, CFO, controller or chief accounting officer within a year, the firm may not keep auditing that company." | medium |
+| 5 | Page, §402 paragraph, B-016 citation | The citation points to p. 3 (PDF 7), the finding. The "$77 million, October 2000 to October 2001, repaid with Enron stock" detail is on p. 50 (PDF 54). A reader following the link will not find the figure. | rpt-psi-board p. 50 (PDF 54), text lines ~3276-3280 (verified) | Add a second citation for the figure: `{{B-016@p. 50, Board oversight of Lay's credit line#54}}`. Keep the p. 3 citation for the finding. | medium |
+| 6 | Page, §404 "What it means for you": "Many entry-level jobs involve carrying out, testing, or documenting controls ..." | A specific claim about current job practice with no library source. | none in library | Soften to a general statement, e.g. "Jobs in finance and accounting can involve carrying out or checking controls, such as ..." | medium |
+| 7 | Page, PCAOB "What the law requires": "Once the Board was running, it became illegal for an unregistered firm ...{{S-004}}" | Imprecise. Registration became mandatory 180 days after the SEC's Sec. 101(d) determination, not when the Board started running. | sox-plaw-html Sec. 102(a), lines 571-575 | Write: "Starting 180 days after the SEC declared the Board ready, it became illegal ..." Don't give a calendar date (the date is arithmetic only; see S-004). | low |
+| 8 | Page, §404 "What the law requires": "A separate section requires every audit report to describe the auditor's testing of internal controls.{{S-006}}" | Sec. 103 requires the PCAOB's auditing standards to include this requirement. The Act does not impose it directly. | sox-plaw-html Sec. 103(a)(2)(A)(iii), lines 692-713 | Write: "Section 103 requires the Board's auditing standards to make every audit report describe ..." | low |
+| 9 | Page, §401 sentence: "Section 401 requires companies to disclose all material off-balance-sheet arrangements ...{{S-052}}" | The section requires the SEC to issue rules within 180 days that make reports disclose them. | sox-plaw-html Sec. 401(a), lines 2598-2608 | Write: "Section 401 requires the SEC to issue rules making companies disclose ..." | low |
+| 10 | Page, §302 "What it means for you": "Expect them to ask how you got those numbers." | A prediction about current workplace practice. | none | Write: "They may ask how you got those numbers." | low |
+| 11 | Page, PCAOB "What it means for you": "the 2002 law means your firm's work can be inspected by outsiders" | Present tense describes current practice. It is acceptable only as a statement of the 2002 law. | S-008; "today" section | Write: "under the 2002 law, your firm's work could be inspected by the Board ..." The scholarship sentence is fine. Optionally add "if Congress funds it" to match S-013. | low |
+| 12 | Page, whistleblower "What it means for you": "this one made punishing people for it illegal" | Scope is left out. §806 covers employees of public companies, reports through the channels it names, and gives a civil remedy. | sox-plaw-html Sec. 806; C-080, S-069 | Write: "... made it illegal for a public company to punish employees for reporting through those channels." | low |
+| 13 | Page, independence "The Enron problem": "Andersen's witnesses testified that much of the so-called consulting was audit-type work.{{C-020}}" | Per C-020, partner Michael Odom said this. C.E. Andrews testified only that audit-related fees were $25 million, "essentially half". | hrg-hec-andersen-shredding p. 178 (C-020) | Write: "An Andersen partner testified that much of the so-called consulting was audit-type work." | low |
+| 14 | Page, independence "The Enron problem": "Andersen's own policy rotated the lead partner after seven years, not five.{{C-036}}" and "{{S-026}} ... 73 percent of accounting firms' total fees" | (a) The first sentence has no attribution. The source is the examiner's account of Audit Committee minutes. (b) S-026 says "on average". | batson-final-app-b-part2 p. 131 (C-036); sox-srpt-107-205 p. 15 (S-026) | (a) Add "according to the bankruptcy examiner's report". (b) Write "on average, 73 percent". | low |
+| 15 | Diagram row 2, problem: "No required yearly report on whether a company's internal controls work" | Too broad. The same Senate report says banks had faced a similar requirement since 1991 (FDI Act Sec. 36). The problem was that the SEC had not adopted GAO's 1996 recommendation for public companies. | sox-srpt-107-205 p. 31 (PDF 35), lines 2104-2129 (S-050) | Write: "No required yearly report on whether a public company's internal controls work" (or "for most public companies"). | medium |
+| 16 | Diagram row 5, §806: "can complain to the Labor Department within 90 days, then go to court" | Suggests a free choice to go to court. Court is available only if Labor has not decided within 180 days. | sox-plaw-html Sec. 806, 1514A(b)(1)(B), lines 3706-3713 (S-069) | Write: "... within 90 days; if there is no decision in 180 days, can go to court". | medium |
+| 17 | Diagram row 4, §202: "The audit committee must approve in advance every service the auditor provides" | Leaves out the small de minimis exception for non-audit services. | sox-plaw-html Sec. 202, 10A(i)(1)(B) (S-033) | Add "(with a small exception)" or "almost every service". | low |
+| 18 | Diagram row 5, §802: "Two new crimes for destroying or falsifying records; auditors must keep audit work papers 5 years" | Blurs the two crimes. §802's two new crimes are 18 U.S.C. 1519 (destroying or falsifying records) and 1520 (auditors failing to keep work papers). | sox-plaw-html Sec. 802 (C-079); S-065 | Write: "Two new crimes: destroying or falsifying records (up to 20 years), and auditors failing to keep audit work papers for 5 years (§802)." | low |
+| 19 | Page `<figcaption>` for the diagram: "The parts of Sarbanes-Oxley on this page, and the Enron problems each one answers." | The diagram covers five parts. It leaves out §§401, 402 and 1102, which the page discusses. Its problem column summarizes congressional statements (the diagram's own footer says so). | diagram footer | Write: "Five parts of Sarbanes-Oxley covered on this page, and the problems lawmakers and witnesses linked to each." | low |
+
+## Notes (no fix required)
+
+- **Diagram row 4, "Audit partners must rotate (§203)":** this gives no period. Adding "after 5 years" would be accurate, per C-075 (statute lines 1802-1812).
+- **Diagram footer and credits:** these match the sources used. `fact_cards` in `credits.json` covers every row.
+- **Page placement of §§401 and 402:** they sit under the §404 heading. The text introduces them as "Two related rules", which is acceptable. The editor may prefer a separate subsection.
+- **C-021:** the examiner also uses $47.9 million for 2000 fees (Final Report p. 39). The page says "Sources give different figures" and links to Chapter 6, which is sufficient.

@@ -156,3 +156,5 @@
 {"time": "2026-09-27T01:20:38Z", "type": "handoff", "from": "Reform Writer", "to": "Fact-Checker (Part C)", "what": "Why It Matters page and SOX map diagram"}
 {"time": "2026-09-27T01:20:38Z", "type": "handoff", "from": "Story Writer, Reform Writer, Footnote Annotator", "to": "Reference Writer", "what": "13 new glossary terms"}
 {"time": "2026-09-27T01:22:06Z", "type": "agent_finish", "agent_id": "lens", "inputs": ["F-022, F-023"], "outputs": ["lenses.json and js/lenses-data.js rebuilt"], "decision": "accepted", "reason": "Final citations added per the Fact-Checker; all seven chapters now PASS for lenses."}
+{"time": "2026-09-27T01:23:18Z", "type": "review", "agent_id": "factcheck-c", "reviewed": "Why It Matters page and SOX map diagram", "result": "Both pass after fixes: page 14 (6 medium, 8 low) plus 1 caption; diagram 4 (2 medium). Rulings on 201, 402, 807, Lay and post-2003 limit all followed."}
+{"time": "2026-09-27T01:23:18Z", "type": "handoff", "from": "Fact-Checker (Part C)", "to": "Reform Writer, Image Researcher", "what": "Apply reform page and SOX map fixes"}

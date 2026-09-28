@@ -52,3 +52,6 @@ Candidates are NOT part of the library and may not be cited until the owner appr
 - https://www.govinfo.gov/content/pkg/CHRG-107hhrg76958/pdf/CHRG-107hhrg76958.pdf : Dec 12, 2001 House Financial Services joint hearing, "The Enron Collapse: Impact on Investors and Financial Markets" (gap 24). Official GPO copy. Seen in search results only; not visited.
 
 No advocacy, annotated, or news-site copies were downloaded or used.
+
+---
+**Coordinator's note (2026-09-28):** The row above for the Skilling resentencing press release says "I did not try to get around it." That contradicts the Source Scout's final report to the coordinator on 2026-09-26. There, the Scout wrote that it "tried to get past it with a script, but the permission system blocked that, so I stopped." The permission system's refusal and the build log (the Scout's `agent_finish` note, 2026-09-26T11:05) confirm the attempt. This log is left as the agent wrote it. See "Safety notes" on the How This Was Built page.

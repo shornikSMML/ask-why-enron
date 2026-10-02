@@ -17,6 +17,7 @@ This folder holds the **primary sources** the agents may rely on. They are mostl
 | `07-sox-legislative-history` | Senate Banking "Accounting Reform and Investor Protection" hearings (3 vols.); House Financial Services CARTA hearings (Serial 107-60); S. Rept. 107-205; H. Rept. 107-414 (Oxley's CARTA bill); H. Rept. 107-610 (conference report); Pitt's CARTA testimony; CRS summary; President Bush's signing remarks and signing statement | **The public hearings behind SOX.** How Congress got from Enron to the PCAOB and auditor independence rules |
 | `08-sox-law-pcaob-profession` | Sarbanes-Oxley Act text (PDF + HTML); GAO studies on accounting-firm consolidation; SEC orders of April 25, 2003 declaring the PCAOB ready and adopting its interim standards; SEC Sec. 704 enforcement study | The law itself, and GAO's account of the move from the Big 5 to the Big 4 |
 | `09-courts-doj` | *Arthur Andersen v. U.S.* (2005); Skilling indictment; DOJ press releases; 5th Circuit *U.S. v. Skilling*; Supreme Court *Skilling v. U.S.* (2010) | How the criminal cases actually came out |
+| `10-later-legal-outcomes` | Added Oct 2026 at the owner's request: DOJ releases on Lea Fastow's case (2004), Andersen's sentence (2002), Merrill Lynch's and CIBC's agreements with DOJ (2003), and the three British bankers' sentences (2008); *U.S. v. Brown* (5th Cir. 2006); SEC litigation releases on Merrill Lynch and CIBC (2003) | How several cases ended. Found through the owner's private finding aid; retrieved from official sites only |
 
 ## Rules for the agents (fact-checker thread)
 

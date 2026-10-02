@@ -50,7 +50,7 @@ window.GAPS = {
      "Claim we wanted to make": "Andersen's 2002 obstruction indictment and verdict from primary documents, and what happened after the 2005 reversal",
      "Kind of document that would support it": "DOJ press releases; verdict or judgment, U.S. v. Arthur Andersen LLP (S.D. Tex., No. H-02-121); DOJ statement after remand",
      "Raised by": "Reader B, Reader C (also in sources/README \"Still to find\")",
-     "Status": "partial. candidate: doj-andersen-indictment-2002; candidate: andersen-scotus-full-usreports (the reversal). DOJ verdict statement (justice.gov/archive/opa/pr/2002/June/02_dag_356.htm) located but the server refused it (HTTP 401) on 3 tries. Verdict/judgment and the Nov 2005 government motion not to retry: paywalled: PACER; no official DOJ release found"
+     "Status": "partial. candidate: doj-andersen-indictment-2002; candidate: andersen-scotus-full-usreports (the reversal). DOJ verdict statement (justice.gov/archive/opa/pr/2002/June/02_dag_356.htm) located but the server refused it (HTTP 401) on 3 tries. Verdict/judgment and the Nov 2005 government motion not to retry: paywalled: PACER; no official DOJ release found. Round 3: candidate: doj-dag-statement-andersen-sentence-2002-10-16 (sentencing)"
     }
    ]
   },
@@ -70,7 +70,7 @@ window.GAPS = {
      "Claim we wanted to make": "Kopper's plea (currently seen only second-hand) and sentence",
      "Kind of document that would support it": "DOJ press releases or plea agreement, U.S. v. Kopper (2002)",
      "Raised by": "Reader A, Reader B",
-     "Status": "partial. candidate: doj-dag-kopper-plea-transcript-2002 (plea only; sentence not searched (10-candidate limit reached))"
+     "Status": "partial. candidate: doj-dag-kopper-plea-transcript-2002 (plea only; sentence not searched (10-candidate limit reached)). Round 3: sentencing release not found in DOJ national archive indexes Aug 2006–Mar 2007"
     },
     {
      "#": "7",
@@ -98,28 +98,28 @@ window.GAPS = {
      "Claim we wanted to make": "Why Dynegy ended the merger (Nov 28, 2001), in a primary filing",
      "Kind of document that would support it": "Enron or Dynegy 8-K of late Nov 2001; Enron's Dec 2001 complaint against Dynegy",
      "Raised by": "Reader A",
-     "Status": "not searched (10-candidate limit reached)"
+     "Status": "Round 3: sec.gov (EDGAR) refused requests (403, \"undeclared automated tool\"); not retrieved"
     },
     {
      "#": "11",
      "Claim we wanted to make": "Enron's Oct 16, 2001 earnings press release (the $618M loss and $1.01B charges; reconciling the $544M vs. $462M after-tax figures)",
      "Kind of document that would support it": "The press release as filed with the SEC (8-K exhibit), if any",
      "Raised by": "Reader A",
-     "Status": "not searched (10-candidate limit reached)"
+     "Status": "Round 3: not attempted; sec.gov refused requests"
     },
     {
      "#": "12",
      "Claim we wanted to make": "How the SEC civil cases ended (Lay, Skilling, Causey, Fastow, Duncan, Merrill executives)",
      "Kind of document that would support it": "SEC litigation releases (e.g. 18543, 19996, 20441, 21523)",
      "Raised by": "Reader B",
-     "Status": "partial (Duncan only): candidate: sec-duncan-litrel-20441. Others not searched (10-candidate limit reached)"
+     "Status": "partial (Duncan only): candidate: sec-duncan-litrel-20441. Others not searched (10-candidate limit reached). Round 3: Merrill Lynch release (lr18038, unverified number) refused by sec.gov (403); not retrieved"
     },
     {
      "#": "13",
      "Claim we wanted to make": "Names and outcomes of the Merrill Lynch employees in the Nigerian barge case (convicted, then reversed, per the Fifth Circuit)",
      "Kind of document that would support it": "U.S. v. Brown, 459 F.3d 509 (5th Cir. 2006)",
      "Raised by": "Reader B",
-     "Status": "not searched (10-candidate limit reached)"
+     "Status": "candidate: ca5-us-v-brown-2006 (round 3)"
     },
     {
      "#": "14",
@@ -140,7 +140,7 @@ window.GAPS = {
      "Claim we wanted to make": "Outcome of the Labor Department's 401(k) investigation; official lockdown dates (the sources disagree)",
      "Kind of document that would support it": "DOL press release; plan notice; court finding in the ERISA litigation",
      "Raised by": "Reader C",
-     "Status": "not searched (10-candidate limit reached)"
+     "Status": "Round 3: dol.gov refused the request (403 \"Access Denied\"); not retrieved"
     },
     {
      "#": "17",
@@ -304,7 +304,7 @@ window.GAPS = {
      "Kind of document that would support it": "DOJ press release or judgment, U.S. v. Kopper",
      "Importance": "useful",
      "Raised by": "Reader B",
-     "Status": "open"
+     "Status": "open. Round 3: not found in DOJ national archive indexes Sept–Nov 2006 (also Aug 2006, Dec 2006–Mar 2007); may exist only as a U.S. Attorney release"
     },
     {
      "#": "31",
@@ -393,6 +393,78 @@ window.GAPS = {
      "Importance": "minor",
      "Raised by": "Coordinator (Phase 2 brief)",
      "Status": "partial. candidate: usc-15-78u-6-2024 (§922 as codified); candidate: usc-15-7262-2024 (§404 as amended, incl. the exemption). §§923–924 not collected (10-candidate limit reached); Act's own session-law text not downloaded (whole Act only)"
+    }
+   ]
+  },
+  {
+   "title": "Round 3 (documents identified by the owner)",
+   "intro": [
+    "Targets supplied by the coordinator's round 3 brief. Candidates are in `sources/candidates/round3/` and may not be cited until the owner approves them."
+   ],
+   "columns": [
+    "#",
+    "Claim we wanted to make",
+    "Kind of document that would support it",
+    "Importance",
+    "Raised by",
+    "Status"
+   ],
+   "rows": [
+    {
+     "#": "R3-1",
+     "Claim we wanted to make": "Lea Fastow's case: what happened to her plea agreement (April 2004) and her sentence (May 2004)",
+     "Kind of document that would support it": "DOJ press releases",
+     "Importance": "useful",
+     "Raised by": "Coordinator (round 3 brief)",
+     "Status": "candidate: doj-lea-fastow-statement-2004-04-07; candidate: doj-lea-fastow-sentenced-2004-05-06"
+    },
+    {
+     "#": "R3-2",
+     "Claim we wanted to make": "The three former NatWest bankers' case: plea and sentence",
+     "Kind of document that would support it": "DOJ press releases (Nov 2007 plea; Feb 2008 sentencing)",
+     "Importance": "useful",
+     "Raised by": "Coordinator (round 3 brief)",
+     "Status": "candidate: doj-british-bankers-sentenced-2008-02-22 (Nov 2007 plea release located, not downloaded)"
+    },
+    {
+     "#": "R3-3",
+     "Claim we wanted to make": "DOJ's agreements with Merrill Lynch (Sept 2003) and CIBC (Dec 2003)",
+     "Kind of document that would support it": "DOJ press releases or the agreements",
+     "Importance": "useful",
+     "Raised by": "Coordinator (round 3 brief)",
+     "Status": "candidate: doj-merrill-executives-charged-2003-09-17; candidate: doj-cibc-agreement-2003-12-22"
+    },
+    {
+     "#": "R3-4",
+     "Claim we wanted to make": "Labor Department settlement with Enron's outside directors and others, *Chao v. Enron Corp.* (May 2004); 401(k) settlement proceeds (Feb 2006)",
+     "Kind of document that would support it": "DOL press releases",
+     "Importance": "useful",
+     "Raised by": "Coordinator (round 3 brief)",
+     "Status": "dol.gov refused the request (403 \"Access Denied\"); not retrieved, not retried. Owner may save it from a browser"
+    },
+    {
+     "#": "R3-5",
+     "Claim we wanted to make": "SEC settlements with Merrill Lynch (2003) and CIBC (Dec 2003)",
+     "Kind of document that would support it": "SEC litigation or press releases",
+     "Importance": "useful",
+     "Raised by": "Coordinator (round 3 brief)",
+     "Status": "sec.gov refused requests (403 \"Request Rate Threshold Exceeded\", then \"Undeclared Automated Tool\"); not retrieved, not retried"
+    },
+    {
+     "#": "R3-6",
+     "Claim we wanted to make": "Why Dynegy ended the merger (Nov 28, 2001)",
+     "Kind of document that would support it": "Dynegy 8-K or press release (EDGAR)",
+     "Importance": "useful",
+     "Raised by": "Coordinator (round 3 brief)",
+     "Status": "sec.gov refused requests; not retrieved (see gap 10)"
+    },
+    {
+     "#": "R3-7",
+     "Claim we wanted to make": "Mark Koenig's sentence",
+     "Kind of document that would support it": "DOJ press release",
+     "Importance": "minor",
+     "Raised by": "Coordinator (round 3 brief, substitute)",
+     "Status": "not found in DOJ national archive indexes checked (Aug 2006–Mar 2007)"
     }
    ]
   }
